@@ -1,0 +1,755 @@
+{
+ "nodes": [
+  {
+   "key": "cg",
+   "parent_key": null,
+   "level": "SUBJECT",
+   "domain": "CULTURE_GENERALE",
+   "title_ar": "الثقافة العامة",
+   "title_fr": "Culture générale",
+   "scope": "GENERAL_SKILL",
+   "source_key": null,
+   "objectives": []
+  },
+  {
+   "key": "cg.tunisie-histoire",
+   "parent_key": "cg",
+   "level": "TOPIC",
+   "domain": "CULTURE_GENERALE",
+   "title_ar": "تاريخ تونس",
+   "title_fr": "Histoire de la Tunisie",
+   "scope": "GENERAL_SKILL",
+   "source_key": null,
+   "objectives": [
+    {
+     "key": "cg.tunisie-histoire.o1",
+     "text_ar": "المراحل الكبرى لتاريخ تونس من قرطاج إلى الاستقلال",
+     "text_fr": "Situer les grandes périodes de l'histoire tunisienne, de Carthage à l'indépendance"
+    },
+    {
+     "key": "cg.tunisie-histoire.o2",
+     "text_ar": "أهم محطات الحركة الوطنية وبناء الدولة الحديثة",
+     "text_fr": "Connaître les étapes du mouvement national et de la construction de l'État moderne"
+    }
+   ]
+  },
+  {
+   "key": "cg.tunisie-geographie",
+   "parent_key": "cg",
+   "level": "TOPIC",
+   "domain": "CULTURE_GENERALE",
+   "title_ar": "جغرافيا تونس",
+   "title_fr": "Géographie de la Tunisie",
+   "scope": "GENERAL_SKILL",
+   "source_key": null,
+   "objectives": [
+    {
+     "key": "cg.tunisie-geographie.o1",
+     "text_ar": "الولايات والأقاليم والتضاريس والمناخ",
+     "text_fr": "Connaître les gouvernorats, le relief et le climat"
+    },
+    {
+     "key": "cg.tunisie-geographie.o2",
+     "text_ar": "الموارد والأنشطة الاقتصادية حسب الجهات",
+     "text_fr": "Identifier les ressources et activités économiques régionales"
+    }
+   ]
+  },
+  {
+   "key": "cg.tunisie-institutions",
+   "parent_key": "cg",
+   "level": "TOPIC",
+   "domain": "CULTURE_GENERALE",
+   "title_ar": "المؤسسات والدستور",
+   "title_fr": "Institutions et Constitution",
+   "scope": "GENERAL_SKILL",
+   "source_key": null,
+   "objectives": [
+    {
+     "key": "cg.tunisie-institutions.o1",
+     "text_ar": "تنظيم السلط حسب دستور 2022",
+     "text_fr": "Décrire l'organisation des pouvoirs selon la Constitution de 2022"
+    },
+    {
+     "key": "cg.tunisie-institutions.o2",
+     "text_ar": "التنظيم الإداري المركزي والجهوي والمحلي",
+     "text_fr": "Connaître l'organisation administrative centrale, régionale et locale"
+    }
+   ]
+  },
+  {
+   "key": "cg.tunisie-economie",
+   "parent_key": "cg",
+   "level": "TOPIC",
+   "domain": "CULTURE_GENERALE",
+   "title_ar": "الاقتصاد التونسي",
+   "title_fr": "Économie tunisienne",
+   "scope": "GENERAL_SKILL",
+   "source_key": null,
+   "objectives": [
+    {
+     "key": "cg.tunisie-economie.o1",
+     "text_ar": "المؤشرات والقطاعات الاقتصادية الأساسية",
+     "text_fr": "Connaître les principaux secteurs et indicateurs économiques"
+    },
+    {
+     "key": "cg.tunisie-economie.o2",
+     "text_ar": "المؤسسات المالية والعملة",
+     "text_fr": "Connaître les institutions financières et la monnaie"
+    }
+   ]
+  },
+  {
+   "key": "cg.monde-organisations",
+   "parent_key": "cg",
+   "level": "TOPIC",
+   "domain": "CULTURE_GENERALE",
+   "title_ar": "المنظمات الدولية والإقليمية",
+   "title_fr": "Organisations internationales",
+   "scope": "GENERAL_SKILL",
+   "source_key": null,
+   "objectives": [
+    {
+     "key": "cg.monde-organisations.o1",
+     "text_ar": "أهم المنظمات الدولية ومقراتها وأدوارها",
+     "text_fr": "Connaître les principales organisations internationales, leur siège et leur rôle"
+    }
+   ]
+  },
+  {
+   "key": "cg.monde-geographie-histoire",
+   "parent_key": "cg",
+   "level": "TOPIC",
+   "domain": "CULTURE_GENERALE",
+   "title_ar": "العالم: تاريخ وجغرافيا",
+   "title_fr": "Monde : histoire et géographie",
+   "scope": "GENERAL_SKILL",
+   "source_key": null,
+   "objectives": [
+    {
+     "key": "cg.monde-geographie-histoire.o1",
+     "text_ar": "أحداث تاريخية كبرى وجغرافيا العالم",
+     "text_fr": "Repérer les grands événements historiques et la géographie mondiale"
+    }
+   ]
+  },
+  {
+   "key": "cg.sciences",
+   "parent_key": "cg",
+   "level": "TOPIC",
+   "domain": "CULTURE_GENERALE",
+   "title_ar": "ثقافة علمية",
+   "title_fr": "Culture scientifique",
+   "scope": "GENERAL_SKILL",
+   "source_key": null,
+   "objectives": [
+    {
+     "key": "cg.sciences.o1",
+     "text_ar": "مفاهيم علمية أساسية (صحة، بيئة، تكنولوجيا)",
+     "text_fr": "Maîtriser des notions scientifiques de base (santé, environnement, technologie)"
+    }
+   ]
+  },
+  {
+   "key": "cg.civisme-fonction-publique",
+   "parent_key": "cg",
+   "level": "TOPIC",
+   "domain": "CULTURE_GENERALE",
+   "title_ar": "المواطنة وأخلاقيات الوظيفة العمومية",
+   "title_fr": "Citoyenneté et éthique de la fonction publique",
+   "scope": "GENERAL_SKILL",
+   "source_key": null,
+   "objectives": [
+    {
+     "key": "cg.civisme-fonction-publique.o1",
+     "text_ar": "الحقوق والحريات وواجبات المواطن",
+     "text_fr": "Connaître les droits, libertés et devoirs du citoyen"
+    },
+    {
+     "key": "cg.civisme-fonction-publique.o2",
+     "text_ar": "مبادئ المرفق العام وواجبات الموظف",
+     "text_fr": "Connaître les principes du service public et les obligations de l'agent public"
+    }
+   ]
+  },
+  {
+   "key": "cg.informatique-generale",
+   "parent_key": "cg",
+   "level": "TOPIC",
+   "domain": "CULTURE_GENERALE",
+   "title_ar": "ثقافة رقمية",
+   "title_fr": "Culture numérique",
+   "scope": "GENERAL_SKILL",
+   "source_key": null,
+   "objectives": [
+    {
+     "key": "cg.informatique-generale.o1",
+     "text_ar": "أساسيات الحاسوب والإنترنت والأمن الرقمي",
+     "text_fr": "Connaître les bases de l'informatique, d'Internet et de la cybersécurité"
+    }
+   ]
+  },
+  {
+   "key": "ar",
+   "parent_key": null,
+   "level": "SUBJECT",
+   "domain": "ARABIC",
+   "title_ar": "اللغة العربية",
+   "title_fr": "Langue arabe",
+   "scope": "GENERAL_SKILL",
+   "source_key": null,
+   "objectives": []
+  },
+  {
+   "key": "ar.nahw",
+   "parent_key": "ar",
+   "level": "TOPIC",
+   "domain": "ARABIC",
+   "title_ar": "النحو والإعراب",
+   "title_fr": "Grammaire (nahw)",
+   "scope": "GENERAL_SKILL",
+   "source_key": null,
+   "objectives": [
+    {
+     "key": "ar.nahw.o1",
+     "text_ar": "إعراب الكلمات في الجملة الاسمية والفعلية",
+     "text_fr": "Analyser la fonction des mots dans la phrase nominale et verbale"
+    },
+    {
+     "key": "ar.nahw.o2",
+     "text_ar": "النواسخ والتوابع",
+     "text_fr": "Maîtriser les nawasikh et les tawabi'"
+    }
+   ]
+  },
+  {
+   "key": "ar.sarf",
+   "parent_key": "ar",
+   "level": "TOPIC",
+   "domain": "ARABIC",
+   "title_ar": "الصرف",
+   "title_fr": "Morphologie (sarf)",
+   "scope": "GENERAL_SKILL",
+   "source_key": null,
+   "objectives": [
+    {
+     "key": "ar.sarf.o1",
+     "text_ar": "الميزان الصرفي والمشتقات",
+     "text_fr": "Identifier le schème et les dérivés"
+    }
+   ]
+  },
+  {
+   "key": "ar.imla",
+   "parent_key": "ar",
+   "level": "TOPIC",
+   "domain": "ARABIC",
+   "title_ar": "الإملاء",
+   "title_fr": "Orthographe",
+   "scope": "GENERAL_SKILL",
+   "source_key": null,
+   "objectives": [
+    {
+     "key": "ar.imla.o1",
+     "text_ar": "كتابة الهمزة والألف اللينة والتاء",
+     "text_fr": "Écrire correctement la hamza, l'alif maqsura et le ta'"
+    }
+   ]
+  },
+  {
+   "key": "ar.mufradat",
+   "parent_key": "ar",
+   "level": "TOPIC",
+   "domain": "ARABIC",
+   "title_ar": "المعجم: مرادفات وأضداد",
+   "title_fr": "Lexique : synonymes et antonymes",
+   "scope": "GENERAL_SKILL",
+   "source_key": null,
+   "objectives": [
+    {
+     "key": "ar.mufradat.o1",
+     "text_ar": "معاني الكلمات ومرادفاتها وأضدادها",
+     "text_fr": "Trouver le sens, le synonyme et l'antonyme d'un mot"
+    }
+   ]
+  },
+  {
+   "key": "ar.fahm",
+   "parent_key": "ar",
+   "level": "TOPIC",
+   "domain": "ARABIC",
+   "title_ar": "فهم المقروء",
+   "title_fr": "Compréhension écrite",
+   "scope": "GENERAL_SKILL",
+   "source_key": null,
+   "objectives": [
+    {
+     "key": "ar.fahm.o1",
+     "text_ar": "استخراج الفكرة العامة والأفكار الأساسية من نص",
+     "text_fr": "Dégager l'idée générale et les idées principales d'un texte"
+    }
+   ]
+  },
+  {
+   "key": "fr",
+   "parent_key": null,
+   "level": "SUBJECT",
+   "domain": "FRENCH",
+   "title_ar": "اللغة الفرنسية",
+   "title_fr": "Langue française",
+   "scope": "GENERAL_SKILL",
+   "source_key": null,
+   "objectives": []
+  },
+  {
+   "key": "fr.grammaire",
+   "parent_key": "fr",
+   "level": "TOPIC",
+   "domain": "FRENCH",
+   "title_ar": "القواعد",
+   "title_fr": "Grammaire",
+   "scope": "GENERAL_SKILL",
+   "source_key": null,
+   "objectives": [
+    {
+     "key": "fr.grammaire.o1",
+     "text_ar": "Accords (sujet-verbe, participe passé, adjectif)",
+     "text_fr": "Maîtriser les accords (sujet-verbe, participe passé, adjectif)"
+    },
+    {
+     "key": "fr.grammaire.o2",
+     "text_ar": "Pronoms, prépositions et types de phrases",
+     "text_fr": "Utiliser correctement pronoms, prépositions et types de phrases"
+    }
+   ]
+  },
+  {
+   "key": "fr.conjugaison",
+   "parent_key": "fr",
+   "level": "TOPIC",
+   "domain": "FRENCH",
+   "title_ar": "تصريف الأفعال",
+   "title_fr": "Conjugaison",
+   "scope": "GENERAL_SKILL",
+   "source_key": null,
+   "objectives": [
+    {
+     "key": "fr.conjugaison.o1",
+     "text_ar": "Temps de l'indicatif, subjonctif, conditionnel",
+     "text_fr": "Conjuguer aux temps de l'indicatif, du subjonctif et du conditionnel"
+    },
+    {
+     "key": "fr.conjugaison.o2",
+     "text_ar": "Concordance des temps",
+     "text_fr": "Appliquer la concordance des temps"
+    }
+   ]
+  },
+  {
+   "key": "fr.orthographe",
+   "parent_key": "fr",
+   "level": "TOPIC",
+   "domain": "FRENCH",
+   "title_ar": "الإملاء",
+   "title_fr": "Orthographe",
+   "scope": "GENERAL_SKILL",
+   "source_key": null,
+   "objectives": [
+    {
+     "key": "fr.orthographe.o1",
+     "text_ar": "Homophones grammaticaux et orthographe d'usage",
+     "text_fr": "Distinguer les homophones et maîtriser l'orthographe d'usage"
+    }
+   ]
+  },
+  {
+   "key": "fr.vocabulaire",
+   "parent_key": "fr",
+   "level": "TOPIC",
+   "domain": "FRENCH",
+   "title_ar": "المفردات",
+   "title_fr": "Vocabulaire",
+   "scope": "GENERAL_SKILL",
+   "source_key": null,
+   "objectives": [
+    {
+     "key": "fr.vocabulaire.o1",
+     "text_ar": "Synonymes, antonymes, paronymes",
+     "text_fr": "Identifier synonymes, antonymes et paronymes"
+    },
+    {
+     "key": "fr.vocabulaire.o2",
+     "text_ar": "Vocabulaire administratif",
+     "text_fr": "Maîtriser le vocabulaire administratif courant"
+    }
+   ]
+  },
+  {
+   "key": "fr.comprehension",
+   "parent_key": "fr",
+   "level": "TOPIC",
+   "domain": "FRENCH",
+   "title_ar": "فهم النص",
+   "title_fr": "Compréhension écrite",
+   "scope": "GENERAL_SKILL",
+   "source_key": null,
+   "objectives": [
+    {
+     "key": "fr.comprehension.o1",
+     "text_ar": "Idée principale, sens d'une expression",
+     "text_fr": "Dégager l'idée principale et le sens d'une expression dans un texte"
+    }
+   ]
+  },
+  {
+   "key": "en",
+   "parent_key": null,
+   "level": "SUBJECT",
+   "domain": "ENGLISH",
+   "title_ar": "اللغة الإنجليزية",
+   "title_fr": "Anglais",
+   "scope": "GENERAL_SKILL",
+   "source_key": null,
+   "objectives": []
+  },
+  {
+   "key": "en.grammar",
+   "parent_key": "en",
+   "level": "TOPIC",
+   "domain": "ENGLISH",
+   "title_ar": "القواعد",
+   "title_fr": "Grammar",
+   "scope": "GENERAL_SKILL",
+   "source_key": null,
+   "objectives": [
+    {
+     "key": "en.grammar.o1",
+     "text_ar": "Tenses, modals, conditionals",
+     "text_fr": "Use tenses, modals and conditionals correctly"
+    }
+   ]
+  },
+  {
+   "key": "en.vocabulary",
+   "parent_key": "en",
+   "level": "TOPIC",
+   "domain": "ENGLISH",
+   "title_ar": "المفردات",
+   "title_fr": "Vocabulary",
+   "scope": "GENERAL_SKILL",
+   "source_key": null,
+   "objectives": [
+    {
+     "key": "en.vocabulary.o1",
+     "text_ar": "Synonyms, collocations, common expressions",
+     "text_fr": "Recognise synonyms, collocations and common expressions"
+    }
+   ]
+  },
+  {
+   "key": "en.comprehension",
+   "parent_key": "en",
+   "level": "TOPIC",
+   "domain": "ENGLISH",
+   "title_ar": "فهم النص",
+   "title_fr": "Reading comprehension",
+   "scope": "GENERAL_SKILL",
+   "source_key": null,
+   "objectives": [
+    {
+     "key": "en.comprehension.o1",
+     "text_ar": "Main idea and details",
+     "text_fr": "Identify the main idea and key details of a short text"
+    }
+   ]
+  },
+  {
+   "key": "lo",
+   "parent_key": null,
+   "level": "SUBJECT",
+   "domain": "LOGIC",
+   "title_ar": "المنطق والاستدلال",
+   "title_fr": "Logique et raisonnement",
+   "scope": "GENERAL_SKILL",
+   "source_key": null,
+   "objectives": []
+  },
+  {
+   "key": "lo.suites-numeriques",
+   "parent_key": "lo",
+   "level": "TOPIC",
+   "domain": "LOGIC",
+   "title_ar": "المتتاليات العددية",
+   "title_fr": "Suites numériques",
+   "scope": "GENERAL_SKILL",
+   "source_key": null,
+   "objectives": [
+    {
+     "key": "lo.suites-numeriques.o1",
+     "text_ar": "استنتاج قاعدة المتتالية وإكمالها",
+     "text_fr": "Trouver la règle d'une suite et la compléter"
+    }
+   ]
+  },
+  {
+   "key": "lo.suites-lettres",
+   "parent_key": "lo",
+   "level": "TOPIC",
+   "domain": "LOGIC",
+   "title_ar": "متتاليات الحروف",
+   "title_fr": "Suites de lettres",
+   "scope": "GENERAL_SKILL",
+   "source_key": null,
+   "objectives": [
+    {
+     "key": "lo.suites-lettres.o1",
+     "text_ar": "استنتاج منطق متتالية الحروف",
+     "text_fr": "Trouver la logique d'une suite de lettres"
+    }
+   ]
+  },
+  {
+   "key": "lo.analogies",
+   "parent_key": "lo",
+   "level": "TOPIC",
+   "domain": "LOGIC",
+   "title_ar": "التشابه والعلاقات",
+   "title_fr": "Analogies",
+   "scope": "GENERAL_SKILL",
+   "source_key": null,
+   "objectives": [
+    {
+     "key": "lo.analogies.o1",
+     "text_ar": "إيجاد العلاقة بين الكلمات أو الأشكال",
+     "text_fr": "Identifier la relation entre mots ou éléments"
+    }
+   ]
+  },
+  {
+   "key": "lo.syllogismes",
+   "parent_key": "lo",
+   "level": "TOPIC",
+   "domain": "LOGIC",
+   "title_ar": "القياس المنطقي",
+   "title_fr": "Syllogismes et déduction",
+   "scope": "GENERAL_SKILL",
+   "source_key": null,
+   "objectives": [
+    {
+     "key": "lo.syllogismes.o1",
+     "text_ar": "استنتاج نتيجة صحيحة من مقدمات",
+     "text_fr": "Déduire une conclusion valide à partir de prémisses"
+    }
+   ]
+  },
+  {
+   "key": "lo.raisonnement-verbal",
+   "parent_key": "lo",
+   "level": "TOPIC",
+   "domain": "LOGIC",
+   "title_ar": "الاستدلال اللفظي",
+   "title_fr": "Raisonnement verbal",
+   "scope": "GENERAL_SKILL",
+   "source_key": null,
+   "objectives": [
+    {
+     "key": "lo.raisonnement-verbal.o1",
+     "text_ar": "حل ألغاز الترتيب والعلاقات",
+     "text_fr": "Résoudre des problèmes d'ordre et de relations"
+    }
+   ]
+  },
+  {
+   "key": "nu",
+   "parent_key": null,
+   "level": "SUBJECT",
+   "domain": "NUMERICAL",
+   "title_ar": "الحساب والاستدلال العددي",
+   "title_fr": "Calcul et raisonnement numérique",
+   "scope": "GENERAL_SKILL",
+   "source_key": null,
+   "objectives": []
+  },
+  {
+   "key": "nu.calcul",
+   "parent_key": "nu",
+   "level": "TOPIC",
+   "domain": "NUMERICAL",
+   "title_ar": "العمليات الحسابية",
+   "title_fr": "Calcul",
+   "scope": "GENERAL_SKILL",
+   "source_key": null,
+   "objectives": [
+    {
+     "key": "nu.calcul.o1",
+     "text_ar": "العمليات على الأعداد والكسور",
+     "text_fr": "Effectuer les opérations sur les nombres et les fractions"
+    }
+   ]
+  },
+  {
+   "key": "nu.pourcentages",
+   "parent_key": "nu",
+   "level": "TOPIC",
+   "domain": "NUMERICAL",
+   "title_ar": "النسب المائوية",
+   "title_fr": "Pourcentages",
+   "scope": "GENERAL_SKILL",
+   "source_key": null,
+   "objectives": [
+    {
+     "key": "nu.pourcentages.o1",
+     "text_ar": "حساب النسب والزيادات والتخفيضات",
+     "text_fr": "Calculer pourcentages, hausses et remises"
+    }
+   ]
+  },
+  {
+   "key": "nu.proportionnalite",
+   "parent_key": "nu",
+   "level": "TOPIC",
+   "domain": "NUMERICAL",
+   "title_ar": "التناسب والقاعدة الثلاثية",
+   "title_fr": "Proportionnalité et règle de trois",
+   "scope": "GENERAL_SKILL",
+   "source_key": null,
+   "objectives": [
+    {
+     "key": "nu.proportionnalite.o1",
+     "text_ar": "حل مسائل التناسب",
+     "text_fr": "Résoudre des problèmes de proportionnalité"
+    }
+   ]
+  },
+  {
+   "key": "nu.problemes",
+   "parent_key": "nu",
+   "level": "TOPIC",
+   "domain": "NUMERICAL",
+   "title_ar": "مسائل (سرعة، زمن، عمل)",
+   "title_fr": "Problèmes (vitesse, temps, travail)",
+   "scope": "GENERAL_SKILL",
+   "source_key": null,
+   "objectives": [
+    {
+     "key": "nu.problemes.o1",
+     "text_ar": "نمذجة مسألة وحلها",
+     "text_fr": "Modéliser et résoudre un problème concret"
+    }
+   ]
+  },
+  {
+   "key": "nu.geometrie-mesures",
+   "parent_key": "nu",
+   "level": "TOPIC",
+   "domain": "NUMERICAL",
+   "title_ar": "الهندسة والقيس",
+   "title_fr": "Géométrie et mesures",
+   "scope": "GENERAL_SKILL",
+   "source_key": null,
+   "objectives": [
+    {
+     "key": "nu.geometrie-mesures.o1",
+     "text_ar": "المحيط والمساحة والحجم والتحويل بين الوحدات",
+     "text_fr": "Calculer périmètres, aires, volumes et convertir les unités"
+    }
+   ]
+  },
+  {
+   "key": "ps",
+   "parent_key": null,
+   "level": "SUBJECT",
+   "domain": "PSYCHOTECH",
+   "title_ar": "الاختبارات النفسية التقنية",
+   "title_fr": "Tests psychotechniques",
+   "scope": "GENERAL_SKILL",
+   "source_key": null,
+   "objectives": []
+  },
+  {
+   "key": "ps.attention",
+   "parent_key": "ps",
+   "level": "TOPIC",
+   "domain": "PSYCHOTECH",
+   "title_ar": "الانتباه والتركيز",
+   "title_fr": "Attention et concentration",
+   "scope": "GENERAL_SKILL",
+   "source_key": null,
+   "objectives": [
+    {
+     "key": "ps.attention.o1",
+     "text_ar": "مقارنة سلاسل واكتشاف الاختلافات بسرعة",
+     "text_fr": "Comparer des séries et repérer rapidement les différences"
+    }
+   ]
+  },
+  {
+   "key": "ps.codage",
+   "parent_key": "ps",
+   "level": "TOPIC",
+   "domain": "PSYCHOTECH",
+   "title_ar": "الترميز وفك الترميز",
+   "title_fr": "Codage / décodage",
+   "scope": "GENERAL_SKILL",
+   "source_key": null,
+   "objectives": [
+    {
+     "key": "ps.codage.o1",
+     "text_ar": "تطبيق قاعدة ترميز",
+     "text_fr": "Appliquer une règle de codage"
+    }
+   ]
+  },
+  {
+   "key": "ps.spatial",
+   "parent_key": "ps",
+   "level": "TOPIC",
+   "domain": "PSYCHOTECH",
+   "title_ar": "الإدراك المكاني",
+   "title_fr": "Aptitude spatiale",
+   "scope": "GENERAL_SKILL",
+   "source_key": null,
+   "objectives": [
+    {
+     "key": "ps.spatial.o1",
+     "text_ar": "التدوير والاتجاهات والمكعبات",
+     "text_fr": "Raisonner sur rotations, orientations et cubes"
+    }
+   ]
+  },
+  {
+   "key": "ps.mecanique",
+   "parent_key": "ps",
+   "level": "TOPIC",
+   "domain": "PSYCHOTECH",
+   "title_ar": "الاستدلال الميكانيكي",
+   "title_fr": "Raisonnement mécanique",
+   "scope": "GENERAL_SKILL",
+   "source_key": null,
+   "objectives": [
+    {
+     "key": "ps.mecanique.o1",
+     "text_ar": "التروس والروافع والبكرات",
+     "text_fr": "Raisonner sur engrenages, leviers et poulies"
+    }
+   ]
+  },
+  {
+   "key": "ps.situationnel",
+   "parent_key": "ps",
+   "level": "TOPIC",
+   "domain": "PSYCHOTECH",
+   "title_ar": "المواقف والسلوك المهني",
+   "title_fr": "Jugement situationnel",
+   "scope": "GENERAL_SKILL",
+   "source_key": null,
+   "objectives": [
+    {
+     "key": "ps.situationnel.o1",
+     "text_ar": "اختيار السلوك المناسب في موقف مهني",
+     "text_fr": "Choisir le comportement adapté dans une situation professionnelle"
+    }
+   ]
+  }
+ ]
+}

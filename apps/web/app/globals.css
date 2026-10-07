@@ -1,0 +1,74 @@
+@import "tailwindcss";
+
+/* Design tokens — light by default, dark via prefers-color-scheme or [data-theme="dark"]. */
+:root {
+  --bg: #f7f7f5;
+  --surface: #ffffff;
+  --surface-2: #f1f2f0;
+  --border: #e3e5e1;
+  --text: #16201c;
+  --text-muted: #5b6661;
+  --primary: #0e6b5c;        /* deep green-teal: trust, calm */
+  --primary-contrast: #ffffff;
+  --primary-soft: #e3f2ee;
+  --accent: #d9283a;         /* Tunisian red, used sparingly (CTA highlights, streak) */
+  --accent-soft: #fde8ea;
+  --success: #1f8a4c;
+  --success-soft: #e4f5ea;
+  --warning: #b26b00;
+  --warning-soft: #fff3dc;
+  --danger: #c0312b;
+  --danger-soft: #fdeceb;
+  --info: #2160b8;
+  --info-soft: #e7effb;
+  --radius: 14px;
+  --shadow: 0 1px 2px rgba(16, 24, 20, .06), 0 4px 16px rgba(16, 24, 20, .05);
+  color-scheme: light;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) {
+    --bg: #0f1412; --surface: #161d1a; --surface-2: #1c2521; --border: #2a3530; --text: #e8eeeb; --text-muted: #9aa8a1;
+    --primary: #3fb59c; --primary-contrast: #06231d; --primary-soft: #143029; --accent: #ff5a6a; --accent-soft: #3a1a1e;
+    --success: #4cc27c; --success-soft: #15301f; --warning: #f0a93b; --warning-soft: #33270f; --danger: #ff6b63; --danger-soft: #3a1917;
+    --info: #6ea3f0; --info-soft: #172338; --shadow: 0 1px 2px rgba(0,0,0,.4); color-scheme: dark;
+  }
+}
+:root[data-theme="dark"] {
+  --bg: #0f1412; --surface: #161d1a; --surface-2: #1c2521; --border: #2a3530; --text: #e8eeeb; --text-muted: #9aa8a1;
+  --primary: #3fb59c; --primary-contrast: #06231d; --primary-soft: #143029; --accent: #ff5a6a; --accent-soft: #3a1a1e;
+  --success: #4cc27c; --success-soft: #15301f; --warning: #f0a93b; --warning-soft: #33270f; --danger: #ff6b63; --danger-soft: #3a1917;
+  --info: #6ea3f0; --info-soft: #172338; --shadow: 0 1px 2px rgba(0,0,0,.4); color-scheme: dark;
+}
+
+@theme inline {
+  --color-bg: var(--bg);
+  --color-surface: var(--surface);
+  --color-surface-2: var(--surface-2);
+  --color-border: var(--border);
+  --color-text: var(--text);
+  --color-muted: var(--text-muted);
+  --color-primary: var(--primary);
+  --color-primary-contrast: var(--primary-contrast);
+  --color-primary-soft: var(--primary-soft);
+  --color-accent: var(--accent);
+  --color-accent-soft: var(--accent-soft);
+  --color-success: var(--success);
+  --color-success-soft: var(--success-soft);
+  --color-warning: var(--warning);
+  --color-warning-soft: var(--warning-soft);
+  --color-danger: var(--danger);
+  --color-danger-soft: var(--danger-soft);
+  --color-info: var(--info);
+  --color-info-soft: var(--info-soft);
+  --radius-card: var(--radius);
+  --font-sans: "Noto Sans Arabic", "Noto Sans", "Segoe UI", Tahoma, system-ui, -apple-system, sans-serif;
+}
+
+html, body { background: var(--bg); color: var(--text); }
+body { font-family: var(--font-sans); -webkit-font-smoothing: antialiased; text-rendering: optimizeLegibility; }
+/* Latin runs inside Arabic UI (French/English questions) keep LTR via dir="auto" on the element. */
+:focus-visible { outline: 2px solid var(--primary); outline-offset: 2px; border-radius: 6px; }
+.card { background: var(--surface); border: 1px solid var(--border); border-radius: var(--radius); box-shadow: var(--shadow); }
+.safe-bottom { padding-bottom: calc(env(safe-area-inset-bottom) + 72px); }
+@media (prefers-reduced-motion: reduce) { * { animation: none !important; transition: none !important; } }
