@@ -80,3 +80,22 @@ Shared general-skills syllabus (culture générale, langues, logique, numérique
   } ]
 }
 ```
+
+## `lessons/<group>.json`
+
+```jsonc
+{
+  "group": "cg",
+  "lessons": [ {
+    "topic_key": "cg.tunisie-institutions",       // TOPIC key from syllabus/common.json or a specialty_syllabus
+    "language": "ar|fr|en",
+    "title": "...",
+    "body_md": "## ...\n\n- ...",                 // Markdown subset: ##/### headings, paragraphs, - lists, 1. lists, **bold**, > quote
+    "est_minutes": 10,
+    "origin": "AI_GENERATED",
+    "sources": [ { "title": "...", "url": "https://...", "source_type": "OFFICIAL|SECONDARY" } ],
+    "needs_verification": false                  // true when a Tunisia-specific fact could not be confirmed
+  } ]
+}
+```
+Seeded with status `AI_REVIEWED` (shown with a "beta" badge only when CONTENT_BETA_MODE=true) until a human reviewer approves them.

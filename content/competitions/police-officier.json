@@ -1,0 +1,1454 @@
+{
+  "family": {
+    "slug": "police-officier",
+    "field": "SECURITY",
+    "organization": {
+      "slug": "surete-nationale",
+      "name_ar": "الإدارة العامة للأمن الوطني – سلك الأمن الوطني والشرطة الوطنية",
+      "name_fr": "Direction générale de la Sûreté nationale – Corps de la Sûreté nationale et de la Police nationale",
+      "ministry_fr": "Ministère de l'Intérieur",
+      "website": "https://www.interieur.gov.tn"
+    },
+    "name_ar": "مناظرات انتداب ضباط الأمن الوطني والشرطة الوطنية (ملازم أول – ضابط شرطة مساعد)",
+    "name_fr": "Concours de recrutement des officiers de la Sûreté nationale et de la Police nationale (lieutenant principal, officier de police adjoint)",
+    "description_ar": "مناظرات خارجية بالاختبارات تنظمها وزارة الداخلية للقبول بمرحلة تكوين أساسي لانتداب إطارات بسلك الأمن الوطني والشرطة الوطنية. في 2026 أُعلن عن مناظرتين: (1) ضباط شرطة مساعدون اختصاص عدلي (إناث وذكور) لحاملي البكالوريا من 20 إلى 24 سنة، مع اختبار كتابي يوم 04/10/2026 (موضوع ثقافة عامة وQCM)؛ (2) ملازمون أول بالانتداب المباشر لحاملي شهادة بكالوريا+5 (ماجستير أو مهندس) من 20 إلى 30 سنة، مع اختبارات كتابية جهوية يومي 13 و20/12/2026 (ثقافة عامة بالعربية والفرنسية، اختبار في الاختصاص، تحليل وضعيات). التسجيل عن بعد على موقع انتدابات الأمن الوطني ثم إرسال الملف بالبريد مضمون الوصول. تليها اختبارات طبية ورياضية ونفسية وشفاهية، ثم فحوص تكميلية واختبار نفسي معمق.",
+    "description_fr": "Concours externes sur épreuves organisés par le ministère de l'Intérieur pour l'admission en formation de base de cadres du corps de la Sûreté nationale et de la Police nationale. En 2026, deux concours ont été ouverts : (1) officiers de police adjoints, spécialité judiciaire (hommes et femmes), bacheliers de 20 à 24 ans, écrit le 04/10/2026 (sujet de culture générale + QCM) ; (2) lieutenants principaux en recrutement direct, titulaires d'un bac+5 (master ou ingénieur) de 20 à 30 ans, écrits régionaux les 13 et 20/12/2026 (culture générale en arabe et en français, épreuve de spécialité, analyse de situations). Inscription en ligne sur la plateforme de recrutement de la Sûreté puis envoi du dossier par recommandé. Suivent les épreuves médicales, sportives, psychotechniques et orales, puis des examens complémentaires et un test psychologique approfondi.",
+    "frequency": "IRREGULAR",
+    "frequency_confidence": "LOW",
+    "popularity": 4,
+    "keywords": [
+      "ملازم أول",
+      "ملازمين أول",
+      "انتداب مباشر",
+      "ضابط شرطة مساعد",
+      "ضباط شرطة مساعدين",
+      "اختصاص عدلي",
+      "ضابط شرطة",
+      "ضباط الأمن الوطني",
+      "محافظ شرطة",
+      "الأمن الوطني",
+      "الشرطة الوطنية",
+      "وزارة الداخلية",
+      "انتدابات وزارة الداخلية",
+      "lieutenant principal",
+      "lieutenant police",
+      "officier de police",
+      "officier de police adjoint",
+      "police judiciaire",
+      "commissaire de police",
+      "Sûreté nationale",
+      "Police nationale",
+      "concours police officier",
+      "concours ministère de l'Intérieur",
+      "recrutementdgsn",
+      "master",
+      "ingénieur",
+      "DGSN"
+    ]
+  },
+  "sources": [
+    {
+      "key": "s1",
+      "title": "إعلان فتح مناظرة خارجية بالإختبارات لإنتداب ملازمين أُول إنتداب مباشر (2026)",
+      "url": "https://www.interieur.gov.tn/actualite/33280/%D8%A5%D8%B9%D9%84%D8%A7%D9%86-%D9%81%D8%AA%D8%AD-%D9%85%D9%86%D8%A7%D8%B8%D8%B1%D8%A9-%D8%AE%D8%A7%D8%B1%D8%AC%D9%8A%D8%A9-%D8%A8%D8%A7%D9%84%D8%A5%D8%AE%D8%AA%D8%A8%D8%A7%D8%B1%D8%A7%D8%AA-%D9%84%D8%A5%D9%86%D8%AA%D8%AF%D8%A7%D8%A8-%D9%85%D9%84%D8%A7%D8%B2%D9%85%D9%8A%D9%86-%D8%A3-%D9%88%D9%84-%D8%A5%D9%86%D8%AA%D8%AF%D8%A7%D8%A8-%D9%85%D8%A8%D8%A7%D8%B4%D8%B1",
+      "publisher": "وزارة الداخلية / Ministère de l'Intérieur",
+      "source_type": "OFFICIAL",
+      "publication_date": null,
+      "retrieved_at": "2026-10-07",
+      "confidence": "HIGH",
+      "notes": "Avis officiel du concours des lieutenants principaux (recrutement direct, bac+5) 2026. URL repérée via WebSearch ; page non lue intégralement (WebFetch bloqué). Contenu reconstitué à partir des relais s9–s15, s24, s25."
+    },
+    {
+      "key": "s2",
+      "title": "إعلان فتح مناظرة خارجية بالإختبارات ضباط شرطة مساعدين إختصاص عدلي",
+      "url": "https://www.interieur.gov.tn/actualite/33272/%D8%A5%D8%B9%D9%84%D8%A7%D9%86-%D9%81%D8%AA%D8%AD-%D9%85%D9%86%D8%A7%D8%B8%D8%B1%D8%A9-%D8%AE%D8%A7%D8%B1%D8%AC%D9%8A%D8%A9-%D8%A8%D8%A7%D9%84%D8%A5%D8%AE%D8%AA%D8%A8%D8%A7%D8%B1%D8%A7%D8%AA-%D8%B6%D8%A8%D8%A7%D8%B7-%D8%B4%D8%B1%D8%B7%D8%A9-%D9%85%D8%B3%D8%A7%D8%B9%D8%AF%D9%8A%D9%86-%D8%A5%D8%AE%D8%AA%D8%B5%D8%A7%D8%B5-%D8%B9%D8%AF%D9%84%D9%8A",
+      "publisher": "وزارة الداخلية / Ministère de l'Intérieur",
+      "source_type": "OFFICIAL",
+      "publication_date": null,
+      "retrieved_at": "2026-10-07",
+      "confidence": "HIGH",
+      "notes": "Avis officiel du concours des officiers de police adjoints, spécialité judiciaire (hommes et femmes), juillet 2026. Lu uniquement via les extraits/résumés du moteur WebSearch (WebFetch bloqué par le proxy)."
+    },
+    {
+      "key": "s3",
+      "title": "Plateforme des recrutements de la Sûreté nationale (موقع انتدابات وزارة الداخلية)",
+      "url": "https://recrutementdgsn.interieur.gov.tn",
+      "publisher": "وزارة الداخلية / Ministère de l'Intérieur",
+      "source_type": "OFFICIAL",
+      "publication_date": null,
+      "retrieved_at": "2026-10-07",
+      "confidence": "HIGH",
+      "notes": "Plateforme d'inscription en ligne citée par les avis 2026 ; inaccessible depuis le conteneur de recherche. L'annexe des spécialités admises (lieutenants) y serait publiée."
+    },
+    {
+      "key": "s4",
+      "title": "سلك الأمن الوطني والشرطة الوطنية – شروط الانتداب (e-Interieur)",
+      "url": "https://services.interieur.gov.tn/wap/ar/docs/recrutement/02.html",
+      "publisher": "وزارة الداخلية – بوابة الخدمات e-Interieur",
+      "source_type": "OFFICIAL",
+      "publication_date": null,
+      "retrieved_at": "2026-10-07",
+      "confidence": "MEDIUM",
+      "notes": "Conditions générales permanentes de recrutement dans le corps (taille 1,70 m H / 1,65 m F, acuité visuelle 15/20 avant correction, aptitude jour/nuit). Lu uniquement via les extraits/résumés du moteur WebSearch (WebFetch bloqué par le proxy)."
+    },
+    {
+      "key": "s5",
+      "title": "الانخراط بسلك الأمن الوطني والشرطة الوطنية (جميع الرتب) – بطاقة إجراء إداري",
+      "url": "http://www.sicad.gov.tn/Ar/_57_3_D1149",
+      "publisher": "SICAD – منظومة الإرشاد الإداري",
+      "source_type": "OFFICIAL",
+      "publication_date": null,
+      "retrieved_at": "2026-10-07",
+      "confidence": "MEDIUM",
+      "notes": "Fiche de procédure administrative (ancienne, date inconnue) couvrant tous les grades : conditions générales et pièces type. Lu uniquement via les extraits/résumés du moteur WebSearch (WebFetch bloqué par le proxy)."
+    },
+    {
+      "key": "s6",
+      "title": "Décret n° 2006-1160 du 13 avril 2006 fixant le statut particulier des agents du corps de la sûreté nationale et de la police nationale (version FR)",
+      "url": "https://legislation-securite.tn/wp-content/uploads/sites/5/2023/11/Decret-n%C2%B0-2006-1160-du-13-Avril-2006-Fr.pdf",
+      "publisher": "Legislation-securite.tn (base juridique reproduisant le JORT)",
+      "source_type": "SECONDARY",
+      "publication_date": "2006-04-13",
+      "retrieved_at": "2026-10-07",
+      "confidence": "MEDIUM",
+      "notes": "Statut particulier : grades, modes de recrutement (externe / interne). Non lu (PDF inaccessible) ; à vérifier sur iort.gov.tn, y compris les modifications ultérieures."
+    },
+    {
+      "key": "s7",
+      "title": "أمر عدد 1166 لسنة 2006 مؤرخ في 13 أفريل 2006 يتعلق بضبط مراحل تكوين أعوان قوات الأمن الداخلي",
+      "url": "https://legislation-securite.tn/ar/latest-laws/%D8%A3%D9%85%D8%B1-%D8%B9%D8%AF%D8%AF-1166-%D9%84%D8%B3%D9%86%D8%A9-2006-%D9%85%D8%A4%D8%B1%D8%AE-%D9%81%D9%8A-13-%D8%A3%D9%81%D8%B1%D9%8A%D9%84-2006-%D9%8A%D8%AA%D8%B9%D9%84%D9%82-%D8%A8%D8%B6%D8%A8/",
+      "publisher": "Legislation-securite.tn (base juridique reproduisant le JORT)",
+      "source_type": "SECONDARY",
+      "publication_date": "2006-04-13",
+      "retrieved_at": "2026-10-07",
+      "confidence": "MEDIUM",
+      "notes": "Cycles de formation des forces de sécurité intérieure : la durée de la formation de base des lieutenants et officiers adjoints est à extraire de ce texte. Non lu."
+    },
+    {
+      "key": "s8",
+      "title": "أمر عدد 240 لسنة 2023 مؤرخ في 16 مارس 2023 يتعلق بالمصادقة على مدونة سلوك قوات الأمن الداخلي",
+      "url": "https://legislation-securite.tn/ar/latest-laws/%D8%A3%D9%85%D9%80%D8%B1-%D8%B9%D8%AF%D8%AF-240-%D9%84%D8%B3%D9%86%D8%A9-2023-%D9%85%D8%A4%D8%B1%D8%AE-%D9%81%D9%8A-16-%D9%85%D8%A7%D8%B1%D8%B3-2023-%D9%8A%D8%AA%D8%B9%D9%84%D9%82-%D8%A8%D8%A7%D9%84/",
+      "publisher": "Legislation-securite.tn (base juridique reproduisant le JORT)",
+      "source_type": "SECONDARY",
+      "publication_date": "2023-03-16",
+      "retrieved_at": "2026-10-07",
+      "confidence": "MEDIUM",
+      "notes": "Code de conduite des forces de sécurité intérieure : utile pour l'oral, le jury et le syllabus déontologie. Non lu intégralement."
+    },
+    {
+      "key": "s9",
+      "title": "وزارة الداخلية تفتح مناظرة لانتداب ملازمين أول... وهذه شروط الترشح والآجال",
+      "url": "https://www.tuniscope.com/ar/article/435802/actu-arabe/arabe/concours-tunisie-033813",
+      "publisher": "Tuniscope",
+      "source_type": "SECONDARY",
+      "publication_date": "2026-07-10",
+      "retrieved_at": "2026-10-07",
+      "confidence": "MEDIUM",
+      "notes": "Relais détaillé de l'avis des lieutenants 2026 : âge 20–30 ans, taille, inscription jusqu'au 29–30/07/2026, écrit les 13 et 20/12/2026, frais de 10 DT. Lu uniquement via les extraits/résumés du moteur WebSearch (WebFetch bloqué par le proxy)."
+    },
+    {
+      "key": "s10",
+      "title": "Ministère de l'Intérieur : concours de recrutement direct de lieutenants principaux (La Presse)",
+      "url": "https://www.lapresse.tn/?p=4346165",
+      "publisher": "La Presse de Tunisie",
+      "source_type": "SECONDARY",
+      "publication_date": "2026-07-10",
+      "retrieved_at": "2026-10-07",
+      "confidence": "MEDIUM",
+      "notes": "Relais FR : bac+5 dans les spécialités de l'annexe, nationalité tunisienne, âge 20–30 ans au 1er janvier 2026, écrit les 13 et 20/12/2026, inscription sur recrutementdgsn. Lu uniquement via les extraits/résumés du moteur WebSearch (WebFetch bloqué par le proxy)."
+    },
+    {
+      "key": "s11",
+      "title": "Tunisie : concours de recrutement de lieutenants principaux (AllAfrica, reprise de La Presse)",
+      "url": "https://fr.allafrica.com/stories/202607100498.html",
+      "publisher": "AllAfrica",
+      "source_type": "SECONDARY",
+      "publication_date": "2026-07-10",
+      "retrieved_at": "2026-10-07",
+      "confidence": "MEDIUM",
+      "notes": "Reprise de l'article de La Presse (s10). Lu uniquement via les extraits/résumés du moteur WebSearch (WebFetch bloqué par le proxy)."
+    },
+    {
+      "key": "s12",
+      "title": "Tunisie : Le ministère de l'Intérieur recrute des lieutenants",
+      "url": "https://africanmanager.com/tunisie-le-ministere-de-linterieur-recrute-des-lieutenants/",
+      "publisher": "African Manager",
+      "source_type": "SECONDARY",
+      "publication_date": null,
+      "retrieved_at": "2026-10-07",
+      "confidence": "MEDIUM",
+      "notes": "Relais FR de l'avis des lieutenants 2026. Lu uniquement via les extraits/résumés du moteur WebSearch (WebFetch bloqué par le proxy)."
+    },
+    {
+      "key": "s13",
+      "title": "وزراة الداخلية: انتداب مباشر لملازمين أُوّل",
+      "url": "https://www.radionationale.tn/article/6a50da3508d2abfa30dc0821/%D9%88%D8%B2%D8%B1%D8%A7%D8%A9-%D8%A7%D9%84%D8%AF%D8%A7%D8%AE%D9%84%D9%8A%D8%A9-%D8%A7%D9%86%D8%AA%D8%AF%D8%A7%D8%A8-%D9%85%D8%A8%D8%A7%D8%B4%D8%B1-%D9%84%D9%85%D9%84%D8%A7%D8%B2%D9%85%D9%8A%D9%86-%D8%A3%D9%88%D9%84",
+      "publisher": "الإذاعة الوطنية التونسية",
+      "source_type": "SECONDARY",
+      "publication_date": null,
+      "retrieved_at": "2026-10-07",
+      "confidence": "MEDIUM",
+      "notes": "Relais radio publique de l'avis des lieutenants 2026. Lu uniquement via les extraits/résumés du moteur WebSearch (WebFetch bloqué par le proxy)."
+    },
+    {
+      "key": "s14",
+      "title": "فتح مناظرة انتداب ملازمين أول (انتداب مباشر) لفائدة سلك الأمن الوطني والشرطة الوطنية آخر أجل للتسجيل : 29 جويلية 2026",
+      "url": "https://www.kedma.tn/2026/07/Concours%20Police%202026.html",
+      "publisher": "Kedma.tn",
+      "source_type": "SECONDARY",
+      "publication_date": null,
+      "retrieved_at": "2026-10-07",
+      "confidence": "MEDIUM",
+      "notes": "Relais : inscription 10–29/07/2026, trois phases, pièces (copie du master / diplôme d'ingénieur). Lu uniquement via les extraits/résumés du moteur WebSearch (WebFetch bloqué par le proxy)."
+    },
+    {
+      "key": "s15",
+      "title": "وزارة الداخلية تفتح مناظرة خارجية لانتداب ملازمين أول بسلك الأمن والشرطة - تونس الرقمية",
+      "url": "https://ar.tunisienumerique.com/%D9%88%D8%B2%D8%A7%D8%B1%D8%A9-%D8%A7%D9%84%D8%AF%D8%A7%D8%AE%D9%84%D9%8A%D8%A9-%D8%AA%D9%81%D8%AA%D8%AD-%D9%85%D9%86%D8%A7%D8%B8%D8%B1%D8%A9-%D8%AE%D8%A7%D8%B1%D8%AC%D9%8A%D8%A9-%D9%84%D8%A7%D9%86-2/",
+      "publisher": "Tunisie Numérique (AR)",
+      "source_type": "SECONDARY",
+      "publication_date": null,
+      "retrieved_at": "2026-10-07",
+      "confidence": "MEDIUM",
+      "notes": "Relais de l'avis des lieutenants 2026. Lu uniquement via les extraits/résumés du moteur WebSearch (WebFetch bloqué par le proxy)."
+    },
+    {
+      "key": "s16",
+      "title": "وزارة الداخلية: مناظرة لانتداب ضباط شرطة مساعدين اختصاص عدلي (Tuniscope)",
+      "url": "https://www.tuniscope.com/ar/article/435424/actu-arabe/arabe/concour-161515",
+      "publisher": "Tuniscope",
+      "source_type": "SECONDARY",
+      "publication_date": "2026-07-06",
+      "retrieved_at": "2026-10-07",
+      "confidence": "MEDIUM",
+      "notes": "Relais de l'avis OPA judiciaire 2026 : bac, 20–24 ans, phases, date limite le 27/07/2026. Lu uniquement via les extraits/résumés du moteur WebSearch (WebFetch bloqué par le proxy)."
+    },
+    {
+      "key": "s17",
+      "title": "فتح مناظرة انتداب ضباط شرطة مساعدين اختصاص عدلي (ذكور وإناث) آخر أجل للتسجيل : 26 جويلية 2026",
+      "url": "https://www.kedma.tn/2026/07/Concours%20Police.html",
+      "publisher": "Kedma.tn",
+      "source_type": "SECONDARY",
+      "publication_date": null,
+      "retrieved_at": "2026-10-07",
+      "confidence": "MEDIUM",
+      "notes": "Relais de l'avis OPA judiciaire 2026. Lu uniquement via les extraits/résumés du moteur WebSearch (WebFetch bloqué par le proxy)."
+    },
+    {
+      "key": "s18",
+      "title": "إعلان فتح مناظرة خارجية بالإختبارات ضباط شرطة مساعدين إختصاص عدلي - أنباء تونس",
+      "url": "https://kapitalis.com/anbaa-tounes/2026/07/06/%D8%A5%D8%B9%D9%84%D8%A7%D9%86-%D9%81%D8%AA%D8%AD-%D9%85%D9%86%D8%A7%D8%B8%D8%B1%D8%A9-%D8%AE%D8%A7%D8%B1%D8%AC%D9%8A%D8%A9-%D8%A8%D8%A7%D9%84%D8%A5%D8%AE%D8%AA%D8%A8%D8%A7%D8%B1%D8%A7%D8%AA-%D8%B6/",
+      "publisher": "Kapitalis – أنباء تونس",
+      "source_type": "SECONDARY",
+      "publication_date": "2026-07-06",
+      "retrieved_at": "2026-10-07",
+      "confidence": "MEDIUM",
+      "notes": "Reprise de l'avis officiel OPA judiciaire. Lu uniquement via les extraits/résumés du moteur WebSearch (WebFetch bloqué par le proxy)."
+    },
+    {
+      "key": "s19",
+      "title": "وزارة الداخلية تفتح مناظرة خارجية لانتداب ضباط شرطة مساعدين اختصاص عدلي (إذاعة تطاوين)",
+      "url": "https://www.radiotataouine.tn/article/6a4cd94108d2abfa3005937b/%D9%88%D8%B2%D8%A7%D8%B1%D8%A9-%D8%A7%D9%84%D8%AF%D8%A7%D8%AE%D9%84%D9%8A%D8%A9-%D8%AA%D9%81%D8%AA%D8%AD-%D9%85%D9%86%D8%A7%D8%B8%D8%B1%D8%A9-%D8%AE%D8%A7%D8%B1%D8%AC%D9%8A%D8%A9-%D9%84%D8%A7%D9%86%D8%AA%D8%AF%D8%A7%D8%A8-%D8%B6%D8%A8%D8%A7%D8%B7-%D8%B4%D8%B1%D8%B7%D8%A9-%D9%85%D8%B3%D8%A7%D8%B9%D8%AF%D9%8A%D9%86-%D8%A7%D8%AE%D8%AA%D8%B5%D8%A7%D8%B5-%D8%B9%D8%AF%D9%84%D9%8A",
+      "publisher": "إذاعة تطاوين (radio publique régionale)",
+      "source_type": "SECONDARY",
+      "publication_date": null,
+      "retrieved_at": "2026-10-07",
+      "confidence": "MEDIUM",
+      "notes": "Relais : écrit le 04/10/2026, trois phases. Lu uniquement via les extraits/résumés du moteur WebSearch (WebFetch bloqué par le proxy)."
+    },
+    {
+      "key": "s20",
+      "title": "وزارة الداخلية: مناظرة لانتداب ضباط شرطة مساعدين إختصاص عدلي - Tumedia",
+      "url": "https://tumedia.net/2026/07/06/%D9%88%D8%B2%D8%A7%D8%B1%D8%A9-%D8%A7%D9%84%D8%AF%D8%A7%D8%AE%D9%84%D9%8A%D8%A9-%D9%85%D9%86%D8%A7%D8%B8%D8%B1%D8%A9-%D9%84%D8%A7%D9%86%D8%AA%D8%AF%D8%A7%D8%A8-%D8%B6%D8%A8%D8%A7%D8%B7-%D8%B4%D8%B1/",
+      "publisher": "Tumedia",
+      "source_type": "SECONDARY",
+      "publication_date": "2026-07-06",
+      "retrieved_at": "2026-10-07",
+      "confidence": "MEDIUM",
+      "notes": "Relais de l'avis OPA judiciaire. Lu uniquement via les extraits/résumés du moteur WebSearch (WebFetch bloqué par le proxy)."
+    },
+    {
+      "key": "s21",
+      "title": "الداخلية: انتداب ضباط شرطة مساعدين اختصاص عدلي..الشروط والآجال",
+      "url": "https://assarih.com/%D8%A7%D9%84%D8%AF%D8%A7%D8%AE%D9%84%D9%8A%D8%A9-%D8%A7%D9%86%D8%AA%D8%AF%D8%A7%D8%A8-%D8%B6%D8%A8%D8%A7%D8%B7-%D8%B4%D8%B1%D8%B7%D8%A9-%D9%85%D8%B3%D8%A7%D8%B9%D8%AF%D9%8A%D9%86-%D8%A7%D8%AE%D8%AA/",
+      "publisher": "Assarih",
+      "source_type": "SECONDARY",
+      "publication_date": null,
+      "retrieved_at": "2026-10-07",
+      "confidence": "MEDIUM",
+      "notes": "Relais : conditions et délais. Lu uniquement via les extraits/résumés du moteur WebSearch (WebFetch bloqué par le proxy)."
+    },
+    {
+      "key": "s22",
+      "title": "الداخلية: مناظرة خارجية لانتداب ضباط شرطة مساعدين اختصاص عدلي - جريدة الحرية التونسية",
+      "url": "https://alhorria.com/2026/07/07/%D8%A7%D9%84%D8%AF%D8%A7%D8%AE%D9%84%D9%8A%D8%A9-%D9%85%D9%86%D8%A7%D8%B8%D8%B1%D8%A9-%D8%AE%D8%A7%D8%B1%D8%AC%D9%8A%D8%A9-%D9%84%D8%A7%D9%86%D8%AA%D8%AF%D8%A7%D8%A8-%D8%B6%D8%A8%D8%A7%D8%B7-%D8%B4/",
+      "publisher": "جريدة الحرية",
+      "source_type": "SECONDARY",
+      "publication_date": "2026-07-07",
+      "retrieved_at": "2026-10-07",
+      "confidence": "MEDIUM",
+      "notes": "Relais de l'avis OPA judiciaire. Lu uniquement via les extraits/résumés du moteur WebSearch (WebFetch bloqué par le proxy)."
+    },
+    {
+      "key": "s23",
+      "title": "مناظرة انتداب ضباط شرطة مساعدين اختصاص عدلي.. الشروط والرزنامة كاملة",
+      "url": "https://www.tunisiaslum.com/2026/07/assistant-police-officers-recruitment-tunisia.html",
+      "publisher": "Tunisiaslum (blog)",
+      "source_type": "COMMUNITY",
+      "publication_date": null,
+      "retrieved_at": "2026-10-07",
+      "confidence": "LOW",
+      "notes": "Blog d'annonces reprenant l'avis OPA. Lu uniquement via les extraits/résumés du moteur WebSearch (WebFetch bloqué par le proxy)."
+    },
+    {
+      "key": "s24",
+      "title": "مناظرة انتداب ملازمين أول لوزارة الداخلية التونسية 2026",
+      "url": "https://www.tunisiaslum.com/2026/07/Recruitment-competition-for-first-lieutenants-for-the-Tunisian-Ministry-of-the-Interior-2026.html",
+      "publisher": "Tunisiaslum (blog)",
+      "source_type": "COMMUNITY",
+      "publication_date": null,
+      "retrieved_at": "2026-10-07",
+      "confidence": "LOW",
+      "notes": "Blog d'annonces reprenant l'avis des lieutenants 2026. Lu uniquement via les extraits/résumés du moteur WebSearch (WebFetch bloqué par le proxy)."
+    },
+    {
+      "key": "s25",
+      "title": "وزارة الداخلية : مناظرة بالإختبارات لانتداب ملازمين أول - إنتداب مباشر",
+      "url": "https://www.orientini.com/AR/Annonces_Orientation_Formation_Emploi/17638/%D9%88%D8%B2%D8%A7%D8%B1%D8%A9-%D8%A7%D9%84%D8%AF%D8%A7%D8%AE%D9%84%D9%8A%D8%A9-:-%D9%85%D9%86%D8%A7%D8%B8%D8%B1%D8%A9-%D8%A8%D8%A7%D9%84%D8%A5%D8%AE%D8%AA%D8%A8%D8%A7%D8%B1%D8%A7%D8%AA-%D9%84%D8%A7%D9%86%D8%AA%D8%AF%D8%A7%D8%A8-%D9%85%D9%84%D8%A7%D8%B2%D9%85%D9%8A%D9%86-%D8%A3%D9%88%D9%84---%D8%A5%D9%86%D8%AA%D8%AF%D8%A7%D8%A8-%D9%85%D8%A8%D8%A7%D8%B4%D8%B1",
+      "publisher": "Orientini",
+      "source_type": "SECONDARY",
+      "publication_date": null,
+      "retrieved_at": "2026-10-07",
+      "confidence": "MEDIUM",
+      "notes": "Portail d'orientation relayant l'avis des lieutenants 2026 (âge 20–30 ans, dérogation d'un an, envoi par recommandé à Carthage Byrsa avant le 30/07/2026). Lu uniquement via les extraits/résumés du moteur WebSearch (WebFetch bloqué par le proxy)."
+    },
+    {
+      "key": "s26",
+      "title": "مناظرة خارجية لإنتداب ضباط شرطة مساعدين إختصاص عدلي",
+      "url": "https://www.orientini.com/FR/Annonces_Orientation_Formation_Emploi/17589/",
+      "publisher": "Orientini",
+      "source_type": "SECONDARY",
+      "publication_date": null,
+      "retrieved_at": "2026-10-07",
+      "confidence": "MEDIUM",
+      "notes": "Relais de l'avis OPA judiciaire 2026. Lu uniquement via les extraits/résumés du moteur WebSearch (WebFetch bloqué par le proxy)."
+    },
+    {
+      "key": "s27",
+      "title": "مناظرة لانتداب ضباط برتبة ملازم أول مباشر لسنة 2025 (متحصلين على الشهادة الوطنية للماجستير) – وزارة الدفاع الوطني",
+      "url": "https://www.orientini.com/FR/Annonces_Orientation_Formation_Emploi/16515/",
+      "publisher": "Orientini",
+      "source_type": "SECONDARY",
+      "publication_date": null,
+      "retrieved_at": "2026-10-07",
+      "confidence": "LOW",
+      "notes": "NE RELÈVE PAS de cette famille (ministère de la Défense nationale, armée). Cité uniquement pour éviter la confusion « ملازم أول مباشر »."
+    },
+    {
+      "key": "s28",
+      "title": "مناظرة لانتداب ملازمين أول بسلك الحرس الوطني لسنة 2023",
+      "url": "https://www.orientini.com/AR/Annonces_Orientation_Formation_Emploi/14742/%D9%85%D9%86%D8%A7%D8%B8%D8%B1%D8%A9-%D9%84%D8%A7%D9%86%D8%AA%D8%AF%D8%A7%D8%A8-%D9%85%D9%84%D8%A7%D8%B2%D9%85%D9%8A%D9%86-%D8%A3%D9%88%D9%84-%D8%A8%D8%B3%D9%84%D9%83-%D8%A7%D9%84%D8%AD%D8%B1%D8%B3-%D8%A7%D9%84%D9%88%D8%B7%D9%86%D9%8A-%D9%84%D8%B3%D9%86%D8%A9-2023",
+      "publisher": "Orientini",
+      "source_type": "SECONDARY",
+      "publication_date": null,
+      "retrieved_at": "2026-10-07",
+      "confidence": "LOW",
+      "notes": "NE RELÈVE PAS de cette famille (Garde nationale). Seul le titre a été vu ; cité pour éviter la confusion avec les lieutenants de la Sûreté nationale."
+    },
+    {
+      "key": "s29",
+      "title": "بوابة وزارة الداخلية التونسية – صنف الإعلانات / المناظرات",
+      "url": "https://www.interieur.gov.tn/filtre/categorie/8",
+      "publisher": "وزارة الداخلية / Ministère de l'Intérieur",
+      "source_type": "OFFICIAL",
+      "publication_date": null,
+      "retrieved_at": "2026-10-07",
+      "confidence": "MEDIUM",
+      "notes": "Rubrique du portail du ministère où sont publiés les avis de concours (dont s2). Repérée via WebSearch."
+    }
+  ],
+  "editions": [
+    {
+      "year": 2026,
+      "session_label": "مناظرة ضباط شرطة مساعدين اختصاص عدلي (إناث وذكور) – جويلية 2026، الاختبار الكتابي 04/10/2026 / Concours officiers de police adjoints, spécialité judiciaire (H/F) – juillet 2026, écrit le 04/10/2026",
+      "status": "EXAM_DONE",
+      "registration_open": "2026-07-06",
+      "registration_deadline": "2026-07-26",
+      "exam_date": "2026-10-04",
+      "positions_count": null,
+      "candidates_count": null,
+      "source_key": "s2",
+      "confidence": "MEDIUM",
+      "needs_verification": false
+    },
+    {
+      "year": 2026,
+      "session_label": "مناظرة ملازمين أول (انتداب مباشر) بعنوان سنة 2026 – الاختبارات الكتابية 13 و20/12/2026 / Concours lieutenants principaux (recrutement direct) 2026 – écrits les 13 et 20/12/2026",
+      "status": "CLOSED",
+      "registration_open": "2026-07-10",
+      "registration_deadline": "2026-07-29",
+      "exam_date": "2026-12-13",
+      "positions_count": null,
+      "candidates_count": null,
+      "source_key": "s1",
+      "confidence": "MEDIUM",
+      "needs_verification": false
+    },
+    {
+      "year": 2027,
+      "session_label": "دورة متوقعة (غير معلنة إلى غاية 07/10/2026) – تقدير / Prochaine session attendue (non annoncée au 07/10/2026) – estimation",
+      "status": "EXPECTED",
+      "registration_open": null,
+      "registration_deadline": null,
+      "exam_date": null,
+      "positions_count": null,
+      "candidates_count": null,
+      "source_key": null,
+      "confidence": "LOW",
+      "needs_verification": true
+    }
+  ],
+  "positions": [
+    {
+      "slug": "lieutenant-principal-recrutement-direct",
+      "title_ar": "ملازم أول (انتداب مباشر) بسلك الأمن الوطني والشرطة الوطنية",
+      "title_fr": "Lieutenant principal (recrutement direct) – Sûreté nationale et Police nationale",
+      "diploma_level": "MASTER",
+      "eligibility": {
+        "min_age": 20,
+        "max_age": 30,
+        "genders": [
+          "M",
+          "F"
+        ],
+        "nationality": "TN",
+        "diplomas": [
+          "MASTER",
+          "ENGINEER"
+        ],
+        "specialties": [],
+        "min_height_cm_male": 170,
+        "min_height_cm_female": 165,
+        "marital_status": null,
+        "other_ar": [
+          "إتمام مرحلة دراسات عليا لا تقل مدتها عن خمس سنوات بعد البكالوريا بنجاح في أحد الاختصاصات المحددة بالملحق المنشور على موقع مناظرات الوزارة (الماجستير أو الشهادة الوطنية للمهندس أو شهادة تكوين معادلة).",
+          "الجنسية التونسية مع مراعاة الموانع المنصوص عليها بمجلة الجنسية.",
+          "السن محتسب في 01 جانفي 2026، مع إمكانية الإعفاء من شرط السن القصوى في حدود سنة حسب حاجيات الإدارة، إضافة إلى الإعفاءات المرتبطة بالخدمة الوطنية.",
+          "إثبات القدرة البدنية والنفسية على العمل ليلا ونهارا بكامل تراب الجمهورية عبر الفحوص الطبية والاختبارات النفسية.",
+          "شرط قوة الإبصار: ورد في الإعلان دون أن نطلع على القيمة؛ الشروط العامة للسلك تنص على 15/20 للعينين قبل الإصلاح (يجب التثبت).",
+          "فتح المناظرة للإناث مستنتج من تحديد طول قامة أدنى للإناث في الإعلان."
+        ],
+        "other_fr": [
+          "Avoir achevé avec succès des études supérieures d'au moins cinq ans après le baccalauréat dans l'une des spécialités fixées par l'annexe publiée sur le site des concours du ministère (master, diplôme national d'ingénieur ou diplôme équivalent).",
+          "Nationalité tunisienne, sous réserve des incapacités prévues par le Code de la nationalité.",
+          "Âge apprécié au 1er janvier 2026 ; dérogation possible à l'âge maximum dans la limite d'un an selon les besoins de l'administration, plus les dispenses liées au service national.",
+          "Aptitude physique et psychologique à servir de jour comme de nuit sur tout le territoire, vérifiée par visites médicales et tests psychologiques.",
+          "Condition d'acuité visuelle mentionnée dans l'avis mais valeur non consultée ; les conditions générales du corps indiquent 15/20 pour les deux yeux avant correction (à vérifier).",
+          "Ouverture aux femmes déduite de la taille minimale féminine fixée dans l'avis."
+        ],
+        "source_key": "s9",
+        "confidence": "MEDIUM",
+        "needs_verification": false,
+        "source_quote": "بالغا من العمر 20 سنة على الأقل و30 سنة على الأكثر بتاريخ 01 جانفي 2026 ... طول القامة: 1.70م على الأقل بالنسبة للذكور و1.65م على الأقل بالنسبة للإناث."
+      },
+      "phases": [
+        {
+          "order": 1,
+          "kind": "WRITTEN",
+          "name_ar": "المرحلة الأولى: اختبارات جهوية كتابية معرفية وفي الاختصاص",
+          "name_fr": "Phase 1 : épreuves écrites régionales (connaissances et spécialité)",
+          "is_eliminatory": true,
+          "duration_minutes": null,
+          "description_ar": "اختبارات كتابية بمراكز جهوية يومي 13 و20 ديسمبر 2026 تشمل أسئلة في الثقافة العامة باللغتين العربية والفرنسية، واختبارا في الاختصاص، وتمارين تحليل ووضعيات. المدة والضوارب غير منشورة.",
+          "description_fr": "Épreuves écrites en centres régionaux les 13 et 20 décembre 2026 : questions de culture générale en arabe et en français, épreuve de spécialité, exercices d'analyse et mises en situation. Durées et coefficients non publiés.",
+          "source_key": "s9",
+          "confidence": "MEDIUM",
+          "needs_verification": false
+        },
+        {
+          "order": 2,
+          "kind": "MEDICAL",
+          "name_ar": "الفحوصات الطبية (المرحلة الثانية – مركزية)",
+          "name_fr": "Visite médicale (phase 2, centrale)",
+          "is_eliminatory": true,
+          "duration_minutes": null,
+          "description_ar": "فحوصات طبية ضمن الاختبارات المركزية للمرحلة الثانية للتثبت من اللياقة البدنية وطول القامة وقوة الإبصار. الصبغة الإقصائية مفترضة.",
+          "description_fr": "Examens médicaux dans le cadre des épreuves centrales de la phase 2 (aptitude, taille, vue). Caractère éliminatoire présumé.",
+          "source_key": "s9",
+          "confidence": "MEDIUM",
+          "needs_verification": false
+        },
+        {
+          "order": 3,
+          "kind": "PHYSICAL",
+          "name_ar": "الاختبارات الرياضية",
+          "name_fr": "Épreuves sportives",
+          "is_eliminatory": true,
+          "duration_minutes": null,
+          "description_ar": "اختبارات رياضية مركزية؛ لم يُنشر محتواها ولا سلّمها.",
+          "description_fr": "Épreuves sportives centrales ; contenu et barème non publiés.",
+          "source_key": "s9",
+          "confidence": "MEDIUM",
+          "needs_verification": false
+        },
+        {
+          "order": 4,
+          "kind": "PSYCHOTECH",
+          "name_ar": "الاختبار التقني النفسي",
+          "name_fr": "Test psychotechnique",
+          "is_eliminatory": true,
+          "duration_minutes": null,
+          "description_ar": "اختبار تقني نفسي ضمن المرحلة الثانية.",
+          "description_fr": "Test psychotechnique dans le cadre de la phase 2.",
+          "source_key": "s9",
+          "confidence": "MEDIUM",
+          "needs_verification": false
+        },
+        {
+          "order": 5,
+          "kind": "ORAL",
+          "name_ar": "الاختبار الشفاهي في مواد الاختصاص",
+          "name_fr": "Épreuve orale dans les matières de spécialité",
+          "is_eliminatory": true,
+          "duration_minutes": null,
+          "description_ar": "اختبار شفاهي في مواد الاختصاص (حسب اختصاص الشهادة). الصبغة الإقصائية والضارب غير معروفين.",
+          "description_fr": "Oral portant sur les matières de la spécialité du diplôme. Caractère éliminatoire et coefficient inconnus.",
+          "source_key": "s9",
+          "confidence": "MEDIUM",
+          "needs_verification": false
+        },
+        {
+          "order": 6,
+          "kind": "INTERVIEW",
+          "name_ar": "المثول أمام لجنة الامتحان",
+          "name_fr": "Passage devant le jury du concours",
+          "is_eliminatory": true,
+          "duration_minutes": null,
+          "description_ar": "مثول المترشح أمام لجنة الامتحان (تقييم الشخصية والدافعية).",
+          "description_fr": "Entretien devant le jury (personnalité, motivation).",
+          "source_key": "s9",
+          "confidence": "MEDIUM",
+          "needs_verification": false
+        },
+        {
+          "order": 7,
+          "kind": "MEDICAL",
+          "name_ar": "المرحلة الثالثة: تحاليل طبية تكميلية",
+          "name_fr": "Phase 3 : analyses médicales complémentaires",
+          "is_eliminatory": true,
+          "duration_minutes": null,
+          "description_ar": "تحاليل وفحوصات طبية تكميلية للمقبولين في المرحلة الثانية.",
+          "description_fr": "Analyses et examens médicaux complémentaires pour les admis de la phase 2.",
+          "source_key": "s9",
+          "confidence": "MEDIUM",
+          "needs_verification": false
+        },
+        {
+          "order": 8,
+          "kind": "PSYCHOTECH",
+          "name_ar": "المرحلة الثالثة: فحوصات نفسية معمقة",
+          "name_fr": "Phase 3 : examens psychologiques approfondis",
+          "is_eliminatory": true,
+          "duration_minutes": null,
+          "description_ar": "فحوصات / اختبارات نفسية معمقة.",
+          "description_fr": "Examens / tests psychologiques approfondis.",
+          "source_key": "s9",
+          "confidence": "MEDIUM",
+          "needs_verification": false
+        },
+        {
+          "order": 9,
+          "kind": "TRAINING",
+          "name_ar": "مرحلة التكوين الأساسي",
+          "name_fr": "Formation de base",
+          "is_eliminatory": true,
+          "duration_minutes": null,
+          "description_ar": "المناظرة للقبول بمرحلة تكوين أساسي قبل الانتداب. مدة التكوين ومكانه غير منشورين في المقتطفات المتاحة (يُراجع الأمر عدد 1166 لسنة 2006).",
+          "description_fr": "Le concours donne accès à une formation de base préalable au recrutement. Durée et lieu non trouvés (voir décret 2006-1166).",
+          "source_key": "s1",
+          "confidence": "MEDIUM",
+          "needs_verification": false
+        }
+      ],
+      "subjects": [
+        {
+          "phase_order": 1,
+          "domain": "CULTURE_GENERALE",
+          "specialty_key": null,
+          "name_ar": "الثقافة العامة (باللغة العربية)",
+          "name_fr": "Culture générale (en langue arabe)",
+          "coefficient": null,
+          "duration_minutes": null,
+          "question_count": null,
+          "source_key": "s9",
+          "confidence": "MEDIUM",
+          "needs_verification": false
+        },
+        {
+          "phase_order": 1,
+          "domain": "CULTURE_GENERALE",
+          "specialty_key": null,
+          "name_ar": "الثقافة العامة (باللغة الفرنسية)",
+          "name_fr": "Culture générale (en langue française)",
+          "coefficient": null,
+          "duration_minutes": null,
+          "question_count": null,
+          "source_key": "s9",
+          "confidence": "MEDIUM",
+          "needs_verification": false
+        },
+        {
+          "phase_order": 1,
+          "domain": "SPECIALTY",
+          "specialty_key": null,
+          "name_ar": "اختبار في الاختصاص (حسب اختصاص الشهادة)",
+          "name_fr": "Épreuve de spécialité (selon la spécialité du diplôme)",
+          "coefficient": null,
+          "duration_minutes": null,
+          "question_count": null,
+          "source_key": "s9",
+          "confidence": "MEDIUM",
+          "needs_verification": false
+        },
+        {
+          "phase_order": 1,
+          "domain": "SPECIALTY",
+          "specialty_key": "spec.police-officier.analyse-situations",
+          "name_ar": "تمارين تحليل ووضعيات",
+          "name_fr": "Exercices d'analyse et mises en situation",
+          "coefficient": null,
+          "duration_minutes": null,
+          "question_count": null,
+          "source_key": "s9",
+          "confidence": "MEDIUM",
+          "needs_verification": false
+        },
+        {
+          "phase_order": 4,
+          "domain": "PSYCHOTECH",
+          "specialty_key": null,
+          "name_ar": "الاختبار التقني النفسي",
+          "name_fr": "Test psychotechnique",
+          "coefficient": null,
+          "duration_minutes": null,
+          "question_count": null,
+          "source_key": "s9",
+          "confidence": "MEDIUM",
+          "needs_verification": false
+        },
+        {
+          "phase_order": 5,
+          "domain": "SPECIALTY",
+          "specialty_key": null,
+          "name_ar": "الاختبار الشفاهي في مواد الاختصاص",
+          "name_fr": "Oral de spécialité",
+          "coefficient": null,
+          "duration_minutes": null,
+          "question_count": null,
+          "source_key": "s9",
+          "confidence": "MEDIUM",
+          "needs_verification": false
+        },
+        {
+          "phase_order": 1,
+          "domain": "SPECIALTY",
+          "specialty_key": "spec.police-officier.droit-penal-procedure",
+          "name_ar": "القانون الجزائي والإجراءات الجزائية (مقترح لخريجي الحقوق)",
+          "name_fr": "Droit pénal et procédure pénale (suggestion pour les juristes)",
+          "coefficient": null,
+          "duration_minutes": null,
+          "question_count": null,
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "phase_order": 1,
+          "domain": "SPECIALTY",
+          "specialty_key": "spec.droit-public",
+          "name_ar": "القانون الدستوري والمؤسسات (مقترح لخريجي الحقوق)",
+          "name_fr": "Droit constitutionnel et institutions (suggestion pour les juristes)",
+          "coefficient": null,
+          "duration_minutes": null,
+          "question_count": null,
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "phase_order": 1,
+          "domain": "SPECIALTY",
+          "specialty_key": "spec.droit-administratif",
+          "name_ar": "القانون الإداري (مقترح لخريجي الحقوق)",
+          "name_fr": "Droit administratif (suggestion pour les juristes)",
+          "coefficient": null,
+          "duration_minutes": null,
+          "question_count": null,
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "phase_order": 1,
+          "domain": "SPECIALTY",
+          "specialty_key": "spec.informatique",
+          "name_ar": "الإعلامية (مقترح لخريجي الهندسة والإعلامية)",
+          "name_fr": "Informatique (suggestion pour ingénieurs / informaticiens)",
+          "coefficient": null,
+          "duration_minutes": null,
+          "question_count": null,
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "phase_order": 1,
+          "domain": "SPECIALTY",
+          "specialty_key": "spec.securite-droits",
+          "name_ar": "حقوق الإنسان وأخلاقيات العمل الأمني",
+          "name_fr": "Droits de l'homme et déontologie des forces de sécurité",
+          "coefficient": null,
+          "duration_minutes": null,
+          "question_count": null,
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        }
+      ],
+      "physical_tests": [
+        {
+          "name_ar": "الجري السريع (السرعة)",
+          "name_fr": "Course de vitesse (sprint)",
+          "details_ar": "مسافة قصيرة (60 إلى 100 م) على الأرجح. اقتراح تدريبي فقط: لم يُنشر أي سلّم رسمي (barème) للاختبارات الرياضية في إعلانات 2026.",
+          "details_fr": "Distance courte (probablement 60 à 100 m). Suggestion d'entraînement uniquement : aucun barème officiel des épreuves sportives n'a été publié dans les avis 2026.",
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "name_ar": "جري التحمّل (نصف الطويل)",
+          "name_fr": "Course d'endurance (demi-fond)",
+          "details_ar": "مسافة بين 1000 و3000 م حسب الجنس على الأرجح. اقتراح تدريبي فقط: لم يُنشر أي سلّم رسمي (barème) للاختبارات الرياضية في إعلانات 2026.",
+          "details_fr": "Distance probable entre 1 000 et 3 000 m selon le sexe. Suggestion d'entraînement uniquement : aucun barème officiel des épreuves sportives n'a été publié dans les avis 2026.",
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "name_ar": "تمارين القوة (العقلة / الانبطاح المائل / عضلات البطن)",
+          "name_fr": "Renforcement musculaire (tractions / pompes / abdominaux)",
+          "details_ar": "عدد التكرارات في زمن محدد. اقتراح تدريبي فقط: لم يُنشر أي سلّم رسمي (barème) للاختبارات الرياضية في إعلانات 2026.",
+          "details_fr": "Nombre de répétitions en temps limité. Suggestion d'entraînement uniquement : aucun barème officiel des épreuves sportives n'a été publié dans les avis 2026.",
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "name_ar": "القفز (الطولي أو العالي)",
+          "name_fr": "Saut (longueur ou hauteur)",
+          "details_ar": "اختبار قوة انفجارية محتمل. اقتراح تدريبي فقط: لم يُنشر أي سلّم رسمي (barème) للاختبارات الرياضية في إعلانات 2026.",
+          "details_fr": "Épreuve probable de détente/puissance. Suggestion d'entraînement uniquement : aucun barème officiel des épreuves sportives n'a été publié dans les avis 2026.",
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        }
+      ],
+      "required_documents": [
+        {
+          "text_ar": "وصل تنزيل مبلغ مالي قدره 10 دنانير بالحساب البريدي للمركز الوطني للتكوين المستمر للأمن الوطني بقرطاج بريصا.",
+          "text_fr": "Récépissé de versement de 10 dinars au compte postal du Centre national de formation continue de la Sûreté nationale (Carthage Byrsa).",
+          "source_key": "s9",
+          "confidence": "MEDIUM",
+          "needs_verification": false
+        },
+        {
+          "text_ar": "نسخة من شهادة الماجستير أو الشهادة الوطنية للمهندس أو شهادة تكوين معادلة لهذا المستوى.",
+          "text_fr": "Copie du master, du diplôme national d'ingénieur ou d'un diplôme de formation équivalent.",
+          "source_key": "s14",
+          "confidence": "MEDIUM",
+          "needs_verification": false
+        },
+        {
+          "text_ar": "إرسال الملف عبر البريد مضمون الوصول إلى إدارة الانتدابات بقرطاج بريصا في أجل أقصاه 30 جويلية 2026، مع التنصيص على الظرف الخارجي: «ملازمين أول انتداب مباشر».",
+          "text_fr": "Envoi du dossier par courrier recommandé à la Direction des recrutements (Carthage Byrsa) au plus tard le 30/07/2026, avec la mention « ملازمين أول انتداب مباشر » sur l'enveloppe extérieure.",
+          "source_key": "s25",
+          "confidence": "MEDIUM",
+          "needs_verification": false
+        },
+        {
+          "text_ar": "نسخة مطبوعة من استمارة التسجيل عن بعد (recrutementdgsn).",
+          "text_fr": "Copie imprimée du formulaire d'inscription en ligne (recrutementdgsn).",
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "text_ar": "نسخة من بطاقة التعريف الوطنية.",
+          "text_fr": "Copie de la carte d'identité nationale.",
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "text_ar": "نسخة من شهادة البكالوريا وبطاقات الأعداد لكامل سنوات الدراسة الجامعية.",
+          "text_fr": "Copie du baccalauréat et des relevés de notes de toutes les années universitaires.",
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "text_ar": "وثيقة تثبت الوضعية تجاه الخدمة الوطنية (للذكور).",
+          "text_fr": "Pièce justifiant la situation vis-à-vis du service national (hommes).",
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "text_ar": "أظرف خالصة معلوم البريد تحمل عنوان المترشح.",
+          "text_fr": "Enveloppes timbrées libellées à l'adresse du candidat.",
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        }
+      ],
+      "blueprint": {
+        "total_minutes": 180,
+        "fidelity": "APPROXIMATED",
+        "sections": [
+          {
+            "domain": "CULTURE_GENERALE",
+            "specialty_key": null,
+            "count": 20,
+            "minutes": 25
+          },
+          {
+            "domain": "ARABIC",
+            "specialty_key": null,
+            "count": 10,
+            "minutes": 12
+          },
+          {
+            "domain": "FRENCH",
+            "specialty_key": null,
+            "count": 15,
+            "minutes": 18
+          },
+          {
+            "domain": "SPECIALTY",
+            "specialty_key": "spec.police-officier.droit-penal-procedure",
+            "count": 15,
+            "minutes": 25
+          },
+          {
+            "domain": "SPECIALTY",
+            "specialty_key": "spec.droit-public",
+            "count": 10,
+            "minutes": 15
+          },
+          {
+            "domain": "SPECIALTY",
+            "specialty_key": "spec.droit-administratif",
+            "count": 10,
+            "minutes": 15
+          },
+          {
+            "domain": "SPECIALTY",
+            "specialty_key": "spec.securite-droits",
+            "count": 10,
+            "minutes": 15
+          },
+          {
+            "domain": "SPECIALTY",
+            "specialty_key": "spec.police-officier.analyse-situations",
+            "count": 10,
+            "minutes": 25
+          },
+          {
+            "domain": "LOGIC",
+            "specialty_key": null,
+            "count": 10,
+            "minutes": 15
+          },
+          {
+            "domain": "PSYCHOTECH",
+            "specialty_key": null,
+            "count": 10,
+            "minutes": 15
+          }
+        ]
+      }
+    },
+    {
+      "slug": "officier-police-adjoint-judiciaire",
+      "title_ar": "ضابط شرطة مساعد – اختصاص عدلي (إناث وذكور)",
+      "title_fr": "Officier de police adjoint – spécialité judiciaire (hommes et femmes)",
+      "diploma_level": "BAC",
+      "eligibility": {
+        "min_age": 20,
+        "max_age": 24,
+        "genders": [
+          "M",
+          "F"
+        ],
+        "nationality": "TN",
+        "diplomas": [
+          "BAC"
+        ],
+        "specialties": [],
+        "min_height_cm_male": 170,
+        "min_height_cm_female": 165,
+        "marital_status": null,
+        "other_ar": [
+          "الحصول على شهادة البكالوريا أو شهادة معادلة لها على الأقل أو شهادة تكوين معادلة لهذا المستوى.",
+          "الجنسية التونسية مع مراعاة الموانع المنصوص عليها بمجلة الجنسية.",
+          "السن محتسب في 01 جانفي 2026 مع إمكانية التمتع بالاستثناءات القانونية المتعلقة بالسن.",
+          "اللياقة الصحية والنفسية والقدرة على مباشرة العمل ليلا ونهارا بكامل تراب الجمهورية.",
+          "شرط قوة الإبصار: الشروط العامة للسلك تنص على 15/20 للعينين قبل الإصلاح (لم نتثبت منه في إعلان 2026).",
+          "يخضع المترشح للقيس وللتثبت من السوابق العدلية."
+        ],
+        "other_fr": [
+          "Être titulaire au moins du baccalauréat, d'un diplôme équivalent ou d'un diplôme de formation de ce niveau.",
+          "Nationalité tunisienne, sous réserve des incapacités prévues par le Code de la nationalité.",
+          "Âge apprécié au 1er janvier 2026, avec possibilité de bénéficier des dérogations légales d'âge.",
+          "Aptitude physique et psychologique à servir de jour comme de nuit sur tout le territoire.",
+          "Acuité visuelle : 15/20 pour les deux yeux avant correction selon les conditions générales du corps (non vérifiée dans l'avis 2026).",
+          "Mesure de la taille et vérification des antécédents judiciaires pendant la phase 2."
+        ],
+        "source_key": "s2",
+        "confidence": "MEDIUM",
+        "needs_verification": false,
+        "source_quote": "حاصلاً على شهادة البكالوريا أو على شهادة معادلة لها على الأقل أو على شهادة تكوين منظرة بهذا المستوى ... 20 سنة على الأقل و24 سنة على الأكثر بتاريخ 1 جانفي 2026 ... 1.70م على الأقل بالنسبة للذكور و1.65م بالنسبة للإناث"
+      },
+      "phases": [
+        {
+          "order": 1,
+          "kind": "WRITTEN",
+          "name_ar": "المرحلة الأولى: اختبارات كتابية جهوية",
+          "name_fr": "Phase 1 : épreuves écrites régionales",
+          "is_eliminatory": true,
+          "duration_minutes": null,
+          "description_ar": "يوم 04 أكتوبر 2026 بمراكز اختبار جهوية: تحرير موضوع في الثقافة العامة والإجابة على أسئلة متعددة الاختيارات (QCM). المدة والضوارب ومحاور الأسئلة غير منشورة.",
+          "description_fr": "Le 4 octobre 2026 en centres régionaux : rédaction d'un sujet de culture générale et QCM. Durées, coefficients et contenu du QCM non publiés.",
+          "source_key": "s2",
+          "confidence": "MEDIUM",
+          "needs_verification": false
+        },
+        {
+          "order": 2,
+          "kind": "MEDICAL",
+          "name_ar": "الفحوصات الطبية (المرحلة الثانية)",
+          "name_fr": "Visite médicale (phase 2)",
+          "is_eliminatory": true,
+          "duration_minutes": null,
+          "description_ar": "فحوصات طبية للناجحين في الاختبارات الكتابية.",
+          "description_fr": "Examens médicaux pour les admissibles à l'écrit.",
+          "source_key": "s2",
+          "confidence": "MEDIUM",
+          "needs_verification": false
+        },
+        {
+          "order": 3,
+          "kind": "PHYSICAL",
+          "name_ar": "الاختبارات الرياضية",
+          "name_fr": "Épreuves sportives",
+          "is_eliminatory": true,
+          "duration_minutes": null,
+          "description_ar": "اختبارات رياضية؛ المحتوى والسلم غير منشورين.",
+          "description_fr": "Épreuves sportives ; contenu et barème non publiés.",
+          "source_key": "s2",
+          "confidence": "MEDIUM",
+          "needs_verification": false
+        },
+        {
+          "order": 4,
+          "kind": "PSYCHOTECH",
+          "name_ar": "الاختبار التقني النفسي",
+          "name_fr": "Test psychotechnique",
+          "is_eliminatory": true,
+          "duration_minutes": null,
+          "description_ar": "اختبار تقني نفسي ضمن المرحلة الثانية.",
+          "description_fr": "Test psychotechnique (phase 2).",
+          "source_key": "s2",
+          "confidence": "MEDIUM",
+          "needs_verification": false
+        },
+        {
+          "order": 5,
+          "kind": "FILE_REVIEW",
+          "name_ar": "القيس والتثبت من السوابق العدلية",
+          "name_fr": "Mesure de la taille et contrôle des antécédents judiciaires",
+          "is_eliminatory": true,
+          "duration_minutes": null,
+          "description_ar": "عرض المترشح على القيس (طول القامة) والتثبت من السوابق العدلية.",
+          "description_fr": "Mesure de la taille et vérification du casier / des antécédents judiciaires.",
+          "source_key": "s2",
+          "confidence": "MEDIUM",
+          "needs_verification": false
+        },
+        {
+          "order": 6,
+          "kind": "INTERVIEW",
+          "name_ar": "المقابلة الشفاهية / المثول أمام لجنة المناظرة",
+          "name_fr": "Entretien oral devant le jury",
+          "is_eliminatory": true,
+          "duration_minutes": null,
+          "description_ar": "مقابلة شفاهية أمام لجنة المناظرة.",
+          "description_fr": "Entretien oral devant le jury du concours.",
+          "source_key": "s2",
+          "confidence": "MEDIUM",
+          "needs_verification": false
+        },
+        {
+          "order": 7,
+          "kind": "MEDICAL",
+          "name_ar": "المرحلة الثالثة: فحوصات طبية تكميلية",
+          "name_fr": "Phase 3 : examens médicaux complémentaires",
+          "is_eliminatory": true,
+          "duration_minutes": null,
+          "description_ar": "فحوصات طبية تكميلية.",
+          "description_fr": "Examens médicaux complémentaires.",
+          "source_key": "s2",
+          "confidence": "MEDIUM",
+          "needs_verification": false
+        },
+        {
+          "order": 8,
+          "kind": "PSYCHOTECH",
+          "name_ar": "المرحلة الثالثة: اختبار نفسي معمق",
+          "name_fr": "Phase 3 : test psychologique approfondi",
+          "is_eliminatory": true,
+          "duration_minutes": null,
+          "description_ar": "اختبار نفسي معمّق.",
+          "description_fr": "Test psychologique approfondi.",
+          "source_key": "s2",
+          "confidence": "MEDIUM",
+          "needs_verification": false
+        },
+        {
+          "order": 9,
+          "kind": "TRAINING",
+          "name_ar": "مرحلة التكوين الأساسي",
+          "name_fr": "Formation de base",
+          "is_eliminatory": true,
+          "duration_minutes": null,
+          "description_ar": "المناظرة للقبول بمرحلة تكوين أساسي. المدة والمدرسة غير منشورتين في المقتطفات المتاحة.",
+          "description_fr": "Le concours donne accès à une formation de base ; durée et école non trouvées.",
+          "source_key": "s2",
+          "confidence": "MEDIUM",
+          "needs_verification": false
+        }
+      ],
+      "subjects": [
+        {
+          "phase_order": 1,
+          "domain": "CULTURE_GENERALE",
+          "specialty_key": null,
+          "name_ar": "تحرير موضوع في الثقافة العامة",
+          "name_fr": "Rédaction d'un sujet de culture générale",
+          "coefficient": null,
+          "duration_minutes": null,
+          "question_count": null,
+          "source_key": "s2",
+          "confidence": "MEDIUM",
+          "needs_verification": false
+        },
+        {
+          "phase_order": 1,
+          "domain": "CULTURE_GENERALE",
+          "specialty_key": null,
+          "name_ar": "أسئلة متعددة الاختيارات (QCM) – المحتوى غير محدد في الإعلان",
+          "name_fr": "QCM (contenu non précisé dans l'avis)",
+          "coefficient": null,
+          "duration_minutes": null,
+          "question_count": null,
+          "source_key": "s2",
+          "confidence": "MEDIUM",
+          "needs_verification": false
+        },
+        {
+          "phase_order": 4,
+          "domain": "PSYCHOTECH",
+          "specialty_key": null,
+          "name_ar": "الاختبار التقني النفسي",
+          "name_fr": "Test psychotechnique",
+          "coefficient": null,
+          "duration_minutes": null,
+          "question_count": null,
+          "source_key": "s2",
+          "confidence": "MEDIUM",
+          "needs_verification": false
+        },
+        {
+          "phase_order": 1,
+          "domain": "ARABIC",
+          "specialty_key": null,
+          "name_ar": "اللغة العربية (محتوى محتمل للـQCM)",
+          "name_fr": "Langue arabe (contenu probable du QCM)",
+          "coefficient": null,
+          "duration_minutes": null,
+          "question_count": null,
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "phase_order": 1,
+          "domain": "FRENCH",
+          "specialty_key": null,
+          "name_ar": "اللغة الفرنسية (محتوى محتمل للـQCM)",
+          "name_fr": "Langue française (contenu probable du QCM)",
+          "coefficient": null,
+          "duration_minutes": null,
+          "question_count": null,
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "phase_order": 1,
+          "domain": "LOGIC",
+          "specialty_key": null,
+          "name_ar": "المنطق والاستدلال (محتوى محتمل للـQCM)",
+          "name_fr": "Logique et raisonnement (contenu probable du QCM)",
+          "coefficient": null,
+          "duration_minutes": null,
+          "question_count": null,
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "phase_order": 1,
+          "domain": "SPECIALTY",
+          "specialty_key": "spec.securite-droits",
+          "name_ar": "حقوق الإنسان وأخلاقيات العمل الأمني ومبادئ الإجراءات الجزائية",
+          "name_fr": "Droits de l'homme, déontologie, notions de procédure pénale",
+          "coefficient": null,
+          "duration_minutes": null,
+          "question_count": null,
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "phase_order": 1,
+          "domain": "SPECIALTY",
+          "specialty_key": "spec.police-officier.droit-penal-procedure",
+          "name_ar": "مبادئ القانون الجزائي والضابطة العدلية (اختصاص عدلي)",
+          "name_fr": "Notions de droit pénal et de police judiciaire (spécialité judiciaire)",
+          "coefficient": null,
+          "duration_minutes": null,
+          "question_count": null,
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        }
+      ],
+      "physical_tests": [
+        {
+          "name_ar": "الجري السريع (السرعة)",
+          "name_fr": "Course de vitesse (sprint)",
+          "details_ar": "مسافة قصيرة (60 إلى 100 م) على الأرجح. اقتراح تدريبي فقط: لم يُنشر أي سلّم رسمي (barème) للاختبارات الرياضية في إعلانات 2026.",
+          "details_fr": "Distance courte (probablement 60 à 100 m). Suggestion d'entraînement uniquement : aucun barème officiel des épreuves sportives n'a été publié dans les avis 2026.",
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "name_ar": "جري التحمّل (نصف الطويل)",
+          "name_fr": "Course d'endurance (demi-fond)",
+          "details_ar": "مسافة بين 1000 و3000 م حسب الجنس على الأرجح. اقتراح تدريبي فقط: لم يُنشر أي سلّم رسمي (barème) للاختبارات الرياضية في إعلانات 2026.",
+          "details_fr": "Distance probable entre 1 000 et 3 000 m selon le sexe. Suggestion d'entraînement uniquement : aucun barème officiel des épreuves sportives n'a été publié dans les avis 2026.",
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "name_ar": "تمارين القوة (العقلة / الانبطاح المائل / عضلات البطن)",
+          "name_fr": "Renforcement musculaire (tractions / pompes / abdominaux)",
+          "details_ar": "عدد التكرارات في زمن محدد. اقتراح تدريبي فقط: لم يُنشر أي سلّم رسمي (barème) للاختبارات الرياضية في إعلانات 2026.",
+          "details_fr": "Nombre de répétitions en temps limité. Suggestion d'entraînement uniquement : aucun barème officiel des épreuves sportives n'a été publié dans les avis 2026.",
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "name_ar": "القفز (الطولي أو العالي)",
+          "name_fr": "Saut (longueur ou hauteur)",
+          "details_ar": "اختبار قوة انفجارية محتمل. اقتراح تدريبي فقط: لم يُنشر أي سلّم رسمي (barème) للاختبارات الرياضية في إعلانات 2026.",
+          "details_fr": "Épreuve probable de détente/puissance. Suggestion d'entraînement uniquement : aucun barème officiel des épreuves sportives n'a été publié dans les avis 2026.",
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        }
+      ],
+      "required_documents": [
+        {
+          "text_ar": "مطلب ترشح.",
+          "text_fr": "Demande de candidature.",
+          "source_key": "s2",
+          "confidence": "MEDIUM",
+          "needs_verification": false
+        },
+        {
+          "text_ar": "نسخة من بطاقة التعريف الوطنية.",
+          "text_fr": "Copie de la carte d'identité nationale.",
+          "source_key": "s2",
+          "confidence": "MEDIUM",
+          "needs_verification": false
+        },
+        {
+          "text_ar": "نسخة من شهادة البكالوريا أو شهادة المعادلة.",
+          "text_fr": "Copie du baccalauréat ou de l'attestation d'équivalence.",
+          "source_key": "s2",
+          "confidence": "MEDIUM",
+          "needs_verification": false
+        },
+        {
+          "text_ar": "إرسال الملف كاملا عبر البريد مضمون الوصول إلى إدارة الانتدابات في أجل أقصاه 27 جويلية 2026.",
+          "text_fr": "Envoi du dossier complet par courrier recommandé à la Direction des recrutements au plus tard le 27/07/2026.",
+          "source_key": "s16",
+          "confidence": "MEDIUM",
+          "needs_verification": false
+        },
+        {
+          "text_ar": "وصل خلاص معلوم المشاركة (10 دنانير على الأرجح، كما في مناظرات الأمن الوطني الأخرى).",
+          "text_fr": "Récépissé des frais de participation (probablement 10 dinars, comme pour les autres concours de la Sûreté).",
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "text_ar": "نسخة مطبوعة من استمارة التسجيل عن بعد.",
+          "text_fr": "Copie imprimée du formulaire d'inscription en ligne.",
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "text_ar": "بطاقة أعداد البكالوريا.",
+          "text_fr": "Relevé de notes du baccalauréat.",
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "text_ar": "أظرف خالصة معلوم البريد تحمل عنوان المترشح.",
+          "text_fr": "Enveloppes timbrées libellées à l'adresse du candidat.",
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        }
+      ],
+      "blueprint": {
+        "total_minutes": 120,
+        "fidelity": "APPROXIMATED",
+        "sections": [
+          {
+            "domain": "CULTURE_GENERALE",
+            "specialty_key": null,
+            "count": 30,
+            "minutes": 30
+          },
+          {
+            "domain": "ARABIC",
+            "specialty_key": null,
+            "count": 10,
+            "minutes": 12
+          },
+          {
+            "domain": "FRENCH",
+            "specialty_key": null,
+            "count": 10,
+            "minutes": 12
+          },
+          {
+            "domain": "LOGIC",
+            "specialty_key": null,
+            "count": 10,
+            "minutes": 15
+          },
+          {
+            "domain": "NUMERICAL",
+            "specialty_key": null,
+            "count": 5,
+            "minutes": 8
+          },
+          {
+            "domain": "SPECIALTY",
+            "specialty_key": "spec.securite-droits",
+            "count": 10,
+            "minutes": 12
+          },
+          {
+            "domain": "SPECIALTY",
+            "specialty_key": "spec.police-officier.droit-penal-procedure",
+            "count": 10,
+            "minutes": 15
+          },
+          {
+            "domain": "SPECIALTY",
+            "specialty_key": "spec.droit-public",
+            "count": 5,
+            "minutes": 6
+          },
+          {
+            "domain": "PSYCHOTECH",
+            "specialty_key": null,
+            "count": 10,
+            "minutes": 10
+          }
+        ]
+      }
+    }
+  ],
+  "specialty_syllabus": [
+    {
+      "key": "spec.police-officier.droit-penal-procedure",
+      "parent_key": null,
+      "level": "UNIT",
+      "title_ar": "القانون الجزائي والإجراءات الجزائية – الضابطة العدلية",
+      "title_fr": "Droit pénal et procédure pénale – police judiciaire",
+      "scope": "SUGGESTED",
+      "source_key": null,
+      "objectives": [
+        {
+          "key": "spec.police-officier.droit-penal-procedure.o1",
+          "text_ar": "التمييز بين الجنايات والجنح والمخالفات وفهم أركان الجريمة.",
+          "text_fr": "Distinguer crimes, délits et contraventions et identifier les éléments constitutifs de l'infraction."
+        },
+        {
+          "key": "spec.police-officier.droit-penal-procedure.o2",
+          "text_ar": "معرفة مهام الضابطة العدلية ومن يمارسها حسب مجلة الإجراءات الجزائية.",
+          "text_fr": "Connaître les missions de la police judiciaire et la liste de ses officiers selon le Code de procédure pénale."
+        },
+        {
+          "key": "spec.police-officier.droit-penal-procedure.o3",
+          "text_ar": "التمييز بين التلبس والبحث الأولي والإنابة العدلية.",
+          "text_fr": "Distinguer flagrant délit, enquête préliminaire et commission rogatoire."
+        }
+      ]
+    },
+    {
+      "key": "spec.police-officier.droit-penal-general",
+      "parent_key": "spec.police-officier.droit-penal-procedure",
+      "level": "TOPIC",
+      "title_ar": "القانون الجزائي العام",
+      "title_fr": "Droit pénal général",
+      "scope": "SUGGESTED",
+      "source_key": null,
+      "objectives": [
+        {
+          "key": "spec.police-officier.droit-penal-general.o1",
+          "text_ar": "شرح مبدأ شرعية الجرائم والعقوبات.",
+          "text_fr": "Expliquer le principe de légalité des délits et des peines."
+        },
+        {
+          "key": "spec.police-officier.droit-penal-general.o2",
+          "text_ar": "التمييز بين المحاولة والمشاركة والمسؤولية الجزائية وموانعها.",
+          "text_fr": "Distinguer tentative, complicité, responsabilité pénale et causes d'irresponsabilité."
+        }
+      ]
+    },
+    {
+      "key": "spec.police-officier.procedure-penale",
+      "parent_key": "spec.police-officier.droit-penal-procedure",
+      "level": "TOPIC",
+      "title_ar": "الإجراءات الجزائية وأعمال الضابطة العدلية",
+      "title_fr": "Procédure pénale et actes de police judiciaire",
+      "scope": "SUGGESTED",
+      "source_key": null,
+      "objectives": [
+        {
+          "key": "spec.police-officier.procedure-penale.o1",
+          "text_ar": "معرفة ضوابط الاحتفاظ وحقوق المحتفظ به (القانون عدد 5 لسنة 2016).",
+          "text_fr": "Connaître le régime de la garde à vue et les droits de la personne gardée à vue (loi n° 2016-5)."
+        },
+        {
+          "key": "spec.police-officier.procedure-penale.o2",
+          "text_ar": "معرفة شروط التفتيش والحجز والمعاينة.",
+          "text_fr": "Connaître les conditions de la perquisition, de la saisie et des constatations."
+        },
+        {
+          "key": "spec.police-officier.procedure-penale.o3",
+          "text_ar": "تحرير محضر بحث عدلي سليم شكلا ومضمونا.",
+          "text_fr": "Rédiger un procès-verbal d'enquête judiciaire correct en la forme et au fond."
+        }
+      ]
+    },
+    {
+      "key": "spec.police-officier.analyse-situations",
+      "parent_key": null,
+      "level": "UNIT",
+      "title_ar": "تحليل الوضعيات المهنية ودراسة الحالات",
+      "title_fr": "Analyse de situations professionnelles et études de cas",
+      "scope": "SUGGESTED",
+      "source_key": "s9",
+      "objectives": [
+        {
+          "key": "spec.police-officier.analyse-situations.o1",
+          "text_ar": "تحليل وضعية أمنية: الوقائع، الإشكال، الإطار القانوني، الخيارات، القرار.",
+          "text_fr": "Analyser une situation de sécurité : faits, problème, cadre juridique, options, décision."
+        },
+        {
+          "key": "spec.police-officier.analyse-situations.o2",
+          "text_ar": "ترتيب الأولويات واتخاذ قرار يحترم الشرعية وحقوق الإنسان.",
+          "text_fr": "Hiérarchiser les priorités et décider dans le respect de la légalité et des droits de l'homme."
+        },
+        {
+          "key": "spec.police-officier.analyse-situations.o3",
+          "text_ar": "قيادة فريق والتواصل مع المواطنين والتصرف في الأزمات.",
+          "text_fr": "Encadrer une équipe, communiquer avec le public et gérer une crise."
+        }
+      ]
+    },
+    {
+      "key": "spec.police-officier.institutions-securitaires",
+      "parent_key": null,
+      "level": "UNIT",
+      "title_ar": "تنظيم قوات الأمن الداخلي وإطارها القانوني",
+      "title_fr": "Organisation et cadre juridique des forces de sécurité intérieure",
+      "scope": "SUGGESTED",
+      "source_key": "s6",
+      "objectives": [
+        {
+          "key": "spec.police-officier.institutions-securitaires.o1",
+          "text_ar": "معرفة تنظيم وزارة الداخلية والإدارة العامة للأمن الوطني.",
+          "text_fr": "Connaître l'organisation du ministère de l'Intérieur et de la Direction générale de la Sûreté nationale."
+        },
+        {
+          "key": "spec.police-officier.institutions-securitaires.o2",
+          "text_ar": "معرفة القانون الأساسي العام لقوات الأمن الداخلي (القانون عدد 70 لسنة 1982) والنظام الأساسي الخاص (الأمر عدد 1160 لسنة 2006).",
+          "text_fr": "Connaître le statut général des forces de sécurité intérieure (loi n° 82-70) et le statut particulier (décret n° 2006-1160)."
+        },
+        {
+          "key": "spec.police-officier.institutions-securitaires.o3",
+          "text_ar": "معرفة مبادئ مدونة سلوك قوات الأمن الداخلي (الأمر عدد 240 لسنة 2023).",
+          "text_fr": "Connaître les principes du code de conduite des forces de sécurité intérieure (décret n° 2023-240)."
+        }
+      ]
+    }
+  ],
+  "past_exams": [],
+  "tips_ar": [
+    "تابع موقع وزارة الداخلية (interieur.gov.tn) ومنصة recrutementdgsn.interieur.gov.tn: إعلانات 2026 نُشرت في جويلية بآجال تسجيل لا تتجاوز ثلاثة أسابيع.",
+    "أرسل ملفك بالبريد مضمون الوصول قبل الأجل بأيام واحتفظ بالوصل، واكتب على الظرف التنصيص المطلوب حرفيا (مثال: «ملازمين أول انتداب مباشر»).",
+    "تثبّت من طول قامتك (1.70م للذكور و1.65م للإناث) ومن قوة إبصارك قبل الترشح، فهي شروط إقصائية.",
+    "حضّر الثقافة العامة باللغتين العربية والفرنسية: المؤسسات التونسية ودستور 2022، الأحداث الوطنية والدولية، الاقتصاد والمجتمع.",
+    "للملازمين الأول: راجع مواد اختصاص شهادتك (الحقوق، الإعلامية...) وتدرّب على تحليل الوضعيات المهنية وفق خطة: الوقائع، الإشكال، الإطار القانوني، الحلول، القرار.",
+    "لضباط الشرطة المساعدين (اختصاص عدلي): ركّز على مبادئ القانون الجزائي والإجراءات الجزائية وأعمال الضابطة العدلية وحقوق المحتفظ به.",
+    "ابدأ التحضير البدني قبل أشهر (تحمّل، سرعة، قوة)، فلا يوجد سلّم رسمي منشور.",
+    "تدرّب على الاختبارات التقنية النفسية (سلاسل، مصفوفات، انتباه) في زمن محدد، وحضّر المقابلة: الدافعية، الانضباط، مدونة سلوك قوات الأمن الداخلي."
+  ],
+  "tips_fr": [
+    "Surveillez interieur.gov.tn et la plateforme recrutementdgsn.interieur.gov.tn : les avis 2026 ont été publiés en juillet avec des fenêtres d'inscription d'environ trois semaines.",
+    "Envoyez le dossier en recommandé plusieurs jours avant la date limite, gardez le récépissé et reportez exactement la mention exigée sur l'enveloppe (ex. « ملازمين أول انتداب مباشر »).",
+    "Vérifiez votre taille (1,70 m H / 1,65 m F) et votre acuité visuelle avant de candidater : ce sont des conditions éliminatoires.",
+    "Préparez la culture générale dans les deux langues : institutions tunisiennes et Constitution de 2022, actualité nationale et internationale, économie et société.",
+    "Lieutenants : révisez les matières de votre spécialité (droit, informatique…) et entraînez-vous à l'analyse de situations : faits, problème, cadre juridique, options, décision.",
+    "Officiers de police adjoints (judiciaire) : priorité au droit pénal, à la procédure pénale, aux actes de police judiciaire et aux droits de la personne gardée à vue.",
+    "Commencez la préparation physique plusieurs mois à l'avance (endurance, vitesse, force) : aucun barème officiel n'est publié.",
+    "Entraînez-vous aux tests psychotechniques chronométrés (séries, matrices, attention) et préparez l'entretien : motivation, discipline, code de conduite des forces de sécurité intérieure."
+  ],
+  "research_notes": "LIMITE MÉTHODOLOGIQUE : WebFetch est bloqué par le proxy pour tous les domaines utiles (interieur.gov.tn, services.interieur.gov.tn, recrutementdgsn, legislation-securite.tn, presse). Le budget WebSearch partagé a été épuisé en cours de recherche (environ 10 requêtes effectuées pour cette famille). Toutes les données proviennent donc des extraits et résumés du moteur WebSearch citant les avis officiels (s1, s2) et leurs relais (s9–s26). Aucun texte officiel n'a été lu en entier. Les source_quote sont des extraits tels que restitués par le moteur et doivent être recollés sur l'original. FAITS RETENUS (needs_verification=false, confidence MEDIUM) : existence de deux avis officiels de juillet 2026 sur interieur.gov.tn, confirmés par plusieurs relais concordants. (1) Officiers de police adjoints, spécialité judiciaire (H/F) [s2, s16–s23, s26] : bac ou équivalent ; 20–24 ans au 01/01/2026 ; taille 1,70/1,65 ; inscription en ligne du 06 au 26/07/2026 ; dossier en recommandé au plus tard le 27/07/2026 ; écrit régional le 04/10/2026 (sujet de culture générale + QCM) ; phase 2 = médical, sport, psychotechnique, mesure de la taille et antécédents judiciaires, entretien ; phase 3 = médical complémentaire et psychologique approfondi. (2) Lieutenants principaux, recrutement direct [s1, s9–s15, s24, s25] : bac+5 (master, ingénieur ou équivalent) dans les spécialités d'une annexe non consultée ; 20–30 ans au 01/01/2026 (dérogation d'un an selon les besoins, dispenses liées au service national) ; taille 1,70/1,65 ; inscription du 10 au 29/07/2026 ; dossier par recommandé à la Direction des recrutements (Carthage Byrsa) au plus tard le 30/07/2026 ; frais de 10 DT ; écrits régionaux les 13 et 20/12/2026 (culture générale AR+FR, spécialité, analyse/situations) ; phase 2 centrale = médical, sport, psychotechnique, oral de spécialité, jury ; phase 3 = analyses complémentaires et examens psychologiques approfondis. À VÉRIFIER : (a) nombre de postes : publié pour aucun des deux concours (positions_count=null) ; nombre de candidats inconnu. (b) Statut EXAM_DONE de l'OPA 2026 : déduit de la date (04/10/2026), aucun compte rendu post-épreuve trouvé ; résultats non publiés au 07/10/2026. (c) Pour les lieutenants, la date limite en ligne est le 29/07 et l'envoi postal le 30/07 ; le 2e jour d'écrit (20/12/2026) n'apparaît pas dans exam_date. (d) Liste des spécialités admises (annexe) inconnue, donc specialties=[]. Les sujets de spécialité suggérés (droit, informatique) sont des hypothèses LOW. (e) Ouverture du concours des lieutenants aux femmes : déduite de la taille minimale féminine, non lue explicitement. (f) Acuité visuelle exacte non lue dans les avis 2026 ; valeur générale 15/20 (s4). (g) Durées, coefficients et nombre de questions : non publiés, d'où des blueprints APPROXIMATED. La rédaction de culture générale (OPA) n'est pas modélisée en questions. (h) Le caractère éliminatoire de chaque sous-épreuve des phases 2 et 3 est présumé (true), surtout pour l'oral de spécialité des lieutenants. (i) Épreuves sportives : aucun barème officiel ; physical_tests = suggestions d'entraînement. (j) Pièces non confirmées : CIN et relevés (lieutenants), frais de 10 DT et formulaire imprimé (OPA), enveloppes timbrées, service national. (k) Durée, lieu et école de la formation de base : non trouvés (consulter le décret 2006-1166, s7). ÉDITIONS ANTÉRIEURES 2023–2025 : aucune session de lieutenants (Sûreté) ni d'OPA n'a pu être confirmée avant le budget épuisé. À rechercher sur interieur.gov.tn (rubrique s29). Une session 2027 est indiquée en EXPECTED (suggestion LOW). GRADES : les avis 2026 emploient « ملازم أول » et « ضابط شرطة مساعد ». La correspondance exacte avec la hiérarchie (ضابط شرطة, محافظ شرطة / commissaire…) doit être vérifiée dans le décret 2006-1160 tel que modifié (s6). Aucun recrutement externe direct de commissaires de police (محافظ شرطة) n'a été trouvé : ce grade semble s'obtenir par avancement ou concours interne, ce qui reste une hypothèse non vérifiée. Aucune position commissaire n'est donc créée. NE PAS CONFONDRE : (1) les concours « ملازم أول مباشر » du ministère de la Défense (s27) et (2) les lieutenants de la Garde nationale (s28) relèvent d'autres familles. (3) Dans police-gardien-paix.json, la source s24 attribue aux lieutenants les dates « inscription 06–26/07/2026, écrit 04/10/2026 » : ces dates sont celles du concours OPA judiciaire (s2). Les lieutenants ont pour dates : inscription 10–29/07/2026, écrits les 13 et 20/12/2026. Cette note est à corriger dans ce fichier. (4) Dans _openings.json, l'avis OPA judiciaire porte family_slug_guess « police-inspecteur » : il relève de la famille police-officier. PAST EXAMS : aucune annale officielle ou communautaire trouvée pour ces deux concours (past_exams vide). SYLLABUS : les nœuds spec.police-officier.* sont SUGGESTED. Les références juridiques (loi 82-70, loi 2016-5 sur la garde à vue, décret 2023-240) sont à vérifier sur le JORT (iort.gov.tn / legislation.tn)."
+}

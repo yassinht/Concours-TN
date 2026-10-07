@@ -750,6 +750,50 @@
      "text_fr": "Choisir le comportement adapté dans une situation professionnelle"
     }
    ]
+  },
+  {
+   "key": "cg.methodologie-redaction",
+   "parent_key": "cg",
+   "level": "TOPIC",
+   "domain": "CULTURE_GENERALE",
+   "title_ar": "منهجية تحرير موضوع ثقافة عامة",
+   "title_fr": "Méthodologie de la rédaction (culture générale)",
+   "scope": "GENERAL_SKILL",
+   "source_key": null,
+   "objectives": [
+    {
+     "key": "cg.methodologie-redaction.o1",
+     "text_ar": "بناء موضوع إنشائي: مقدمة، عرض، خاتمة",
+     "text_fr": "Structurer une rédaction : introduction, développement, conclusion"
+    },
+    {
+     "key": "cg.methodologie-redaction.o2",
+     "text_ar": "توظيف الأمثلة والحجج من الواقع التونسي",
+     "text_fr": "Mobiliser arguments et exemples tirés du contexte tunisien"
+    }
+   ]
+  },
+  {
+   "key": "cg.entretien-oral",
+   "parent_key": "cg",
+   "level": "TOPIC",
+   "domain": "CULTURE_GENERALE",
+   "title_ar": "الاستعداد للاختبار الشفاهي",
+   "title_fr": "Préparation à l'épreuve orale",
+   "scope": "GENERAL_SKILL",
+   "source_key": null,
+   "objectives": [
+    {
+     "key": "cg.entretien-oral.o1",
+     "text_ar": "تقديم النفس والإجابة عن أسئلة الدافعية",
+     "text_fr": "Se présenter et répondre aux questions de motivation"
+    },
+    {
+     "key": "cg.entretien-oral.o2",
+     "text_ar": "السلوك والتواصل أمام لجنة",
+     "text_fr": "Adopter la bonne posture et communication face au jury"
+    }
+   ]
   }
  ]
 }
