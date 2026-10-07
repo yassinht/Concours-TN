@@ -1,0 +1,1310 @@
+{
+  "family": {
+    "slug": "protection-civile",
+    "field": "SECURITY",
+    "organization": {
+      "slug": "onpc",
+      "name_ar": "الديوان الوطني للحماية المدنية",
+      "name_fr": "Office National de la Protection Civile (ONPC)",
+      "ministry_fr": "Ministère de l'Intérieur",
+      "website": "https://www.interieur.gov.tn"
+    },
+    "name_ar": "مناظرات الانتداب بسلك الحماية المدنية (عرفاء وضباط)",
+    "name_fr": "Concours de recrutement du corps de la protection civile (caporaux et officiers)",
+    "description_ar": "مناظرات خارجية بالاختبارات تنظمها وزارة الداخلية لفائدة الديوان الوطني للحماية المدنية للقبول بمرحلة تكوين أساسي لانتداب أعوان الحماية المدنية (رتبة عريف) وضباطها. حسب مقال صحفي (لابراس، 6 ديسمبر 2025) فُتحت مناظرة لانتداب 280 عريفا: إتمام السنة الرابعة من التعليم الثانوي، السن بين 20 و24 سنة (25 سنة لمن أدى الخدمة العسكرية)، طول 1.70 م للذكور و1.65 م للإناث، حدة بصر 15/20، تسجيل من 8 إلى 19 ديسمبر 2025 واختبار كتابي يوم 8 فيفري 2026. وتمت برمجة نحو 400 انتداب للحماية المدنية في ميزانية 2026. تنبيه: هذه المعطيات منقولة عن الصحافة ولم تتم مطابقتها بعد مع البلاغ الرسمي، وبقية التفاصيل (المواد، الضوارب، الاختبارات الرياضية، الوثائق، مناظرة الضباط) مقترحة بالقياس على مناظرات قوات الأمن الداخلي وتحتاج إلى تثبت.",
+    "description_fr": "Concours externes sur épreuves organisés par le ministère de l'Intérieur au profit de l'Office national de la protection civile pour l'admission en formation de base en vue du recrutement d'agents (grade de caporal / عريف) et d'officiers. Selon La Presse (06/12/2025), un concours de 280 caporaux a été ouvert : 4e année secondaire achevée, 20 à 24 ans (25 avec service militaire), taille 1,70 m (H) / 1,65 m (F), acuité visuelle 15/20, inscriptions du 8 au 19/12/2025, écrit le 08/02/2026. Environ 400 recrutements sont prévus pour la protection civile au budget 2026. Attention : ces données viennent de la presse et n'ont pas encore été recoupées avec l'avis officiel ; le reste (matières, coefficients, épreuves sportives, pièces, concours d'officiers) est SUGGÉRÉ par analogie avec les autres concours des forces de sécurité intérieure et doit être vérifié.",
+    "frequency": "ANNUAL",
+    "frequency_confidence": "LOW",
+    "popularity": 4,
+    "keywords": [
+      "الحماية المدنية",
+      "الديوان الوطني للحماية المدنية",
+      "مناظرة الحماية المدنية",
+      "عرفاء الحماية المدنية",
+      "عريف حماية مدنية",
+      "عون حماية مدنية",
+      "أعوان الحماية المدنية",
+      "ضابط حماية مدنية",
+      "ملازم حماية مدنية",
+      "مطافئ",
+      "رجل مطافئ",
+      "وزارة الداخلية",
+      "انتدابات وزارة الداخلية",
+      "198",
+      "protection civile",
+      "ONPC",
+      "Office national de la protection civile",
+      "concours protection civile",
+      "caporal protection civile",
+      "agent protection civile",
+      "officier protection civile",
+      "sapeur-pompier",
+      "pompier Tunisie",
+      "concours ministère de l'Intérieur"
+    ]
+  },
+  "sources": [
+    {
+      "key": "s1",
+      "title": "Protection civile : le ministère de l'Intérieur ouvre un concours externe (La Presse, 06/12/2025)",
+      "url": "https://www.lapresse.tn/2025/12/06/protection-civile-le-ministere-de-linterieur-ouvre-un-concours-externe/",
+      "publisher": "La Presse de Tunisie",
+      "source_type": "SECONDARY",
+      "publication_date": "2025-12-06",
+      "retrieved_at": "2026-10-07",
+      "confidence": "MEDIUM",
+      "notes": "Article de presse relayant l'avis du ministère de l'Intérieur pour le recrutement de 280 caporaux de la protection civile. PAGE NON OUVERTE dans cette passe (WebFetch bloqué par le proxy du conteneur, quota WebSearch épuisé) : les faits repris (280 postes, 4e année secondaire, 20-24 ans / 25 avec service militaire, taille 1,70 m H / 1,65 m F, acuité 15/20, inscription 08-19/12/2025, écrit le 08/02/2026, 200 postes en 2023/2024) proviennent du résumé de recherche consigné le même jour dans docs/research/01-market-raw.md. Titre reconstitué à partir de l'URL. À relire intégralement et à recouper avec l'avis officiel (interieur.gov.tn)."
+    },
+    {
+      "key": "s2",
+      "title": "Tunisie – Sécurité nationale : recrutements et achats d'hélicoptères pour 2026 (Webdo)",
+      "url": "https://www.webdo.tn/fr/actualite/national/tunisie-securite-nationale-recrutements-et-achats-dhelicopteres-pour-2026/386885/",
+      "publisher": "Webdo",
+      "source_type": "SECONDARY",
+      "publication_date": null,
+      "retrieved_at": "2026-10-07",
+      "confidence": "MEDIUM",
+      "notes": "Relais des déclarations du ministre de l'Intérieur devant le Parlement sur le budget 2026 : 2 900 recrutements prévus (1 000 Sûreté, 1 500 Garde nationale, 400 Protection civile). Page non ouverte (proxy) ; chiffre repris du résumé de docs/research/01-market-raw.md. Titre reconstitué à partir de l'URL."
+    },
+    {
+      "key": "s3",
+      "title": "Recrutements 2026 du ministère de l'Intérieur – relais AllAfrica (article n° 202510300467)",
+      "url": "https://fr.allafrica.com/stories/202510300467.html",
+      "publisher": "AllAfrica (reprise de presse tunisienne)",
+      "source_type": "SECONDARY",
+      "publication_date": null,
+      "retrieved_at": "2026-10-07",
+      "confidence": "MEDIUM",
+      "notes": "Second relais du chiffre de 400 recrutements Protection civile prévus en 2026 (date probable 30/10/2025 d'après l'identifiant). Page non ouverte (proxy) ; titre non connu exactement."
+    },
+    {
+      "key": "s4",
+      "title": "Avis du ministère de l'Intérieur – concours de caporaux de la Garde nationale (épreuve écrite en arabe : culture générale + QCM)",
+      "url": "https://www.interieur.gov.tn/actualite/30310/",
+      "publisher": "وزارة الداخلية / Ministère de l'Intérieur",
+      "source_type": "OFFICIAL",
+      "publication_date": null,
+      "retrieved_at": "2026-10-07",
+      "confidence": "LOW",
+      "notes": "Concerne la GARDE NATIONALE, pas la protection civile. Utilisé UNIQUEMENT par analogie (même ministère, même grade de caporal, même niveau 4e secondaire) pour suggérer le format de l'écrit. Ne prouve rien pour la protection civile. Page non ouverte (proxy)."
+    },
+    {
+      "key": "s5",
+      "title": "أمر عدد 1166 لسنة 2006 مؤرخ في 13 أفريل 2006 يتعلق بضبط مراحل تكوين أعوان قوات الأمن الداخلي التابعة لوزارة الداخلية",
+      "url": "https://legislation-securite.tn/ar/latest-laws/%D8%A3%D9%85%D8%B1-%D8%B9%D8%AF%D8%AF-1166-%D9%84%D8%B3%D9%86%D8%A9-2006-%D9%85%D8%A4%D8%B1%D8%AE-%D9%81%D9%8A-13-%D8%A3%D9%81%D8%B1%D9%8A%D9%84-2006-%D9%8A%D8%AA%D8%B9%D9%84%D9%82-%D8%A8%D8%B6%D8%A8/",
+      "publisher": "Legislation-securite.tn (base juridique DCAF reproduisant le JORT)",
+      "source_type": "SECONDARY",
+      "publication_date": null,
+      "retrieved_at": "2026-10-07",
+      "confidence": "LOW",
+      "notes": "Décret fixant les cycles de formation des agents des forces de sécurité intérieure relevant du ministère de l'Intérieur ; la protection civile en fait a priori partie mais cela reste à vérifier, ainsi que la durée de la formation de base des caporaux. Non lu (proxy)."
+    },
+    {
+      "key": "s6",
+      "title": "أمر عدد 240 لسنة 2023 مؤرخ في 16 مارس 2023 يتعلق بالمصادقة على مدونة سلوك قوات الأمن الداخلي التابعة لوزارة الداخلية",
+      "url": "https://legislation-securite.tn/ar/latest-laws/%D8%A3%D9%85%D9%80%D8%B1-%D8%B9%D8%AF%D8%AF-240-%D9%84%D8%B3%D9%86%D8%A9-2023-%D9%85%D8%A4%D8%B1%D8%AE-%D9%81%D9%8A-16-%D9%85%D8%A7%D8%B1%D8%B3-2023-%D9%8A%D8%AA%D8%B9%D9%84%D9%82-%D8%A8%D8%A7%D9%84/",
+      "publisher": "Legislation-securite.tn (base juridique DCAF reproduisant le JORT)",
+      "source_type": "SECONDARY",
+      "publication_date": null,
+      "retrieved_at": "2026-10-07",
+      "confidence": "LOW",
+      "notes": "Code de conduite des forces de sécurité intérieure (2023) ; applicabilité au corps de la protection civile probable mais à vérifier. Utile pour l'entretien/jury. Non lu (proxy)."
+    }
+  ],
+  "editions": [
+    {
+      "year": 2023,
+      "session_label": "دورة 2023/2024: 200 عريف (رقم مذكور كمرجع مقارنة في مقال 2025، تواريخ غير معروفة) / Session 2023-2024 : 200 caporaux (chiffre cité en comparaison dans l'article de 2025 ; dates inconnues)",
+      "status": "EXAM_DONE",
+      "registration_open": null,
+      "registration_deadline": null,
+      "exam_date": null,
+      "positions_count": 200,
+      "candidates_count": null,
+      "source_key": "s1",
+      "confidence": "LOW",
+      "needs_verification": true
+    },
+    {
+      "year": 2025,
+      "session_label": "مناظرة خارجية لانتداب 280 عريفا بسلك الحماية المدنية (تسجيل 8–19 ديسمبر 2025، كتابي 8 فيفري 2026) / Concours externe : 280 caporaux de la protection civile (inscription 08–19/12/2025, écrit le 08/02/2026)",
+      "status": "EXAM_DONE",
+      "registration_open": "2025-12-08",
+      "registration_deadline": "2025-12-19",
+      "exam_date": "2026-02-08",
+      "positions_count": 280,
+      "candidates_count": null,
+      "source_key": "s1",
+      "confidence": "MEDIUM",
+      "needs_verification": true
+    },
+    {
+      "year": 2026,
+      "session_label": "دورة 2026 متوقعة: نحو 400 انتداب مبرمج للحماية المدنية في ميزانية 2026 (كل الرتب، دون بلاغ بعد) / Session 2026 attendue : ~400 recrutements prévus au budget 2026 pour la protection civile (tous grades, pas encore d'avis)",
+      "status": "EXPECTED",
+      "registration_open": null,
+      "registration_deadline": null,
+      "exam_date": null,
+      "positions_count": null,
+      "candidates_count": null,
+      "source_key": "s2",
+      "confidence": "LOW",
+      "needs_verification": true
+    }
+  ],
+  "positions": [
+    {
+      "slug": "caporal",
+      "title_ar": "عريف حماية مدنية (عون حماية مدنية)",
+      "title_fr": "Caporal de la protection civile (agent / sapeur-pompier)",
+      "diploma_level": "SECONDARY",
+      "eligibility": {
+        "min_age": 20,
+        "max_age": 24,
+        "genders": [
+          "M",
+          "F"
+        ],
+        "nationality": "TN",
+        "diplomas": [
+          "SECONDARY"
+        ],
+        "specialties": [],
+        "min_height_cm_male": 170,
+        "min_height_cm_female": 165,
+        "marital_status": null,
+        "other_ar": [
+          "إتمام السنة الرابعة من التعليم الثانوي (مستوى الباكالوريا) — لم يتأكد بعد إن كان النجاح في الباكالوريا مشترطا (يرجح لا، كما في مناظرات العرفاء وحفاظ الأمن)",
+          "السن بين 20 و24 سنة، وإلى حدود 25 سنة لمن أدى الخدمة العسكرية (تاريخ احتساب السن غير مؤكد، يرجح غرة جانفي من سنة المناظرة)",
+          "طول القامة 1.70 م على الأقل للذكور و1.65 م على الأقل للإناث",
+          "حدة بصر لا تقل عن 15/20 (يرجح للعينين معا ودون إصلاح — للتثبت)",
+          "[مقترح] الجنسية التونسية والتمتع بالحقوق المدنية وحسن السيرة والأخلاق",
+          "[مقترح] السلامة من الأمراض والقدرة البدنية على العمل ليلا ونهارا وبكامل تراب الجمهورية",
+          "[مقترح] قبول الترشح نهائيا بعد البحث الإداري ومصادقة سلطة الإشراف"
+        ],
+        "other_fr": [
+          "Avoir achevé la 4e année de l'enseignement secondaire (niveau bac) — non confirmé si la réussite au bac est exigée (probablement non, comme pour les caporaux de la Garde et les gardiens de la paix)",
+          "Âge de 20 à 24 ans, jusqu'à 25 ans pour les candidats ayant accompli le service militaire (date de référence non confirmée, probablement le 1er janvier de l'année du concours)",
+          "Taille minimale : 1,70 m pour les hommes, 1,65 m pour les femmes",
+          "Acuité visuelle d'au moins 15/20 (probablement total des deux yeux sans correction — à vérifier)",
+          "[Suggestion] Nationalité tunisienne, jouissance des droits civiques, bonne conduite et moralité",
+          "[Suggestion] Aptitude physique et médicale à servir de jour comme de nuit sur tout le territoire",
+          "[Suggestion] Candidature définitive après enquête administrative et approbation de l'autorité de tutelle"
+        ],
+        "source_key": "s1",
+        "confidence": "MEDIUM",
+        "needs_verification": true,
+        "source_quote": null
+      },
+      "phases": [
+        {
+          "order": 1,
+          "kind": "WRITTEN",
+          "name_ar": "المرحلة الأولى: الاختبار الكتابي",
+          "name_fr": "Phase 1 : épreuve écrite",
+          "is_eliminatory": true,
+          "duration_minutes": null,
+          "description_ar": "اختبار كتابي أجري يوم 8 فيفري 2026 في دورة 2025 (حسب لابراس). المحتوى غير منشور في المصادر المتاحة؛ يرجح بالقياس على مناظرة عرفاء الحرس الوطني أن يكون باللغة العربية ويتضمن تحرير موضوع في الثقافة العامة وأسئلة متعددة الاختيارات (ثقافة عامة، لغة، منطق، إسعافات أولية ووقاية من الحرائق). المدة والضوارب غير معروفة.",
+          "description_fr": "Écrit tenu le 08/02/2026 pour la session 2025 (selon La Presse). Contenu non publié dans les sources disponibles ; par analogie avec le concours des caporaux de la Garde nationale, probablement en arabe avec un sujet de culture générale + un QCM (culture générale, langue, logique, secourisme et prévention incendie). Durée et coefficients inconnus.",
+          "source_key": "s1",
+          "confidence": "MEDIUM",
+          "needs_verification": true
+        },
+        {
+          "order": 2,
+          "kind": "MEDICAL",
+          "name_ar": "الفحص الطبي وقيس الطول والبصر",
+          "name_fr": "Visite médicale, mesure de la taille et de l'acuité visuelle",
+          "is_eliminatory": true,
+          "duration_minutes": null,
+          "description_ar": "[مقترح] فحص طبي إقصائي للناجحين في الكتابي يشمل قيس الطول (1.70/1.65 م) وحدة البصر (15/20) واللياقة الصحية العامة؛ قد تتبعه فحوص تكميلية.",
+          "description_fr": "[Suggestion] Visite médicale éliminatoire pour les admissibles : mesure de la taille (1,70/1,65 m), acuité visuelle (15/20) et aptitude générale ; examens complémentaires possibles.",
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "order": 3,
+          "kind": "PHYSICAL",
+          "name_ar": "الاختبارات الرياضية",
+          "name_fr": "Épreuves sportives",
+          "is_eliminatory": true,
+          "duration_minutes": null,
+          "description_ar": "[مقترح] اختبارات بدنية إقصائية (جري سرعة، جري تحمل، قوة، قفز، وربما تسلق الحبل أو السباحة). لم يُعثر على قائمة رسمية ولا على سلم تنقيط.",
+          "description_fr": "[Suggestion] Épreuves physiques éliminatoires (vitesse, endurance, force, saut, éventuellement grimper de corde ou natation). Aucune liste officielle ni barème trouvés.",
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "order": 4,
+          "kind": "PSYCHOTECH",
+          "name_ar": "الاختبار التقني النفسي",
+          "name_fr": "Test psychotechnique",
+          "is_eliminatory": true,
+          "duration_minutes": null,
+          "description_ar": "[مقترح] اختبار تقني نفسي كتابي (انتباه، منطق، إدراك مكاني، شخصية) كما في بقية مناظرات قوات الأمن الداخلي.",
+          "description_fr": "[Suggestion] Test psychotechnique écrit (attention, logique, perception spatiale, personnalité) comme dans les autres concours des forces de sécurité intérieure.",
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "order": 5,
+          "kind": "ORAL",
+          "name_ar": "المثول أمام لجنة المناظرة",
+          "name_fr": "Passage devant le jury",
+          "is_eliminatory": true,
+          "duration_minutes": null,
+          "description_ar": "[مقترح] مقابلة شفاهية لتقييم الدوافع والسلوك وسرعة البديهة والمعارف العامة حول الحماية المدنية وأرقام النجدة.",
+          "description_fr": "[Suggestion] Entretien avec le jury : motivation, comportement, réactivité, connaissances générales sur la protection civile et les numéros d'urgence.",
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "order": 6,
+          "kind": "TRAINING",
+          "name_ar": "مرحلة التكوين الأساسي",
+          "name_fr": "Formation de base",
+          "is_eliminatory": false,
+          "duration_minutes": null,
+          "description_ar": "[مقترح] قبول الناجحين نهائيا بمرحلة تكوين أساسي بمدرسة للحماية المدنية قبل التعيين برتبة عريف. مدة التكوين ومكانه غير مؤكدين (الإطار العام: أمر 1166 لسنة 2006 المتعلق بمراحل تكوين أعوان قوات الأمن الداخلي — للتثبت من انطباقه).",
+          "description_fr": "[Suggestion] Les lauréats sont admis en formation de base dans une école de la protection civile avant nomination au grade de caporal. Durée et lieu non confirmés (cadre général : décret 2006-1166 sur les cycles de formation des agents des forces de sécurité intérieure — applicabilité à vérifier).",
+          "source_key": "s5",
+          "confidence": "LOW",
+          "needs_verification": true
+        }
+      ],
+      "subjects": [
+        {
+          "phase_order": 1,
+          "domain": "CULTURE_GENERALE",
+          "specialty_key": null,
+          "name_ar": "تحرير موضوع في الثقافة العامة (بالعربية)",
+          "name_fr": "Rédaction d'un sujet de culture générale (en arabe)",
+          "coefficient": null,
+          "duration_minutes": null,
+          "question_count": null,
+          "source_key": "s4",
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "phase_order": 1,
+          "domain": "CULTURE_GENERALE",
+          "specialty_key": null,
+          "name_ar": "أسئلة متعددة الاختيارات في الثقافة العامة (تونس، المؤسسات، الأحداث الجارية، الثقافة العلمية)",
+          "name_fr": "QCM de culture générale (Tunisie, institutions, actualité, culture scientifique)",
+          "coefficient": null,
+          "duration_minutes": null,
+          "question_count": null,
+          "source_key": "s4",
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "phase_order": 1,
+          "domain": "ARABIC",
+          "specialty_key": null,
+          "name_ar": "اللغة العربية: فهم المقروء والقواعد والرسم",
+          "name_fr": "Langue arabe : compréhension, grammaire, orthographe",
+          "coefficient": null,
+          "duration_minutes": null,
+          "question_count": null,
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "phase_order": 1,
+          "domain": "FRENCH",
+          "specialty_key": null,
+          "name_ar": "اللغة الفرنسية (أسئلة أساسية — غير مؤكد وجودها)",
+          "name_fr": "Langue française (questions de base — présence non confirmée)",
+          "coefficient": null,
+          "duration_minutes": null,
+          "question_count": null,
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "phase_order": 1,
+          "domain": "LOGIC",
+          "specialty_key": null,
+          "name_ar": "المنطق والقدرات الذهنية",
+          "name_fr": "Logique et aptitudes intellectuelles",
+          "coefficient": null,
+          "duration_minutes": null,
+          "question_count": null,
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "phase_order": 1,
+          "domain": "NUMERICAL",
+          "specialty_key": null,
+          "name_ar": "الحساب الأساسي (نسب، قاعدة ثلاثية، مسائل)",
+          "name_fr": "Calcul de base (pourcentages, règle de trois, problèmes)",
+          "coefficient": null,
+          "duration_minutes": null,
+          "question_count": null,
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "phase_order": 1,
+          "domain": "SPECIALTY",
+          "specialty_key": "spec.secourisme",
+          "name_ar": "الإسعافات الأولية والوقاية من الحرائق",
+          "name_fr": "Secourisme et prévention incendie",
+          "coefficient": null,
+          "duration_minutes": null,
+          "question_count": null,
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "phase_order": 1,
+          "domain": "SPECIALTY",
+          "specialty_key": "spec.protection-civile.institution",
+          "name_ar": "معارف عامة حول الحماية المدنية: المهام، أرقام النجدة، الرتب، أخلاقيات المهنة",
+          "name_fr": "Connaissances générales sur la protection civile : missions, numéros d'urgence, grades, déontologie",
+          "coefficient": null,
+          "duration_minutes": null,
+          "question_count": null,
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "phase_order": 4,
+          "domain": "PSYCHOTECH",
+          "specialty_key": null,
+          "name_ar": "الاختبار التقني النفسي",
+          "name_fr": "Test psychotechnique",
+          "coefficient": null,
+          "duration_minutes": null,
+          "question_count": null,
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        }
+      ],
+      "physical_tests": [
+        {
+          "name_ar": "قيس الطول وحدة البصر",
+          "name_fr": "Mesure de la taille et de l'acuité visuelle",
+          "details_ar": "شرط إقصائي: 1.70 م للذكور و1.65 م للإناث، وحدة بصر 15/20 على الأقل (حسب ملخص مقال لابراس لدورة 2025).",
+          "details_fr": "Condition éliminatoire : 1,70 m (H) / 1,65 m (F) et acuité visuelle d'au moins 15/20 (selon le résumé de l'article de La Presse, session 2025).",
+          "source_key": "s1",
+          "confidence": "MEDIUM",
+          "needs_verification": true
+        },
+        {
+          "name_ar": "جري السرعة",
+          "name_fr": "Course de vitesse",
+          "details_ar": "[مقترح] 80 م أو 100 م بالقياس على مناظرات قوات الأمن الداخلي. لا يوجد سلم تنقيط منشور.",
+          "details_fr": "[Suggestion] 80 m ou 100 m par analogie avec les autres concours des forces de sécurité intérieure. Aucun barème publié.",
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "name_ar": "جري التحمل",
+          "name_fr": "Course d'endurance",
+          "details_ar": "[مقترح] نحو 1000 م أو 1500 م للذكور ومسافة أقصر للإناث. لا يوجد سلم تنقيط منشور.",
+          "details_fr": "[Suggestion] Environ 1 000 m ou 1 500 m pour les hommes, distance plus courte pour les femmes. Aucun barème publié.",
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "name_ar": "تمارين القوة",
+          "name_fr": "Épreuve de force",
+          "details_ar": "[مقترح] العقلة (الجذب على العارضة) للذكور، والتعليق أو تمارين الضغط للإناث.",
+          "details_fr": "[Suggestion] Tractions à la barre fixe pour les hommes ; suspension ou pompes pour les femmes.",
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "name_ar": "القفز",
+          "name_fr": "Saut",
+          "details_ar": "[مقترح] القفز الطويل أو العالي من الثبات أو بالاندفاع.",
+          "details_fr": "[Suggestion] Saut en longueur ou en hauteur (sans ou avec élan).",
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "name_ar": "تسلق الحبل أو السباحة",
+          "name_fr": "Grimper de corde ou natation",
+          "details_ar": "[مقترح] اختبارات شائعة لدى فرق الإطفاء والإنقاذ في بلدان أخرى؛ لم يتأكد إدراجها في المناظرة التونسية. يُنصح بالتدرب عليها احتياطا.",
+          "details_fr": "[Suggestion] Épreuves classiques des sapeurs-pompiers dans d'autres pays ; leur présence dans le concours tunisien n'est pas confirmée. S'y entraîner par précaution.",
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        }
+      ],
+      "required_documents": [
+        {
+          "text_ar": "[مقترح] مطلب ترشح مستخرج من منصة التسجيل عن بعد وممضى من المترشح",
+          "text_fr": "[Suggestion] Demande de candidature imprimée depuis la plateforme d'inscription en ligne et signée",
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "text_ar": "[مقترح] نسخة من بطاقة التعريف الوطنية",
+          "text_fr": "[Suggestion] Copie de la carte d'identité nationale",
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "text_ar": "[مقترح] وثيقة تثبت إتمام السنة الرابعة من التعليم الثانوي (بطاقة أعداد أو شهادة حضور أو شهادة الباكالوريا)",
+          "text_fr": "[Suggestion] Justificatif d'achèvement de la 4e année secondaire (bulletin de notes, attestation de présence ou diplôme du bac)",
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "text_ar": "[مقترح] مضمون ولادة حديث",
+          "text_fr": "[Suggestion] Extrait de naissance récent",
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "text_ar": "[مقترح] بطاقة عدد 3 (السوابق العدلية) أو وصل طلبها",
+          "text_fr": "[Suggestion] Bulletin n° 3 (casier judiciaire) ou récépissé de demande",
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "text_ar": "[مقترح] شهادة في الوضعية إزاء الخدمة العسكرية وشهادة حسن سيرة من وزارة الدفاع الوطني لمن يطلب التمتع بسنة إضافية في السن",
+          "text_fr": "[Suggestion] Attestation de situation militaire et attestation de bonne conduite du ministère de la Défense pour bénéficier de l'année d'âge supplémentaire",
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "text_ar": "[مقترح] صور شمسية حديثة وظروف خالصة معلوم البريد تحمل عنوان المترشح",
+          "text_fr": "[Suggestion] Photos d'identité récentes et enveloppes timbrées libellées à l'adresse du candidat",
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        }
+      ],
+      "blueprint": {
+        "total_minutes": 100,
+        "fidelity": "APPROXIMATED",
+        "sections": [
+          {
+            "domain": "CULTURE_GENERALE",
+            "specialty_key": null,
+            "count": 25,
+            "minutes": 25
+          },
+          {
+            "domain": "ARABIC",
+            "specialty_key": null,
+            "count": 10,
+            "minutes": 12
+          },
+          {
+            "domain": "FRENCH",
+            "specialty_key": null,
+            "count": 8,
+            "minutes": 10
+          },
+          {
+            "domain": "LOGIC",
+            "specialty_key": null,
+            "count": 10,
+            "minutes": 12
+          },
+          {
+            "domain": "NUMERICAL",
+            "specialty_key": null,
+            "count": 5,
+            "minutes": 8
+          },
+          {
+            "domain": "SPECIALTY",
+            "specialty_key": "spec.secourisme",
+            "count": 15,
+            "minutes": 15
+          },
+          {
+            "domain": "SPECIALTY",
+            "specialty_key": "spec.securite-droits",
+            "count": 5,
+            "minutes": 6
+          },
+          {
+            "domain": "PSYCHOTECH",
+            "specialty_key": null,
+            "count": 10,
+            "minutes": 12
+          }
+        ]
+      }
+    },
+    {
+      "slug": "officier",
+      "title_ar": "ضابط حماية مدنية (ملازم / ملازم أول – انتداب مباشر)",
+      "title_fr": "Officier de la protection civile (sous-lieutenant / lieutenant – recrutement direct)",
+      "diploma_level": "LICENCE",
+      "eligibility": {
+        "min_age": null,
+        "max_age": null,
+        "genders": [
+          "M",
+          "F"
+        ],
+        "nationality": "TN",
+        "diplomas": [
+          "LICENCE",
+          "MASTER",
+          "ENGINEER",
+          "MEDICINE"
+        ],
+        "specialties": [
+          "génie civil / الهندسة المدنية",
+          "génie électrique / الهندسة الكهربائية",
+          "génie mécanique / الهندسة الميكانيكية",
+          "génie chimique et procédés / الهندسة الكيميائية",
+          "médecine / الطب",
+          "sciences physiques et chimie / العلوم الفيزيائية والكيمياء"
+        ],
+        "min_height_cm_male": 170,
+        "min_height_cm_female": 165,
+        "marital_status": null,
+        "other_ar": [
+          "[مقترح] شهادة جامعية (إجازة أو ماجستير أو شهادة مهندس أو دكتوراه في الطب) حسب الرتبة (ملازم أو ملازم أول) والاختصاص المطلوب في البلاغ",
+          "[مقترح] حدود السن غير معروفة: كمرجع، اشترطت مناظرة الملازمين الأول بالأمن الوطني لسنة 2026 سنا بين 20 و30 سنة — لا يجوز اعتماد هذا الرقم للحماية المدنية قبل صدور بلاغها",
+          "[مقترح] شروط الطول والبصر مفترضة مماثلة لمناظرة العرفاء (1.70/1.65 م، 15/20)",
+          "[مقترح] الجنسية التونسية، الحقوق المدنية، حسن السيرة، الكفاءة البدنية والصحية للعمل الميداني"
+        ],
+        "other_fr": [
+          "[Suggestion] Diplôme universitaire (licence, master, diplôme d'ingénieur ou doctorat en médecine) selon le grade (sous-lieutenant ou lieutenant) et la spécialité demandée par l'avis",
+          "[Suggestion] Limites d'âge inconnues : à titre de repère, le concours 2026 des lieutenants principaux de la Sûreté nationale exigeait 20 à 30 ans — ne pas appliquer ce chiffre à la protection civile avant l'avis officiel",
+          "[Suggestion] Taille et vision supposées identiques au concours des caporaux (1,70/1,65 m ; 15/20)",
+          "[Suggestion] Nationalité tunisienne, droits civiques, bonne moralité, aptitude physique et médicale au service opérationnel"
+        ],
+        "source_key": null,
+        "confidence": "LOW",
+        "needs_verification": true,
+        "source_quote": null
+      },
+      "phases": [
+        {
+          "order": 1,
+          "kind": "FILE_REVIEW",
+          "name_ar": "دراسة الملفات والانتقاء الأولي",
+          "name_fr": "Étude des dossiers et présélection",
+          "is_eliminatory": true,
+          "duration_minutes": null,
+          "description_ar": "[مقترح] فرز أولي للملفات حسب الشهادة والاختصاص والسن.",
+          "description_fr": "[Suggestion] Présélection sur dossier selon le diplôme, la spécialité et l'âge.",
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "order": 2,
+          "kind": "WRITTEN",
+          "name_ar": "الاختبارات الكتابية",
+          "name_fr": "Épreuves écrites",
+          "is_eliminatory": true,
+          "duration_minutes": null,
+          "description_ar": "[مقترح] موضوع في الثقافة العامة أو تحرير، واختبار في الاختصاص (هندسة، وقاية من الحرائق، مخاطر)، وأسئلة متعددة الاختيارات (لغات، منطق). لم يُعثر على بلاغ رسمي حديث.",
+          "description_fr": "[Suggestion] Dissertation de culture générale ou rédaction, épreuve de spécialité (ingénierie, prévention incendie, risques) et QCM (langues, logique). Aucun avis officiel récent trouvé.",
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "order": 3,
+          "kind": "MEDICAL",
+          "name_ar": "الفحوص الطبية",
+          "name_fr": "Visite médicale",
+          "is_eliminatory": true,
+          "duration_minutes": null,
+          "description_ar": "[مقترح] فحص طبي إقصائي (طول، بصر، لياقة عامة).",
+          "description_fr": "[Suggestion] Visite médicale éliminatoire (taille, vision, aptitude générale).",
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "order": 4,
+          "kind": "PHYSICAL",
+          "name_ar": "الاختبارات الرياضية",
+          "name_fr": "Épreuves sportives",
+          "is_eliminatory": true,
+          "duration_minutes": null,
+          "description_ar": "[مقترح] اختبارات بدنية إقصائية مماثلة لاختبارات العرفاء.",
+          "description_fr": "[Suggestion] Épreuves physiques éliminatoires similaires à celles des caporaux.",
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "order": 5,
+          "kind": "PSYCHOTECH",
+          "name_ar": "الاختبار التقني النفسي",
+          "name_fr": "Test psychotechnique",
+          "is_eliminatory": true,
+          "duration_minutes": null,
+          "description_ar": "[مقترح] اختبار نفسي تقني وقد يتبعه اختبار نفسي معمق.",
+          "description_fr": "[Suggestion] Test psychotechnique, éventuellement suivi d'un entretien psychologique approfondi.",
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "order": 6,
+          "kind": "ORAL",
+          "name_ar": "الاختبار الشفاهي أمام اللجنة",
+          "name_fr": "Épreuve orale devant le jury",
+          "is_eliminatory": true,
+          "duration_minutes": null,
+          "description_ar": "[مقترح] مقابلة حول الدوافع والقيادة وإدارة الأزمات والمعارف المهنية.",
+          "description_fr": "[Suggestion] Entretien sur la motivation, le leadership, la gestion de crise et les connaissances professionnelles.",
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "order": 7,
+          "kind": "TRAINING",
+          "name_ar": "التكوين الأساسي للضباط",
+          "name_fr": "Formation de base des officiers",
+          "is_eliminatory": false,
+          "duration_minutes": null,
+          "description_ar": "[مقترح] تكوين أساسي في مدرسة أو أكاديمية تابعة لوزارة الداخلية قبل التعيين؛ المدة والمكان غير مؤكدين (الإطار العام: أمر 1166 لسنة 2006).",
+          "description_fr": "[Suggestion] Formation de base dans une école ou académie du ministère de l'Intérieur avant affectation ; durée et lieu non confirmés (cadre général : décret 2006-1166).",
+          "source_key": "s5",
+          "confidence": "LOW",
+          "needs_verification": true
+        }
+      ],
+      "subjects": [
+        {
+          "phase_order": 2,
+          "domain": "CULTURE_GENERALE",
+          "specialty_key": null,
+          "name_ar": "موضوع في الثقافة العامة",
+          "name_fr": "Dissertation de culture générale",
+          "coefficient": null,
+          "duration_minutes": null,
+          "question_count": null,
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "phase_order": 2,
+          "domain": "SPECIALTY",
+          "specialty_key": "spec.protection-civile.prevention-batiments",
+          "name_ar": "السلامة والوقاية من أخطار الحريق والانفجار والفزع بالبنايات",
+          "name_fr": "Sécurité et prévention des risques d'incendie, d'explosion et de panique dans les bâtiments",
+          "coefficient": null,
+          "duration_minutes": null,
+          "question_count": null,
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "phase_order": 2,
+          "domain": "SPECIALTY",
+          "specialty_key": "spec.protection-civile.risques",
+          "name_ar": "المخاطر الكبرى وتنظيم النجدة وإدارة الأزمات",
+          "name_fr": "Risques majeurs, organisation des secours et gestion de crise",
+          "coefficient": null,
+          "duration_minutes": null,
+          "question_count": null,
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "phase_order": 2,
+          "domain": "SPECIALTY",
+          "specialty_key": "spec.secourisme",
+          "name_ar": "الإسعافات الأولية والوقاية من الحرائق",
+          "name_fr": "Secourisme et prévention incendie",
+          "coefficient": null,
+          "duration_minutes": null,
+          "question_count": null,
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "phase_order": 2,
+          "domain": "SPECIALTY",
+          "specialty_key": "spec.droit-administratif",
+          "name_ar": "القانون الإداري والتنظيم الإداري",
+          "name_fr": "Droit administratif et organisation administrative",
+          "coefficient": null,
+          "duration_minutes": null,
+          "question_count": null,
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "phase_order": 2,
+          "domain": "SPECIALTY",
+          "specialty_key": "spec.redaction-administrative",
+          "name_ar": "التحرير الإداري (تقرير، محضر، مذكرة)",
+          "name_fr": "Rédaction administrative (rapport, procès-verbal, note)",
+          "coefficient": null,
+          "duration_minutes": null,
+          "question_count": null,
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "phase_order": 2,
+          "domain": "ARABIC",
+          "specialty_key": null,
+          "name_ar": "اللغة العربية",
+          "name_fr": "Langue arabe",
+          "coefficient": null,
+          "duration_minutes": null,
+          "question_count": null,
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "phase_order": 2,
+          "domain": "FRENCH",
+          "specialty_key": null,
+          "name_ar": "اللغة الفرنسية",
+          "name_fr": "Langue française",
+          "coefficient": null,
+          "duration_minutes": null,
+          "question_count": null,
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "phase_order": 2,
+          "domain": "ENGLISH",
+          "specialty_key": null,
+          "name_ar": "اللغة الإنجليزية",
+          "name_fr": "Langue anglaise",
+          "coefficient": null,
+          "duration_minutes": null,
+          "question_count": null,
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "phase_order": 2,
+          "domain": "LOGIC",
+          "specialty_key": null,
+          "name_ar": "المنطق والاستدلال",
+          "name_fr": "Logique et raisonnement",
+          "coefficient": null,
+          "duration_minutes": null,
+          "question_count": null,
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "phase_order": 5,
+          "domain": "PSYCHOTECH",
+          "specialty_key": null,
+          "name_ar": "الاختبار التقني النفسي",
+          "name_fr": "Test psychotechnique",
+          "coefficient": null,
+          "duration_minutes": null,
+          "question_count": null,
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        }
+      ],
+      "physical_tests": [
+        {
+          "name_ar": "قيس الطول وحدة البصر",
+          "name_fr": "Mesure de la taille et de l'acuité visuelle",
+          "details_ar": "شرط إقصائي: 1.70 م للذكور و1.65 م للإناث، وحدة بصر 15/20 على الأقل (حسب ملخص مقال لابراس لدورة 2025).",
+          "details_fr": "Condition éliminatoire : 1,70 m (H) / 1,65 m (F) et acuité visuelle d'au moins 15/20 (selon le résumé de l'article de La Presse, session 2025).",
+          "source_key": "s1",
+          "confidence": "MEDIUM",
+          "needs_verification": true
+        },
+        {
+          "name_ar": "جري السرعة",
+          "name_fr": "Course de vitesse",
+          "details_ar": "[مقترح] 80 م أو 100 م بالقياس على مناظرات قوات الأمن الداخلي. لا يوجد سلم تنقيط منشور.",
+          "details_fr": "[Suggestion] 80 m ou 100 m par analogie avec les autres concours des forces de sécurité intérieure. Aucun barème publié.",
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "name_ar": "جري التحمل",
+          "name_fr": "Course d'endurance",
+          "details_ar": "[مقترح] نحو 1000 م أو 1500 م للذكور ومسافة أقصر للإناث. لا يوجد سلم تنقيط منشور.",
+          "details_fr": "[Suggestion] Environ 1 000 m ou 1 500 m pour les hommes, distance plus courte pour les femmes. Aucun barème publié.",
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "name_ar": "تمارين القوة",
+          "name_fr": "Épreuve de force",
+          "details_ar": "[مقترح] العقلة (الجذب على العارضة) للذكور، والتعليق أو تمارين الضغط للإناث.",
+          "details_fr": "[Suggestion] Tractions à la barre fixe pour les hommes ; suspension ou pompes pour les femmes.",
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "name_ar": "القفز",
+          "name_fr": "Saut",
+          "details_ar": "[مقترح] القفز الطويل أو العالي من الثبات أو بالاندفاع.",
+          "details_fr": "[Suggestion] Saut en longueur ou en hauteur (sans ou avec élan).",
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "name_ar": "تسلق الحبل أو السباحة",
+          "name_fr": "Grimper de corde ou natation",
+          "details_ar": "[مقترح] اختبارات شائعة لدى فرق الإطفاء والإنقاذ في بلدان أخرى؛ لم يتأكد إدراجها في المناظرة التونسية. يُنصح بالتدرب عليها احتياطا.",
+          "details_fr": "[Suggestion] Épreuves classiques des sapeurs-pompiers dans d'autres pays ; leur présence dans le concours tunisien n'est pas confirmée. S'y entraîner par précaution.",
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        }
+      ],
+      "required_documents": [
+        {
+          "text_ar": "[مقترح] مطلب ترشح مستخرج من منصة التسجيل وممضى",
+          "text_fr": "[Suggestion] Demande de candidature imprimée depuis la plateforme et signée",
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "text_ar": "[مقترح] نسخة من بطاقة التعريف الوطنية",
+          "text_fr": "[Suggestion] Copie de la carte d'identité nationale",
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "text_ar": "[مقترح] نسخة من الشهادة العلمية وكشوف الأعداد لكامل سنوات الدراسة الجامعية، مع شهادة معادلة للشهادات الأجنبية",
+          "text_fr": "[Suggestion] Copie du diplôme et des relevés de notes de toutes les années universitaires, avec l'équivalence pour les diplômes étrangers",
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "text_ar": "[مقترح] مضمون ولادة حديث وبطاقة عدد 3 أو وصل طلبها",
+          "text_fr": "[Suggestion] Extrait de naissance récent et bulletin n° 3 (ou récépissé)",
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "text_ar": "[مقترح] شهادة في الوضعية إزاء الخدمة العسكرية",
+          "text_fr": "[Suggestion] Attestation de situation militaire",
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "text_ar": "[مقترح] صور شمسية حديثة وظروف خالصة معلوم البريد",
+          "text_fr": "[Suggestion] Photos d'identité récentes et enveloppes timbrées",
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        }
+      ],
+      "blueprint": {
+        "total_minutes": 125,
+        "fidelity": "APPROXIMATED",
+        "sections": [
+          {
+            "domain": "CULTURE_GENERALE",
+            "specialty_key": null,
+            "count": 20,
+            "minutes": 20
+          },
+          {
+            "domain": "ARABIC",
+            "specialty_key": null,
+            "count": 10,
+            "minutes": 10
+          },
+          {
+            "domain": "FRENCH",
+            "specialty_key": null,
+            "count": 10,
+            "minutes": 10
+          },
+          {
+            "domain": "ENGLISH",
+            "specialty_key": null,
+            "count": 5,
+            "minutes": 5
+          },
+          {
+            "domain": "LOGIC",
+            "specialty_key": null,
+            "count": 10,
+            "minutes": 15
+          },
+          {
+            "domain": "NUMERICAL",
+            "specialty_key": null,
+            "count": 10,
+            "minutes": 15
+          },
+          {
+            "domain": "SPECIALTY",
+            "specialty_key": "spec.secourisme",
+            "count": 15,
+            "minutes": 15
+          },
+          {
+            "domain": "SPECIALTY",
+            "specialty_key": "spec.droit-administratif",
+            "count": 8,
+            "minutes": 10
+          },
+          {
+            "domain": "SPECIALTY",
+            "specialty_key": "spec.droit-public",
+            "count": 5,
+            "minutes": 5
+          },
+          {
+            "domain": "SPECIALTY",
+            "specialty_key": "spec.redaction-administrative",
+            "count": 5,
+            "minutes": 10
+          },
+          {
+            "domain": "PSYCHOTECH",
+            "specialty_key": null,
+            "count": 10,
+            "minutes": 10
+          }
+        ]
+      }
+    }
+  ],
+  "specialty_syllabus": [
+    {
+      "key": "spec.protection-civile.institution",
+      "parent_key": null,
+      "level": "UNIT",
+      "title_ar": "الديوان الوطني للحماية المدنية: المهام والتنظيم والرتب وأخلاقيات المهنة",
+      "title_fr": "L'Office national de la protection civile : missions, organisation, grades et déontologie",
+      "scope": "SUGGESTED",
+      "source_key": null,
+      "objectives": [
+        {
+          "key": "spec.protection-civile.institution.o1",
+          "text_ar": "فهم موقع الحماية المدنية ضمن قوات الأمن الداخلي التابعة لوزارة الداخلية",
+          "text_fr": "Situer la protection civile parmi les forces de sécurité intérieure relevant du ministère de l'Intérieur"
+        }
+      ]
+    },
+    {
+      "key": "spec.protection-civile.institution.missions",
+      "parent_key": "spec.protection-civile.institution",
+      "level": "TOPIC",
+      "title_ar": "مهام الحماية المدنية وأرقام النجدة",
+      "title_fr": "Missions de la protection civile et numéros d'urgence",
+      "scope": "SUGGESTED",
+      "source_key": null,
+      "objectives": [
+        {
+          "key": "spec.protection-civile.institution.missions.o1",
+          "text_ar": "تعداد مهام الحماية المدنية: الوقاية، الإطفاء، الإنقاذ، الإسعاف، مجابهة الكوارث",
+          "text_fr": "Énumérer les missions : prévention, lutte contre l'incendie, sauvetage, secours aux personnes, gestion des catastrophes"
+        },
+        {
+          "key": "spec.protection-civile.institution.missions.o2",
+          "text_ar": "حفظ أرقام النجدة في تونس: 198 الحماية المدنية، 190 الإسعاف الطبي الاستعجالي، 197 الشرطة، 193 الحرس الوطني (للتثبت)",
+          "text_fr": "Mémoriser les numéros d'urgence tunisiens : 198 protection civile, 190 SAMU, 197 police, 193 Garde nationale (à vérifier)"
+        },
+        {
+          "key": "spec.protection-civile.institution.missions.o3",
+          "text_ar": "معرفة النص المحدث للديوان (يرجح القانون عدد 121 لسنة 1993 المؤرخ في 27 ديسمبر 1993 — للتثبت في الرائد الرسمي)",
+          "text_fr": "Connaître le texte créant l'Office (probablement la loi n° 93-121 du 27 décembre 1993 — à vérifier au JORT)"
+        }
+      ]
+    },
+    {
+      "key": "spec.protection-civile.institution.grades",
+      "parent_key": "spec.protection-civile.institution",
+      "level": "TOPIC",
+      "title_ar": "تدرج الرتب بسلك الحماية المدنية",
+      "title_fr": "Hiérarchie des grades du corps de la protection civile",
+      "scope": "SUGGESTED",
+      "source_key": null,
+      "objectives": [
+        {
+          "key": "spec.protection-civile.institution.grades.o1",
+          "text_ar": "ترتيب الرتب من العريف إلى الضباط السامين (عريف، عريف أول، رقيب، رقيب أول، وكيل، وكيل أول، ملازم، ملازم أول، نقيب، رائد، مقدم، عقيد، عميد — قائمة مقترحة للتثبت من النظام الأساسي الخاص)",
+          "text_fr": "Ordonner les grades du caporal aux officiers supérieurs (caporal, caporal-chef, sergent, sergent-chef, adjudant, adjudant-chef, sous-lieutenant, lieutenant, capitaine, commandant, lieutenant-colonel, colonel, colonel-major — liste suggérée à vérifier dans le statut particulier)"
+        }
+      ]
+    },
+    {
+      "key": "spec.protection-civile.institution.deontologie",
+      "parent_key": "spec.protection-civile.institution",
+      "level": "TOPIC",
+      "title_ar": "أخلاقيات المهنة ومدونة سلوك قوات الأمن الداخلي",
+      "title_fr": "Déontologie et code de conduite des forces de sécurité intérieure",
+      "scope": "SUGGESTED",
+      "source_key": "s6",
+      "objectives": [
+        {
+          "key": "spec.protection-civile.institution.deontologie.o1",
+          "text_ar": "معرفة المبادئ الكبرى لمدونة السلوك (أمر 240 لسنة 2023): الحياد، احترام الكرامة الإنسانية، السر المهني، النزاهة",
+          "text_fr": "Connaître les grands principes du code de conduite (décret 2023-240) : neutralité, respect de la dignité humaine, secret professionnel, intégrité"
+        },
+        {
+          "key": "spec.protection-civile.institution.deontologie.o2",
+          "text_ar": "تطبيق هذه المبادئ على وضعيات تدخل (حماية الضحايا، التعامل مع العموم والإعلام)",
+          "text_fr": "Appliquer ces principes à des situations d'intervention (protection des victimes, relation avec le public et les médias)"
+        }
+      ]
+    },
+    {
+      "key": "spec.protection-civile.risques",
+      "parent_key": null,
+      "level": "UNIT",
+      "title_ar": "المخاطر الكبرى وتنظيم النجدة",
+      "title_fr": "Risques majeurs et organisation des secours",
+      "scope": "SUGGESTED",
+      "source_key": null,
+      "objectives": [
+        {
+          "key": "spec.protection-civile.risques.o1",
+          "text_ar": "التمييز بين المخاطر الطبيعية والتكنولوجية وفهم مبادئ التخطيط للنجدة",
+          "text_fr": "Distinguer risques naturels et technologiques et comprendre les principes de planification des secours"
+        }
+      ]
+    },
+    {
+      "key": "spec.protection-civile.risques.naturels",
+      "parent_key": "spec.protection-civile.risques",
+      "level": "TOPIC",
+      "title_ar": "المخاطر الطبيعية في تونس",
+      "title_fr": "Risques naturels en Tunisie",
+      "scope": "SUGGESTED",
+      "source_key": null,
+      "objectives": [
+        {
+          "key": "spec.protection-civile.risques.naturels.o1",
+          "text_ar": "التعرف على الفيضانات وحرائق الغابات والزلازل وموجات الحر والعواصف وسلوكيات الوقاية المرتبطة بها",
+          "text_fr": "Identifier inondations, feux de forêt, séismes, vagues de chaleur, tempêtes et les comportements de prévention associés"
+        }
+      ]
+    },
+    {
+      "key": "spec.protection-civile.risques.technologiques",
+      "parent_key": "spec.protection-civile.risques",
+      "level": "TOPIC",
+      "title_ar": "المخاطر التكنولوجية والمواد الخطرة",
+      "title_fr": "Risques technologiques et matières dangereuses",
+      "scope": "SUGGESTED",
+      "source_key": null,
+      "objectives": [
+        {
+          "key": "spec.protection-civile.risques.technologiques.o1",
+          "text_ar": "فهم مخاطر تسرب الغاز والانفجار والمواد الكيميائية ونقل المواد الخطرة",
+          "text_fr": "Comprendre les risques de fuite de gaz, d'explosion, de produits chimiques et de transport de matières dangereuses"
+        },
+        {
+          "key": "spec.protection-civile.risques.technologiques.o2",
+          "text_ar": "قراءة لوحات التعريف بالمواد الخطرة ورموز الخطر الأساسية",
+          "text_fr": "Lire les plaques d'identification des matières dangereuses et les pictogrammes de danger de base"
+        }
+      ]
+    },
+    {
+      "key": "spec.protection-civile.risques.organisation-secours",
+      "parent_key": "spec.protection-civile.risques",
+      "level": "TOPIC",
+      "title_ar": "تنظيم النجدة ومجابهة الكوارث",
+      "title_fr": "Organisation des secours et lutte contre les calamités",
+      "scope": "SUGGESTED",
+      "source_key": null,
+      "objectives": [
+        {
+          "key": "spec.protection-civile.risques.organisation-secours.o1",
+          "text_ar": "معرفة الإطار القانوني لمجابهة الكوارث وتنظيم النجدة (يرجح القانون عدد 39 لسنة 1991 المؤرخ في 8 جوان 1991 — للتثبت) ودور اللجان الجهوية",
+          "text_fr": "Connaître le cadre légal de la lutte contre les calamités et de l'organisation des secours (probablement la loi n° 91-39 du 8 juin 1991 — à vérifier) et le rôle des commissions régionales"
+        },
+        {
+          "key": "spec.protection-civile.risques.organisation-secours.o2",
+          "text_ar": "فهم مبادئ القيادة الميدانية وفرز المصابين في الحوادث متعددة الضحايا",
+          "text_fr": "Comprendre les principes du commandement sur le terrain et du triage lors d'accidents à victimes multiples"
+        }
+      ]
+    },
+    {
+      "key": "spec.protection-civile.operations",
+      "parent_key": null,
+      "level": "UNIT",
+      "title_ar": "تقنيات الإطفاء والإنقاذ",
+      "title_fr": "Techniques opérationnelles d'extinction et de sauvetage",
+      "scope": "SUGGESTED",
+      "source_key": null,
+      "objectives": [
+        {
+          "key": "spec.protection-civile.operations.o1",
+          "text_ar": "اكتساب المفاهيم التقنية الأساسية لعون الحماية المدنية (مكملة لمحور الإسعافات الأولية والوقاية من الحرائق)",
+          "text_fr": "Acquérir les notions techniques de base de l'agent de protection civile (en complément de spec.secourisme)"
+        }
+      ]
+    },
+    {
+      "key": "spec.protection-civile.operations.hydraulique",
+      "parent_key": "spec.protection-civile.operations",
+      "level": "TOPIC",
+      "title_ar": "الهيدروليك المطبق على الإطفاء",
+      "title_fr": "Hydraulique appliquée à l'extinction",
+      "scope": "SUGGESTED",
+      "source_key": null,
+      "objectives": [
+        {
+          "key": "spec.protection-civile.operations.hydraulique.o1",
+          "text_ar": "حساب التدفق والحجم وزمن التفريغ بأمثلة بسيطة (لتر/دقيقة، م3)",
+          "text_fr": "Calculer débit, volume et temps de vidange sur des cas simples (L/min, m³)"
+        },
+        {
+          "key": "spec.protection-civile.operations.hydraulique.o2",
+          "text_ar": "فهم الضغط وضياع الحمولة في الخراطيم وتأثير الارتفاع",
+          "text_fr": "Comprendre la pression, les pertes de charge dans les tuyaux et l'effet de la dénivellation"
+        }
+      ]
+    },
+    {
+      "key": "spec.protection-civile.operations.materiel",
+      "parent_key": "spec.protection-civile.operations",
+      "level": "TOPIC",
+      "title_ar": "معدات التدخل والحماية الفردية",
+      "title_fr": "Matériel d'intervention et équipements de protection individuelle",
+      "scope": "SUGGESTED",
+      "source_key": null,
+      "objectives": [
+        {
+          "key": "spec.protection-civile.operations.materiel.o1",
+          "text_ar": "التعرف على المطافئ المحمولة وأجهزة التنفس وسلالم وخراطيم ومضخات الإطفاء ومجالات استعمالها",
+          "text_fr": "Reconnaître extincteurs, appareils respiratoires isolants, échelles, tuyaux et pompes et leurs usages"
+        },
+        {
+          "key": "spec.protection-civile.operations.materiel.o2",
+          "text_ar": "معرفة قواعد السلامة الشخصية للمتدخل (لباس الحماية، الاتصال، العمل الثنائي)",
+          "text_fr": "Connaître les règles de sécurité de l'intervenant (tenue de protection, transmissions, binôme)"
+        }
+      ]
+    },
+    {
+      "key": "spec.protection-civile.operations.sauvetage",
+      "parent_key": "spec.protection-civile.operations",
+      "level": "TOPIC",
+      "title_ar": "الإنقاذ في الوسط الحضري والطرقات والمياه",
+      "title_fr": "Sauvetage en milieu urbain, routier et aquatique",
+      "scope": "SUGGESTED",
+      "source_key": null,
+      "objectives": [
+        {
+          "key": "spec.protection-civile.operations.sauvetage.o1",
+          "text_ar": "وصف مراحل التدخل في حادث مرور (تأمين المكان، الإنذار، الإسعاف، الإخراج)",
+          "text_fr": "Décrire les étapes d'intervention sur un accident de la route (balisage, alerte, secours, désincarcération)"
+        },
+        {
+          "key": "spec.protection-civile.operations.sauvetage.o2",
+          "text_ar": "معرفة مبادئ الإنقاذ من الغرق والإنقاذ تحت الأنقاض",
+          "text_fr": "Connaître les principes du sauvetage aquatique et du sauvetage-déblaiement"
+        }
+      ]
+    },
+    {
+      "key": "spec.protection-civile.prevention-batiments",
+      "parent_key": null,
+      "level": "UNIT",
+      "title_ar": "السلامة والوقاية من أخطار الحريق والانفجار والفزع بالبنايات",
+      "title_fr": "Sécurité et prévention des risques d'incendie, d'explosion et de panique dans les bâtiments",
+      "scope": "SUGGESTED",
+      "source_key": null,
+      "objectives": [
+        {
+          "key": "spec.protection-civile.prevention-batiments.o1",
+          "text_ar": "فهم دور الحماية المدنية في الوقاية بالبنايات (خاصة لمستوى الضباط)",
+          "text_fr": "Comprendre le rôle préventif de la protection civile dans les bâtiments (surtout niveau officiers)"
+        }
+      ]
+    },
+    {
+      "key": "spec.protection-civile.prevention-batiments.reglementation",
+      "parent_key": "spec.protection-civile.prevention-batiments",
+      "level": "TOPIC",
+      "title_ar": "التراتيب الخاصة بالسلامة من الحريق في البنايات",
+      "title_fr": "Réglementation de la sécurité incendie dans les bâtiments",
+      "scope": "SUGGESTED",
+      "source_key": null,
+      "objectives": [
+        {
+          "key": "spec.protection-civile.prevention-batiments.reglementation.o1",
+          "text_ar": "معرفة مجلة السلامة والوقاية من أخطار الحريق والانفجار والفزع بالبنايات (يرجح صدورها بالقانون عدد 11 لسنة 2009 المؤرخ في 2 مارس 2009 — للتثبت)",
+          "text_fr": "Connaître le Code de la sécurité et de la prévention des risques d'incendie, d'explosion et de panique dans les bâtiments (probablement promulgué par la loi n° 2009-11 du 2 mars 2009 — à vérifier)"
+        },
+        {
+          "key": "spec.protection-civile.prevention-batiments.reglementation.o2",
+          "text_ar": "تطبيق مبادئ الإخلاء ومخارج النجدة والتصريف الدخاني وتصنيف المؤسسات المفتوحة للعموم",
+          "text_fr": "Appliquer les principes d'évacuation, dégagements de secours, désenfumage et classement des établissements recevant du public"
+        }
+      ]
+    }
+  ],
+  "past_exams": [],
+  "tips_ar": [
+    "تابع بلاغات وزارة الداخلية الرسمية مباشرة (موقع الوزارة وصفحتها الرسمية) واعتمد رابط التسجيل المذكور في البلاغ فقط؛ آجال التسجيل قصيرة (حوالي 12 يوما في دورة ديسمبر 2025).",
+    "دورة 2026 متوقعة (نحو 400 انتداب مبرمج): جهّز وثائقك مسبقا، خاصة بطاقة عدد 3 وما يثبت إتمام السنة الرابعة ثانوي.",
+    "تحقق من شروط الطول (1.70 م ذكور / 1.65 م إناث) وحدة البصر (15/20) عند طبيب قبل التسجيل لأنها شروط إقصائية.",
+    "ابدأ التحضير البدني مبكرا: جري التحمل والسرعة والعقلة، وتعلم السباحة وتسلق الحبل احتياطا.",
+    "في الكتابي، تدرب على تحرير موضوع ثقافة عامة منظم (مقدمة، عرض، خاتمة) بالعربية، وراجع الإسعافات الأولية ومثلث النار وأصناف الحرائق.",
+    "احفظ أرقام النجدة (198 للحماية المدنية) ومهام الديوان، فهي أسئلة كلاسيكية في المقابلة.",
+    "احذر الصفحات التي تطلب مالا مقابل التسجيل أو تضمن النجاح: التسجيل في المناظرات العمومية يتم عبر القنوات الرسمية فقط."
+  ],
+  "tips_fr": [
+    "Suivez directement les avis officiels du ministère de l'Intérieur (site et page officielle) et utilisez uniquement le lien d'inscription indiqué dans l'avis ; les délais sont courts (environ 12 jours pour la session de décembre 2025).",
+    "Une session 2026 est attendue (~400 recrutements prévus au budget) : préparez vos pièces à l'avance, notamment le bulletin n° 3 et le justificatif de 4e année secondaire.",
+    "Faites vérifier votre taille (1,70 m H / 1,65 m F) et votre acuité visuelle (15/20) par un médecin avant de vous inscrire : ce sont des conditions éliminatoires.",
+    "Commencez tôt la préparation physique : endurance, vitesse, tractions ; apprenez à nager et à grimper à la corde par précaution.",
+    "Pour l'écrit, entraînez-vous à rédiger en arabe un sujet de culture générale structuré (introduction, développement, conclusion) et révisez le secourisme, le triangle du feu et les classes de feux.",
+    "Retenez les numéros d'urgence (198 pour la protection civile) et les missions de l'Office : questions classiques à l'oral.",
+    "Méfiez-vous des pages qui demandent de l'argent pour l'inscription ou promettent la réussite : l'inscription aux concours publics passe uniquement par les canaux officiels."
+  ],
+  "research_notes": "LIMITE MÉTHODOLOGIQUE MAJEURE : lors de cette passe, le quota WebSearch partagé était épuisé dès la première requête et WebFetch est bloqué par le proxy pour tous les domaines utiles (interieur.gov.tn, services.interieur.gov.tn, concours.gov.tn, sicad.gov.tn, legislation.tn, lapresse.tn, webdo.tn, mosaiquefm.net, tuniscope.com, allafrica.com, wikipedia) ; protectioncivile.tn et protectioncivile.gov.tn ne résolvent pas en DNS depuis le conteneur (site officiel de l'ONPC non confirmé ; website = interieur.gov.tn par défaut). AUCUNE page n'a été lue directement. Les seuls faits non suggérés viennent du résumé de recherche consigné le même jour par l'équipe dans docs/research/01-market-raw.md (section Protection civile), qui cite La Presse du 06/12/2025 (s1) et Webdo/AllAfrica (s2, s3). C'est pourquoi TOUS les faits portent needs_verification=true, y compris ceux de confiance MEDIUM. À VÉRIFIER EN PRIORITÉ sur l'avis officiel (interieur.gov.tn, page Facebook du ministère ou de l'ONPC) : (1) intitulé exact du concours de décembre 2025, 280 postes, grade (عريف), inscription 08–19/12/2025, écrit 08/02/2026, plateforme d'inscription et adresse d'envoi du dossier ; (2) conditions : 4e secondaire, 20–24 ans (25 avec service militaire) et date de référence de l'âge, taille 1,70/1,65 m, acuité 15/20, ouverture aux femmes (déduite de la taille féminine citée) ; (3) résultats de l'écrit 2026, nombre de candidats (non trouvé), phases suivantes et leur ordre ; (4) chiffre de 200 caporaux en 2023/2024 (dates et intitulé inconnus) ; (5) existence d'un concours d'officiers (ملازمين / ingénieurs / médecins) pour la protection civile entre 2023 et 2026 — AUCUNE donnée trouvée : la position 'officier' est entièrement SUGGÉRÉE (conditions, phases, matières, pièces) et peut être supprimée si aucun concours de ce type n'existe ; (6) liste des épreuves sportives et barèmes (non publiés, toutes les épreuves listées sont des suggestions par analogie) ; (7) durée/lieu de la formation de base et applicabilité du décret 2006-1166 (s5) et du code de conduite 2023-240 (s6) au corps de la protection civile ; (8) références juridiques citées de mémoire dans le syllabus : loi n° 93-121 du 27/12/1993 (création de l'ONPC), loi n° 91-39 du 08/06/1991 (calamités et organisation des secours), loi n° 2009-11 du 02/03/2009 (Code de sécurité incendie dans les bâtiments), numéro du décret de 2006 fixant le statut particulier du corps de la protection civile (inconnu) et liste des grades. s4 concerne la Garde nationale (format de l'écrit des caporaux : culture générale + QCM en arabe) et n'est utilisé que par analogie. Aucune annale (officielle ou communautaire) n'a pu être identifiée : past_exams est vide. Les blueprints sont APPROXIMATED (aucun format officiel connu). Les coefficients et durées des épreuves ne sont pas connus. Recherches à relancer (AR/FR) : 'مناظرة انتداب عرفاء بسلك الحماية المدنية 2025', 'نتائج مناظرة عرفاء الحماية المدنية 2026', 'concours caporaux protection civile 2025 résultats', 'مناظرة ملازمين الحماية المدنية', 'الديوان الوطني للحماية المدنية انتداب'."
+}

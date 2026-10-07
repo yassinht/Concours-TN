@@ -1,0 +1,3730 @@
+{
+ "family": {
+  "slug": "transport-aerien",
+  "field": "PUBLIC_COMPANY",
+  "organization": {
+   "slug": "entreprises-publiques-transport",
+   "name_ar": "المنشآت العمومية للنقل (مجموعة الخطوط التونسية، ديوان الطيران المدني والمطارات، شركة نقل تونس، الشركة الوطنية للنقل بين المدن، الشركة التونسية للملاحة، الشركات الجهوية للنقل)",
+   "name_fr": "Entreprises publiques de transport (groupe Tunisair, OACA, Transtu, SNTRI, CTN, sociétés régionales de transport)",
+   "ministry_fr": "Ministère du Transport",
+   "website": null
+  },
+  "name_ar": "مناظرات انتداب منشآت النقل العمومية: الخطوط التونسية وفروعها، ديوان الطيران المدني والمطارات، شركة نقل تونس، الشركة الوطنية للنقل بين المدن والشركة التونسية للملاحة",
+  "name_fr": "Concours de recrutement des entreprises publiques de transport : groupe Tunisair, OACA, Transtu, SNTRI et CTN",
+  "description_ar": "تجمع هذه العائلة مناظرات الانتداب الخارجية التي تنظمها المنشآت العمومية الخاضعة لإشراف وزارة النقل: النقل الجوي (الخطوط التونسية وفروعها مثل الخطوط التونسية للخدمات الأرضية Tunisair Handling وتونس للتموين Tunisie Catering، وديوان الطيران المدني والمطارات OACA المكلف باستغلال المطارات والملاحة الجوية) والنقل البري للمسافرين (شركة نقل تونس Transtu: الحافلات والمترو الخفيف وخط تونس-حلق الوادي-المرسى، الشركة الوطنية للنقل بين المدن SNTRI والشركات الجهوية للنقل) والنقل البحري (الشركة التونسية للملاحة CTN). تُنظّم هذه المناظرات بصفة غير منتظمة حسب حاجيات كل منشأة، وتشمل رتبا من عون تنفيذ (سائق، عون مدرج، عون صيانة) إلى إطار ومهندس، مرورا بالمضيفين الجويين والمراقبين الجويين وأعوان سلامة المطارات. حسب ما نقلته الصحافة سنة 2026 (ووفق سجل البحث الداخلي للفريق): الخطوط التونسية للخدمات الأرضية: 165 عونا وإطارا بعقود غير محددة المدة (آخر أجل 8 جوان 2026)، تونس للتموين: أعوان بعقود غير محددة المدة بتونس وجربة (آخر أجل 31 جويلية 2026)، شركة نقل تونس: 580 عونا (آخر أجل 8 سبتمبر 2026)، الشركة الوطنية للنقل بين المدن: 55 عونا وإطارا منهم 40 سائق حافلة (آخر أجل 30 سبتمبر 2026)، والشركة الجهوية للنقل بسليانة: 23 سائقا وتقنيا. تنبيه: لم يتسنّ فتح أي صفحة رسمية أو صحفية أثناء هذا البحث؛ الرتب والشروط والاختبارات والضوارب المذكورة مقترحة وتحتاج إلى تثبت من البلاغات الرسمية قبل اعتمادها.",
+  "description_fr": "Cette famille regroupe les concours externes de recrutement organisés par les entreprises publiques sous tutelle du ministère du Transport : transport aérien (Tunisair et ses filiales comme Tunisair Handling et Tunisie Catering ; l'Office de l'Aviation Civile et des Aéroports – OACA, chargé de l'exploitation des aéroports et de la navigation aérienne), transport terrestre de voyageurs (Société des Transports de Tunis – Transtu : bus, métro léger et TGM ; Société Nationale de Transport Interurbain – SNTRI ; sociétés régionales de transport) et transport maritime (Compagnie Tunisienne de Navigation – CTN). Ces concours sont irréguliers, au gré des besoins de chaque entreprise, et vont de l'agent d'exécution (chauffeur, agent de piste, agent de maintenance) au cadre et à l'ingénieur, en passant par le personnel navigant commercial, les contrôleurs aériens et les agents de sûreté/sécurité aéroportuaire. Selon la presse en 2026 (et le journal de recherche interne de l'équipe) : Tunisair Handling, 165 agents et cadres en CDI (date limite 8 juin 2026) ; Tunisie Catering, agents en CDI à Tunis et Djerba (date limite 31 juillet 2026) ; Transtu, 580 agents (date limite 8 septembre 2026) ; SNTRI, 55 agents et cadres dont 40 chauffeurs de bus (date limite 30 septembre 2026) ; Société régionale du transport de Siliana, 23 chauffeurs et techniciens. Avertissement : aucune page officielle ou de presse n'a pu être ouverte lors de cette recherche ; les grades, conditions, épreuves et coefficients présentés sont des suggestions à vérifier sur les avis officiels avant toute publication comme faits officiels.",
+  "frequency": "IRREGULAR",
+  "frequency_confidence": "LOW",
+  "popularity": 4,
+  "keywords": [
+   "Tunisair",
+   "الخطوط التونسية",
+   "Tunisair Handling",
+   "الخطوط التونسية للخدمات الأرضية",
+   "Tunisie Catering",
+   "تونس للتموين",
+   "Tunisair Technics",
+   "OACA",
+   "ديوان الطيران المدني والمطارات",
+   "aviation civile",
+   "aéroport",
+   "مطار",
+   "aéroports de Tunisie",
+   "contrôleur aérien",
+   "مراقب جوي",
+   "navigation aérienne",
+   "الملاحة الجوية",
+   "hôtesse de l'air",
+   "steward",
+   "مضيفة طيران",
+   "مضيف طيران",
+   "PNC",
+   "personnel navigant commercial",
+   "agent d'escale",
+   "agent de piste",
+   "handling",
+   "sûreté aéroportuaire",
+   "أمن المطارات",
+   "SSLIA",
+   "pompier d'aérodrome",
+   "Transtu",
+   "شركة نقل تونس",
+   "métro léger",
+   "المترو الخفيف",
+   "TGM",
+   "chauffeur-receveur",
+   "سائق قابض",
+   "chauffeur de bus",
+   "سائق حافلة",
+   "permis D",
+   "رخصة سياقة صنف د",
+   "SNTRI",
+   "الشركة الوطنية للنقل بين المدن",
+   "société régionale de transport",
+   "الشركة الجهوية للنقل",
+   "CTN",
+   "الشركة التونسية للملاحة",
+   "Compagnie Tunisienne de Navigation",
+   "ministère du Transport",
+   "وزارة النقل",
+   "concours transport",
+   "مناظرة النقل",
+   "recrutement Tunisair",
+   "انتداب الخطوط التونسية",
+   "مناظرة ديوان الطيران المدني",
+   "recrutement Transtu 580",
+   "entreprise publique",
+   "منشأة عمومية",
+   "CDI"
+  ]
+ },
+ "sources": [
+  {
+   "key": "s1",
+   "title": "Concours Tunisair Handling 2026 : postes en CDI à pourvoir (Tunis, Djerba, Monastir) [titre reconstitué]",
+   "url": "https://www.webmanagercenter.com/2026/06/02/567602/concours-tunisair-handling-2026-postes-en-cdi-a-pourvoir-tunis-djerba-monastir/",
+   "publisher": "WebManagerCenter",
+   "source_type": "SECONDARY",
+   "publication_date": "2026-06-02",
+   "retrieved_at": "2026-10-07",
+   "confidence": "MEDIUM",
+   "notes": "PAGE NON OUVERTE dans cette passe : le quota WebSearch partagé était épuisé et WebFetch renvoie EGRESS_BLOCKED pour ce domaine. URL et faits repris du journal de recherche de l'équipe (docs/research/01-market-raw.md et/ou content/competitions/_openings.json, généré le 2026-10-07). Titre reconstitué ; date de publication déduite de l'URL. Faits attribués : Tunisair Handling, 165 postes en CDI (journal de recherche, tableau « Public companies »), affectations Tunis / Djerba / Monastir (d'après l'URL). À relire : répartition par spécialité, conditions, épreuves."
+  },
+  {
+   "key": "s2",
+   "title": "Tunisair Handling recrute 165 agents et cadres dans plusieurs spécialités [titre reconstitué]",
+   "url": "https://www.tunisienumerique.com/tunisair-handling-recrute-165-agents-et-cadres-dans-plusieurs-specialites/",
+   "publisher": "Tunisie Numérique",
+   "source_type": "SECONDARY",
+   "publication_date": null,
+   "retrieved_at": "2026-10-07",
+   "confidence": "MEDIUM",
+   "notes": "PAGE NON OUVERTE dans cette passe : le quota WebSearch partagé était épuisé et WebFetch renvoie EGRESS_BLOCKED pour ce domaine. URL et faits repris du journal de recherche de l'équipe (docs/research/01-market-raw.md et/ou content/competitions/_openings.json, généré le 2026-10-07). Titre reconstitué ; date de publication déduite de l'URL. Faits attribués (fiche _openings.json) : concours externe, 165 agents et cadres en CDI, aéroports Tunis-Carthage, Djerba, Monastir et Sfax, date limite d'inscription 2026-06-08. Date de publication inconnue (probablement début juin 2026)."
+  },
+  {
+   "key": "s3",
+   "title": "Tunisie Catering ouvre un concours externe pour recruter des agents [titre reconstitué]",
+   "url": "https://www.lapresse.tn/2026/07/19/tunisie-catering-ouvre-un-concours-externe-pour-recruter-des-agents/",
+   "publisher": "La Presse de Tunisie",
+   "source_type": "SECONDARY",
+   "publication_date": "2026-07-19",
+   "retrieved_at": "2026-10-07",
+   "confidence": "MEDIUM",
+   "notes": "PAGE NON OUVERTE dans cette passe : le quota WebSearch partagé était épuisé et WebFetch renvoie EGRESS_BLOCKED pour ce domaine. URL et faits repris du journal de recherche de l'équipe (docs/research/01-market-raw.md et/ou content/competitions/_openings.json, généré le 2026-10-07). Titre reconstitué ; date de publication déduite de l'URL. Faits attribués (fiche _openings.json) : concours externe, agents en CDI, unités de Tunis et Djerba, date limite 2026-07-31 ; nombre de postes non relevé."
+  },
+  {
+   "key": "s4",
+   "title": "Recrutement : 580 postes à pourvoir chez Transtu [titre reconstitué]",
+   "url": "https://www.lapresse.tn/2026/08/08/recrutement-580-postes-a-pourvoir-chez-transtu/",
+   "publisher": "La Presse de Tunisie",
+   "source_type": "SECONDARY",
+   "publication_date": "2026-08-08",
+   "retrieved_at": "2026-10-07",
+   "confidence": "MEDIUM",
+   "notes": "PAGE NON OUVERTE dans cette passe : le quota WebSearch partagé était épuisé et WebFetch renvoie EGRESS_BLOCKED pour ce domaine. URL et faits repris du journal de recherche de l'équipe (docs/research/01-market-raw.md et/ou content/competitions/_openings.json, généré le 2026-10-07). Titre reconstitué ; date de publication déduite de l'URL. Faits attribués (fiche _openings.json) : concours externe Transtu, 580 agents (chauffeurs-receveurs, agents qualifiés, techniciens, ingénieurs...), date limite 2026-09-08. Répartition exacte par grade non relevée."
+  },
+  {
+   "key": "s5",
+   "title": "Recrutement SNTRI : 55 postes à pourvoir, inscriptions jusqu'au 30 septembre [titre reconstitué]",
+   "url": "https://www.lapresse.tn/2026/09/23/recrutement-sntri-55-postes-a-pourvoir-inscriptions-jusquau-30-septembre/",
+   "publisher": "La Presse de Tunisie",
+   "source_type": "SECONDARY",
+   "publication_date": "2026-09-23",
+   "retrieved_at": "2026-10-07",
+   "confidence": "MEDIUM",
+   "notes": "PAGE NON OUVERTE dans cette passe : le quota WebSearch partagé était épuisé et WebFetch renvoie EGRESS_BLOCKED pour ce domaine. URL et faits repris du journal de recherche de l'équipe (docs/research/01-market-raw.md et/ou content/competitions/_openings.json, généré le 2026-10-07). Titre reconstitué ; date de publication déduite de l'URL. Faits attribués (fiche _openings.json) : SNTRI, 55 agents et cadres (40 chauffeurs de bus, 8 agents techniques, 7 cadres), inscriptions jusqu'au 2026-09-30."
+  },
+  {
+   "key": "s6",
+   "title": "La Société régionale du transport à Siliana recrute 23 chauffeurs et techniciens qualifiés [titre reconstitué]",
+   "url": "https://www.lapresse.tn/2026/07/09/la-societe-regionale-du-transport-a-siliana-recrute-23-chauffeurs-et-techniciens-qualifies/",
+   "publisher": "La Presse de Tunisie",
+   "source_type": "SECONDARY",
+   "publication_date": "2026-07-09",
+   "retrieved_at": "2026-10-07",
+   "confidence": "MEDIUM",
+   "notes": "PAGE NON OUVERTE dans cette passe : le quota WebSearch partagé était épuisé et WebFetch renvoie EGRESS_BLOCKED pour ce domaine. URL et faits repris du journal de recherche de l'équipe (docs/research/01-market-raw.md et/ou content/competitions/_openings.json, généré le 2026-10-07). Titre reconstitué ; date de publication déduite de l'URL. Faits attribués (fiche _openings.json) : 23 chauffeurs et techniciens qualifiés ; date limite et modalités non relevées."
+  }
+ ],
+ "editions": [
+  {
+   "year": 2026,
+   "session_label": "الخطوط التونسية للخدمات الأرضية: مناظرة خارجية لانتداب 165 عونا وإطارا بعقود غير محددة المدة / Tunisair Handling : concours externe, 165 agents et cadres en CDI",
+   "status": "CLOSED",
+   "registration_open": null,
+   "registration_deadline": "2026-06-08",
+   "exam_date": null,
+   "positions_count": 165,
+   "candidates_count": null,
+   "source_key": "s2",
+   "confidence": "MEDIUM",
+   "needs_verification": true
+  },
+  {
+   "year": 2026,
+   "session_label": "تونس للتموين: مناظرة خارجية لانتداب أعوان بعقود غير محددة المدة (تونس وجربة) / Tunisie Catering : concours externe, agents en CDI (Tunis et Djerba)",
+   "status": "CLOSED",
+   "registration_open": null,
+   "registration_deadline": "2026-07-31",
+   "exam_date": null,
+   "positions_count": null,
+   "candidates_count": null,
+   "source_key": "s3",
+   "confidence": "MEDIUM",
+   "needs_verification": true
+  },
+  {
+   "year": 2026,
+   "session_label": "شركة نقل تونس: مناظرة خارجية لانتداب 580 عونا / Transtu : concours externe, 580 agents",
+   "status": "CLOSED",
+   "registration_open": null,
+   "registration_deadline": "2026-09-08",
+   "exam_date": null,
+   "positions_count": 580,
+   "candidates_count": null,
+   "source_key": "s4",
+   "confidence": "MEDIUM",
+   "needs_verification": true
+  },
+  {
+   "year": 2026,
+   "session_label": "الشركة الوطنية للنقل بين المدن: مناظرة خارجية لانتداب 55 عونا وإطارا / SNTRI : concours externe, 55 agents et cadres",
+   "status": "CLOSED",
+   "registration_open": null,
+   "registration_deadline": "2026-09-30",
+   "exam_date": null,
+   "positions_count": 55,
+   "candidates_count": null,
+   "source_key": "s5",
+   "confidence": "MEDIUM",
+   "needs_verification": true
+  },
+  {
+   "year": 2026,
+   "session_label": "الشركة الجهوية للنقل بسليانة: انتداب 23 سائقا وتقنيا مؤهلا / Société régionale du transport de Siliana : 23 chauffeurs et techniciens",
+   "status": "CLOSED",
+   "registration_open": null,
+   "registration_deadline": null,
+   "exam_date": null,
+   "positions_count": 23,
+   "candidates_count": null,
+   "source_key": "s6",
+   "confidence": "MEDIUM",
+   "needs_verification": true
+  }
+ ],
+ "positions": [
+  {
+   "slug": "agent-escale",
+   "title_ar": "عون محطة / عون عبور (التسجيل والإركاب وخدمة المسافرين) – الخطوط التونسية للخدمات الأرضية والخطوط التونسية",
+   "title_fr": "Agent d'escale / agent de passage (enregistrement, embarquement, service passagers) – Tunisair Handling, Tunisair",
+   "diploma_level": "BAC",
+   "eligibility": {
+    "min_age": 18,
+    "max_age": null,
+    "genders": [
+     "M",
+     "F"
+    ],
+    "nationality": "TN",
+    "diplomas": [
+     "BAC"
+    ],
+    "specialties": [],
+    "min_height_cm_male": null,
+    "min_height_cm_female": null,
+    "marital_status": null,
+    "other_ar": [
+     "مستوى مقترح: شهادة الباكالوريا على الأقل، ويُفضّل مؤهل في السياحة أو النقل الجوي أو التجارة أو اللغات (شهادة مؤهل تقني سامي أو إجازة) — غير مؤكد",
+     "إتقان الفرنسية والإنجليزية شفاهيا وكتابيا، ولغة ثالثة (الألمانية، الإيطالية، الروسية...) ميزة إضافية بحكم الحركة السياحية — مقترح",
+     "القبول بالعمل بنظام المناوبة ليلا ونهارا وأيام العطل وبالمطار المحدد في البلاغ (تونس قرطاج، جربة جرجيس، المنستير، صفاقس حسب ما نقلته الصحافة لدورة 2026) — للتثبت",
+     "الجنسية التونسية والتمتع بالحقوق المدنية ونقاوة السوابق العدلية (بطاقة عدد 3) — شروط مقترحة بالقياس على انتدابات المنشآت العمومية، للتثبت",
+     "وضعية قانونية إزاء الخدمة الوطنية بالنسبة للمترشحين الذكور — مقترح، للتثبت",
+     "حد السن الأقصى غير منشور في المصادر المتاحة (كثيرا ما يتراوح بين 30 و40 سنة في مناظرات المنشآت العمومية) — للتثبت من البلاغ ومن تاريخ احتساب السن",
+     "القدرة البدنية والصحية على العمل يثبتها فحص طب الشغل للمنشأة — مقترح"
+    ],
+    "other_fr": [
+     "Niveau suggéré : au moins le baccalauréat, de préférence avec une qualification en tourisme, transport aérien, commerce ou langues (BTS ou licence) — non confirmé",
+     "Maîtrise du français et de l'anglais à l'oral et à l'écrit ; une troisième langue (allemand, italien, russe...) est un atout vu le trafic touristique — suggestion",
+     "Disponibilité pour le travail posté (nuit, week-ends, jours fériés) à l'aéroport fixé par l'avis (Tunis-Carthage, Djerba-Zarzis, Monastir, Sfax selon la presse pour la session 2026) — à vérifier",
+     "Nationalité tunisienne, jouissance des droits civiques et casier judiciaire vierge (bulletin n° 3) — conditions suggérées par analogie avec les recrutements des entreprises publiques, à vérifier",
+     "Situation régulière vis-à-vis du service national pour les candidats de sexe masculin — suggestion, à vérifier",
+     "Âge maximum non publié dans les sources disponibles (souvent entre 30 et 40 ans dans les concours des entreprises publiques) — à vérifier dans l'avis, ainsi que la date de référence pour le calcul de l'âge",
+     "Aptitude physique et médicale attestée par la médecine du travail de l'entreprise — suggestion"
+    ],
+    "source_key": "s2",
+    "confidence": "LOW",
+    "needs_verification": true,
+    "source_quote": null
+   },
+   "phases": [
+    {
+     "order": 1,
+     "kind": "FILE_REVIEW",
+     "name_ar": "الترشح والانتقاء الأولي بالملفات",
+     "name_fr": "Candidature et présélection sur dossier",
+     "is_eliminatory": true,
+     "duration_minutes": null,
+     "description_ar": "حسب ما نقلته الصحافة (s1، s2) فتحت الخطوط التونسية للخدمات الأرضية في جوان 2026 مناظرة خارجية لانتداب 165 عونا وإطارا بعقود غير محددة المدة في عدة اختصاصات بمطارات تونس قرطاج وجربة والمنستير (وصفاقس حسب مصدر آخر)، مع آخر أجل للترشح يوم 8 جوان 2026 حسب سجل البحث. طريقة التسجيل (منصة رقمية أو موقع المجمع) ومقاييس الانتقاء الأولي غير مؤكدة.",
+     "description_fr": "Selon la presse (s1, s2), Tunisair Handling a ouvert en juin 2026 un concours externe pour 165 agents et cadres en CDI dans plusieurs spécialités, aux aéroports de Tunis-Carthage, Djerba et Monastir (et Sfax selon une autre source), avec une date limite fixée au 8 juin 2026 selon le journal de recherche. Le mode d'inscription (plateforme en ligne ou site du groupe) et les critères de présélection ne sont pas confirmés.",
+     "source_key": "s2",
+     "confidence": "MEDIUM",
+     "needs_verification": true
+    },
+    {
+     "order": 2,
+     "kind": "WRITTEN",
+     "name_ar": "الاختبار الكتابي (أسئلة متعددة الاختيارات)",
+     "name_fr": "Épreuve écrite (QCM)",
+     "is_eliminatory": true,
+     "duration_minutes": null,
+     "description_ar": "مقترح: ثقافة عامة، فرنسية، إنجليزية، منطق وحساب، ومعلومات أساسية حول النقل الجوي وخدمات المحطة. لم يُنشر أي برنامج رسمي.",
+     "description_fr": "Suggestion : culture générale, français, anglais, logique et calcul, notions de transport aérien et d'assistance en escale. Aucun programme officiel publié.",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "order": 3,
+     "kind": "INTERVIEW",
+     "name_ar": "مقابلة شفاهية واختبار لغات",
+     "name_fr": "Entretien et test oral de langues",
+     "is_eliminatory": true,
+     "duration_minutes": null,
+     "description_ar": "مقابلة أمام لجنة لتقييم التواصل وحسن التعامل مع الحرفاء والتحدث بالفرنسية والإنجليزية — مقترح.",
+     "description_fr": "Entretien devant un jury : communication, sens du service client, expression en français et en anglais — suggestion.",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "order": 4,
+     "kind": "MEDICAL",
+     "name_ar": "الفحص الطبي",
+     "name_fr": "Visite médicale",
+     "is_eliminatory": true,
+     "duration_minutes": null,
+     "description_ar": "فحص طبي لدى طب الشغل للتثبت من القدرة على العمل — مقترح، غير مؤكد.",
+     "description_fr": "Visite de médecine du travail pour vérifier l'aptitude au poste — suggestion, non confirmée.",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "order": 5,
+     "kind": "TRAINING",
+     "name_ar": "تكوين أولي وفترة تجربة",
+     "name_fr": "Formation initiale et période d'essai",
+     "is_eliminatory": false,
+     "duration_minutes": null,
+     "description_ar": "تكوين داخلي في خدمات المسافرين وأنظمة التسجيل وقواعد السلامة والأمن ثم فترة تجربة قبل الترسيم — مقترح.",
+     "description_fr": "Formation interne (service passagers, système d'enregistrement, sécurité et sûreté) puis période d'essai avant titularisation — suggestion.",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    }
+   ],
+   "subjects": [
+    {
+     "phase_order": 2,
+     "domain": "CULTURE_GENERALE",
+     "specialty_key": null,
+     "name_ar": "الثقافة العامة",
+     "name_fr": "Culture générale",
+     "coefficient": null,
+     "duration_minutes": null,
+     "question_count": null,
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "phase_order": 2,
+     "domain": "FRENCH",
+     "specialty_key": null,
+     "name_ar": "اللغة الفرنسية",
+     "name_fr": "Français",
+     "coefficient": null,
+     "duration_minutes": null,
+     "question_count": null,
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "phase_order": 2,
+     "domain": "ENGLISH",
+     "specialty_key": null,
+     "name_ar": "اللغة الإنجليزية",
+     "name_fr": "Anglais",
+     "coefficient": null,
+     "duration_minutes": null,
+     "question_count": null,
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "phase_order": 2,
+     "domain": "LOGIC",
+     "specialty_key": null,
+     "name_ar": "المنطق والاستدلال",
+     "name_fr": "Logique et raisonnement",
+     "coefficient": null,
+     "duration_minutes": null,
+     "question_count": null,
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "phase_order": 2,
+     "domain": "NUMERICAL",
+     "specialty_key": null,
+     "name_ar": "الحساب والاستدلال العددي",
+     "name_fr": "Calcul et raisonnement numérique",
+     "coefficient": null,
+     "duration_minutes": null,
+     "question_count": null,
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "phase_order": 2,
+     "domain": "SPECIALTY",
+     "specialty_key": "spec.transport-aerien.escale",
+     "name_ar": "خدمات المحطة والمسافرين",
+     "name_fr": "Assistance en escale et service passagers",
+     "coefficient": null,
+     "duration_minutes": null,
+     "question_count": null,
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "phase_order": 2,
+     "domain": "SPECIALTY",
+     "specialty_key": "spec.transport-aerien.aviation",
+     "name_ar": "معلومات عامة حول الطيران المدني",
+     "name_fr": "Notions générales d'aviation civile",
+     "coefficient": null,
+     "duration_minutes": null,
+     "question_count": null,
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "phase_order": 3,
+     "domain": "ENGLISH",
+     "specialty_key": null,
+     "name_ar": "محادثة بالإنجليزية",
+     "name_fr": "Expression orale en anglais",
+     "coefficient": null,
+     "duration_minutes": null,
+     "question_count": null,
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    }
+   ],
+   "physical_tests": [],
+   "required_documents": [
+    {
+     "text_ar": "مطلب ترشح أو استمارة التسجيل عن بعد مطبوعة وممضاة حسب ما يحدده البلاغ",
+     "text_fr": "Demande de candidature ou formulaire d'inscription en ligne imprimé et signé, selon l'avis",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "text_ar": "نسخة من بطاقة التعريف الوطنية",
+     "text_fr": "Copie de la carte d'identité nationale",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "text_ar": "نسخ من الشهادات العلمية أو المهنية وكشوف الأعداد (مطابقة للأصل عند الطلب)",
+     "text_fr": "Copies des diplômes scolaires ou professionnels et relevés de notes (certifiées conformes si demandé)",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "text_ar": "بطاقة عدد 3 (مضمون السوابق العدلية) حديثة",
+     "text_fr": "Bulletin n° 3 (extrait du casier judiciaire) récent",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "text_ar": "سيرة ذاتية وصور شمسية حديثة",
+     "text_fr": "Curriculum vitae et photos d'identité récentes",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "text_ar": "وثيقة تثبت الوضعية إزاء الخدمة الوطنية (للذكور)",
+     "text_fr": "Justificatif de la situation vis-à-vis du service national (candidats masculins)",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "text_ar": "شهادات في مستوى اللغات الأجنبية إن وجدت",
+     "text_fr": "Attestations de niveau en langues étrangères, le cas échéant",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    }
+   ],
+   "blueprint": {
+    "total_minutes": 90,
+    "fidelity": "APPROXIMATED",
+    "sections": [
+     {
+      "domain": "CULTURE_GENERALE",
+      "specialty_key": null,
+      "count": 10,
+      "minutes": 10
+     },
+     {
+      "domain": "FRENCH",
+      "specialty_key": null,
+      "count": 12,
+      "minutes": 12
+     },
+     {
+      "domain": "ENGLISH",
+      "specialty_key": null,
+      "count": 15,
+      "minutes": 18
+     },
+     {
+      "domain": "LOGIC",
+      "specialty_key": null,
+      "count": 10,
+      "minutes": 12
+     },
+     {
+      "domain": "NUMERICAL",
+      "specialty_key": null,
+      "count": 8,
+      "minutes": 10
+     },
+     {
+      "domain": "SPECIALTY",
+      "specialty_key": "spec.transport-aerien.escale",
+      "count": 15,
+      "minutes": 18
+     },
+     {
+      "domain": "SPECIALTY",
+      "specialty_key": "spec.transport-aerien.aviation",
+      "count": 8,
+      "minutes": 10
+     }
+    ]
+   }
+  },
+  {
+   "slug": "agent-piste",
+   "title_ar": "عون مدرج (معالجة الأمتعة والشحن، سياقة آليات المدرج، صيانة المعدات الأرضية) – الخطوط التونسية للخدمات الأرضية",
+   "title_fr": "Agent de piste (manutention bagages et fret, conduite d'engins de piste, maintenance du matériel au sol) – Tunisair Handling",
+   "diploma_level": "NINTH",
+   "eligibility": {
+    "min_age": 18,
+    "max_age": null,
+    "genders": [
+     "M",
+     "F"
+    ],
+    "nationality": "TN",
+    "diplomas": [
+     "NINTH"
+    ],
+    "specialties": [],
+    "min_height_cm_male": null,
+    "min_height_cm_female": null,
+    "marital_status": null,
+    "other_ar": [
+     "مستوى مقترح: السنة التاسعة أساسي على الأقل مع شهادة تكوين مهني (شهادة الكفاءة المهنية CAP أو شهادة مؤهل تقني مهني BTP) في الميكانيك أو الكهرباء أو سياقة الآليات الثقيلة — غير مؤكد",
+     "رخصة سياقة سارية المفعول (صنف «ب» على الأقل، وصنف «ج» أو «ج+ه» لسواق الآليات الثقيلة) — مقترح",
+     "لياقة بدنية تسمح بحمل الأمتعة والعمل في الهواء الطلق وبنظام المناوبة — مقترح",
+     "الجنسية التونسية والتمتع بالحقوق المدنية ونقاوة السوابق العدلية (بطاقة عدد 3) — شروط مقترحة بالقياس على انتدابات المنشآت العمومية، للتثبت",
+     "وضعية قانونية إزاء الخدمة الوطنية بالنسبة للمترشحين الذكور — مقترح، للتثبت",
+     "حد السن الأقصى غير منشور في المصادر المتاحة (كثيرا ما يتراوح بين 30 و40 سنة في مناظرات المنشآت العمومية) — للتثبت من البلاغ ومن تاريخ احتساب السن",
+     "القدرة البدنية والصحية على العمل يثبتها فحص طب الشغل للمنشأة — مقترح"
+    ],
+    "other_fr": [
+     "Niveau suggéré : au moins la 9e année de base avec un diplôme de formation professionnelle (CAP ou BTP) en mécanique, électricité ou conduite d'engins lourds — non confirmé",
+     "Permis de conduire en cours de validité (catégorie B au minimum, C ou C+E pour les conducteurs d'engins lourds) — suggestion",
+     "Condition physique permettant la manutention de bagages, le travail en plein air et en horaires décalés — suggestion",
+     "Nationalité tunisienne, jouissance des droits civiques et casier judiciaire vierge (bulletin n° 3) — conditions suggérées par analogie avec les recrutements des entreprises publiques, à vérifier",
+     "Situation régulière vis-à-vis du service national pour les candidats de sexe masculin — suggestion, à vérifier",
+     "Âge maximum non publié dans les sources disponibles (souvent entre 30 et 40 ans dans les concours des entreprises publiques) — à vérifier dans l'avis, ainsi que la date de référence pour le calcul de l'âge",
+     "Aptitude physique et médicale attestée par la médecine du travail de l'entreprise — suggestion"
+    ],
+    "source_key": "s2",
+    "confidence": "LOW",
+    "needs_verification": true,
+    "source_quote": null
+   },
+   "phases": [
+    {
+     "order": 1,
+     "kind": "FILE_REVIEW",
+     "name_ar": "الترشح والانتقاء الأولي بالملفات",
+     "name_fr": "Candidature et présélection sur dossier",
+     "is_eliminatory": true,
+     "duration_minutes": null,
+     "description_ar": "حسب ما نقلته الصحافة (s1، s2) فتحت الخطوط التونسية للخدمات الأرضية في جوان 2026 مناظرة خارجية لانتداب 165 عونا وإطارا بعقود غير محددة المدة في عدة اختصاصات بمطارات تونس قرطاج وجربة والمنستير (وصفاقس حسب مصدر آخر)، مع آخر أجل للترشح يوم 8 جوان 2026 حسب سجل البحث. طريقة التسجيل (منصة رقمية أو موقع المجمع) ومقاييس الانتقاء الأولي غير مؤكدة.",
+     "description_fr": "Selon la presse (s1, s2), Tunisair Handling a ouvert en juin 2026 un concours externe pour 165 agents et cadres en CDI dans plusieurs spécialités, aux aéroports de Tunis-Carthage, Djerba et Monastir (et Sfax selon une autre source), avec une date limite fixée au 8 juin 2026 selon le journal de recherche. Le mode d'inscription (plateforme en ligne ou site du groupe) et les critères de présélection ne sont pas confirmés.",
+     "source_key": "s1",
+     "confidence": "MEDIUM",
+     "needs_verification": true
+    },
+    {
+     "order": 2,
+     "kind": "WRITTEN",
+     "name_ar": "اختبار كتابي مبسط",
+     "name_fr": "Épreuve écrite simplifiée",
+     "is_eliminatory": true,
+     "duration_minutes": null,
+     "description_ar": "مقترح: أسئلة متعددة الاختيارات في العربية والفرنسية والحساب والمنطق وأساسيات الميكانيك والسلامة بالمدرج. قد تقتصر المناظرة على الملفات واختبار تطبيقي.",
+     "description_fr": "Suggestion : QCM d'arabe, de français, de calcul, de logique, de notions de mécanique et de sécurité sur l'aire de trafic. Le concours peut se limiter au dossier et à une épreuve pratique.",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "order": 3,
+     "kind": "ORAL",
+     "name_ar": "اختبار تطبيقي ومقابلة",
+     "name_fr": "Épreuve pratique et entretien",
+     "is_eliminatory": true,
+     "duration_minutes": null,
+     "description_ar": "اختبار تطبيقي (سياقة آلية أو عملية صيانة بسيطة أو تحميل) ومقابلة قصيرة — مقترح.",
+     "description_fr": "Épreuve pratique (conduite d'engin, opération de maintenance simple ou chargement) et court entretien — suggestion.",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "order": 4,
+     "kind": "MEDICAL",
+     "name_ar": "الفحص الطبي",
+     "name_fr": "Visite médicale",
+     "is_eliminatory": true,
+     "duration_minutes": null,
+     "description_ar": "فحص طبي لدى طب الشغل للتثبت من القدرة على العمل (الظهر، البصر، السمع) — مقترح، غير مؤكد.",
+     "description_fr": "Visite de médecine du travail pour vérifier l'aptitude au poste (dos, vue, audition) — suggestion, non confirmée.",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    }
+   ],
+   "subjects": [
+    {
+     "phase_order": 2,
+     "domain": "ARABIC",
+     "specialty_key": null,
+     "name_ar": "اللغة العربية",
+     "name_fr": "Arabe",
+     "coefficient": null,
+     "duration_minutes": null,
+     "question_count": null,
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "phase_order": 2,
+     "domain": "FRENCH",
+     "specialty_key": null,
+     "name_ar": "اللغة الفرنسية",
+     "name_fr": "Français",
+     "coefficient": null,
+     "duration_minutes": null,
+     "question_count": null,
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "phase_order": 2,
+     "domain": "NUMERICAL",
+     "specialty_key": null,
+     "name_ar": "الحساب",
+     "name_fr": "Calcul",
+     "coefficient": null,
+     "duration_minutes": null,
+     "question_count": null,
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "phase_order": 2,
+     "domain": "LOGIC",
+     "specialty_key": null,
+     "name_ar": "المنطق",
+     "name_fr": "Logique",
+     "coefficient": null,
+     "duration_minutes": null,
+     "question_count": null,
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "phase_order": 2,
+     "domain": "SPECIALTY",
+     "specialty_key": "spec.transport-aerien.piste",
+     "name_ar": "خدمات المدرج والسلامة بمنطقة الطائرات",
+     "name_fr": "Assistance piste et sécurité sur l'aire de trafic",
+     "coefficient": null,
+     "duration_minutes": null,
+     "question_count": null,
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "phase_order": 2,
+     "domain": "SPECIALTY",
+     "specialty_key": "spec.transport-aerien.mecanique",
+     "name_ar": "ميكانيك العربات والآليات",
+     "name_fr": "Mécanique des véhicules et engins",
+     "coefficient": null,
+     "duration_minutes": null,
+     "question_count": null,
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    }
+   ],
+   "physical_tests": [],
+   "required_documents": [
+    {
+     "text_ar": "مطلب ترشح أو استمارة التسجيل عن بعد مطبوعة وممضاة حسب ما يحدده البلاغ",
+     "text_fr": "Demande de candidature ou formulaire d'inscription en ligne imprimé et signé, selon l'avis",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "text_ar": "نسخة من بطاقة التعريف الوطنية",
+     "text_fr": "Copie de la carte d'identité nationale",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "text_ar": "نسخ من الشهادات العلمية أو المهنية وكشوف الأعداد (مطابقة للأصل عند الطلب)",
+     "text_fr": "Copies des diplômes scolaires ou professionnels et relevés de notes (certifiées conformes si demandé)",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "text_ar": "بطاقة عدد 3 (مضمون السوابق العدلية) حديثة",
+     "text_fr": "Bulletin n° 3 (extrait du casier judiciaire) récent",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "text_ar": "سيرة ذاتية وصور شمسية حديثة",
+     "text_fr": "Curriculum vitae et photos d'identité récentes",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "text_ar": "وثيقة تثبت الوضعية إزاء الخدمة الوطنية (للذكور)",
+     "text_fr": "Justificatif de la situation vis-à-vis du service national (candidats masculins)",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "text_ar": "نسخة من رخصة السياقة",
+     "text_fr": "Copie du permis de conduire",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "text_ar": "نسخة من شهادة التكوين المهني (CAP أو BTP)",
+     "text_fr": "Copie du diplôme de formation professionnelle (CAP ou BTP)",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    }
+   ],
+   "blueprint": {
+    "total_minutes": 75,
+    "fidelity": "APPROXIMATED",
+    "sections": [
+     {
+      "domain": "ARABIC",
+      "specialty_key": null,
+      "count": 8,
+      "minutes": 8
+     },
+     {
+      "domain": "FRENCH",
+      "specialty_key": null,
+      "count": 8,
+      "minutes": 8
+     },
+     {
+      "domain": "NUMERICAL",
+      "specialty_key": null,
+      "count": 10,
+      "minutes": 15
+     },
+     {
+      "domain": "LOGIC",
+      "specialty_key": null,
+      "count": 10,
+      "minutes": 12
+     },
+     {
+      "domain": "SPECIALTY",
+      "specialty_key": "spec.transport-aerien.piste",
+      "count": 12,
+      "minutes": 17
+     },
+     {
+      "domain": "SPECIALTY",
+      "specialty_key": "spec.transport-aerien.mecanique",
+      "count": 10,
+      "minutes": 15
+     }
+    ]
+   }
+  },
+  {
+   "slug": "personnel-navigant-commercial",
+   "title_ar": "مضيف(ة) طيران – طاقم الضيافة (الخطوط التونسية)",
+   "title_fr": "Personnel navigant commercial (hôtesse de l'air / steward) – Tunisair",
+   "diploma_level": "BAC",
+   "eligibility": {
+    "min_age": 18,
+    "max_age": null,
+    "genders": [
+     "M",
+     "F"
+    ],
+    "nationality": "TN",
+    "diplomas": [
+     "BAC"
+    ],
+    "specialties": [],
+    "min_height_cm_male": null,
+    "min_height_cm_female": null,
+    "marital_status": null,
+    "other_ar": [
+     "مستوى مقترح: الباكالوريا على الأقل (يُفضّل مستوى جامعي) — غير مؤكد",
+     "إتقان العربية والفرنسية والإنجليزية، ولغة أجنبية إضافية ميزة — مقترح",
+     "قامة دنيا وتناسب بين الطول والوزن: شرط معتاد لدى شركات الطيران، لكن القيم المعتمدة لدى الخطوط التونسية غير معروفة — للتثبت",
+     "حد سن أقصى أقل من بقية الرتب يُعتمد عادة لدى شركات الطيران (في حدود 25 إلى 30 سنة) — غير مؤكد",
+     "إتقان السباحة وحسن المظهر وعدم وجود وشم ظاهر: ممارسات شائعة لدى شركات الطيران — للتثبت",
+     "جواز سفر ساري المفعول والقدرة على السفر والمبيت خارج الوطن — مقترح",
+     "الجنسية التونسية والتمتع بالحقوق المدنية ونقاوة السوابق العدلية (بطاقة عدد 3) — شروط مقترحة بالقياس على انتدابات المنشآت العمومية، للتثبت",
+     "وضعية قانونية إزاء الخدمة الوطنية بالنسبة للمترشحين الذكور — مقترح، للتثبت",
+     "حد السن الأقصى غير منشور في المصادر المتاحة (كثيرا ما يتراوح بين 30 و40 سنة في مناظرات المنشآت العمومية) — للتثبت من البلاغ ومن تاريخ احتساب السن",
+     "القدرة البدنية والصحية على العمل يثبتها فحص طب الشغل للمنشأة — مقترح"
+    ],
+    "other_fr": [
+     "Niveau suggéré : au moins le baccalauréat (niveau universitaire apprécié) — non confirmé",
+     "Maîtrise de l'arabe, du français et de l'anglais ; une langue supplémentaire est un atout — suggestion",
+     "Taille minimale et rapport taille/poids : exigence courante chez les compagnies aériennes, mais valeurs appliquées par Tunisair inconnues — à vérifier",
+     "Limite d'âge plus basse que pour les autres grades, habituelle chez les compagnies (de l'ordre de 25 à 30 ans) — non confirmé",
+     "Savoir nager, bonne présentation, pas de tatouage visible : pratiques courantes des compagnies aériennes — à vérifier",
+     "Passeport valide et disponibilité pour les découchers à l'étranger — suggestion",
+     "Nationalité tunisienne, jouissance des droits civiques et casier judiciaire vierge (bulletin n° 3) — conditions suggérées par analogie avec les recrutements des entreprises publiques, à vérifier",
+     "Situation régulière vis-à-vis du service national pour les candidats de sexe masculin — suggestion, à vérifier",
+     "Âge maximum non publié dans les sources disponibles (souvent entre 30 et 40 ans dans les concours des entreprises publiques) — à vérifier dans l'avis, ainsi que la date de référence pour le calcul de l'âge",
+     "Aptitude physique et médicale attestée par la médecine du travail de l'entreprise — suggestion"
+    ],
+    "source_key": null,
+    "confidence": "LOW",
+    "needs_verification": true,
+    "source_quote": null
+   },
+   "phases": [
+    {
+     "order": 1,
+     "kind": "FILE_REVIEW",
+     "name_ar": "الترشح والانتقاء الأولي بالملفات",
+     "name_fr": "Candidature et présélection sur dossier",
+     "is_eliminatory": true,
+     "duration_minutes": null,
+     "description_ar": "لم يتم العثور على بلاغ حديث (2023-2026) لانتداب طاقم ضيافة بالخطوط التونسية. يُرجّح الترشح عبر موقع الشركة أو بلاغ صحفي مع انتقاء أولي حسب السن والمستوى واللغات — مقترح.",
+     "description_fr": "Aucun avis récent (2023-2026) de recrutement de PNC chez Tunisair n'a été trouvé. Candidature probable via le site de la compagnie ou un avis de presse, avec présélection sur l'âge, le niveau et les langues — suggestion.",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "order": 2,
+     "kind": "INTERVIEW",
+     "name_ar": "يوم التقييم: التقديم الشخصي والمقابلة الجماعية",
+     "name_fr": "Journée d'évaluation : présentation et entretien collectif",
+     "is_eliminatory": true,
+     "duration_minutes": null,
+     "description_ar": "قيس القامة والمظهر العام ثم تمارين جماعية لتقييم التواصل وروح الفريق — ممارسة شائعة لدى شركات الطيران، غير مؤكدة لدى الخطوط التونسية.",
+     "description_fr": "Mesure de la taille, présentation générale puis exercices de groupe (communication, esprit d'équipe) — pratique courante des compagnies, non confirmée chez Tunisair.",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "order": 3,
+     "kind": "WRITTEN",
+     "name_ar": "اختبار كتابي في اللغات والثقافة العامة",
+     "name_fr": "Épreuve écrite de langues et culture générale",
+     "is_eliminatory": true,
+     "duration_minutes": null,
+     "description_ar": "أسئلة متعددة الاختيارات في الفرنسية والإنجليزية والثقافة العامة والجغرافيا والحساب الذهني — مقترح.",
+     "description_fr": "QCM de français, d'anglais, de culture générale, de géographie et de calcul mental — suggestion.",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "order": 4,
+     "kind": "ORAL",
+     "name_ar": "مقابلة فردية بثلاث لغات",
+     "name_fr": "Entretien individuel en trois langues",
+     "is_eliminatory": true,
+     "duration_minutes": null,
+     "description_ar": "مقابلة أمام لجنة بالعربية والفرنسية والإنجليزية (الدوافع، التعامل مع وضعيات صعبة مع المسافرين) — مقترح.",
+     "description_fr": "Entretien devant un jury en arabe, français et anglais (motivation, gestion de situations difficiles avec des passagers) — suggestion.",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "order": 5,
+     "kind": "PHYSICAL",
+     "name_ar": "اختبار السباحة",
+     "name_fr": "Test de natation",
+     "is_eliminatory": true,
+     "duration_minutes": null,
+     "description_ar": "اختبار سباحة للتأكد من القدرة على التصرف في حالة الهبوط على الماء — مقترح، غير مؤكد.",
+     "description_fr": "Test de natation pour vérifier l'aptitude en cas d'amerrissage — suggestion, non confirmée.",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "order": 6,
+     "kind": "MEDICAL",
+     "name_ar": "الفحص الطبي للطيران",
+     "name_fr": "Visite médicale aéronautique",
+     "is_eliminatory": true,
+     "duration_minutes": null,
+     "description_ar": "فحص طبي معمّق للتأكد من القدرة على العمل على متن الطائرات (القلب، الأذن والضغط، البصر) لدى مركز طبي مختص — مقترح.",
+     "description_fr": "Examen médical approfondi d'aptitude au travail à bord (cœur, ORL et pressurisation, vue) auprès d'un centre médical spécialisé — suggestion.",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "order": 7,
+     "kind": "TRAINING",
+     "name_ar": "التكوين الأساسي في السلامة والإنقاذ",
+     "name_fr": "Formation initiale sécurité-sauvetage",
+     "is_eliminatory": true,
+     "duration_minutes": null,
+     "description_ar": "تكوين إلزامي في إجراءات السلامة والإخلاء والإسعافات الأولية والخدمة على متن الطائرة، يُتوج بشهادة تمكّن من العمل كعضو طاقم ضيافة — مقترح، تفاصيل غير مؤكدة.",
+     "description_fr": "Formation obligatoire (procédures de sécurité, évacuation, premiers secours, service à bord) sanctionnée par une attestation permettant d'exercer comme membre d'équipage de cabine — suggestion, détails non confirmés.",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    }
+   ],
+   "subjects": [
+    {
+     "phase_order": 3,
+     "domain": "FRENCH",
+     "specialty_key": null,
+     "name_ar": "اللغة الفرنسية",
+     "name_fr": "Français",
+     "coefficient": null,
+     "duration_minutes": null,
+     "question_count": null,
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "phase_order": 3,
+     "domain": "ENGLISH",
+     "specialty_key": null,
+     "name_ar": "اللغة الإنجليزية",
+     "name_fr": "Anglais",
+     "coefficient": null,
+     "duration_minutes": null,
+     "question_count": null,
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "phase_order": 3,
+     "domain": "CULTURE_GENERALE",
+     "specialty_key": null,
+     "name_ar": "الثقافة العامة والجغرافيا",
+     "name_fr": "Culture générale et géographie",
+     "coefficient": null,
+     "duration_minutes": null,
+     "question_count": null,
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "phase_order": 3,
+     "domain": "ARABIC",
+     "specialty_key": null,
+     "name_ar": "اللغة العربية",
+     "name_fr": "Arabe",
+     "coefficient": null,
+     "duration_minutes": null,
+     "question_count": null,
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "phase_order": 3,
+     "domain": "SPECIALTY",
+     "specialty_key": "spec.transport-aerien.pnc",
+     "name_ar": "السلامة في المقصورة ومهام طاقم الضيافة",
+     "name_fr": "Sécurité cabine et métier de PNC",
+     "coefficient": null,
+     "duration_minutes": null,
+     "question_count": null,
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "phase_order": 3,
+     "domain": "SPECIALTY",
+     "specialty_key": "spec.secourisme",
+     "name_ar": "الإسعافات الأولية",
+     "name_fr": "Secourisme",
+     "coefficient": null,
+     "duration_minutes": null,
+     "question_count": null,
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "phase_order": 4,
+     "domain": "ENGLISH",
+     "specialty_key": null,
+     "name_ar": "محادثة بالإنجليزية",
+     "name_fr": "Expression orale en anglais",
+     "coefficient": null,
+     "duration_minutes": null,
+     "question_count": null,
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    }
+   ],
+   "physical_tests": [
+    {
+     "name_ar": "السباحة",
+     "name_fr": "Natation",
+     "details_ar": "[مقترح] قطع مسافة (مثلا 25 إلى 50 مترا) دون توقف ودون وسيلة مساعدة، وأحيانا البقاء طافيا لبضع دقائق. لا يوجد سلم تنقيط منشور.",
+     "details_fr": "[Suggestion] Parcourir une distance (par exemple 25 à 50 m) sans arrêt ni aide, parfois maintien en surface quelques minutes. Aucun barème publié.",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "name_ar": "قيس القامة واختبار الوصول",
+     "name_fr": "Mesure de la taille et test d'allonge",
+     "details_ar": "[مقترح] تعتمد بعض شركات الطيران قامة دنيا أو اختبار الوصول إلى ارتفاع معين (للوصول إلى الخزائن العلوية ومعدات الطوارئ). غير مؤكد لدى الخطوط التونسية.",
+     "details_fr": "[Suggestion] Certaines compagnies appliquent une taille minimale ou un test d'allonge (atteindre les coffres à bagages et équipements de secours). Non confirmé chez Tunisair.",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    }
+   ],
+   "required_documents": [
+    {
+     "text_ar": "مطلب ترشح أو استمارة التسجيل عن بعد مطبوعة وممضاة حسب ما يحدده البلاغ",
+     "text_fr": "Demande de candidature ou formulaire d'inscription en ligne imprimé et signé, selon l'avis",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "text_ar": "نسخة من بطاقة التعريف الوطنية",
+     "text_fr": "Copie de la carte d'identité nationale",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "text_ar": "نسخ من الشهادات العلمية أو المهنية وكشوف الأعداد (مطابقة للأصل عند الطلب)",
+     "text_fr": "Copies des diplômes scolaires ou professionnels et relevés de notes (certifiées conformes si demandé)",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "text_ar": "بطاقة عدد 3 (مضمون السوابق العدلية) حديثة",
+     "text_fr": "Bulletin n° 3 (extrait du casier judiciaire) récent",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "text_ar": "سيرة ذاتية وصور شمسية حديثة",
+     "text_fr": "Curriculum vitae et photos d'identité récentes",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "text_ar": "وثيقة تثبت الوضعية إزاء الخدمة الوطنية (للذكور)",
+     "text_fr": "Justificatif de la situation vis-à-vis du service national (candidats masculins)",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "text_ar": "نسخة من جواز السفر",
+     "text_fr": "Copie du passeport",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "text_ar": "صور شمسية كاملة الطول وصورة للوجه حسب ما يطلبه البلاغ",
+     "text_fr": "Photos en pied et portrait selon les exigences de l'avis",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "text_ar": "شهادات في مستوى اللغات إن وجدت",
+     "text_fr": "Attestations de niveau en langues, le cas échéant",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    }
+   ],
+   "blueprint": {
+    "total_minutes": 90,
+    "fidelity": "APPROXIMATED",
+    "sections": [
+     {
+      "domain": "CULTURE_GENERALE",
+      "specialty_key": null,
+      "count": 10,
+      "minutes": 10
+     },
+     {
+      "domain": "FRENCH",
+      "specialty_key": null,
+      "count": 12,
+      "minutes": 15
+     },
+     {
+      "domain": "ENGLISH",
+      "specialty_key": null,
+      "count": 15,
+      "minutes": 20
+     },
+     {
+      "domain": "ARABIC",
+      "specialty_key": null,
+      "count": 8,
+      "minutes": 8
+     },
+     {
+      "domain": "LOGIC",
+      "specialty_key": null,
+      "count": 8,
+      "minutes": 10
+     },
+     {
+      "domain": "SPECIALTY",
+      "specialty_key": "spec.transport-aerien.pnc",
+      "count": 10,
+      "minutes": 15
+     },
+     {
+      "domain": "SPECIALTY",
+      "specialty_key": "spec.secourisme",
+      "count": 8,
+      "minutes": 12
+     }
+    ]
+   }
+  },
+  {
+   "slug": "controleur-aerien",
+   "title_ar": "مراقب جوي / إطار بالملاحة الجوية – ديوان الطيران المدني والمطارات",
+   "title_fr": "Contrôleur de la circulation aérienne / cadre de la navigation aérienne – OACA",
+   "diploma_level": "LICENCE",
+   "eligibility": {
+    "min_age": 18,
+    "max_age": null,
+    "genders": [
+     "M",
+     "F"
+    ],
+    "nationality": "TN",
+    "diplomas": [
+     "LICENCE"
+    ],
+    "specialties": [],
+    "min_height_cm_male": null,
+    "min_height_cm_female": null,
+    "marital_status": null,
+    "other_ar": [
+     "مستوى مقترح: إجازة أو شهادة مهندس في اختصاص علمي أو تقني (رياضيات، فيزياء، إعلامية، إلكترونيك، اتصالات) — غير مؤكد؛ قد تستهدف بعض الدورات مستويات أخرى",
+     "إتقان اللغة الإنجليزية: تشترط المنظمة الدولية للطيران المدني (الملحق 1 لاتفاقية شيكاغو) على المراقبين الجويين مستوى كفاءة لغوية 4 على الأقل لممارسة المهنة؛ أما كشرط للترشح فغير مؤكد",
+     "لياقة طبية من الصنف 3 حسب معايير المنظمة الدولية للطيران المدني (البصر، السمع، تمييز الألوان) لممارسة المهنة — مقترح كشرط انتداب",
+     "القبول بالعمل بنظام المناوبة وبأي مطار أو مركز مراقبة — مقترح",
+     "الجنسية التونسية والتمتع بالحقوق المدنية ونقاوة السوابق العدلية (بطاقة عدد 3) — شروط مقترحة بالقياس على انتدابات المنشآت العمومية، للتثبت",
+     "وضعية قانونية إزاء الخدمة الوطنية بالنسبة للمترشحين الذكور — مقترح، للتثبت",
+     "حد السن الأقصى غير منشور في المصادر المتاحة (كثيرا ما يتراوح بين 30 و40 سنة في مناظرات المنشآت العمومية) — للتثبت من البلاغ ومن تاريخ احتساب السن",
+     "القدرة البدنية والصحية على العمل يثبتها فحص طب الشغل للمنشأة — مقترح"
+    ],
+    "other_fr": [
+     "Niveau suggéré : licence ou diplôme d'ingénieur dans une filière scientifique ou technique (mathématiques, physique, informatique, électronique, télécommunications) — non confirmé ; certaines sessions peuvent viser d'autres niveaux",
+     "Maîtrise de l'anglais : l'OACI (Annexe 1 à la Convention de Chicago) exige des contrôleurs au minimum le niveau 4 de compétence linguistique pour exercer ; comme condition d'inscription, non confirmé",
+     "Aptitude médicale de classe 3 selon les normes OACI (vue, audition, perception des couleurs) pour exercer — suggérée comme condition de recrutement",
+     "Disponibilité pour le travail posté, dans tout aéroport ou centre de contrôle — suggestion",
+     "Nationalité tunisienne, jouissance des droits civiques et casier judiciaire vierge (bulletin n° 3) — conditions suggérées par analogie avec les recrutements des entreprises publiques, à vérifier",
+     "Situation régulière vis-à-vis du service national pour les candidats de sexe masculin — suggestion, à vérifier",
+     "Âge maximum non publié dans les sources disponibles (souvent entre 30 et 40 ans dans les concours des entreprises publiques) — à vérifier dans l'avis, ainsi que la date de référence pour le calcul de l'âge",
+     "Aptitude physique et médicale attestée par la médecine du travail de l'entreprise — suggestion"
+    ],
+    "source_key": null,
+    "confidence": "LOW",
+    "needs_verification": true,
+    "source_quote": null
+   },
+   "phases": [
+    {
+     "order": 1,
+     "kind": "FILE_REVIEW",
+     "name_ar": "الترشح والانتقاء الأولي بالملفات",
+     "name_fr": "Candidature et présélection sur dossier",
+     "is_eliminatory": true,
+     "duration_minutes": null,
+     "description_ar": "لم يتم العثور على بلاغ حديث (2023-2026) لمناظرة مراقبين جويين بديوان الطيران المدني والمطارات. يُرجّح الإعلان على موقع الديوان مع انتقاء أولي حسب الشهادة والمعدلات — مقترح.",
+     "description_fr": "Aucun avis récent (2023-2026) de concours de contrôleurs aériens à l'OACA n'a été trouvé. Annonce probable sur le site de l'Office, avec présélection sur diplôme et moyennes — suggestion.",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "order": 2,
+     "kind": "WRITTEN",
+     "name_ar": "الاختبارات الكتابية",
+     "name_fr": "Épreuves écrites",
+     "is_eliminatory": true,
+     "duration_minutes": null,
+     "description_ar": "مقترح: رياضيات وفيزياء عامة، إنجليزية، ثقافة عامة ومعلومات أساسية في الطيران.",
+     "description_fr": "Suggestion : mathématiques et physique générales, anglais, culture générale et notions aéronautiques.",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "order": 3,
+     "kind": "PSYCHOTECH",
+     "name_ar": "الاختبارات النفسية التقنية",
+     "name_fr": "Tests psychotechniques",
+     "is_eliminatory": true,
+     "duration_minutes": null,
+     "description_ar": "اختبارات انتباه وذاكرة قصيرة المدى وإدراك مكاني وقدرة على القيام بعدة مهام في آن واحد، وهي معتمدة دوليا في انتقاء المراقبين الجويين — مقترح لهذه المناظرة.",
+     "description_fr": "Tests d'attention, de mémoire à court terme, de perception spatiale et de multitâche, usuels dans la sélection internationale des contrôleurs — suggérés pour ce concours.",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "order": 4,
+     "kind": "ORAL",
+     "name_ar": "اختبار شفاهي في الإنجليزية ومقابلة",
+     "name_fr": "Oral d'anglais et entretien",
+     "is_eliminatory": true,
+     "duration_minutes": null,
+     "description_ar": "تقييم الكفاءة الشفاهية في الإنجليزية ومقابلة حول الدوافع والقدرة على التحكم في الضغط — مقترح.",
+     "description_fr": "Évaluation de l'anglais oral et entretien (motivation, gestion du stress) — suggestion.",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "order": 5,
+     "kind": "MEDICAL",
+     "name_ar": "الفحص الطبي (الصنف 3)",
+     "name_fr": "Visite médicale (classe 3)",
+     "is_eliminatory": true,
+     "duration_minutes": null,
+     "description_ar": "فحص طبي حسب معايير الصنف 3 للمنظمة الدولية للطيران المدني — مقترح.",
+     "description_fr": "Examen médical selon les normes de classe 3 de l'OACI — suggestion.",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "order": 6,
+     "kind": "TRAINING",
+     "name_ar": "التكوين الأساسي في المراقبة الجوية",
+     "name_fr": "Formation initiale au contrôle aérien",
+     "is_eliminatory": true,
+     "duration_minutes": null,
+     "description_ar": "تكوين نظري وتطبيقي (محاكاة) قبل التأهيل بموقع عمل؛ مكان التكوين (مركز تابع للديوان أو مدرسة أجنبية) غير مؤكد — مقترح.",
+     "description_fr": "Formation théorique et pratique (simulateur) avant qualification sur un poste ; lieu (centre de l'Office ou école étrangère) non confirmé — suggestion.",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    }
+   ],
+   "subjects": [
+    {
+     "phase_order": 2,
+     "domain": "NUMERICAL",
+     "specialty_key": null,
+     "name_ar": "الرياضيات والاستدلال العددي",
+     "name_fr": "Mathématiques et raisonnement numérique",
+     "coefficient": null,
+     "duration_minutes": null,
+     "question_count": null,
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "phase_order": 2,
+     "domain": "ENGLISH",
+     "specialty_key": null,
+     "name_ar": "اللغة الإنجليزية",
+     "name_fr": "Anglais",
+     "coefficient": null,
+     "duration_minutes": null,
+     "question_count": null,
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "phase_order": 2,
+     "domain": "CULTURE_GENERALE",
+     "specialty_key": null,
+     "name_ar": "الثقافة العامة",
+     "name_fr": "Culture générale",
+     "coefficient": null,
+     "duration_minutes": null,
+     "question_count": null,
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "phase_order": 2,
+     "domain": "FRENCH",
+     "specialty_key": null,
+     "name_ar": "اللغة الفرنسية",
+     "name_fr": "Français",
+     "coefficient": null,
+     "duration_minutes": null,
+     "question_count": null,
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "phase_order": 2,
+     "domain": "SPECIALTY",
+     "specialty_key": "spec.transport-aerien.navigation",
+     "name_ar": "أساسيات الملاحة الجوية",
+     "name_fr": "Notions de navigation aérienne",
+     "coefficient": null,
+     "duration_minutes": null,
+     "question_count": null,
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "phase_order": 3,
+     "domain": "PSYCHOTECH",
+     "specialty_key": null,
+     "name_ar": "الاختبارات النفسية التقنية",
+     "name_fr": "Tests psychotechniques",
+     "coefficient": null,
+     "duration_minutes": null,
+     "question_count": null,
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "phase_order": 3,
+     "domain": "LOGIC",
+     "specialty_key": null,
+     "name_ar": "المنطق والإدراك المكاني",
+     "name_fr": "Logique et perception spatiale",
+     "coefficient": null,
+     "duration_minutes": null,
+     "question_count": null,
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "phase_order": 4,
+     "domain": "ENGLISH",
+     "specialty_key": null,
+     "name_ar": "الإنجليزية الشفاهية",
+     "name_fr": "Anglais oral",
+     "coefficient": null,
+     "duration_minutes": null,
+     "question_count": null,
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    }
+   ],
+   "physical_tests": [],
+   "required_documents": [
+    {
+     "text_ar": "مطلب ترشح أو استمارة التسجيل عن بعد مطبوعة وممضاة حسب ما يحدده البلاغ",
+     "text_fr": "Demande de candidature ou formulaire d'inscription en ligne imprimé et signé, selon l'avis",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "text_ar": "نسخة من بطاقة التعريف الوطنية",
+     "text_fr": "Copie de la carte d'identité nationale",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "text_ar": "نسخ من الشهادات العلمية أو المهنية وكشوف الأعداد (مطابقة للأصل عند الطلب)",
+     "text_fr": "Copies des diplômes scolaires ou professionnels et relevés de notes (certifiées conformes si demandé)",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "text_ar": "بطاقة عدد 3 (مضمون السوابق العدلية) حديثة",
+     "text_fr": "Bulletin n° 3 (extrait du casier judiciaire) récent",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "text_ar": "سيرة ذاتية وصور شمسية حديثة",
+     "text_fr": "Curriculum vitae et photos d'identité récentes",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "text_ar": "وثيقة تثبت الوضعية إزاء الخدمة الوطنية (للذكور)",
+     "text_fr": "Justificatif de la situation vis-à-vis du service national (candidats masculins)",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "text_ar": "شهادة في مستوى اللغة الإنجليزية إن وجدت",
+     "text_fr": "Attestation de niveau d'anglais, le cas échéant",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    }
+   ],
+   "blueprint": {
+    "total_minutes": 150,
+    "fidelity": "APPROXIMATED",
+    "sections": [
+     {
+      "domain": "ENGLISH",
+      "specialty_key": null,
+      "count": 20,
+      "minutes": 30
+     },
+     {
+      "domain": "NUMERICAL",
+      "specialty_key": null,
+      "count": 15,
+      "minutes": 25
+     },
+     {
+      "domain": "LOGIC",
+      "specialty_key": null,
+      "count": 12,
+      "minutes": 20
+     },
+     {
+      "domain": "PSYCHOTECH",
+      "specialty_key": null,
+      "count": 20,
+      "minutes": 25
+     },
+     {
+      "domain": "SPECIALTY",
+      "specialty_key": "spec.transport-aerien.navigation",
+      "count": 15,
+      "minutes": 25
+     },
+     {
+      "domain": "CULTURE_GENERALE",
+      "specialty_key": null,
+      "count": 10,
+      "minutes": 10
+     },
+     {
+      "domain": "FRENCH",
+      "specialty_key": null,
+      "count": 10,
+      "minutes": 15
+     }
+    ]
+   }
+  },
+  {
+   "slug": "technicien-maintenance-aeronautique",
+   "title_ar": "تقني سامٍ في صيانة الطائرات والتجهيزات المطارية (ميكانيك، كهرباء، إلكترونيك) – مجموعة الخطوط التونسية وديوان الطيران المدني والمطارات",
+   "title_fr": "Technicien supérieur en maintenance aéronautique et équipements aéroportuaires (mécanique, électricité, électronique) – groupe Tunisair, OACA",
+   "diploma_level": "BAC_PLUS_2",
+   "eligibility": {
+    "min_age": 18,
+    "max_age": null,
+    "genders": [
+     "M",
+     "F"
+    ],
+    "nationality": "TN",
+    "diplomas": [
+     "BAC_PLUS_2"
+    ],
+    "specialties": [],
+    "min_height_cm_male": null,
+    "min_height_cm_female": null,
+    "marital_status": null,
+    "other_ar": [
+     "مستوى مقترح: شهادة تقني سامٍ أو إجازة تطبيقية في صيانة الطائرات أو الميكانيك أو الكهرباء أو الإلكترونيك أو الإعلامية الصناعية — غير مؤكد",
+     "معرفة جيدة بالإنجليزية التقنية (وثائق الصيانة محررة بالإنجليزية) — مقترح",
+     "قد يُطلب لاحقا الحصول على إجازة صيانة الطائرات أثناء التكوين — مقترح",
+     "الجنسية التونسية والتمتع بالحقوق المدنية ونقاوة السوابق العدلية (بطاقة عدد 3) — شروط مقترحة بالقياس على انتدابات المنشآت العمومية، للتثبت",
+     "وضعية قانونية إزاء الخدمة الوطنية بالنسبة للمترشحين الذكور — مقترح، للتثبت",
+     "حد السن الأقصى غير منشور في المصادر المتاحة (كثيرا ما يتراوح بين 30 و40 سنة في مناظرات المنشآت العمومية) — للتثبت من البلاغ ومن تاريخ احتساب السن",
+     "القدرة البدنية والصحية على العمل يثبتها فحص طب الشغل للمنشأة — مقترح"
+    ],
+    "other_fr": [
+     "Niveau suggéré : BTS ou licence appliquée en maintenance aéronautique, mécanique, électricité, électronique ou informatique industrielle — non confirmé",
+     "Bonne maîtrise de l'anglais technique (documentation de maintenance en anglais) — suggestion",
+     "L'obtention ultérieure d'une licence de maintenance aéronautique au cours de la formation peut être exigée — suggestion",
+     "Nationalité tunisienne, jouissance des droits civiques et casier judiciaire vierge (bulletin n° 3) — conditions suggérées par analogie avec les recrutements des entreprises publiques, à vérifier",
+     "Situation régulière vis-à-vis du service national pour les candidats de sexe masculin — suggestion, à vérifier",
+     "Âge maximum non publié dans les sources disponibles (souvent entre 30 et 40 ans dans les concours des entreprises publiques) — à vérifier dans l'avis, ainsi que la date de référence pour le calcul de l'âge",
+     "Aptitude physique et médicale attestée par la médecine du travail de l'entreprise — suggestion"
+    ],
+    "source_key": null,
+    "confidence": "LOW",
+    "needs_verification": true,
+    "source_quote": null
+   },
+   "phases": [
+    {
+     "order": 1,
+     "kind": "FILE_REVIEW",
+     "name_ar": "الترشح والانتقاء الأولي بالملفات",
+     "name_fr": "Candidature et présélection sur dossier",
+     "is_eliminatory": true,
+     "duration_minutes": null,
+     "description_ar": "لم يتم العثور على بلاغ حديث خاص بتقنيي صيانة الطائرات؛ قد يُدرج هذا الصنف ضمن مناظرات فروع المجمع أو الديوان — مقترح.",
+     "description_fr": "Aucun avis récent spécifique aux techniciens de maintenance aéronautique n'a été trouvé ; ce profil peut figurer dans les concours des filiales du groupe ou de l'Office — suggestion.",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "order": 2,
+     "kind": "WRITTEN",
+     "name_ar": "الاختبار الكتابي في الاختصاص",
+     "name_fr": "Épreuve écrite de spécialité",
+     "is_eliminatory": true,
+     "duration_minutes": null,
+     "description_ar": "أسئلة في الاختصاص التقني (ميكانيك، كهرباء، إلكترونيك) والإنجليزية التقنية والرياضيات — مقترح.",
+     "description_fr": "Questions de spécialité (mécanique, électricité, électronique), anglais technique et mathématiques — suggestion.",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "order": 3,
+     "kind": "ORAL",
+     "name_ar": "اختبار تطبيقي ومقابلة تقنية",
+     "name_fr": "Épreuve pratique et entretien technique",
+     "is_eliminatory": true,
+     "duration_minutes": null,
+     "description_ar": "اختبار تطبيقي بالورشة (قراءة رسم، قياسات، تشخيص عطب) ومقابلة تقنية — مقترح.",
+     "description_fr": "Épreuve pratique en atelier (lecture de plan, mesures, diagnostic de panne) et entretien technique — suggestion.",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "order": 4,
+     "kind": "MEDICAL",
+     "name_ar": "الفحص الطبي",
+     "name_fr": "Visite médicale",
+     "is_eliminatory": true,
+     "duration_minutes": null,
+     "description_ar": "فحص طبي لدى طب الشغل للتثبت من القدرة على العمل — مقترح، غير مؤكد.",
+     "description_fr": "Visite de médecine du travail pour vérifier l'aptitude au poste — suggestion, non confirmée.",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "order": 5,
+     "kind": "TRAINING",
+     "name_ar": "تكوين تأهيلي",
+     "name_fr": "Formation de qualification",
+     "is_eliminatory": false,
+     "duration_minutes": null,
+     "description_ar": "تكوين على أنواع الطائرات أو التجهيزات وعلى العوامل البشرية والسلامة — مقترح.",
+     "description_fr": "Formation sur les types d'avions ou d'équipements, facteurs humains et sécurité — suggestion.",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    }
+   ],
+   "subjects": [
+    {
+     "phase_order": 2,
+     "domain": "SPECIALTY",
+     "specialty_key": "spec.transport-aerien.maintenance-aeronautique",
+     "name_ar": "أساسيات صيانة الطائرات",
+     "name_fr": "Bases de la maintenance aéronautique",
+     "coefficient": null,
+     "duration_minutes": null,
+     "question_count": null,
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "phase_order": 2,
+     "domain": "SPECIALTY",
+     "specialty_key": "spec.electricite",
+     "name_ar": "الكهرباء والكهروتقنية",
+     "name_fr": "Électricité et électrotechnique",
+     "coefficient": null,
+     "duration_minutes": null,
+     "question_count": null,
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "phase_order": 2,
+     "domain": "SPECIALTY",
+     "specialty_key": "spec.transport-aerien.mecanique",
+     "name_ar": "الميكانيك",
+     "name_fr": "Mécanique",
+     "coefficient": null,
+     "duration_minutes": null,
+     "question_count": null,
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "phase_order": 2,
+     "domain": "ENGLISH",
+     "specialty_key": null,
+     "name_ar": "الإنجليزية التقنية",
+     "name_fr": "Anglais technique",
+     "coefficient": null,
+     "duration_minutes": null,
+     "question_count": null,
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "phase_order": 2,
+     "domain": "NUMERICAL",
+     "specialty_key": null,
+     "name_ar": "الرياضيات",
+     "name_fr": "Mathématiques",
+     "coefficient": null,
+     "duration_minutes": null,
+     "question_count": null,
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "phase_order": 2,
+     "domain": "FRENCH",
+     "specialty_key": null,
+     "name_ar": "اللغة الفرنسية",
+     "name_fr": "Français",
+     "coefficient": null,
+     "duration_minutes": null,
+     "question_count": null,
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    }
+   ],
+   "physical_tests": [],
+   "required_documents": [
+    {
+     "text_ar": "مطلب ترشح أو استمارة التسجيل عن بعد مطبوعة وممضاة حسب ما يحدده البلاغ",
+     "text_fr": "Demande de candidature ou formulaire d'inscription en ligne imprimé et signé, selon l'avis",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "text_ar": "نسخة من بطاقة التعريف الوطنية",
+     "text_fr": "Copie de la carte d'identité nationale",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "text_ar": "نسخ من الشهادات العلمية أو المهنية وكشوف الأعداد (مطابقة للأصل عند الطلب)",
+     "text_fr": "Copies des diplômes scolaires ou professionnels et relevés de notes (certifiées conformes si demandé)",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "text_ar": "بطاقة عدد 3 (مضمون السوابق العدلية) حديثة",
+     "text_fr": "Bulletin n° 3 (extrait du casier judiciaire) récent",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "text_ar": "سيرة ذاتية وصور شمسية حديثة",
+     "text_fr": "Curriculum vitae et photos d'identité récentes",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "text_ar": "وثيقة تثبت الوضعية إزاء الخدمة الوطنية (للذكور)",
+     "text_fr": "Justificatif de la situation vis-à-vis du service national (candidats masculins)",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "text_ar": "شهادات التربص أو الخبرة المهنية إن وجدت",
+     "text_fr": "Attestations de stage ou d'expérience professionnelle, le cas échéant",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    }
+   ],
+   "blueprint": {
+    "total_minutes": 120,
+    "fidelity": "APPROXIMATED",
+    "sections": [
+     {
+      "domain": "SPECIALTY",
+      "specialty_key": "spec.transport-aerien.maintenance-aeronautique",
+      "count": 15,
+      "minutes": 25
+     },
+     {
+      "domain": "SPECIALTY",
+      "specialty_key": "spec.electricite",
+      "count": 12,
+      "minutes": 20
+     },
+     {
+      "domain": "SPECIALTY",
+      "specialty_key": "spec.transport-aerien.mecanique",
+      "count": 10,
+      "minutes": 18
+     },
+     {
+      "domain": "ENGLISH",
+      "specialty_key": null,
+      "count": 12,
+      "minutes": 17
+     },
+     {
+      "domain": "NUMERICAL",
+      "specialty_key": null,
+      "count": 10,
+      "minutes": 15
+     },
+     {
+      "domain": "LOGIC",
+      "specialty_key": null,
+      "count": 8,
+      "minutes": 10
+     },
+     {
+      "domain": "FRENCH",
+      "specialty_key": null,
+      "count": 8,
+      "minutes": 15
+     }
+    ]
+   }
+  },
+  {
+   "slug": "agent-surete-aeroportuaire",
+   "title_ar": "عون أمن الطيران المدني بالمطارات (تفتيش المسافرين والأمتعة ومراقبة النفاذ) – ديوان الطيران المدني والمطارات",
+   "title_fr": "Agent de sûreté aéroportuaire (inspection-filtrage des passagers et bagages, contrôle d'accès) – OACA",
+   "diploma_level": "BAC",
+   "eligibility": {
+    "min_age": 18,
+    "max_age": null,
+    "genders": [
+     "M",
+     "F"
+    ],
+    "nationality": "TN",
+    "diplomas": [
+     "BAC"
+    ],
+    "specialties": [],
+    "min_height_cm_male": null,
+    "min_height_cm_female": null,
+    "marital_status": null,
+    "other_ar": [
+     "مستوى مقترح: الباكالوريا — غير مؤكد",
+     "بحث إداري وأمني مسبق قبل منح شارة الدخول إلى المناطق المحظورة بالمطار — مقترح",
+     "حدة بصر وتمييز جيد للألوان (قراءة صور أجهزة الأشعة) — مقترح",
+     "معرفة بالفرنسية والإنجليزية للتواصل مع المسافرين — مقترح",
+     "الجنسية التونسية والتمتع بالحقوق المدنية ونقاوة السوابق العدلية (بطاقة عدد 3) — شروط مقترحة بالقياس على انتدابات المنشآت العمومية، للتثبت",
+     "وضعية قانونية إزاء الخدمة الوطنية بالنسبة للمترشحين الذكور — مقترح، للتثبت",
+     "حد السن الأقصى غير منشور في المصادر المتاحة (كثيرا ما يتراوح بين 30 و40 سنة في مناظرات المنشآت العمومية) — للتثبت من البلاغ ومن تاريخ احتساب السن",
+     "القدرة البدنية والصحية على العمل يثبتها فحص طب الشغل للمنشأة — مقترح"
+    ],
+    "other_fr": [
+     "Niveau suggéré : baccalauréat — non confirmé",
+     "Enquête administrative préalable à la délivrance du badge d'accès aux zones réservées — suggestion",
+     "Bonne acuité visuelle et perception des couleurs (lecture des images radioscopiques) — suggestion",
+     "Notions de français et d'anglais pour communiquer avec les passagers — suggestion",
+     "Nationalité tunisienne, jouissance des droits civiques et casier judiciaire vierge (bulletin n° 3) — conditions suggérées par analogie avec les recrutements des entreprises publiques, à vérifier",
+     "Situation régulière vis-à-vis du service national pour les candidats de sexe masculin — suggestion, à vérifier",
+     "Âge maximum non publié dans les sources disponibles (souvent entre 30 et 40 ans dans les concours des entreprises publiques) — à vérifier dans l'avis, ainsi que la date de référence pour le calcul de l'âge",
+     "Aptitude physique et médicale attestée par la médecine du travail de l'entreprise — suggestion"
+    ],
+    "source_key": null,
+    "confidence": "LOW",
+    "needs_verification": true,
+    "source_quote": null
+   },
+   "phases": [
+    {
+     "order": 1,
+     "kind": "FILE_REVIEW",
+     "name_ar": "الترشح والانتقاء الأولي بالملفات",
+     "name_fr": "Candidature et présélection sur dossier",
+     "is_eliminatory": true,
+     "duration_minutes": null,
+     "description_ar": "لم يتم العثور على بلاغ حديث لهذه الرتبة؛ توزيع مهام التفتيش بين الديوان والأجهزة الأمنية والديوانة يحتاج إلى تثبت — مقترح.",
+     "description_fr": "Aucun avis récent pour ce grade n'a été trouvé ; la répartition des missions d'inspection-filtrage entre l'Office, les forces de sécurité et la douane est à vérifier — suggestion.",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "order": 2,
+     "kind": "WRITTEN",
+     "name_ar": "الاختبار الكتابي",
+     "name_fr": "Épreuve écrite",
+     "is_eliminatory": true,
+     "duration_minutes": null,
+     "description_ar": "أسئلة متعددة الاختيارات في الثقافة العامة واللغات والمنطق وأساسيات أمن الطيران — مقترح.",
+     "description_fr": "QCM de culture générale, langues, logique et notions de sûreté de l'aviation — suggestion.",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "order": 3,
+     "kind": "PSYCHOTECH",
+     "name_ar": "اختبارات الانتباه والإدراك البصري",
+     "name_fr": "Tests d'attention et de perception visuelle",
+     "is_eliminatory": true,
+     "duration_minutes": null,
+     "description_ar": "اختبارات يقظة وإدراك بصري (التعرف على أشياء ممنوعة في صور) — مقترح.",
+     "description_fr": "Tests de vigilance et de perception visuelle (repérage d'objets prohibés sur images) — suggestion.",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "order": 4,
+     "kind": "INTERVIEW",
+     "name_ar": "مقابلة",
+     "name_fr": "Entretien",
+     "is_eliminatory": true,
+     "duration_minutes": null,
+     "description_ar": "مقابلة أمام لجنة (السلوك، التحكم في النفس، احترام حقوق المسافرين) — مقترح.",
+     "description_fr": "Entretien devant un jury (comportement, maîtrise de soi, respect des droits des passagers) — suggestion.",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "order": 5,
+     "kind": "MEDICAL",
+     "name_ar": "الفحص الطبي",
+     "name_fr": "Visite médicale",
+     "is_eliminatory": true,
+     "duration_minutes": null,
+     "description_ar": "فحص طبي لدى طب الشغل للتثبت من القدرة على العمل (البصر وتمييز الألوان) — مقترح، غير مؤكد.",
+     "description_fr": "Visite de médecine du travail pour vérifier l'aptitude au poste (vue et perception des couleurs) — suggestion, non confirmée.",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "order": 6,
+     "kind": "TRAINING",
+     "name_ar": "تكوين في أمن الطيران المدني",
+     "name_fr": "Formation à la sûreté de l'aviation civile",
+     "is_eliminatory": false,
+     "duration_minutes": null,
+     "description_ar": "تكوين أساسي حسب معايير الملحق 17 للمنظمة الدولية للطيران المدني ثم تأهيل على أجهزة التفتيش — مقترح.",
+     "description_fr": "Formation de base conforme à l'Annexe 17 de l'OACI puis certification sur les équipements d'inspection — suggestion.",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    }
+   ],
+   "subjects": [
+    {
+     "phase_order": 2,
+     "domain": "CULTURE_GENERALE",
+     "specialty_key": null,
+     "name_ar": "الثقافة العامة",
+     "name_fr": "Culture générale",
+     "coefficient": null,
+     "duration_minutes": null,
+     "question_count": null,
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "phase_order": 2,
+     "domain": "ARABIC",
+     "specialty_key": null,
+     "name_ar": "اللغة العربية",
+     "name_fr": "Arabe",
+     "coefficient": null,
+     "duration_minutes": null,
+     "question_count": null,
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "phase_order": 2,
+     "domain": "FRENCH",
+     "specialty_key": null,
+     "name_ar": "اللغة الفرنسية",
+     "name_fr": "Français",
+     "coefficient": null,
+     "duration_minutes": null,
+     "question_count": null,
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "phase_order": 2,
+     "domain": "ENGLISH",
+     "specialty_key": null,
+     "name_ar": "اللغة الإنجليزية",
+     "name_fr": "Anglais",
+     "coefficient": null,
+     "duration_minutes": null,
+     "question_count": null,
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "phase_order": 2,
+     "domain": "LOGIC",
+     "specialty_key": null,
+     "name_ar": "المنطق",
+     "name_fr": "Logique",
+     "coefficient": null,
+     "duration_minutes": null,
+     "question_count": null,
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "phase_order": 2,
+     "domain": "SPECIALTY",
+     "specialty_key": "spec.transport-aerien.surete",
+     "name_ar": "أمن الطيران المدني",
+     "name_fr": "Sûreté de l'aviation civile",
+     "coefficient": null,
+     "duration_minutes": null,
+     "question_count": null,
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "phase_order": 2,
+     "domain": "SPECIALTY",
+     "specialty_key": "spec.securite-droits",
+     "name_ar": "حقوق الإنسان وأخلاقيات العمل الأمني",
+     "name_fr": "Droits de l'homme et déontologie",
+     "coefficient": null,
+     "duration_minutes": null,
+     "question_count": null,
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "phase_order": 3,
+     "domain": "PSYCHOTECH",
+     "specialty_key": null,
+     "name_ar": "الاختبارات النفسية التقنية",
+     "name_fr": "Tests psychotechniques",
+     "coefficient": null,
+     "duration_minutes": null,
+     "question_count": null,
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    }
+   ],
+   "physical_tests": [],
+   "required_documents": [
+    {
+     "text_ar": "مطلب ترشح أو استمارة التسجيل عن بعد مطبوعة وممضاة حسب ما يحدده البلاغ",
+     "text_fr": "Demande de candidature ou formulaire d'inscription en ligne imprimé et signé, selon l'avis",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "text_ar": "نسخة من بطاقة التعريف الوطنية",
+     "text_fr": "Copie de la carte d'identité nationale",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "text_ar": "نسخ من الشهادات العلمية أو المهنية وكشوف الأعداد (مطابقة للأصل عند الطلب)",
+     "text_fr": "Copies des diplômes scolaires ou professionnels et relevés de notes (certifiées conformes si demandé)",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "text_ar": "بطاقة عدد 3 (مضمون السوابق العدلية) حديثة",
+     "text_fr": "Bulletin n° 3 (extrait du casier judiciaire) récent",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "text_ar": "سيرة ذاتية وصور شمسية حديثة",
+     "text_fr": "Curriculum vitae et photos d'identité récentes",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "text_ar": "وثيقة تثبت الوضعية إزاء الخدمة الوطنية (للذكور)",
+     "text_fr": "Justificatif de la situation vis-à-vis du service national (candidats masculins)",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    }
+   ],
+   "blueprint": {
+    "total_minutes": 90,
+    "fidelity": "APPROXIMATED",
+    "sections": [
+     {
+      "domain": "CULTURE_GENERALE",
+      "specialty_key": null,
+      "count": 10,
+      "minutes": 10
+     },
+     {
+      "domain": "ARABIC",
+      "specialty_key": null,
+      "count": 8,
+      "minutes": 8
+     },
+     {
+      "domain": "FRENCH",
+      "specialty_key": null,
+      "count": 10,
+      "minutes": 10
+     },
+     {
+      "domain": "ENGLISH",
+      "specialty_key": null,
+      "count": 10,
+      "minutes": 12
+     },
+     {
+      "domain": "LOGIC",
+      "specialty_key": null,
+      "count": 10,
+      "minutes": 12
+     },
+     {
+      "domain": "PSYCHOTECH",
+      "specialty_key": null,
+      "count": 15,
+      "minutes": 15
+     },
+     {
+      "domain": "SPECIALTY",
+      "specialty_key": "spec.transport-aerien.surete",
+      "count": 12,
+      "minutes": 15
+     },
+     {
+      "domain": "SPECIALTY",
+      "specialty_key": "spec.securite-droits",
+      "count": 6,
+      "minutes": 8
+     }
+    ]
+   }
+  },
+  {
+   "slug": "agent-sslia",
+   "title_ar": "عون إنقاذ ومكافحة حرائق الطائرات بالمطارات – ديوان الطيران المدني والمطارات",
+   "title_fr": "Agent SSLIA (sauvetage et lutte contre l'incendie des aéronefs) / pompier d'aérodrome – OACA",
+   "diploma_level": "SECONDARY",
+   "eligibility": {
+    "min_age": 18,
+    "max_age": null,
+    "genders": [
+     "M",
+     "F"
+    ],
+    "nationality": "TN",
+    "diplomas": [
+     "SECONDARY"
+    ],
+    "specialties": [],
+    "min_height_cm_male": null,
+    "min_height_cm_female": null,
+    "marital_status": null,
+    "other_ar": [
+     "مستوى مقترح: مستوى التعليم الثانوي أو الباكالوريا — غير مؤكد",
+     "قد يُشترط طول أدنى (في حدود 1.70 م للذكور) وحدة بصر جيدة — غير مؤكد",
+     "لياقة بدنية عالية (جري، قوة، سباحة) — مقترح",
+     "رخصة سياقة صنف «ج» ميزة لسياقة شاحنات الإطفاء — مقترح",
+     "الجنسية التونسية والتمتع بالحقوق المدنية ونقاوة السوابق العدلية (بطاقة عدد 3) — شروط مقترحة بالقياس على انتدابات المنشآت العمومية، للتثبت",
+     "وضعية قانونية إزاء الخدمة الوطنية بالنسبة للمترشحين الذكور — مقترح، للتثبت",
+     "حد السن الأقصى غير منشور في المصادر المتاحة (كثيرا ما يتراوح بين 30 و40 سنة في مناظرات المنشآت العمومية) — للتثبت من البلاغ ومن تاريخ احتساب السن",
+     "القدرة البدنية والصحية على العمل يثبتها فحص طب الشغل للمنشأة — مقترح"
+    ],
+    "other_fr": [
+     "Niveau suggéré : niveau secondaire ou baccalauréat — non confirmé",
+     "Une taille minimale (de l'ordre de 1,70 m pour les hommes) et une bonne acuité visuelle peuvent être exigées — non confirmé",
+     "Très bonne condition physique (course, force, natation) — suggestion",
+     "Permis C apprécié pour la conduite des véhicules d'incendie — suggestion",
+     "Nationalité tunisienne, jouissance des droits civiques et casier judiciaire vierge (bulletin n° 3) — conditions suggérées par analogie avec les recrutements des entreprises publiques, à vérifier",
+     "Situation régulière vis-à-vis du service national pour les candidats de sexe masculin — suggestion, à vérifier",
+     "Âge maximum non publié dans les sources disponibles (souvent entre 30 et 40 ans dans les concours des entreprises publiques) — à vérifier dans l'avis, ainsi que la date de référence pour le calcul de l'âge",
+     "Aptitude physique et médicale attestée par la médecine du travail de l'entreprise — suggestion"
+    ],
+    "source_key": null,
+    "confidence": "LOW",
+    "needs_verification": true,
+    "source_quote": null
+   },
+   "phases": [
+    {
+     "order": 1,
+     "kind": "FILE_REVIEW",
+     "name_ar": "الترشح والانتقاء الأولي بالملفات",
+     "name_fr": "Candidature et présélection sur dossier",
+     "is_eliminatory": true,
+     "duration_minutes": null,
+     "description_ar": "لم يتم العثور على بلاغ حديث لهذه الرتبة لدى الديوان — مقترح.",
+     "description_fr": "Aucun avis récent pour ce grade à l'OACA n'a été trouvé — suggestion.",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "order": 2,
+     "kind": "PHYSICAL",
+     "name_ar": "الاختبارات البدنية",
+     "name_fr": "Épreuves physiques",
+     "is_eliminatory": true,
+     "duration_minutes": null,
+     "description_ar": "اختبارات بدنية إقصائية على غرار مناظرات الحماية المدنية — مقترح، لا يوجد سلم منشور.",
+     "description_fr": "Épreuves physiques éliminatoires inspirées des concours de la protection civile — suggestion, aucun barème publié.",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "order": 3,
+     "kind": "WRITTEN",
+     "name_ar": "الاختبار الكتابي",
+     "name_fr": "Épreuve écrite",
+     "is_eliminatory": true,
+     "duration_minutes": null,
+     "description_ar": "أسئلة في الإسعافات الأولية والوقاية من الحرائق والثقافة العامة واللغات — مقترح.",
+     "description_fr": "Questions de secourisme, prévention incendie, culture générale et langues — suggestion.",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "order": 4,
+     "kind": "INTERVIEW",
+     "name_ar": "مقابلة",
+     "name_fr": "Entretien",
+     "is_eliminatory": true,
+     "duration_minutes": null,
+     "description_ar": "مقابلة أمام لجنة — مقترح.",
+     "description_fr": "Entretien devant un jury — suggestion.",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "order": 5,
+     "kind": "MEDICAL",
+     "name_ar": "الفحص الطبي",
+     "name_fr": "Visite médicale",
+     "is_eliminatory": true,
+     "duration_minutes": null,
+     "description_ar": "فحص طبي لدى طب الشغل للتثبت من القدرة على العمل (القلب، التنفس، البصر) — مقترح، غير مؤكد.",
+     "description_fr": "Visite de médecine du travail pour vérifier l'aptitude au poste (cœur, respiration, vue) — suggestion, non confirmée.",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "order": 6,
+     "kind": "TRAINING",
+     "name_ar": "تكوين في إنقاذ ومكافحة حرائق الطائرات",
+     "name_fr": "Formation SSLIA",
+     "is_eliminatory": false,
+     "duration_minutes": null,
+     "description_ar": "تكوين أساسي في مكافحة حرائق الطائرات والإنقاذ قبل المباشرة — مقترح.",
+     "description_fr": "Formation de base à la lutte contre l'incendie des aéronefs et au sauvetage avant la prise de poste — suggestion.",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    }
+   ],
+   "subjects": [
+    {
+     "phase_order": 3,
+     "domain": "SPECIALTY",
+     "specialty_key": "spec.secourisme",
+     "name_ar": "الإسعافات الأولية والوقاية من الحرائق",
+     "name_fr": "Secourisme et prévention incendie",
+     "coefficient": null,
+     "duration_minutes": null,
+     "question_count": null,
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "phase_order": 3,
+     "domain": "SPECIALTY",
+     "specialty_key": "spec.transport-aerien.sslia",
+     "name_ar": "إنقاذ ومكافحة حرائق الطائرات",
+     "name_fr": "Sauvetage et lutte contre l'incendie des aéronefs",
+     "coefficient": null,
+     "duration_minutes": null,
+     "question_count": null,
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "phase_order": 3,
+     "domain": "CULTURE_GENERALE",
+     "specialty_key": null,
+     "name_ar": "الثقافة العامة",
+     "name_fr": "Culture générale",
+     "coefficient": null,
+     "duration_minutes": null,
+     "question_count": null,
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "phase_order": 3,
+     "domain": "ARABIC",
+     "specialty_key": null,
+     "name_ar": "اللغة العربية",
+     "name_fr": "Arabe",
+     "coefficient": null,
+     "duration_minutes": null,
+     "question_count": null,
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "phase_order": 3,
+     "domain": "FRENCH",
+     "specialty_key": null,
+     "name_ar": "اللغة الفرنسية",
+     "name_fr": "Français",
+     "coefficient": null,
+     "duration_minutes": null,
+     "question_count": null,
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    }
+   ],
+   "physical_tests": [
+    {
+     "name_ar": "قيس الطول وحدة البصر",
+     "name_fr": "Mesure de la taille et de l'acuité visuelle",
+     "details_ar": "[مقترح] شرط إقصائي محتمل بالقياس على مناظرات الحماية المدنية (مثلا 1.70 م للذكور). غير مؤكد لدى الديوان.",
+     "details_fr": "[Suggestion] Condition éliminatoire possible par analogie avec la protection civile (par exemple 1,70 m pour les hommes). Non confirmé à l'OACA.",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "name_ar": "جري السرعة",
+     "name_fr": "Course de vitesse",
+     "details_ar": "[مقترح] 80 م أو 100 م. لا يوجد سلم تنقيط منشور.",
+     "details_fr": "[Suggestion] 80 m ou 100 m. Aucun barème publié.",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "name_ar": "جري التحمل",
+     "name_fr": "Course d'endurance",
+     "details_ar": "[مقترح] نحو 1000 م أو 1500 م. لا يوجد سلم تنقيط منشور.",
+     "details_fr": "[Suggestion] Environ 1 000 m ou 1 500 m. Aucun barème publié.",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "name_ar": "تمارين القوة",
+     "name_fr": "Épreuve de force",
+     "details_ar": "[مقترح] العقلة أو تمارين الضغط، وأحيانا حمل ثقل أو جرّ خرطوم.",
+     "details_fr": "[Suggestion] Tractions ou pompes, parfois port de charge ou traction d'un tuyau.",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "name_ar": "السباحة",
+     "name_fr": "Natation",
+     "details_ar": "[مقترح] اختبار سباحة شائع في مهن الإنقاذ (مطارات ساحلية مثل جربة والمنستير). غير مؤكد.",
+     "details_fr": "[Suggestion] Test de natation courant dans les métiers du sauvetage (aéroports côtiers comme Djerba et Monastir). Non confirmé.",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    }
+   ],
+   "required_documents": [
+    {
+     "text_ar": "مطلب ترشح أو استمارة التسجيل عن بعد مطبوعة وممضاة حسب ما يحدده البلاغ",
+     "text_fr": "Demande de candidature ou formulaire d'inscription en ligne imprimé et signé, selon l'avis",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "text_ar": "نسخة من بطاقة التعريف الوطنية",
+     "text_fr": "Copie de la carte d'identité nationale",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "text_ar": "نسخ من الشهادات العلمية أو المهنية وكشوف الأعداد (مطابقة للأصل عند الطلب)",
+     "text_fr": "Copies des diplômes scolaires ou professionnels et relevés de notes (certifiées conformes si demandé)",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "text_ar": "بطاقة عدد 3 (مضمون السوابق العدلية) حديثة",
+     "text_fr": "Bulletin n° 3 (extrait du casier judiciaire) récent",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "text_ar": "سيرة ذاتية وصور شمسية حديثة",
+     "text_fr": "Curriculum vitae et photos d'identité récentes",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "text_ar": "وثيقة تثبت الوضعية إزاء الخدمة الوطنية (للذكور)",
+     "text_fr": "Justificatif de la situation vis-à-vis du service national (candidats masculins)",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "text_ar": "شهادة طبية في القدرة على ممارسة الرياضة لإجراء الاختبارات البدنية",
+     "text_fr": "Certificat médical d'aptitude à la pratique sportive pour passer les épreuves physiques",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    }
+   ],
+   "blueprint": {
+    "total_minutes": 75,
+    "fidelity": "APPROXIMATED",
+    "sections": [
+     {
+      "domain": "SPECIALTY",
+      "specialty_key": "spec.secourisme",
+      "count": 15,
+      "minutes": 20
+     },
+     {
+      "domain": "SPECIALTY",
+      "specialty_key": "spec.transport-aerien.sslia",
+      "count": 12,
+      "minutes": 15
+     },
+     {
+      "domain": "CULTURE_GENERALE",
+      "specialty_key": null,
+      "count": 8,
+      "minutes": 8
+     },
+     {
+      "domain": "ARABIC",
+      "specialty_key": null,
+      "count": 8,
+      "minutes": 8
+     },
+     {
+      "domain": "FRENCH",
+      "specialty_key": null,
+      "count": 8,
+      "minutes": 8
+     },
+     {
+      "domain": "LOGIC",
+      "specialty_key": null,
+      "count": 8,
+      "minutes": 8
+     },
+     {
+      "domain": "NUMERICAL",
+      "specialty_key": null,
+      "count": 6,
+      "minutes": 8
+     }
+    ]
+   }
+  },
+  {
+   "slug": "chauffeur-receveur",
+   "title_ar": "سائق قابض / سائق حافلة – شركة نقل تونس، الشركة الوطنية للنقل بين المدن والشركات الجهوية للنقل",
+   "title_fr": "Chauffeur-receveur / chauffeur de bus – Transtu, SNTRI et sociétés régionales de transport",
+   "diploma_level": "NINTH",
+   "eligibility": {
+    "min_age": 18,
+    "max_age": null,
+    "genders": [
+     "M",
+     "F"
+    ],
+    "nationality": "TN",
+    "diplomas": [
+     "NINTH"
+    ],
+    "specialties": [],
+    "min_height_cm_male": null,
+    "min_height_cm_female": null,
+    "marital_status": null,
+    "other_ar": [
+     "رخصة سياقة من صنف «د» (نقل الأشخاص) سارية المفعول: شرط أساسي متوقع — مقترح، للتثبت",
+     "أقدمية دنيا في السياقة (مثلا سنتان) وسجل خالٍ من المخالفات الخطيرة — مقترح",
+     "مستوى مقترح: السنة التاسعة أساسي على الأقل — غير مؤكد",
+     "حسن التعامل مع الحرفاء والقدرة على تحصيل معاليم التذاكر (بالنسبة للسائق القابض) — مقترح",
+     "الجنسية التونسية والتمتع بالحقوق المدنية ونقاوة السوابق العدلية (بطاقة عدد 3) — شروط مقترحة بالقياس على انتدابات المنشآت العمومية، للتثبت",
+     "وضعية قانونية إزاء الخدمة الوطنية بالنسبة للمترشحين الذكور — مقترح، للتثبت",
+     "حد السن الأقصى غير منشور في المصادر المتاحة (كثيرا ما يتراوح بين 30 و40 سنة في مناظرات المنشآت العمومية) — للتثبت من البلاغ ومن تاريخ احتساب السن",
+     "القدرة البدنية والصحية على العمل يثبتها فحص طب الشغل للمنشأة — مقترح"
+    ],
+    "other_fr": [
+     "Permis de conduire de catégorie D (transport de personnes) en cours de validité : condition principale attendue — suggestion, à vérifier",
+     "Ancienneté minimale de permis (par exemple 2 ans) et absence d'infractions graves — suggestion",
+     "Niveau suggéré : au moins la 9e année de base — non confirmé",
+     "Sens du contact avec la clientèle et aptitude à encaisser les titres de transport (chauffeur-receveur) — suggestion",
+     "Nationalité tunisienne, jouissance des droits civiques et casier judiciaire vierge (bulletin n° 3) — conditions suggérées par analogie avec les recrutements des entreprises publiques, à vérifier",
+     "Situation régulière vis-à-vis du service national pour les candidats de sexe masculin — suggestion, à vérifier",
+     "Âge maximum non publié dans les sources disponibles (souvent entre 30 et 40 ans dans les concours des entreprises publiques) — à vérifier dans l'avis, ainsi que la date de référence pour le calcul de l'âge",
+     "Aptitude physique et médicale attestée par la médecine du travail de l'entreprise — suggestion"
+    ],
+    "source_key": "s4",
+    "confidence": "LOW",
+    "needs_verification": true,
+    "source_quote": null
+   },
+   "phases": [
+    {
+     "order": 1,
+     "kind": "FILE_REVIEW",
+     "name_ar": "الترشح والانتقاء الأولي بالملفات",
+     "name_fr": "Candidature et présélection sur dossier",
+     "is_eliminatory": true,
+     "duration_minutes": null,
+     "description_ar": "حسب ما نقلته الصحافة (s4) شملت مناظرة شركة نقل تونس لسنة 2026 (580 عونا، آخر أجل 8 سبتمبر 2026) رتبة السائقين القابضين، وشملت مناظرة الشركة الوطنية للنقل بين المدن (s5) 40 سائق حافلة (آخر أجل 30 سبتمبر 2026)، وأعلنت الشركة الجهوية للنقل بسليانة (s6) عن انتداب سائقين. طريقة التسجيل ومقاييس الانتقاء غير مؤكدة.",
+     "description_fr": "Selon la presse (s4), le concours Transtu 2026 (580 agents, date limite 8 septembre 2026) comprenait des chauffeurs-receveurs ; celui de la SNTRI (s5) 40 chauffeurs de bus (date limite 30 septembre 2026) ; la Société régionale du transport de Siliana (s6) recrutait aussi des chauffeurs. Mode d'inscription et critères de présélection non confirmés.",
+     "source_key": "s4",
+     "confidence": "MEDIUM",
+     "needs_verification": true
+    },
+    {
+     "order": 2,
+     "kind": "WRITTEN",
+     "name_ar": "اختبار كتابي مبسط",
+     "name_fr": "Épreuve écrite simplifiée",
+     "is_eliminatory": true,
+     "duration_minutes": null,
+     "description_ar": "أسئلة في قانون الطرقات والحساب البسيط والعربية — مقترح.",
+     "description_fr": "Questions de code de la route, calcul simple et arabe — suggestion.",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "order": 3,
+     "kind": "ORAL",
+     "name_ar": "اختبار تطبيقي في السياقة",
+     "name_fr": "Épreuve pratique de conduite",
+     "is_eliminatory": true,
+     "duration_minutes": null,
+     "description_ar": "سياقة حافلة على مسار محدد أمام لجنة (التحكم في العربة، احترام قانون الطرقات، راحة المسافرين) — مقترح.",
+     "description_fr": "Conduite d'un autobus sur un parcours devant un jury (maîtrise du véhicule, respect du code, confort des voyageurs) — suggestion.",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "order": 4,
+     "kind": "PSYCHOTECH",
+     "name_ar": "اختبارات نفسية تقنية",
+     "name_fr": "Tests psychotechniques",
+     "is_eliminatory": true,
+     "duration_minutes": null,
+     "description_ar": "اختبارات ردّ الفعل والانتباه والتقدير البصري للمسافات — مقترح.",
+     "description_fr": "Tests de réflexes, d'attention et d'appréciation des distances — suggestion.",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "order": 5,
+     "kind": "MEDICAL",
+     "name_ar": "الفحص الطبي",
+     "name_fr": "Visite médicale",
+     "is_eliminatory": true,
+     "duration_minutes": null,
+     "description_ar": "فحص طبي لدى طب الشغل للتثبت من القدرة على العمل (البصر، السمع، ضغط الدم، الكشف عن المخدرات أحيانا) — مقترح، غير مؤكد.",
+     "description_fr": "Visite de médecine du travail pour vérifier l'aptitude au poste (vue, audition, tension, parfois dépistage de stupéfiants) — suggestion, non confirmée.",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "order": 6,
+     "kind": "TRAINING",
+     "name_ar": "تكوين أولي",
+     "name_fr": "Formation initiale",
+     "is_eliminatory": false,
+     "duration_minutes": null,
+     "description_ar": "تكوين على الخطوط والتذاكر وقواعد الاستغلال والسلامة — مقترح.",
+     "description_fr": "Formation sur les lignes, la billettique, les règles d'exploitation et la sécurité — suggestion.",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    }
+   ],
+   "subjects": [
+    {
+     "phase_order": 2,
+     "domain": "SPECIALTY",
+     "specialty_key": "spec.transport-aerien.transport-routier",
+     "name_ar": "قانون الطرقات واستغلال النقل الجماعي",
+     "name_fr": "Code de la route et exploitation du transport collectif",
+     "coefficient": null,
+     "duration_minutes": null,
+     "question_count": null,
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "phase_order": 2,
+     "domain": "NUMERICAL",
+     "specialty_key": null,
+     "name_ar": "الحساب",
+     "name_fr": "Calcul",
+     "coefficient": null,
+     "duration_minutes": null,
+     "question_count": null,
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "phase_order": 2,
+     "domain": "ARABIC",
+     "specialty_key": null,
+     "name_ar": "اللغة العربية",
+     "name_fr": "Arabe",
+     "coefficient": null,
+     "duration_minutes": null,
+     "question_count": null,
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "phase_order": 2,
+     "domain": "FRENCH",
+     "specialty_key": null,
+     "name_ar": "اللغة الفرنسية",
+     "name_fr": "Français",
+     "coefficient": null,
+     "duration_minutes": null,
+     "question_count": null,
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "phase_order": 2,
+     "domain": "SPECIALTY",
+     "specialty_key": "spec.secourisme",
+     "name_ar": "الإسعافات الأولية",
+     "name_fr": "Secourisme",
+     "coefficient": null,
+     "duration_minutes": null,
+     "question_count": null,
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "phase_order": 4,
+     "domain": "PSYCHOTECH",
+     "specialty_key": null,
+     "name_ar": "الاختبارات النفسية التقنية",
+     "name_fr": "Tests psychotechniques",
+     "coefficient": null,
+     "duration_minutes": null,
+     "question_count": null,
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    }
+   ],
+   "physical_tests": [],
+   "required_documents": [
+    {
+     "text_ar": "مطلب ترشح أو استمارة التسجيل عن بعد مطبوعة وممضاة حسب ما يحدده البلاغ",
+     "text_fr": "Demande de candidature ou formulaire d'inscription en ligne imprimé et signé, selon l'avis",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "text_ar": "نسخة من بطاقة التعريف الوطنية",
+     "text_fr": "Copie de la carte d'identité nationale",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "text_ar": "نسخ من الشهادات العلمية أو المهنية وكشوف الأعداد (مطابقة للأصل عند الطلب)",
+     "text_fr": "Copies des diplômes scolaires ou professionnels et relevés de notes (certifiées conformes si demandé)",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "text_ar": "بطاقة عدد 3 (مضمون السوابق العدلية) حديثة",
+     "text_fr": "Bulletin n° 3 (extrait du casier judiciaire) récent",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "text_ar": "سيرة ذاتية وصور شمسية حديثة",
+     "text_fr": "Curriculum vitae et photos d'identité récentes",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "text_ar": "وثيقة تثبت الوضعية إزاء الخدمة الوطنية (للذكور)",
+     "text_fr": "Justificatif de la situation vis-à-vis du service national (candidats masculins)",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "text_ar": "نسخة من رخصة السياقة صنف «د»",
+     "text_fr": "Copie du permis de conduire catégorie D",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "text_ar": "شهادة في الخبرة في السياقة إن وجدت",
+     "text_fr": "Attestation d'expérience de conduite, le cas échéant",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    }
+   ],
+   "blueprint": {
+    "total_minutes": 60,
+    "fidelity": "APPROXIMATED",
+    "sections": [
+     {
+      "domain": "SPECIALTY",
+      "specialty_key": "spec.transport-aerien.transport-routier",
+      "count": 15,
+      "minutes": 18
+     },
+     {
+      "domain": "NUMERICAL",
+      "specialty_key": null,
+      "count": 10,
+      "minutes": 12
+     },
+     {
+      "domain": "ARABIC",
+      "specialty_key": null,
+      "count": 8,
+      "minutes": 8
+     },
+     {
+      "domain": "PSYCHOTECH",
+      "specialty_key": null,
+      "count": 10,
+      "minutes": 10
+     },
+     {
+      "domain": "FRENCH",
+      "specialty_key": null,
+      "count": 6,
+      "minutes": 6
+     },
+     {
+      "domain": "SPECIALTY",
+      "specialty_key": "spec.secourisme",
+      "count": 6,
+      "minutes": 6
+     }
+    ]
+   }
+  },
+  {
+   "slug": "technicien-maintenance-transport",
+   "title_ar": "عون مؤهل / تقني صيانة (حافلات ومترو: ميكانيك، كهرباء، تبريد) – شركة نقل تونس والشركات العمومية للنقل البري",
+   "title_fr": "Agent qualifié / technicien de maintenance (autobus, métro léger : mécanique, électricité, climatisation) – Transtu, SNTRI, sociétés régionales",
+   "diploma_level": "NINTH",
+   "eligibility": {
+    "min_age": 18,
+    "max_age": null,
+    "genders": [
+     "M",
+     "F"
+    ],
+    "nationality": "TN",
+    "diplomas": [
+     "NINTH"
+    ],
+    "specialties": [],
+    "min_height_cm_male": null,
+    "min_height_cm_female": null,
+    "marital_status": null,
+    "other_ar": [
+     "مستوى مقترح: السنة التاسعة أساسي مع شهادة الكفاءة المهنية أو شهادة مؤهل تقني مهني للأعوان المؤهلين، وشهادة تقني سامٍ للتقنيين — غير مؤكد",
+     "اختصاصات مرجحة: ميكانيك المحركات، كهرباء السيارات، التبريد والتكييف، الهياكل والدهن، الصيانة الصناعية — مقترح",
+     "الجنسية التونسية والتمتع بالحقوق المدنية ونقاوة السوابق العدلية (بطاقة عدد 3) — شروط مقترحة بالقياس على انتدابات المنشآت العمومية، للتثبت",
+     "وضعية قانونية إزاء الخدمة الوطنية بالنسبة للمترشحين الذكور — مقترح، للتثبت",
+     "حد السن الأقصى غير منشور في المصادر المتاحة (كثيرا ما يتراوح بين 30 و40 سنة في مناظرات المنشآت العمومية) — للتثبت من البلاغ ومن تاريخ احتساب السن",
+     "القدرة البدنية والصحية على العمل يثبتها فحص طب الشغل للمنشأة — مقترح"
+    ],
+    "other_fr": [
+     "Niveau suggéré : 9e année de base avec CAP ou BTP pour les agents qualifiés, BTS pour les techniciens — non confirmé",
+     "Spécialités probables : mécanique moteur, électricité automobile, froid et climatisation, carrosserie-peinture, maintenance industrielle — suggestion",
+     "Nationalité tunisienne, jouissance des droits civiques et casier judiciaire vierge (bulletin n° 3) — conditions suggérées par analogie avec les recrutements des entreprises publiques, à vérifier",
+     "Situation régulière vis-à-vis du service national pour les candidats de sexe masculin — suggestion, à vérifier",
+     "Âge maximum non publié dans les sources disponibles (souvent entre 30 et 40 ans dans les concours des entreprises publiques) — à vérifier dans l'avis, ainsi que la date de référence pour le calcul de l'âge",
+     "Aptitude physique et médicale attestée par la médecine du travail de l'entreprise — suggestion"
+    ],
+    "source_key": "s4",
+    "confidence": "LOW",
+    "needs_verification": true,
+    "source_quote": null
+   },
+   "phases": [
+    {
+     "order": 1,
+     "kind": "FILE_REVIEW",
+     "name_ar": "الترشح والانتقاء الأولي بالملفات",
+     "name_fr": "Candidature et présélection sur dossier",
+     "is_eliminatory": true,
+     "duration_minutes": null,
+     "description_ar": "حسب ما نقلته الصحافة (s4) شملت مناظرة شركة نقل تونس لسنة 2026 أعوانا مؤهلين وتقنيين، وشملت مناظرة الشركة الوطنية للنقل بين المدن (s5) 8 أعوان تقنيين. الاختصاصات والشروط الدقيقة غير مؤكدة.",
+     "description_fr": "Selon la presse (s4), le concours Transtu 2026 comprenait des agents qualifiés et des techniciens ; celui de la SNTRI (s5) 8 agents techniques. Spécialités et conditions exactes non confirmées.",
+     "source_key": "s4",
+     "confidence": "MEDIUM",
+     "needs_verification": true
+    },
+    {
+     "order": 2,
+     "kind": "WRITTEN",
+     "name_ar": "الاختبار الكتابي في الاختصاص",
+     "name_fr": "Épreuve écrite de spécialité",
+     "is_eliminatory": true,
+     "duration_minutes": null,
+     "description_ar": "أسئلة في الميكانيك والكهرباء والحساب واللغات — مقترح.",
+     "description_fr": "Questions de mécanique, d'électricité, de calcul et de langues — suggestion.",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "order": 3,
+     "kind": "ORAL",
+     "name_ar": "اختبار تطبيقي بالورشة",
+     "name_fr": "Épreuve pratique en atelier",
+     "is_eliminatory": true,
+     "duration_minutes": null,
+     "description_ar": "تشخيص عطب أو إنجاز عملية صيانة أمام لجنة — مقترح.",
+     "description_fr": "Diagnostic de panne ou opération de maintenance devant un jury — suggestion.",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "order": 4,
+     "kind": "MEDICAL",
+     "name_ar": "الفحص الطبي",
+     "name_fr": "Visite médicale",
+     "is_eliminatory": true,
+     "duration_minutes": null,
+     "description_ar": "فحص طبي لدى طب الشغل للتثبت من القدرة على العمل — مقترح، غير مؤكد.",
+     "description_fr": "Visite de médecine du travail pour vérifier l'aptitude au poste — suggestion, non confirmée.",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    }
+   ],
+   "subjects": [
+    {
+     "phase_order": 2,
+     "domain": "SPECIALTY",
+     "specialty_key": "spec.transport-aerien.mecanique",
+     "name_ar": "ميكانيك العربات والآليات",
+     "name_fr": "Mécanique des véhicules et engins",
+     "coefficient": null,
+     "duration_minutes": null,
+     "question_count": null,
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "phase_order": 2,
+     "domain": "SPECIALTY",
+     "specialty_key": "spec.electricite",
+     "name_ar": "الكهرباء والكهروتقنية",
+     "name_fr": "Électricité et électrotechnique",
+     "coefficient": null,
+     "duration_minutes": null,
+     "question_count": null,
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "phase_order": 2,
+     "domain": "NUMERICAL",
+     "specialty_key": null,
+     "name_ar": "الحساب",
+     "name_fr": "Calcul",
+     "coefficient": null,
+     "duration_minutes": null,
+     "question_count": null,
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "phase_order": 2,
+     "domain": "FRENCH",
+     "specialty_key": null,
+     "name_ar": "اللغة الفرنسية",
+     "name_fr": "Français",
+     "coefficient": null,
+     "duration_minutes": null,
+     "question_count": null,
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "phase_order": 2,
+     "domain": "ARABIC",
+     "specialty_key": null,
+     "name_ar": "اللغة العربية",
+     "name_fr": "Arabe",
+     "coefficient": null,
+     "duration_minutes": null,
+     "question_count": null,
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    }
+   ],
+   "physical_tests": [],
+   "required_documents": [
+    {
+     "text_ar": "مطلب ترشح أو استمارة التسجيل عن بعد مطبوعة وممضاة حسب ما يحدده البلاغ",
+     "text_fr": "Demande de candidature ou formulaire d'inscription en ligne imprimé et signé, selon l'avis",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "text_ar": "نسخة من بطاقة التعريف الوطنية",
+     "text_fr": "Copie de la carte d'identité nationale",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "text_ar": "نسخ من الشهادات العلمية أو المهنية وكشوف الأعداد (مطابقة للأصل عند الطلب)",
+     "text_fr": "Copies des diplômes scolaires ou professionnels et relevés de notes (certifiées conformes si demandé)",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "text_ar": "بطاقة عدد 3 (مضمون السوابق العدلية) حديثة",
+     "text_fr": "Bulletin n° 3 (extrait du casier judiciaire) récent",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "text_ar": "سيرة ذاتية وصور شمسية حديثة",
+     "text_fr": "Curriculum vitae et photos d'identité récentes",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "text_ar": "وثيقة تثبت الوضعية إزاء الخدمة الوطنية (للذكور)",
+     "text_fr": "Justificatif de la situation vis-à-vis du service national (candidats masculins)",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "text_ar": "نسخة من شهادة التكوين المهني أو شهادة التقني السامي",
+     "text_fr": "Copie du diplôme de formation professionnelle ou du BTS",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    }
+   ],
+   "blueprint": {
+    "total_minutes": 90,
+    "fidelity": "APPROXIMATED",
+    "sections": [
+     {
+      "domain": "SPECIALTY",
+      "specialty_key": "spec.transport-aerien.mecanique",
+      "count": 15,
+      "minutes": 25
+     },
+     {
+      "domain": "SPECIALTY",
+      "specialty_key": "spec.electricite",
+      "count": 12,
+      "minutes": 20
+     },
+     {
+      "domain": "NUMERICAL",
+      "specialty_key": null,
+      "count": 10,
+      "minutes": 15
+     },
+     {
+      "domain": "LOGIC",
+      "specialty_key": null,
+      "count": 8,
+      "minutes": 10
+     },
+     {
+      "domain": "FRENCH",
+      "specialty_key": null,
+      "count": 8,
+      "minutes": 10
+     },
+     {
+      "domain": "ARABIC",
+      "specialty_key": null,
+      "count": 6,
+      "minutes": 10
+     }
+    ]
+   }
+  },
+  {
+   "slug": "cadre-gestion",
+   "title_ar": "إطار (تصرف، مالية ومحاسبة، موارد بشرية، قانون، إعلامية، تجارة) أو مهندس – منشآت النقل العمومية",
+   "title_fr": "Cadre (gestion, finance-comptabilité, RH, juridique, informatique, commercial) ou ingénieur – entreprises publiques de transport",
+   "diploma_level": "LICENCE",
+   "eligibility": {
+    "min_age": 18,
+    "max_age": null,
+    "genders": [
+     "M",
+     "F"
+    ],
+    "nationality": "TN",
+    "diplomas": [
+     "LICENCE"
+    ],
+    "specialties": [],
+    "min_height_cm_male": null,
+    "min_height_cm_female": null,
+    "marital_status": null,
+    "other_ar": [
+     "مستوى مقترح: إجازة أو ماجستير أو شهادة مهندس في الاختصاص المطلوب — غير مؤكد",
+     "إتقان الفرنسية، والإنجليزية ضرورية في النقل الجوي — مقترح",
+     "الجنسية التونسية والتمتع بالحقوق المدنية ونقاوة السوابق العدلية (بطاقة عدد 3) — شروط مقترحة بالقياس على انتدابات المنشآت العمومية، للتثبت",
+     "وضعية قانونية إزاء الخدمة الوطنية بالنسبة للمترشحين الذكور — مقترح، للتثبت",
+     "حد السن الأقصى غير منشور في المصادر المتاحة (كثيرا ما يتراوح بين 30 و40 سنة في مناظرات المنشآت العمومية) — للتثبت من البلاغ ومن تاريخ احتساب السن",
+     "القدرة البدنية والصحية على العمل يثبتها فحص طب الشغل للمنشأة — مقترح"
+    ],
+    "other_fr": [
+     "Niveau suggéré : licence, master ou diplôme d'ingénieur dans la spécialité demandée — non confirmé",
+     "Maîtrise du français ; l'anglais est indispensable dans le transport aérien — suggestion",
+     "Nationalité tunisienne, jouissance des droits civiques et casier judiciaire vierge (bulletin n° 3) — conditions suggérées par analogie avec les recrutements des entreprises publiques, à vérifier",
+     "Situation régulière vis-à-vis du service national pour les candidats de sexe masculin — suggestion, à vérifier",
+     "Âge maximum non publié dans les sources disponibles (souvent entre 30 et 40 ans dans les concours des entreprises publiques) — à vérifier dans l'avis, ainsi que la date de référence pour le calcul de l'âge",
+     "Aptitude physique et médicale attestée par la médecine du travail de l'entreprise — suggestion"
+    ],
+    "source_key": "s5",
+    "confidence": "LOW",
+    "needs_verification": true,
+    "source_quote": null
+   },
+   "phases": [
+    {
+     "order": 1,
+     "kind": "FILE_REVIEW",
+     "name_ar": "الترشح والانتقاء الأولي بالملفات",
+     "name_fr": "Candidature et présélection sur dossier",
+     "is_eliminatory": true,
+     "duration_minutes": null,
+     "description_ar": "حسب ما نقلته الصحافة شملت مناظرات 2026 إطارات: الخطوط التونسية للخدمات الأرضية (s2: «أعوان وإطارات»)، شركة نقل تونس (s4: منها مهندسون) والشركة الوطنية للنقل بين المدن (s5: 7 إطارات). الاختصاصات والشروط غير مؤكدة.",
+     "description_fr": "Selon la presse, les concours 2026 comprenaient des cadres : Tunisair Handling (s2 : « agents et cadres »), Transtu (s4 : dont des ingénieurs) et SNTRI (s5 : 7 cadres). Spécialités et conditions non confirmées.",
+     "source_key": "s5",
+     "confidence": "MEDIUM",
+     "needs_verification": true
+    },
+    {
+     "order": 2,
+     "kind": "WRITTEN",
+     "name_ar": "الاختبارات الكتابية",
+     "name_fr": "Épreuves écrites",
+     "is_eliminatory": true,
+     "duration_minutes": null,
+     "description_ar": "اختبار في الاختصاص واختبار في الثقافة العامة أو اللغات — مقترح.",
+     "description_fr": "Épreuve de spécialité et épreuve de culture générale ou de langues — suggestion.",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "order": 3,
+     "kind": "ORAL",
+     "name_ar": "اختبار شفاهي / مقابلة أمام لجنة",
+     "name_fr": "Épreuve orale / entretien avec un jury",
+     "is_eliminatory": true,
+     "duration_minutes": null,
+     "description_ar": "مقابلة حول المسار والمعارف في الاختصاص وقطاع النقل — مقترح.",
+     "description_fr": "Entretien sur le parcours, les connaissances de spécialité et le secteur des transports — suggestion.",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "order": 4,
+     "kind": "MEDICAL",
+     "name_ar": "الفحص الطبي",
+     "name_fr": "Visite médicale",
+     "is_eliminatory": true,
+     "duration_minutes": null,
+     "description_ar": "فحص طبي لدى طب الشغل للتثبت من القدرة على العمل — مقترح، غير مؤكد.",
+     "description_fr": "Visite de médecine du travail pour vérifier l'aptitude au poste — suggestion, non confirmée.",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    }
+   ],
+   "subjects": [
+    {
+     "phase_order": 2,
+     "domain": "SPECIALTY",
+     "specialty_key": "spec.banque-gestion",
+     "name_ar": "الاقتصاد والمحاسبة والتصرف",
+     "name_fr": "Économie, comptabilité et gestion",
+     "coefficient": null,
+     "duration_minutes": null,
+     "question_count": null,
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "phase_order": 2,
+     "domain": "SPECIALTY",
+     "specialty_key": "spec.transport-aerien.secteur",
+     "name_ar": "قطاع النقل العمومي في تونس",
+     "name_fr": "Le secteur public des transports en Tunisie",
+     "coefficient": null,
+     "duration_minutes": null,
+     "question_count": null,
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "phase_order": 2,
+     "domain": "SPECIALTY",
+     "specialty_key": "spec.redaction-administrative",
+     "name_ar": "التحرير الإداري",
+     "name_fr": "Rédaction administrative",
+     "coefficient": null,
+     "duration_minutes": null,
+     "question_count": null,
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "phase_order": 2,
+     "domain": "SPECIALTY",
+     "specialty_key": "spec.informatique",
+     "name_ar": "الإعلامية",
+     "name_fr": "Informatique",
+     "coefficient": null,
+     "duration_minutes": null,
+     "question_count": null,
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "phase_order": 2,
+     "domain": "CULTURE_GENERALE",
+     "specialty_key": null,
+     "name_ar": "الثقافة العامة",
+     "name_fr": "Culture générale",
+     "coefficient": null,
+     "duration_minutes": null,
+     "question_count": null,
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "phase_order": 2,
+     "domain": "FRENCH",
+     "specialty_key": null,
+     "name_ar": "اللغة الفرنسية",
+     "name_fr": "Français",
+     "coefficient": null,
+     "duration_minutes": null,
+     "question_count": null,
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "phase_order": 2,
+     "domain": "ENGLISH",
+     "specialty_key": null,
+     "name_ar": "اللغة الإنجليزية",
+     "name_fr": "Anglais",
+     "coefficient": null,
+     "duration_minutes": null,
+     "question_count": null,
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    }
+   ],
+   "physical_tests": [],
+   "required_documents": [
+    {
+     "text_ar": "مطلب ترشح أو استمارة التسجيل عن بعد مطبوعة وممضاة حسب ما يحدده البلاغ",
+     "text_fr": "Demande de candidature ou formulaire d'inscription en ligne imprimé et signé, selon l'avis",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "text_ar": "نسخة من بطاقة التعريف الوطنية",
+     "text_fr": "Copie de la carte d'identité nationale",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "text_ar": "نسخ من الشهادات العلمية أو المهنية وكشوف الأعداد (مطابقة للأصل عند الطلب)",
+     "text_fr": "Copies des diplômes scolaires ou professionnels et relevés de notes (certifiées conformes si demandé)",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "text_ar": "بطاقة عدد 3 (مضمون السوابق العدلية) حديثة",
+     "text_fr": "Bulletin n° 3 (extrait du casier judiciaire) récent",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "text_ar": "سيرة ذاتية وصور شمسية حديثة",
+     "text_fr": "Curriculum vitae et photos d'identité récentes",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "text_ar": "وثيقة تثبت الوضعية إزاء الخدمة الوطنية (للذكور)",
+     "text_fr": "Justificatif de la situation vis-à-vis du service national (candidats masculins)",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    }
+   ],
+   "blueprint": {
+    "total_minutes": 150,
+    "fidelity": "APPROXIMATED",
+    "sections": [
+     {
+      "domain": "CULTURE_GENERALE",
+      "specialty_key": null,
+      "count": 12,
+      "minutes": 15
+     },
+     {
+      "domain": "FRENCH",
+      "specialty_key": null,
+      "count": 10,
+      "minutes": 15
+     },
+     {
+      "domain": "ENGLISH",
+      "specialty_key": null,
+      "count": 10,
+      "minutes": 15
+     },
+     {
+      "domain": "LOGIC",
+      "specialty_key": null,
+      "count": 10,
+      "minutes": 15
+     },
+     {
+      "domain": "SPECIALTY",
+      "specialty_key": "spec.banque-gestion",
+      "count": 15,
+      "minutes": 30
+     },
+     {
+      "domain": "SPECIALTY",
+      "specialty_key": "spec.redaction-administrative",
+      "count": 8,
+      "minutes": 20
+     },
+     {
+      "domain": "SPECIALTY",
+      "specialty_key": "spec.informatique",
+      "count": 8,
+      "minutes": 15
+     },
+     {
+      "domain": "SPECIALTY",
+      "specialty_key": "spec.transport-aerien.secteur",
+      "count": 12,
+      "minutes": 25
+     }
+    ]
+   }
+  }
+ ],
+ "specialty_syllabus": [
+  {
+   "key": "spec.transport-aerien.secteur",
+   "parent_key": null,
+   "level": "UNIT",
+   "title_ar": "قطاع النقل العمومي في تونس",
+   "title_fr": "Le secteur public des transports en Tunisie",
+   "scope": "SUGGESTED",
+   "source_key": null,
+   "objectives": [
+    {
+     "key": "spec.transport-aerien.secteur.o1",
+     "text_ar": "التعرف على وزارة النقل والمنشآت العمومية الخاضعة لإشرافها (الخطوط التونسية وفروعها، ديوان الطيران المدني والمطارات، شركة نقل تونس، الشركة الوطنية للنقل بين المدن، الشركات الجهوية للنقل، الشركة الوطنية للسكك الحديدية التونسية، الشركة التونسية للملاحة، ديوان البحرية التجارية والموانئ)",
+     "text_fr": "Connaître le ministère du Transport et les entreprises publiques sous sa tutelle (groupe Tunisair, OACA, Transtu, SNTRI, sociétés régionales de transport, SNCFT, CTN, Office de la Marine Marchande et des Ports)"
+    },
+    {
+     "key": "spec.transport-aerien.secteur.o2",
+     "text_ar": "التمييز بين المؤسسة العمومية والمنشأة العمومية والشركة ذات المساهمة العمومية وفهم أثر ذلك على الانتداب",
+     "text_fr": "Distinguer établissement public, entreprise publique et société à participation publique, et leurs effets sur le recrutement"
+    },
+    {
+     "key": "spec.transport-aerien.secteur.o3",
+     "text_ar": "معرفة المطارات التونسية الرئيسية ورموزها (تونس قرطاج TUN، جربة جرجيس DJE، المنستير MIR، النفيضة الحمامات NBE، صفاقس طينة SFA، توزر نفطة TOE، طبرقة عين دراهم TBJ، قفصة GAF، قابس مطماطة GAE)",
+     "text_fr": "Connaître les principaux aéroports tunisiens et leurs codes (Tunis-Carthage TUN, Djerba-Zarzis DJE, Monastir MIR, Enfidha-Hammamet NBE, Sfax-Thyna SFA, Tozeur-Nefta TOE, Tabarka-Aïn Draham TBJ, Gafsa GAF, Gabès-Matmata GAE)"
+    },
+    {
+     "key": "spec.transport-aerien.secteur.o4",
+     "text_ar": "معرفة مكونات شبكة النقل العمومي بتونس الكبرى (الحافلات، المترو الخفيف، خط تونس-حلق الوادي-المرسى) والنقل بين المدن",
+     "text_fr": "Connaître les composantes du transport public du Grand Tunis (bus, métro léger, TGM) et du transport interurbain"
+    },
+    {
+     "key": "spec.transport-aerien.secteur.o5",
+     "text_ar": "الإلمام برهانات القطاع: جودة الخدمات، احترام المواعيد، تجديد الأسطول، السلامة، التحكم في الكلفة، الانتقال الرقمي",
+     "text_fr": "Connaître les enjeux du secteur : qualité de service, ponctualité, renouvellement des flottes, sécurité, maîtrise des coûts, digitalisation"
+    }
+   ]
+  },
+  {
+   "key": "spec.transport-aerien.aviation",
+   "parent_key": null,
+   "level": "UNIT",
+   "title_ar": "معلومات عامة حول الطيران المدني",
+   "title_fr": "Notions générales d'aviation civile",
+   "scope": "SUGGESTED",
+   "source_key": null,
+   "objectives": [
+    {
+     "key": "spec.transport-aerien.aviation.o1",
+     "text_ar": "التعرف على المنظمة الدولية للطيران المدني (اتفاقية شيكاغو 1944 وملاحقها) والاتحاد الدولي للنقل الجوي (إياتا) ودورهما",
+     "text_fr": "Connaître l'OACI (Convention de Chicago de 1944 et ses annexes) et l'IATA ainsi que leurs rôles"
+    },
+    {
+     "key": "spec.transport-aerien.aviation.o2",
+     "text_ar": "التمييز بين رموز المطارات وشركات الطيران لدى إياتا والمنظمة الدولية للطيران المدني",
+     "text_fr": "Distinguer les codes IATA et OACI des aéroports et des compagnies aériennes"
+    },
+    {
+     "key": "spec.transport-aerien.aviation.o3",
+     "text_ar": "استعمال الأبجدية الصوتية الدولية (Alpha, Bravo, Charlie...) والتوقيت العالمي المنسق UTC",
+     "text_fr": "Utiliser l'alphabet phonétique international (Alpha, Bravo, Charlie...) et le temps universel coordonné (UTC)"
+    },
+    {
+     "key": "spec.transport-aerien.aviation.o4",
+     "text_ar": "فهم المصطلحات الأساسية: رحلة منتظمة وغير منتظمة (شارتر)، محطة، مدرج، منطقة محظورة، حريات الجو",
+     "text_fr": "Comprendre le vocabulaire de base : vol régulier et charter, escale, piste, zone réservée, libertés de l'air"
+    },
+    {
+     "key": "spec.transport-aerien.aviation.o5",
+     "text_ar": "التمييز بين السلامة (safety) والأمن (security) في الطيران المدني",
+     "text_fr": "Distinguer la sécurité (safety) et la sûreté (security) dans l'aviation civile"
+    }
+   ]
+  },
+  {
+   "key": "spec.transport-aerien.escale",
+   "parent_key": null,
+   "level": "UNIT",
+   "title_ar": "خدمات المحطة والمسافرين",
+   "title_fr": "Assistance en escale et service passagers",
+   "scope": "SUGGESTED",
+   "source_key": null,
+   "objectives": [
+    {
+     "key": "spec.transport-aerien.escale.o1",
+     "text_ar": "وصف مراحل مسار المسافر: التسجيل، مراقبة الوثائق، الإركاب، الوصول، العبور",
+     "text_fr": "Décrire le parcours passager : enregistrement, contrôle des documents, embarquement, arrivée, transit"
+    },
+    {
+     "key": "spec.transport-aerien.escale.o2",
+     "text_ar": "التثبت من وثائق السفر (جواز السفر، التأشيرة) وتطبيق قواعد الأمتعة المسموح بها والأمتعة الزائدة",
+     "text_fr": "Vérifier les documents de voyage (passeport, visa) et appliquer les règles de franchise et d'excédent de bagages"
+    },
+    {
+     "key": "spec.transport-aerien.escale.o3",
+     "text_ar": "التصرف في الوضعيات غير العادية: التأخير، الإلغاء، الحجز الزائد، الأمتعة المفقودة أو المتضررة",
+     "text_fr": "Gérer les irrégularités : retard, annulation, surréservation, bagages perdus ou endommagés"
+    },
+    {
+     "key": "spec.transport-aerien.escale.o4",
+     "text_ar": "مرافقة المسافرين ذوي الاحتياجات الخصوصية والأطفال غير المرافقين",
+     "text_fr": "Prendre en charge les passagers à mobilité réduite et les mineurs non accompagnés"
+    },
+    {
+     "key": "spec.transport-aerien.escale.o5",
+     "text_ar": "التعرف على البضائع الخطرة الممنوعة في الأمتعة وقواعد التعامل مع الحرفاء",
+     "text_fr": "Reconnaître les marchandises dangereuses interdites en bagage et appliquer les règles de relation client"
+    }
+   ]
+  },
+  {
+   "key": "spec.transport-aerien.piste",
+   "parent_key": null,
+   "level": "UNIT",
+   "title_ar": "خدمات المدرج والسلامة بمنطقة الطائرات",
+   "title_fr": "Assistance piste et sécurité sur l'aire de trafic",
+   "scope": "SUGGESTED",
+   "source_key": null,
+   "objectives": [
+    {
+     "key": "spec.transport-aerien.piste.o1",
+     "text_ar": "التعرف على معدات المدرج (جرار الأمتعة، الحزام الناقل، مولد الكهرباء الأرضي، السلم والممر، جرار دفع الطائرات) واستعمالها",
+     "text_fr": "Identifier et utiliser le matériel de piste (tracteur à bagages, tapis, groupe électrogène de parc, escabeau/passerelle, tracteur de repoussage)"
+    },
+    {
+     "key": "spec.transport-aerien.piste.o2",
+     "text_ar": "تطبيق قواعد السلامة بمنطقة الطائرات: نفث المحركات، الأجسام الغريبة، السرعة، المناطق المحظورة",
+     "text_fr": "Appliquer les règles de sécurité sur l'aire de trafic : souffle des réacteurs, objets étrangers (FOD), vitesse, zones interdites"
+    },
+    {
+     "key": "spec.transport-aerien.piste.o3",
+     "text_ar": "فهم أساسيات تحميل الطائرة وتوازنها واحترام تعليمات التحميل",
+     "text_fr": "Comprendre les bases du chargement et du centrage et respecter les instructions de chargement"
+    },
+    {
+     "key": "spec.transport-aerien.piste.o4",
+     "text_ar": "التعرف على إشارات التوجيه اليدوية للطائرات على الأرض",
+     "text_fr": "Connaître les signaux de guidage des aéronefs au sol"
+    }
+   ]
+  },
+  {
+   "key": "spec.transport-aerien.pnc",
+   "parent_key": null,
+   "level": "UNIT",
+   "title_ar": "السلامة في المقصورة ومهام طاقم الضيافة",
+   "title_fr": "Sécurité cabine et métier de PNC",
+   "scope": "SUGGESTED",
+   "source_key": null,
+   "objectives": [
+    {
+     "key": "spec.transport-aerien.pnc.o1",
+     "text_ar": "وصف دور طاقم الضيافة في السلامة قبل الرحلة وأثناءها وبعدها",
+     "text_fr": "Décrire le rôle du PNC en matière de sécurité avant, pendant et après le vol"
+    },
+    {
+     "key": "spec.transport-aerien.pnc.o2",
+     "text_ar": "التعرف على معدات الطوارئ (المزالق، سترات النجاة، أقنعة الأكسجين، مطافئ الحريق) وإجراءات الإخلاء",
+     "text_fr": "Connaître les équipements de secours (toboggans, gilets, masques à oxygène, extincteurs) et les procédures d'évacuation"
+    },
+    {
+     "key": "spec.transport-aerien.pnc.o3",
+     "text_ar": "التصرف مع المسافرين المزعجين والمرضى على متن الطائرة",
+     "text_fr": "Gérer les passagers perturbateurs et les malaises à bord"
+    },
+    {
+     "key": "spec.transport-aerien.pnc.o4",
+     "text_ar": "معرفة أساسيات الخدمة على متن الطائرة والتواصل متعدد الثقافات",
+     "text_fr": "Connaître les bases du service à bord et de la communication interculturelle"
+    }
+   ]
+  },
+  {
+   "key": "spec.transport-aerien.navigation",
+   "parent_key": null,
+   "level": "UNIT",
+   "title_ar": "أساسيات الملاحة الجوية",
+   "title_fr": "Notions de navigation aérienne",
+   "scope": "SUGGESTED",
+   "source_key": null,
+   "objectives": [
+    {
+     "key": "spec.transport-aerien.navigation.o1",
+     "text_ar": "التعرف على مصالح الحركة الجوية (مراقبة المطار، الاقتراب، المراقبة الجهوية، الإعلام الجوي) وتقسيم المجال الجوي",
+     "text_fr": "Connaître les services de la circulation aérienne (contrôle d'aérodrome, d'approche, régional, information de vol) et l'organisation de l'espace aérien"
+    },
+    {
+     "key": "spec.transport-aerien.navigation.o2",
+     "text_ar": "فهم أساسيات الطيران (الرفع، السحب، الدفع، الوزن) والوحدات المستعملة (القدم، العقدة، الميل البحري)",
+     "text_fr": "Comprendre les principes du vol (portance, traînée, poussée, poids) et les unités employées (pied, nœud, mille nautique)"
+    },
+    {
+     "key": "spec.transport-aerien.navigation.o3",
+     "text_ar": "قراءة رسائل الأرصاد الجوية للطيران (METAR وTAF) بشكل مبسط",
+     "text_fr": "Lire de façon simple les messages météorologiques aéronautiques (METAR, TAF)"
+    },
+    {
+     "key": "spec.transport-aerien.navigation.o4",
+     "text_ar": "التعرف على مبادئ العبارات الموحدة باللغة الإنجليزية في الاتصالات الجوية",
+     "text_fr": "Connaître les principes de la phraséologie standard en anglais"
+    },
+    {
+     "key": "spec.transport-aerien.navigation.o5",
+     "text_ar": "فهم أثر العوامل البشرية (التعب، الضغط، العمل الجماعي) على السلامة",
+     "text_fr": "Comprendre l'impact des facteurs humains (fatigue, stress, travail en équipe) sur la sécurité"
+    }
+   ]
+  },
+  {
+   "key": "spec.transport-aerien.maintenance-aeronautique",
+   "parent_key": null,
+   "level": "UNIT",
+   "title_ar": "أساسيات صيانة الطائرات",
+   "title_fr": "Bases de la maintenance aéronautique",
+   "scope": "SUGGESTED",
+   "source_key": null,
+   "objectives": [
+    {
+     "key": "spec.transport-aerien.maintenance-aeronautique.o1",
+     "text_ar": "التعرف على الهيكل العام للطائرة وأنظمتها الرئيسية (الهيدروليك، الكهرباء، الوقود، التكييف، أجهزة الهبوط)",
+     "text_fr": "Connaître la structure générale de l'avion et ses principaux systèmes (hydraulique, électrique, carburant, conditionnement d'air, train d'atterrissage)"
+    },
+    {
+     "key": "spec.transport-aerien.maintenance-aeronautique.o2",
+     "text_ar": "فهم مبدأ عمل المحركات النفاثة والمروحية النفاثة",
+     "text_fr": "Comprendre le principe de fonctionnement des turboréacteurs et turbopropulseurs"
+    },
+    {
+     "key": "spec.transport-aerien.maintenance-aeronautique.o3",
+     "text_ar": "استعمال وثائق الصيانة (دليل الصيانة، قائمة المعدات الدنيا) واحترام الإجراءات",
+     "text_fr": "Utiliser la documentation de maintenance (manuel de maintenance, liste minimale d'équipements) et respecter les procédures"
+    },
+    {
+     "key": "spec.transport-aerien.maintenance-aeronautique.o4",
+     "text_ar": "الإلمام بالعوامل البشرية وقواعد السلامة بالورشة ومبادئ تنظيم الصيانة",
+     "text_fr": "Connaître les facteurs humains, la sécurité en atelier et les principes de la réglementation de maintenance"
+    }
+   ]
+  },
+  {
+   "key": "spec.transport-aerien.surete",
+   "parent_key": null,
+   "level": "UNIT",
+   "title_ar": "أمن الطيران المدني",
+   "title_fr": "Sûreté de l'aviation civile",
+   "scope": "SUGGESTED",
+   "source_key": null,
+   "objectives": [
+    {
+     "key": "spec.transport-aerien.surete.o1",
+     "text_ar": "التعرف على أهداف الملحق 17 للمنظمة الدولية للطيران المدني والبرامج الوطنية لأمن الطيران",
+     "text_fr": "Connaître les objectifs de l'Annexe 17 de l'OACI et des programmes nationaux de sûreté"
+    },
+    {
+     "key": "spec.transport-aerien.surete.o2",
+     "text_ar": "وصف إجراءات تفتيش المسافرين والأمتعة (البوابات، أجهزة الأشعة، التفتيش اليدوي)",
+     "text_fr": "Décrire l'inspection-filtrage des passagers et des bagages (portiques, radioscopie, fouille manuelle)"
+    },
+    {
+     "key": "spec.transport-aerien.surete.o3",
+     "text_ar": "التعرف على الأشياء الممنوعة والمواد الخطرة",
+     "text_fr": "Reconnaître les articles prohibés et les matières dangereuses"
+    },
+    {
+     "key": "spec.transport-aerien.surete.o4",
+     "text_ar": "تطبيق قواعد مراقبة النفاذ إلى المناطق المحظورة والشارات",
+     "text_fr": "Appliquer les règles de contrôle d'accès aux zones réservées et de badges"
+    },
+    {
+     "key": "spec.transport-aerien.surete.o5",
+     "text_ar": "احترام كرامة المسافرين وحقوقهم أثناء التفتيش",
+     "text_fr": "Respecter la dignité et les droits des passagers lors des contrôles"
+    }
+   ]
+  },
+  {
+   "key": "spec.transport-aerien.sslia",
+   "parent_key": null,
+   "level": "UNIT",
+   "title_ar": "إنقاذ ومكافحة حرائق الطائرات",
+   "title_fr": "Sauvetage et lutte contre l'incendie des aéronefs",
+   "scope": "SUGGESTED",
+   "source_key": null,
+   "objectives": [
+    {
+     "key": "spec.transport-aerien.sslia.o1",
+     "text_ar": "فهم تصنيف المطارات حسب مستوى الحماية من الحرائق المطلوب (الملحق 14 للمنظمة الدولية للطيران المدني) وأهداف زمن التدخل",
+     "text_fr": "Comprendre la classification des aérodromes selon le niveau de protection incendie requis (Annexe 14 de l'OACI) et les objectifs de délai d'intervention"
+    },
+    {
+     "key": "spec.transport-aerien.sslia.o2",
+     "text_ar": "التعرف على مواد الإطفاء (الماء مع الرغوة، المسحوق، ثاني أكسيد الكربون) واستعمالاتها",
+     "text_fr": "Connaître les agents extincteurs (eau-émulsion, poudre, CO2) et leurs usages"
+    },
+    {
+     "key": "spec.transport-aerien.sslia.o3",
+     "text_ar": "التعرف على الأخطار الخاصة بالطائرات (الوقود، المحركات، الأكسجين، المزالق) وتقنيات الإخلاء والإنقاذ",
+     "text_fr": "Identifier les risques propres aux aéronefs (carburant, moteurs, oxygène, toboggans) et les techniques d'évacuation et de sauvetage"
+    },
+    {
+     "key": "spec.transport-aerien.sslia.o4",
+     "text_ar": "التعرف على عربات الإطفاء ومعدات الإنقاذ وصيانتها اليومية",
+     "text_fr": "Connaître les véhicules d'incendie, le matériel de sauvetage et leur entretien quotidien"
+    }
+   ]
+  },
+  {
+   "key": "spec.transport-aerien.mecanique",
+   "parent_key": null,
+   "level": "UNIT",
+   "title_ar": "ميكانيك العربات والآليات",
+   "title_fr": "Mécanique des véhicules et engins",
+   "scope": "SUGGESTED",
+   "source_key": null,
+   "objectives": [
+    {
+     "key": "spec.transport-aerien.mecanique.o1",
+     "text_ar": "شرح مبدأ عمل المحرك الحراري (ديزل وبنزين) ومكوناته",
+     "text_fr": "Expliquer le fonctionnement du moteur thermique (diesel et essence) et ses composants"
+    },
+    {
+     "key": "spec.transport-aerien.mecanique.o2",
+     "text_ar": "التعرف على أنظمة نقل الحركة والفرامل (بما فيها الفرامل الهوائية) والتعليق والتوجيه",
+     "text_fr": "Connaître la transmission, le freinage (y compris pneumatique), la suspension et la direction"
+    },
+    {
+     "key": "spec.transport-aerien.mecanique.o3",
+     "text_ar": "تشخيص الأعطال الشائعة واستعمال أدوات القيس",
+     "text_fr": "Diagnostiquer les pannes courantes et utiliser les instruments de mesure"
+    },
+    {
+     "key": "spec.transport-aerien.mecanique.o4",
+     "text_ar": "قراءة رسم تقني بسيط واحترام قواعد السلامة بالورشة",
+     "text_fr": "Lire un plan technique simple et respecter les règles de sécurité en atelier"
+    },
+    {
+     "key": "spec.transport-aerien.mecanique.o5",
+     "text_ar": "فهم أساسيات الهيدروليك والتكييف في العربات",
+     "text_fr": "Comprendre les bases de l'hydraulique et de la climatisation des véhicules"
+    }
+   ]
+  },
+  {
+   "key": "spec.transport-aerien.transport-routier",
+   "parent_key": null,
+   "level": "UNIT",
+   "title_ar": "قانون الطرقات واستغلال النقل الجماعي",
+   "title_fr": "Code de la route et exploitation du transport collectif",
+   "scope": "SUGGESTED",
+   "source_key": null,
+   "objectives": [
+    {
+     "key": "spec.transport-aerien.transport-routier.o1",
+     "text_ar": "معرفة قواعد قانون الطرقات التونسي والإشارات وأولويات المرور",
+     "text_fr": "Connaître les règles du code de la route tunisien, la signalisation et les priorités"
+    },
+    {
+     "key": "spec.transport-aerien.transport-routier.o2",
+     "text_ar": "تطبيق السياقة الوقائية والاقتصادية لحافلة مع ضمان سلامة وراحة المسافرين",
+     "text_fr": "Appliquer la conduite préventive et économique d'un autobus en assurant la sécurité et le confort des voyageurs"
+    },
+    {
+     "key": "spec.transport-aerien.transport-routier.o3",
+     "text_ar": "إجراء المراقبة اليومية للعربة قبل الانطلاق (الإطارات، الأضواء، الفرامل، الوثائق)",
+     "text_fr": "Effectuer le contrôle quotidien du véhicule avant départ (pneus, feux, freins, documents)"
+    },
+    {
+     "key": "spec.transport-aerien.transport-routier.o4",
+     "text_ar": "التصرف في التذاكر والمعاليم والتعامل مع الحرفاء والنزاعات",
+     "text_fr": "Gérer la billetterie, l'encaissement, la relation client et les conflits"
+    },
+    {
+     "key": "spec.transport-aerien.transport-routier.o5",
+     "text_ar": "التصرف في حالة حادث: تأمين المكان، الإسعاف، الإبلاغ، المعاينة",
+     "text_fr": "Réagir en cas d'accident : sécurisation, secours, alerte, constat"
+    }
+   ]
+  }
+ ],
+ "past_exams": [],
+ "tips_ar": [
+  "تابع بانتظام مواقع منشآت النقل (الخطوط التونسية، ديوان الطيران المدني والمطارات، شركة نقل تونس، الشركة الوطنية للنقل بين المدن) والصحافة الوطنية: آجال الترشح قصيرة (أقل من أسبوع أحيانا بين نشر الخبر وآخر أجل).",
+  "اعتمد فقط على البلاغات الرسمية: المناظرات الحقيقية لا تطلب أي مبلغ مالي عبر صفحات فيسبوك أو وسطاء، واحذر من صفحات الانتداب الوهمية التي تنتحل اسم الخطوط التونسية.",
+  "حضّر وثائقك مسبقا (بطاقة عدد 3، نسخ الشهادات، رخصة السياقة، جواز السفر) لأن استخراج بعضها يتطلب وقتا.",
+  "في النقل الجوي، الفرنسية والإنجليزية حاسمتان: تدرّب على المحادثة والتقديم الشخصي بالإنجليزية.",
+  "للسائقين: حافظ على رخصة سياقة «د» سارية وسجل نظيف، وراجع قانون الطرقات والإسعافات الأولية.",
+  "تدرّب على الاختبارات النفسية التقنية (الانتباه، الذاكرة، سرعة الإدراك) خاصة لرتب المراقب الجوي وأمن المطارات والسائقين.",
+  "تثبّت مبكرا من لياقتك الطبية (البصر، السمع، تمييز الألوان) إن كنت تستهدف مهن المراقبة الجوية أو الضيافة أو الإطفاء.",
+  "تعرّف على القطاع: المطارات التونسية ورموزها، فروع مجمع الخطوط التونسية، شبكة المترو والحافلات بتونس الكبرى؛ هذه المعلومات مفيدة في الاختبار الكتابي والمقابلة.",
+  "كن مستعدا للعمل بنظام المناوبة وفي أي جهة (جربة، توزر، طبرقة...): القبول بالتعيين قد يُطرح في المقابلة."
+ ],
+ "tips_fr": [
+  "Suivez régulièrement les sites des entreprises (Tunisair, OACA, Transtu, SNTRI) et la presse nationale : les délais d'inscription sont courts (parfois moins d'une semaine entre l'article et la date limite).",
+  "Fiez-vous uniquement aux avis officiels : un vrai concours ne demande jamais d'argent via Facebook ou des intermédiaires ; méfiez-vous des fausses pages de recrutement usurpant le nom de Tunisair.",
+  "Préparez vos documents à l'avance (bulletin n° 3, copies des diplômes, permis, passeport) : certains demandent des délais.",
+  "Dans l'aérien, le français et l'anglais sont décisifs : entraînez-vous à l'oral et à la présentation personnelle en anglais.",
+  "Chauffeurs : gardez un permis D valide et un dossier sans infraction ; révisez le code de la route et le secourisme.",
+  "Entraînez-vous aux tests psychotechniques (attention, mémoire, rapidité de perception), surtout pour contrôleur aérien, sûreté aéroportuaire et chauffeur.",
+  "Vérifiez tôt votre aptitude médicale (vue, audition, perception des couleurs) si vous visez le contrôle aérien, le PNC ou le SSLIA.",
+  "Connaissez le secteur : aéroports tunisiens et leurs codes, filiales du groupe Tunisair, réseau métro et bus du Grand Tunis ; utile à l'écrit comme à l'entretien.",
+  "Soyez prêt au travail posté et à une affectation dans n'importe quelle région (Djerba, Tozeur, Tabarka...) : la question peut être posée en entretien."
+ ],
+ "research_notes": "LIMITE MÉTHODOLOGIQUE MAJEURE (2026-10-07) : le quota WebSearch partagé était épuisé dès la première requête (aucune recherche exécutée, ni en arabe ni en français) et WebFetch renvoie EGRESS_BLOCKED pour tous les domaines testés (www.oaca.nat.tn, www.tunisair.com, www.concours.gov.tn, www.webmanagercenter.com, www.tunisienumerique.com, www.lapresse.tn). AUCUNE page n'a été lue directement. Les seuls faits sourcés proviennent du journal de recherche interne (docs/research/01-market-raw.md, tableau « Public companies ») et des fiches content/competitions/_openings.json (générées le 2026-10-07 par l'équipe), qui citent des articles de presse (SECONDARY) : s1/s2 Tunisair Handling, 165 agents et cadres en CDI, aéroports Tunis-Carthage, Djerba, Monastir (+ Sfax selon s2), date limite 2026-06-08 ; s3 Tunisie Catering, agents en CDI (Tunis, Djerba), date limite 2026-07-31, nombre de postes inconnu ; s4 Transtu, 580 agents (chauffeurs-receveurs, agents qualifiés, techniciens, ingénieurs...), date limite 2026-09-08 ; s5 SNTRI, 55 postes (40 chauffeurs de bus, 8 agents techniques, 7 cadres), date limite 2026-09-30 ; s6 Société régionale du transport de Siliana, 23 chauffeurs et techniciens qualifiés. Ces faits restent needs_verification=true (aucun source_quote, aucune source OFFICIELLE consultée). Statut CLOSED supposé pour toutes les éditions (dates limites passées au 07/10/2026) ; dates d'épreuves, résultats, nombre de candidats et répartition des postes par grade INCONNUS. NON TROUVÉ / À RECHERCHER : (1) aucun avis OACA (contrôleurs aériens, agents de sûreté, SSLIA, techniciens, ingénieurs) ni Tunisair (PNC, pilotes cadets, techniciens Tunisair Technics, cadres) pour 2023-2026 n'a pu être identifié ; les positions controleur-aerien, agent-surete-aeroportuaire, agent-sslia, personnel-navigant-commercial et technicien-maintenance-aeronautique sont ENTIÈREMENT SUGGÉRÉES (structure habituelle du secteur) ; (2) CTN (Compagnie Tunisienne de Navigation) : aucun concours trouvé, aucune position créée (officiers et personnel navigant de la marine marchande à ajouter si un avis est trouvé) ; (3) l'éventuelle publication de ces concours sur concours.gov.tn n'a pas pu être vérifiée (les entreprises publiques publient souvent sur leur propre site). ENTIÈREMENT SUGGÉRÉ (confidence LOW) : conditions d'âge (min 18 par défaut, max inconnu donc null), niveaux de diplôme, permis exigés, tailles minimales (laissées à null), phases, matières, coefficients (tous null), durées, épreuves physiques (aucun barème publié ; inspirées de la protection civile pour le SSLIA), pièces du dossier, et tout le specialty_syllabus (scope SUGGESTED). Les exigences OACI citées (niveau 4 de compétence linguistique et aptitude médicale de classe 3 pour les contrôleurs, Annexe 17 pour la sûreté, Annexe 14 pour le SSLIA) sont des normes internationales connues, mais leur traduction en conditions d'inscription au concours tunisien n'est pas confirmée. Codes IATA des aéroports dans le syllabus spec.transport-aerien.secteur : à revérifier. Blueprints : tous APPROXIMATED (aucun format officiel connu). Annales : aucune annale officielle ou communautaire identifiée (past_exams vide). Le slug de famille « transport-aerien » couvre aussi le transport terrestre (Transtu, SNTRI, sociétés régionales) et maritime (CTN) conformément à la commande ; la SNCFT a sa propre famille (sncft.json). Organisation « entreprises-publiques-transport » = regroupement éditorial (pas une entité juridique), website null. À FAIRE PAR L'ADMIN : ouvrir s1 à s6 pour confirmer chiffres et dates et relever les citations exactes ; consulter oaca.nat.tn, tunisair.com, transtu.tn, sntri.com.tn, ctn.com.tn et concours.gov.tn pour les avis officiels ; rechercher « مناظرة خارجية لانتداب ديوان الطيران المدني والمطارات », « recrutement contrôleurs aériens OACA », « Tunisair recrutement PNC », « شركة نقل تونس مناظرة سائق قابض » ; vérifier si Tunisie Catering et Tunisair Handling recrutent par concours sur épreuves ou sur dossier."
+}

@@ -1,0 +1,1342 @@
+{
+ "family": {
+  "slug": "poste-tunisienne",
+  "field": "PUBLIC_COMPANY",
+  "organization": {
+   "slug": "poste-tunisienne",
+   "name_ar": "البريد التونسي (الديوان الوطني للبريد)",
+   "name_fr": "La Poste Tunisienne (Office National des Postes)",
+   "ministry_fr": "Ministère des Technologies de la Communication (tutelle — à vérifier)",
+   "website": "https://www.poste.tn"
+  },
+  "name_ar": "مناظرات انتداب أعوان وإطارات البريد التونسي",
+  "name_fr": "Concours de recrutement de La Poste Tunisienne (agents et cadres)",
+  "description_ar": "مناظرات خارجية ينظمها البريد التونسي (الديوان الوطني للبريد) لانتداب أعوان تنفيذ وأعوان استغلال وإطارات. حسب سجل البحث الداخلي (نقلا عن موقع أورينتيني) أعلن البريد التونسي عن مناظرة «بالملفات» لانتداب 294 عونا، إضافة إلى انتداب متصرفين؛ سنة الإعلان والرتب المعنية والآجال غير مؤكدة، ولم نعثر على دورة 2026. تنبيه: لم تُفتح أي صفحة رسمية أثناء هذا البحث، والرتب والمواد والضوارب والوثائق المذكورة هنا مقترحة في انتظار التثبت من البلاغات الرسمية على www.poste.tn.",
+  "description_fr": "Concours externes organisés par La Poste Tunisienne (Office National des Postes) pour recruter des agents d'exécution, des agents d'exploitation et des cadres. Selon le journal de recherche interne (relayant le site Orientini), La Poste a annoncé un concours « sur dossiers » pour 294 agents ainsi qu'un recrutement d'administrateurs ; année, grades concernés et délais non confirmés, et aucune session 2026 trouvée. Attention : aucune page officielle n'a pu être consultée ; grades, matières, coefficients et pièces indiqués ici sont des suggestions en attente de vérification sur les avis officiels (www.poste.tn).",
+  "frequency": "IRREGULAR",
+  "frequency_confidence": "LOW",
+  "popularity": 4,
+  "keywords": [
+   "La Poste",
+   "La Poste Tunisienne",
+   "Poste Tunisienne",
+   "البريد التونسي",
+   "البريد",
+   "الديوان الوطني للبريد",
+   "Office National des Postes",
+   "ONP",
+   "concours poste",
+   "recrutement La Poste",
+   "recrutement poste 2026",
+   "مناظرة البريد التونسي",
+   "انتداب البريد التونسي",
+   "ساعي بريد",
+   "facteur",
+   "agent de guichet",
+   "عون شباك",
+   "متصرف",
+   "administrateur",
+   "CCP",
+   "Rapid-Poste",
+   "e-Dinar"
+  ]
+ },
+ "sources": [
+  {
+   "key": "s1",
+   "title": "Annonce Orientini n° 16323 — La Poste Tunisienne : concours sur dossiers (294 postes) et recrutement d'administrateurs",
+   "url": "https://www.orientini.com/AR/Annonces_Orientation_Formation_Emploi/16323/",
+   "publisher": "Orientini",
+   "source_type": "SECONDARY",
+   "publication_date": null,
+   "retrieved_at": "2026-10-07",
+   "confidence": "LOW",
+   "notes": "PAGE NON OUVERTE dans cette passe : WebFetch renvoie EGRESS_BLOCKED pour www.orientini.com et le quota WebSearch partagé était épuisé dès la première requête. URL et faits repris du journal de recherche consigné le même jour par l'équipe (docs/research/01-market-raw.md, tableau « Public companies » : « La Poste | 294 (file-based) + administrators »), lui-même fondé sur des résumés de moteur de recherche. Titre reconstitué ; date de publication inconnue (le même journal classe « La Poste 2026 » parmi les éléments non trouvés, l'annonce est donc probablement antérieure à 2026). Orientini est un portail d'orientation qui relaie les avis officiels."
+  },
+  {
+   "key": "s2",
+   "title": "Site officiel de La Poste Tunisienne (poste.tn)",
+   "url": "https://www.poste.tn",
+   "publisher": "La Poste Tunisienne (Office National des Postes)",
+   "source_type": "OFFICIAL",
+   "publication_date": null,
+   "retrieved_at": "2026-10-07",
+   "confidence": "LOW",
+   "notes": "Site institutionnel de l'organisme. WebFetch : EGRESS_BLOCKED, contenu non consulté. Cité uniquement comme lieu de vérification des avis de recrutement, résultats et conditions ; aucun fait de ce fichier n'en provient. La plateforme d'inscription en ligne aux concours (adresse exacte) reste à identifier."
+  }
+ ],
+ "editions": [
+  {
+   "year": 2025,
+   "session_label": "البريد التونسي: مناظرة خارجية بالملفات لانتداب 294 عونا (السنة غير مؤكدة: 2025 أو قبلها؛ الرتب والآجال غير معروفة) / La Poste Tunisienne : concours externe sur dossiers pour 294 agents (année non confirmée : 2025 ou antérieure ; grades et délais inconnus)",
+   "status": "CLOSED",
+   "registration_open": null,
+   "registration_deadline": null,
+   "exam_date": null,
+   "positions_count": 294,
+   "candidates_count": null,
+   "source_key": "s1",
+   "confidence": "LOW",
+   "needs_verification": true
+  },
+  {
+   "year": 2025,
+   "session_label": "البريد التونسي: مناظرة لانتداب متصرفين (العدد والسنة غير مؤكدين) / La Poste Tunisienne : concours de recrutement d'administrateurs (nombre et année non confirmés)",
+   "status": "CLOSED",
+   "registration_open": null,
+   "registration_deadline": null,
+   "exam_date": null,
+   "positions_count": null,
+   "candidates_count": null,
+   "position_slugs": [
+    "administrateur"
+   ],
+   "source_key": "s1",
+   "confidence": "LOW",
+   "needs_verification": true
+  }
+ ],
+ "positions": [
+  {
+   "slug": "agent-execution-facteur",
+   "title_ar": "عون تنفيذ (ساعي بريد / عون فرز وتوزيع) — ملمح مقترح",
+   "title_fr": "Agent d'exécution (facteur / agent de tri et de distribution) — profil type",
+   "diploma_level": "NINTH",
+   "eligibility": {
+    "min_age": 18,
+    "max_age": null,
+    "genders": [
+     "M",
+     "F"
+    ],
+    "nationality": "TN",
+    "diplomas": [
+     "NINTH"
+    ],
+    "specialties": [],
+    "min_height_cm_male": null,
+    "min_height_cm_female": null,
+    "marital_status": null,
+    "other_ar": [
+     "حسب سجل البحث الداخلي (نقلا عن أورينتيني) فتح البريد التونسي مناظرة «بالملفات» لـ294 خطة؛ الرتبة أو الرتب المعنية غير معروفة لدينا ويُفترض أنها تخص أعوان التنفيذ — للتثبت",
+     "المستوى الدراسي الأدنى غير منشور لدينا: اعتُمد مستوى السنة التاسعة أساسي كفرضية (قراءة العناوين بالعربية والفرنسية والحساب)",
+     "فرضية للتثبت: قد تُشترط رخصة سياقة دراجة نارية لخطط التوزيع، والقدرة البدنية على المشي والتنقل",
+     "الجنسية التونسية والتمتع بالحقوق المدنية ونقاوة السوابق العدلية: شروط مقترحة بالقياس على مناظرات المؤسسات العمومية — للتثبت من البلاغ",
+     "السن القصوى غير معروفة لدينا: تُترك فارغة عمدا حتى لا يُقصى أي مترشح خطأً من التنبيهات (كثير من المؤسسات العمومية تحددها بين 35 و40 سنة — للتثبت)",
+     "التسجيل يكون عادة عن بعد عبر منصة أو موقع البريد التونسي (www.poste.tn) — العنوان الدقيق للمنصة غير مؤكد"
+    ],
+    "other_fr": [
+     "Selon le journal de recherche interne (relayant Orientini), La Poste Tunisienne a ouvert un concours « sur dossiers » pour 294 postes ; le ou les grades concernés ne sont pas connus et sont supposés relever des agents d'exécution — à vérifier",
+     "Niveau d'instruction minimal non publié chez nous : niveau 9e année de base retenu comme hypothèse (lecture des adresses en arabe et en français, calcul)",
+     "Hypothèse à vérifier : permis de conduire deux-roues possiblement exigé pour la distribution, ainsi qu'une aptitude physique à la marche et aux déplacements",
+     "Nationalité tunisienne, jouissance des droits civiques et casier judiciaire vierge : conditions suggérées par analogie avec les concours des entreprises publiques — à vérifier sur l'avis",
+     "Âge maximum inconnu : laissé vide volontairement pour ne pas exclure à tort des candidats des alertes (souvent 35 à 40 ans dans les entreprises publiques — à vérifier)",
+     "Inscription généralement en ligne via le site ou une plateforme de La Poste Tunisienne (www.poste.tn) — adresse exacte de la plateforme non confirmée"
+    ],
+    "source_key": "s1",
+    "confidence": "LOW",
+    "needs_verification": true,
+    "source_quote": null
+   },
+   "phases": [
+    {
+     "order": 1,
+     "kind": "FILE_REVIEW",
+     "name_ar": "التسجيل ودراسة الملفات (المناظرة بالملفات)",
+     "name_fr": "Inscription et étude des dossiers (concours sur dossiers)",
+     "is_eliminatory": true,
+     "duration_minutes": null,
+     "description_ar": "حسب سجل البحث الداخلي (نقلا عن أورينتيني) تمت مناظرة الـ294 خطة «بالملفات». تُرتَّب الملفات عادة حسب مقاييس معلنة في البلاغ (السن، الأقدمية في الحصول على الشهادة أو في البطالة، الوضعية الاجتماعية، المعدل...). المقاييس الدقيقة وأوزانها غير معروفة لدينا — للتثبت.",
+     "description_fr": "Selon le journal de recherche interne (relayant Orientini), le concours de 294 postes s'est déroulé « sur dossiers ». Les dossiers sont généralement classés selon des critères annoncés dans l'avis (âge, ancienneté du diplôme ou du chômage, situation sociale, moyenne...). Critères exacts et pondérations inconnus — à vérifier.",
+     "source_key": "s1",
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "order": 2,
+     "kind": "INTERVIEW",
+     "name_ar": "مقابلة انتقائية (مقترحة)",
+     "name_fr": "Entretien de sélection (suggéré)",
+     "is_eliminatory": true,
+     "duration_minutes": null,
+     "description_ar": "مقابلة مقترحة مع لجنة لتقييم الدافعية والسلوك والقدرة على التواصل ومعرفة خدمات البريد ومعرفة الجهة الجغرافية. وجودها في المناظرات بالملفات غير مؤكد.",
+     "description_fr": "Entretien suggéré avec un jury : motivation, comportement, communication, connaissance des services postaux et de la géographie locale. Son existence dans un concours sur dossiers n'est pas confirmée.",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "order": 3,
+     "kind": "MEDICAL",
+     "name_ar": "الفحص الطبي",
+     "name_fr": "Visite médicale d'aptitude",
+     "is_eliminatory": true,
+     "duration_minutes": null,
+     "description_ar": "فحص طبي للتأكد من القدرة البدنية على العمل الميداني (المشي، حمل الطرود، السياقة) — مقترح.",
+     "description_fr": "Visite médicale pour vérifier l'aptitude au travail de terrain (marche, port de colis, conduite) — suggéré.",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "order": 4,
+     "kind": "TRAINING",
+     "name_ar": "تكوين أولي وفترة تجربة",
+     "name_fr": "Formation initiale et période d'essai",
+     "is_eliminatory": false,
+     "duration_minutes": null,
+     "description_ar": "تكوين أولي على قواعد الفرز والتوزيع والمعاملات البريدية وسلامة المراسلات، ثم فترة تجربة قبل الترسيم — مقترح.",
+     "description_fr": "Formation initiale aux règles de tri, de distribution, aux opérations postales et à la sécurité du courrier, puis période d'essai avant titularisation — suggéré.",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    }
+   ],
+   "subjects": [
+    {
+     "phase_order": 2,
+     "domain": "CULTURE_GENERALE",
+     "specialty_key": null,
+     "name_ar": "معارف عامة ومعرفة البريد التونسي (للمقابلة)",
+     "name_fr": "Culture générale et connaissance de La Poste (entretien)",
+     "coefficient": null,
+     "duration_minutes": null,
+     "question_count": null,
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "phase_order": 2,
+     "domain": "SPECIALTY",
+     "specialty_key": "spec.poste-tunisienne.services-postaux",
+     "name_ar": "الخدمات البريدية: الفرز والتوزيع والرمز البريدي",
+     "name_fr": "Services postaux : tri, distribution, code postal",
+     "coefficient": null,
+     "duration_minutes": null,
+     "question_count": null,
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "phase_order": 2,
+     "domain": "SPECIALTY",
+     "specialty_key": "spec.poste-tunisienne.relation-client",
+     "name_ar": "الاستقبال والتعامل مع الحرفاء",
+     "name_fr": "Accueil et relation client",
+     "coefficient": null,
+     "duration_minutes": null,
+     "question_count": null,
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    }
+   ],
+   "physical_tests": [],
+   "required_documents": [
+    {
+     "text_ar": "استمارة الترشح المعمّرة عن بعد أو وصل التسجيل (نسخة مطبوعة وممضاة إن طُلبت)",
+     "text_fr": "Formulaire de candidature rempli en ligne ou accusé d'inscription (copie imprimée et signée si demandée)",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "text_ar": "نسخة من بطاقة التعريف الوطنية",
+     "text_fr": "Copie de la carte d'identité nationale (CIN)",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "text_ar": "نسخة من الشهادة العلمية أو شهادة في المستوى الدراسي (مع معادلة الشهادة إن كانت أجنبية)",
+     "text_fr": "Copie du diplôme ou de l'attestation de niveau scolaire (avec équivalence si diplôme étranger)",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "text_ar": "سيرة ذاتية مفصلة",
+     "text_fr": "Curriculum vitae détaillé",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "text_ar": "شهادة ترسيم بمكتب التشغيل (آنات) إن كانت الأقدمية في البطالة من مقاييس الانتقاء",
+     "text_fr": "Attestation d'inscription au bureau de l'emploi (ANETI), si l'ancienneté au chômage est un critère de présélection",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "text_ar": "بطاقة عدد 3 (السوابق العدلية) وشهادة طبية في القدرة البدنية — تُطلب عادة عند الانتداب النهائي",
+     "text_fr": "Bulletin n° 3 (casier judiciaire) et certificat médical d'aptitude — généralement exigés au moment du recrutement définitif",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "text_ar": "نسخة من رخصة السياقة (صنف دراجة نارية أو سيارة) إن اشترطها البلاغ لخطط التوزيع",
+     "text_fr": "Copie du permis de conduire (cyclomoteur/moto ou voiture) si l'avis l'exige pour les postes de distribution",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    }
+   ],
+   "blueprint": {
+    "total_minutes": 60,
+    "fidelity": "APPROXIMATED",
+    "sections": [
+     {
+      "domain": "ARABIC",
+      "specialty_key": null,
+      "count": 10,
+      "minutes": 10
+     },
+     {
+      "domain": "FRENCH",
+      "specialty_key": null,
+      "count": 10,
+      "minutes": 10
+     },
+     {
+      "domain": "NUMERICAL",
+      "specialty_key": null,
+      "count": 10,
+      "minutes": 12
+     },
+     {
+      "domain": "CULTURE_GENERALE",
+      "specialty_key": null,
+      "count": 10,
+      "minutes": 10
+     },
+     {
+      "domain": "SPECIALTY",
+      "specialty_key": "spec.poste-tunisienne.services-postaux",
+      "count": 10,
+      "minutes": 10
+     },
+     {
+      "domain": "PSYCHOTECH",
+      "specialty_key": null,
+      "count": 8,
+      "minutes": 8
+     }
+    ]
+   }
+  },
+  {
+   "slug": "agent-guichet",
+   "title_ar": "عون شباك / عون استغلال (الخدمات البريدية والمالية) — ملمح مقترح",
+   "title_fr": "Agent de guichet / agent d'exploitation (services postaux et financiers) — profil type",
+   "diploma_level": "BAC",
+   "eligibility": {
+    "min_age": 18,
+    "max_age": null,
+    "genders": [
+     "M",
+     "F"
+    ],
+    "nationality": "TN",
+    "diplomas": [
+     "BAC"
+    ],
+    "specialties": [],
+    "min_height_cm_male": null,
+    "min_height_cm_female": null,
+    "marital_status": null,
+    "other_ar": [
+     "ملمح مقترح بالكامل: لم نعثر على بلاغ يحدد هذه الرتبة. التسمية مستوحاة من النشاط الفعلي لمكاتب البريد (شبابيك، حوالات، ادخار، حسابات جارية بريدية) ومن التسميات القديمة لأسلاك البريد (عون استغلال، مراقب، متفقد) — للتثبت",
+     "المستوى المطلوب المفترض: شهادة الباكالوريا",
+     "الجنسية التونسية والتمتع بالحقوق المدنية ونقاوة السوابق العدلية: شروط مقترحة بالقياس على مناظرات المؤسسات العمومية — للتثبت من البلاغ",
+     "السن القصوى غير معروفة لدينا: تُترك فارغة عمدا حتى لا يُقصى أي مترشح خطأً من التنبيهات (كثير من المؤسسات العمومية تحددها بين 35 و40 سنة — للتثبت)",
+     "التسجيل يكون عادة عن بعد عبر منصة أو موقع البريد التونسي (www.poste.tn) — العنوان الدقيق للمنصة غير مؤكد"
+    ],
+    "other_fr": [
+     "Profil entièrement suggéré : aucun avis trouvé pour ce grade. L'intitulé s'inspire de l'activité réelle des bureaux de poste (guichets, mandats, épargne, CCP) et de l'ancienne nomenclature des corps postaux (agent d'exploitation, contrôleur, inspecteur) — à vérifier",
+     "Niveau supposé : baccalauréat",
+     "Nationalité tunisienne, jouissance des droits civiques et casier judiciaire vierge : conditions suggérées par analogie avec les concours des entreprises publiques — à vérifier sur l'avis",
+     "Âge maximum inconnu : laissé vide volontairement pour ne pas exclure à tort des candidats des alertes (souvent 35 à 40 ans dans les entreprises publiques — à vérifier)",
+     "Inscription généralement en ligne via le site ou une plateforme de La Poste Tunisienne (www.poste.tn) — adresse exacte de la plateforme non confirmée"
+    ],
+    "source_key": null,
+    "confidence": "LOW",
+    "needs_verification": true,
+    "source_quote": null
+   },
+   "phases": [
+    {
+     "order": 1,
+     "kind": "FILE_REVIEW",
+     "name_ar": "التسجيل والانتقاء الأولي بالملفات",
+     "name_fr": "Inscription et présélection sur dossier",
+     "is_eliminatory": true,
+     "duration_minutes": null,
+     "description_ar": "تسجيل عن بعد ثم انتقاء أولي حسب مقاييس البلاغ (السن، المعدل، سنة الحصول على الشهادة...) — مقترح.",
+     "description_fr": "Inscription en ligne puis présélection selon les critères de l'avis (âge, moyenne, année d'obtention du diplôme...) — suggéré.",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "order": 2,
+     "kind": "WRITTEN",
+     "name_ar": "الاختبار الكتابي",
+     "name_fr": "Épreuve écrite",
+     "is_eliminatory": true,
+     "duration_minutes": null,
+     "description_ar": "اختبار كتابي مقترح (أسئلة متعددة الاختيارات أو أسئلة قصيرة) في اللغتين العربية والفرنسية والحساب التجاري والثقافة العامة ومعرفة الخدمات البريدية والمالية. المواد والضوارب والمدة غير منشورة لدينا.",
+     "description_fr": "Épreuve écrite suggérée (QCM ou questions courtes) : arabe, français, calcul commercial, culture générale, connaissance des services postaux et financiers. Matières, coefficients et durée non publiés chez nous.",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "order": 3,
+     "kind": "ORAL",
+     "name_ar": "الاختبار الشفاهي / المقابلة",
+     "name_fr": "Épreuve orale / entretien",
+     "is_eliminatory": true,
+     "duration_minutes": null,
+     "description_ar": "مقابلة مع لجنة لتقييم التواصل وحسن الاستقبال وسرعة البديهة ومعرفة المؤسسة — مقترح.",
+     "description_fr": "Entretien avec un jury : communication, sens de l'accueil, vivacité, connaissance de l'entreprise — suggéré.",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "order": 4,
+     "kind": "MEDICAL",
+     "name_ar": "الفحص الطبي",
+     "name_fr": "Visite médicale d'aptitude",
+     "is_eliminatory": true,
+     "duration_minutes": null,
+     "description_ar": "فحص طبي قبل الانتداب — مقترح.",
+     "description_fr": "Visite médicale avant recrutement — suggéré.",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "order": 5,
+     "kind": "TRAINING",
+     "name_ar": "تكوين على عمليات الشباك وفترة تجربة",
+     "name_fr": "Formation aux opérations de guichet et période d'essai",
+     "is_eliminatory": false,
+     "duration_minutes": null,
+     "description_ar": "تكوين على المنظومات المعلوماتية للشبابيك وعمليات الصندوق والحوالات والادخار وقواعد اليقظة (مكافحة غسل الأموال) — مقترح.",
+     "description_fr": "Formation aux applications de guichet, opérations de caisse, mandats, épargne et règles de vigilance (lutte contre le blanchiment) — suggéré.",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    }
+   ],
+   "subjects": [
+    {
+     "phase_order": 2,
+     "domain": "ARABIC",
+     "specialty_key": null,
+     "name_ar": "اللغة العربية",
+     "name_fr": "Langue arabe",
+     "coefficient": null,
+     "duration_minutes": null,
+     "question_count": null,
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "phase_order": 2,
+     "domain": "FRENCH",
+     "specialty_key": null,
+     "name_ar": "اللغة الفرنسية",
+     "name_fr": "Langue française",
+     "coefficient": null,
+     "duration_minutes": null,
+     "question_count": null,
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "phase_order": 2,
+     "domain": "NUMERICAL",
+     "specialty_key": null,
+     "name_ar": "الحساب التجاري (نسب مائوية، فوائد، صرف، معاملات الصندوق)",
+     "name_fr": "Calcul commercial (pourcentages, intérêts, change, opérations de caisse)",
+     "coefficient": null,
+     "duration_minutes": null,
+     "question_count": null,
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "phase_order": 2,
+     "domain": "CULTURE_GENERALE",
+     "specialty_key": null,
+     "name_ar": "الثقافة العامة",
+     "name_fr": "Culture générale",
+     "coefficient": null,
+     "duration_minutes": null,
+     "question_count": null,
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "phase_order": 2,
+     "domain": "LOGIC",
+     "specialty_key": null,
+     "name_ar": "المنطق والقدرات الذهنية",
+     "name_fr": "Logique et aptitudes",
+     "coefficient": null,
+     "duration_minutes": null,
+     "question_count": null,
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "phase_order": 2,
+     "domain": "SPECIALTY",
+     "specialty_key": "spec.poste-tunisienne.services-financiers",
+     "name_ar": "الخدمات المالية البريدية",
+     "name_fr": "Services financiers postaux",
+     "coefficient": null,
+     "duration_minutes": null,
+     "question_count": null,
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "phase_order": 2,
+     "domain": "SPECIALTY",
+     "specialty_key": "spec.poste-tunisienne.services-postaux",
+     "name_ar": "الخدمات البريدية",
+     "name_fr": "Services postaux",
+     "coefficient": null,
+     "duration_minutes": null,
+     "question_count": null,
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "phase_order": 3,
+     "domain": "SPECIALTY",
+     "specialty_key": "spec.poste-tunisienne.relation-client",
+     "name_ar": "الاستقبال والتعامل مع الحرفاء (شفاهي)",
+     "name_fr": "Accueil et relation client (oral)",
+     "coefficient": null,
+     "duration_minutes": null,
+     "question_count": null,
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    }
+   ],
+   "physical_tests": [],
+   "required_documents": [
+    {
+     "text_ar": "استمارة الترشح المعمّرة عن بعد أو وصل التسجيل (نسخة مطبوعة وممضاة إن طُلبت)",
+     "text_fr": "Formulaire de candidature rempli en ligne ou accusé d'inscription (copie imprimée et signée si demandée)",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "text_ar": "نسخة من بطاقة التعريف الوطنية",
+     "text_fr": "Copie de la carte d'identité nationale (CIN)",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "text_ar": "نسخة من الشهادة العلمية أو شهادة في المستوى الدراسي (مع معادلة الشهادة إن كانت أجنبية)",
+     "text_fr": "Copie du diplôme ou de l'attestation de niveau scolaire (avec équivalence si diplôme étranger)",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "text_ar": "سيرة ذاتية مفصلة",
+     "text_fr": "Curriculum vitae détaillé",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "text_ar": "شهادة ترسيم بمكتب التشغيل (آنات) إن كانت الأقدمية في البطالة من مقاييس الانتقاء",
+     "text_fr": "Attestation d'inscription au bureau de l'emploi (ANETI), si l'ancienneté au chômage est un critère de présélection",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "text_ar": "بطاقة عدد 3 (السوابق العدلية) وشهادة طبية في القدرة البدنية — تُطلب عادة عند الانتداب النهائي",
+     "text_fr": "Bulletin n° 3 (casier judiciaire) et certificat médical d'aptitude — généralement exigés au moment du recrutement définitif",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    }
+   ],
+   "blueprint": {
+    "total_minutes": 120,
+    "fidelity": "APPROXIMATED",
+    "sections": [
+     {
+      "domain": "ARABIC",
+      "specialty_key": null,
+      "count": 15,
+      "minutes": 20
+     },
+     {
+      "domain": "FRENCH",
+      "specialty_key": null,
+      "count": 15,
+      "minutes": 20
+     },
+     {
+      "domain": "NUMERICAL",
+      "specialty_key": null,
+      "count": 15,
+      "minutes": 25
+     },
+     {
+      "domain": "CULTURE_GENERALE",
+      "specialty_key": null,
+      "count": 15,
+      "minutes": 15
+     },
+     {
+      "domain": "LOGIC",
+      "specialty_key": null,
+      "count": 10,
+      "minutes": 15
+     },
+     {
+      "domain": "SPECIALTY",
+      "specialty_key": "spec.poste-tunisienne.services-financiers",
+      "count": 15,
+      "minutes": 20
+     },
+     {
+      "domain": "SPECIALTY",
+      "specialty_key": "spec.poste-tunisienne.services-postaux",
+      "count": 5,
+      "minutes": 5
+     }
+    ]
+   }
+  },
+  {
+   "slug": "administrateur",
+   "title_ar": "متصرف",
+   "title_fr": "Administrateur",
+   "diploma_level": "LICENCE",
+   "eligibility": {
+    "min_age": 18,
+    "max_age": null,
+    "genders": [
+     "M",
+     "F"
+    ],
+    "nationality": "TN",
+    "diplomas": [
+     "LICENCE"
+    ],
+    "specialties": [],
+    "min_height_cm_male": null,
+    "min_height_cm_female": null,
+    "marital_status": null,
+    "other_ar": [
+     "حسب سجل البحث الداخلي (نقلا عن أورينتيني) شمل إعلان البريد التونسي أيضا انتداب «متصرفين»؛ العدد والاختصاصات وطريقة المناظرة غير معروفة لدينا — للتثبت",
+     "المستوى المفترض: الإجازة (رتبة المتصرف في الوظيفة العمومية تُفتح عادة لحاملي الإجازة أو ما يعادلها) — قد يُحدد البلاغ اختصاصات (تصرف، اقتصاد، مالية، محاسبة، قانون)",
+     "الجنسية التونسية والتمتع بالحقوق المدنية ونقاوة السوابق العدلية: شروط مقترحة بالقياس على مناظرات المؤسسات العمومية — للتثبت من البلاغ",
+     "السن القصوى غير معروفة لدينا: تُترك فارغة عمدا حتى لا يُقصى أي مترشح خطأً من التنبيهات (كثير من المؤسسات العمومية تحددها بين 35 و40 سنة — للتثبت)",
+     "التسجيل يكون عادة عن بعد عبر منصة أو موقع البريد التونسي (www.poste.tn) — العنوان الدقيق للمنصة غير مؤكد"
+    ],
+    "other_fr": [
+     "Selon le journal de recherche interne (relayant Orientini), l'annonce de La Poste Tunisienne portait aussi sur le recrutement d'« administrateurs » ; nombre, spécialités et mode du concours inconnus — à vérifier",
+     "Niveau supposé : licence (le grade d'administrateur est en général ouvert aux titulaires d'une licence ou équivalent) — l'avis peut préciser des spécialités (gestion, économie, finance, comptabilité, droit)",
+     "Nationalité tunisienne, jouissance des droits civiques et casier judiciaire vierge : conditions suggérées par analogie avec les concours des entreprises publiques — à vérifier sur l'avis",
+     "Âge maximum inconnu : laissé vide volontairement pour ne pas exclure à tort des candidats des alertes (souvent 35 à 40 ans dans les entreprises publiques — à vérifier)",
+     "Inscription généralement en ligne via le site ou une plateforme de La Poste Tunisienne (www.poste.tn) — adresse exacte de la plateforme non confirmée"
+    ],
+    "source_key": "s1",
+    "confidence": "LOW",
+    "needs_verification": true,
+    "source_quote": null
+   },
+   "phases": [
+    {
+     "order": 1,
+     "kind": "FILE_REVIEW",
+     "name_ar": "التسجيل والانتقاء الأولي بالملفات",
+     "name_fr": "Inscription et présélection sur dossier",
+     "is_eliminatory": true,
+     "duration_minutes": null,
+     "description_ar": "تسجيل عن بعد وانتقاء أولي حسب الاختصاص والمعدل وسنة التخرج — مقترح.",
+     "description_fr": "Inscription en ligne et présélection selon la spécialité, la moyenne et l'année d'obtention du diplôme — suggéré.",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "order": 2,
+     "kind": "WRITTEN",
+     "name_ar": "الاختبارات الكتابية",
+     "name_fr": "Épreuves écrites",
+     "is_eliminatory": true,
+     "duration_minutes": null,
+     "description_ar": "اختبارات مقترحة: ثقافة عامة (موضوع إنشائي أو أسئلة متعددة الاختيارات)، اختبار اختصاص (تصرف/اقتصاد/قانون إداري)، تحرير إداري ولغة فرنسية. المواد والضوارب والمدة غير منشورة لدينا.",
+     "description_fr": "Épreuves suggérées : culture générale (dissertation ou QCM), épreuve de spécialité (gestion / économie / droit administratif), rédaction administrative et français. Matières, coefficients et durées non publiés chez nous.",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "order": 3,
+     "kind": "ORAL",
+     "name_ar": "الاختبار الشفاهي",
+     "name_fr": "Épreuve orale",
+     "is_eliminatory": true,
+     "duration_minutes": null,
+     "description_ar": "محادثة مع لجنة حول الاختصاص ومعرفة البريد التونسي ورهاناته (الرقمنة، الشمول المالي، التجارة الإلكترونية) — مقترح.",
+     "description_fr": "Entretien avec un jury sur la spécialité et la connaissance de La Poste et de ses enjeux (digitalisation, inclusion financière, e-commerce) — suggéré.",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "order": 4,
+     "kind": "TRAINING",
+     "name_ar": "تربص أو فترة تجربة",
+     "name_fr": "Stage ou période d'essai",
+     "is_eliminatory": false,
+     "duration_minutes": null,
+     "description_ar": "فترة تجربة قبل الترسيم حسب النظام الأساسي لأعوان المؤسسة — مقترح.",
+     "description_fr": "Période d'essai avant titularisation selon le statut du personnel de l'entreprise — suggéré.",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    }
+   ],
+   "subjects": [
+    {
+     "phase_order": 2,
+     "domain": "CULTURE_GENERALE",
+     "specialty_key": null,
+     "name_ar": "الثقافة العامة",
+     "name_fr": "Culture générale",
+     "coefficient": null,
+     "duration_minutes": null,
+     "question_count": null,
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "phase_order": 2,
+     "domain": "SPECIALTY",
+     "specialty_key": "spec.droit-administratif",
+     "name_ar": "القانون الإداري والمؤسسات العمومية",
+     "name_fr": "Droit administratif et établissements publics",
+     "coefficient": null,
+     "duration_minutes": null,
+     "question_count": null,
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "phase_order": 2,
+     "domain": "SPECIALTY",
+     "specialty_key": "spec.banque-gestion",
+     "name_ar": "الاقتصاد والتصرف والمحاسبة",
+     "name_fr": "Économie, gestion et comptabilité",
+     "coefficient": null,
+     "duration_minutes": null,
+     "question_count": null,
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "phase_order": 2,
+     "domain": "SPECIALTY",
+     "specialty_key": "spec.redaction-administrative",
+     "name_ar": "التحرير الإداري",
+     "name_fr": "Rédaction administrative",
+     "coefficient": null,
+     "duration_minutes": null,
+     "question_count": null,
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "phase_order": 2,
+     "domain": "FRENCH",
+     "specialty_key": null,
+     "name_ar": "اللغة الفرنسية",
+     "name_fr": "Langue française",
+     "coefficient": null,
+     "duration_minutes": null,
+     "question_count": null,
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "phase_order": 2,
+     "domain": "ENGLISH",
+     "specialty_key": null,
+     "name_ar": "اللغة الإنجليزية",
+     "name_fr": "Langue anglaise",
+     "coefficient": null,
+     "duration_minutes": null,
+     "question_count": null,
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "phase_order": 3,
+     "domain": "SPECIALTY",
+     "specialty_key": "spec.poste-tunisienne.institution",
+     "name_ar": "البريد التونسي: الوضع القانوني والمهام والرهانات (شفاهي)",
+     "name_fr": "La Poste Tunisienne : statut, missions et enjeux (oral)",
+     "coefficient": null,
+     "duration_minutes": null,
+     "question_count": null,
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    }
+   ],
+   "physical_tests": [],
+   "required_documents": [
+    {
+     "text_ar": "استمارة الترشح المعمّرة عن بعد أو وصل التسجيل (نسخة مطبوعة وممضاة إن طُلبت)",
+     "text_fr": "Formulaire de candidature rempli en ligne ou accusé d'inscription (copie imprimée et signée si demandée)",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "text_ar": "نسخة من بطاقة التعريف الوطنية",
+     "text_fr": "Copie de la carte d'identité nationale (CIN)",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "text_ar": "نسخة من الشهادة العلمية أو شهادة في المستوى الدراسي (مع معادلة الشهادة إن كانت أجنبية)",
+     "text_fr": "Copie du diplôme ou de l'attestation de niveau scolaire (avec équivalence si diplôme étranger)",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "text_ar": "سيرة ذاتية مفصلة",
+     "text_fr": "Curriculum vitae détaillé",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "text_ar": "شهادة ترسيم بمكتب التشغيل (آنات) إن كانت الأقدمية في البطالة من مقاييس الانتقاء",
+     "text_fr": "Attestation d'inscription au bureau de l'emploi (ANETI), si l'ancienneté au chômage est un critère de présélection",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "text_ar": "بطاقة عدد 3 (السوابق العدلية) وشهادة طبية في القدرة البدنية — تُطلب عادة عند الانتداب النهائي",
+     "text_fr": "Bulletin n° 3 (casier judiciaire) et certificat médical d'aptitude — généralement exigés au moment du recrutement définitif",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "text_ar": "كشوف الأعداد لكامل سنوات الدراسة الجامعية (إن كان معدل الشهادة من مقاييس الانتقاء)",
+     "text_fr": "Relevés de notes de toutes les années universitaires (si la moyenne du diplôme sert à la présélection)",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    }
+   ],
+   "blueprint": {
+    "total_minutes": 180,
+    "fidelity": "APPROXIMATED",
+    "sections": [
+     {
+      "domain": "CULTURE_GENERALE",
+      "specialty_key": null,
+      "count": 20,
+      "minutes": 30
+     },
+     {
+      "domain": "SPECIALTY",
+      "specialty_key": "spec.droit-administratif",
+      "count": 20,
+      "minutes": 30
+     },
+     {
+      "domain": "SPECIALTY",
+      "specialty_key": "spec.banque-gestion",
+      "count": 20,
+      "minutes": 30
+     },
+     {
+      "domain": "SPECIALTY",
+      "specialty_key": "spec.redaction-administrative",
+      "count": 10,
+      "minutes": 30
+     },
+     {
+      "domain": "FRENCH",
+      "specialty_key": null,
+      "count": 15,
+      "minutes": 20
+     },
+     {
+      "domain": "ENGLISH",
+      "specialty_key": null,
+      "count": 10,
+      "minutes": 15
+     },
+     {
+      "domain": "SPECIALTY",
+      "specialty_key": "spec.poste-tunisienne.institution",
+      "count": 15,
+      "minutes": 25
+     }
+    ]
+   }
+  },
+  {
+   "slug": "ingenieur-informatique",
+   "title_ar": "مهندس / إطار في الإعلامية والتطبيقات الرقمية — ملمح مقترح",
+   "title_fr": "Ingénieur / cadre informaticien (systèmes et services numériques) — profil type",
+   "diploma_level": "ENGINEER",
+   "eligibility": {
+    "min_age": 18,
+    "max_age": null,
+    "genders": [
+     "M",
+     "F"
+    ],
+    "nationality": "TN",
+    "diplomas": [
+     "ENGINEER"
+    ],
+    "specialties": [
+     "informatique",
+     "génie logiciel",
+     "réseaux",
+     "télécommunications",
+     "sécurité informatique",
+     "إعلامية",
+     "اتصالات"
+    ],
+    "min_height_cm_male": null,
+    "min_height_cm_female": null,
+    "marital_status": null,
+    "other_ar": [
+     "ملمح مقترح بالكامل: لم نعثر على بلاغ لانتداب مهندسين بالبريد التونسي في الفترة 2023-2026. أُدرج لأن المؤسسة تطوّر خدمات رقمية (بطاقات إلكترونية، دفع عبر الهاتف، منصات) — للتثبت",
+     "المستوى المفترض: شهادة مهندس أو ماجستير في الإعلامية أو الاتصالات",
+     "الجنسية التونسية والتمتع بالحقوق المدنية ونقاوة السوابق العدلية: شروط مقترحة بالقياس على مناظرات المؤسسات العمومية — للتثبت من البلاغ",
+     "السن القصوى غير معروفة لدينا: تُترك فارغة عمدا حتى لا يُقصى أي مترشح خطأً من التنبيهات (كثير من المؤسسات العمومية تحددها بين 35 و40 سنة — للتثبت)",
+     "التسجيل يكون عادة عن بعد عبر منصة أو موقع البريد التونسي (www.poste.tn) — العنوان الدقيق للمنصة غير مؤكد"
+    ],
+    "other_fr": [
+     "Profil entièrement suggéré : aucun avis de recrutement d'ingénieurs à La Poste Tunisienne trouvé pour 2023-2026. Inclus car l'entreprise développe des services numériques (cartes électroniques, paiement mobile, plateformes) — à vérifier",
+     "Niveau supposé : diplôme d'ingénieur ou mastère en informatique ou télécommunications",
+     "Nationalité tunisienne, jouissance des droits civiques et casier judiciaire vierge : conditions suggérées par analogie avec les concours des entreprises publiques — à vérifier sur l'avis",
+     "Âge maximum inconnu : laissé vide volontairement pour ne pas exclure à tort des candidats des alertes (souvent 35 à 40 ans dans les entreprises publiques — à vérifier)",
+     "Inscription généralement en ligne via le site ou une plateforme de La Poste Tunisienne (www.poste.tn) — adresse exacte de la plateforme non confirmée"
+    ],
+    "source_key": null,
+    "confidence": "LOW",
+    "needs_verification": true,
+    "source_quote": null
+   },
+   "phases": [
+    {
+     "order": 1,
+     "kind": "FILE_REVIEW",
+     "name_ar": "التسجيل والانتقاء الأولي بالملفات",
+     "name_fr": "Inscription et présélection sur dossier",
+     "is_eliminatory": true,
+     "duration_minutes": null,
+     "description_ar": "انتقاء أولي حسب الاختصاص والمؤسسة الجامعية والمعدل — مقترح.",
+     "description_fr": "Présélection selon la spécialité, l'établissement et la moyenne — suggéré.",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "order": 2,
+     "kind": "WRITTEN",
+     "name_ar": "الاختبار الكتابي في الاختصاص",
+     "name_fr": "Épreuve écrite de spécialité",
+     "is_eliminatory": true,
+     "duration_minutes": null,
+     "description_ar": "اختبار مقترح في الخوارزميات وقواعد البيانات والشبكات والسلامة المعلوماتية، مع أسئلة منطق ولغة إنجليزية تقنية.",
+     "description_fr": "Épreuve suggérée : algorithmique, bases de données, réseaux, sécurité informatique, avec logique et anglais technique.",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "order": 3,
+     "kind": "ORAL",
+     "name_ar": "المقابلة التقنية",
+     "name_fr": "Entretien technique",
+     "is_eliminatory": true,
+     "duration_minutes": null,
+     "description_ar": "مقابلة حول المشاريع السابقة ومعرفة الخدمات الرقمية للبريد — مقترح.",
+     "description_fr": "Entretien sur les projets antérieurs et la connaissance des services numériques de La Poste — suggéré.",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "order": 4,
+     "kind": "TRAINING",
+     "name_ar": "فترة تجربة",
+     "name_fr": "Période d'essai",
+     "is_eliminatory": false,
+     "duration_minutes": null,
+     "description_ar": "فترة تجربة قبل الترسيم — مقترح.",
+     "description_fr": "Période d'essai avant titularisation — suggéré.",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    }
+   ],
+   "subjects": [
+    {
+     "phase_order": 2,
+     "domain": "SPECIALTY",
+     "specialty_key": "spec.informatique",
+     "name_ar": "الإعلامية (خوارزميات، قواعد بيانات، شبكات، سلامة)",
+     "name_fr": "Informatique (algorithmique, bases de données, réseaux, sécurité)",
+     "coefficient": null,
+     "duration_minutes": null,
+     "question_count": null,
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "phase_order": 2,
+     "domain": "LOGIC",
+     "specialty_key": null,
+     "name_ar": "المنطق",
+     "name_fr": "Logique",
+     "coefficient": null,
+     "duration_minutes": null,
+     "question_count": null,
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "phase_order": 2,
+     "domain": "ENGLISH",
+     "specialty_key": null,
+     "name_ar": "اللغة الإنجليزية التقنية",
+     "name_fr": "Anglais technique",
+     "coefficient": null,
+     "duration_minutes": null,
+     "question_count": null,
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "phase_order": 2,
+     "domain": "FRENCH",
+     "specialty_key": null,
+     "name_ar": "اللغة الفرنسية",
+     "name_fr": "Langue française",
+     "coefficient": null,
+     "duration_minutes": null,
+     "question_count": null,
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "phase_order": 3,
+     "domain": "SPECIALTY",
+     "specialty_key": "spec.poste-tunisienne.services-financiers",
+     "name_ar": "الخدمات المالية والرقمية للبريد (شفاهي)",
+     "name_fr": "Services financiers et numériques de La Poste (oral)",
+     "coefficient": null,
+     "duration_minutes": null,
+     "question_count": null,
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    }
+   ],
+   "physical_tests": [],
+   "required_documents": [
+    {
+     "text_ar": "استمارة الترشح المعمّرة عن بعد أو وصل التسجيل (نسخة مطبوعة وممضاة إن طُلبت)",
+     "text_fr": "Formulaire de candidature rempli en ligne ou accusé d'inscription (copie imprimée et signée si demandée)",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "text_ar": "نسخة من بطاقة التعريف الوطنية",
+     "text_fr": "Copie de la carte d'identité nationale (CIN)",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "text_ar": "نسخة من الشهادة العلمية أو شهادة في المستوى الدراسي (مع معادلة الشهادة إن كانت أجنبية)",
+     "text_fr": "Copie du diplôme ou de l'attestation de niveau scolaire (avec équivalence si diplôme étranger)",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "text_ar": "سيرة ذاتية مفصلة",
+     "text_fr": "Curriculum vitae détaillé",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "text_ar": "شهادة ترسيم بمكتب التشغيل (آنات) إن كانت الأقدمية في البطالة من مقاييس الانتقاء",
+     "text_fr": "Attestation d'inscription au bureau de l'emploi (ANETI), si l'ancienneté au chômage est un critère de présélection",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "text_ar": "بطاقة عدد 3 (السوابق العدلية) وشهادة طبية في القدرة البدنية — تُطلب عادة عند الانتداب النهائي",
+     "text_fr": "Bulletin n° 3 (casier judiciaire) et certificat médical d'aptitude — généralement exigés au moment du recrutement définitif",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    }
+   ],
+   "blueprint": {
+    "total_minutes": 150,
+    "fidelity": "APPROXIMATED",
+    "sections": [
+     {
+      "domain": "SPECIALTY",
+      "specialty_key": "spec.informatique",
+      "count": 40,
+      "minutes": 70
+     },
+     {
+      "domain": "LOGIC",
+      "specialty_key": null,
+      "count": 15,
+      "minutes": 25
+     },
+     {
+      "domain": "ENGLISH",
+      "specialty_key": null,
+      "count": 15,
+      "minutes": 20
+     },
+     {
+      "domain": "FRENCH",
+      "specialty_key": null,
+      "count": 10,
+      "minutes": 15
+     },
+     {
+      "domain": "CULTURE_GENERALE",
+      "specialty_key": null,
+      "count": 10,
+      "minutes": 10
+     },
+     {
+      "domain": "SPECIALTY",
+      "specialty_key": "spec.poste-tunisienne.services-financiers",
+      "count": 5,
+      "minutes": 10
+     }
+    ]
+   }
+  }
+ ],
+ "specialty_syllabus": [
+  {
+   "key": "spec.poste-tunisienne.institution",
+   "parent_key": null,
+   "level": "UNIT",
+   "title_ar": "البريد التونسي: الوضع القانوني والمهام والمحيط",
+   "title_fr": "La Poste Tunisienne : statut, missions et environnement",
+   "scope": "SUGGESTED",
+   "source_key": null,
+   "objectives": [
+    {
+     "key": "spec.poste-tunisienne.institution.o1",
+     "text_ar": "التعرف على الصبغة القانونية للبريد التونسي (الديوان الوطني للبريد، مؤسسة عمومية ذات صبغة صناعية وتجارية) وسلطة الإشراف (الوزارة المكلفة بتكنولوجيات الاتصال) — معطيات للتثبت",
+     "text_fr": "Connaître le statut de La Poste Tunisienne (Office National des Postes, établissement public à caractère industriel et commercial) et sa tutelle (ministère chargé des technologies de la communication) — à vérifier"
+    },
+    {
+     "key": "spec.poste-tunisienne.institution.o2",
+     "text_ar": "معرفة المهام الثلاث الكبرى: الخدمة البريدية الشاملة، الخدمات المالية البريدية، الخدمات الرقمية والتجارة الإلكترونية",
+     "text_fr": "Connaître les trois grandes missions : service postal universel, services financiers postaux, services numériques et e-commerce"
+    },
+    {
+     "key": "spec.poste-tunisienne.institution.o3",
+     "text_ar": "فهم المبادئ الأساسية لمجلة البريد (1998، المرجع الدقيق للتثبت): الخدمة الشاملة، سرية المراسلات، المسؤولية عن المراسلات المضمونة",
+     "text_fr": "Comprendre les principes du Code de la poste (1998, référence exacte à vérifier) : service universel, secret de la correspondance, responsabilité sur les envois recommandés"
+    },
+    {
+     "key": "spec.poste-tunisienne.institution.o4",
+     "text_ar": "التعرف على الاتحاد البريدي العالمي (تأسس سنة 1874، مقره برن، وكالة متخصصة تابعة للأمم المتحدة) ودوره في تنظيم البريد الدولي",
+     "text_fr": "Connaître l'Union postale universelle (fondée en 1874, siège à Berne, institution spécialisée de l'ONU) et son rôle dans le courrier international"
+    },
+    {
+     "key": "spec.poste-tunisienne.institution.o5",
+     "text_ar": "الإلمام برهانات القطاع: رقمنة الخدمات، نمو الطرود بفعل التجارة الإلكترونية، الشمول المالي، المنافسة مع البنوك وشركات التوزيع السريع",
+     "text_fr": "Maîtriser les enjeux du secteur : digitalisation, croissance des colis liée à l'e-commerce, inclusion financière, concurrence des banques et des sociétés de messagerie express"
+    }
+   ]
+  },
+  {
+   "key": "spec.poste-tunisienne.services-postaux",
+   "parent_key": null,
+   "level": "UNIT",
+   "title_ar": "الخدمات البريدية: المراسلات والطرود والتوزيع",
+   "title_fr": "Services postaux : courrier, colis et distribution",
+   "scope": "SUGGESTED",
+   "source_key": null,
+   "objectives": [
+    {
+     "key": "spec.poste-tunisienne.services-postaux.o1",
+     "text_ar": "التمييز بين أصناف المراسلات: الرسالة العادية، المضمونة، المضمونة مع وصل بالاستلام، الطرد، البريد السريع (Rapid-Poste / EMS)",
+     "text_fr": "Distinguer les catégories d'envois : lettre ordinaire, recommandé, recommandé avec accusé de réception, colis, courrier express (Rapid-Poste / EMS)"
+    },
+    {
+     "key": "spec.poste-tunisienne.services-postaux.o2",
+     "text_ar": "معرفة كتابة العنوان الصحيح والرمز البريدي التونسي (4 أرقام) وأهميته في الفرز",
+     "text_fr": "Savoir rédiger une adresse correcte et utiliser le code postal tunisien (4 chiffres) et son rôle dans le tri"
+    },
+    {
+     "key": "spec.poste-tunisienne.services-postaux.o3",
+     "text_ar": "فهم سلسلة معالجة البريد: القبول، الجمع، الفرز، النقل، التوزيع، وإرجاع المراسلات غير الموزعة",
+     "text_fr": "Comprendre la chaîne de traitement : dépôt, collecte, tri, acheminement, distribution et retour des envois non distribués"
+    },
+    {
+     "key": "spec.poste-tunisienne.services-postaux.o4",
+     "text_ar": "معرفة قواعد السلامة: المواد الممنوعة في الإرسال، سرية المراسلات، حفظ الطرود، التثبت من هوية المستلم",
+     "text_fr": "Connaître les règles de sécurité : objets interdits, secret de la correspondance, garde des colis, vérification de l'identité du destinataire"
+    },
+    {
+     "key": "spec.poste-tunisienne.services-postaux.o5",
+     "text_ar": "حساب تعريفة إرسال حسب الوزن والوجهة باستعمال جدول تعريفات (تمرين حسابي)",
+     "text_fr": "Calculer le tarif d'un envoi selon le poids et la destination à partir d'une grille tarifaire (exercice de calcul)"
+    }
+   ]
+  },
+  {
+   "key": "spec.poste-tunisienne.services-financiers",
+   "parent_key": null,
+   "level": "UNIT",
+   "title_ar": "الخدمات المالية البريدية والدفع الإلكتروني",
+   "title_fr": "Services financiers postaux et paiement électronique",
+   "scope": "SUGGESTED",
+   "source_key": null,
+   "objectives": [
+    {
+     "key": "spec.poste-tunisienne.services-financiers.o1",
+     "text_ar": "معرفة الحساب الجاري البريدي (CCP) وعملياته: الإيداع، السحب، التحويل، الصك البريدي",
+     "text_fr": "Connaître le compte courant postal (CCP) et ses opérations : versement, retrait, virement, chèque postal"
+    },
+    {
+     "key": "spec.poste-tunisienne.services-financiers.o2",
+     "text_ar": "معرفة الادخار البريدي عبر الصندوق القومي للادخار التونسي وحساب الفائدة البسيطة",
+     "text_fr": "Connaître l'épargne postale via la Caisse d'Épargne Nationale Tunisienne (CENT) et calculer un intérêt simple"
+    },
+    {
+     "key": "spec.poste-tunisienne.services-financiers.o3",
+     "text_ar": "التمييز بين أنواع الحوالات البريدية (العادية، الفورية) والتحويلات المالية الدولية",
+     "text_fr": "Distinguer les types de mandats (ordinaire, minute) et les transferts d'argent internationaux"
+    },
+    {
+     "key": "spec.poste-tunisienne.services-financiers.o4",
+     "text_ar": "التعرف على وسائل الدفع الإلكتروني للبريد (بطاقات e-Dinar، الدفع عبر الهاتف الجوال) وخلاص الفواتير والجرايات — أسماء المنتجات للتثبت",
+     "text_fr": "Connaître les moyens de paiement électronique de La Poste (cartes e-Dinar, paiement mobile) et le paiement des factures et pensions — noms des produits à vérifier"
+    },
+    {
+     "key": "spec.poste-tunisienne.services-financiers.o5",
+     "text_ar": "معرفة قواعد الصندوق والوقاية: عدّ الأوراق النقدية، كشف الأوراق المزيفة، واجب اليقظة والتعرف على الحريف في إطار مكافحة غسل الأموال",
+     "text_fr": "Connaître les règles de caisse et de prévention : comptage, détection des faux billets, devoir de vigilance et identification du client (lutte contre le blanchiment)"
+    }
+   ]
+  },
+  {
+   "key": "spec.poste-tunisienne.relation-client",
+   "parent_key": null,
+   "level": "UNIT",
+   "title_ar": "الاستقبال والتعامل مع الحرفاء وجودة الخدمة",
+   "title_fr": "Accueil, relation client et qualité de service",
+   "scope": "SUGGESTED",
+   "source_key": null,
+   "objectives": [
+    {
+     "key": "spec.poste-tunisienne.relation-client.o1",
+     "text_ar": "تطبيق قواعد الاستقبال الجيد بالشباك: التحية، الإصغاء، الوضوح، احترام الدور",
+     "text_fr": "Appliquer les règles d'un bon accueil au guichet : salutation, écoute, clarté, respect de l'ordre de passage"
+    },
+    {
+     "key": "spec.poste-tunisienne.relation-client.o2",
+     "text_ar": "التعامل مع الحريف الغاضب ومعالجة الشكاوى والتشكيات",
+     "text_fr": "Gérer un client mécontent et traiter une réclamation"
+    },
+    {
+     "key": "spec.poste-tunisienne.relation-client.o3",
+     "text_ar": "احترام أخلاقيات المهنة: السر المهني، النزاهة، المساواة في المعاملة، الأولوية للأشخاص ذوي الإعاقة والمسنين",
+     "text_fr": "Respecter la déontologie : secret professionnel, intégrité, égalité de traitement, priorité aux personnes handicapées et âgées"
+    },
+    {
+     "key": "spec.poste-tunisienne.relation-client.o4",
+     "text_ar": "التعريف بالخدمات الرقمية للبريد وتوجيه الحريف نحو القناة المناسبة",
+     "text_fr": "Promouvoir les services numériques de La Poste et orienter le client vers le bon canal"
+    }
+   ]
+  }
+ ],
+ "past_exams": [],
+ "tips_ar": [
+  "تابع بلاغات الانتداب على الموقع الرسمي للبريد التونسي (www.poste.tn) وصفحته الرسمية؛ البلاغ الرسمي وحده هو المرجع في الرتب والشروط والآجال.",
+  "احذر من الصفحات والأشخاص الذين يطلبون مالا مقابل «ضمان» الانتداب في البريد: الترشح للمناظرات العمومية مجاني ولا يمر عبر أي وسيط.",
+  "في المناظرات بالملفات يُحسم الترتيب غالبا بمقاييس موضوعية (السن، سنة الشهادة، المعدل، الأقدمية في البطالة): جهّز مسبقا نسخا رقمية واضحة من وثائقك وتأكد من صحة كل معطى تصرّح به لأن أي خطأ قد يقصي ملفك.",
+  "تعرّف على خدمات البريد قبل المقابلة: الحساب الجاري البريدي، الادخار، الحوالات، البريد السريع، البطاقات الإلكترونية والدفع عبر الهاتف — زيارة مكتب بريد وقراءة الموقع الرسمي تكفي لتكوين فكرة واضحة.",
+  "لخطط الشباك تدرّب على الحساب الذهني السريع (النسب المائوية، الفوائد البسيطة، إرجاع الباقي) وعلى صياغة إجابات مهذبة لحريف غاضب.",
+  "لرتبة المتصرف راجع القانون الإداري والمؤسسات العمومية والتحرير الإداري، وحضّر رأيا مدعّما حول رقمنة البريد والشمول المالي.",
+  "فعّل التنبيهات في التطبيق وحدّث ملفك الشخصي (تاريخ الولادة، المستوى الدراسي، الاختصاص) حتى تصلك إشعارات مناظرات البريد المطابقة لملمحك فور نشرها."
+ ],
+ "tips_fr": [
+  "Suivez les avis de recrutement sur le site officiel de La Poste Tunisienne (www.poste.tn) et sa page officielle ; seul l'avis officiel fait foi pour les grades, conditions et délais.",
+  "Méfiez-vous des pages et personnes qui demandent de l'argent pour « garantir » une embauche à La Poste : la candidature aux concours publics est gratuite et ne passe par aucun intermédiaire.",
+  "Dans un concours sur dossiers, le classement dépend souvent de critères objectifs (âge, année du diplôme, moyenne, ancienneté au chômage) : préparez à l'avance des copies numériques lisibles de vos documents et vérifiez chaque information déclarée, car une erreur peut éliminer votre dossier.",
+  "Avant l'entretien, connaissez l'offre de La Poste : CCP, épargne, mandats, Rapid-Poste, cartes électroniques et paiement mobile — une visite dans un bureau de poste et la lecture du site officiel suffisent pour s'en faire une idée claire.",
+  "Pour les postes de guichet, entraînez-vous au calcul mental rapide (pourcentages, intérêts simples, rendu de monnaie) et à formuler des réponses courtoises face à un client mécontent.",
+  "Pour le grade d'administrateur, révisez le droit administratif, les établissements publics et la rédaction administrative, et préparez un avis argumenté sur la digitalisation de La Poste et l'inclusion financière.",
+  "Activez les alertes dans l'application et complétez votre profil (date de naissance, niveau d'études, spécialité) pour être notifié dès qu'un concours de La Poste correspondant à votre profil est publié."
+ ],
+ "research_notes": "LIMITE MÉTHODOLOGIQUE MAJEURE (2026-10-07) : le quota WebSearch partagé était épuisé dès la première requête de cette passe (« 200 WebSearch calls per turn ») et WebFetch est refusé par le proxy (EGRESS_BLOCKED) pour www.orientini.com, www.poste.tn, www.concours.gov.tn et www.legislation.tn. AUCUNE page n'a été lue directement. Les seuls faits non entièrement suggérés proviennent du journal de recherche consigné le même jour par l'équipe (docs/research/01-market-raw.md, tableau « Public companies » : « La Poste | 294 (file-based) + administrators », source orientini.com/AR/Annonces_Orientation_Formation_Emploi/16323/), lui-même fondé sur des résumés de moteur de recherche ; le même journal liste « La Poste 2026 » parmi les éléments NON TROUVÉS. C'est pourquoi TOUS les faits portent needs_verification=true et aucun source_quote n'est fourni (0 fait officiel publiable en l'état). FAITS PRESSE/PORTAIL À CONFIRMER : (1) concours externe « sur dossiers » pour 294 postes — année de l'annonce INCONNUE (rangée en 2025 par défaut avec status CLOSED pour ne déclencher aucune alerte ; à corriger), grade(s) inconnu(s) (rattaché par hypothèse au profil agent d'exécution/facteur), délais, plateforme et critères de classement inconnus ; (2) recrutement d'« administrateurs » — nombre, spécialités, mode (dossiers ou épreuves) et date inconnus. ÉLÉMENTS ENTIÈREMENT SUGGÉRÉS (confidence LOW, source_key null) : les postes « agent de guichet / agent d'exploitation » et « ingénieur informaticien » sont des profils types, pas des grades officiels (l'ancienne nomenclature des corps postaux — agent d'exploitation, contrôleur, inspecteur — est citée de mémoire et doit être vérifiée dans le statut du personnel de l'Office National des Postes) ; toutes les phases sauf l'étude des dossiers, toutes les matières (coefficients/durées/nombres de questions = null), toutes les pièces du dossier et tous les blueprints (APPROXIMATED) sont des estimations éditoriales. Aucune épreuve physique connue (physical_tests vides) ; une aptitude médicale et éventuellement un permis deux-roues pour les facteurs sont suggérés. ÉLIGIBILITÉ : max_age laissé à null partout pour ne pas exclure à tort des candidats des alertes de correspondance de profil ; niveaux d'études supposés (9e année pour facteur, bac pour guichet, licence pour administrateur, ingénieur/mastère pour informatique) ; nationalité tunisienne et mixité H/F suggérées. ORGANISATION : dénomination « Office National des Postes », statut EPIC et tutelle du ministère des Technologies de la Communication cités de mémoire — à vérifier ; le Code de la poste date de 1998 (loi n° 98-38 du 2 juin 1998 selon notre mémoire, numéro à vérifier sur legislation.tn / iort.gov.tn). SYLLABUS spec.poste-tunisienne.* (scope SUGGESTED) : produits cités de mémoire (CCP, épargne CENT, mandats ordinaire/minute, Rapid-Poste/EMS, cartes e-Dinar, paiement mobile — l'application de paiement mobile de La Poste, connue sous le nom « D17 », n'est pas nommée dans le syllabus faute de vérification) ; code postal tunisien à 4 chiffres ; UPU fondée en 1874, siège à Berne. CONTEXTE : la révision du Code du travail de 2025 (interdiction de la sous-traitance de main-d'œuvre) pourrait entraîner des recrutements prioritaires d'anciens sous-traitants (gardiennage, nettoyage) dans les entreprises publiques, dont La Poste — non vérifié. Le projet de « banque postale » n'est pas couvert. Nombre de candidats : aucun chiffre. Annales : aucune annale officielle ni communautaire identifiée (past_exams vide). À FAIRE EN PRIORITÉ : ouvrir l'annonce Orientini 16323 et l'avis officiel correspondant sur www.poste.tn (ou sa page Facebook officielle) ; récupérer année, grades, nombre de postes par grade et par gouvernorat, niveau d'études, âge maximum et date de référence, critères de classement des dossiers, plateforme d'inscription, pièces exigées, existence d'épreuves écrites/orales ; rechercher les concours La Poste 2023, 2024 et 2026 (« مناظرة خارجية بالملفات لانتداب ... بالديوان الوطني للبريد », « concours La Poste Tunisienne recrutement »)."
+}

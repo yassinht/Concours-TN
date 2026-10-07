@@ -1,0 +1,2020 @@
+{
+ "family": {
+  "slug": "bct",
+  "field": "FINANCE",
+  "organization": {
+   "slug": "banque-centrale-tunisie",
+   "name_ar": "البنك المركزي التونسي",
+   "name_fr": "Banque Centrale de Tunisie (BCT)",
+   "ministry_fr": "Aucune tutelle ministérielle : banque centrale dotée d'un statut propre (loi n° 2016-35 du 25 avril 2016 — référence à vérifier au JORT)",
+   "website": "https://www.bct.gov.tn"
+  },
+  "name_ar": "مناظرات الانتداب بالبنك المركزي التونسي (إطارات)",
+  "name_fr": "Concours de recrutement de la Banque Centrale de Tunisie (cadres)",
+  "description_ar": "مناظرات خارجية بالاختبارات ينظمها البنك المركزي التونسي لانتداب إطارات في اختصاصات الاقتصاد والمالية والتصرف والمحاسبة والقانون والإعلامية. حسب ملخص البحث الداخلي للفريق، نشر موقع Managers في 7 ماي 2026 قائمة المقبولين (admissibles) في مناظرة البنك المركزي لـ116 خطة (مصنفة في ملخص الفريق كدورة 2025)، وهو ما يدل على مرحلة كتابية للقبول الأولي تليها مرحلة قبول نهائي. تنبيه: تعذّر فتح أي صفحة مباشرة أثناء هذا البحث (موقع bct.gov.tn ومقال Managers محجوبان من بيئة العمل وحصة البحث مستنفدة)، لذلك فإن كل المعطيات في حاجة إلى تثبت، وتقسيم الخطط حسب الاختصاص والمواد والضوارب والوثائق وشروط السن والشهادة هي مقترحات بالقياس على مناظرات البنوك العمومية والمؤسسات المماثلة.",
+  "description_fr": "Concours externes sur épreuves organisés par la Banque Centrale de Tunisie pour recruter des cadres en économie, finance, gestion, comptabilité, droit et informatique. D'après le résumé de recherche de l'équipe, le site Managers a publié le 07/05/2026 la liste des admissibles du concours de la BCT portant sur 116 postes (rattaché à la session 2025 dans ce résumé), ce qui indique une phase écrite d'admissibilité suivie d'une phase d'admission. Attention : aucune page n'a pu être ouverte lors de cette recherche (bct.gov.tn et managers.tn bloqués depuis l'environnement, quota de recherche épuisé) ; toutes les données sont à vérifier, et la répartition par spécialité, les matières, coefficients, pièces, conditions d'âge et de diplôme sont des SUGGESTIONS établies par analogie avec les concours des banques publiques et d'institutions comparables.",
+  "frequency": "IRREGULAR",
+  "frequency_confidence": "LOW",
+  "popularity": 3,
+  "keywords": [
+   "البنك المركزي التونسي",
+   "البنك المركزي",
+   "مناظرة البنك المركزي",
+   "مناظرة البنك المركزي التونسي 2026",
+   "انتداب البنك المركزي",
+   "انتداب إطارات بالبنك المركزي",
+   "مناظرة خارجية البنك المركزي",
+   "إطار بنكي",
+   "BCT",
+   "Banque Centrale de Tunisie",
+   "concours BCT",
+   "concours BCT 2026",
+   "concours Banque Centrale",
+   "recrutement BCT",
+   "recrutement Banque Centrale de Tunisie",
+   "admissibles BCT",
+   "116 postes BCT",
+   "cadre économiste",
+   "cadre banque centrale",
+   "politique monétaire",
+   "supervision bancaire",
+   "central bank Tunisia jobs"
+  ]
+ },
+ "sources": [
+  {
+   "key": "s1",
+   "title": "Banque Centrale de Tunisie — site officiel (bct.gov.tn)",
+   "url": "https://www.bct.gov.tn",
+   "publisher": "Banque Centrale de Tunisie",
+   "source_type": "OFFICIAL",
+   "publication_date": null,
+   "retrieved_at": "2026-10-07",
+   "confidence": "MEDIUM",
+   "notes": "Site officiel de l'institution, où les avis de concours et résultats sont censés être publiés. PAGE NON OUVERTE dans cette passe : WebFetch renvoie EGRESS_BLOCKED pour www.bct.gov.tn (accueil et pages internes testés). Cité uniquement pour l'identité de l'organisme et comme lieu de vérification ; aucun fait détaillé n'en est extrait."
+  },
+  {
+   "key": "s2",
+   "title": "Concours de la BCT : la liste des admissibles aux 116 postes (Managers)",
+   "url": "https://managers.tn/2026/05/07/concours-de-la-bct-la-liste-des-admissibles-aux-116-postes/",
+   "publisher": "Managers (managers.tn)",
+   "source_type": "SECONDARY",
+   "publication_date": "2026-05-07",
+   "retrieved_at": "2026-10-07",
+   "confidence": "MEDIUM",
+   "notes": "Article de presse économique relayant la liste des admissibles. PAGE NON OUVERTE dans cette passe : WebFetch renvoie EGRESS_BLOCKED pour managers.tn et le quota WebSearch était épuisé. URL, nombre de postes (116) et rattachement à la session 2025 repris du résumé de recherche consigné le même jour par l'équipe (docs/research/01-market-raw.md, section « BCT & banks »). Titre reconstitué à partir de l'URL ; date de publication déduite de l'URL. À relire : intitulé exact du concours, répartition par spécialité/grade, dates de l'écrit et de l'oral, nombre d'admissibles et de candidats."
+  }
+ ],
+ "editions": [
+  {
+   "year": 2025,
+   "session_label": "مناظرة خارجية بالبنك المركزي التونسي لانتداب 116 إطارا/عونا (قائمة المقبولين في الاختبار الكتابي نُشرت حوالي 7 ماي 2026 حسب Managers؛ سنة الدورة والتفاصيل للتثبت) / Concours externe BCT : 116 postes (liste des admissibles publiée vers le 07/05/2026 selon Managers ; millésime et détails à vérifier)",
+   "status": "EXAM_DONE",
+   "registration_open": null,
+   "registration_deadline": null,
+   "exam_date": null,
+   "positions_count": 116,
+   "candidates_count": null,
+   "source_key": "s2",
+   "confidence": "MEDIUM",
+   "needs_verification": true
+  },
+  {
+   "year": 2026,
+   "session_label": "[مقترح] الدورة القادمة: لم يتسنّ الاطلاع على أي بلاغ جديد للبنك المركزي إلى غاية 7 أكتوبر 2026؛ المناظرات غير منتظمة وقد تُفتح دورة جديدة أواخر 2026 أو في 2027 / [Suggestion] Prochaine session : aucun nouvel avis de la BCT consulté au 07/10/2026 ; concours irréguliers, nouvelle session possible fin 2026 ou en 2027",
+   "status": "EXPECTED",
+   "registration_open": null,
+   "registration_deadline": null,
+   "exam_date": null,
+   "positions_count": null,
+   "candidates_count": null,
+   "source_key": null,
+   "confidence": "LOW",
+   "needs_verification": true
+  }
+ ],
+ "positions": [
+  {
+   "slug": "cadre-economiste",
+   "title_ar": "إطار في الاقتصاد والإحصاء (مسار مقترح)",
+   "title_fr": "Cadre économiste / statisticien (filière suggérée)",
+   "diploma_level": "LICENCE",
+   "eligibility": {
+    "min_age": null,
+    "max_age": null,
+    "genders": [
+     "M",
+     "F"
+    ],
+    "nationality": "TN",
+    "diplomas": [
+     "LICENCE",
+     "MASTER",
+     "ENGINEER",
+     "DOCTORATE"
+    ],
+    "specialties": [
+     "économie",
+     "sciences économiques",
+     "économétrie",
+     "économie quantitative",
+     "monnaie",
+     "finance",
+     "statistique",
+     "actuariat",
+     "اقتصاد",
+     "علوم اقتصادية",
+     "اقتصاد قياسي",
+     "إحصاء",
+     "مالية",
+     "نقود"
+    ],
+    "min_height_cm_male": null,
+    "min_height_cm_female": null,
+    "marital_status": null,
+    "other_ar": [
+     "[مقترح] شهادة جامعية في الاقتصاد أو الاقتصاد القياسي أو المالية أو الإحصاء؛ يُرجّح اشتراط الماجستير أو شهادة مهندس إحصاء لخطط الدراسات الاقتصادية والنقدية — للتثبت",
+     "عدد الخطط في آخر دورة معروفة: 116 خطة لكل الاختصاصات مجتمعة (حسب ملخص مقال Managers)؛ توزيعها حسب الاختصاص غير معروف",
+     "[مقترح] تقسيم المناظرة إلى مسارات اختصاص (اقتصاد، تصرف ومحاسبة، قانون، إعلامية) هو تقسيم تحريري لأغراض المطابقة والتحضير؛ المرجع هو قائمة الخطط والشهادات في البلاغ الرسمي",
+     "[مقترح] الجنسية التونسية والتمتع بالحقوق المدنية وحسن السيرة (بطاقة عدد 3)",
+     "[مقترح] حدّ أقصى للسن مرجّح (كثيرا ما يكون 35 أو 40 سنة في مناظرات القطاع البنكي العمومي) — غير مؤكد، لذلك لم يُعتمد في المطابقة الآلية",
+     "[مقترح] تسوية الوضعية إزاء الخدمة الوطنية للذكور والقدرة البدنية على العمل (فحص طبي)",
+     "[مقترح] قد يُشترط حدّ أدنى لمعدل الشهادة أو انتقاء أولي حسب الملفات — للتثبت"
+    ],
+    "other_fr": [
+     "[Suggestion] Diplôme universitaire en économie, économétrie, finance ou statistique ; un master ou un diplôme d'ingénieur statisticien est probablement exigé pour les postes d'études économiques et monétaires — à vérifier",
+     "Postes lors de la dernière session connue : 116, toutes spécialités confondues (selon le résumé de l'article Managers) ; répartition par spécialité inconnue",
+     "[Suggestion] Le découpage en filières (économie, gestion-comptabilité, droit, informatique) est éditorial, pour la correspondance automatique et la préparation ; seule la liste des postes et diplômes de l'avis officiel fait foi",
+     "[Suggestion] Nationalité tunisienne, jouissance des droits civiques, bonne moralité (bulletin n° 3)",
+     "[Suggestion] Limite d'âge probable (souvent 35 ou 40 ans dans les concours du secteur bancaire public) — non confirmée, donc non utilisée pour le filtrage automatique",
+     "[Suggestion] Situation régulière vis-à-vis du service national (hommes) et aptitude physique (visite médicale)",
+     "[Suggestion] Une moyenne minimale ou une présélection sur dossier est possible — à vérifier"
+    ],
+    "source_key": "s2",
+    "confidence": "LOW",
+    "needs_verification": true,
+    "source_quote": null
+   },
+   "phases": [
+    {
+     "order": 1,
+     "kind": "FILE_REVIEW",
+     "name_ar": "الترشح عن بعد ودراسة الملفات",
+     "name_fr": "Candidature en ligne et examen des dossiers",
+     "is_eliminatory": true,
+     "duration_minutes": null,
+     "description_ar": "[مقترح] التسجيل عبر الرابط أو المنصة المحددة في بلاغ البنك المركزي (يُرجّح أن يكون عبر موقع bct.gov.tn — للتثبت) ثم التثبت من استيفاء شروط الشهادة والاختصاص والسن. قد يتم انتقاء أولي حسب الملفات أو المعدلات (غير مؤكد).",
+     "description_fr": "[Suggestion] Inscription via le lien ou la plateforme indiqués dans l'avis de la BCT (probablement depuis bct.gov.tn — à vérifier), puis contrôle des conditions de diplôme, de spécialité et d'âge. Une présélection sur dossier ou sur moyennes est possible (non confirmée).",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "order": 2,
+     "kind": "WRITTEN",
+     "name_ar": "الاختبارات الكتابية (القبول الأولي)",
+     "name_fr": "Épreuves écrites d'admissibilité",
+     "is_eliminatory": true,
+     "duration_minutes": null,
+     "description_ar": "وجود مرحلة قبول أولي مؤكد ضمنيا بنشر «قائمة المقبولين» (admissibles) لـ116 خطة في ماي 2026 حسب Managers (المقال غير مفتوح). [مقترح] محتوى الاختبارات: ثقافة عامة واقتصادية، مادة أو مادتا اختصاص حسب المسار، ولغات (فرنسية/إنجليزية)؛ الشكل (أسئلة متعددة الاختيارات أو تحرير) والمدد والضوارب غير معروفة.",
+     "description_fr": "L'existence d'une phase d'admissibilité est déduite de la publication d'une « liste des admissibles » aux 116 postes en mai 2026 (Managers, article non ouvert). [Suggestion] Contenu : culture générale et économique, une ou deux épreuves de spécialité selon la filière, langues (français/anglais) ; format (QCM ou rédaction), durées et coefficients inconnus.",
+     "source_key": "s2",
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "order": 3,
+     "kind": "ORAL",
+     "name_ar": "الاختبار الشفاهي / المقابلة (القبول النهائي)",
+     "name_fr": "Épreuve orale / entretien d'admission",
+     "is_eliminatory": true,
+     "duration_minutes": null,
+     "description_ar": "[مقترح] مقابلة مع لجنة للمقبولين في الكتابي: التقديم الشخصي والدوافع، معارف الاختصاص، معرفة مهام البنك المركزي والمستجدات الاقتصادية والنقدية، والتواصل بالفرنسية وربما بالإنجليزية. استُنتج وجودها من عبارة «المقبولين» ولم يتأكد من نص رسمي.",
+     "description_fr": "[Suggestion] Entretien devant jury pour les admissibles : présentation et motivation, connaissances de spécialité, connaissance des missions de la BCT et de l'actualité économique et monétaire, communication en français et éventuellement en anglais. Phase déduite du terme « admissibles », non confirmée par un texte officiel.",
+     "source_key": "s2",
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "order": 4,
+     "kind": "MEDICAL",
+     "name_ar": "الفحص الطبي",
+     "name_fr": "Visite médicale d'aptitude",
+     "is_eliminatory": true,
+     "duration_minutes": null,
+     "description_ar": "[مقترح] فحص طبي للتثبت من القدرة على العمل قبل الانتداب، كما هو معمول به عادة في المؤسسات العمومية.",
+     "description_fr": "[Suggestion] Visite médicale d'aptitude avant l'embauche, comme habituellement dans les établissements publics.",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "order": 5,
+     "kind": "TRAINING",
+     "name_ar": "فترة التجربة والتكوين الإدماجي",
+     "name_fr": "Période d'essai et formation d'intégration",
+     "is_eliminatory": false,
+     "duration_minutes": null,
+     "description_ar": "[مقترح] فترة تجربة وتكوين إدماجي داخل البنك المركزي قبل الترسيم؛ المدة والشروط غير معروفة.",
+     "description_fr": "[Suggestion] Période d'essai et formation d'intégration au sein de la BCT avant titularisation ; durée et modalités inconnues.",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    }
+   ],
+   "subjects": [
+    {
+     "phase_order": 2,
+     "domain": "CULTURE_GENERALE",
+     "specialty_key": null,
+     "name_ar": "ثقافة عامة واقتصادية (الاقتصاد التونسي، المؤسسات، المستجدات الوطنية والدولية)",
+     "name_fr": "Culture générale et économique (économie tunisienne, institutions, actualité nationale et internationale)",
+     "coefficient": null,
+     "duration_minutes": null,
+     "question_count": null,
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "phase_order": 2,
+     "domain": "SPECIALTY",
+     "specialty_key": "spec.bct.institution",
+     "name_ar": "البنك المركزي التونسي: النظام الأساسي والمهام والحوكمة",
+     "name_fr": "La BCT : statut, missions et gouvernance",
+     "coefficient": null,
+     "duration_minutes": null,
+     "question_count": null,
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "phase_order": 2,
+     "domain": "SPECIALTY",
+     "specialty_key": "spec.bct.macroeconomie",
+     "name_ar": "الاقتصاد الكلي والاقتصاد التونسي (المحاسبة الوطنية، ميزان الدفوعات، المالية العمومية)",
+     "name_fr": "Macroéconomie et économie tunisienne (comptabilité nationale, balance des paiements, finances publiques)",
+     "coefficient": null,
+     "duration_minutes": null,
+     "question_count": null,
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "phase_order": 2,
+     "domain": "SPECIALTY",
+     "specialty_key": "spec.bct.politique-monetaire",
+     "name_ar": "الاقتصاد النقدي والسياسة النقدية (التضخم، أدوات السياسة النقدية، سعر الصرف)",
+     "name_fr": "Économie monétaire et politique monétaire (inflation, instruments, change)",
+     "coefficient": null,
+     "duration_minutes": null,
+     "question_count": null,
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "phase_order": 2,
+     "domain": "SPECIALTY",
+     "specialty_key": "spec.bct.statistique-econometrie",
+     "name_ar": "الإحصاء والاقتصاد القياسي",
+     "name_fr": "Statistique et économétrie",
+     "coefficient": null,
+     "duration_minutes": null,
+     "question_count": null,
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "phase_order": 2,
+     "domain": "FRENCH",
+     "specialty_key": null,
+     "name_ar": "اللغة الفرنسية (فهم، تحرير، تلخيص)",
+     "name_fr": "Langue française (compréhension, expression écrite, synthèse)",
+     "coefficient": null,
+     "duration_minutes": null,
+     "question_count": null,
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "phase_order": 2,
+     "domain": "ENGLISH",
+     "specialty_key": null,
+     "name_ar": "اللغة الإنجليزية (فهم نصوص اقتصادية ومالية)",
+     "name_fr": "Anglais (compréhension de textes économiques et financiers)",
+     "coefficient": null,
+     "duration_minutes": null,
+     "question_count": null,
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "phase_order": 3,
+     "domain": "SPECIALTY",
+     "specialty_key": "spec.bct.politique-monetaire",
+     "name_ar": "المقابلة الشفاهية: الدوافع، معرفة البنك المركزي، والمستجدات النقدية والاقتصادية",
+     "name_fr": "Entretien oral : motivation, connaissance de la BCT, actualité économique et monétaire",
+     "coefficient": null,
+     "duration_minutes": null,
+     "question_count": null,
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    }
+   ],
+   "physical_tests": [],
+   "required_documents": [
+    {
+     "text_ar": "[مقترح] التسجيل عن بعد عبر الرابط المحدد في البلاغ الرسمي وطباعة استمارة أو وصل الترشح",
+     "text_fr": "[Suggestion] Inscription en ligne via le lien indiqué dans l'avis officiel et impression du formulaire ou du récépissé de candidature",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "text_ar": "[مقترح] نسخة من بطاقة التعريف الوطنية",
+     "text_fr": "[Suggestion] Copie de la carte d'identité nationale",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "text_ar": "[مقترح] نسخة مطابقة للأصل من الشهادات العلمية (الباكالوريا والشهادة الجامعية المطلوبة)",
+     "text_fr": "[Suggestion] Copie certifiée conforme des diplômes (baccalauréat et diplôme universitaire exigé)",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "text_ar": "[مقترح] كشوف الأعداد لكل سنوات الدراسة الجامعية (قد تُعتمد في الانتقاء الأولي)",
+     "text_fr": "[Suggestion] Relevés de notes de toutes les années universitaires (pouvant servir à la présélection)",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "text_ar": "[مقترح] شهادة معادلة للشهادات المسلمة من مؤسسات أجنبية",
+     "text_fr": "[Suggestion] Attestation d'équivalence pour les diplômes délivrés à l'étranger",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "text_ar": "[مقترح] سيرة ذاتية وصورة شمسية حديثة",
+     "text_fr": "[Suggestion] Curriculum vitae et photo d'identité récente",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "text_ar": "[مقترح] بطاقة عدد 3 (السجل العدلي) حديثة — غالبا عند الانتداب النهائي",
+     "text_fr": "[Suggestion] Bulletin n° 3 (extrait du casier judiciaire) récent — généralement au stade du recrutement définitif",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "text_ar": "[مقترح] وثيقة تثبت الوضعية إزاء الخدمة الوطنية (للذكور)",
+     "text_fr": "[Suggestion] Document justifiant la situation vis-à-vis du service national (hommes)",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "text_ar": "[مقترح] شهادة طبية في القدرة على العمل (للناجحين)",
+     "text_fr": "[Suggestion] Certificat médical d'aptitude (pour les lauréats)",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    }
+   ],
+   "blueprint": {
+    "total_minutes": 130,
+    "fidelity": "APPROXIMATED",
+    "sections": [
+     {
+      "domain": "CULTURE_GENERALE",
+      "specialty_key": null,
+      "count": 12,
+      "minutes": 12
+     },
+     {
+      "domain": "SPECIALTY",
+      "specialty_key": "spec.bct.institution",
+      "count": 8,
+      "minutes": 10
+     },
+     {
+      "domain": "SPECIALTY",
+      "specialty_key": "spec.bct.macroeconomie",
+      "count": 15,
+      "minutes": 25
+     },
+     {
+      "domain": "SPECIALTY",
+      "specialty_key": "spec.bct.politique-monetaire",
+      "count": 15,
+      "minutes": 25
+     },
+     {
+      "domain": "SPECIALTY",
+      "specialty_key": "spec.bct.regulation-bancaire",
+      "count": 6,
+      "minutes": 8
+     },
+     {
+      "domain": "SPECIALTY",
+      "specialty_key": "spec.bct.statistique-econometrie",
+      "count": 10,
+      "minutes": 20
+     },
+     {
+      "domain": "FRENCH",
+      "specialty_key": null,
+      "count": 10,
+      "minutes": 15
+     },
+     {
+      "domain": "ENGLISH",
+      "specialty_key": null,
+      "count": 10,
+      "minutes": 15
+     }
+    ]
+   }
+  },
+  {
+   "slug": "cadre-gestion-finance-comptabilite",
+   "title_ar": "إطار في التصرف والمالية والمحاسبة (مسار مقترح)",
+   "title_fr": "Cadre en gestion, finance et comptabilité (filière suggérée)",
+   "diploma_level": "LICENCE",
+   "eligibility": {
+    "min_age": null,
+    "max_age": null,
+    "genders": [
+     "M",
+     "F"
+    ],
+    "nationality": "TN",
+    "diplomas": [
+     "LICENCE",
+     "MASTER",
+     "ENGINEER",
+     "DOCTORATE"
+    ],
+    "specialties": [
+     "gestion",
+     "sciences de gestion",
+     "comptabilité",
+     "finance",
+     "audit",
+     "contrôle de gestion",
+     "banque",
+     "assurance",
+     "تصرف",
+     "علوم التصرف",
+     "محاسبة",
+     "مالية",
+     "تدقيق",
+     "بنوك"
+    ],
+    "min_height_cm_male": null,
+    "min_height_cm_female": null,
+    "marital_status": null,
+    "other_ar": [
+     "[مقترح] شهادة جامعية (إجازة أو ماجستير) في التصرف أو المالية أو المحاسبة أو التدقيق أو البنوك — مستوى الشهادة المطلوب للتثبت",
+     "عدد الخطط في آخر دورة معروفة: 116 خطة لكل الاختصاصات مجتمعة (حسب ملخص مقال Managers)؛ توزيعها حسب الاختصاص غير معروف",
+     "[مقترح] تقسيم المناظرة إلى مسارات اختصاص (اقتصاد، تصرف ومحاسبة، قانون، إعلامية) هو تقسيم تحريري لأغراض المطابقة والتحضير؛ المرجع هو قائمة الخطط والشهادات في البلاغ الرسمي",
+     "[مقترح] الجنسية التونسية والتمتع بالحقوق المدنية وحسن السيرة (بطاقة عدد 3)",
+     "[مقترح] حدّ أقصى للسن مرجّح (كثيرا ما يكون 35 أو 40 سنة في مناظرات القطاع البنكي العمومي) — غير مؤكد، لذلك لم يُعتمد في المطابقة الآلية",
+     "[مقترح] تسوية الوضعية إزاء الخدمة الوطنية للذكور والقدرة البدنية على العمل (فحص طبي)",
+     "[مقترح] قد يُشترط حدّ أدنى لمعدل الشهادة أو انتقاء أولي حسب الملفات — للتثبت"
+    ],
+    "other_fr": [
+     "[Suggestion] Diplôme universitaire (licence ou master) en gestion, finance, comptabilité, audit ou banque — niveau exact à vérifier",
+     "Postes lors de la dernière session connue : 116, toutes spécialités confondues (selon le résumé de l'article Managers) ; répartition par spécialité inconnue",
+     "[Suggestion] Le découpage en filières (économie, gestion-comptabilité, droit, informatique) est éditorial, pour la correspondance automatique et la préparation ; seule la liste des postes et diplômes de l'avis officiel fait foi",
+     "[Suggestion] Nationalité tunisienne, jouissance des droits civiques, bonne moralité (bulletin n° 3)",
+     "[Suggestion] Limite d'âge probable (souvent 35 ou 40 ans dans les concours du secteur bancaire public) — non confirmée, donc non utilisée pour le filtrage automatique",
+     "[Suggestion] Situation régulière vis-à-vis du service national (hommes) et aptitude physique (visite médicale)",
+     "[Suggestion] Une moyenne minimale ou une présélection sur dossier est possible — à vérifier"
+    ],
+    "source_key": "s2",
+    "confidence": "LOW",
+    "needs_verification": true,
+    "source_quote": null
+   },
+   "phases": [
+    {
+     "order": 1,
+     "kind": "FILE_REVIEW",
+     "name_ar": "الترشح عن بعد ودراسة الملفات",
+     "name_fr": "Candidature en ligne et examen des dossiers",
+     "is_eliminatory": true,
+     "duration_minutes": null,
+     "description_ar": "[مقترح] التسجيل عبر الرابط أو المنصة المحددة في بلاغ البنك المركزي (يُرجّح أن يكون عبر موقع bct.gov.tn — للتثبت) ثم التثبت من استيفاء شروط الشهادة والاختصاص والسن. قد يتم انتقاء أولي حسب الملفات أو المعدلات (غير مؤكد).",
+     "description_fr": "[Suggestion] Inscription via le lien ou la plateforme indiqués dans l'avis de la BCT (probablement depuis bct.gov.tn — à vérifier), puis contrôle des conditions de diplôme, de spécialité et d'âge. Une présélection sur dossier ou sur moyennes est possible (non confirmée).",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "order": 2,
+     "kind": "WRITTEN",
+     "name_ar": "الاختبارات الكتابية (القبول الأولي)",
+     "name_fr": "Épreuves écrites d'admissibilité",
+     "is_eliminatory": true,
+     "duration_minutes": null,
+     "description_ar": "وجود مرحلة قبول أولي مؤكد ضمنيا بنشر «قائمة المقبولين» (admissibles) لـ116 خطة في ماي 2026 حسب Managers (المقال غير مفتوح). [مقترح] محتوى الاختبارات: ثقافة عامة واقتصادية، مادة أو مادتا اختصاص حسب المسار، ولغات (فرنسية/إنجليزية)؛ الشكل (أسئلة متعددة الاختيارات أو تحرير) والمدد والضوارب غير معروفة.",
+     "description_fr": "L'existence d'une phase d'admissibilité est déduite de la publication d'une « liste des admissibles » aux 116 postes en mai 2026 (Managers, article non ouvert). [Suggestion] Contenu : culture générale et économique, une ou deux épreuves de spécialité selon la filière, langues (français/anglais) ; format (QCM ou rédaction), durées et coefficients inconnus.",
+     "source_key": "s2",
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "order": 3,
+     "kind": "ORAL",
+     "name_ar": "الاختبار الشفاهي / المقابلة (القبول النهائي)",
+     "name_fr": "Épreuve orale / entretien d'admission",
+     "is_eliminatory": true,
+     "duration_minutes": null,
+     "description_ar": "[مقترح] مقابلة مع لجنة للمقبولين في الكتابي: التقديم الشخصي والدوافع، معارف الاختصاص، معرفة مهام البنك المركزي والمستجدات الاقتصادية والنقدية، والتواصل بالفرنسية وربما بالإنجليزية. استُنتج وجودها من عبارة «المقبولين» ولم يتأكد من نص رسمي.",
+     "description_fr": "[Suggestion] Entretien devant jury pour les admissibles : présentation et motivation, connaissances de spécialité, connaissance des missions de la BCT et de l'actualité économique et monétaire, communication en français et éventuellement en anglais. Phase déduite du terme « admissibles », non confirmée par un texte officiel.",
+     "source_key": "s2",
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "order": 4,
+     "kind": "MEDICAL",
+     "name_ar": "الفحص الطبي",
+     "name_fr": "Visite médicale d'aptitude",
+     "is_eliminatory": true,
+     "duration_minutes": null,
+     "description_ar": "[مقترح] فحص طبي للتثبت من القدرة على العمل قبل الانتداب، كما هو معمول به عادة في المؤسسات العمومية.",
+     "description_fr": "[Suggestion] Visite médicale d'aptitude avant l'embauche, comme habituellement dans les établissements publics.",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "order": 5,
+     "kind": "TRAINING",
+     "name_ar": "فترة التجربة والتكوين الإدماجي",
+     "name_fr": "Période d'essai et formation d'intégration",
+     "is_eliminatory": false,
+     "duration_minutes": null,
+     "description_ar": "[مقترح] فترة تجربة وتكوين إدماجي داخل البنك المركزي قبل الترسيم؛ المدة والشروط غير معروفة.",
+     "description_fr": "[Suggestion] Période d'essai et formation d'intégration au sein de la BCT avant titularisation ; durée et modalités inconnues.",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    }
+   ],
+   "subjects": [
+    {
+     "phase_order": 2,
+     "domain": "CULTURE_GENERALE",
+     "specialty_key": null,
+     "name_ar": "ثقافة عامة واقتصادية (الاقتصاد التونسي، المؤسسات، المستجدات الوطنية والدولية)",
+     "name_fr": "Culture générale et économique (économie tunisienne, institutions, actualité nationale et internationale)",
+     "coefficient": null,
+     "duration_minutes": null,
+     "question_count": null,
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "phase_order": 2,
+     "domain": "SPECIALTY",
+     "specialty_key": "spec.bct.institution",
+     "name_ar": "البنك المركزي التونسي: النظام الأساسي والمهام والحوكمة",
+     "name_fr": "La BCT : statut, missions et gouvernance",
+     "coefficient": null,
+     "duration_minutes": null,
+     "question_count": null,
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "phase_order": 2,
+     "domain": "SPECIALTY",
+     "specialty_key": "spec.banque-gestion",
+     "name_ar": "المحاسبة والتحليل المالي والرياضيات المالية والعمليات البنكية",
+     "name_fr": "Comptabilité, analyse financière, mathématiques financières et opérations bancaires",
+     "coefficient": null,
+     "duration_minutes": null,
+     "question_count": null,
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "phase_order": 2,
+     "domain": "SPECIALTY",
+     "specialty_key": "spec.bct.regulation-bancaire",
+     "name_ar": "النظام البنكي التونسي والقواعد الاحترازية والرقابة البنكية",
+     "name_fr": "Système bancaire tunisien, règles prudentielles et supervision bancaire",
+     "coefficient": null,
+     "duration_minutes": null,
+     "question_count": null,
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "phase_order": 2,
+     "domain": "SPECIALTY",
+     "specialty_key": "spec.fiscalite",
+     "name_ar": "مبادئ الجباية والمالية العمومية",
+     "name_fr": "Notions de fiscalité et de finances publiques",
+     "coefficient": null,
+     "duration_minutes": null,
+     "question_count": null,
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "phase_order": 2,
+     "domain": "NUMERICAL",
+     "specialty_key": null,
+     "name_ar": "الحساب والتحليل العددي",
+     "name_fr": "Calcul et raisonnement numérique",
+     "coefficient": null,
+     "duration_minutes": null,
+     "question_count": null,
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "phase_order": 2,
+     "domain": "FRENCH",
+     "specialty_key": null,
+     "name_ar": "اللغة الفرنسية (فهم، تحرير، تلخيص)",
+     "name_fr": "Langue française (compréhension, expression écrite, synthèse)",
+     "coefficient": null,
+     "duration_minutes": null,
+     "question_count": null,
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "phase_order": 2,
+     "domain": "ENGLISH",
+     "specialty_key": null,
+     "name_ar": "اللغة الإنجليزية (فهم نصوص اقتصادية ومالية)",
+     "name_fr": "Anglais (compréhension de textes économiques et financiers)",
+     "coefficient": null,
+     "duration_minutes": null,
+     "question_count": null,
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "phase_order": 3,
+     "domain": "SPECIALTY",
+     "specialty_key": "spec.bct.regulation-bancaire",
+     "name_ar": "المقابلة الشفاهية: الدوافع، معرفة البنك المركزي، والرقابة البنكية والاستقرار المالي",
+     "name_fr": "Entretien oral : motivation, connaissance de la BCT, supervision bancaire et stabilité financière",
+     "coefficient": null,
+     "duration_minutes": null,
+     "question_count": null,
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    }
+   ],
+   "physical_tests": [],
+   "required_documents": [
+    {
+     "text_ar": "[مقترح] التسجيل عن بعد عبر الرابط المحدد في البلاغ الرسمي وطباعة استمارة أو وصل الترشح",
+     "text_fr": "[Suggestion] Inscription en ligne via le lien indiqué dans l'avis officiel et impression du formulaire ou du récépissé de candidature",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "text_ar": "[مقترح] نسخة من بطاقة التعريف الوطنية",
+     "text_fr": "[Suggestion] Copie de la carte d'identité nationale",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "text_ar": "[مقترح] نسخة مطابقة للأصل من الشهادات العلمية (الباكالوريا والشهادة الجامعية المطلوبة)",
+     "text_fr": "[Suggestion] Copie certifiée conforme des diplômes (baccalauréat et diplôme universitaire exigé)",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "text_ar": "[مقترح] كشوف الأعداد لكل سنوات الدراسة الجامعية (قد تُعتمد في الانتقاء الأولي)",
+     "text_fr": "[Suggestion] Relevés de notes de toutes les années universitaires (pouvant servir à la présélection)",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "text_ar": "[مقترح] شهادة معادلة للشهادات المسلمة من مؤسسات أجنبية",
+     "text_fr": "[Suggestion] Attestation d'équivalence pour les diplômes délivrés à l'étranger",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "text_ar": "[مقترح] سيرة ذاتية وصورة شمسية حديثة",
+     "text_fr": "[Suggestion] Curriculum vitae et photo d'identité récente",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "text_ar": "[مقترح] بطاقة عدد 3 (السجل العدلي) حديثة — غالبا عند الانتداب النهائي",
+     "text_fr": "[Suggestion] Bulletin n° 3 (extrait du casier judiciaire) récent — généralement au stade du recrutement définitif",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "text_ar": "[مقترح] وثيقة تثبت الوضعية إزاء الخدمة الوطنية (للذكور)",
+     "text_fr": "[Suggestion] Document justifiant la situation vis-à-vis du service national (hommes)",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "text_ar": "[مقترح] شهادة طبية في القدرة على العمل (للناجحين)",
+     "text_fr": "[Suggestion] Certificat médical d'aptitude (pour les lauréats)",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    }
+   ],
+   "blueprint": {
+    "total_minutes": 135,
+    "fidelity": "APPROXIMATED",
+    "sections": [
+     {
+      "domain": "CULTURE_GENERALE",
+      "specialty_key": null,
+      "count": 12,
+      "minutes": 12
+     },
+     {
+      "domain": "SPECIALTY",
+      "specialty_key": "spec.bct.institution",
+      "count": 8,
+      "minutes": 10
+     },
+     {
+      "domain": "SPECIALTY",
+      "specialty_key": "spec.banque-gestion",
+      "count": 20,
+      "minutes": 35
+     },
+     {
+      "domain": "SPECIALTY",
+      "specialty_key": "spec.bct.regulation-bancaire",
+      "count": 15,
+      "minutes": 25
+     },
+     {
+      "domain": "SPECIALTY",
+      "specialty_key": "spec.fiscalite",
+      "count": 6,
+      "minutes": 8
+     },
+     {
+      "domain": "NUMERICAL",
+      "specialty_key": null,
+      "count": 10,
+      "minutes": 15
+     },
+     {
+      "domain": "FRENCH",
+      "specialty_key": null,
+      "count": 10,
+      "minutes": 15
+     },
+     {
+      "domain": "ENGLISH",
+      "specialty_key": null,
+      "count": 10,
+      "minutes": 15
+     }
+    ]
+   }
+  },
+  {
+   "slug": "cadre-juriste",
+   "title_ar": "إطار في القانون (مسار مقترح)",
+   "title_fr": "Cadre juriste (filière suggérée)",
+   "diploma_level": "LICENCE",
+   "eligibility": {
+    "min_age": null,
+    "max_age": null,
+    "genders": [
+     "M",
+     "F"
+    ],
+    "nationality": "TN",
+    "diplomas": [
+     "LICENCE",
+     "MASTER",
+     "ENGINEER",
+     "DOCTORATE"
+    ],
+    "specialties": [
+     "droit",
+     "sciences juridiques",
+     "droit des affaires",
+     "droit privé",
+     "droit public",
+     "droit bancaire",
+     "قانون",
+     "حقوق",
+     "علوم قانونية",
+     "قانون الأعمال"
+    ],
+    "min_height_cm_male": null,
+    "min_height_cm_female": null,
+    "marital_status": null,
+    "other_ar": [
+     "[مقترح] شهادة جامعية (إجازة أو ماجستير) في القانون، ويُرجّح تفضيل قانون الأعمال أو القانون البنكي والمالي — للتثبت",
+     "عدد الخطط في آخر دورة معروفة: 116 خطة لكل الاختصاصات مجتمعة (حسب ملخص مقال Managers)؛ توزيعها حسب الاختصاص غير معروف",
+     "[مقترح] تقسيم المناظرة إلى مسارات اختصاص (اقتصاد، تصرف ومحاسبة، قانون، إعلامية) هو تقسيم تحريري لأغراض المطابقة والتحضير؛ المرجع هو قائمة الخطط والشهادات في البلاغ الرسمي",
+     "[مقترح] الجنسية التونسية والتمتع بالحقوق المدنية وحسن السيرة (بطاقة عدد 3)",
+     "[مقترح] حدّ أقصى للسن مرجّح (كثيرا ما يكون 35 أو 40 سنة في مناظرات القطاع البنكي العمومي) — غير مؤكد، لذلك لم يُعتمد في المطابقة الآلية",
+     "[مقترح] تسوية الوضعية إزاء الخدمة الوطنية للذكور والقدرة البدنية على العمل (فحص طبي)",
+     "[مقترح] قد يُشترط حدّ أدنى لمعدل الشهادة أو انتقاء أولي حسب الملفات — للتثبت"
+    ],
+    "other_fr": [
+     "[Suggestion] Diplôme universitaire (licence ou master) en droit, de préférence droit des affaires ou droit bancaire et financier — à vérifier",
+     "Postes lors de la dernière session connue : 116, toutes spécialités confondues (selon le résumé de l'article Managers) ; répartition par spécialité inconnue",
+     "[Suggestion] Le découpage en filières (économie, gestion-comptabilité, droit, informatique) est éditorial, pour la correspondance automatique et la préparation ; seule la liste des postes et diplômes de l'avis officiel fait foi",
+     "[Suggestion] Nationalité tunisienne, jouissance des droits civiques, bonne moralité (bulletin n° 3)",
+     "[Suggestion] Limite d'âge probable (souvent 35 ou 40 ans dans les concours du secteur bancaire public) — non confirmée, donc non utilisée pour le filtrage automatique",
+     "[Suggestion] Situation régulière vis-à-vis du service national (hommes) et aptitude physique (visite médicale)",
+     "[Suggestion] Une moyenne minimale ou une présélection sur dossier est possible — à vérifier"
+    ],
+    "source_key": "s2",
+    "confidence": "LOW",
+    "needs_verification": true,
+    "source_quote": null
+   },
+   "phases": [
+    {
+     "order": 1,
+     "kind": "FILE_REVIEW",
+     "name_ar": "الترشح عن بعد ودراسة الملفات",
+     "name_fr": "Candidature en ligne et examen des dossiers",
+     "is_eliminatory": true,
+     "duration_minutes": null,
+     "description_ar": "[مقترح] التسجيل عبر الرابط أو المنصة المحددة في بلاغ البنك المركزي (يُرجّح أن يكون عبر موقع bct.gov.tn — للتثبت) ثم التثبت من استيفاء شروط الشهادة والاختصاص والسن. قد يتم انتقاء أولي حسب الملفات أو المعدلات (غير مؤكد).",
+     "description_fr": "[Suggestion] Inscription via le lien ou la plateforme indiqués dans l'avis de la BCT (probablement depuis bct.gov.tn — à vérifier), puis contrôle des conditions de diplôme, de spécialité et d'âge. Une présélection sur dossier ou sur moyennes est possible (non confirmée).",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "order": 2,
+     "kind": "WRITTEN",
+     "name_ar": "الاختبارات الكتابية (القبول الأولي)",
+     "name_fr": "Épreuves écrites d'admissibilité",
+     "is_eliminatory": true,
+     "duration_minutes": null,
+     "description_ar": "وجود مرحلة قبول أولي مؤكد ضمنيا بنشر «قائمة المقبولين» (admissibles) لـ116 خطة في ماي 2026 حسب Managers (المقال غير مفتوح). [مقترح] محتوى الاختبارات: ثقافة عامة واقتصادية، مادة أو مادتا اختصاص حسب المسار، ولغات (فرنسية/إنجليزية)؛ الشكل (أسئلة متعددة الاختيارات أو تحرير) والمدد والضوارب غير معروفة.",
+     "description_fr": "L'existence d'une phase d'admissibilité est déduite de la publication d'une « liste des admissibles » aux 116 postes en mai 2026 (Managers, article non ouvert). [Suggestion] Contenu : culture générale et économique, une ou deux épreuves de spécialité selon la filière, langues (français/anglais) ; format (QCM ou rédaction), durées et coefficients inconnus.",
+     "source_key": "s2",
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "order": 3,
+     "kind": "ORAL",
+     "name_ar": "الاختبار الشفاهي / المقابلة (القبول النهائي)",
+     "name_fr": "Épreuve orale / entretien d'admission",
+     "is_eliminatory": true,
+     "duration_minutes": null,
+     "description_ar": "[مقترح] مقابلة مع لجنة للمقبولين في الكتابي: التقديم الشخصي والدوافع، معارف الاختصاص، معرفة مهام البنك المركزي والمستجدات الاقتصادية والنقدية، والتواصل بالفرنسية وربما بالإنجليزية. استُنتج وجودها من عبارة «المقبولين» ولم يتأكد من نص رسمي.",
+     "description_fr": "[Suggestion] Entretien devant jury pour les admissibles : présentation et motivation, connaissances de spécialité, connaissance des missions de la BCT et de l'actualité économique et monétaire, communication en français et éventuellement en anglais. Phase déduite du terme « admissibles », non confirmée par un texte officiel.",
+     "source_key": "s2",
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "order": 4,
+     "kind": "MEDICAL",
+     "name_ar": "الفحص الطبي",
+     "name_fr": "Visite médicale d'aptitude",
+     "is_eliminatory": true,
+     "duration_minutes": null,
+     "description_ar": "[مقترح] فحص طبي للتثبت من القدرة على العمل قبل الانتداب، كما هو معمول به عادة في المؤسسات العمومية.",
+     "description_fr": "[Suggestion] Visite médicale d'aptitude avant l'embauche, comme habituellement dans les établissements publics.",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "order": 5,
+     "kind": "TRAINING",
+     "name_ar": "فترة التجربة والتكوين الإدماجي",
+     "name_fr": "Période d'essai et formation d'intégration",
+     "is_eliminatory": false,
+     "duration_minutes": null,
+     "description_ar": "[مقترح] فترة تجربة وتكوين إدماجي داخل البنك المركزي قبل الترسيم؛ المدة والشروط غير معروفة.",
+     "description_fr": "[Suggestion] Période d'essai et formation d'intégration au sein de la BCT avant titularisation ; durée et modalités inconnues.",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    }
+   ],
+   "subjects": [
+    {
+     "phase_order": 2,
+     "domain": "CULTURE_GENERALE",
+     "specialty_key": null,
+     "name_ar": "ثقافة عامة واقتصادية (الاقتصاد التونسي، المؤسسات، المستجدات الوطنية والدولية)",
+     "name_fr": "Culture générale et économique (économie tunisienne, institutions, actualité nationale et internationale)",
+     "coefficient": null,
+     "duration_minutes": null,
+     "question_count": null,
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "phase_order": 2,
+     "domain": "SPECIALTY",
+     "specialty_key": "spec.bct.institution",
+     "name_ar": "البنك المركزي التونسي: النظام الأساسي والمهام والحوكمة",
+     "name_fr": "La BCT : statut, missions et gouvernance",
+     "coefficient": null,
+     "duration_minutes": null,
+     "question_count": null,
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "phase_order": 2,
+     "domain": "SPECIALTY",
+     "specialty_key": "spec.bct.droit-bancaire",
+     "name_ar": "القانون البنكي والمالي (قانون البنوك والمؤسسات المالية، وسائل الدفع، مكافحة غسل الأموال)",
+     "name_fr": "Droit bancaire et financier (loi bancaire, instruments de paiement, lutte anti-blanchiment)",
+     "coefficient": null,
+     "duration_minutes": null,
+     "question_count": null,
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "phase_order": 2,
+     "domain": "SPECIALTY",
+     "specialty_key": "spec.droit-administratif",
+     "name_ar": "القانون الإداري",
+     "name_fr": "Droit administratif",
+     "coefficient": null,
+     "duration_minutes": null,
+     "question_count": null,
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "phase_order": 2,
+     "domain": "SPECIALTY",
+     "specialty_key": "spec.droit-public",
+     "name_ar": "القانون الدستوري والمؤسسات",
+     "name_fr": "Droit constitutionnel et institutions",
+     "coefficient": null,
+     "duration_minutes": null,
+     "question_count": null,
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "phase_order": 2,
+     "domain": "ARABIC",
+     "specialty_key": null,
+     "name_ar": "اللغة العربية (تحرير قانوني وفهم نصوص)",
+     "name_fr": "Langue arabe (rédaction juridique et compréhension)",
+     "coefficient": null,
+     "duration_minutes": null,
+     "question_count": null,
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "phase_order": 2,
+     "domain": "FRENCH",
+     "specialty_key": null,
+     "name_ar": "اللغة الفرنسية (فهم، تحرير، تلخيص)",
+     "name_fr": "Langue française (compréhension, expression écrite, synthèse)",
+     "coefficient": null,
+     "duration_minutes": null,
+     "question_count": null,
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "phase_order": 2,
+     "domain": "ENGLISH",
+     "specialty_key": null,
+     "name_ar": "اللغة الإنجليزية (فهم نصوص اقتصادية ومالية)",
+     "name_fr": "Anglais (compréhension de textes économiques et financiers)",
+     "coefficient": null,
+     "duration_minutes": null,
+     "question_count": null,
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "phase_order": 3,
+     "domain": "SPECIALTY",
+     "specialty_key": "spec.bct.droit-bancaire",
+     "name_ar": "المقابلة الشفاهية: الدوافع، معرفة البنك المركزي، والقانون البنكي والمالي",
+     "name_fr": "Entretien oral : motivation, connaissance de la BCT, droit bancaire et financier",
+     "coefficient": null,
+     "duration_minutes": null,
+     "question_count": null,
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    }
+   ],
+   "physical_tests": [],
+   "required_documents": [
+    {
+     "text_ar": "[مقترح] التسجيل عن بعد عبر الرابط المحدد في البلاغ الرسمي وطباعة استمارة أو وصل الترشح",
+     "text_fr": "[Suggestion] Inscription en ligne via le lien indiqué dans l'avis officiel et impression du formulaire ou du récépissé de candidature",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "text_ar": "[مقترح] نسخة من بطاقة التعريف الوطنية",
+     "text_fr": "[Suggestion] Copie de la carte d'identité nationale",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "text_ar": "[مقترح] نسخة مطابقة للأصل من الشهادات العلمية (الباكالوريا والشهادة الجامعية المطلوبة)",
+     "text_fr": "[Suggestion] Copie certifiée conforme des diplômes (baccalauréat et diplôme universitaire exigé)",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "text_ar": "[مقترح] كشوف الأعداد لكل سنوات الدراسة الجامعية (قد تُعتمد في الانتقاء الأولي)",
+     "text_fr": "[Suggestion] Relevés de notes de toutes les années universitaires (pouvant servir à la présélection)",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "text_ar": "[مقترح] شهادة معادلة للشهادات المسلمة من مؤسسات أجنبية",
+     "text_fr": "[Suggestion] Attestation d'équivalence pour les diplômes délivrés à l'étranger",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "text_ar": "[مقترح] سيرة ذاتية وصورة شمسية حديثة",
+     "text_fr": "[Suggestion] Curriculum vitae et photo d'identité récente",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "text_ar": "[مقترح] بطاقة عدد 3 (السجل العدلي) حديثة — غالبا عند الانتداب النهائي",
+     "text_fr": "[Suggestion] Bulletin n° 3 (extrait du casier judiciaire) récent — généralement au stade du recrutement définitif",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "text_ar": "[مقترح] وثيقة تثبت الوضعية إزاء الخدمة الوطنية (للذكور)",
+     "text_fr": "[Suggestion] Document justifiant la situation vis-à-vis du service national (hommes)",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "text_ar": "[مقترح] شهادة طبية في القدرة على العمل (للناجحين)",
+     "text_fr": "[Suggestion] Certificat médical d'aptitude (pour les lauréats)",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    }
+   ],
+   "blueprint": {
+    "total_minutes": 128,
+    "fidelity": "APPROXIMATED",
+    "sections": [
+     {
+      "domain": "CULTURE_GENERALE",
+      "specialty_key": null,
+      "count": 12,
+      "minutes": 12
+     },
+     {
+      "domain": "SPECIALTY",
+      "specialty_key": "spec.bct.institution",
+      "count": 8,
+      "minutes": 10
+     },
+     {
+      "domain": "SPECIALTY",
+      "specialty_key": "spec.bct.droit-bancaire",
+      "count": 20,
+      "minutes": 35
+     },
+     {
+      "domain": "SPECIALTY",
+      "specialty_key": "spec.droit-administratif",
+      "count": 10,
+      "minutes": 15
+     },
+     {
+      "domain": "SPECIALTY",
+      "specialty_key": "spec.droit-public",
+      "count": 6,
+      "minutes": 8
+     },
+     {
+      "domain": "SPECIALTY",
+      "specialty_key": "spec.bct.regulation-bancaire",
+      "count": 6,
+      "minutes": 8
+     },
+     {
+      "domain": "ARABIC",
+      "specialty_key": null,
+      "count": 10,
+      "minutes": 15
+     },
+     {
+      "domain": "FRENCH",
+      "specialty_key": null,
+      "count": 10,
+      "minutes": 15
+     },
+     {
+      "domain": "ENGLISH",
+      "specialty_key": null,
+      "count": 6,
+      "minutes": 10
+     }
+    ]
+   }
+  },
+  {
+   "slug": "cadre-informaticien",
+   "title_ar": "إطار في الإعلامية ونظم المعلومات (مسار مقترح)",
+   "title_fr": "Cadre informaticien / ingénieur systèmes d'information (filière suggérée)",
+   "diploma_level": "LICENCE",
+   "eligibility": {
+    "min_age": null,
+    "max_age": null,
+    "genders": [
+     "M",
+     "F"
+    ],
+    "nationality": "TN",
+    "diplomas": [
+     "LICENCE",
+     "MASTER",
+     "ENGINEER",
+     "DOCTORATE"
+    ],
+    "specialties": [
+     "informatique",
+     "génie logiciel",
+     "génie informatique",
+     "systèmes d'information",
+     "réseaux",
+     "télécommunications",
+     "sécurité informatique",
+     "cybersécurité",
+     "data science",
+     "intelligence artificielle",
+     "إعلامية",
+     "هندسة البرمجيات",
+     "نظم المعلومات",
+     "شبكات",
+     "اتصالات"
+    ],
+    "min_height_cm_male": null,
+    "min_height_cm_female": null,
+    "marital_status": null,
+    "other_ar": [
+     "[مقترح] شهادة مهندس أو ماجستير أو إجازة في الإعلامية أو نظم المعلومات أو الشبكات أو السلامة المعلوماتية — مستوى الشهادة للتثبت",
+     "عدد الخطط في آخر دورة معروفة: 116 خطة لكل الاختصاصات مجتمعة (حسب ملخص مقال Managers)؛ توزيعها حسب الاختصاص غير معروف",
+     "[مقترح] تقسيم المناظرة إلى مسارات اختصاص (اقتصاد، تصرف ومحاسبة، قانون، إعلامية) هو تقسيم تحريري لأغراض المطابقة والتحضير؛ المرجع هو قائمة الخطط والشهادات في البلاغ الرسمي",
+     "[مقترح] الجنسية التونسية والتمتع بالحقوق المدنية وحسن السيرة (بطاقة عدد 3)",
+     "[مقترح] حدّ أقصى للسن مرجّح (كثيرا ما يكون 35 أو 40 سنة في مناظرات القطاع البنكي العمومي) — غير مؤكد، لذلك لم يُعتمد في المطابقة الآلية",
+     "[مقترح] تسوية الوضعية إزاء الخدمة الوطنية للذكور والقدرة البدنية على العمل (فحص طبي)",
+     "[مقترح] قد يُشترط حدّ أدنى لمعدل الشهادة أو انتقاء أولي حسب الملفات — للتثبت"
+    ],
+    "other_fr": [
+     "[Suggestion] Diplôme d'ingénieur, master ou licence en informatique, systèmes d'information, réseaux ou sécurité informatique — niveau exact à vérifier",
+     "Postes lors de la dernière session connue : 116, toutes spécialités confondues (selon le résumé de l'article Managers) ; répartition par spécialité inconnue",
+     "[Suggestion] Le découpage en filières (économie, gestion-comptabilité, droit, informatique) est éditorial, pour la correspondance automatique et la préparation ; seule la liste des postes et diplômes de l'avis officiel fait foi",
+     "[Suggestion] Nationalité tunisienne, jouissance des droits civiques, bonne moralité (bulletin n° 3)",
+     "[Suggestion] Limite d'âge probable (souvent 35 ou 40 ans dans les concours du secteur bancaire public) — non confirmée, donc non utilisée pour le filtrage automatique",
+     "[Suggestion] Situation régulière vis-à-vis du service national (hommes) et aptitude physique (visite médicale)",
+     "[Suggestion] Une moyenne minimale ou une présélection sur dossier est possible — à vérifier"
+    ],
+    "source_key": "s2",
+    "confidence": "LOW",
+    "needs_verification": true,
+    "source_quote": null
+   },
+   "phases": [
+    {
+     "order": 1,
+     "kind": "FILE_REVIEW",
+     "name_ar": "الترشح عن بعد ودراسة الملفات",
+     "name_fr": "Candidature en ligne et examen des dossiers",
+     "is_eliminatory": true,
+     "duration_minutes": null,
+     "description_ar": "[مقترح] التسجيل عبر الرابط أو المنصة المحددة في بلاغ البنك المركزي (يُرجّح أن يكون عبر موقع bct.gov.tn — للتثبت) ثم التثبت من استيفاء شروط الشهادة والاختصاص والسن. قد يتم انتقاء أولي حسب الملفات أو المعدلات (غير مؤكد).",
+     "description_fr": "[Suggestion] Inscription via le lien ou la plateforme indiqués dans l'avis de la BCT (probablement depuis bct.gov.tn — à vérifier), puis contrôle des conditions de diplôme, de spécialité et d'âge. Une présélection sur dossier ou sur moyennes est possible (non confirmée).",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "order": 2,
+     "kind": "WRITTEN",
+     "name_ar": "الاختبارات الكتابية (القبول الأولي)",
+     "name_fr": "Épreuves écrites d'admissibilité",
+     "is_eliminatory": true,
+     "duration_minutes": null,
+     "description_ar": "وجود مرحلة قبول أولي مؤكد ضمنيا بنشر «قائمة المقبولين» (admissibles) لـ116 خطة في ماي 2026 حسب Managers (المقال غير مفتوح). [مقترح] محتوى الاختبارات: ثقافة عامة واقتصادية، مادة أو مادتا اختصاص حسب المسار، ولغات (فرنسية/إنجليزية)؛ الشكل (أسئلة متعددة الاختيارات أو تحرير) والمدد والضوارب غير معروفة.",
+     "description_fr": "L'existence d'une phase d'admissibilité est déduite de la publication d'une « liste des admissibles » aux 116 postes en mai 2026 (Managers, article non ouvert). [Suggestion] Contenu : culture générale et économique, une ou deux épreuves de spécialité selon la filière, langues (français/anglais) ; format (QCM ou rédaction), durées et coefficients inconnus.",
+     "source_key": "s2",
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "order": 3,
+     "kind": "ORAL",
+     "name_ar": "الاختبار الشفاهي / المقابلة (القبول النهائي)",
+     "name_fr": "Épreuve orale / entretien d'admission",
+     "is_eliminatory": true,
+     "duration_minutes": null,
+     "description_ar": "[مقترح] مقابلة مع لجنة للمقبولين في الكتابي: التقديم الشخصي والدوافع، معارف الاختصاص، معرفة مهام البنك المركزي والمستجدات الاقتصادية والنقدية، والتواصل بالفرنسية وربما بالإنجليزية. استُنتج وجودها من عبارة «المقبولين» ولم يتأكد من نص رسمي.",
+     "description_fr": "[Suggestion] Entretien devant jury pour les admissibles : présentation et motivation, connaissances de spécialité, connaissance des missions de la BCT et de l'actualité économique et monétaire, communication en français et éventuellement en anglais. Phase déduite du terme « admissibles », non confirmée par un texte officiel.",
+     "source_key": "s2",
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "order": 4,
+     "kind": "MEDICAL",
+     "name_ar": "الفحص الطبي",
+     "name_fr": "Visite médicale d'aptitude",
+     "is_eliminatory": true,
+     "duration_minutes": null,
+     "description_ar": "[مقترح] فحص طبي للتثبت من القدرة على العمل قبل الانتداب، كما هو معمول به عادة في المؤسسات العمومية.",
+     "description_fr": "[Suggestion] Visite médicale d'aptitude avant l'embauche, comme habituellement dans les établissements publics.",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "order": 5,
+     "kind": "TRAINING",
+     "name_ar": "فترة التجربة والتكوين الإدماجي",
+     "name_fr": "Période d'essai et formation d'intégration",
+     "is_eliminatory": false,
+     "duration_minutes": null,
+     "description_ar": "[مقترح] فترة تجربة وتكوين إدماجي داخل البنك المركزي قبل الترسيم؛ المدة والشروط غير معروفة.",
+     "description_fr": "[Suggestion] Période d'essai et formation d'intégration au sein de la BCT avant titularisation ; durée et modalités inconnues.",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    }
+   ],
+   "subjects": [
+    {
+     "phase_order": 2,
+     "domain": "CULTURE_GENERALE",
+     "specialty_key": null,
+     "name_ar": "ثقافة عامة واقتصادية (الاقتصاد التونسي، المؤسسات، المستجدات الوطنية والدولية)",
+     "name_fr": "Culture générale et économique (économie tunisienne, institutions, actualité nationale et internationale)",
+     "coefficient": null,
+     "duration_minutes": null,
+     "question_count": null,
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "phase_order": 2,
+     "domain": "SPECIALTY",
+     "specialty_key": "spec.bct.institution",
+     "name_ar": "البنك المركزي التونسي: النظام الأساسي والمهام والحوكمة",
+     "name_fr": "La BCT : statut, missions et gouvernance",
+     "coefficient": null,
+     "duration_minutes": null,
+     "question_count": null,
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "phase_order": 2,
+     "domain": "SPECIALTY",
+     "specialty_key": "spec.informatique",
+     "name_ar": "الإعلامية (الخوارزميات والبرمجة، قواعد البيانات، الشبكات، السلامة المعلوماتية)",
+     "name_fr": "Informatique (algorithmique et programmation, bases de données, réseaux, sécurité)",
+     "coefficient": null,
+     "duration_minutes": null,
+     "question_count": null,
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "phase_order": 2,
+     "domain": "SPECIALTY",
+     "specialty_key": "spec.bct.systemes-paiement-fintech",
+     "name_ar": "أنظمة ووسائل الدفع والتكنولوجيا المالية",
+     "name_fr": "Systèmes et moyens de paiement, fintech",
+     "coefficient": null,
+     "duration_minutes": null,
+     "question_count": null,
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "phase_order": 2,
+     "domain": "LOGIC",
+     "specialty_key": null,
+     "name_ar": "المنطق والاستدلال",
+     "name_fr": "Logique et raisonnement",
+     "coefficient": null,
+     "duration_minutes": null,
+     "question_count": null,
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "phase_order": 2,
+     "domain": "FRENCH",
+     "specialty_key": null,
+     "name_ar": "اللغة الفرنسية (فهم، تحرير، تلخيص)",
+     "name_fr": "Langue française (compréhension, expression écrite, synthèse)",
+     "coefficient": null,
+     "duration_minutes": null,
+     "question_count": null,
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "phase_order": 2,
+     "domain": "ENGLISH",
+     "specialty_key": null,
+     "name_ar": "اللغة الإنجليزية (فهم نصوص اقتصادية ومالية)",
+     "name_fr": "Anglais (compréhension de textes économiques et financiers)",
+     "coefficient": null,
+     "duration_minutes": null,
+     "question_count": null,
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "phase_order": 3,
+     "domain": "SPECIALTY",
+     "specialty_key": "spec.informatique",
+     "name_ar": "المقابلة الشفاهية: الدوافع، معرفة البنك المركزي، والمشاريع والمهارات التقنية",
+     "name_fr": "Entretien oral : motivation, connaissance de la BCT, projets et compétences techniques",
+     "coefficient": null,
+     "duration_minutes": null,
+     "question_count": null,
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    }
+   ],
+   "physical_tests": [],
+   "required_documents": [
+    {
+     "text_ar": "[مقترح] التسجيل عن بعد عبر الرابط المحدد في البلاغ الرسمي وطباعة استمارة أو وصل الترشح",
+     "text_fr": "[Suggestion] Inscription en ligne via le lien indiqué dans l'avis officiel et impression du formulaire ou du récépissé de candidature",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "text_ar": "[مقترح] نسخة من بطاقة التعريف الوطنية",
+     "text_fr": "[Suggestion] Copie de la carte d'identité nationale",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "text_ar": "[مقترح] نسخة مطابقة للأصل من الشهادات العلمية (الباكالوريا والشهادة الجامعية المطلوبة)",
+     "text_fr": "[Suggestion] Copie certifiée conforme des diplômes (baccalauréat et diplôme universitaire exigé)",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "text_ar": "[مقترح] كشوف الأعداد لكل سنوات الدراسة الجامعية (قد تُعتمد في الانتقاء الأولي)",
+     "text_fr": "[Suggestion] Relevés de notes de toutes les années universitaires (pouvant servir à la présélection)",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "text_ar": "[مقترح] شهادة معادلة للشهادات المسلمة من مؤسسات أجنبية",
+     "text_fr": "[Suggestion] Attestation d'équivalence pour les diplômes délivrés à l'étranger",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "text_ar": "[مقترح] سيرة ذاتية وصورة شمسية حديثة",
+     "text_fr": "[Suggestion] Curriculum vitae et photo d'identité récente",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "text_ar": "[مقترح] بطاقة عدد 3 (السجل العدلي) حديثة — غالبا عند الانتداب النهائي",
+     "text_fr": "[Suggestion] Bulletin n° 3 (extrait du casier judiciaire) récent — généralement au stade du recrutement définitif",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "text_ar": "[مقترح] وثيقة تثبت الوضعية إزاء الخدمة الوطنية (للذكور)",
+     "text_fr": "[Suggestion] Document justifiant la situation vis-à-vis du service national (hommes)",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "text_ar": "[مقترح] شهادة طبية في القدرة على العمل (للناجحين)",
+     "text_fr": "[Suggestion] Certificat médical d'aptitude (pour les lauréats)",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    }
+   ],
+   "blueprint": {
+    "total_minutes": 125,
+    "fidelity": "APPROXIMATED",
+    "sections": [
+     {
+      "domain": "CULTURE_GENERALE",
+      "specialty_key": null,
+      "count": 10,
+      "minutes": 10
+     },
+     {
+      "domain": "SPECIALTY",
+      "specialty_key": "spec.bct.institution",
+      "count": 6,
+      "minutes": 8
+     },
+     {
+      "domain": "SPECIALTY",
+      "specialty_key": "spec.informatique",
+      "count": 25,
+      "minutes": 45
+     },
+     {
+      "domain": "SPECIALTY",
+      "specialty_key": "spec.bct.systemes-paiement-fintech",
+      "count": 12,
+      "minutes": 20
+     },
+     {
+      "domain": "LOGIC",
+      "specialty_key": null,
+      "count": 10,
+      "minutes": 15
+     },
+     {
+      "domain": "FRENCH",
+      "specialty_key": null,
+      "count": 8,
+      "minutes": 12
+     },
+     {
+      "domain": "ENGLISH",
+      "specialty_key": null,
+      "count": 10,
+      "minutes": 15
+     }
+    ]
+   }
+  }
+ ],
+ "specialty_syllabus": [
+  {
+   "key": "spec.bct.institution",
+   "parent_key": null,
+   "level": "UNIT",
+   "title_ar": "البنك المركزي التونسي: النظام الأساسي والمهام والحوكمة",
+   "title_fr": "La Banque Centrale de Tunisie : statut, missions et gouvernance",
+   "scope": "SUGGESTED",
+   "source_key": null,
+   "objectives": [
+    {
+     "key": "spec.bct.institution.o1",
+     "text_ar": "فهم موقع البنك المركزي في المنظومة المالية التونسية واستقلاليته",
+     "text_fr": "Comprendre la place de la BCT dans le système financier tunisien et son indépendance"
+    }
+   ]
+  },
+  {
+   "key": "spec.bct.institution.statut-missions",
+   "parent_key": "spec.bct.institution",
+   "level": "TOPIC",
+   "title_ar": "النظام الأساسي والمهام",
+   "title_fr": "Statut et missions",
+   "scope": "SUGGESTED",
+   "source_key": null,
+   "objectives": [
+    {
+     "key": "spec.bct.institution.statut-missions.o1",
+     "text_ar": "معرفة الإطار القانوني للبنك المركزي (القانون عدد 35 لسنة 2016 المؤرخ في 25 أفريل 2016 وتنقيحاته — للتثبت في الرائد الرسمي)",
+     "text_fr": "Connaître le cadre légal de la BCT (loi n° 2016-35 du 25 avril 2016 et ses modifications — à vérifier au JORT)"
+    },
+    {
+     "key": "spec.bct.institution.statut-missions.o2",
+     "text_ar": "تعداد المهام الأساسية: استقرار الأسعار، الحفاظ على الاستقرار المالي، إصدار العملة، التصرف في احتياطي الصرف، الإشراف على البنوك وأنظمة الدفع",
+     "text_fr": "Énumérer les missions : stabilité des prix, stabilité financière, émission monétaire, gestion des réserves de change, supervision bancaire et surveillance des systèmes de paiement"
+    }
+   ]
+  },
+  {
+   "key": "spec.bct.institution.gouvernance",
+   "parent_key": "spec.bct.institution",
+   "level": "TOPIC",
+   "title_ar": "الحوكمة والهياكل",
+   "title_fr": "Gouvernance et organes",
+   "scope": "SUGGESTED",
+   "source_key": null,
+   "objectives": [
+    {
+     "key": "spec.bct.institution.gouvernance.o1",
+     "text_ar": "التعرف على هياكل القرار (المحافظ، نائب المحافظ، مجلس الإدارة) ودور بلاغات مجلس الإدارة في السياسة النقدية — التفاصيل للتثبت",
+     "text_fr": "Identifier les organes de décision (gouverneur, vice-gouverneur, conseil d'administration) et le rôle des communiqués du conseil en matière monétaire — détails à vérifier"
+    },
+    {
+     "key": "spec.bct.institution.gouvernance.o2",
+     "text_ar": "معرفة أهم منشورات البنك المركزي (التقرير السنوي، البلاغات، الإحصائيات النقدية والمالية)",
+     "text_fr": "Connaître les principales publications de la BCT (rapport annuel, communiqués, statistiques monétaires et financières)"
+    }
+   ]
+  },
+  {
+   "key": "spec.bct.macroeconomie",
+   "parent_key": null,
+   "level": "UNIT",
+   "title_ar": "الاقتصاد الكلي والاقتصاد التونسي",
+   "title_fr": "Macroéconomie et économie tunisienne",
+   "scope": "SUGGESTED",
+   "source_key": null,
+   "objectives": [
+    {
+     "key": "spec.bct.macroeconomie.o1",
+     "text_ar": "تحليل التوازنات الكلية الكبرى للاقتصاد التونسي",
+     "text_fr": "Analyser les grands équilibres macroéconomiques de l'économie tunisienne"
+    }
+   ]
+  },
+  {
+   "key": "spec.bct.macroeconomie.comptabilite-nationale",
+   "parent_key": "spec.bct.macroeconomie",
+   "level": "TOPIC",
+   "title_ar": "المحاسبة الوطنية والنمو",
+   "title_fr": "Comptabilité nationale et croissance",
+   "scope": "SUGGESTED",
+   "source_key": null,
+   "objectives": [
+    {
+     "key": "spec.bct.macroeconomie.comptabilite-nationale.o1",
+     "text_ar": "التمييز بين الناتج المحلي الإجمالي الاسمي والحقيقي وحساب نسب النمو",
+     "text_fr": "Distinguer PIB nominal et réel et calculer des taux de croissance"
+    },
+    {
+     "key": "spec.bct.macroeconomie.comptabilite-nationale.o2",
+     "text_ar": "فهم العلاقات بين الادخار والاستثمار والاستهلاك والمبادلات الخارجية",
+     "text_fr": "Comprendre les relations entre épargne, investissement, consommation et échanges extérieurs"
+    }
+   ]
+  },
+  {
+   "key": "spec.bct.macroeconomie.balance-paiements-change",
+   "parent_key": "spec.bct.macroeconomie",
+   "level": "TOPIC",
+   "title_ar": "ميزان الدفوعات وسعر الصرف",
+   "title_fr": "Balance des paiements et change",
+   "scope": "SUGGESTED",
+   "source_key": null,
+   "objectives": [
+    {
+     "key": "spec.bct.macroeconomie.balance-paiements-change.o1",
+     "text_ar": "قراءة ميزان الدفوعات (الميزان الجاري، حساب رأس المال والعمليات المالية) ومؤشر احتياطي الصرف بأيام التوريد",
+     "text_fr": "Lire la balance des paiements (compte courant, compte de capital et financier) et l'indicateur des réserves de change en jours d'importation"
+    },
+    {
+     "key": "spec.bct.macroeconomie.balance-paiements-change.o2",
+     "text_ar": "فهم أنظمة الصرف وآثار تغيّر سعر صرف الدينار",
+     "text_fr": "Comprendre les régimes de change et les effets des variations du dinar"
+    }
+   ]
+  },
+  {
+   "key": "spec.bct.macroeconomie.finances-publiques-dette",
+   "parent_key": "spec.bct.macroeconomie",
+   "level": "TOPIC",
+   "title_ar": "المالية العمومية والدين",
+   "title_fr": "Finances publiques et dette",
+   "scope": "SUGGESTED",
+   "source_key": null,
+   "objectives": [
+    {
+     "key": "spec.bct.macroeconomie.finances-publiques-dette.o1",
+     "text_ar": "فهم عجز الميزانية وطرق تمويله وعلاقته بالسياسة النقدية",
+     "text_fr": "Comprendre le déficit budgétaire, ses modes de financement et son lien avec la politique monétaire"
+    }
+   ]
+  },
+  {
+   "key": "spec.bct.politique-monetaire",
+   "parent_key": null,
+   "level": "UNIT",
+   "title_ar": "الاقتصاد النقدي والسياسة النقدية",
+   "title_fr": "Économie monétaire et politique monétaire",
+   "scope": "SUGGESTED",
+   "source_key": null,
+   "objectives": [
+    {
+     "key": "spec.bct.politique-monetaire.o1",
+     "text_ar": "فهم كيفية إدارة البنك المركزي للسيولة والتضخم",
+     "text_fr": "Comprendre comment une banque centrale pilote la liquidité et l'inflation"
+    }
+   ]
+  },
+  {
+   "key": "spec.bct.politique-monetaire.monnaie-creation",
+   "parent_key": "spec.bct.politique-monetaire",
+   "level": "TOPIC",
+   "title_ar": "النقد وخلق النقود",
+   "title_fr": "Monnaie et création monétaire",
+   "scope": "SUGGESTED",
+   "source_key": null,
+   "objectives": [
+    {
+     "key": "spec.bct.politique-monetaire.monnaie-creation.o1",
+     "text_ar": "تعريف وظائف النقد والمجمّعات النقدية وآلية خلق النقود من طرف البنوك",
+     "text_fr": "Définir les fonctions de la monnaie, les agrégats monétaires et la création monétaire par les banques"
+    },
+    {
+     "key": "spec.bct.politique-monetaire.monnaie-creation.o2",
+     "text_ar": "فهم القاعدة النقدية والمضاعف النقدي وحدودهما",
+     "text_fr": "Comprendre la base monétaire, le multiplicateur et ses limites"
+    }
+   ]
+  },
+  {
+   "key": "spec.bct.politique-monetaire.instruments",
+   "parent_key": "spec.bct.politique-monetaire",
+   "level": "TOPIC",
+   "title_ar": "أدوات السياسة النقدية",
+   "title_fr": "Instruments de la politique monétaire",
+   "scope": "SUGGESTED",
+   "source_key": null,
+   "objectives": [
+    {
+     "key": "spec.bct.politique-monetaire.instruments.o1",
+     "text_ar": "شرح دور نسبة الفائدة المديرية وعمليات السوق المفتوحة والتسهيلات الدائمة والاحتياطي الإجباري",
+     "text_fr": "Expliquer le rôle du taux directeur, des opérations d'open market, des facilités permanentes et des réserves obligatoires"
+    },
+    {
+     "key": "spec.bct.politique-monetaire.instruments.o2",
+     "text_ar": "تحليل قنوات انتقال السياسة النقدية إلى الاقتصاد الحقيقي",
+     "text_fr": "Analyser les canaux de transmission de la politique monétaire à l'économie réelle"
+    }
+   ]
+  },
+  {
+   "key": "spec.bct.politique-monetaire.inflation",
+   "parent_key": "spec.bct.politique-monetaire",
+   "level": "TOPIC",
+   "title_ar": "التضخم واستقرار الأسعار",
+   "title_fr": "Inflation et stabilité des prix",
+   "scope": "SUGGESTED",
+   "source_key": null,
+   "objectives": [
+    {
+     "key": "spec.bct.politique-monetaire.inflation.o1",
+     "text_ar": "حساب نسبة التضخم انطلاقا من مؤشر أسعار الاستهلاك والتمييز بين التضخم العام والتضخم الأساسي",
+     "text_fr": "Calculer l'inflation à partir de l'indice des prix à la consommation et distinguer inflation globale et sous-jacente"
+    }
+   ]
+  },
+  {
+   "key": "spec.bct.regulation-bancaire",
+   "parent_key": null,
+   "level": "UNIT",
+   "title_ar": "النظام البنكي والقواعد الاحترازية والاستقرار المالي",
+   "title_fr": "Système bancaire, réglementation prudentielle et stabilité financière",
+   "scope": "SUGGESTED",
+   "source_key": null,
+   "objectives": [
+    {
+     "key": "spec.bct.regulation-bancaire.o1",
+     "text_ar": "فهم أسس الرقابة على البنوك والمؤسسات المالية",
+     "text_fr": "Comprendre les fondements de la supervision des banques et établissements financiers"
+    }
+   ]
+  },
+  {
+   "key": "spec.bct.regulation-bancaire.systeme-bancaire",
+   "parent_key": "spec.bct.regulation-bancaire",
+   "level": "TOPIC",
+   "title_ar": "النظام البنكي التونسي",
+   "title_fr": "Le système bancaire tunisien",
+   "scope": "SUGGESTED",
+   "source_key": null,
+   "objectives": [
+    {
+     "key": "spec.bct.regulation-bancaire.systeme-bancaire.o1",
+     "text_ar": "التمييز بين البنوك والمؤسسات المالية والبنوك غير المقيمة ومؤسسات الدفع ومعرفة الإطار القانوني (القانون عدد 48 لسنة 2016 المتعلق بالبنوك والمؤسسات المالية — للتثبت)",
+     "text_fr": "Distinguer banques, établissements financiers, banques non-résidentes et établissements de paiement ; connaître le cadre légal (loi n° 2016-48 relative aux banques et établissements financiers — à vérifier)"
+    }
+   ]
+  },
+  {
+   "key": "spec.bct.regulation-bancaire.prudentiel",
+   "parent_key": "spec.bct.regulation-bancaire",
+   "level": "TOPIC",
+   "title_ar": "القواعد الاحترازية",
+   "title_fr": "Règles prudentielles",
+   "scope": "SUGGESTED",
+   "source_key": null,
+   "objectives": [
+    {
+     "key": "spec.bct.regulation-bancaire.prudentiel.o1",
+     "text_ar": "شرح مبادئ لجنة بازل (الأموال الذاتية، نسبة الملاءة، نسب السيولة) وتطبيقها العام في تونس",
+     "text_fr": "Expliquer les principes de Bâle (fonds propres, ratio de solvabilité, ratios de liquidité) et leur application générale en Tunisie"
+    },
+    {
+     "key": "spec.bct.regulation-bancaire.prudentiel.o2",
+     "text_ar": "فهم تصنيف المستحقات وتكوين المدخرات على الديون المصنفة",
+     "text_fr": "Comprendre la classification des créances et le provisionnement des créances classées"
+    }
+   ]
+  },
+  {
+   "key": "spec.bct.regulation-bancaire.stabilite-financiere",
+   "parent_key": "spec.bct.regulation-bancaire",
+   "level": "TOPIC",
+   "title_ar": "الاستقرار المالي",
+   "title_fr": "Stabilité financière",
+   "scope": "SUGGESTED",
+   "source_key": null,
+   "objectives": [
+    {
+     "key": "spec.bct.regulation-bancaire.stabilite-financiere.o1",
+     "text_ar": "تحديد المخاطر النظامية ودور الرقابة الاحترازية الكلية واختبارات الضغط",
+     "text_fr": "Identifier les risques systémiques et le rôle de la surveillance macroprudentielle et des tests de résistance"
+    }
+   ]
+  },
+  {
+   "key": "spec.bct.statistique-econometrie",
+   "parent_key": null,
+   "level": "UNIT",
+   "title_ar": "الإحصاء والاقتصاد القياسي",
+   "title_fr": "Statistique et économétrie",
+   "scope": "SUGGESTED",
+   "source_key": null,
+   "objectives": [
+    {
+     "key": "spec.bct.statistique-econometrie.o1",
+     "text_ar": "استعمال الأدوات الكمية لتحليل المعطيات الاقتصادية والمالية",
+     "text_fr": "Utiliser les outils quantitatifs pour analyser les données économiques et financières"
+    }
+   ]
+  },
+  {
+   "key": "spec.bct.statistique-econometrie.statistique-probabilites",
+   "parent_key": "spec.bct.statistique-econometrie",
+   "level": "TOPIC",
+   "title_ar": "الإحصاء الوصفي والاحتمالات",
+   "title_fr": "Statistique descriptive et probabilités",
+   "scope": "SUGGESTED",
+   "source_key": null,
+   "objectives": [
+    {
+     "key": "spec.bct.statistique-econometrie.statistique-probabilites.o1",
+     "text_ar": "حساب المؤشرات الإحصائية (المتوسط، التباين، الارتباط) وتأويلها",
+     "text_fr": "Calculer et interpréter les indicateurs statistiques (moyenne, variance, corrélation)"
+    },
+    {
+     "key": "spec.bct.statistique-econometrie.statistique-probabilites.o2",
+     "text_ar": "تطبيق القوانين الاحتمالية الأساسية (ذات الحدين، الطبيعي) ومبادئ الاختبارات الإحصائية",
+     "text_fr": "Appliquer les lois de probabilité usuelles (binomiale, normale) et les principes des tests statistiques"
+    }
+   ]
+  },
+  {
+   "key": "spec.bct.statistique-econometrie.econometrie-series",
+   "parent_key": "spec.bct.statistique-econometrie",
+   "level": "TOPIC",
+   "title_ar": "الانحدار والسلاسل الزمنية",
+   "title_fr": "Régression et séries temporelles",
+   "scope": "SUGGESTED",
+   "source_key": null,
+   "objectives": [
+    {
+     "key": "spec.bct.statistique-econometrie.econometrie-series.o1",
+     "text_ar": "تقدير وتأويل نموذج انحدار خطي بالمربعات الصغرى",
+     "text_fr": "Estimer et interpréter un modèle de régression linéaire par les moindres carrés"
+    },
+    {
+     "key": "spec.bct.statistique-econometrie.econometrie-series.o2",
+     "text_ar": "التعرف على مفاهيم الاستقرارية والاتجاه والموسمية في السلاسل الزمنية",
+     "text_fr": "Reconnaître stationnarité, tendance et saisonnalité dans les séries temporelles"
+    }
+   ]
+  },
+  {
+   "key": "spec.bct.droit-bancaire",
+   "parent_key": null,
+   "level": "UNIT",
+   "title_ar": "القانون البنكي والمالي",
+   "title_fr": "Droit bancaire et financier",
+   "scope": "SUGGESTED",
+   "source_key": null,
+   "objectives": [
+    {
+     "key": "spec.bct.droit-bancaire.o1",
+     "text_ar": "معرفة القواعد القانونية المنظمة للنشاط البنكي والمالي في تونس",
+     "text_fr": "Connaître les règles juridiques encadrant l'activité bancaire et financière en Tunisie"
+    }
+   ]
+  },
+  {
+   "key": "spec.bct.droit-bancaire.loi-bancaire",
+   "parent_key": "spec.bct.droit-bancaire",
+   "level": "TOPIC",
+   "title_ar": "قانون البنوك والمؤسسات المالية",
+   "title_fr": "Loi bancaire",
+   "scope": "SUGGESTED",
+   "source_key": null,
+   "objectives": [
+    {
+     "key": "spec.bct.droit-bancaire.loi-bancaire.o1",
+     "text_ar": "معرفة شروط الترخيص والنشاط والرقابة والعقوبات وتسوية البنوك المتعثرة حسب القانون البنكي (للتثبت من النص)",
+     "text_fr": "Connaître agrément, activités, contrôle, sanctions et résolution des banques en difficulté selon la loi bancaire (texte à vérifier)"
+    }
+   ]
+  },
+  {
+   "key": "spec.bct.droit-bancaire.instruments-paiement",
+   "parent_key": "spec.bct.droit-bancaire",
+   "level": "TOPIC",
+   "title_ar": "وسائل الدفع في القانون التجاري",
+   "title_fr": "Instruments de paiement en droit commercial",
+   "scope": "SUGGESTED",
+   "source_key": null,
+   "objectives": [
+    {
+     "key": "spec.bct.droit-bancaire.instruments-paiement.o1",
+     "text_ar": "التمييز بين الشيك والكمبيالة والسند لأمر والتحويل وقواعدها الأساسية في المجلة التجارية",
+     "text_fr": "Distinguer chèque, lettre de change, billet à ordre et virement et leurs règles de base dans le code de commerce"
+    }
+   ]
+  },
+  {
+   "key": "spec.bct.droit-bancaire.lab-ft",
+   "parent_key": "spec.bct.droit-bancaire",
+   "level": "TOPIC",
+   "title_ar": "مكافحة غسل الأموال وتمويل الإرهاب",
+   "title_fr": "Lutte contre le blanchiment et le financement du terrorisme",
+   "scope": "SUGGESTED",
+   "source_key": null,
+   "objectives": [
+    {
+     "key": "spec.bct.droit-bancaire.lab-ft.o1",
+     "text_ar": "معرفة واجبات اليقظة للمؤسسات المالية (التعرف على الحريف، التصريح بالشبهة) ودور اللجنة التونسية للتحاليل المالية",
+     "text_fr": "Connaître les obligations de vigilance des institutions financières (connaissance du client, déclaration de soupçon) et le rôle de la Commission tunisienne des analyses financières (CTAF)"
+    }
+   ]
+  },
+  {
+   "key": "spec.bct.systemes-paiement-fintech",
+   "parent_key": null,
+   "level": "UNIT",
+   "title_ar": "أنظمة ووسائل الدفع والتكنولوجيا المالية",
+   "title_fr": "Systèmes et moyens de paiement, fintech",
+   "scope": "SUGGESTED",
+   "source_key": null,
+   "objectives": [
+    {
+     "key": "spec.bct.systemes-paiement-fintech.o1",
+     "text_ar": "فهم دور البنك المركزي في إصدار العملة ومراقبة أنظمة الدفع والتحول الرقمي المالي",
+     "text_fr": "Comprendre le rôle de la BCT dans l'émission de la monnaie, la surveillance des systèmes de paiement et la transformation numérique financière"
+    }
+   ]
+  },
+  {
+   "key": "spec.bct.systemes-paiement-fintech.systemes-paiement",
+   "parent_key": "spec.bct.systemes-paiement-fintech",
+   "level": "TOPIC",
+   "title_ar": "أنظمة الدفع والتسوية",
+   "title_fr": "Systèmes de paiement et de règlement",
+   "scope": "SUGGESTED",
+   "source_key": null,
+   "objectives": [
+    {
+     "key": "spec.bct.systemes-paiement-fintech.systemes-paiement.o1",
+     "text_ar": "التمييز بين أنظمة التسوية الإجمالية الفورية للمبالغ الكبيرة وأنظمة المقاصة الإلكترونية للمبالغ الصغيرة ومخاطرها",
+     "text_fr": "Distinguer les systèmes de règlement brut en temps réel (gros montants) et la télécompensation (petits montants) ainsi que leurs risques"
+    },
+    {
+     "key": "spec.bct.systemes-paiement-fintech.systemes-paiement.o2",
+     "text_ar": "معرفة مهام إصدار الأوراق النقدية والقطع النقدية وجودة النقد الائتماني",
+     "text_fr": "Connaître l'émission des billets et pièces et la qualité de la monnaie fiduciaire"
+    }
+   ]
+  },
+  {
+   "key": "spec.bct.systemes-paiement-fintech.fintech-cyber",
+   "parent_key": "spec.bct.systemes-paiement-fintech",
+   "level": "TOPIC",
+   "title_ar": "التكنولوجيا المالية والسلامة المعلوماتية",
+   "title_fr": "Fintech et cybersécurité financière",
+   "scope": "SUGGESTED",
+   "source_key": null,
+   "objectives": [
+    {
+     "key": "spec.bct.systemes-paiement-fintech.fintech-cyber.o1",
+     "text_ar": "التعرف على مؤسسات الدفع والدفع عبر الهاتف الجوال والعملات الرقمية للبنوك المركزية ومخاطرها",
+     "text_fr": "Connaître les établissements de paiement, le paiement mobile, les monnaies numériques de banque centrale et leurs risques"
+    },
+    {
+     "key": "spec.bct.systemes-paiement-fintech.fintech-cyber.o2",
+     "text_ar": "معرفة أسس السلامة المعلوماتية في القطاع المالي (استمرارية النشاط، حماية المعطيات)",
+     "text_fr": "Connaître les bases de la cybersécurité dans le secteur financier (continuité d'activité, protection des données)"
+    }
+   ]
+  }
+ ],
+ "past_exams": [],
+ "tips_ar": [
+  "تابع البلاغات على الموقع الرسمي للبنك المركزي (bct.gov.tn) وفعّل تنبيهات المنصة حسب اختصاصك: مناظرات البنك المركزي غير منتظمة وآجال التسجيل قصيرة.",
+  "لا تترشح إلا عبر الرابط المذكور في البلاغ الرسمي، واحذر من الصفحات التي تطلب مالا مقابل «التسجيل» أو «المواضيع الرسمية».",
+  "اقرأ النظام الأساسي للبنك المركزي (القانون عدد 35 لسنة 2016) وحدد مهامه الكبرى: استقرار الأسعار والاستقرار المالي وإصدار العملة والرقابة البنكية.",
+  "اطّلع على آخر تقرير سنوي للبنك المركزي وعلى بلاغات مجلس إدارته: نسبة الفائدة المديرية، التضخم، احتياطي الصرف بأيام التوريد، سعر صرف الدينار.",
+  "راجع أساسيات الاقتصاد النقدي والقواعد الاحترازية (بازل، نسبة الملاءة، السيولة) مهما كان اختصاصك، فهي لغة العمل اليومية بالبنك المركزي.",
+  "اشتغل على الفرنسية والإنجليزية الاقتصادية: أغلب الوثائق التقنية بالفرنسية والمراجع الدولية بالإنجليزية.",
+  "تدرّب على الاختبارات في ظروف حقيقية (وقت محدد) ثم حضّر للمقابلة: تقديم شخصي قصير، دوافع واضحة، ورأي معلّل في مستجد اقتصادي.",
+  "جهّز مبكرا كشوف الأعداد ونسخ الشهادات وشهادة المعادلة إن لزم، فالانتقاء الأولي قد يعتمد على الملفات."
+ ],
+ "tips_fr": [
+  "Suivez les avis sur le site officiel de la BCT (bct.gov.tn) et activez les alertes de la plateforme selon votre spécialité : les concours de la BCT sont irréguliers et les délais d'inscription courts.",
+  "Ne candidatez que via le lien indiqué dans l'avis officiel ; méfiez-vous des pages qui font payer une « inscription » ou des « sujets officiels ».",
+  "Lisez le statut de la BCT (loi n° 2016-35) et retenez ses grandes missions : stabilité des prix, stabilité financière, émission monétaire, supervision bancaire.",
+  "Parcourez le dernier rapport annuel de la BCT et les communiqués de son conseil d'administration : taux directeur, inflation, réserves de change en jours d'importation, taux de change du dinar.",
+  "Révisez les bases de l'économie monétaire et de la réglementation prudentielle (Bâle, solvabilité, liquidité) quelle que soit votre filière : c'est le langage quotidien de la maison.",
+  "Travaillez le français et l'anglais économiques : la documentation technique est surtout en français, les références internationales en anglais.",
+  "Entraînez-vous en conditions réelles (temps limité), puis préparez l'entretien : présentation courte, motivation claire et avis argumenté sur un sujet d'actualité économique.",
+  "Préparez tôt relevés de notes, copies de diplômes et attestation d'équivalence si nécessaire : la présélection peut se faire sur dossier."
+ ],
+ "research_notes": "LIMITE MÉTHODOLOGIQUE MAJEURE : lors de cette passe, le quota WebSearch partagé était épuisé dès la première requête (aucune recherche exécutée) et WebFetch renvoie EGRESS_BLOCKED pour tous les domaines testés (www.bct.gov.tn, managers.tn, www.concours.gov.tn, www.lapresse.tn, fr.wikipedia.org, legislation-securite.tn). AUCUNE page n'a été lue directement. Le seul fait sourcé provient du résumé de recherche consigné le même jour par l'équipe (docs/research/01-market-raw.md, section « BCT & banks », et docs/01-market-research.md) : concours de la BCT portant sur 116 postes, rattaché à 2025, liste des admissibles publiée par Managers le 07/05/2026 (s2). C'est pourquoi TOUS les faits portent needs_verification=true (aucun fait « officiel » publiable en l'état) et aucun source_quote n'est fourni. À VÉRIFIER EN PRIORITÉ sur l'avis officiel de la BCT (bct.gov.tn, rubrique recrutement/concours) et l'article s2 : (1) intitulé exact du concours, millésime (2025 ?), date de l'avis, période d'inscription et plateforme, dates de l'écrit et de l'oral ; (2) liste des postes/grades et répartition des 116 postes par spécialité (les 4 filières économiste, gestion-finance-comptabilité, juriste, informaticien sont un DÉCOUPAGE ÉDITORIAL SUGGÉRÉ ; d'autres profils — statisticiens, ingénieurs, techniciens, agents d'exécution ou de sécurité — ont pu être recrutés) ; (3) conditions : niveau de diplôme (licence ou master/ingénieur), moyenne minimale éventuelle, limite d'âge et date de référence (laissées à null pour ne pas exclure à tort dans le moteur d'alertes packages/shared/src/eligibility.ts ; diplômes listés largement LICENCE/MASTER/ENGINEER/DOCTORATE) ; (4) nature, format (QCM/rédaction), durées et coefficients des épreuves, existence et contenu de l'oral (déduit du seul terme « admissibles »), visite médicale, période d'essai ; (5) pièces du dossier. Nombre de candidats, nombre d'admissibles et résultats définitifs : non trouvés. Éditions 2023–2024 : non documentées. Session 2026/2027 marquée EXPECTED sans aucune annonce consultée. Références juridiques citées dans le syllabus (loi n° 2016-35 du 25/04/2016 portant statut de la BCT, loi n° 2016-48 relative aux banques et établissements financiers, CTAF) : connaissances générales de l'équipe, non relues au JORT dans cette passe. Aucune annale (officielle ou communautaire) identifiée : past_exams vide. Blueprints tous APPROXIMATED (aucun format officiel connu). Pas d'épreuves physiques attendues pour ce concours (physical_tests vides)."
+}

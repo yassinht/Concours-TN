@@ -1,0 +1,1791 @@
+{
+ "family": {
+  "slug": "banques-publiques",
+  "field": "FINANCE",
+  "organization": {
+   "slug": "banques-publiques-tunisiennes",
+   "name_ar": "البنوك العمومية التونسية (الشركة التونسية للبنك، البنك الوطني الفلاحي، بنك الإسكان، بنك التضامن التونسي)",
+   "name_fr": "Banques publiques tunisiennes (STB Bank, BNA Bank, BH Bank, Banque Tunisienne de Solidarité)",
+   "ministry_fr": "Ministère des Finances (État actionnaire)",
+   "website": null
+  },
+  "name_ar": "مناظرات انتداب الأعوان والإطارات بالبنوك العمومية",
+  "name_fr": "Concours de recrutement des agents et cadres des banques publiques",
+  "description_ar": "مناظرات خارجية تنظمها كل بنك عمومي على حدة لانتداب أعوان (استقبال، شبابيك، عمل تجاري) وإطارات (مكلفون بالحرفاء، مالية، محاسبة، إعلامية، قانون). حسب الصحافة المحلية: فتحت الشركة التونسية للبنك (STB Bank) في جوان 2026 مناظرة وطنية خارجية لانتداب 279 عونا وإطارا بالاختبارات الكتابية ثم الشفاهية (آخر أجل للتسجيل 1 جويلية 2026)، وفتح البنك الوطني الفلاحي (BNA Bank) في سبتمبر 2026 مناظرة لانتداب 200 عون وإطار (آخر أجل 17 سبتمبر 2026، السن القصوى 40 سنة)، كما أعلن بنك الإسكان (BH Bank) في جويلية 2024 عن انتداب 220 إطارا بصيغة تعاقدية. لم يُعثر على مناظرة حديثة لبنك التضامن التونسي، ولا يوجد حسب علمنا «بنك بريدي» ينتدب بالمناظرة. تنبيه: لم تُفتح أي صفحة مباشرة أثناء هذا البحث، والبرامج والضوارب غير منشورة؛ كل المعطيات تحتاج إلى تثبت من البلاغات الرسمية للبنوك.",
+  "description_fr": "Concours externes organisés séparément par chaque banque publique pour recruter des agents (accueil, guichet, commercial) et des cadres (chargés de clientèle, finance, comptabilité, informatique, droit). Selon la presse : STB Bank a ouvert en juin 2026 un concours national externe pour 279 agents et cadres, avec écrit puis oral (inscriptions jusqu'au 01/07/2026) ; BNA Bank a ouvert en septembre 2026 un concours pour 200 agents et cadres (clôture le 17/09/2026, 40 ans au plus) ; BH Bank a annoncé en juillet 2024 le recrutement de 220 cadres contractuels. Aucun concours récent de la BTS n'a été trouvé, et à notre connaissance aucune « Banque postale » ne recrute par concours. Attention : aucune page n'a pu être ouverte directement pendant cette recherche, et ni programmes ni coefficients ne sont publiés ; toutes les données sont à vérifier sur les avis officiels des banques.",
+  "frequency": "IRREGULAR",
+  "frequency_confidence": "LOW",
+  "popularity": 4,
+  "keywords": [
+   "banque",
+   "banques publiques",
+   "concours banque Tunisie",
+   "recrutement banque 2026",
+   "STB",
+   "STB Bank",
+   "Société Tunisienne de Banque",
+   "BNA",
+   "BNA Bank",
+   "Banque Nationale Agricole",
+   "BH Bank",
+   "Banque de l'Habitat",
+   "BTS",
+   "Banque Tunisienne de Solidarité",
+   "chargé de clientèle",
+   "cadre bancaire",
+   "agent bancaire",
+   "guichetier",
+   "finance",
+   "comptabilité",
+   "مناظرة بنك",
+   "انتداب بنك",
+   "البنوك العمومية",
+   "الشركة التونسية للبنك",
+   "البنك الوطني الفلاحي",
+   "بنك الإسكان",
+   "بنك التضامن التونسي",
+   "مكلف بالحرفاء",
+   "إطار بنكي",
+   "عون بنكي"
+  ]
+ },
+ "sources": [
+  {
+   "key": "s1",
+   "title": "STB Bank recrute 279 agents et cadres : un concours national ouvert pour 2026 (WebManagerCenter, 03/06/2026)",
+   "url": "https://www.webmanagercenter.com/2026/06/03/567656/stb-bank-recrute-279-agents-et-cadres-un-concours-national-ouvert-pour-2026/",
+   "publisher": "WebManagerCenter",
+   "source_type": "SECONDARY",
+   "publication_date": "2026-06-03",
+   "retrieved_at": "2026-10-07",
+   "confidence": "MEDIUM",
+   "notes": "PAGE NON OUVERTE dans cette passe : WebFetch renvoie EGRESS_BLOCKED pour ce domaine et le quota WebSearch partagé était épuisé. URL et faits repris du journal de recherche consigné le même jour par l'équipe (docs/research/01-market-raw.md, section « BCT & banks », et content/competitions/_openings.json). Titre reconstitué à partir de l'URL. Faits attribués à cet article par le journal : concours national externe STB Bank 2026, 279 postes (agents et cadres), épreuves écrites puis orales. Date de publication déduite de l'URL. À relire : répartition par grade/spécialité, conditions d'âge et de diplôme, plateforme d'inscription, nature et coefficients des épreuves."
+  },
+  {
+   "key": "s2",
+   "title": "La STB lance un concours pour le recrutement de 279 agents et cadres (Tunisie Numérique)",
+   "url": "https://www.tunisienumerique.com/la-stb-lance-un-concours-pour-le-recrutement-de-279-agents-et-cadres/",
+   "publisher": "Tunisie Numérique",
+   "source_type": "SECONDARY",
+   "publication_date": null,
+   "retrieved_at": "2026-10-07",
+   "confidence": "MEDIUM",
+   "notes": "PAGE NON OUVERTE dans cette passe : WebFetch renvoie EGRESS_BLOCKED pour ce domaine et le quota WebSearch partagé était épuisé. URL et faits repris du journal de recherche consigné le même jour par l'équipe (docs/research/01-market-raw.md, section « BCT & banks », et content/competitions/_openings.json). Titre reconstitué à partir de l'URL. Faits attribués par content/competitions/_openings.json : 279 agents et cadres, date limite d'inscription 01/07/2026, niveaux de diplôme bac, licence, mastère, ingénieur. Date de publication inconnue (probablement juin 2026)."
+  },
+  {
+   "key": "s3",
+   "title": "Concours BNA 2026 : 200 postes à pourvoir, profils recherchés et date limite (WebManagerCenter, 08/09/2026)",
+   "url": "https://www.webmanagercenter.com/2026/09/08/572443/concours-bna-2026-200-postes-a-pourvoir-profils-recherches-et-date-limite/",
+   "publisher": "WebManagerCenter",
+   "source_type": "SECONDARY",
+   "publication_date": "2026-09-08",
+   "retrieved_at": "2026-10-07",
+   "confidence": "MEDIUM",
+   "notes": "PAGE NON OUVERTE dans cette passe : WebFetch renvoie EGRESS_BLOCKED pour ce domaine et le quota WebSearch partagé était épuisé. URL et faits repris du journal de recherche consigné le même jour par l'équipe (docs/research/01-market-raw.md, section « BCT & banks », et content/competitions/_openings.json). Titre reconstitué à partir de l'URL. Faits attribués par le journal : BNA Bank, 200 postes (2026), date limite d'inscription 17/09/2026. L'article détaillerait les « profils recherchés » : liste NON récupérée, à relire en priorité."
+  },
+  {
+   "key": "s4",
+   "title": "BNA : un concours externe pour recruter 200 agents et cadres (La Presse de Tunisie, 11/09/2026)",
+   "url": "https://www.lapresse.tn/2026/09/11/bna-un-concours-externe-pour-recruter-200-agents-et-cadres",
+   "publisher": "La Presse de Tunisie",
+   "source_type": "SECONDARY",
+   "publication_date": "2026-09-11",
+   "retrieved_at": "2026-10-07",
+   "confidence": "MEDIUM",
+   "notes": "PAGE NON OUVERTE dans cette passe : WebFetch renvoie EGRESS_BLOCKED pour ce domaine et le quota WebSearch partagé était épuisé. URL et faits repris du journal de recherche consigné le même jour par l'équipe (docs/research/01-market-raw.md, section « BCT & banks », et content/competitions/_openings.json). Titre reconstitué à partir de l'URL. Faits attribués par content/competitions/_openings.json : concours externe, 200 agents et cadres, date limite 17/09/2026, âge maximum 40 ans, niveaux bac, licence, mastère, ingénieur. La date de référence de l'âge et la répartition par niveau ne sont pas connues."
+  },
+  {
+   "key": "s5",
+   "title": "La BH Bank recrute 220 cadres contractuels (Managers, 31/07/2024)",
+   "url": "https://managers.tn/2024/07/31/la-bh-bank-recrute-220-cadres-contractuels",
+   "publisher": "Managers.tn",
+   "source_type": "SECONDARY",
+   "publication_date": "2024-07-31",
+   "retrieved_at": "2026-10-07",
+   "confidence": "MEDIUM",
+   "notes": "PAGE NON OUVERTE dans cette passe : WebFetch renvoie EGRESS_BLOCKED pour ce domaine et le quota WebSearch partagé était épuisé. URL et faits repris du journal de recherche consigné le même jour par l'équipe (docs/research/01-market-raw.md, section « BCT & banks », et content/competitions/_openings.json). Titre reconstitué à partir de l'URL. Le seul fait connu vient de l'URL : BH Bank, 220 cadres, recrutement « contractuel » (juillet 2024). On ignore s'il s'agissait d'un concours sur épreuves ou d'une sélection sur dossier et entretien. NB : le journal de recherche mentionne aussi un « appel 2026 BH Bank (nombre de postes inconnu) » mais cite cette URL de 2024 : aucune édition BH 2026 n'est donc créée."
+  }
+ ],
+ "editions": [
+  {
+   "year": 2026,
+   "session_label": "الشركة التونسية للبنك (STB Bank): مناظرة وطنية خارجية لانتداب 279 عونا وإطارا بعنوان سنة 2026 (آخر أجل للتسجيل 1 جويلية 2026 حسب الصحافة) / STB Bank : concours externe national pour le recrutement de 279 agents et cadres – 2026 (clôture des inscriptions le 01/07/2026 selon la presse)",
+   "status": "CLOSED",
+   "registration_open": null,
+   "registration_deadline": "2026-07-01",
+   "exam_date": null,
+   "positions_count": 279,
+   "candidates_count": null,
+   "source_key": "s1",
+   "confidence": "MEDIUM",
+   "needs_verification": true
+  },
+  {
+   "year": 2026,
+   "session_label": "البنك الوطني الفلاحي (BNA Bank): مناظرة خارجية لانتداب 200 عون وإطار بعنوان سنة 2026 (آخر أجل للتسجيل 17 سبتمبر 2026 حسب الصحافة) / BNA Bank : concours externe pour le recrutement de 200 agents et cadres – 2026 (clôture des inscriptions le 17/09/2026 selon la presse)",
+   "status": "CLOSED",
+   "registration_open": null,
+   "registration_deadline": "2026-09-17",
+   "exam_date": null,
+   "positions_count": 200,
+   "candidates_count": null,
+   "source_key": "s3",
+   "confidence": "MEDIUM",
+   "needs_verification": true
+  },
+  {
+   "year": 2024,
+   "session_label": "بنك الإسكان (BH Bank): انتداب 220 إطارا بصيغة تعاقدية (جويلية 2024؛ طريقة الانتقاء غير مؤكدة) / BH Bank : recrutement de 220 cadres contractuels (juillet 2024 ; mode de sélection non confirmé)",
+   "status": "CLOSED",
+   "registration_open": null,
+   "registration_deadline": null,
+   "exam_date": null,
+   "positions_count": 220,
+   "candidates_count": null,
+   "source_key": "s5",
+   "confidence": "MEDIUM",
+   "needs_verification": true
+  }
+ ],
+ "positions": [
+  {
+   "slug": "agent-bancaire",
+   "title_ar": "عون بنكي (عون استقبال وشبابيك / عون تجاري) بالبنوك العمومية",
+   "title_fr": "Agent bancaire (agent d'accueil et de guichet / agent commercial) – banques publiques",
+   "diploma_level": "BAC",
+   "eligibility": {
+    "min_age": null,
+    "max_age": null,
+    "genders": [
+     "M",
+     "F"
+    ],
+    "nationality": "TN",
+    "diplomas": [
+     "BAC"
+    ],
+    "specialties": [],
+    "min_height_cm_male": null,
+    "min_height_cm_female": null,
+    "marital_status": null,
+    "other_ar": [
+     "مناظرتا STB وBNA لسنة 2026 موجهتان لـ«أعوان وإطارات» وتشمل المستويات المذكورة الباكالوريا حسب الصحافة؛ المستوى الدقيق المطلوب للأعوان (باكالوريا، باكالوريا+2، إجازة تطبيقية) غير مؤكد",
+     "السن القصوى: 40 سنة بالنسبة لمناظرة البنك الوطني الفلاحي 2026 حسب الصحافة (لابراس) — شروط السن في بقية البنوك وتاريخ احتساب السن غير معروفة",
+     "الجنسية التونسية والتمتع بالحقوق المدنية ونقاوة السوابق العدلية: شروط مقترحة بالقياس على الانتدابات العمومية"
+    ],
+    "other_fr": [
+     "Les concours STB et BNA 2026 visent des « agents et cadres » et les niveaux cités par la presse incluent le baccalauréat ; le niveau exact exigé pour les agents (bac, bac+2, licence appliquée) n'est pas confirmé",
+     "Âge maximum : 40 ans pour le concours BNA Bank 2026 selon la presse (La Presse) — limites d'âge des autres banques et date de référence inconnues",
+     "Nationalité tunisienne, jouissance des droits civiques et casier judiciaire vierge : conditions suggérées par analogie avec les recrutements publics"
+    ],
+    "source_key": "s4",
+    "confidence": "LOW",
+    "needs_verification": true,
+    "source_quote": null
+   },
+   "phases": [
+    {
+     "order": 1,
+     "kind": "FILE_REVIEW",
+     "name_ar": "التسجيل عن بعد والانتقاء الأولي على الملفات",
+     "name_fr": "Inscription en ligne et présélection sur dossier",
+     "is_eliminatory": true,
+     "duration_minutes": null,
+     "description_ar": "يتم التسجيل عادة عبر الموقع الرسمي للبنك المعني (فضاء الانتداب) في الآجال المحددة بالبلاغ، ثم يتم التثبت من استيفاء الشروط (السن، الشهادة والاختصاص). قد يُعتمد انتقاء أولي حسب مقاييس (المعدلات، الملاحظة، سنة الحصول على الشهادة) — مقترح، للتثبت من بلاغ كل بنك.",
+     "description_fr": "L'inscription se fait généralement sur le site officiel de la banque concernée (espace recrutement) dans les délais fixés par l'avis, puis les conditions sont contrôlées (âge, diplôme, spécialité). Une présélection sur critères (moyennes, mention, année d'obtention du diplôme) est possible — suggestion, à vérifier dans l'avis de chaque banque.",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "order": 2,
+     "kind": "WRITTEN",
+     "name_ar": "الاختبار الكتابي",
+     "name_fr": "Épreuve(s) écrite(s)",
+     "is_eliminatory": true,
+     "duration_minutes": null,
+     "description_ar": "حسب الصحافة (WebManagerCenter، جوان 2026) تتضمن مناظرة الشركة التونسية للبنك 2026 اختبارات كتابية ثم شفاهية. طبيعة الاختبار الكتابي غير منشورة: يُرجّح أن يكون في شكل أسئلة متعددة الاختيارات و/أو أسئلة تحريرية في الاختصاص مع ثقافة عامة ولغات — مقترح، للتثبت.",
+     "description_fr": "Selon la presse (WebManagerCenter, juin 2026), le concours STB Bank 2026 comporte des épreuves écrites puis orales. La nature de l'écrit n'est pas publiée : probablement QCM et/ou questions rédactionnelles de spécialité, avec culture générale et langues — suggestion, à vérifier.",
+     "source_key": "s1",
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "order": 3,
+     "kind": "ORAL",
+     "name_ar": "الاختبار الشفاهي (مقابلة مع لجنة)",
+     "name_fr": "Épreuve orale (entretien avec un jury)",
+     "is_eliminatory": true,
+     "duration_minutes": null,
+     "description_ar": "مقابلة مع لجنة لتقييم الحوافز والتواصل ومعرفة البنك والمهنة وأحيانا وضعية مهنية (استقبال حريف، دراسة ملف). مذكورة لمناظرة STB 2026 حسب الصحافة؛ المدة والضارب غير معروفين. بالنسبة للأعوان يُرجّح التركيز على حسن الاستقبال والتوجه التجاري.",
+     "description_fr": "Entretien avec un jury : motivation, communication, connaissance de la banque et du métier, parfois mise en situation (accueil d'un client, étude d'un dossier). Mentionné pour le concours STB 2026 selon la presse ; durée et coefficient inconnus. Pour les agents, l'accent porterait sur l'accueil et l'orientation commerciale (suggestion).",
+     "source_key": "s1",
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "order": 4,
+     "kind": "MEDICAL",
+     "name_ar": "الفحص الطبي واستكمال ملف الانتداب",
+     "name_fr": "Visite médicale et constitution du dossier d'embauche",
+     "is_eliminatory": true,
+     "duration_minutes": null,
+     "description_ar": "فحص طبي للتأكد من القدرة على العمل واستكمال الوثائق الإدارية (بطاقة عدد 3، شهادة طبية...) قبل الانتداب — مقترح بالقياس على الانتدابات في المنشآت العمومية، غير مؤكد.",
+     "description_fr": "Visite médicale d'aptitude et complément du dossier administratif (bulletin n° 3, certificat médical…) avant l'embauche — suggestion par analogie avec les recrutements des entreprises publiques, non confirmée.",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "order": 5,
+     "kind": "TRAINING",
+     "name_ar": "فترة تجربة وتكوين إدماجي",
+     "name_fr": "Période d'essai et formation d'intégration",
+     "is_eliminatory": false,
+     "duration_minutes": null,
+     "description_ar": "يخضع المنتدبون عادة إلى فترة تجربة وتكوين داخلي (منتجات البنك، الإجراءات، الامتثال، المنظومة المعلوماتية) قبل الترسيم — مقترح، المدة والشروط غير معروفة.",
+     "description_fr": "Les recrues suivent généralement une période d'essai et une formation interne (produits, procédures, conformité, système d'information) avant titularisation — suggestion, durée et modalités inconnues.",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    }
+   ],
+   "subjects": [
+    {
+     "phase_order": 2,
+     "domain": "CULTURE_GENERALE",
+     "specialty_key": null,
+     "name_ar": "ثقافة عامة واقتصادية (تونس، المؤسسات، الأحداث الجارية)",
+     "name_fr": "Culture générale et économique (Tunisie, institutions, actualité)",
+     "coefficient": null,
+     "duration_minutes": null,
+     "question_count": null,
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "phase_order": 2,
+     "domain": "FRENCH",
+     "specialty_key": null,
+     "name_ar": "اللغة الفرنسية",
+     "name_fr": "Langue française",
+     "coefficient": null,
+     "duration_minutes": null,
+     "question_count": null,
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "phase_order": 2,
+     "domain": "ARABIC",
+     "specialty_key": null,
+     "name_ar": "اللغة العربية",
+     "name_fr": "Langue arabe",
+     "coefficient": null,
+     "duration_minutes": null,
+     "question_count": null,
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "phase_order": 2,
+     "domain": "ENGLISH",
+     "specialty_key": null,
+     "name_ar": "اللغة الإنجليزية",
+     "name_fr": "Langue anglaise",
+     "coefficient": null,
+     "duration_minutes": null,
+     "question_count": null,
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "phase_order": 2,
+     "domain": "NUMERICAL",
+     "specialty_key": null,
+     "name_ar": "الحساب والكفاءة العددية (نسب مائوية، فوائد بسيطة، تحويل العملات)",
+     "name_fr": "Calcul et aptitude numérique (pourcentages, intérêts simples, conversions de devises)",
+     "coefficient": null,
+     "duration_minutes": null,
+     "question_count": null,
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "phase_order": 2,
+     "domain": "LOGIC",
+     "specialty_key": null,
+     "name_ar": "الاستدلال المنطقي (اختبارات قدرات)",
+     "name_fr": "Raisonnement logique (tests d'aptitude)",
+     "coefficient": null,
+     "duration_minutes": null,
+     "question_count": null,
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "phase_order": 2,
+     "domain": "SPECIALTY",
+     "specialty_key": "spec.banques-publiques.commercial",
+     "name_ar": "الاستقبال والعلاقة مع الحريف والتقنيات التجارية البنكية",
+     "name_fr": "Accueil, relation client et techniques commerciales bancaires",
+     "coefficient": null,
+     "duration_minutes": null,
+     "question_count": null,
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "phase_order": 2,
+     "domain": "SPECIALTY",
+     "specialty_key": "spec.banques-publiques.operations",
+     "name_ar": "العمليات والمنتجات البنكية الأساسية (الحسابات، وسائل الدفع)",
+     "name_fr": "Opérations et produits bancaires de base (comptes, moyens de paiement)",
+     "coefficient": null,
+     "duration_minutes": null,
+     "question_count": null,
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    }
+   ],
+   "physical_tests": [],
+   "required_documents": [
+    {
+     "text_ar": "استمارة الترشح المعمّرة عن بعد (نسخة مطبوعة وممضاة إن طُلبت)",
+     "text_fr": "Formulaire de candidature rempli en ligne (copie imprimée et signée si demandée)",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "text_ar": "نسخة من بطاقة التعريف الوطنية",
+     "text_fr": "Copie de la carte d'identité nationale (CIN)",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "text_ar": "نسخة مطابقة للأصل من الشهادة العلمية (ومعادلتها بالنسبة للشهادات الأجنبية)",
+     "text_fr": "Copie conforme du diplôme (et de son équivalence pour les diplômes étrangers)",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "text_ar": "كشوف الأعداد لكامل سنوات الدراسة وشهادة الباكالوريا",
+     "text_fr": "Relevés de notes de toutes les années d'études et du baccalauréat",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "text_ar": "سيرة ذاتية ورسالة تحفيز",
+     "text_fr": "CV et lettre de motivation",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "text_ar": "وثيقة تثبت الوضعية تجاه الخدمة الوطنية (للذكور)",
+     "text_fr": "Justificatif de la situation vis-à-vis du service national (candidats masculins)",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "text_ar": "بطاقة عدد 3 حديثة وشهادة طبية (عند الانتداب)",
+     "text_fr": "Bulletin n° 3 (extrait de casier judiciaire) récent et certificat médical (au moment de l'embauche)",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    }
+   ],
+   "blueprint": {
+    "total_minutes": 90,
+    "fidelity": "APPROXIMATED",
+    "sections": [
+     {
+      "domain": "CULTURE_GENERALE",
+      "specialty_key": null,
+      "count": 15,
+      "minutes": 15
+     },
+     {
+      "domain": "FRENCH",
+      "specialty_key": null,
+      "count": 15,
+      "minutes": 15
+     },
+     {
+      "domain": "ARABIC",
+      "specialty_key": null,
+      "count": 8,
+      "minutes": 8
+     },
+     {
+      "domain": "ENGLISH",
+      "specialty_key": null,
+      "count": 8,
+      "minutes": 8
+     },
+     {
+      "domain": "NUMERICAL",
+      "specialty_key": null,
+      "count": 10,
+      "minutes": 15
+     },
+     {
+      "domain": "LOGIC",
+      "specialty_key": null,
+      "count": 10,
+      "minutes": 12
+     },
+     {
+      "domain": "SPECIALTY",
+      "specialty_key": "spec.banques-publiques.commercial",
+      "count": 8,
+      "minutes": 8
+     },
+     {
+      "domain": "SPECIALTY",
+      "specialty_key": "spec.banques-publiques.operations",
+      "count": 8,
+      "minutes": 9
+     }
+    ]
+   }
+  },
+  {
+   "slug": "cadre-bancaire-charge-clientele",
+   "title_ar": "إطار بنكي – مكلف بالحرفاء / إطار في المالية والمحاسبة والتصرف بالبنوك العمومية",
+   "title_fr": "Cadre bancaire – chargé de clientèle / cadre finance, comptabilité, gestion – banques publiques",
+   "diploma_level": "LICENCE",
+   "eligibility": {
+    "min_age": null,
+    "max_age": null,
+    "genders": [
+     "M",
+     "F"
+    ],
+    "nationality": "TN",
+    "diplomas": [
+     "LICENCE"
+    ],
+    "specialties": [],
+    "min_height_cm_male": null,
+    "min_height_cm_female": null,
+    "marital_status": null,
+    "other_ar": [
+     "شهادة إجازة على الأقل (إجازة، ماجستير، مهندس حسب الخطة) — الاختصاصات المرجّحة: بنوك ومالية، محاسبة، تصرف، اقتصاد، تسويق، إحصاء، تأمين، تدقيق؛ القائمة الدقيقة لكل بنك غير مسترجعة",
+     "السن القصوى: 40 سنة بالنسبة لمناظرة البنك الوطني الفلاحي 2026 حسب الصحافة (لابراس) — شروط السن في بقية البنوك وتاريخ احتساب السن غير معروفة",
+     "الجنسية التونسية والتمتع بالحقوق المدنية ونقاوة السوابق العدلية: شروط مقترحة بالقياس على الانتدابات العمومية"
+    ],
+    "other_fr": [
+     "Au moins une licence (licence, mastère ou diplôme d'ingénieur selon le poste) — spécialités probables : banque-finance, comptabilité, gestion, économie, marketing, statistique, assurance, audit ; la liste exacte par banque n'a pas été récupérée",
+     "Âge maximum : 40 ans pour le concours BNA Bank 2026 selon la presse (La Presse) — limites d'âge des autres banques et date de référence inconnues",
+     "Nationalité tunisienne, jouissance des droits civiques et casier judiciaire vierge : conditions suggérées par analogie avec les recrutements publics"
+    ],
+    "source_key": "s4",
+    "confidence": "LOW",
+    "needs_verification": true,
+    "source_quote": null
+   },
+   "phases": [
+    {
+     "order": 1,
+     "kind": "FILE_REVIEW",
+     "name_ar": "التسجيل عن بعد والانتقاء الأولي على الملفات",
+     "name_fr": "Inscription en ligne et présélection sur dossier",
+     "is_eliminatory": true,
+     "duration_minutes": null,
+     "description_ar": "يتم التسجيل عادة عبر الموقع الرسمي للبنك المعني (فضاء الانتداب) في الآجال المحددة بالبلاغ، ثم يتم التثبت من استيفاء الشروط (السن، الشهادة والاختصاص). قد يُعتمد انتقاء أولي حسب مقاييس (المعدلات، الملاحظة، سنة الحصول على الشهادة) — مقترح، للتثبت من بلاغ كل بنك.",
+     "description_fr": "L'inscription se fait généralement sur le site officiel de la banque concernée (espace recrutement) dans les délais fixés par l'avis, puis les conditions sont contrôlées (âge, diplôme, spécialité). Une présélection sur critères (moyennes, mention, année d'obtention du diplôme) est possible — suggestion, à vérifier dans l'avis de chaque banque.",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "order": 2,
+     "kind": "WRITTEN",
+     "name_ar": "الاختبار الكتابي",
+     "name_fr": "Épreuve(s) écrite(s)",
+     "is_eliminatory": true,
+     "duration_minutes": null,
+     "description_ar": "حسب الصحافة (WebManagerCenter، جوان 2026) تتضمن مناظرة الشركة التونسية للبنك 2026 اختبارات كتابية ثم شفاهية. طبيعة الاختبار الكتابي غير منشورة: يُرجّح أن يكون في شكل أسئلة متعددة الاختيارات و/أو أسئلة تحريرية في الاختصاص مع ثقافة عامة ولغات — مقترح، للتثبت.",
+     "description_fr": "Selon la presse (WebManagerCenter, juin 2026), le concours STB Bank 2026 comporte des épreuves écrites puis orales. La nature de l'écrit n'est pas publiée : probablement QCM et/ou questions rédactionnelles de spécialité, avec culture générale et langues — suggestion, à vérifier.",
+     "source_key": "s1",
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "order": 3,
+     "kind": "ORAL",
+     "name_ar": "الاختبار الشفاهي (مقابلة مع لجنة)",
+     "name_fr": "Épreuve orale (entretien avec un jury)",
+     "is_eliminatory": true,
+     "duration_minutes": null,
+     "description_ar": "مقابلة مع لجنة لتقييم الحوافز والتواصل ومعرفة البنك والمهنة وأحيانا وضعية مهنية (استقبال حريف، دراسة ملف). مذكورة لمناظرة STB 2026 حسب الصحافة؛ المدة والضارب غير معروفين.",
+     "description_fr": "Entretien avec un jury : motivation, communication, connaissance de la banque et du métier, parfois mise en situation (accueil d'un client, étude d'un dossier). Mentionné pour le concours STB 2026 selon la presse ; durée et coefficient inconnus.",
+     "source_key": "s1",
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "order": 4,
+     "kind": "MEDICAL",
+     "name_ar": "الفحص الطبي واستكمال ملف الانتداب",
+     "name_fr": "Visite médicale et constitution du dossier d'embauche",
+     "is_eliminatory": true,
+     "duration_minutes": null,
+     "description_ar": "فحص طبي للتأكد من القدرة على العمل واستكمال الوثائق الإدارية (بطاقة عدد 3، شهادة طبية...) قبل الانتداب — مقترح بالقياس على الانتدابات في المنشآت العمومية، غير مؤكد.",
+     "description_fr": "Visite médicale d'aptitude et complément du dossier administratif (bulletin n° 3, certificat médical…) avant l'embauche — suggestion par analogie avec les recrutements des entreprises publiques, non confirmée.",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "order": 5,
+     "kind": "TRAINING",
+     "name_ar": "فترة تجربة وتكوين إدماجي",
+     "name_fr": "Période d'essai et formation d'intégration",
+     "is_eliminatory": false,
+     "duration_minutes": null,
+     "description_ar": "يخضع المنتدبون عادة إلى فترة تجربة وتكوين داخلي (منتجات البنك، الإجراءات، الامتثال، المنظومة المعلوماتية) قبل الترسيم — مقترح، المدة والشروط غير معروفة.",
+     "description_fr": "Les recrues suivent généralement une période d'essai et une formation interne (produits, procédures, conformité, système d'information) avant titularisation — suggestion, durée et modalités inconnues.",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    }
+   ],
+   "subjects": [
+    {
+     "phase_order": 2,
+     "domain": "SPECIALTY",
+     "specialty_key": "spec.banque-gestion",
+     "name_ar": "اقتصاد ومحاسبة ومالية وبنوك (اختبار الاختصاص)",
+     "name_fr": "Économie, comptabilité, finance et banque (épreuve de spécialité)",
+     "coefficient": null,
+     "duration_minutes": null,
+     "question_count": null,
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "phase_order": 2,
+     "domain": "SPECIALTY",
+     "specialty_key": "spec.banques-publiques.operations",
+     "name_ar": "التقنيات البنكية: العمليات والمنتجات ووسائل الدفع والتجارة الخارجية",
+     "name_fr": "Techniques bancaires : opérations, produits, moyens de paiement, commerce extérieur",
+     "coefficient": null,
+     "duration_minutes": null,
+     "question_count": null,
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "phase_order": 2,
+     "domain": "SPECIALTY",
+     "specialty_key": "spec.banques-publiques.analyse-financiere",
+     "name_ar": "التحليل المالي ودراسة مخاطر القروض",
+     "name_fr": "Analyse financière et étude du risque de crédit",
+     "coefficient": null,
+     "duration_minutes": null,
+     "question_count": null,
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "phase_order": 2,
+     "domain": "SPECIALTY",
+     "specialty_key": "spec.banques-publiques.conformite",
+     "name_ar": "الامتثال ومكافحة غسل الأموال وأخلاقيات المهنة",
+     "name_fr": "Conformité, LBC/FT et déontologie",
+     "coefficient": null,
+     "duration_minutes": null,
+     "question_count": null,
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "phase_order": 2,
+     "domain": "CULTURE_GENERALE",
+     "specialty_key": null,
+     "name_ar": "ثقافة عامة واقتصادية (الاقتصاد التونسي، السياسة النقدية، قانون المالية)",
+     "name_fr": "Culture générale et économique (économie tunisienne, politique monétaire, loi de finances)",
+     "coefficient": null,
+     "duration_minutes": null,
+     "question_count": null,
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "phase_order": 2,
+     "domain": "FRENCH",
+     "specialty_key": null,
+     "name_ar": "اللغة الفرنسية",
+     "name_fr": "Langue française",
+     "coefficient": null,
+     "duration_minutes": null,
+     "question_count": null,
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "phase_order": 2,
+     "domain": "ENGLISH",
+     "specialty_key": null,
+     "name_ar": "اللغة الإنجليزية",
+     "name_fr": "Langue anglaise",
+     "coefficient": null,
+     "duration_minutes": null,
+     "question_count": null,
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "phase_order": 2,
+     "domain": "NUMERICAL",
+     "specialty_key": null,
+     "name_ar": "الكفاءة العددية والرياضيات المالية",
+     "name_fr": "Aptitude numérique et mathématiques financières",
+     "coefficient": null,
+     "duration_minutes": null,
+     "question_count": null,
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "phase_order": 2,
+     "domain": "LOGIC",
+     "specialty_key": null,
+     "name_ar": "الاستدلال المنطقي",
+     "name_fr": "Raisonnement logique",
+     "coefficient": null,
+     "duration_minutes": null,
+     "question_count": null,
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    }
+   ],
+   "physical_tests": [],
+   "required_documents": [
+    {
+     "text_ar": "استمارة الترشح المعمّرة عن بعد (نسخة مطبوعة وممضاة إن طُلبت)",
+     "text_fr": "Formulaire de candidature rempli en ligne (copie imprimée et signée si demandée)",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "text_ar": "نسخة من بطاقة التعريف الوطنية",
+     "text_fr": "Copie de la carte d'identité nationale (CIN)",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "text_ar": "نسخة مطابقة للأصل من الشهادة العلمية (ومعادلتها بالنسبة للشهادات الأجنبية)",
+     "text_fr": "Copie conforme du diplôme (et de son équivalence pour les diplômes étrangers)",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "text_ar": "كشوف الأعداد لكامل سنوات الدراسة وشهادة الباكالوريا",
+     "text_fr": "Relevés de notes de toutes les années d'études et du baccalauréat",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "text_ar": "سيرة ذاتية ورسالة تحفيز",
+     "text_fr": "CV et lettre de motivation",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "text_ar": "وثيقة تثبت الوضعية تجاه الخدمة الوطنية (للذكور)",
+     "text_fr": "Justificatif de la situation vis-à-vis du service national (candidats masculins)",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "text_ar": "بطاقة عدد 3 حديثة وشهادة طبية (عند الانتداب)",
+     "text_fr": "Bulletin n° 3 (extrait de casier judiciaire) récent et certificat médical (au moment de l'embauche)",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    }
+   ],
+   "blueprint": {
+    "total_minutes": 150,
+    "fidelity": "APPROXIMATED",
+    "sections": [
+     {
+      "domain": "SPECIALTY",
+      "specialty_key": "spec.banque-gestion",
+      "count": 25,
+      "minutes": 40
+     },
+     {
+      "domain": "SPECIALTY",
+      "specialty_key": "spec.banques-publiques.operations",
+      "count": 12,
+      "minutes": 18
+     },
+     {
+      "domain": "SPECIALTY",
+      "specialty_key": "spec.banques-publiques.analyse-financiere",
+      "count": 8,
+      "minutes": 15
+     },
+     {
+      "domain": "SPECIALTY",
+      "specialty_key": "spec.banques-publiques.conformite",
+      "count": 6,
+      "minutes": 8
+     },
+     {
+      "domain": "CULTURE_GENERALE",
+      "specialty_key": null,
+      "count": 12,
+      "minutes": 12
+     },
+     {
+      "domain": "FRENCH",
+      "specialty_key": null,
+      "count": 12,
+      "minutes": 15
+     },
+     {
+      "domain": "ENGLISH",
+      "specialty_key": null,
+      "count": 10,
+      "minutes": 12
+     },
+     {
+      "domain": "NUMERICAL",
+      "specialty_key": null,
+      "count": 8,
+      "minutes": 15
+     },
+     {
+      "domain": "LOGIC",
+      "specialty_key": null,
+      "count": 8,
+      "minutes": 15
+     }
+    ]
+   }
+  },
+  {
+   "slug": "cadre-informatique",
+   "title_ar": "إطار في الإعلامية (مهندس / مختص في الأنظمة المعلوماتية والسلامة المعلوماتية) بالبنوك العمومية",
+   "title_fr": "Cadre informaticien (ingénieur / spécialiste systèmes d'information et sécurité) – banques publiques",
+   "diploma_level": "LICENCE",
+   "eligibility": {
+    "min_age": null,
+    "max_age": null,
+    "genders": [
+     "M",
+     "F"
+    ],
+    "nationality": "TN",
+    "diplomas": [
+     "LICENCE"
+    ],
+    "specialties": [
+     "informatique",
+     "إعلامية",
+     "اعلامية",
+     "معلوماتية",
+     "computer science",
+     "génie logiciel",
+     "réseaux",
+     "télécommunications",
+     "data science",
+     "cybersécurité",
+     "sécurité informatique",
+     "systèmes d'information"
+    ],
+    "min_height_cm_male": null,
+    "min_height_cm_female": null,
+    "marital_status": null,
+    "other_ar": [
+     "شهادة في الإعلامية أو الاتصالات (إجازة أو ماجستير أو مهندس؛ يُرجّح تفضيل المهندسين والماجستير للخطط التقنية) — غير مؤكد",
+     "ذكرت الصحافة مستوى «مهندس» ضمن المستويات المعنية بمناظرتي STB وBNA لسنة 2026 دون تفصيل الاختصاصات",
+     "السن القصوى: 40 سنة بالنسبة لمناظرة البنك الوطني الفلاحي 2026 حسب الصحافة (لابراس) — شروط السن في بقية البنوك وتاريخ احتساب السن غير معروفة"
+    ],
+    "other_fr": [
+     "Diplôme en informatique ou télécommunications (licence, mastère ou ingénieur ; les profils ingénieur/mastère seraient privilégiés pour les postes techniques) — non confirmé",
+     "La presse cite le niveau « ingénieur » parmi les niveaux visés par les concours STB et BNA 2026, sans détailler les spécialités",
+     "Âge maximum : 40 ans pour le concours BNA Bank 2026 selon la presse (La Presse) — limites d'âge des autres banques et date de référence inconnues"
+    ],
+    "source_key": "s2",
+    "confidence": "LOW",
+    "needs_verification": true,
+    "source_quote": null
+   },
+   "phases": [
+    {
+     "order": 1,
+     "kind": "FILE_REVIEW",
+     "name_ar": "التسجيل عن بعد والانتقاء الأولي على الملفات",
+     "name_fr": "Inscription en ligne et présélection sur dossier",
+     "is_eliminatory": true,
+     "duration_minutes": null,
+     "description_ar": "يتم التسجيل عادة عبر الموقع الرسمي للبنك المعني (فضاء الانتداب) في الآجال المحددة بالبلاغ، ثم يتم التثبت من استيفاء الشروط (السن، الشهادة والاختصاص). قد يُعتمد انتقاء أولي حسب مقاييس (المعدلات، الملاحظة، سنة الحصول على الشهادة) — مقترح، للتثبت من بلاغ كل بنك.",
+     "description_fr": "L'inscription se fait généralement sur le site officiel de la banque concernée (espace recrutement) dans les délais fixés par l'avis, puis les conditions sont contrôlées (âge, diplôme, spécialité). Une présélection sur critères (moyennes, mention, année d'obtention du diplôme) est possible — suggestion, à vérifier dans l'avis de chaque banque.",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "order": 2,
+     "kind": "WRITTEN",
+     "name_ar": "الاختبار الكتابي",
+     "name_fr": "Épreuve(s) écrite(s)",
+     "is_eliminatory": true,
+     "duration_minutes": null,
+     "description_ar": "حسب الصحافة (WebManagerCenter، جوان 2026) تتضمن مناظرة الشركة التونسية للبنك 2026 اختبارات كتابية ثم شفاهية. طبيعة الاختبار الكتابي غير منشورة: يُرجّح أن يكون في شكل أسئلة متعددة الاختيارات و/أو أسئلة تحريرية في الإعلامية مع ثقافة عامة ولغات — مقترح، للتثبت.",
+     "description_fr": "Selon la presse (WebManagerCenter, juin 2026), le concours STB Bank 2026 comporte des épreuves écrites puis orales. La nature de l'écrit n'est pas publiée : probablement QCM et/ou questions rédactionnelles d'informatique, avec culture générale et langues — suggestion, à vérifier.",
+     "source_key": "s1",
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "order": 3,
+     "kind": "ORAL",
+     "name_ar": "الاختبار الشفاهي (مقابلة مع لجنة)",
+     "name_fr": "Épreuve orale (entretien avec un jury)",
+     "is_eliminatory": true,
+     "duration_minutes": null,
+     "description_ar": "مقابلة مع لجنة لتقييم الحوافز والتواصل ومعرفة البنك والمهنة وأحيانا وضعية مهنية (استقبال حريف، دراسة ملف). مذكورة لمناظرة STB 2026 حسب الصحافة؛ المدة والضارب غير معروفين. بالنسبة للإعلاميين قد تتضمن المقابلة أسئلة تقنية.",
+     "description_fr": "Entretien avec un jury : motivation, communication, connaissance de la banque et du métier, parfois mise en situation (accueil d'un client, étude d'un dossier). Mentionné pour le concours STB 2026 selon la presse ; durée et coefficient inconnus. Pour les informaticiens, l'entretien peut comporter des questions techniques (suggestion).",
+     "source_key": "s1",
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "order": 4,
+     "kind": "MEDICAL",
+     "name_ar": "الفحص الطبي واستكمال ملف الانتداب",
+     "name_fr": "Visite médicale et constitution du dossier d'embauche",
+     "is_eliminatory": true,
+     "duration_minutes": null,
+     "description_ar": "فحص طبي للتأكد من القدرة على العمل واستكمال الوثائق الإدارية (بطاقة عدد 3، شهادة طبية...) قبل الانتداب — مقترح بالقياس على الانتدابات في المنشآت العمومية، غير مؤكد.",
+     "description_fr": "Visite médicale d'aptitude et complément du dossier administratif (bulletin n° 3, certificat médical…) avant l'embauche — suggestion par analogie avec les recrutements des entreprises publiques, non confirmée.",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "order": 5,
+     "kind": "TRAINING",
+     "name_ar": "فترة تجربة وتكوين إدماجي",
+     "name_fr": "Période d'essai et formation d'intégration",
+     "is_eliminatory": false,
+     "duration_minutes": null,
+     "description_ar": "يخضع المنتدبون عادة إلى فترة تجربة وتكوين داخلي (منتجات البنك، الإجراءات، الامتثال، المنظومة المعلوماتية) قبل الترسيم — مقترح، المدة والشروط غير معروفة.",
+     "description_fr": "Les recrues suivent généralement une période d'essai et une formation interne (produits, procédures, conformité, système d'information) avant titularisation — suggestion, durée et modalités inconnues.",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    }
+   ],
+   "subjects": [
+    {
+     "phase_order": 2,
+     "domain": "SPECIALTY",
+     "specialty_key": "spec.informatique",
+     "name_ar": "الإعلامية (خوارزميات وبرمجة، قواعد البيانات وSQL، الشبكات، أنظمة التشغيل، هندسة البرمجيات)",
+     "name_fr": "Informatique (algorithmique et programmation, bases de données et SQL, réseaux, systèmes, génie logiciel)",
+     "coefficient": null,
+     "duration_minutes": null,
+     "question_count": null,
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "phase_order": 2,
+     "domain": "SPECIALTY",
+     "specialty_key": "spec.banques-publiques.si-bancaire",
+     "name_ar": "الأنظمة المعلوماتية البنكية والسلامة المعلوماتية والنقديات",
+     "name_fr": "Systèmes d'information bancaires, sécurité et monétique",
+     "coefficient": null,
+     "duration_minutes": null,
+     "question_count": null,
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "phase_order": 2,
+     "domain": "SPECIALTY",
+     "specialty_key": "spec.banques-publiques.secteur",
+     "name_ar": "المنظومة البنكية التونسية والبنوك العمومية",
+     "name_fr": "Le système bancaire tunisien et les banques publiques",
+     "coefficient": null,
+     "duration_minutes": null,
+     "question_count": null,
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "phase_order": 2,
+     "domain": "CULTURE_GENERALE",
+     "specialty_key": null,
+     "name_ar": "ثقافة عامة",
+     "name_fr": "Culture générale",
+     "coefficient": null,
+     "duration_minutes": null,
+     "question_count": null,
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "phase_order": 2,
+     "domain": "FRENCH",
+     "specialty_key": null,
+     "name_ar": "اللغة الفرنسية",
+     "name_fr": "Langue française",
+     "coefficient": null,
+     "duration_minutes": null,
+     "question_count": null,
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "phase_order": 2,
+     "domain": "ENGLISH",
+     "specialty_key": null,
+     "name_ar": "اللغة الإنجليزية (تقنية)",
+     "name_fr": "Langue anglaise (technique)",
+     "coefficient": null,
+     "duration_minutes": null,
+     "question_count": null,
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "phase_order": 2,
+     "domain": "LOGIC",
+     "specialty_key": null,
+     "name_ar": "الاستدلال المنطقي",
+     "name_fr": "Raisonnement logique",
+     "coefficient": null,
+     "duration_minutes": null,
+     "question_count": null,
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "phase_order": 2,
+     "domain": "NUMERICAL",
+     "specialty_key": null,
+     "name_ar": "الكفاءة العددية",
+     "name_fr": "Aptitude numérique",
+     "coefficient": null,
+     "duration_minutes": null,
+     "question_count": null,
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    }
+   ],
+   "physical_tests": [],
+   "required_documents": [
+    {
+     "text_ar": "استمارة الترشح المعمّرة عن بعد (نسخة مطبوعة وممضاة إن طُلبت)",
+     "text_fr": "Formulaire de candidature rempli en ligne (copie imprimée et signée si demandée)",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "text_ar": "نسخة من بطاقة التعريف الوطنية",
+     "text_fr": "Copie de la carte d'identité nationale (CIN)",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "text_ar": "نسخة مطابقة للأصل من الشهادة العلمية (ومعادلتها بالنسبة للشهادات الأجنبية)",
+     "text_fr": "Copie conforme du diplôme (et de son équivalence pour les diplômes étrangers)",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "text_ar": "كشوف الأعداد لكامل سنوات الدراسة وشهادة الباكالوريا",
+     "text_fr": "Relevés de notes de toutes les années d'études et du baccalauréat",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "text_ar": "سيرة ذاتية ورسالة تحفيز",
+     "text_fr": "CV et lettre de motivation",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "text_ar": "وثيقة تثبت الوضعية تجاه الخدمة الوطنية (للذكور)",
+     "text_fr": "Justificatif de la situation vis-à-vis du service national (candidats masculins)",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "text_ar": "بطاقة عدد 3 حديثة وشهادة طبية (عند الانتداب)",
+     "text_fr": "Bulletin n° 3 (extrait de casier judiciaire) récent et certificat médical (au moment de l'embauche)",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    }
+   ],
+   "blueprint": {
+    "total_minutes": 150,
+    "fidelity": "APPROXIMATED",
+    "sections": [
+     {
+      "domain": "SPECIALTY",
+      "specialty_key": "spec.informatique",
+      "count": 35,
+      "minutes": 55
+     },
+     {
+      "domain": "SPECIALTY",
+      "specialty_key": "spec.banques-publiques.si-bancaire",
+      "count": 10,
+      "minutes": 15
+     },
+     {
+      "domain": "SPECIALTY",
+      "specialty_key": "spec.banques-publiques.secteur",
+      "count": 5,
+      "minutes": 7
+     },
+     {
+      "domain": "CULTURE_GENERALE",
+      "specialty_key": null,
+      "count": 10,
+      "minutes": 10
+     },
+     {
+      "domain": "FRENCH",
+      "specialty_key": null,
+      "count": 10,
+      "minutes": 13
+     },
+     {
+      "domain": "ENGLISH",
+      "specialty_key": null,
+      "count": 12,
+      "minutes": 15
+     },
+     {
+      "domain": "LOGIC",
+      "specialty_key": null,
+      "count": 10,
+      "minutes": 20
+     },
+     {
+      "domain": "NUMERICAL",
+      "specialty_key": null,
+      "count": 8,
+      "minutes": 15
+     }
+    ]
+   }
+  },
+  {
+   "slug": "cadre-juriste",
+   "title_ar": "إطار قانوني (الشؤون القانونية والنزاعات والاستخلاص) بالبنوك العمومية",
+   "title_fr": "Cadre juriste (affaires juridiques, contentieux et recouvrement) – banques publiques",
+   "diploma_level": "LICENCE",
+   "eligibility": {
+    "min_age": null,
+    "max_age": null,
+    "genders": [
+     "M",
+     "F"
+    ],
+    "nationality": "TN",
+    "diplomas": [
+     "LICENCE"
+    ],
+    "specialties": [
+     "droit",
+     "juridique",
+     "sciences juridiques",
+     "قانون",
+     "حقوق",
+     "العلوم القانونية"
+    ],
+    "min_height_cm_male": null,
+    "min_height_cm_female": null,
+    "marital_status": null,
+    "other_ar": [
+     "خطة مقترحة: تنتدب البنوك عادة قانونيين (قانون الأعمال، القانون الخاص) لمصالح النزاعات والاستخلاص والامتثال، لكن وجود هذه الخطة في مناظرتي 2026 غير مؤكد",
+     "إجازة على الأقل في الحقوق (ماجستير في قانون الأعمال مرغوب فيه) — غير مؤكد",
+     "السن القصوى: 40 سنة بالنسبة لمناظرة البنك الوطني الفلاحي 2026 حسب الصحافة (لابراس) — شروط السن في بقية البنوك وتاريخ احتساب السن غير معروفة"
+    ],
+    "other_fr": [
+     "Poste suggéré : les banques recrutent habituellement des juristes (droit des affaires, droit privé) pour le contentieux, le recouvrement et la conformité, mais sa présence dans les concours 2026 n'est pas confirmée",
+     "Au moins une licence en droit (mastère en droit des affaires apprécié) — non confirmé",
+     "Âge maximum : 40 ans pour le concours BNA Bank 2026 selon la presse (La Presse) — limites d'âge des autres banques et date de référence inconnues"
+    ],
+    "source_key": null,
+    "confidence": "LOW",
+    "needs_verification": true,
+    "source_quote": null
+   },
+   "phases": [
+    {
+     "order": 1,
+     "kind": "FILE_REVIEW",
+     "name_ar": "التسجيل عن بعد والانتقاء الأولي على الملفات",
+     "name_fr": "Inscription en ligne et présélection sur dossier",
+     "is_eliminatory": true,
+     "duration_minutes": null,
+     "description_ar": "يتم التسجيل عادة عبر الموقع الرسمي للبنك المعني (فضاء الانتداب) في الآجال المحددة بالبلاغ، ثم يتم التثبت من استيفاء الشروط (السن، الشهادة والاختصاص). قد يُعتمد انتقاء أولي حسب مقاييس (المعدلات، الملاحظة، سنة الحصول على الشهادة) — مقترح، للتثبت من بلاغ كل بنك.",
+     "description_fr": "L'inscription se fait généralement sur le site officiel de la banque concernée (espace recrutement) dans les délais fixés par l'avis, puis les conditions sont contrôlées (âge, diplôme, spécialité). Une présélection sur critères (moyennes, mention, année d'obtention du diplôme) est possible — suggestion, à vérifier dans l'avis de chaque banque.",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "order": 2,
+     "kind": "WRITTEN",
+     "name_ar": "الاختبار الكتابي",
+     "name_fr": "Épreuve(s) écrite(s)",
+     "is_eliminatory": true,
+     "duration_minutes": null,
+     "description_ar": "حسب الصحافة (WebManagerCenter، جوان 2026) تتضمن مناظرة الشركة التونسية للبنك 2026 اختبارات كتابية ثم شفاهية. طبيعة الاختبار الكتابي غير منشورة: يُرجّح أن يكون في شكل أسئلة متعددة الاختيارات و/أو أسئلة تحريرية في القانون مع ثقافة عامة ولغات — مقترح، للتثبت.",
+     "description_fr": "Selon la presse (WebManagerCenter, juin 2026), le concours STB Bank 2026 comporte des épreuves écrites puis orales. La nature de l'écrit n'est pas publiée : probablement QCM et/ou questions rédactionnelles de droit, avec culture générale et langues — suggestion, à vérifier.",
+     "source_key": "s1",
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "order": 3,
+     "kind": "ORAL",
+     "name_ar": "الاختبار الشفاهي (مقابلة مع لجنة)",
+     "name_fr": "Épreuve orale (entretien avec un jury)",
+     "is_eliminatory": true,
+     "duration_minutes": null,
+     "description_ar": "مقابلة مع لجنة لتقييم الحوافز والتواصل ومعرفة البنك والمهنة وأحيانا وضعية مهنية (استقبال حريف، دراسة ملف). مذكورة لمناظرة STB 2026 حسب الصحافة؛ المدة والضارب غير معروفين.",
+     "description_fr": "Entretien avec un jury : motivation, communication, connaissance de la banque et du métier, parfois mise en situation (accueil d'un client, étude d'un dossier). Mentionné pour le concours STB 2026 selon la presse ; durée et coefficient inconnus.",
+     "source_key": "s1",
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "order": 4,
+     "kind": "MEDICAL",
+     "name_ar": "الفحص الطبي واستكمال ملف الانتداب",
+     "name_fr": "Visite médicale et constitution du dossier d'embauche",
+     "is_eliminatory": true,
+     "duration_minutes": null,
+     "description_ar": "فحص طبي للتأكد من القدرة على العمل واستكمال الوثائق الإدارية (بطاقة عدد 3، شهادة طبية...) قبل الانتداب — مقترح بالقياس على الانتدابات في المنشآت العمومية، غير مؤكد.",
+     "description_fr": "Visite médicale d'aptitude et complément du dossier administratif (bulletin n° 3, certificat médical…) avant l'embauche — suggestion par analogie avec les recrutements des entreprises publiques, non confirmée.",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "order": 5,
+     "kind": "TRAINING",
+     "name_ar": "فترة تجربة وتكوين إدماجي",
+     "name_fr": "Période d'essai et formation d'intégration",
+     "is_eliminatory": false,
+     "duration_minutes": null,
+     "description_ar": "يخضع المنتدبون عادة إلى فترة تجربة وتكوين داخلي (منتجات البنك، الإجراءات، الامتثال، المنظومة المعلوماتية) قبل الترسيم — مقترح، المدة والشروط غير معروفة.",
+     "description_fr": "Les recrues suivent généralement une période d'essai et une formation interne (produits, procédures, conformité, système d'information) avant titularisation — suggestion, durée et modalités inconnues.",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    }
+   ],
+   "subjects": [
+    {
+     "phase_order": 2,
+     "domain": "SPECIALTY",
+     "specialty_key": "spec.banques-publiques.droit-bancaire",
+     "name_ar": "القانون البنكي والضمانات والاستخلاص والإجراءات الجماعية",
+     "name_fr": "Droit bancaire, sûretés, recouvrement et procédures collectives",
+     "coefficient": null,
+     "duration_minutes": null,
+     "question_count": null,
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "phase_order": 2,
+     "domain": "SPECIALTY",
+     "specialty_key": "spec.banques-publiques.conformite",
+     "name_ar": "الامتثال ومكافحة غسل الأموال وحماية المعطيات الشخصية",
+     "name_fr": "Conformité, LBC/FT et protection des données personnelles",
+     "coefficient": null,
+     "duration_minutes": null,
+     "question_count": null,
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "phase_order": 2,
+     "domain": "SPECIALTY",
+     "specialty_key": "spec.banques-publiques.operations",
+     "name_ar": "العمليات البنكية ووسائل الدفع (الشيك، الكمبيالة)",
+     "name_fr": "Opérations bancaires et moyens de paiement (chèque, lettre de change)",
+     "coefficient": null,
+     "duration_minutes": null,
+     "question_count": null,
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "phase_order": 2,
+     "domain": "SPECIALTY",
+     "specialty_key": "spec.redaction-administrative",
+     "name_ar": "التحرير الإداري والقانوني (مذكرة، رسالة، تقرير)",
+     "name_fr": "Rédaction administrative et juridique (note, lettre, rapport)",
+     "coefficient": null,
+     "duration_minutes": null,
+     "question_count": null,
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "phase_order": 2,
+     "domain": "CULTURE_GENERALE",
+     "specialty_key": null,
+     "name_ar": "ثقافة عامة واقتصادية",
+     "name_fr": "Culture générale et économique",
+     "coefficient": null,
+     "duration_minutes": null,
+     "question_count": null,
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "phase_order": 2,
+     "domain": "FRENCH",
+     "specialty_key": null,
+     "name_ar": "اللغة الفرنسية",
+     "name_fr": "Langue française",
+     "coefficient": null,
+     "duration_minutes": null,
+     "question_count": null,
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "phase_order": 2,
+     "domain": "ARABIC",
+     "specialty_key": null,
+     "name_ar": "اللغة العربية (المصطلحات القانونية)",
+     "name_fr": "Langue arabe (terminologie juridique)",
+     "coefficient": null,
+     "duration_minutes": null,
+     "question_count": null,
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "phase_order": 2,
+     "domain": "ENGLISH",
+     "specialty_key": null,
+     "name_ar": "اللغة الإنجليزية",
+     "name_fr": "Langue anglaise",
+     "coefficient": null,
+     "duration_minutes": null,
+     "question_count": null,
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "phase_order": 2,
+     "domain": "LOGIC",
+     "specialty_key": null,
+     "name_ar": "الاستدلال المنطقي",
+     "name_fr": "Raisonnement logique",
+     "coefficient": null,
+     "duration_minutes": null,
+     "question_count": null,
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    }
+   ],
+   "physical_tests": [],
+   "required_documents": [
+    {
+     "text_ar": "استمارة الترشح المعمّرة عن بعد (نسخة مطبوعة وممضاة إن طُلبت)",
+     "text_fr": "Formulaire de candidature rempli en ligne (copie imprimée et signée si demandée)",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "text_ar": "نسخة من بطاقة التعريف الوطنية",
+     "text_fr": "Copie de la carte d'identité nationale (CIN)",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "text_ar": "نسخة مطابقة للأصل من الشهادة العلمية (ومعادلتها بالنسبة للشهادات الأجنبية)",
+     "text_fr": "Copie conforme du diplôme (et de son équivalence pour les diplômes étrangers)",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "text_ar": "كشوف الأعداد لكامل سنوات الدراسة وشهادة الباكالوريا",
+     "text_fr": "Relevés de notes de toutes les années d'études et du baccalauréat",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "text_ar": "سيرة ذاتية ورسالة تحفيز",
+     "text_fr": "CV et lettre de motivation",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "text_ar": "وثيقة تثبت الوضعية تجاه الخدمة الوطنية (للذكور)",
+     "text_fr": "Justificatif de la situation vis-à-vis du service national (candidats masculins)",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "text_ar": "بطاقة عدد 3 حديثة وشهادة طبية (عند الانتداب)",
+     "text_fr": "Bulletin n° 3 (extrait de casier judiciaire) récent et certificat médical (au moment de l'embauche)",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    }
+   ],
+   "blueprint": {
+    "total_minutes": 150,
+    "fidelity": "APPROXIMATED",
+    "sections": [
+     {
+      "domain": "SPECIALTY",
+      "specialty_key": "spec.banques-publiques.droit-bancaire",
+      "count": 25,
+      "minutes": 40
+     },
+     {
+      "domain": "SPECIALTY",
+      "specialty_key": "spec.banques-publiques.conformite",
+      "count": 8,
+      "minutes": 12
+     },
+     {
+      "domain": "SPECIALTY",
+      "specialty_key": "spec.banques-publiques.operations",
+      "count": 8,
+      "minutes": 12
+     },
+     {
+      "domain": "SPECIALTY",
+      "specialty_key": "spec.redaction-administrative",
+      "count": 8,
+      "minutes": 16
+     },
+     {
+      "domain": "CULTURE_GENERALE",
+      "specialty_key": null,
+      "count": 12,
+      "minutes": 12
+     },
+     {
+      "domain": "FRENCH",
+      "specialty_key": null,
+      "count": 14,
+      "minutes": 18
+     },
+     {
+      "domain": "ARABIC",
+      "specialty_key": null,
+      "count": 10,
+      "minutes": 12
+     },
+     {
+      "domain": "ENGLISH",
+      "specialty_key": null,
+      "count": 8,
+      "minutes": 10
+     },
+     {
+      "domain": "LOGIC",
+      "specialty_key": null,
+      "count": 10,
+      "minutes": 18
+     }
+    ]
+   }
+  }
+ ],
+ "specialty_syllabus": [
+  {
+   "key": "spec.banques-publiques.secteur",
+   "parent_key": null,
+   "level": "UNIT",
+   "title_ar": "المنظومة البنكية التونسية والبنوك العمومية",
+   "title_fr": "Le système bancaire tunisien et les banques publiques",
+   "scope": "SUGGESTED",
+   "source_key": null,
+   "objectives": [
+    {
+     "key": "spec.banques-publiques.secteur.o1",
+     "text_ar": "التعرف على دور البنك المركزي التونسي ومهامه (القانون عدد 35 لسنة 2016 المتعلق بضبط النظام الأساسي للبنك المركزي التونسي)",
+     "text_fr": "Connaître le rôle et les missions de la Banque centrale de Tunisie (loi n° 2016-35 portant statut de la BCT)"
+    },
+    {
+     "key": "spec.banques-publiques.secteur.o2",
+     "text_ar": "فهم الإطار القانوني للبنوك والمؤسسات المالية (القانون عدد 48 لسنة 2016) وأنواع المؤسسات البنكية",
+     "text_fr": "Comprendre le cadre légal des banques et établissements financiers (loi n° 2016-48) et les types d'établissements"
+    },
+    {
+     "key": "spec.banques-publiques.secteur.o3",
+     "text_ar": "التمييز بين البنوك العمومية وتخصصاتها التاريخية: الشركة التونسية للبنك، البنك الوطني الفلاحي (الفلاحة)، بنك الإسكان (السكن)، بنك التضامن التونسي (القروض الصغرى)",
+     "text_fr": "Distinguer les banques publiques et leurs vocations historiques : STB, BNA (agriculture), BH Bank (habitat), BTS (microcrédit, solidarité)"
+    },
+    {
+     "key": "spec.banques-publiques.secteur.o4",
+     "text_ar": "معرفة رهانات القطاع: الإدماج المالي، الرقمنة، الدفع عبر الهاتف الجوال، تمويل المؤسسات الصغرى والمتوسطة",
+     "text_fr": "Connaître les enjeux du secteur : inclusion financière, digitalisation, paiement mobile, financement des PME"
+    }
+   ]
+  },
+  {
+   "key": "spec.banques-publiques.operations",
+   "parent_key": null,
+   "level": "UNIT",
+   "title_ar": "العمليات والمنتجات البنكية",
+   "title_fr": "Opérations et produits bancaires",
+   "scope": "SUGGESTED",
+   "source_key": null,
+   "objectives": [
+    {
+     "key": "spec.banques-publiques.operations.o1",
+     "text_ar": "إتقان العمليات البنكية اليومية للحرفاء الخواص والمؤسسات",
+     "text_fr": "Maîtriser les opérations bancaires courantes des particuliers et des entreprises"
+    }
+   ]
+  },
+  {
+   "key": "spec.banques-publiques.operations.comptes",
+   "parent_key": "spec.banques-publiques.operations",
+   "level": "TOPIC",
+   "title_ar": "الحسابات والودائع والادخار",
+   "title_fr": "Comptes, dépôts et épargne",
+   "scope": "SUGGESTED",
+   "source_key": null,
+   "objectives": [
+    {
+     "key": "spec.banques-publiques.operations.comptes.o1",
+     "text_ar": "التمييز بين أنواع الحسابات (حساب جار، حساب ادخار، حساب بالعملة) وشروط فتحها وإغلاقها",
+     "text_fr": "Distinguer les types de comptes (compte courant, épargne, compte en devises) et leurs conditions d'ouverture et de clôture"
+    },
+    {
+     "key": "spec.banques-publiques.operations.comptes.o2",
+     "text_ar": "حساب الفوائد الدائنة والمدينة والعمولات البسيطة",
+     "text_fr": "Calculer intérêts créditeurs/débiteurs et commissions simples"
+    }
+   ]
+  },
+  {
+   "key": "spec.banques-publiques.operations.credits",
+   "parent_key": "spec.banques-publiques.operations",
+   "level": "TOPIC",
+   "title_ar": "القروض والضمانات",
+   "title_fr": "Crédits et garanties",
+   "scope": "SUGGESTED",
+   "source_key": null,
+   "objectives": [
+    {
+     "key": "spec.banques-publiques.operations.credits.o1",
+     "text_ar": "التمييز بين قروض الاستهلاك والسكن وقروض الاستغلال والاستثمار للمؤسسات",
+     "text_fr": "Distinguer crédits à la consommation, crédits immobiliers, crédits d'exploitation et d'investissement"
+    },
+    {
+     "key": "spec.banques-publiques.operations.credits.o2",
+     "text_ar": "حساب قسط قرض بأقساط ثابتة وجدول الاستهلاك",
+     "text_fr": "Calculer une mensualité constante et un tableau d'amortissement"
+    },
+    {
+     "key": "spec.banques-publiques.operations.credits.o3",
+     "text_ar": "التعرف على الضمانات الشخصية والعينية (كفالة، رهن عقاري، رهن حيازي)",
+     "text_fr": "Identifier les garanties personnelles et réelles (caution, hypothèque, nantissement)"
+    }
+   ]
+  },
+  {
+   "key": "spec.banques-publiques.operations.paiement",
+   "parent_key": "spec.banques-publiques.operations",
+   "level": "TOPIC",
+   "title_ar": "وسائل الدفع",
+   "title_fr": "Moyens de paiement",
+   "scope": "SUGGESTED",
+   "source_key": null,
+   "objectives": [
+    {
+     "key": "spec.banques-publiques.operations.paiement.o1",
+     "text_ar": "فهم الشيك والكمبيالة والسند لأمر والتحويل والاقتطاع والبطاقة البنكية",
+     "text_fr": "Comprendre chèque, lettre de change, billet à ordre, virement, prélèvement et carte bancaire"
+    },
+    {
+     "key": "spec.banques-publiques.operations.paiement.o2",
+     "text_ar": "الإلمام بإصلاح نظام الشيكات (تنقيح المجلة التجارية سنة 2024، دخل حيز التنفيذ سنة 2025 — المراجع الدقيقة للتثبت)",
+     "text_fr": "Connaître la réforme du régime du chèque (modification du Code de commerce en 2024, entrée en vigueur en 2025 — références exactes à vérifier)"
+    },
+    {
+     "key": "spec.banques-publiques.operations.paiement.o3",
+     "text_ar": "التعرف على النقديات والدفع الإلكتروني والدفع عبر الهاتف الجوال",
+     "text_fr": "Connaître la monétique, le paiement électronique et le paiement mobile"
+    }
+   ]
+  },
+  {
+   "key": "spec.banques-publiques.operations.international",
+   "parent_key": "spec.banques-publiques.operations",
+   "level": "TOPIC",
+   "title_ar": "عمليات التجارة الخارجية والصرف",
+   "title_fr": "Commerce extérieur et change",
+   "scope": "SUGGESTED",
+   "source_key": null,
+   "objectives": [
+    {
+     "key": "spec.banques-publiques.operations.international.o1",
+     "text_ar": "فهم الاعتماد المستندي والتحصيل المستندي",
+     "text_fr": "Comprendre le crédit documentaire et la remise documentaire"
+    },
+    {
+     "key": "spec.banques-publiques.operations.international.o2",
+     "text_ar": "الإلمام بمبادئ تراتيب الصرف التونسية وعمليات الصرف اليدوي",
+     "text_fr": "Connaître les principes de la réglementation des changes tunisienne et les opérations de change manuel"
+    }
+   ]
+  },
+  {
+   "key": "spec.banques-publiques.analyse-financiere",
+   "parent_key": null,
+   "level": "UNIT",
+   "title_ar": "التحليل المالي ودراسة مخاطر القروض",
+   "title_fr": "Analyse financière et étude du risque de crédit",
+   "scope": "SUGGESTED",
+   "source_key": null,
+   "objectives": [
+    {
+     "key": "spec.banques-publiques.analyse-financiere.o1",
+     "text_ar": "قراءة الموازنة وجدول النتائج وحساب الأرصدة الوسيطة للتصرف",
+     "text_fr": "Lire bilan et état de résultat, calculer les soldes intermédiaires de gestion"
+    },
+    {
+     "key": "spec.banques-publiques.analyse-financiere.o2",
+     "text_ar": "حساب وتأويل النسب المالية (السيولة، المديونية، المردودية) ورأس المال العامل والحاجة إليه",
+     "text_fr": "Calculer et interpréter les ratios (liquidité, endettement, rentabilité), fonds de roulement et BFR"
+    },
+    {
+     "key": "spec.banques-publiques.analyse-financiere.o3",
+     "text_ar": "تقدير قدرة الحريف على السداد (القدرة على التمويل الذاتي، نسبة التداين)",
+     "text_fr": "Évaluer la capacité de remboursement (CAF, taux d'endettement)"
+    }
+   ]
+  },
+  {
+   "key": "spec.banques-publiques.risques-prudentiel",
+   "parent_key": null,
+   "level": "UNIT",
+   "title_ar": "المخاطر البنكية والقواعد الحذرة",
+   "title_fr": "Risques bancaires et réglementation prudentielle",
+   "scope": "SUGGESTED",
+   "source_key": null,
+   "objectives": [
+    {
+     "key": "spec.banques-publiques.risques-prudentiel.o1",
+     "text_ar": "التمييز بين مخاطر القرض والسيولة والسوق والمخاطر العملياتية",
+     "text_fr": "Distinguer risque de crédit, de liquidité, de marché et risque opérationnel"
+    },
+    {
+     "key": "spec.banques-publiques.risques-prudentiel.o2",
+     "text_ar": "فهم مبادئ نسب الملاءة والسيولة وتصنيف الديون والمدخرات حسب تراتيب البنك المركزي التونسي (مبادئ عامة)",
+     "text_fr": "Comprendre les principes des ratios de solvabilité et de liquidité, de la classification des créances et du provisionnement selon la réglementation BCT (principes généraux)"
+    }
+   ]
+  },
+  {
+   "key": "spec.banques-publiques.conformite",
+   "parent_key": null,
+   "level": "UNIT",
+   "title_ar": "الامتثال ومكافحة غسل الأموال وتمويل الإرهاب وأخلاقيات المهنة",
+   "title_fr": "Conformité, LBC/FT et déontologie",
+   "scope": "SUGGESTED",
+   "source_key": null,
+   "objectives": [
+    {
+     "key": "spec.banques-publiques.conformite.o1",
+     "text_ar": "الإلمام بالقانون الأساسي عدد 26 لسنة 2015 المتعلق بمكافحة الإرهاب ومنع غسل الأموال كما تم تنقيحه سنة 2019، ودور اللجنة التونسية للتحاليل المالية",
+     "text_fr": "Connaître la loi organique n° 2015-26 relative à la lutte contre le terrorisme et à la répression du blanchiment d'argent (modifiée en 2019) et le rôle de la CTAF"
+    },
+    {
+     "key": "spec.banques-publiques.conformite.o2",
+     "text_ar": "تطبيق واجب اليقظة: التعرف على الحريف (KYC) والتصريح بالعمليات المسترابة",
+     "text_fr": "Appliquer le devoir de vigilance : connaissance du client (KYC) et déclaration de soupçon"
+    },
+    {
+     "key": "spec.banques-publiques.conformite.o3",
+     "text_ar": "احترام السر المهني وحماية المعطيات الشخصية (القانون الأساسي عدد 63 لسنة 2004)",
+     "text_fr": "Respecter le secret professionnel et la protection des données personnelles (loi organique n° 2004-63)"
+    }
+   ]
+  },
+  {
+   "key": "spec.banques-publiques.commercial",
+   "parent_key": null,
+   "level": "UNIT",
+   "title_ar": "العلاقة مع الحريف والتقنيات التجارية البنكية",
+   "title_fr": "Relation client et techniques commerciales bancaires",
+   "scope": "SUGGESTED",
+   "source_key": null,
+   "objectives": [
+    {
+     "key": "spec.banques-publiques.commercial.o1",
+     "text_ar": "استقبال الحريف وتحديد حاجياته واقتراح المنتج الملائم",
+     "text_fr": "Accueillir le client, découvrir ses besoins et proposer le produit adapté"
+    },
+    {
+     "key": "spec.banques-publiques.commercial.o2",
+     "text_ar": "التعامل مع الشكاوى والوضعيات الصعبة",
+     "text_fr": "Traiter les réclamations et les situations difficiles"
+    },
+    {
+     "key": "spec.banques-publiques.commercial.o3",
+     "text_ar": "فهم مبادئ التسويق البنكي والبيع المتقاطع وجودة الخدمات",
+     "text_fr": "Comprendre le marketing bancaire, la vente croisée et la qualité de service"
+    }
+   ]
+  },
+  {
+   "key": "spec.banques-publiques.droit-bancaire",
+   "parent_key": null,
+   "level": "UNIT",
+   "title_ar": "القانون البنكي والضمانات والاستخلاص",
+   "title_fr": "Droit bancaire, sûretés et recouvrement",
+   "scope": "SUGGESTED",
+   "source_key": null,
+   "objectives": [
+    {
+     "key": "spec.banques-publiques.droit-bancaire.o1",
+     "text_ar": "الإلمام بأحكام العقود والالتزامات المطبقة على العمليات البنكية",
+     "text_fr": "Maîtriser le droit des obligations et contrats appliqué aux opérations bancaires"
+    },
+    {
+     "key": "spec.banques-publiques.droit-bancaire.o2",
+     "text_ar": "فهم الضمانات (الرهن العقاري، الرهن الحيازي، الكفالة) وإجراءات التنفيذ",
+     "text_fr": "Comprendre les sûretés (hypothèque, nantissement, cautionnement) et les voies d'exécution"
+    },
+    {
+     "key": "spec.banques-publiques.droit-bancaire.o3",
+     "text_ar": "الإلمام بقانون الإجراءات الجماعية (القانون عدد 36 لسنة 2016) وإجراءات الاستخلاص والنزاعات",
+     "text_fr": "Connaître le droit des procédures collectives (loi n° 2016-36), le recouvrement et le contentieux"
+    },
+    {
+     "key": "spec.banques-publiques.droit-bancaire.o4",
+     "text_ar": "فهم الأحكام الجزائية والمدنية للشيك والكمبيالة",
+     "text_fr": "Comprendre le régime civil et pénal du chèque et de la lettre de change"
+    }
+   ]
+  },
+  {
+   "key": "spec.banques-publiques.si-bancaire",
+   "parent_key": null,
+   "level": "UNIT",
+   "title_ar": "الأنظمة المعلوماتية البنكية والسلامة المعلوماتية",
+   "title_fr": "Systèmes d'information bancaires et sécurité",
+   "scope": "SUGGESTED",
+   "source_key": null,
+   "objectives": [
+    {
+     "key": "spec.banques-publiques.si-bancaire.o1",
+     "text_ar": "فهم مكونات النظام المعلوماتي البنكي (المنظومة البنكية المركزية، النقديات، القنوات الرقمية)",
+     "text_fr": "Comprendre l'architecture du SI bancaire (core banking, monétique, canaux digitaux)"
+    },
+    {
+     "key": "spec.banques-publiques.si-bancaire.o2",
+     "text_ar": "تطبيق مبادئ السلامة المعلوماتية (السرية، النزاهة، التوفر، التصرف في الهويات، استمرارية النشاط)",
+     "text_fr": "Appliquer les principes de sécurité (confidentialité, intégrité, disponibilité, gestion des identités, continuité d'activité)"
+    },
+    {
+     "key": "spec.banques-publiques.si-bancaire.o3",
+     "text_ar": "التعرف على مخاطر الاحتيال الإلكتروني وأساليب الوقاية منه",
+     "text_fr": "Connaître les risques de fraude électronique et les moyens de prévention"
+    }
+   ]
+  }
+ ],
+ "past_exams": [],
+ "tips_ar": [
+  "تابع فضاءات الانتداب في المواقع الرسمية للبنوك والبلاغات المنشورة في الصحافة؛ آجال التسجيل قصيرة (حوالي 3 إلى 4 أسابيع في مناظرتي 2026 حسب الصحافة).",
+  "لا تدفع أي مبلغ لوسطاء يعدون بالانتداب: التسجيل يتم عبر القنوات الرسمية للبنك فقط.",
+  "حضّر مسبقا نسخا رقمية واضحة (PDF) من بطاقة التعريف والشهادات وكشوف الأعداد لتسجيل سريع دون أخطاء.",
+  "راجع الأساسيات: المحاسبة العامة، التحليل المالي، الاقتصاد النقدي، الرياضيات المالية (الفوائد، الأقساط)، والعمليات البنكية ووسائل الدفع.",
+  "تابع الأخبار الاقتصادية التونسية: نسبة الفائدة المديرية للبنك المركزي، التضخم، قانون المالية، إصلاح نظام الشيكات.",
+  "تدرّب على اختبارات متعددة الاختيارات بالتوقيت، وحسّن الفرنسية والإنجليزية في مجال الأعمال.",
+  "للمقابلة الشفاهية: تعرّف على البنك (تاريخه، اختصاصه، شبكته، توجهاته الرقمية)، وحضّر تقديما ذاتيا في دقيقتين وتدرّب على وضعيات استقبال حريف.",
+  "مكافحة غسل الأموال والتعرف على الحريف وأخلاقيات المهنة محاور مهمة في العمل البنكي: لا تهملها."
+ ],
+ "tips_fr": [
+  "Surveillez les espaces recrutement des sites officiels des banques et les avis relayés par la presse ; les délais d'inscription sont courts (environ 3 à 4 semaines pour les concours 2026 selon la presse).",
+  "Ne payez jamais d'intermédiaire promettant un recrutement : l'inscription se fait uniquement via les canaux officiels de la banque.",
+  "Préparez à l'avance des scans PDF lisibles de la CIN, des diplômes et des relevés de notes pour vous inscrire vite et sans erreur.",
+  "Révisez les fondamentaux : comptabilité générale, analyse financière, économie monétaire, mathématiques financières (intérêts, annuités), opérations bancaires et moyens de paiement.",
+  "Suivez l'actualité économique tunisienne : taux directeur de la BCT, inflation, loi de finances, réforme du chèque.",
+  "Entraînez-vous aux QCM chronométrés et renforcez votre français et votre anglais des affaires.",
+  "Pour l'oral : connaissez la banque (histoire, vocation, réseau, stratégie digitale), préparez une présentation de 2 minutes et entraînez-vous aux mises en situation client.",
+  "LBC/FT, connaissance du client (KYC) et déontologie sont au cœur du métier bancaire : ne les négligez pas."
+ ],
+ "research_notes": "LIMITE MÉTHODOLOGIQUE MAJEURE : lors de cette passe, le quota WebSearch partagé était épuisé dès la première requête (aucune recherche exécutée) et WebFetch renvoie EGRESS_BLOCKED pour tous les domaines testés (lapresse.tn, tunisienumerique.com, webmanagercenter.com, managers.tn, www.stb.com.tn, www.bna.tn, www.bh.com.tn, www.bts.com.tn, www.concours.gov.tn, orientini.com, fr.wikipedia.org). AUCUNE page n'a été lue directement. Les seuls faits non suggérés proviennent du journal de recherche consigné le même jour par l'équipe (docs/research/01-market-raw.md, section « BCT & banks », et content/competitions/_openings.json) qui cite les URL s1–s5 ; c'est pourquoi TOUS les faits portent needs_verification=true (aucun fait « officiel » publiable en l'état) et aucun source_quote n'est fourni. Aucune source OFFICIELLE (avis de la banque, concours.gov.tn) n'a été trouvée : les concours bancaires sont publiés sur les sites des banques, pas au JORT. FAITS PRESSE À CONFIRMER SUR LES AVIS OFFICIELS : (1) STB Bank 2026 — 279 agents et cadres, concours national externe, écrit + oral (s1), clôture des inscriptions le 01/07/2026 et niveaux bac/licence/mastère/ingénieur (s2 via _openings.json) ; répartition par grade et spécialité, âge, plateforme, date de l'écrit et résultats INCONNUS. (2) BNA Bank 2026 — 200 agents et cadres, clôture le 17/09/2026 (s3, s4), âge max 40 ans et niveaux bac/licence/mastère/ingénieur (s4 via _openings.json) ; les « profils recherchés » détaillés par s3 n'ont pas été récupérés ; date de l'écrit inconnue. (3) BH Bank — 220 cadres contractuels en juillet 2024 (s5, fait tiré de l'URL) ; mode de sélection inconnu. Le journal mentionne un « appel BH Bank 2026, postes inconnus » mais cite l'URL de 2024 : aucune édition BH 2026 n'a été créée, à rechercher. ÉLÉMENTS ENTIÈREMENT SUGGÉRÉS (needs_verification=true, confidence=LOW, source_key=null) : les 4 postes types (agent bancaire, cadre chargé de clientèle/finance, cadre informaticien, cadre juriste) sont des profils génériques transversaux aux banques et non des grades officiels ; le poste « cadre juriste » est une pure hypothèse. Les phases 1 (présélection sur dossier), 4 (visite médicale) et 5 (période d'essai/formation) sont suggérées ; les phases 2-3 (écrit, oral) s'appuient sur s1 pour la STB et sont généralisées par hypothèse aux autres banques. Matières, coefficients, durées, nombre de questions, liste des pièces et blueprints (tous APPROXIMATED) sont des estimations éditoriales. Aucune épreuve physique n'existe à notre connaissance pour ces concours (physical_tests vides). ÉLIGIBILITÉ : max_age volontairement laissé à null (seule donnée : 40 ans pour BNA 2026) pour ne pas exclure à tort des candidats des alertes de correspondance de profil ; à renseigner par édition et par banque dès lecture des avis. Le champ specialties n'est rempli que pour les postes informatique et juriste (mots-clés larges) ; il est vide pour agent et cadre généraliste pour éviter des exclusions erronées. Nationalité tunisienne et mixité (H/F) suggérées. SYLLABUS spec.banques-publiques.* (scope SUGGESTED) : références juridiques citées de mémoire — loi n° 2016-48 (banques et établissements financiers), loi n° 2016-35 (statut de la BCT), loi organique n° 2015-26 modifiée en 2019 (LBC/FT, CTAF), loi organique n° 2004-63 (données personnelles), loi n° 2016-36 (procédures collectives), réforme du chèque de 2024 (en vigueur 2025 ; numéro et date exacts à vérifier) ; à vérifier sur legislation.tn / iort.gov.tn. PÉRIMÈTRE : la BCT (116 postes en 2025, managers.tn/2026/05/07/concours-de-la-bct-la-liste-des-admissibles-aux-116-postes/) n'est PAS incluse (banque centrale, famille distincte recommandée). BTS : aucun concours 2023-2026 trouvé (recherche impossible dans cette passe). « Banque postale » : à notre connaissance aucune banque postale agréée n'existe en Tunisie à ce jour (projet évoqué, non vérifié) ; La Poste Tunisienne recrute par ses propres concours (famille PUBLIC_COMPANY). Banques à participation publique minoritaire ou mixtes (BFPME, BTL, BTE, STUSID…) non couvertes. Le contexte de la réforme du Code du travail de 2025 (encadrement des CDD, interdiction de la sous-traitance de main-d'œuvre) pourrait modifier le recours aux « cadres contractuels » — à vérifier. Nombre de candidats : aucun chiffre trouvé. Annales : aucune annale officielle ni communautaire identifiée (past_exams vide). À FAIRE EN PRIORITÉ : lire les avis officiels STB 2026 et BNA 2026 (sites des banques), récupérer grades, spécialités, nombre de postes par profil, âge et date de référence, épreuves/coefficients/durées, pièces du dossier ; vérifier l'état d'avancement (écrit passé ou non au 07/10/2026)."
+}

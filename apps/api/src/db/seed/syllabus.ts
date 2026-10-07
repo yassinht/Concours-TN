@@ -83,6 +83,17 @@ export class SyllabusSeeder {
     return this.ids.get(key);
   }
 
+  domainOf(key: string): Domain | undefined {
+    return this.domains.get(key);
+  }
+
+  /** Drops the cache and reloads it (after a rolled-back file, cached ids may no longer exist). */
+  async reload(db: Db): Promise<void> {
+    this.ids.clear();
+    this.domains.clear();
+    await this.load(db);
+  }
+
   /** Upserts the nodes of one file; returns the keys that were written. */
   async upsertMany(db: Db, rawNodes: unknown[], opts: NodeOptions): Promise<string[]> {
     const warn = this.log.scoped(opts.ctx);
@@ -122,7 +133,10 @@ export class SyllabusSeeder {
     const written: string[] = [];
     for (const [index, n] of ordered.entries()) {
       try {
-        await this.upsertNode(db, n, index, opts);
+        // Savepoint per node: a failing node must not abort the surrounding file transaction.
+        const r = await db.transaction((sp) => this.upsertNode(sp, n, index, opts));
+        this.ids.set(n.key, r.id);
+        this.domains.set(n.key, r.domain);
         written.push(n.key);
       } catch (e) {
         warn(`syllabus node "${n.key}" failed (${errorMessage(e)})`);
@@ -132,7 +146,7 @@ export class SyllabusSeeder {
     return written;
   }
 
-  private async upsertNode(db: Db, n: NodeInput, index: number, opts: NodeOptions): Promise<void> {
+  private async upsertNode(db: Db, n: NodeInput, index: number, opts: NodeOptions): Promise<{ id: string; domain: Domain }> {
     const parentId = n.parentKey ? this.ids.get(n.parentKey) ?? null : null;
     if (n.parentKey && !parentId) this.pendingParents.push({ key: n.key, parentKey: n.parentKey, ctx: opts.ctx });
     const domain = n.domain ?? (n.parentKey ? this.domains.get(n.parentKey) : undefined) ?? opts.defaultDomain;
@@ -155,8 +169,6 @@ export class SyllabusSeeder {
         },
       })
       .returning({ id: syllabusNodes.id });
-    this.ids.set(n.key, row.id);
-    this.domains.set(n.key, domain);
     this.log.inc('upserted.syllabus');
 
     for (const o of n.objectives) {
@@ -166,6 +178,7 @@ export class SyllabusSeeder {
         .onConflictDoUpdate({ target: learningObjectives.key, set: { nodeId: row.id, textAr: o.textAr, textFr: o.textFr } });
       this.log.inc('upserted.objectives');
     }
+    return { id: row.id, domain };
   }
 
   /** Second pass for nodes whose parent was defined in a file loaded later. */

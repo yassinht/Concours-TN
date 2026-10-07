@@ -1,0 +1,3754 @@
+{
+ "family": {
+  "slug": "administration-generale",
+  "field": "ADMINISTRATION",
+  "organization": {
+   "slug": "fonction-publique-tn",
+   "name_ar": "الوظيفة العمومية – الوزارات والمؤسسات العمومية الإدارية (إطار ترتيبي تضبطه رئاسة الحكومة)",
+   "name_fr": "Fonction publique – ministères et établissements publics administratifs (cadre fixé par la Présidence du gouvernement)",
+   "ministry_fr": "Présidence du gouvernement (fonction publique) ; chaque ministère ou établissement organise ses propres concours",
+   "website": "https://www.concours.gov.tn"
+  },
+  "name_ar": "المناظرات الخارجية للانتداب في رتب السلك الإداري المشترك والرتب الإدارية بالوزارات",
+  "name_fr": "Concours externes de recrutement dans le corps administratif commun et les grades administratifs des ministères",
+  "description_ar": "تنظم كل وزارة أو مؤسسة عمومية إدارية مناظراتها الخارجية للانتداب في الرتب الإدارية بعد صدور قرار فتح المناظرة (يُنشر غالبا بالرائد الرسمي) وبلاغ على موقعها أو على البوابة الوطنية للمناظرات (concours.gov.tn). [مقترح، للتثبت] يضم السلك الإداري المشترك للإدارات العمومية رتب متصرف عام، متصرف رئيس، متصرف مستشار، متصرف، ملحق إدارة، كاتب إدارة ومستكتب إدارة؛ تُفتح عادة للانتداب الخارجي رتب متصرف (إجازة) وملحق إدارة وكاتب إدارة، بينما تُسدّ الرتب العليا بالترقية. تجمع هذه العائلة أيضا رتبا إدارية قريبة تُفتح بمناظرات خارجية: المتصرفون في الوثائق والأرشيف، كتّاب الشؤون الخارجية، متصرفو وكتبة المحاكم، مراقبو الدولة المساعدون، أعوان الاستقبال والعملة. حسب الصحافة (للتثبت من النصوص الرسمية) شهدت سنة 2026 مناظرات منها: 263 متصرفا لفائدة البلديات (اختبارات 11 ماي)، 10 مراقبي دولة مساعدين، 29 متصرفا و98 كاتب محكمة أول بالملفات (وزارة العدل)، 50 كاتب شؤون خارجية و6 متصرفين في الوثائق والأرشيف (وزارة الشؤون الخارجية)، 25 متصرفا بوزارة أملاك الدولة، ومناظرات لانتداب عملة (320 بوزارة الدفاع، 78 بوزارة العدل...). تنبيه: لم يكن ممكنا فتح أي صفحة رسمية أو صحفية أثناء هذا البحث، لذلك كل المعطيات تحتاج إلى تثبت.",
+  "description_fr": "Chaque ministère ou établissement public administratif organise ses propres concours externes de recrutement dans les grades administratifs, après un arrêté d'ouverture (généralement publié au JORT) et un avis sur son site ou sur le portail national des concours (concours.gov.tn). [Suggestion, à vérifier] Le corps administratif commun des administrations publiques comprend les grades d'administrateur général, administrateur en chef, administrateur conseiller, administrateur, attaché d'administration, secrétaire d'administration et commis d'administration ; le recrutement externe porte surtout sur administrateur (licence), attaché et secrétaire d'administration, les grades supérieurs étant pourvus par promotion. Cette famille regroupe aussi des grades administratifs voisins recrutés par concours externe : administrateurs en documentation et archives, secrétaires des affaires étrangères, administrateurs et greffiers des tribunaux, contrôleurs d'État adjoints, agents d'accueil et ouvriers. Selon la presse (à recouper avec les textes officiels), 2026 a notamment vu : 263 administrateurs pour les municipalités (écrits le 11 mai), 10 contrôleurs d'État adjoints, 29 administrateurs et 98 greffiers premiers sur dossiers (Justice), 50 secrétaires des affaires étrangères et 6 administrateurs en documentation et archives (Affaires étrangères), 25 administrateurs aux Domaines de l'État, et des concours d'ouvriers (320 à la Défense, 78 à la Justice…). Attention : aucune page officielle ni de presse n'a pu être ouverte lors de cette recherche ; toutes les données sont à vérifier.",
+  "frequency": "IRREGULAR",
+  "frequency_confidence": "LOW",
+  "popularity": 5,
+  "keywords": [
+   "fonction publique",
+   "الوظيفة العمومية",
+   "concours externe",
+   "مناظرة خارجية",
+   "corps administratif commun",
+   "السلك الإداري المشترك",
+   "administrateur",
+   "متصرف",
+   "attaché d'administration",
+   "ملحق إدارة",
+   "secrétaire d'administration",
+   "كاتب إدارة",
+   "commis d'administration",
+   "مستكتب إدارة",
+   "agent d'accueil",
+   "عون استقبال",
+   "ouvrier",
+   "عامل",
+   "عملة",
+   "documentation et archives",
+   "الوثائق والأرشيف",
+   "secrétaire des affaires étrangères",
+   "كاتب شؤون خارجية",
+   "greffier",
+   "كاتب محكمة",
+   "administrateur des greffes",
+   "متصرف لكتابات المحاكم",
+   "contrôleur d'État",
+   "مراقب دولة",
+   "concours sur dossiers",
+   "مناظرة بالملفات",
+   "concours sur épreuves",
+   "مناظرة بالاختبارات",
+   "licence",
+   "الإجازة",
+   "municipalités",
+   "البلديات",
+   "ministère",
+   "وزارة",
+   "concours.gov.tn",
+   "recrutement",
+   "انتداب",
+   "JORT",
+   "الرائد الرسمي"
+  ]
+ },
+ "sources": [
+  {
+   "key": "s1",
+   "title": "Portail national des concours de la fonction publique (البوابة الوطنية للمناظرات)",
+   "url": "https://www.concours.gov.tn",
+   "publisher": "Présidence du gouvernement / administration tunisienne",
+   "source_type": "OFFICIAL",
+   "publication_date": null,
+   "retrieved_at": "2026-10-07",
+   "confidence": "LOW",
+   "notes": "Portail officiel cité par le cahier des charges du projet comme source de référence. NON CONSULTÉ (connexion refusée par le proxy). Listé comme point de vérification prioritaire : avis d'ouverture, inscription en ligne, résultats. Aucun fait de ce fichier n'en est tiré directement."
+  },
+  {
+   "key": "s2",
+   "title": "Tunisie : 263 administrateurs recrutés pour renforcer les municipalités",
+   "url": "https://www.tunisienumerique.com/tunisie-263-administrateurs-recrutes-pour-renforcer-les-municipalites/",
+   "publisher": "Tunisie Numérique",
+   "source_type": "SECONDARY",
+   "publication_date": null,
+   "retrieved_at": "2026-10-07",
+   "confidence": "MEDIUM",
+   "notes": "PAGE NON OUVERTE dans cette passe : quota WebSearch partagé épuisé dès la première requête et WebFetch renvoie EGRESS_BLOCKED pour ce domaine. URL et faits repris de la veille consignée le même jour par l'équipe (content/competitions/_openings.json), elle-même fondée sur des résumés de moteur de recherche. Faits attribués : concours externe sur épreuves, 263 administrateurs du corps administratif commun au profit des municipalités (ministère de l'Intérieur – affaires locales), niveau licence, clôture des candidatures 10/04/2026, épreuves 11/05/2026."
+  },
+  {
+   "key": "s3",
+   "title": "Présidence du gouvernement : ouverture d'un concours pour le recrutement de 10 contrôleurs d'État adjoints",
+   "url": "https://www.lapresse.tn/2026/05/20/presidence-du-gouvernement-ouverture-dun-concours-pour-le-recrutement-de-10-controleurs-detat-adjoints/",
+   "publisher": "La Presse de Tunisie",
+   "source_type": "SECONDARY",
+   "publication_date": "2026-05-20",
+   "retrieved_at": "2026-10-07",
+   "confidence": "MEDIUM",
+   "notes": "PAGE NON OUVERTE dans cette passe : quota WebSearch partagé épuisé dès la première requête et WebFetch renvoie EGRESS_BLOCKED pour ce domaine. URL et faits repris de la veille consignée le même jour par l'équipe (content/competitions/_openings.json), elle-même fondée sur des résumés de moteur de recherche. Faits attribués : 10 contrôleurs d'État adjoints, diplôme master/doctorat, clôture 15/06/2026, concours 15/07/2026."
+  },
+  {
+   "key": "s4",
+   "title": "Justice : ouverture d'un concours pour le recrutement de 29 administrateurs (greffes des tribunaux)",
+   "url": "https://www.lapresse.tn/2026/05/24/justice-ouverture-dun-concours-pour-le-recrutement-de-29-administrateurs/",
+   "publisher": "La Presse de Tunisie",
+   "source_type": "SECONDARY",
+   "publication_date": "2026-05-24",
+   "retrieved_at": "2026-10-07",
+   "confidence": "MEDIUM",
+   "notes": "PAGE NON OUVERTE dans cette passe : quota WebSearch partagé épuisé dès la première requête et WebFetch renvoie EGRESS_BLOCKED pour ce domaine. URL et faits repris de la veille consignée le même jour par l'équipe (content/competitions/_openings.json), elle-même fondée sur des résumés de moteur de recherche. Faits attribués : concours externe sur dossiers, 29 administrateurs des greffes des tribunaux de l'ordre judiciaire, licence, clôture 30/06/2026, concours 13/07/2026."
+  },
+  {
+   "key": "s5",
+   "title": "Concours externe sur dossiers pour le recrutement de 98 greffiers premiers des tribunaux de l'ordre judiciaire",
+   "url": "https://www.orientini.com/FR/Annonces_Orientation_Formation_Emploi/17279/",
+   "publisher": "Orientini (portail d'annonces d'orientation et d'emploi)",
+   "source_type": "SECONDARY",
+   "publication_date": null,
+   "retrieved_at": "2026-10-07",
+   "confidence": "LOW",
+   "notes": "PAGE NON OUVERTE dans cette passe : quota WebSearch partagé épuisé dès la première requête et WebFetch renvoie EGRESS_BLOCKED pour ce domaine. URL et faits repris de la veille consignée le même jour par l'équipe (content/competitions/_openings.json), elle-même fondée sur des résumés de moteur de recherche. Faits attribués : 98 greffiers premiers, niveau bac+2, âge maximum 40 ans, clôture 30/06/2026, concours 13/07/2026."
+  },
+  {
+   "key": "s6",
+   "title": "Défense : ouverture d'un concours externe pour le recrutement de 320 agents (ouvriers)",
+   "url": "https://www.lapresse.tn/2026/06/10/defense-ouverture-dun-concours-externe-pour-le-recrutement-de-320-agents/",
+   "publisher": "La Presse de Tunisie",
+   "source_type": "SECONDARY",
+   "publication_date": "2026-06-10",
+   "retrieved_at": "2026-10-07",
+   "confidence": "MEDIUM",
+   "notes": "PAGE NON OUVERTE dans cette passe : quota WebSearch partagé épuisé dès la première requête et WebFetch renvoie EGRESS_BLOCKED pour ce domaine. URL et faits repris de la veille consignée le même jour par l'équipe (content/competitions/_openings.json), elle-même fondée sur des résumés de moteur de recherche. Faits attribués : 320 ouvriers des sous-catégories 1, 3 et 5 au ministère de la Défense nationale, clôture 03/07/2026, épreuves 03/08/2026."
+  },
+  {
+   "key": "s7",
+   "title": "Le ministère des Affaires étrangères ouvre un concours externe de recrutement (administrateurs en documentation et archives)",
+   "url": "https://www.webmanagercenter.com/2026/06/10/568138/le-ministere-des-affaires-etrangeres-ouvre-un-concours-externe-de-recrutement/",
+   "publisher": "WebManagerCenter",
+   "source_type": "SECONDARY",
+   "publication_date": "2026-06-10",
+   "retrieved_at": "2026-10-07",
+   "confidence": "MEDIUM",
+   "notes": "PAGE NON OUVERTE dans cette passe : quota WebSearch partagé épuisé dès la première requête et WebFetch renvoie EGRESS_BLOCKED pour ce domaine. URL et faits repris de la veille consignée le même jour par l'équipe (content/competitions/_openings.json), elle-même fondée sur des résumés de moteur de recherche. Faits attribués : concours externe sur épreuves, 6 administrateurs en documentation et archives, licence, épreuves le 23/07/2026 (date de clôture non relevée)."
+  },
+  {
+   "key": "s8",
+   "title": "Ministère des Affaires étrangères, de la Migration et des Tunisiens à l'étranger : concours de 50 secrétaires des affaires étrangères",
+   "url": "https://www.tuniscope.com/article/436210/actualites/tunisie/ministere-des-affaires-etrangeres-de-la-migration-et-des-tunisiens-a-l-etranger-304013",
+   "publisher": "Tuniscope",
+   "source_type": "SECONDARY",
+   "publication_date": null,
+   "retrieved_at": "2026-10-07",
+   "confidence": "MEDIUM",
+   "notes": "PAGE NON OUVERTE dans cette passe : quota WebSearch partagé épuisé dès la première requête et WebFetch renvoie EGRESS_BLOCKED pour ce domaine. URL et faits repris de la veille consignée le même jour par l'équipe (content/competitions/_openings.json), elle-même fondée sur des résumés de moteur de recherche. Faits attribués : concours externe sur épreuves, 50 secrétaires des affaires étrangères (session 2026), licence, clôture 05/08/2026, épreuves 05/09/2026."
+  },
+  {
+   "key": "s9",
+   "title": "Tunisie : le ministère des Domaines de l'État ouvre un concours externe (25 administrateurs)",
+   "url": "https://directinfo.webmanagercenter.com/2026/07/09/tunisie-le-ministere-des-domaines-de-letat-ouvre-un-concours-externe/",
+   "publisher": "Directinfo (WebManagerCenter)",
+   "source_type": "SECONDARY",
+   "publication_date": "2026-07-09",
+   "retrieved_at": "2026-10-07",
+   "confidence": "MEDIUM",
+   "notes": "PAGE NON OUVERTE dans cette passe : quota WebSearch partagé épuisé dès la première requête et WebFetch renvoie EGRESS_BLOCKED pour ce domaine. URL et faits repris de la veille consignée le même jour par l'équipe (content/competitions/_openings.json), elle-même fondée sur des résumés de moteur de recherche. Faits attribués : 25 administrateurs des Domaines de l'État et des Affaires foncières, licence, clôture 10/08/2026, épreuves 10/09/2026."
+  },
+  {
+   "key": "s10",
+   "title": "Le ministère de la Justice lance un concours pour le recrutement d'agents (78 ouvriers)",
+   "url": "https://www.lapresse.tn/2026/08/06/le-ministere-de-la-justice-lance-un-concours-pour-le-recrutement-dagents/",
+   "publisher": "La Presse de Tunisie",
+   "source_type": "SECONDARY",
+   "publication_date": "2026-08-06",
+   "retrieved_at": "2026-10-07",
+   "confidence": "MEDIUM",
+   "notes": "PAGE NON OUVERTE dans cette passe : quota WebSearch partagé épuisé dès la première requête et WebFetch renvoie EGRESS_BLOCKED pour ce domaine. URL et faits repris de la veille consignée le même jour par l'équipe (content/competitions/_openings.json), elle-même fondée sur des résumés de moteur de recherche. Faits attribués : concours sur épreuves professionnelles, 78 ouvriers (39 agents de nettoyage, 39 gardiens), aucun diplôme exigé, âge maximum 40 ans, clôture 28/08/2026, épreuves 05/10/2026."
+  },
+  {
+   "key": "s11",
+   "title": "Concours du ministère des Affaires étrangères : recrutement de 19 ouvriers (catégories 4 et 6)",
+   "url": "https://www.kedma.tn/2026/09/concours%20diplomatie.html",
+   "publisher": "Kedma.tn (site d'annonces d'emploi)",
+   "source_type": "SECONDARY",
+   "publication_date": null,
+   "retrieved_at": "2026-10-07",
+   "confidence": "LOW",
+   "notes": "PAGE NON OUVERTE dans cette passe : quota WebSearch partagé épuisé dès la première requête et WebFetch renvoie EGRESS_BLOCKED pour ce domaine. URL et faits repris de la veille consignée le même jour par l'équipe (content/competitions/_openings.json), elle-même fondée sur des résumés de moteur de recherche. Faits attribués : 19 ouvriers des catégories 4 et 6 (conduite, électricité, plomberie, menuiserie, jardinage, maintenance), clôture 27/09/2026."
+  },
+  {
+   "key": "s12",
+   "title": "Concours externe pour le recrutement d'administrateurs – ministère de l'Économie et de la Planification",
+   "url": "https://www.kedma.tn/2026/09/mdici.gov.tn.html",
+   "publisher": "Kedma.tn (site d'annonces d'emploi)",
+   "source_type": "SECONDARY",
+   "publication_date": null,
+   "retrieved_at": "2026-10-07",
+   "confidence": "LOW",
+   "notes": "PAGE NON OUVERTE dans cette passe : quota WebSearch partagé épuisé dès la première requête et WebFetch renvoie EGRESS_BLOCKED pour ce domaine. URL et faits repris de la veille consignée le même jour par l'équipe (content/competitions/_openings.json), elle-même fondée sur des résumés de moteur de recherche. Faits attribués : concours externe d'administrateurs, licence, clôture 30/09/2026 ; nombre de postes non relevé."
+  },
+  {
+   "key": "s13",
+   "title": "Concours externe pour le recrutement de 12 ouvriers – ministère des Domaines de l'État et des Affaires foncières",
+   "url": "https://www.kedma.tn/2026/09/Concours.html",
+   "publisher": "Kedma.tn (site d'annonces d'emploi)",
+   "source_type": "SECONDARY",
+   "publication_date": null,
+   "retrieved_at": "2026-10-07",
+   "confidence": "LOW",
+   "notes": "PAGE NON OUVERTE dans cette passe : quota WebSearch partagé épuisé dès la première requête et WebFetch renvoie EGRESS_BLOCKED pour ce domaine. URL et faits repris de la veille consignée le même jour par l'équipe (content/competitions/_openings.json), elle-même fondée sur des résumés de moteur de recherche. Faits attribués : 12 ouvriers, clôture 30/09/2026."
+  },
+  {
+   "key": "s14",
+   "title": "Emploi – ATCT : un concours externe pour recruter six cadres en 2026",
+   "url": "https://www.webmanagercenter.com/2026/09/17/572918/emploi-atct-un-concours-externe-pour-recruter-six-cadres-en-2026/",
+   "publisher": "WebManagerCenter",
+   "source_type": "SECONDARY",
+   "publication_date": "2026-09-17",
+   "retrieved_at": "2026-10-07",
+   "confidence": "MEDIUM",
+   "notes": "PAGE NON OUVERTE dans cette passe : quota WebSearch partagé épuisé dès la première requête et WebFetch renvoie EGRESS_BLOCKED pour ce domaine. URL et faits repris de la veille consignée le même jour par l'équipe (content/competitions/_openings.json), elle-même fondée sur des résumés de moteur de recherche. Faits attribués : Agence tunisienne de coopération technique, concours externe sur dossiers complété par des épreuves écrites, orales et un test psychotechnique, 6 cadres (licence/master), clôture 20/10/2026."
+  },
+  {
+   "key": "s15",
+   "title": "ATI : concours de recrutement de 4 administrateurs – 2026",
+   "url": "https://www.kedma.tn/2026/09/concours-ati-administrateurs.html",
+   "publisher": "Kedma.tn (site d'annonces d'emploi)",
+   "source_type": "SECONDARY",
+   "publication_date": null,
+   "retrieved_at": "2026-10-07",
+   "confidence": "LOW",
+   "notes": "PAGE NON OUVERTE dans cette passe : quota WebSearch partagé épuisé dès la première requête et WebFetch renvoie EGRESS_BLOCKED pour ce domaine. URL et faits repris de la veille consignée le même jour par l'équipe (content/competitions/_openings.json), elle-même fondée sur des résumés de moteur de recherche. Faits attribués : Agence tunisienne d'Internet, 4 administrateurs, licence, clôture 28/10/2026."
+  },
+  {
+   "key": "s16",
+   "title": "Concours externe pour le recrutement d'administrateurs des documents et archives – ministère des Domaines de l'État",
+   "url": "https://www.lapresse.tn/?p=4338229",
+   "publisher": "La Presse de Tunisie",
+   "source_type": "SECONDARY",
+   "publication_date": null,
+   "retrieved_at": "2026-10-07",
+   "confidence": "LOW",
+   "notes": "PAGE NON OUVERTE dans cette passe : quota WebSearch partagé épuisé dès la première requête et WebFetch renvoie EGRESS_BLOCKED pour ce domaine. URL et faits repris de la veille consignée le même jour par l'équipe (content/competitions/_openings.json), elle-même fondée sur des résumés de moteur de recherche. Faits attribués : concours externe d'administrateurs des documents et archives (licence) ; nombre de postes et dates non relevés. Volontairement NON repris dans editions[] (aucune date : le seed des ouvertures crée déjà cette édition)."
+  },
+  {
+   "key": "s17",
+   "title": "Fonction publique : l'État tunisien relance les recrutements en 2026",
+   "url": "https://lapresse.tn/2025/10/16/fonction-publique-letat-tunisien-relance-les-recrutements-en-2026/",
+   "publisher": "La Presse de Tunisie",
+   "source_type": "SECONDARY",
+   "publication_date": "2025-10-16",
+   "retrieved_at": "2026-10-07",
+   "confidence": "MEDIUM",
+   "notes": "PAGE NON OUVERTE dans cette passe (EGRESS_BLOCKED). Fait repris du résumé de recherche de l'équipe (docs/research/01-market-raw.md, §1) : loi de finances 2026 = 51 878 recrutements et régularisations, dont une large part de régularisations (volume réel sur concours bien plus faible)."
+  },
+  {
+   "key": "s18",
+   "title": "Circulaire budgétaire n° 2 du 14 avril 2026 : recrutements 2027 limités aux secteurs prioritaires",
+   "url": "https://fr.allafrica.com/stories/202604200506.html",
+   "publisher": "AllAfrica (reprise de presse tunisienne)",
+   "source_type": "SECONDARY",
+   "publication_date": "2026-04-20",
+   "retrieved_at": "2026-10-07",
+   "confidence": "LOW",
+   "notes": "PAGE NON OUVERTE dans cette passe (EGRESS_BLOCKED). Fait repris du résumé de recherche de l'équipe (docs/research/01-market-raw.md, §1) : la circulaire de préparation du budget 2027 restreint les recrutements aux secteurs prioritaires."
+  },
+  {
+   "key": "s19",
+   "title": "Recrutement des diplômés du supérieur en chômage de longue durée : publication de la loi au JORT et entrée en vigueur",
+   "url": "https://www.lapresse.tn/2025/12/24/recrutement-des-diplomes-du-superieur-en-chomage-de-longue-duree-publication-de-la-loi-relative-au-jort-et-entree-en-vigueur-de-ses-dispositions/",
+   "publisher": "La Presse de Tunisie",
+   "source_type": "SECONDARY",
+   "publication_date": "2025-12-24",
+   "retrieved_at": "2026-10-07",
+   "confidence": "MEDIUM",
+   "notes": "PAGE NON OUVERTE dans cette passe (EGRESS_BLOCKED). Fait repris du résumé de recherche de l'équipe (docs/research/01-market-raw.md, §1) : loi n° 2025-18 du 22/12/2025, recrutement exceptionnel sans épreuve écrite (plateforme numérique, priorités d'âge et d'ancienneté du diplôme) ; décret d'application non publié en septembre 2026."
+  },
+  {
+   "key": "s20",
+   "title": "L'ANGED ouvre un concours pour renforcer ses équipes techniques et administratives (11 cadres dont 5 administrateurs)",
+   "url": "https://www.lapresse.tn/2026/07/25/recrutement-langed-ouvre-un-concours-pour-renforcer-ses-equipes-techniques-et-administratives/",
+   "publisher": "La Presse de Tunisie",
+   "source_type": "SECONDARY",
+   "publication_date": "2026-07-25",
+   "retrieved_at": "2026-10-07",
+   "confidence": "MEDIUM",
+   "notes": "PAGE NON OUVERTE dans cette passe : quota WebSearch partagé épuisé dès la première requête et WebFetch renvoie EGRESS_BLOCKED pour ce domaine. URL et faits repris de la veille consignée le même jour par l'équipe (content/competitions/_openings.json), elle-même fondée sur des résumés de moteur de recherche. Clôture 24/08/2026. Non repris dans editions[] : la veille l'a rattaché à la famille techniciens-ingenieurs (éviter un doublon d'alerte)."
+  },
+  {
+   "key": "s21",
+   "title": "Office national de la télédiffusion : ouverture d'un concours de recrutement pour six postes (administrateur, technicien, chauffeur)",
+   "url": "https://www.lapresse.tn/2026/07/06/office-national-de-la-telediffusion-ouverture-dun-concours-de-recrutement-pour-six-postes/",
+   "publisher": "La Presse de Tunisie",
+   "source_type": "SECONDARY",
+   "publication_date": "2026-07-06",
+   "retrieved_at": "2026-10-07",
+   "confidence": "MEDIUM",
+   "notes": "PAGE NON OUVERTE dans cette passe : quota WebSearch partagé épuisé dès la première requête et WebFetch renvoie EGRESS_BLOCKED pour ce domaine. URL et faits repris de la veille consignée le même jour par l'équipe (content/competitions/_openings.json), elle-même fondée sur des résumés de moteur de recherche. Clôture 24/07/2026. Non repris dans editions[] (postes mixtes, répartition par grade inconnue) ; cité comme exemple d'établissement public recrutant des administrateurs."
+  }
+ ],
+ "editions": [
+  {
+   "year": 2026,
+   "session_label": "مناظرة خارجية بالاختبارات لانتداب 263 متصرفا بالسلك الإداري المشترك لفائدة البلديات (وزارة الداخلية – الشؤون المحلية) / Concours externe sur épreuves : 263 administrateurs du corps administratif commun au profit des municipalités (ministère de l'Intérieur – affaires locales)",
+   "status": "EXAM_DONE",
+   "registration_open": null,
+   "registration_deadline": "2026-04-10",
+   "exam_date": "2026-05-11",
+   "positions_count": 263,
+   "candidates_count": null,
+   "position_slugs": [
+    "administrateur"
+   ],
+   "source_key": "s2",
+   "confidence": "MEDIUM",
+   "needs_verification": true
+  },
+  {
+   "year": 2026,
+   "session_label": "رئاسة الحكومة: مناظرة لانتداب 10 مراقبي دولة مساعدين / Présidence du gouvernement : concours de recrutement de 10 contrôleurs d'État adjoints",
+   "status": "EXAM_DONE",
+   "registration_open": null,
+   "registration_deadline": "2026-06-15",
+   "exam_date": "2026-07-15",
+   "positions_count": 10,
+   "candidates_count": null,
+   "position_slugs": [
+    "controleur-etat-adjoint"
+   ],
+   "source_key": "s3",
+   "confidence": "MEDIUM",
+   "needs_verification": true
+  },
+  {
+   "year": 2026,
+   "session_label": "وزارة العدل: مناظرة خارجية بالملفات لانتداب 29 متصرفا لكتابات المحاكم العدلية / Ministère de la Justice : concours externe sur dossiers, 29 administrateurs des greffes des tribunaux de l'ordre judiciaire",
+   "status": "EXAM_DONE",
+   "registration_open": null,
+   "registration_deadline": "2026-06-30",
+   "exam_date": "2026-07-13",
+   "positions_count": 29,
+   "candidates_count": null,
+   "position_slugs": [
+    "administrateur-greffes"
+   ],
+   "source_key": "s4",
+   "confidence": "MEDIUM",
+   "needs_verification": true
+  },
+  {
+   "year": 2026,
+   "session_label": "وزارة العدل: مناظرة خارجية بالملفات لانتداب 98 كاتب محكمة أول بالمحاكم العدلية / Ministère de la Justice : concours externe sur dossiers, 98 greffiers premiers des tribunaux de l'ordre judiciaire",
+   "status": "EXAM_DONE",
+   "registration_open": null,
+   "registration_deadline": "2026-06-30",
+   "exam_date": "2026-07-13",
+   "positions_count": 98,
+   "candidates_count": null,
+   "position_slugs": [
+    "greffier-premier"
+   ],
+   "source_key": "s5",
+   "confidence": "LOW",
+   "needs_verification": true
+  },
+  {
+   "year": 2026,
+   "session_label": "وزارة الدفاع الوطني: مناظرة خارجية لانتداب 320 عاملا من الأصناف الفرعية 1 و3 و5 / Ministère de la Défense nationale : concours externe, 320 ouvriers des sous-catégories 1, 3 et 5",
+   "status": "EXAM_DONE",
+   "registration_open": null,
+   "registration_deadline": "2026-07-03",
+   "exam_date": "2026-08-03",
+   "positions_count": 320,
+   "candidates_count": null,
+   "position_slugs": [
+    "ouvrier"
+   ],
+   "source_key": "s6",
+   "confidence": "MEDIUM",
+   "needs_verification": true
+  },
+  {
+   "year": 2026,
+   "session_label": "وزارة الشؤون الخارجية: مناظرة خارجية بالاختبارات لانتداب 6 متصرفين في الوثائق والأرشيف / Ministère des Affaires étrangères : concours externe sur épreuves, 6 administrateurs en documentation et archives",
+   "status": "EXAM_DONE",
+   "registration_open": null,
+   "registration_deadline": null,
+   "exam_date": "2026-07-23",
+   "positions_count": 6,
+   "candidates_count": null,
+   "position_slugs": [
+    "administrateur-documents-archives"
+   ],
+   "source_key": "s7",
+   "confidence": "MEDIUM",
+   "needs_verification": true
+  },
+  {
+   "year": 2026,
+   "session_label": "وزارة الشؤون الخارجية والهجرة والتونسيين بالخارج: مناظرة خارجية بالاختبارات لانتداب 50 كاتب شؤون خارجية بعنوان سنة 2026 / Ministère des Affaires étrangères, de la Migration et des Tunisiens à l'étranger : concours externe sur épreuves, 50 secrétaires des affaires étrangères (2026)",
+   "status": "EXAM_DONE",
+   "registration_open": null,
+   "registration_deadline": "2026-08-05",
+   "exam_date": "2026-09-05",
+   "positions_count": 50,
+   "candidates_count": null,
+   "position_slugs": [
+    "secretaire-affaires-etrangeres"
+   ],
+   "source_key": "s8",
+   "confidence": "MEDIUM",
+   "needs_verification": true
+  },
+  {
+   "year": 2026,
+   "session_label": "وزارة أملاك الدولة والشؤون العقارية: مناظرة خارجية لانتداب 25 متصرفا / Ministère des Domaines de l'État et des Affaires foncières : concours externe, 25 administrateurs",
+   "status": "EXAM_DONE",
+   "registration_open": null,
+   "registration_deadline": "2026-08-10",
+   "exam_date": "2026-09-10",
+   "positions_count": 25,
+   "candidates_count": null,
+   "position_slugs": [
+    "administrateur"
+   ],
+   "source_key": "s9",
+   "confidence": "MEDIUM",
+   "needs_verification": true
+  },
+  {
+   "year": 2026,
+   "session_label": "وزارة العدل: مناظرة بالاختبارات المهنية لانتداب 78 عاملا (39 عون تنظيف و39 حارسا) / Ministère de la Justice : concours sur épreuves professionnelles, 78 ouvriers (39 agents de nettoyage, 39 gardiens)",
+   "status": "EXAM_DONE",
+   "registration_open": null,
+   "registration_deadline": "2026-08-28",
+   "exam_date": "2026-10-05",
+   "positions_count": 78,
+   "candidates_count": null,
+   "position_slugs": [
+    "ouvrier"
+   ],
+   "source_key": "s10",
+   "confidence": "MEDIUM",
+   "needs_verification": true
+  },
+  {
+   "year": 2026,
+   "session_label": "وزارة الشؤون الخارجية: مناظرة خارجية لانتداب 19 عاملا من الصنفين 4 و6 (سياقة، كهرباء، ترصيص، نجارة، بستنة، صيانة) / Ministère des Affaires étrangères : concours externe, 19 ouvriers des catégories 4 et 6 (conduite, électricité, plomberie, menuiserie, jardinage, maintenance)",
+   "status": "CLOSED",
+   "registration_open": null,
+   "registration_deadline": "2026-09-27",
+   "exam_date": null,
+   "positions_count": 19,
+   "candidates_count": null,
+   "position_slugs": [
+    "ouvrier"
+   ],
+   "source_key": "s11",
+   "confidence": "LOW",
+   "needs_verification": true
+  },
+  {
+   "year": 2026,
+   "session_label": "وزارة الاقتصاد والتخطيط: مناظرة خارجية لانتداب متصرفين (العدد غير معروف) / Ministère de l'Économie et de la Planification : concours externe de recrutement d'administrateurs (nombre de postes non relevé)",
+   "status": "CLOSED",
+   "registration_open": null,
+   "registration_deadline": "2026-09-30",
+   "exam_date": null,
+   "positions_count": null,
+   "candidates_count": null,
+   "position_slugs": [
+    "administrateur"
+   ],
+   "source_key": "s12",
+   "confidence": "LOW",
+   "needs_verification": true
+  },
+  {
+   "year": 2026,
+   "session_label": "وزارة أملاك الدولة والشؤون العقارية: مناظرة خارجية لانتداب 12 عاملا / Ministère des Domaines de l'État et des Affaires foncières : concours externe, 12 ouvriers",
+   "status": "CLOSED",
+   "registration_open": null,
+   "registration_deadline": "2026-09-30",
+   "exam_date": null,
+   "positions_count": 12,
+   "candidates_count": null,
+   "position_slugs": [
+    "ouvrier"
+   ],
+   "source_key": "s13",
+   "confidence": "LOW",
+   "needs_verification": true
+  },
+  {
+   "year": 2026,
+   "session_label": "الوكالة التونسية للتعاون الفني: مناظرة خارجية بالملفات مشفوعة باختبارات كتابية وشفاهية واختبار نفسي-تقني لانتداب 6 إطارات / ATCT : concours externe sur dossiers complété par des épreuves écrites, orales et un test psychotechnique, 6 cadres",
+   "status": "OPEN",
+   "registration_open": null,
+   "registration_deadline": "2026-10-20",
+   "exam_date": null,
+   "positions_count": 6,
+   "candidates_count": null,
+   "position_slugs": [
+    "administrateur"
+   ],
+   "source_key": "s14",
+   "confidence": "MEDIUM",
+   "needs_verification": true
+  },
+  {
+   "year": 2026,
+   "session_label": "الوكالة التونسية للأنترنات: مناظرة لانتداب 4 متصرفين / Agence tunisienne d'Internet (ATI) : concours de recrutement de 4 administrateurs",
+   "status": "OPEN",
+   "registration_open": null,
+   "registration_deadline": "2026-10-28",
+   "exam_date": null,
+   "positions_count": 4,
+   "candidates_count": null,
+   "position_slugs": [
+    "administrateur"
+   ],
+   "source_key": "s15",
+   "confidence": "LOW",
+   "needs_verification": true
+  },
+  {
+   "year": 2027,
+   "session_label": "[مقترح] مناظرات خارجية للانتداب في رتب السلك الإداري المشترك بعنوان 2027: متوقعة لكن بحجم محدود (منشور إعداد ميزانية 2027 يحصر الانتداب في القطاعات ذات الأولوية) / [Suggestion] Concours externes du corps administratif commun au titre de 2027 : attendus mais en volume limité (la circulaire budgétaire 2027 réserve les recrutements aux secteurs prioritaires)",
+   "status": "EXPECTED",
+   "registration_open": null,
+   "registration_deadline": null,
+   "exam_date": null,
+   "positions_count": null,
+   "candidates_count": null,
+   "position_slugs": [],
+   "source_key": "s18",
+   "confidence": "LOW",
+   "needs_verification": true
+  }
+ ],
+ "positions": [
+  {
+   "slug": "administrateur",
+   "title_ar": "متصرف (السلك الإداري المشترك للإدارات العمومية)",
+   "title_fr": "Administrateur (corps administratif commun des administrations publiques)",
+   "diploma_level": "LICENCE",
+   "eligibility": {
+    "min_age": 18,
+    "max_age": null,
+    "genders": [
+     "M",
+     "F"
+    ],
+    "nationality": "TN",
+    "diplomas": [
+     "LICENCE"
+    ],
+    "specialties": [],
+    "min_height_cm_male": null,
+    "min_height_cm_female": null,
+    "marital_status": null,
+    "other_ar": [
+     "[مقترح] الشروط العامة للقانون الأساسي العام لأعوان الدولة (القانون عدد 112 لسنة 1983، للتثبت): الجنسية التونسية، التمتع بالحقوق المدنية، حسن السيرة والسلوك، بلوغ 18 سنة على الأقل، القدرة البدنية على ممارسة الوظيفة، وضعية قانونية إزاء الخدمة الوطنية",
+     "[مقترح] حد أقصى للسن يضبطه قرار فتح المناظرة (عادة 40 سنة في غرة جانفي من سنة المناظرة أو في تاريخ ختم الترشحات، مع إمكانية الترفيع بمدة الخدمة المدنية أو الوطنية) — غير مطبّق آليا هنا لتفادي إقصاء مترشحين عن خطأ",
+     "الإجازة (المستوى المعلن في مناظرة البلديات 2026 ومناظرات أملاك الدولة والاقتصاد) أو شهادة معادلة؛ حاملو الماجستير غير مقصيين عادة",
+     "[مقترح] قائمة الاختصاصات المقبولة تختلف من وزارة إلى أخرى (حقوق، علوم قانونية وسياسية، اقتصاد، تصرف، مالية، علوم إنسانية...) — لا تُطبّق آليا؛ المرجع هو قرار فتح المناظرة",
+     "[مقترح] نفس الرتبة تُفتح أيضا في المؤسسات العمومية (وكالات، دواوين) وفق أنظمتها الأساسية الخاصة"
+    ],
+    "other_fr": [
+     "[Suggestion] Conditions générales du statut général des personnels de l'État (loi n° 83-112 du 12/12/1983, à vérifier) : nationalité tunisienne, jouissance des droits civiques, bonne moralité, 18 ans au moins, aptitude physique à l'emploi, situation régulière vis-à-vis du service national",
+     "[Suggestion] Âge maximum fixé par l'arrêté d'ouverture (souvent 40 ans au 1er janvier de l'année du concours ou à la clôture des candidatures, avec report possible pour services civils ou service national) — volontairement non appliqué automatiquement pour ne pas exclure à tort des candidats des alertes",
+     "Licence (niveau annoncé pour le concours des municipalités 2026 et ceux des Domaines de l'État et de l'Économie) ou diplôme équivalent ; les titulaires d'un master ne sont généralement pas exclus",
+     "[Suggestion] Les spécialités admises varient selon le ministère (droit, sciences juridiques et politiques, économie, gestion, finance, sciences humaines…) — non appliquées automatiquement ; seule la liste de l'arrêté d'ouverture fait foi",
+     "[Suggestion] Le même grade est aussi ouvert dans les établissements publics (agences, offices) selon leurs statuts particuliers"
+    ],
+    "source_key": "s2",
+    "confidence": "LOW",
+    "needs_verification": true,
+    "source_quote": null
+   },
+   "phases": [
+    {
+     "order": 1,
+     "kind": "FILE_REVIEW",
+     "name_ar": "الترشح عن بعد ودراسة قبول الملفات",
+     "name_fr": "Inscription en ligne et recevabilité des dossiers",
+     "is_eliminatory": true,
+     "duration_minutes": null,
+     "description_ar": "[مقترح] التسجيل عن بعد عبر البوابة الوطنية للمناظرات (concours.gov.tn) أو موقع الوزارة/المؤسسة المعنية حسب البلاغ، ثم إرسال أو إيداع الملف في الآجال؛ تُقصى الترشحات غير المستوفية للشروط أو الواردة بعد الأجل.",
+     "description_fr": "[Suggestion] Inscription en ligne sur le portail national des concours (concours.gov.tn) ou sur le site du ministère/de l'établissement selon l'avis, puis envoi ou dépôt du dossier dans les délais ; les candidatures non conformes ou hors délai sont écartées.",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "order": 2,
+     "kind": "WRITTEN",
+     "name_ar": "الاختبارات الكتابية للقبول الأولي",
+     "name_fr": "Épreuves écrites d'admissibilité",
+     "is_eliminatory": true,
+     "duration_minutes": null,
+     "description_ar": "اختبارات كتابية (مناظرة البلديات 2026 كانت «بالاختبارات»، يوم 11 ماي 2026). [مقترح] تتكون عادة من اختبار في الثقافة العامة (مقال) واختبار في مادة اختصاص (قانون إداري أو مالية عمومية أو اقتصاد/تصرف حسب الاختصاص)، وأحيانا تحرير إداري أو مذكرة تأليفية؛ المدد والضوارب للتثبت في القرار.",
+     "description_fr": "Épreuves écrites (le concours des municipalités 2026 était « sur épreuves », le 11/05/2026). [Suggestion] Elles comprennent généralement une épreuve de culture générale (dissertation) et une épreuve de spécialité (droit administratif, finances publiques ou économie/gestion selon l'option), parfois une rédaction administrative ou une note de synthèse ; durées et coefficients à vérifier dans l'arrêté.",
+     "source_key": "s2",
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "order": 3,
+     "kind": "ORAL",
+     "name_ar": "الاختبار الشفاهي أو المقابلة (حسب الوزارة)",
+     "name_fr": "Épreuve orale ou entretien (selon le ministère)",
+     "is_eliminatory": true,
+     "duration_minutes": null,
+     "description_ar": "[مقترح] بعض المناظرات تضيف اختبارا شفاهيا أو مقابلة أمام لجنة للمقبولين كتابيا (معارف عامة، دوافع، معارف حول الإدارة)؛ وجوده وضاربه للتثبت.",
+     "description_fr": "[Suggestion] Certains concours ajoutent un oral ou un entretien devant jury pour les admissibles (culture générale, motivation, connaissances sur l'administration) ; existence et coefficient à vérifier.",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "order": 4,
+     "kind": "TRAINING",
+     "name_ar": "التربص قبل الترسيم",
+     "name_fr": "Stage probatoire avant titularisation",
+     "is_eliminatory": false,
+     "duration_minutes": null,
+     "description_ar": "[مقترح] يُسمّى الناجحون بصفة متربصين لمدة سنة (قابلة للتجديد مرة واحدة حسب القانون الأساسي العام، للتثبت) قبل ترسيمهم في الرتبة.",
+     "description_fr": "[Suggestion] Les lauréats sont nommés stagiaires pour une durée d'un an (renouvelable une fois selon le statut général, à vérifier) avant titularisation dans le grade.",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    }
+   ],
+   "subjects": [
+    {
+     "phase_order": 2,
+     "domain": "CULTURE_GENERALE",
+     "specialty_key": null,
+     "name_ar": "الثقافة العامة: مقال حول قضية سياسية أو اقتصادية أو اجتماعية (تونس والعالم) — المدة والضارب للتثبت",
+     "name_fr": "Culture générale : dissertation sur une question politique, économique ou sociale (Tunisie et monde) — durée et coefficient à vérifier",
+     "coefficient": null,
+     "duration_minutes": null,
+     "question_count": null,
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "phase_order": 2,
+     "domain": "SPECIALTY",
+     "specialty_key": "spec.droit-administratif",
+     "name_ar": "القانون الإداري (التنظيم الإداري، القرار الإداري، العقود والصفقات، المسؤولية، المرفق العام) — اختيار محتمل",
+     "name_fr": "Droit administratif (organisation administrative, acte administratif, contrats et marchés, responsabilité, service public) — option probable",
+     "coefficient": null,
+     "duration_minutes": null,
+     "question_count": null,
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "phase_order": 2,
+     "domain": "SPECIALTY",
+     "specialty_key": "spec.administration-generale.fonction-publique",
+     "name_ar": "القانون الأساسي العام للوظيفة العمومية (الانتداب، الحقوق والواجبات، المسار المهني، التأديب)",
+     "name_fr": "Statut général de la fonction publique (recrutement, droits et obligations, carrière, discipline)",
+     "coefficient": null,
+     "duration_minutes": null,
+     "question_count": null,
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "phase_order": 2,
+     "domain": "SPECIALTY",
+     "specialty_key": "spec.droit-public",
+     "name_ar": "القانون الدستوري والمؤسسات السياسية (دستور 2022)",
+     "name_fr": "Droit constitutionnel et institutions politiques (Constitution de 2022)",
+     "coefficient": null,
+     "duration_minutes": null,
+     "question_count": null,
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "phase_order": 2,
+     "domain": "SPECIALTY",
+     "specialty_key": "spec.fiscalite",
+     "name_ar": "المالية العمومية والميزانية — اختيار محتمل لاختصاصات المالية",
+     "name_fr": "Finances publiques et budget de l'État — option probable pour les profils finance",
+     "coefficient": null,
+     "duration_minutes": null,
+     "question_count": null,
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "phase_order": 2,
+     "domain": "SPECIALTY",
+     "specialty_key": "spec.banque-gestion",
+     "name_ar": "الاقتصاد والتصرف — اختيار محتمل لاختصاصات الاقتصاد والتصرف",
+     "name_fr": "Économie et gestion — option probable pour les profils économie/gestion",
+     "coefficient": null,
+     "duration_minutes": null,
+     "question_count": null,
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "phase_order": 2,
+     "domain": "SPECIALTY",
+     "specialty_key": "spec.redaction-administrative",
+     "name_ar": "التحرير الإداري أو مذكرة تأليفية (تقرير، مذكرة، مراسلة إدارية)",
+     "name_fr": "Rédaction administrative ou note de synthèse (rapport, note, correspondance administrative)",
+     "coefficient": null,
+     "duration_minutes": null,
+     "question_count": null,
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "phase_order": 2,
+     "domain": "ARABIC",
+     "specialty_key": null,
+     "name_ar": "اللغة العربية (لغة التحرير الإداري)",
+     "name_fr": "Langue arabe (langue de rédaction administrative)",
+     "coefficient": null,
+     "duration_minutes": null,
+     "question_count": null,
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "phase_order": 2,
+     "domain": "FRENCH",
+     "specialty_key": null,
+     "name_ar": "اللغة الفرنسية (اختبار لغة محتمل)",
+     "name_fr": "Langue française (épreuve de langue possible)",
+     "coefficient": null,
+     "duration_minutes": null,
+     "question_count": null,
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "phase_order": 3,
+     "domain": "CULTURE_GENERALE",
+     "specialty_key": null,
+     "name_ar": "الاختبار الشفاهي/المقابلة: معارف عامة ودوافع ومعرفة الإدارة",
+     "name_fr": "Oral/entretien : culture générale, motivation, connaissance de l'administration",
+     "coefficient": null,
+     "duration_minutes": null,
+     "question_count": null,
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    }
+   ],
+   "physical_tests": [],
+   "required_documents": [
+    {
+     "text_ar": "[مقترح] مطلب ترشح أو استمارة التسجيل عن بعد مطبوعة وممضاة (يحدد البلاغ الصيغة)",
+     "text_fr": "[Suggestion] Demande de candidature ou fiche d'inscription en ligne imprimée et signée (forme précisée par l'avis)",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "text_ar": "[مقترح] نسخة من بطاقة التعريف الوطنية",
+     "text_fr": "[Suggestion] Copie de la carte d'identité nationale",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "text_ar": "[مقترح] نسخة مطابقة للأصل من الشهادة العلمية المطلوبة، مع قرار المعادلة بالنسبة للشهادات الأجنبية",
+     "text_fr": "[Suggestion] Copie certifiée conforme du diplôme exigé, avec l'arrêté d'équivalence pour les diplômes étrangers",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "text_ar": "[مقترح] كشوفات الأعداد لكامل سنوات الدراسة (تُعتمد في احتساب التنقيط في المناظرات بالملفات)",
+     "text_fr": "[Suggestion] Relevés de notes de toutes les années d'études (utilisés pour le barème des concours sur dossiers)",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "text_ar": "[مقترح] بطاقة عدد 3 (السوابق العدلية) حديثة — تُطلب غالبا عند الانتداب",
+     "text_fr": "[Suggestion] Bulletin n° 3 (casier judiciaire) récent — généralement exigé au moment de la nomination",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "text_ar": "[مقترح] شهادة طبية تثبت القدرة البدنية والذهنية على ممارسة الوظيفة (عند الانتداب)",
+     "text_fr": "[Suggestion] Certificat médical d'aptitude physique et mentale à l'emploi (à la nomination)",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "text_ar": "[مقترح] وثيقة تثبت الوضعية إزاء الخدمة الوطنية (للمترشحين الذكور)",
+     "text_fr": "[Suggestion] Justificatif de la situation vis-à-vis du service national (candidats masculins)",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "text_ar": "[مقترح] في المناظرات بالملفات: شهادة ترسيم بمكتب التشغيل وما يثبت الوضعية الاجتماعية أو الإعاقة إن وجدت، حسب مقاييس التنقيط المعلنة",
+     "text_fr": "[Suggestion] Pour les concours sur dossiers : attestation d'inscription au bureau de l'emploi et justificatifs de situation sociale ou de handicap éventuels, selon les critères de notation annoncés",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    }
+   ],
+   "blueprint": {
+    "total_minutes": 120,
+    "fidelity": "APPROXIMATED",
+    "sections": [
+     {
+      "domain": "CULTURE_GENERALE",
+      "specialty_key": null,
+      "count": 20,
+      "minutes": 25
+     },
+     {
+      "domain": "SPECIALTY",
+      "specialty_key": "spec.droit-administratif",
+      "count": 15,
+      "minutes": 20
+     },
+     {
+      "domain": "SPECIALTY",
+      "specialty_key": "spec.administration-generale.fonction-publique",
+      "count": 10,
+      "minutes": 12
+     },
+     {
+      "domain": "SPECIALTY",
+      "specialty_key": "spec.droit-public",
+      "count": 8,
+      "minutes": 10
+     },
+     {
+      "domain": "SPECIALTY",
+      "specialty_key": "spec.redaction-administrative",
+      "count": 8,
+      "minutes": 12
+     },
+     {
+      "domain": "SPECIALTY",
+      "specialty_key": "spec.fiscalite",
+      "count": 6,
+      "minutes": 8
+     },
+     {
+      "domain": "SPECIALTY",
+      "specialty_key": "spec.banque-gestion",
+      "count": 6,
+      "minutes": 8
+     },
+     {
+      "domain": "ARABIC",
+      "specialty_key": null,
+      "count": 8,
+      "minutes": 8
+     },
+     {
+      "domain": "FRENCH",
+      "specialty_key": null,
+      "count": 8,
+      "minutes": 8
+     },
+     {
+      "domain": "LOGIC",
+      "specialty_key": null,
+      "count": 6,
+      "minutes": 9
+     }
+    ]
+   }
+  },
+  {
+   "slug": "attache-administration",
+   "title_ar": "ملحق إدارة (السلك الإداري المشترك)",
+   "title_fr": "Attaché d'administration (corps administratif commun)",
+   "diploma_level": "BAC_PLUS_2",
+   "eligibility": {
+    "min_age": 18,
+    "max_age": null,
+    "genders": [
+     "M",
+     "F"
+    ],
+    "nationality": "TN",
+    "diplomas": [
+     "BAC_PLUS_2"
+    ],
+    "specialties": [],
+    "min_height_cm_male": null,
+    "min_height_cm_female": null,
+    "marital_status": null,
+    "other_ar": [
+     "[مقترح] الشروط العامة للقانون الأساسي العام لأعوان الدولة (القانون عدد 112 لسنة 1983، للتثبت): الجنسية التونسية، التمتع بالحقوق المدنية، حسن السيرة والسلوك، بلوغ 18 سنة على الأقل، القدرة البدنية على ممارسة الوظيفة، وضعية قانونية إزاء الخدمة الوطنية",
+     "[مقترح] حد أقصى للسن يضبطه قرار فتح المناظرة (عادة 40 سنة في غرة جانفي من سنة المناظرة أو في تاريخ ختم الترشحات، مع إمكانية الترفيع بمدة الخدمة المدنية أو الوطنية) — غير مطبّق آليا هنا لتفادي إقصاء مترشحين عن خطأ",
+     "[مقترح] شهادة جامعية من مستوى باكالوريا + سنتين على الأقل أو شهادة معادلة (المستوى الدقيق — شهادة الدراسات الجامعية للمرحلة الأولى أو الإجازة التطبيقية — للتثبت في النظام الأساسي الخاص وقرار الفتح)",
+     "[مقترح] لم يتم العثور على أي مناظرة خارجية حديثة (2023-2026) لهذه الرتبة خلال هذا البحث؛ الرتبة تُسدّ كثيرا بالترقية الداخلية"
+    ],
+    "other_fr": [
+     "[Suggestion] Conditions générales du statut général des personnels de l'État (loi n° 83-112 du 12/12/1983, à vérifier) : nationalité tunisienne, jouissance des droits civiques, bonne moralité, 18 ans au moins, aptitude physique à l'emploi, situation régulière vis-à-vis du service national",
+     "[Suggestion] Âge maximum fixé par l'arrêté d'ouverture (souvent 40 ans au 1er janvier de l'année du concours ou à la clôture des candidatures, avec report possible pour services civils ou service national) — volontairement non appliqué automatiquement pour ne pas exclure à tort des candidats des alertes",
+     "[Suggestion] Diplôme universitaire de niveau bac + 2 au moins ou équivalent (niveau exact — diplôme de premier cycle ou licence appliquée — à vérifier dans le statut particulier et l'arrêté d'ouverture)",
+     "[Suggestion] Aucun concours externe récent (2023-2026) n'a été relevé pour ce grade lors de cette recherche ; le grade est souvent pourvu par promotion interne"
+    ],
+    "source_key": null,
+    "confidence": "LOW",
+    "needs_verification": true,
+    "source_quote": null
+   },
+   "phases": [
+    {
+     "order": 1,
+     "kind": "FILE_REVIEW",
+     "name_ar": "الترشح عن بعد ودراسة قبول الملفات",
+     "name_fr": "Inscription en ligne et recevabilité des dossiers",
+     "is_eliminatory": true,
+     "duration_minutes": null,
+     "description_ar": "[مقترح] التسجيل عن بعد عبر البوابة الوطنية للمناظرات (concours.gov.tn) أو موقع الوزارة/المؤسسة المعنية حسب البلاغ، ثم إرسال أو إيداع الملف في الآجال؛ تُقصى الترشحات غير المستوفية للشروط أو الواردة بعد الأجل.",
+     "description_fr": "[Suggestion] Inscription en ligne sur le portail national des concours (concours.gov.tn) ou sur le site du ministère/de l'établissement selon l'avis, puis envoi ou dépôt du dossier dans les délais ; les candidatures non conformes ou hors délai sont écartées.",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "order": 2,
+     "kind": "WRITTEN",
+     "name_ar": "الاختبارات الكتابية",
+     "name_fr": "Épreuves écrites",
+     "is_eliminatory": true,
+     "duration_minutes": null,
+     "description_ar": "[مقترح] اختبار في الثقافة العامة واختبار في التحرير الإداري أو في التنظيم الإداري؛ المدد والضوارب للتثبت.",
+     "description_fr": "[Suggestion] Une épreuve de culture générale et une épreuve de rédaction administrative ou d'organisation administrative ; durées et coefficients à vérifier.",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "order": 3,
+     "kind": "TRAINING",
+     "name_ar": "التربص قبل الترسيم",
+     "name_fr": "Stage probatoire avant titularisation",
+     "is_eliminatory": false,
+     "duration_minutes": null,
+     "description_ar": "[مقترح] يُسمّى الناجحون بصفة متربصين لمدة سنة (قابلة للتجديد مرة واحدة حسب القانون الأساسي العام، للتثبت) قبل ترسيمهم في الرتبة.",
+     "description_fr": "[Suggestion] Les lauréats sont nommés stagiaires pour une durée d'un an (renouvelable une fois selon le statut général, à vérifier) avant titularisation dans le grade.",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    }
+   ],
+   "subjects": [
+    {
+     "phase_order": 2,
+     "domain": "CULTURE_GENERALE",
+     "specialty_key": null,
+     "name_ar": "الثقافة العامة",
+     "name_fr": "Culture générale",
+     "coefficient": null,
+     "duration_minutes": null,
+     "question_count": null,
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "phase_order": 2,
+     "domain": "SPECIALTY",
+     "specialty_key": "spec.redaction-administrative",
+     "name_ar": "التحرير الإداري (مراسلة، محضر، تقرير)",
+     "name_fr": "Rédaction administrative (lettre, procès-verbal, rapport)",
+     "coefficient": null,
+     "duration_minutes": null,
+     "question_count": null,
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "phase_order": 2,
+     "domain": "SPECIALTY",
+     "specialty_key": "spec.droit-administratif",
+     "name_ar": "مبادئ التنظيم الإداري والقانون الإداري",
+     "name_fr": "Notions d'organisation administrative et de droit administratif",
+     "coefficient": null,
+     "duration_minutes": null,
+     "question_count": null,
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "phase_order": 2,
+     "domain": "SPECIALTY",
+     "specialty_key": "spec.administration-generale.fonction-publique",
+     "name_ar": "القانون الأساسي العام للوظيفة العمومية",
+     "name_fr": "Statut général de la fonction publique",
+     "coefficient": null,
+     "duration_minutes": null,
+     "question_count": null,
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "phase_order": 2,
+     "domain": "ARABIC",
+     "specialty_key": null,
+     "name_ar": "اللغة العربية",
+     "name_fr": "Langue arabe",
+     "coefficient": null,
+     "duration_minutes": null,
+     "question_count": null,
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "phase_order": 2,
+     "domain": "FRENCH",
+     "specialty_key": null,
+     "name_ar": "اللغة الفرنسية",
+     "name_fr": "Langue française",
+     "coefficient": null,
+     "duration_minutes": null,
+     "question_count": null,
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    }
+   ],
+   "physical_tests": [],
+   "required_documents": [
+    {
+     "text_ar": "[مقترح] مطلب ترشح أو استمارة التسجيل عن بعد مطبوعة وممضاة (يحدد البلاغ الصيغة)",
+     "text_fr": "[Suggestion] Demande de candidature ou fiche d'inscription en ligne imprimée et signée (forme précisée par l'avis)",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "text_ar": "[مقترح] نسخة من بطاقة التعريف الوطنية",
+     "text_fr": "[Suggestion] Copie de la carte d'identité nationale",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "text_ar": "[مقترح] نسخة مطابقة للأصل من الشهادة العلمية المطلوبة، مع قرار المعادلة بالنسبة للشهادات الأجنبية",
+     "text_fr": "[Suggestion] Copie certifiée conforme du diplôme exigé, avec l'arrêté d'équivalence pour les diplômes étrangers",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "text_ar": "[مقترح] كشوفات الأعداد لكامل سنوات الدراسة (تُعتمد في احتساب التنقيط في المناظرات بالملفات)",
+     "text_fr": "[Suggestion] Relevés de notes de toutes les années d'études (utilisés pour le barème des concours sur dossiers)",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "text_ar": "[مقترح] بطاقة عدد 3 (السوابق العدلية) حديثة — تُطلب غالبا عند الانتداب",
+     "text_fr": "[Suggestion] Bulletin n° 3 (casier judiciaire) récent — généralement exigé au moment de la nomination",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "text_ar": "[مقترح] شهادة طبية تثبت القدرة البدنية والذهنية على ممارسة الوظيفة (عند الانتداب)",
+     "text_fr": "[Suggestion] Certificat médical d'aptitude physique et mentale à l'emploi (à la nomination)",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "text_ar": "[مقترح] وثيقة تثبت الوضعية إزاء الخدمة الوطنية (للمترشحين الذكور)",
+     "text_fr": "[Suggestion] Justificatif de la situation vis-à-vis du service national (candidats masculins)",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "text_ar": "[مقترح] في المناظرات بالملفات: شهادة ترسيم بمكتب التشغيل وما يثبت الوضعية الاجتماعية أو الإعاقة إن وجدت، حسب مقاييس التنقيط المعلنة",
+     "text_fr": "[Suggestion] Pour les concours sur dossiers : attestation d'inscription au bureau de l'emploi et justificatifs de situation sociale ou de handicap éventuels, selon les critères de notation annoncés",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    }
+   ],
+   "blueprint": {
+    "total_minutes": 90,
+    "fidelity": "APPROXIMATED",
+    "sections": [
+     {
+      "domain": "CULTURE_GENERALE",
+      "specialty_key": null,
+      "count": 15,
+      "minutes": 18
+     },
+     {
+      "domain": "SPECIALTY",
+      "specialty_key": "spec.redaction-administrative",
+      "count": 10,
+      "minutes": 15
+     },
+     {
+      "domain": "SPECIALTY",
+      "specialty_key": "spec.droit-administratif",
+      "count": 10,
+      "minutes": 14
+     },
+     {
+      "domain": "SPECIALTY",
+      "specialty_key": "spec.administration-generale.fonction-publique",
+      "count": 8,
+      "minutes": 10
+     },
+     {
+      "domain": "ARABIC",
+      "specialty_key": null,
+      "count": 8,
+      "minutes": 10
+     },
+     {
+      "domain": "FRENCH",
+      "specialty_key": null,
+      "count": 8,
+      "minutes": 10
+     },
+     {
+      "domain": "NUMERICAL",
+      "specialty_key": null,
+      "count": 6,
+      "minutes": 8
+     },
+     {
+      "domain": "LOGIC",
+      "specialty_key": null,
+      "count": 4,
+      "minutes": 5
+     }
+    ]
+   }
+  },
+  {
+   "slug": "secretaire-administration",
+   "title_ar": "كاتب إدارة (السلك الإداري المشترك)",
+   "title_fr": "Secrétaire d'administration (corps administratif commun)",
+   "diploma_level": "BAC",
+   "eligibility": {
+    "min_age": 18,
+    "max_age": null,
+    "genders": [
+     "M",
+     "F"
+    ],
+    "nationality": "TN",
+    "diplomas": [
+     "BAC"
+    ],
+    "specialties": [],
+    "min_height_cm_male": null,
+    "min_height_cm_female": null,
+    "marital_status": null,
+    "other_ar": [
+     "[مقترح] الشروط العامة للقانون الأساسي العام لأعوان الدولة (القانون عدد 112 لسنة 1983، للتثبت): الجنسية التونسية، التمتع بالحقوق المدنية، حسن السيرة والسلوك، بلوغ 18 سنة على الأقل، القدرة البدنية على ممارسة الوظيفة، وضعية قانونية إزاء الخدمة الوطنية",
+     "[مقترح] حد أقصى للسن يضبطه قرار فتح المناظرة (عادة 40 سنة في غرة جانفي من سنة المناظرة أو في تاريخ ختم الترشحات، مع إمكانية الترفيع بمدة الخدمة المدنية أو الوطنية) — غير مطبّق آليا هنا لتفادي إقصاء مترشحين عن خطأ",
+     "[مقترح] شهادة الباكالوريا أو شهادة معادلة (للتثبت في النظام الأساسي الخاص وقرار الفتح)",
+     "[مقترح] لم يتم العثور على أي مناظرة خارجية حديثة (2023-2026) لهذه الرتبة خلال هذا البحث"
+    ],
+    "other_fr": [
+     "[Suggestion] Conditions générales du statut général des personnels de l'État (loi n° 83-112 du 12/12/1983, à vérifier) : nationalité tunisienne, jouissance des droits civiques, bonne moralité, 18 ans au moins, aptitude physique à l'emploi, situation régulière vis-à-vis du service national",
+     "[Suggestion] Âge maximum fixé par l'arrêté d'ouverture (souvent 40 ans au 1er janvier de l'année du concours ou à la clôture des candidatures, avec report possible pour services civils ou service national) — volontairement non appliqué automatiquement pour ne pas exclure à tort des candidats des alertes",
+     "[Suggestion] Baccalauréat ou diplôme équivalent (à vérifier dans le statut particulier et l'arrêté d'ouverture)",
+     "[Suggestion] Aucun concours externe récent (2023-2026) n'a été relevé pour ce grade lors de cette recherche"
+    ],
+    "source_key": null,
+    "confidence": "LOW",
+    "needs_verification": true,
+    "source_quote": null
+   },
+   "phases": [
+    {
+     "order": 1,
+     "kind": "FILE_REVIEW",
+     "name_ar": "الترشح عن بعد ودراسة قبول الملفات",
+     "name_fr": "Inscription en ligne et recevabilité des dossiers",
+     "is_eliminatory": true,
+     "duration_minutes": null,
+     "description_ar": "[مقترح] التسجيل عن بعد عبر البوابة الوطنية للمناظرات (concours.gov.tn) أو موقع الوزارة/المؤسسة المعنية حسب البلاغ، ثم إرسال أو إيداع الملف في الآجال؛ تُقصى الترشحات غير المستوفية للشروط أو الواردة بعد الأجل.",
+     "description_fr": "[Suggestion] Inscription en ligne sur le portail national des concours (concours.gov.tn) ou sur le site du ministère/de l'établissement selon l'avis, puis envoi ou dépôt du dossier dans les délais ; les candidatures non conformes ou hors délai sont écartées.",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "order": 2,
+     "kind": "WRITTEN",
+     "name_ar": "الاختبارات الكتابية",
+     "name_fr": "Épreuves écrites",
+     "is_eliminatory": true,
+     "duration_minutes": null,
+     "description_ar": "[مقترح] اختبار في التحرير الإداري والمراسلات، واختبار في اللغة (عربية/فرنسية) أو الثقافة العامة؛ قد يُضاف اختبار تطبيقي في الإعلامية المكتبية. المدد والضوارب للتثبت.",
+     "description_fr": "[Suggestion] Une épreuve de rédaction et correspondance administratives, une épreuve de langue (arabe/français) ou de culture générale ; une épreuve pratique de bureautique peut s'ajouter. Durées et coefficients à vérifier.",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "order": 3,
+     "kind": "TRAINING",
+     "name_ar": "التربص قبل الترسيم",
+     "name_fr": "Stage probatoire avant titularisation",
+     "is_eliminatory": false,
+     "duration_minutes": null,
+     "description_ar": "[مقترح] يُسمّى الناجحون بصفة متربصين لمدة سنة (قابلة للتجديد مرة واحدة حسب القانون الأساسي العام، للتثبت) قبل ترسيمهم في الرتبة.",
+     "description_fr": "[Suggestion] Les lauréats sont nommés stagiaires pour une durée d'un an (renouvelable une fois selon le statut général, à vérifier) avant titularisation dans le grade.",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    }
+   ],
+   "subjects": [
+    {
+     "phase_order": 2,
+     "domain": "SPECIALTY",
+     "specialty_key": "spec.redaction-administrative",
+     "name_ar": "التحرير والمراسلات الإدارية",
+     "name_fr": "Rédaction et correspondance administratives",
+     "coefficient": null,
+     "duration_minutes": null,
+     "question_count": null,
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "phase_order": 2,
+     "domain": "SPECIALTY",
+     "specialty_key": "spec.administration-generale.secretariat-bureautique",
+     "name_ar": "الكتابة الإدارية: التصرف في البريد والترتيب والإعلامية المكتبية",
+     "name_fr": "Secrétariat : gestion du courrier, classement et bureautique",
+     "coefficient": null,
+     "duration_minutes": null,
+     "question_count": null,
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "phase_order": 2,
+     "domain": "ARABIC",
+     "specialty_key": null,
+     "name_ar": "اللغة العربية",
+     "name_fr": "Langue arabe",
+     "coefficient": null,
+     "duration_minutes": null,
+     "question_count": null,
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "phase_order": 2,
+     "domain": "FRENCH",
+     "specialty_key": null,
+     "name_ar": "اللغة الفرنسية",
+     "name_fr": "Langue française",
+     "coefficient": null,
+     "duration_minutes": null,
+     "question_count": null,
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "phase_order": 2,
+     "domain": "CULTURE_GENERALE",
+     "specialty_key": null,
+     "name_ar": "الثقافة العامة والمواطنة",
+     "name_fr": "Culture générale et citoyenneté",
+     "coefficient": null,
+     "duration_minutes": null,
+     "question_count": null,
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    }
+   ],
+   "physical_tests": [],
+   "required_documents": [
+    {
+     "text_ar": "[مقترح] مطلب ترشح أو استمارة التسجيل عن بعد مطبوعة وممضاة (يحدد البلاغ الصيغة)",
+     "text_fr": "[Suggestion] Demande de candidature ou fiche d'inscription en ligne imprimée et signée (forme précisée par l'avis)",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "text_ar": "[مقترح] نسخة من بطاقة التعريف الوطنية",
+     "text_fr": "[Suggestion] Copie de la carte d'identité nationale",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "text_ar": "[مقترح] نسخة مطابقة للأصل من الشهادة العلمية المطلوبة، مع قرار المعادلة بالنسبة للشهادات الأجنبية",
+     "text_fr": "[Suggestion] Copie certifiée conforme du diplôme exigé, avec l'arrêté d'équivalence pour les diplômes étrangers",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "text_ar": "[مقترح] كشوفات الأعداد لكامل سنوات الدراسة (تُعتمد في احتساب التنقيط في المناظرات بالملفات)",
+     "text_fr": "[Suggestion] Relevés de notes de toutes les années d'études (utilisés pour le barème des concours sur dossiers)",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "text_ar": "[مقترح] بطاقة عدد 3 (السوابق العدلية) حديثة — تُطلب غالبا عند الانتداب",
+     "text_fr": "[Suggestion] Bulletin n° 3 (casier judiciaire) récent — généralement exigé au moment de la nomination",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "text_ar": "[مقترح] شهادة طبية تثبت القدرة البدنية والذهنية على ممارسة الوظيفة (عند الانتداب)",
+     "text_fr": "[Suggestion] Certificat médical d'aptitude physique et mentale à l'emploi (à la nomination)",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "text_ar": "[مقترح] وثيقة تثبت الوضعية إزاء الخدمة الوطنية (للمترشحين الذكور)",
+     "text_fr": "[Suggestion] Justificatif de la situation vis-à-vis du service national (candidats masculins)",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "text_ar": "[مقترح] في المناظرات بالملفات: شهادة ترسيم بمكتب التشغيل وما يثبت الوضعية الاجتماعية أو الإعاقة إن وجدت، حسب مقاييس التنقيط المعلنة",
+     "text_fr": "[Suggestion] Pour les concours sur dossiers : attestation d'inscription au bureau de l'emploi et justificatifs de situation sociale ou de handicap éventuels, selon les critères de notation annoncés",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    }
+   ],
+   "blueprint": {
+    "total_minutes": 90,
+    "fidelity": "APPROXIMATED",
+    "sections": [
+     {
+      "domain": "CULTURE_GENERALE",
+      "specialty_key": null,
+      "count": 15,
+      "minutes": 15
+     },
+     {
+      "domain": "ARABIC",
+      "specialty_key": null,
+      "count": 12,
+      "minutes": 14
+     },
+     {
+      "domain": "FRENCH",
+      "specialty_key": null,
+      "count": 12,
+      "minutes": 14
+     },
+     {
+      "domain": "SPECIALTY",
+      "specialty_key": "spec.redaction-administrative",
+      "count": 10,
+      "minutes": 15
+     },
+     {
+      "domain": "SPECIALTY",
+      "specialty_key": "spec.administration-generale.secretariat-bureautique",
+      "count": 10,
+      "minutes": 12
+     },
+     {
+      "domain": "SPECIALTY",
+      "specialty_key": "spec.administration-generale.fonction-publique",
+      "count": 6,
+      "minutes": 8
+     },
+     {
+      "domain": "NUMERICAL",
+      "specialty_key": null,
+      "count": 8,
+      "minutes": 12
+     }
+    ]
+   }
+  },
+  {
+   "slug": "agent-accueil",
+   "title_ar": "عون استقبال",
+   "title_fr": "Agent d'accueil",
+   "diploma_level": "NINTH",
+   "eligibility": {
+    "min_age": 18,
+    "max_age": null,
+    "genders": [
+     "M",
+     "F"
+    ],
+    "nationality": "TN",
+    "diplomas": [
+     "NINTH"
+    ],
+    "specialties": [],
+    "min_height_cm_male": null,
+    "min_height_cm_female": null,
+    "marital_status": null,
+    "other_ar": [
+     "[مقترح] الشروط العامة للقانون الأساسي العام لأعوان الدولة (القانون عدد 112 لسنة 1983، للتثبت): الجنسية التونسية، التمتع بالحقوق المدنية، حسن السيرة والسلوك، بلوغ 18 سنة على الأقل، القدرة البدنية على ممارسة الوظيفة، وضعية قانونية إزاء الخدمة الوطنية",
+     "[مقترح] حد أقصى للسن يضبطه قرار فتح المناظرة (عادة 40 سنة في غرة جانفي من سنة المناظرة أو في تاريخ ختم الترشحات، مع إمكانية الترفيع بمدة الخدمة المدنية أو الوطنية) — غير مطبّق آليا هنا لتفادي إقصاء مترشحين عن خطأ",
+     "[مقترح] مستوى السنة التاسعة من التعليم الأساسي أو مستوى ثانوي حسب الصنف — السلك والصنف والمستوى الدراسي للتثبت (لم يتم العثور على نص أو مناظرة حديثة لهذه الرتبة)"
+    ],
+    "other_fr": [
+     "[Suggestion] Conditions générales du statut général des personnels de l'État (loi n° 83-112 du 12/12/1983, à vérifier) : nationalité tunisienne, jouissance des droits civiques, bonne moralité, 18 ans au moins, aptitude physique à l'emploi, situation régulière vis-à-vis du service national",
+     "[Suggestion] Âge maximum fixé par l'arrêté d'ouverture (souvent 40 ans au 1er janvier de l'année du concours ou à la clôture des candidatures, avec report possible pour services civils ou service national) — volontairement non appliqué automatiquement pour ne pas exclure à tort des candidats des alertes",
+     "[Suggestion] Niveau 9e année de base ou niveau secondaire selon la catégorie — corps, catégorie et niveau d'études à vérifier (aucun texte ni concours récent relevé pour ce grade)"
+    ],
+    "source_key": null,
+    "confidence": "LOW",
+    "needs_verification": true,
+    "source_quote": null
+   },
+   "phases": [
+    {
+     "order": 1,
+     "kind": "FILE_REVIEW",
+     "name_ar": "الترشح عن بعد ودراسة قبول الملفات",
+     "name_fr": "Inscription en ligne et recevabilité des dossiers",
+     "is_eliminatory": true,
+     "duration_minutes": null,
+     "description_ar": "[مقترح] التسجيل عن بعد عبر البوابة الوطنية للمناظرات (concours.gov.tn) أو موقع الوزارة/المؤسسة المعنية حسب البلاغ، ثم إرسال أو إيداع الملف في الآجال؛ تُقصى الترشحات غير المستوفية للشروط أو الواردة بعد الأجل.",
+     "description_fr": "[Suggestion] Inscription en ligne sur le portail national des concours (concours.gov.tn) ou sur le site du ministère/de l'établissement selon l'avis, puis envoi ou dépôt du dossier dans les délais ; les candidatures non conformes ou hors délai sont écartées.",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "order": 2,
+     "kind": "WRITTEN",
+     "name_ar": "اختبار كتابي مبسط",
+     "name_fr": "Épreuve écrite simple",
+     "is_eliminatory": true,
+     "duration_minutes": null,
+     "description_ar": "[مقترح] اختبار كتابي قصير في اللغة والمعارف العامة وفي قواعد الاستقبال وإرشاد المواطنين.",
+     "description_fr": "[Suggestion] Courte épreuve écrite de langue, de connaissances générales et de règles d'accueil et d'orientation du public.",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "order": 3,
+     "kind": "INTERVIEW",
+     "name_ar": "مقابلة",
+     "name_fr": "Entretien",
+     "is_eliminatory": true,
+     "duration_minutes": null,
+     "description_ar": "[مقترح] مقابلة لتقييم حسن التواصل والهندام والسلوك مع العموم.",
+     "description_fr": "[Suggestion] Entretien évaluant la communication, la présentation et le comportement face au public.",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "order": 4,
+     "kind": "TRAINING",
+     "name_ar": "التربص قبل الترسيم",
+     "name_fr": "Stage probatoire avant titularisation",
+     "is_eliminatory": false,
+     "duration_minutes": null,
+     "description_ar": "[مقترح] يُسمّى الناجحون بصفة متربصين لمدة سنة (قابلة للتجديد مرة واحدة حسب القانون الأساسي العام، للتثبت) قبل ترسيمهم في الرتبة.",
+     "description_fr": "[Suggestion] Les lauréats sont nommés stagiaires pour une durée d'un an (renouvelable une fois selon le statut général, à vérifier) avant titularisation dans le grade.",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    }
+   ],
+   "subjects": [
+    {
+     "phase_order": 2,
+     "domain": "ARABIC",
+     "specialty_key": null,
+     "name_ar": "اللغة العربية (فهم وتعبير)",
+     "name_fr": "Langue arabe (compréhension et expression)",
+     "coefficient": null,
+     "duration_minutes": null,
+     "question_count": null,
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "phase_order": 2,
+     "domain": "FRENCH",
+     "specialty_key": null,
+     "name_ar": "اللغة الفرنسية (أساسيات)",
+     "name_fr": "Langue française (bases)",
+     "coefficient": null,
+     "duration_minutes": null,
+     "question_count": null,
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "phase_order": 2,
+     "domain": "CULTURE_GENERALE",
+     "specialty_key": null,
+     "name_ar": "المعارف العامة والمواطنة",
+     "name_fr": "Connaissances générales et citoyenneté",
+     "coefficient": null,
+     "duration_minutes": null,
+     "question_count": null,
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "phase_order": 2,
+     "domain": "SPECIALTY",
+     "specialty_key": "spec.administration-generale.accueil-communication",
+     "name_ar": "تقنيات الاستقبال والتوجيه والتواصل مع المواطن",
+     "name_fr": "Techniques d'accueil, d'orientation et de communication avec l'usager",
+     "coefficient": null,
+     "duration_minutes": null,
+     "question_count": null,
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "phase_order": 3,
+     "domain": "SPECIALTY",
+     "specialty_key": "spec.administration-generale.accueil-communication",
+     "name_ar": "المقابلة: وضعيات استقبال",
+     "name_fr": "Entretien : mises en situation d'accueil",
+     "coefficient": null,
+     "duration_minutes": null,
+     "question_count": null,
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    }
+   ],
+   "physical_tests": [],
+   "required_documents": [
+    {
+     "text_ar": "[مقترح] مطلب ترشح أو استمارة التسجيل عن بعد مطبوعة وممضاة (يحدد البلاغ الصيغة)",
+     "text_fr": "[Suggestion] Demande de candidature ou fiche d'inscription en ligne imprimée et signée (forme précisée par l'avis)",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "text_ar": "[مقترح] نسخة من بطاقة التعريف الوطنية",
+     "text_fr": "[Suggestion] Copie de la carte d'identité nationale",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "text_ar": "[مقترح] نسخة مطابقة للأصل من الشهادة العلمية المطلوبة، مع قرار المعادلة بالنسبة للشهادات الأجنبية",
+     "text_fr": "[Suggestion] Copie certifiée conforme du diplôme exigé, avec l'arrêté d'équivalence pour les diplômes étrangers",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "text_ar": "[مقترح] كشوفات الأعداد لكامل سنوات الدراسة (تُعتمد في احتساب التنقيط في المناظرات بالملفات)",
+     "text_fr": "[Suggestion] Relevés de notes de toutes les années d'études (utilisés pour le barème des concours sur dossiers)",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "text_ar": "[مقترح] بطاقة عدد 3 (السوابق العدلية) حديثة — تُطلب غالبا عند الانتداب",
+     "text_fr": "[Suggestion] Bulletin n° 3 (casier judiciaire) récent — généralement exigé au moment de la nomination",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "text_ar": "[مقترح] شهادة طبية تثبت القدرة البدنية والذهنية على ممارسة الوظيفة (عند الانتداب)",
+     "text_fr": "[Suggestion] Certificat médical d'aptitude physique et mentale à l'emploi (à la nomination)",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "text_ar": "[مقترح] وثيقة تثبت الوضعية إزاء الخدمة الوطنية (للمترشحين الذكور)",
+     "text_fr": "[Suggestion] Justificatif de la situation vis-à-vis du service national (candidats masculins)",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "text_ar": "[مقترح] في المناظرات بالملفات: شهادة ترسيم بمكتب التشغيل وما يثبت الوضعية الاجتماعية أو الإعاقة إن وجدت، حسب مقاييس التنقيط المعلنة",
+     "text_fr": "[Suggestion] Pour les concours sur dossiers : attestation d'inscription au bureau de l'emploi et justificatifs de situation sociale ou de handicap éventuels, selon les critères de notation annoncés",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    }
+   ],
+   "blueprint": {
+    "total_minutes": 60,
+    "fidelity": "APPROXIMATED",
+    "sections": [
+     {
+      "domain": "ARABIC",
+      "specialty_key": null,
+      "count": 10,
+      "minutes": 12
+     },
+     {
+      "domain": "FRENCH",
+      "specialty_key": null,
+      "count": 8,
+      "minutes": 10
+     },
+     {
+      "domain": "CULTURE_GENERALE",
+      "specialty_key": null,
+      "count": 10,
+      "minutes": 12
+     },
+     {
+      "domain": "SPECIALTY",
+      "specialty_key": "spec.administration-generale.accueil-communication",
+      "count": 12,
+      "minutes": 16
+     },
+     {
+      "domain": "NUMERICAL",
+      "specialty_key": null,
+      "count": 6,
+      "minutes": 10
+     }
+    ]
+   }
+  },
+  {
+   "slug": "ouvrier",
+   "title_ar": "عامل (عملة الدولة: تنظيف، حراسة، سياقة، صيانة، بستنة...)",
+   "title_fr": "Ouvrier de l'État (nettoyage, gardiennage, conduite, maintenance, jardinage…)",
+   "diploma_level": "NONE",
+   "eligibility": {
+    "min_age": 18,
+    "max_age": null,
+    "genders": [
+     "M",
+     "F"
+    ],
+    "nationality": "TN",
+    "diplomas": [
+     "NONE"
+    ],
+    "specialties": [],
+    "min_height_cm_male": null,
+    "min_height_cm_female": null,
+    "marital_status": null,
+    "other_ar": [
+     "[مقترح] الشروط العامة للقانون الأساسي العام لأعوان الدولة (القانون عدد 112 لسنة 1983، للتثبت): الجنسية التونسية، التمتع بالحقوق المدنية، حسن السيرة والسلوك، بلوغ 18 سنة على الأقل، القدرة البدنية على ممارسة الوظيفة، وضعية قانونية إزاء الخدمة الوطنية",
+     "حد أقصى للسن 40 سنة في مناظرة وزارة العدل 2026 (78 عاملا) حسب الصحافة؛ غير مطبّق آليا لأن الحد قد يختلف من وزارة إلى أخرى",
+     "[مقترح] يُشترط في بعض الأصناف شهادة مهنية (شهادة الكفاءة المهنية أو مؤهل التقني المهني) أو رخصة سياقة من الصنف المطلوب للسواق",
+     "[مقترح] العملة منظمون في أصناف (من 1 إلى 10 تقريبا) وأصناف فرعية حسب درجة التأهيل؛ الصنف المفتوح يحدد المستوى والاختبار المهني"
+    ],
+    "other_fr": [
+     "[Suggestion] Conditions générales du statut général des personnels de l'État (loi n° 83-112 du 12/12/1983, à vérifier) : nationalité tunisienne, jouissance des droits civiques, bonne moralité, 18 ans au moins, aptitude physique à l'emploi, situation régulière vis-à-vis du service national",
+     "Âge maximum de 40 ans pour le concours du ministère de la Justice 2026 (78 ouvriers) selon la presse ; non appliqué automatiquement car la limite peut varier d'un ministère à l'autre",
+     "[Suggestion] Certaines catégories exigent un certificat professionnel (CAP ou BTP) ou un permis de conduire de la catégorie requise pour les chauffeurs",
+     "[Suggestion] Les ouvriers sont répartis en catégories (de 1 à 10 environ) et sous-catégories selon la qualification ; la catégorie ouverte détermine le niveau et l'épreuve professionnelle"
+    ],
+    "source_key": "s10",
+    "confidence": "LOW",
+    "needs_verification": true,
+    "source_quote": null
+   },
+   "phases": [
+    {
+     "order": 1,
+     "kind": "FILE_REVIEW",
+     "name_ar": "الترشح عن بعد ودراسة قبول الملفات",
+     "name_fr": "Inscription en ligne et recevabilité des dossiers",
+     "is_eliminatory": true,
+     "duration_minutes": null,
+     "description_ar": "[مقترح] التسجيل عن بعد عبر البوابة الوطنية للمناظرات (concours.gov.tn) أو موقع الوزارة/المؤسسة المعنية حسب البلاغ، ثم إرسال أو إيداع الملف في الآجال؛ تُقصى الترشحات غير المستوفية للشروط أو الواردة بعد الأجل.",
+     "description_fr": "[Suggestion] Inscription en ligne sur le portail national des concours (concours.gov.tn) ou sur le site du ministère/de l'établissement selon l'avis, puis envoi ou dépôt du dossier dans les délais ; les candidatures non conformes ou hors délai sont écartées.",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "order": 2,
+     "kind": "ORAL",
+     "name_ar": "الاختبار المهني التطبيقي و/أو المقابلة",
+     "name_fr": "Épreuve professionnelle pratique et/ou entretien",
+     "is_eliminatory": true,
+     "duration_minutes": null,
+     "description_ar": "مناظرة وزارة العدل 2026 كانت «بالاختبارات المهنية» (أعوان تنظيف وحراس). [مقترح] اختبار تطبيقي حسب الاختصاص (تنظيف، حراسة، سياقة، كهرباء، ترصيص، نجارة، بستنة...) مع مقابلة قصيرة؛ تفاصيل التقييم للتثبت.",
+     "description_fr": "Le concours du ministère de la Justice 2026 était « sur épreuves professionnelles » (agents de nettoyage et gardiens). [Suggestion] Épreuve pratique selon le métier (nettoyage, gardiennage, conduite, électricité, plomberie, menuiserie, jardinage…) avec un court entretien ; modalités d'évaluation à vérifier.",
+     "source_key": "s10",
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "order": 3,
+     "kind": "TRAINING",
+     "name_ar": "التربص قبل الترسيم",
+     "name_fr": "Stage probatoire avant titularisation",
+     "is_eliminatory": false,
+     "duration_minutes": null,
+     "description_ar": "[مقترح] يُسمّى الناجحون بصفة متربصين لمدة سنة (قابلة للتجديد مرة واحدة حسب القانون الأساسي العام، للتثبت) قبل ترسيمهم في الرتبة.",
+     "description_fr": "[Suggestion] Les lauréats sont nommés stagiaires pour une durée d'un an (renouvelable une fois selon le statut général, à vérifier) avant titularisation dans le grade.",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    }
+   ],
+   "subjects": [
+    {
+     "phase_order": 2,
+     "domain": "SPECIALTY",
+     "specialty_key": "spec.administration-generale.metiers-ouvriers",
+     "name_ar": "الاختبار المهني التطبيقي حسب الاختصاص",
+     "name_fr": "Épreuve professionnelle pratique selon le métier",
+     "coefficient": null,
+     "duration_minutes": null,
+     "question_count": null,
+     "source_key": "s10",
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "phase_order": 2,
+     "domain": "SPECIALTY",
+     "specialty_key": "spec.secourisme",
+     "name_ar": "السلامة المهنية والإسعافات الأولية والوقاية من الحرائق (مفيدة للحراس وأعوان الصيانة)",
+     "name_fr": "Sécurité au travail, secourisme et prévention incendie (utile aux gardiens et agents de maintenance)",
+     "coefficient": null,
+     "duration_minutes": null,
+     "question_count": null,
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "phase_order": 2,
+     "domain": "CULTURE_GENERALE",
+     "specialty_key": null,
+     "name_ar": "المقابلة: السلوك المهني والانضباط",
+     "name_fr": "Entretien : comportement professionnel et discipline",
+     "coefficient": null,
+     "duration_minutes": null,
+     "question_count": null,
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    }
+   ],
+   "physical_tests": [],
+   "required_documents": [
+    {
+     "text_ar": "[مقترح] مطلب ترشح أو استمارة التسجيل عن بعد مطبوعة وممضاة (يحدد البلاغ الصيغة)",
+     "text_fr": "[Suggestion] Demande de candidature ou fiche d'inscription en ligne imprimée et signée (forme précisée par l'avis)",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "text_ar": "[مقترح] نسخة من بطاقة التعريف الوطنية",
+     "text_fr": "[Suggestion] Copie de la carte d'identité nationale",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "text_ar": "[مقترح] نسخة مطابقة للأصل من الشهادة العلمية المطلوبة، مع قرار المعادلة بالنسبة للشهادات الأجنبية",
+     "text_fr": "[Suggestion] Copie certifiée conforme du diplôme exigé, avec l'arrêté d'équivalence pour les diplômes étrangers",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "text_ar": "[مقترح] كشوفات الأعداد لكامل سنوات الدراسة (تُعتمد في احتساب التنقيط في المناظرات بالملفات)",
+     "text_fr": "[Suggestion] Relevés de notes de toutes les années d'études (utilisés pour le barème des concours sur dossiers)",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "text_ar": "[مقترح] بطاقة عدد 3 (السوابق العدلية) حديثة — تُطلب غالبا عند الانتداب",
+     "text_fr": "[Suggestion] Bulletin n° 3 (casier judiciaire) récent — généralement exigé au moment de la nomination",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "text_ar": "[مقترح] شهادة طبية تثبت القدرة البدنية والذهنية على ممارسة الوظيفة (عند الانتداب)",
+     "text_fr": "[Suggestion] Certificat médical d'aptitude physique et mentale à l'emploi (à la nomination)",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "text_ar": "[مقترح] وثيقة تثبت الوضعية إزاء الخدمة الوطنية (للمترشحين الذكور)",
+     "text_fr": "[Suggestion] Justificatif de la situation vis-à-vis du service national (candidats masculins)",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "text_ar": "[مقترح] في المناظرات بالملفات: شهادة ترسيم بمكتب التشغيل وما يثبت الوضعية الاجتماعية أو الإعاقة إن وجدت، حسب مقاييس التنقيط المعلنة",
+     "text_fr": "[Suggestion] Pour les concours sur dossiers : attestation d'inscription au bureau de l'emploi et justificatifs de situation sociale ou de handicap éventuels, selon les critères de notation annoncés",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "text_ar": "[مقترح] شهادة مهنية في الاختصاص (شهادة الكفاءة المهنية/مؤهل التقني المهني) أو رخصة سياقة حسب الصنف المفتوح",
+     "text_fr": "[Suggestion] Certificat professionnel dans le métier (CAP/BTP) ou permis de conduire selon la catégorie ouverte",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    }
+   ],
+   "blueprint": {
+    "total_minutes": 45,
+    "fidelity": "APPROXIMATED",
+    "sections": [
+     {
+      "domain": "ARABIC",
+      "specialty_key": null,
+      "count": 8,
+      "minutes": 8
+     },
+     {
+      "domain": "NUMERICAL",
+      "specialty_key": null,
+      "count": 8,
+      "minutes": 10
+     },
+     {
+      "domain": "SPECIALTY",
+      "specialty_key": "spec.administration-generale.metiers-ouvriers",
+      "count": 12,
+      "minutes": 14
+     },
+     {
+      "domain": "SPECIALTY",
+      "specialty_key": "spec.secourisme",
+      "count": 6,
+      "minutes": 6
+     },
+     {
+      "domain": "CULTURE_GENERALE",
+      "specialty_key": null,
+      "count": 4,
+      "minutes": 4
+     },
+     {
+      "domain": "PSYCHOTECH",
+      "specialty_key": null,
+      "count": 3,
+      "minutes": 3
+     }
+    ]
+   }
+  },
+  {
+   "slug": "administrateur-documents-archives",
+   "title_ar": "متصرف في الوثائق والأرشيف",
+   "title_fr": "Administrateur en documentation et archives (gestionnaire de documents et d'archives)",
+   "diploma_level": "LICENCE",
+   "eligibility": {
+    "min_age": 18,
+    "max_age": null,
+    "genders": [
+     "M",
+     "F"
+    ],
+    "nationality": "TN",
+    "diplomas": [
+     "LICENCE"
+    ],
+    "specialties": [
+     "archiv",
+     "documentation",
+     "sciences de l'information",
+     "bibliothéconomie",
+     "أرشيف",
+     "الأرشيف",
+     "التوثيق",
+     "علوم الإعلام والتوثيق",
+     "المكتبات"
+    ],
+    "min_height_cm_male": null,
+    "min_height_cm_female": null,
+    "marital_status": null,
+    "other_ar": [
+     "[مقترح] الشروط العامة للقانون الأساسي العام لأعوان الدولة (القانون عدد 112 لسنة 1983، للتثبت): الجنسية التونسية، التمتع بالحقوق المدنية، حسن السيرة والسلوك، بلوغ 18 سنة على الأقل، القدرة البدنية على ممارسة الوظيفة، وضعية قانونية إزاء الخدمة الوطنية",
+     "[مقترح] حد أقصى للسن يضبطه قرار فتح المناظرة (عادة 40 سنة في غرة جانفي من سنة المناظرة أو في تاريخ ختم الترشحات، مع إمكانية الترفيع بمدة الخدمة المدنية أو الوطنية) — غير مطبّق آليا هنا لتفادي إقصاء مترشحين عن خطأ",
+     "الإجازة (حسب الصحافة لمناظرة وزارة الشؤون الخارجية 2026)",
+     "[مقترح] اختصاص في الأرشيف أو التوثيق أو علوم المعلومات والمكتبات (مثل شهادات المعهد العالي للتوثيق) — قائمة الاختصاصات تقريبية لأغراض المطابقة الآلية؛ المرجع قرار فتح المناظرة"
+    ],
+    "other_fr": [
+     "[Suggestion] Conditions générales du statut général des personnels de l'État (loi n° 83-112 du 12/12/1983, à vérifier) : nationalité tunisienne, jouissance des droits civiques, bonne moralité, 18 ans au moins, aptitude physique à l'emploi, situation régulière vis-à-vis du service national",
+     "[Suggestion] Âge maximum fixé par l'arrêté d'ouverture (souvent 40 ans au 1er janvier de l'année du concours ou à la clôture des candidatures, avec report possible pour services civils ou service national) — volontairement non appliqué automatiquement pour ne pas exclure à tort des candidats des alertes",
+     "Licence (selon la presse pour le concours du ministère des Affaires étrangères 2026)",
+     "[Suggestion] Spécialité archivistique, documentation ou sciences de l'information et des bibliothèques (ex. diplômes de l'Institut supérieur de documentation) — liste approximative pour la correspondance automatique ; seul l'arrêté fait foi"
+    ],
+    "source_key": "s7",
+    "confidence": "LOW",
+    "needs_verification": true,
+    "source_quote": null
+   },
+   "phases": [
+    {
+     "order": 1,
+     "kind": "FILE_REVIEW",
+     "name_ar": "الترشح عن بعد ودراسة قبول الملفات",
+     "name_fr": "Inscription en ligne et recevabilité des dossiers",
+     "is_eliminatory": true,
+     "duration_minutes": null,
+     "description_ar": "[مقترح] التسجيل عن بعد عبر البوابة الوطنية للمناظرات (concours.gov.tn) أو موقع الوزارة/المؤسسة المعنية حسب البلاغ، ثم إرسال أو إيداع الملف في الآجال؛ تُقصى الترشحات غير المستوفية للشروط أو الواردة بعد الأجل.",
+     "description_fr": "[Suggestion] Inscription en ligne sur le portail national des concours (concours.gov.tn) ou sur le site du ministère/de l'établissement selon l'avis, puis envoi ou dépôt du dossier dans les délais ; les candidatures non conformes ou hors délai sont écartées.",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "order": 2,
+     "kind": "WRITTEN",
+     "name_ar": "الاختبارات الكتابية",
+     "name_fr": "Épreuves écrites",
+     "is_eliminatory": true,
+     "duration_minutes": null,
+     "description_ar": "اختبارات كتابية يوم 23 جويلية 2026 لمناظرة وزارة الشؤون الخارجية (حسب الصحافة). [مقترح] اختبار في الأرشيف والتصرف في الوثائق واختبار في الثقافة العامة أو التحرير الإداري؛ المدد والضوارب للتثبت.",
+     "description_fr": "Épreuves écrites le 23/07/2026 pour le concours du ministère des Affaires étrangères (selon la presse). [Suggestion] Une épreuve d'archivistique/gestion documentaire et une épreuve de culture générale ou de rédaction administrative ; durées et coefficients à vérifier.",
+     "source_key": "s7",
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "order": 3,
+     "kind": "ORAL",
+     "name_ar": "اختبار شفاهي محتمل",
+     "name_fr": "Oral éventuel",
+     "is_eliminatory": true,
+     "duration_minutes": null,
+     "description_ar": "[مقترح] قد يُنظم اختبار شفاهي في الاختصاص للمقبولين كتابيا.",
+     "description_fr": "[Suggestion] Un oral de spécialité peut être organisé pour les admissibles.",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "order": 4,
+     "kind": "TRAINING",
+     "name_ar": "التربص قبل الترسيم",
+     "name_fr": "Stage probatoire avant titularisation",
+     "is_eliminatory": false,
+     "duration_minutes": null,
+     "description_ar": "[مقترح] يُسمّى الناجحون بصفة متربصين لمدة سنة (قابلة للتجديد مرة واحدة حسب القانون الأساسي العام، للتثبت) قبل ترسيمهم في الرتبة.",
+     "description_fr": "[Suggestion] Les lauréats sont nommés stagiaires pour une durée d'un an (renouvelable une fois selon le statut général, à vérifier) avant titularisation dans le grade.",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    }
+   ],
+   "subjects": [
+    {
+     "phase_order": 2,
+     "domain": "SPECIALTY",
+     "specialty_key": "spec.administration-generale.archives",
+     "name_ar": "التصرف في الوثائق والأرشيف (الإطار القانوني، دورة حياة الوثيقة، الترتيب والوصف، الحفظ، الأرشيف الإلكتروني)",
+     "name_fr": "Gestion des documents et des archives (cadre juridique, cycle de vie, classement et description, conservation, archivage électronique)",
+     "coefficient": null,
+     "duration_minutes": null,
+     "question_count": null,
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "phase_order": 2,
+     "domain": "CULTURE_GENERALE",
+     "specialty_key": null,
+     "name_ar": "الثقافة العامة",
+     "name_fr": "Culture générale",
+     "coefficient": null,
+     "duration_minutes": null,
+     "question_count": null,
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "phase_order": 2,
+     "domain": "SPECIALTY",
+     "specialty_key": "spec.redaction-administrative",
+     "name_ar": "التحرير الإداري",
+     "name_fr": "Rédaction administrative",
+     "coefficient": null,
+     "duration_minutes": null,
+     "question_count": null,
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "phase_order": 2,
+     "domain": "SPECIALTY",
+     "specialty_key": "spec.informatique",
+     "name_ar": "الإعلامية والتصرف الإلكتروني في الوثائق",
+     "name_fr": "Informatique et gestion électronique des documents",
+     "coefficient": null,
+     "duration_minutes": null,
+     "question_count": null,
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    }
+   ],
+   "physical_tests": [],
+   "required_documents": [
+    {
+     "text_ar": "[مقترح] مطلب ترشح أو استمارة التسجيل عن بعد مطبوعة وممضاة (يحدد البلاغ الصيغة)",
+     "text_fr": "[Suggestion] Demande de candidature ou fiche d'inscription en ligne imprimée et signée (forme précisée par l'avis)",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "text_ar": "[مقترح] نسخة من بطاقة التعريف الوطنية",
+     "text_fr": "[Suggestion] Copie de la carte d'identité nationale",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "text_ar": "[مقترح] نسخة مطابقة للأصل من الشهادة العلمية المطلوبة، مع قرار المعادلة بالنسبة للشهادات الأجنبية",
+     "text_fr": "[Suggestion] Copie certifiée conforme du diplôme exigé, avec l'arrêté d'équivalence pour les diplômes étrangers",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "text_ar": "[مقترح] كشوفات الأعداد لكامل سنوات الدراسة (تُعتمد في احتساب التنقيط في المناظرات بالملفات)",
+     "text_fr": "[Suggestion] Relevés de notes de toutes les années d'études (utilisés pour le barème des concours sur dossiers)",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "text_ar": "[مقترح] بطاقة عدد 3 (السوابق العدلية) حديثة — تُطلب غالبا عند الانتداب",
+     "text_fr": "[Suggestion] Bulletin n° 3 (casier judiciaire) récent — généralement exigé au moment de la nomination",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "text_ar": "[مقترح] شهادة طبية تثبت القدرة البدنية والذهنية على ممارسة الوظيفة (عند الانتداب)",
+     "text_fr": "[Suggestion] Certificat médical d'aptitude physique et mentale à l'emploi (à la nomination)",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "text_ar": "[مقترح] وثيقة تثبت الوضعية إزاء الخدمة الوطنية (للمترشحين الذكور)",
+     "text_fr": "[Suggestion] Justificatif de la situation vis-à-vis du service national (candidats masculins)",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "text_ar": "[مقترح] في المناظرات بالملفات: شهادة ترسيم بمكتب التشغيل وما يثبت الوضعية الاجتماعية أو الإعاقة إن وجدت، حسب مقاييس التنقيط المعلنة",
+     "text_fr": "[Suggestion] Pour les concours sur dossiers : attestation d'inscription au bureau de l'emploi et justificatifs de situation sociale ou de handicap éventuels, selon les critères de notation annoncés",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    }
+   ],
+   "blueprint": {
+    "total_minutes": 120,
+    "fidelity": "APPROXIMATED",
+    "sections": [
+     {
+      "domain": "SPECIALTY",
+      "specialty_key": "spec.administration-generale.archives",
+      "count": 35,
+      "minutes": 50
+     },
+     {
+      "domain": "CULTURE_GENERALE",
+      "specialty_key": null,
+      "count": 15,
+      "minutes": 18
+     },
+     {
+      "domain": "SPECIALTY",
+      "specialty_key": "spec.redaction-administrative",
+      "count": 8,
+      "minutes": 12
+     },
+     {
+      "domain": "SPECIALTY",
+      "specialty_key": "spec.administration-generale.fonction-publique",
+      "count": 8,
+      "minutes": 10
+     },
+     {
+      "domain": "ARABIC",
+      "specialty_key": null,
+      "count": 8,
+      "minutes": 10
+     },
+     {
+      "domain": "FRENCH",
+      "specialty_key": null,
+      "count": 8,
+      "minutes": 10
+     },
+     {
+      "domain": "SPECIALTY",
+      "specialty_key": "spec.informatique",
+      "count": 6,
+      "minutes": 10
+     }
+    ]
+   }
+  },
+  {
+   "slug": "secretaire-affaires-etrangeres",
+   "title_ar": "كاتب شؤون خارجية (السلك الديبلوماسي)",
+   "title_fr": "Secrétaire des affaires étrangères (corps diplomatique)",
+   "diploma_level": "LICENCE",
+   "eligibility": {
+    "min_age": 18,
+    "max_age": null,
+    "genders": [
+     "M",
+     "F"
+    ],
+    "nationality": "TN",
+    "diplomas": [
+     "LICENCE"
+    ],
+    "specialties": [],
+    "min_height_cm_male": null,
+    "min_height_cm_female": null,
+    "marital_status": null,
+    "other_ar": [
+     "[مقترح] الشروط العامة للقانون الأساسي العام لأعوان الدولة (القانون عدد 112 لسنة 1983، للتثبت): الجنسية التونسية، التمتع بالحقوق المدنية، حسن السيرة والسلوك، بلوغ 18 سنة على الأقل، القدرة البدنية على ممارسة الوظيفة، وضعية قانونية إزاء الخدمة الوطنية",
+     "[مقترح] حد أقصى للسن يضبطه قرار فتح المناظرة (عادة 40 سنة في غرة جانفي من سنة المناظرة أو في تاريخ ختم الترشحات، مع إمكانية الترفيع بمدة الخدمة المدنية أو الوطنية) — غير مطبّق آليا هنا لتفادي إقصاء مترشحين عن خطأ",
+     "الإجازة أو شهادة معادلة (المستوى المذكور في الصحافة لمناظرة 2026 — للتثبت، فقد يشترط القرار شهادة أعلى)",
+     "[مقترح] الاختصاصات المقبولة عادة: حقوق، علوم سياسية، علاقات دولية، اقتصاد، تصرف، لغات — غير مطبّقة آليا",
+     "[مقترح] إتقان العربية والفرنسية والإنجليزية مطلوب عمليا؛ قد يُشترط عدم الارتباط بزوج أجنبي أو التصريح بذلك (للتثبت)"
+    ],
+    "other_fr": [
+     "[Suggestion] Conditions générales du statut général des personnels de l'État (loi n° 83-112 du 12/12/1983, à vérifier) : nationalité tunisienne, jouissance des droits civiques, bonne moralité, 18 ans au moins, aptitude physique à l'emploi, situation régulière vis-à-vis du service national",
+     "[Suggestion] Âge maximum fixé par l'arrêté d'ouverture (souvent 40 ans au 1er janvier de l'année du concours ou à la clôture des candidatures, avec report possible pour services civils ou service national) — volontairement non appliqué automatiquement pour ne pas exclure à tort des candidats des alertes",
+     "Licence ou équivalent (niveau rapporté par la presse pour la session 2026 — à vérifier, l'arrêté pouvant exiger plus)",
+     "[Suggestion] Spécialités habituellement admises : droit, sciences politiques, relations internationales, économie, gestion, langues — non appliquées automatiquement",
+     "[Suggestion] Maîtrise de l'arabe, du français et de l'anglais attendue en pratique ; conditions particulières possibles (ex. déclaration en cas de conjoint étranger) à vérifier"
+    ],
+    "source_key": "s8",
+    "confidence": "LOW",
+    "needs_verification": true,
+    "source_quote": null
+   },
+   "phases": [
+    {
+     "order": 1,
+     "kind": "FILE_REVIEW",
+     "name_ar": "الترشح عن بعد ودراسة قبول الملفات",
+     "name_fr": "Inscription en ligne et recevabilité des dossiers",
+     "is_eliminatory": true,
+     "duration_minutes": null,
+     "description_ar": "[مقترح] التسجيل عن بعد عبر البوابة الوطنية للمناظرات (concours.gov.tn) أو موقع الوزارة/المؤسسة المعنية حسب البلاغ، ثم إرسال أو إيداع الملف في الآجال؛ تُقصى الترشحات غير المستوفية للشروط أو الواردة بعد الأجل.",
+     "description_fr": "[Suggestion] Inscription en ligne sur le portail national des concours (concours.gov.tn) ou sur le site du ministère/de l'établissement selon l'avis, puis envoi ou dépôt du dossier dans les délais ; les candidatures non conformes ou hors délai sont écartées.",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "order": 2,
+     "kind": "WRITTEN",
+     "name_ar": "الاختبارات الكتابية",
+     "name_fr": "Épreuves écrites",
+     "is_eliminatory": true,
+     "duration_minutes": null,
+     "description_ar": "اختبارات كتابية يوم 5 سبتمبر 2026 (حسب الصحافة). [مقترح] مقال في العلاقات الدولية أو الثقافة العامة، اختبار في القانون الدولي أو القانون العام، واختبارات في اللغات (فرنسية وإنجليزية)؛ المدد والضوارب للتثبت.",
+     "description_fr": "Épreuves écrites le 05/09/2026 (selon la presse). [Suggestion] Dissertation de relations internationales ou de culture générale, épreuve de droit international ou de droit public, épreuves de langues (français et anglais) ; durées et coefficients à vérifier.",
+     "source_key": "s8",
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "order": 3,
+     "kind": "ORAL",
+     "name_ar": "الاختبارات الشفاهية",
+     "name_fr": "Épreuves orales",
+     "is_eliminatory": true,
+     "duration_minutes": null,
+     "description_ar": "[مقترح] محادثة مع لجنة حول الشؤون الدولية والسياسة الخارجية التونسية واختبار شفاهي في لغة أجنبية.",
+     "description_fr": "[Suggestion] Conversation avec le jury sur l'actualité internationale et la politique étrangère tunisienne, et oral de langue étrangère.",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "order": 4,
+     "kind": "TRAINING",
+     "name_ar": "التربص قبل الترسيم",
+     "name_fr": "Stage probatoire avant titularisation",
+     "is_eliminatory": false,
+     "duration_minutes": null,
+     "description_ar": "[مقترح] تكوين أساسي بالمعهد الديبلوماسي للتكوين والدراسات ثم تربص قبل الترسيم (للتثبت).",
+     "description_fr": "[Suggestion] Formation initiale à l'Institut diplomatique pour la formation et les études, puis stage avant titularisation (à vérifier).",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    }
+   ],
+   "subjects": [
+    {
+     "phase_order": 2,
+     "domain": "CULTURE_GENERALE",
+     "specialty_key": null,
+     "name_ar": "مقال في الثقافة العامة أو القضايا الدولية الراهنة",
+     "name_fr": "Dissertation de culture générale ou d'actualité internationale",
+     "coefficient": null,
+     "duration_minutes": null,
+     "question_count": null,
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "phase_order": 2,
+     "domain": "SPECIALTY",
+     "specialty_key": "spec.administration-generale.relations-internationales",
+     "name_ar": "العلاقات الدولية والقانون الدولي والعمل الديبلوماسي والقنصلي",
+     "name_fr": "Relations internationales, droit international, pratique diplomatique et consulaire",
+     "coefficient": null,
+     "duration_minutes": null,
+     "question_count": null,
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "phase_order": 2,
+     "domain": "SPECIALTY",
+     "specialty_key": "spec.droit-public",
+     "name_ar": "القانون العام والمؤسسات",
+     "name_fr": "Droit public et institutions",
+     "coefficient": null,
+     "duration_minutes": null,
+     "question_count": null,
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "phase_order": 2,
+     "domain": "ENGLISH",
+     "specialty_key": null,
+     "name_ar": "اللغة الإنجليزية (ترجمة/تحرير)",
+     "name_fr": "Anglais (traduction/rédaction)",
+     "coefficient": null,
+     "duration_minutes": null,
+     "question_count": null,
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "phase_order": 2,
+     "domain": "FRENCH",
+     "specialty_key": null,
+     "name_ar": "اللغة الفرنسية (ترجمة/تحرير)",
+     "name_fr": "Français (traduction/rédaction)",
+     "coefficient": null,
+     "duration_minutes": null,
+     "question_count": null,
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "phase_order": 2,
+     "domain": "ARABIC",
+     "specialty_key": null,
+     "name_ar": "اللغة العربية (تحرير)",
+     "name_fr": "Arabe (rédaction)",
+     "coefficient": null,
+     "duration_minutes": null,
+     "question_count": null,
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "phase_order": 3,
+     "domain": "SPECIALTY",
+     "specialty_key": "spec.administration-generale.relations-internationales",
+     "name_ar": "شفاهي: السياسة الخارجية التونسية والشؤون الدولية",
+     "name_fr": "Oral : politique étrangère tunisienne et affaires internationales",
+     "coefficient": null,
+     "duration_minutes": null,
+     "question_count": null,
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "phase_order": 3,
+     "domain": "ENGLISH",
+     "specialty_key": null,
+     "name_ar": "شفاهي في لغة أجنبية",
+     "name_fr": "Oral de langue étrangère",
+     "coefficient": null,
+     "duration_minutes": null,
+     "question_count": null,
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    }
+   ],
+   "physical_tests": [],
+   "required_documents": [
+    {
+     "text_ar": "[مقترح] مطلب ترشح أو استمارة التسجيل عن بعد مطبوعة وممضاة (يحدد البلاغ الصيغة)",
+     "text_fr": "[Suggestion] Demande de candidature ou fiche d'inscription en ligne imprimée et signée (forme précisée par l'avis)",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "text_ar": "[مقترح] نسخة من بطاقة التعريف الوطنية",
+     "text_fr": "[Suggestion] Copie de la carte d'identité nationale",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "text_ar": "[مقترح] نسخة مطابقة للأصل من الشهادة العلمية المطلوبة، مع قرار المعادلة بالنسبة للشهادات الأجنبية",
+     "text_fr": "[Suggestion] Copie certifiée conforme du diplôme exigé, avec l'arrêté d'équivalence pour les diplômes étrangers",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "text_ar": "[مقترح] كشوفات الأعداد لكامل سنوات الدراسة (تُعتمد في احتساب التنقيط في المناظرات بالملفات)",
+     "text_fr": "[Suggestion] Relevés de notes de toutes les années d'études (utilisés pour le barème des concours sur dossiers)",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "text_ar": "[مقترح] بطاقة عدد 3 (السوابق العدلية) حديثة — تُطلب غالبا عند الانتداب",
+     "text_fr": "[Suggestion] Bulletin n° 3 (casier judiciaire) récent — généralement exigé au moment de la nomination",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "text_ar": "[مقترح] شهادة طبية تثبت القدرة البدنية والذهنية على ممارسة الوظيفة (عند الانتداب)",
+     "text_fr": "[Suggestion] Certificat médical d'aptitude physique et mentale à l'emploi (à la nomination)",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "text_ar": "[مقترح] وثيقة تثبت الوضعية إزاء الخدمة الوطنية (للمترشحين الذكور)",
+     "text_fr": "[Suggestion] Justificatif de la situation vis-à-vis du service national (candidats masculins)",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    }
+   ],
+   "blueprint": {
+    "total_minutes": 150,
+    "fidelity": "APPROXIMATED",
+    "sections": [
+     {
+      "domain": "CULTURE_GENERALE",
+      "specialty_key": null,
+      "count": 25,
+      "minutes": 30
+     },
+     {
+      "domain": "SPECIALTY",
+      "specialty_key": "spec.administration-generale.relations-internationales",
+      "count": 25,
+      "minutes": 35
+     },
+     {
+      "domain": "SPECIALTY",
+      "specialty_key": "spec.droit-public",
+      "count": 10,
+      "minutes": 15
+     },
+     {
+      "domain": "ENGLISH",
+      "specialty_key": null,
+      "count": 15,
+      "minutes": 20
+     },
+     {
+      "domain": "FRENCH",
+      "specialty_key": null,
+      "count": 15,
+      "minutes": 20
+     },
+     {
+      "domain": "ARABIC",
+      "specialty_key": null,
+      "count": 10,
+      "minutes": 15
+     },
+     {
+      "domain": "SPECIALTY",
+      "specialty_key": "spec.redaction-administrative",
+      "count": 8,
+      "minutes": 15
+     }
+    ]
+   }
+  },
+  {
+   "slug": "administrateur-greffes",
+   "title_ar": "متصرف لكتابات المحاكم (سلك كتابات المحاكم العدلية)",
+   "title_fr": "Administrateur des greffes des tribunaux (ordre judiciaire)",
+   "diploma_level": "LICENCE",
+   "eligibility": {
+    "min_age": 18,
+    "max_age": null,
+    "genders": [
+     "M",
+     "F"
+    ],
+    "nationality": "TN",
+    "diplomas": [
+     "LICENCE"
+    ],
+    "specialties": [],
+    "min_height_cm_male": null,
+    "min_height_cm_female": null,
+    "marital_status": null,
+    "other_ar": [
+     "[مقترح] الشروط العامة للقانون الأساسي العام لأعوان الدولة (القانون عدد 112 لسنة 1983، للتثبت): الجنسية التونسية، التمتع بالحقوق المدنية، حسن السيرة والسلوك، بلوغ 18 سنة على الأقل، القدرة البدنية على ممارسة الوظيفة، وضعية قانونية إزاء الخدمة الوطنية",
+     "[مقترح] حد أقصى للسن يضبطه قرار فتح المناظرة (عادة 40 سنة في غرة جانفي من سنة المناظرة أو في تاريخ ختم الترشحات، مع إمكانية الترفيع بمدة الخدمة المدنية أو الوطنية) — غير مطبّق آليا هنا لتفادي إقصاء مترشحين عن خطأ",
+     "الإجازة (حسب الصحافة لمناظرة 2026 بالملفات)",
+     "[مقترح] يُرجّح اشتراط الإجازة في الحقوق أو العلوم القانونية — غير مطبّق آليا إلى حين التثبت من القرار"
+    ],
+    "other_fr": [
+     "[Suggestion] Conditions générales du statut général des personnels de l'État (loi n° 83-112 du 12/12/1983, à vérifier) : nationalité tunisienne, jouissance des droits civiques, bonne moralité, 18 ans au moins, aptitude physique à l'emploi, situation régulière vis-à-vis du service national",
+     "[Suggestion] Âge maximum fixé par l'arrêté d'ouverture (souvent 40 ans au 1er janvier de l'année du concours ou à la clôture des candidatures, avec report possible pour services civils ou service national) — volontairement non appliqué automatiquement pour ne pas exclure à tort des candidats des alertes",
+     "Licence (selon la presse pour le concours sur dossiers 2026)",
+     "[Suggestion] Une licence en droit / sciences juridiques est probablement exigée — non appliquée automatiquement tant que l'arrêté n'est pas vérifié"
+    ],
+    "source_key": "s4",
+    "confidence": "LOW",
+    "needs_verification": true,
+    "source_quote": null
+   },
+   "phases": [
+    {
+     "order": 1,
+     "kind": "FILE_REVIEW",
+     "name_ar": "الترشح عن بعد ودراسة قبول الملفات",
+     "name_fr": "Inscription en ligne et recevabilité des dossiers",
+     "is_eliminatory": true,
+     "duration_minutes": null,
+     "description_ar": "[مقترح] التسجيل عن بعد عبر البوابة الوطنية للمناظرات (concours.gov.tn) أو موقع الوزارة/المؤسسة المعنية حسب البلاغ، ثم إرسال أو إيداع الملف في الآجال؛ تُقصى الترشحات غير المستوفية للشروط أو الواردة بعد الأجل. مناظرة 2026 كانت «بالملفات»: يُرتب المترشحون حسب مقاييس تنقيط (معدلات، سنة التخرج، السن، الوضعية الاجتماعية...) — المقاييس الدقيقة للتثبت.",
+     "description_fr": "[Suggestion] Inscription en ligne sur le portail national des concours (concours.gov.tn) ou sur le site du ministère/de l'établissement selon l'avis, puis envoi ou dépôt du dossier dans les délais ; les candidatures non conformes ou hors délai sont écartées. Le concours 2026 était « sur dossiers » : classement selon un barème (moyennes, année d'obtention du diplôme, âge, situation sociale…) — critères exacts à vérifier.",
+     "source_key": "s4",
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "order": 2,
+     "kind": "INTERVIEW",
+     "name_ar": "مقابلة أو اختبار شفاهي محتمل",
+     "name_fr": "Entretien ou oral éventuel",
+     "is_eliminatory": true,
+     "duration_minutes": null,
+     "description_ar": "[مقترح] قد تُستكمل المناظرة بالملفات بمقابلة؛ تاريخ 13 جويلية 2026 المذكور في الصحافة قد يكون تاريخ المناظرة (المداولة) لا تاريخ اختبار.",
+     "description_fr": "[Suggestion] Le concours sur dossiers peut être complété par un entretien ; la date du 13/07/2026 citée par la presse est peut-être celle du concours (délibération) et non d'une épreuve.",
+     "source_key": "s4",
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "order": 3,
+     "kind": "TRAINING",
+     "name_ar": "التربص قبل الترسيم",
+     "name_fr": "Stage probatoire avant titularisation",
+     "is_eliminatory": false,
+     "duration_minutes": null,
+     "description_ar": "[مقترح] يُسمّى الناجحون بصفة متربصين لمدة سنة (قابلة للتجديد مرة واحدة حسب القانون الأساسي العام، للتثبت) قبل ترسيمهم في الرتبة.",
+     "description_fr": "[Suggestion] Les lauréats sont nommés stagiaires pour une durée d'un an (renouvelable une fois selon le statut général, à vérifier) avant titularisation dans le grade.",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    }
+   ],
+   "subjects": [
+    {
+     "phase_order": 2,
+     "domain": "SPECIALTY",
+     "specialty_key": "spec.administration-generale.organisation-judiciaire",
+     "name_ar": "التنظيم القضائي ومهام كتابة المحكمة والإجراءات",
+     "name_fr": "Organisation judiciaire, missions du greffe et procédures",
+     "coefficient": null,
+     "duration_minutes": null,
+     "question_count": null,
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "phase_order": 2,
+     "domain": "SPECIALTY",
+     "specialty_key": "spec.administration-generale.fonction-publique",
+     "name_ar": "القانون الأساسي العام للوظيفة العمومية",
+     "name_fr": "Statut général de la fonction publique",
+     "coefficient": null,
+     "duration_minutes": null,
+     "question_count": null,
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    }
+   ],
+   "physical_tests": [],
+   "required_documents": [
+    {
+     "text_ar": "[مقترح] مطلب ترشح أو استمارة التسجيل عن بعد مطبوعة وممضاة (يحدد البلاغ الصيغة)",
+     "text_fr": "[Suggestion] Demande de candidature ou fiche d'inscription en ligne imprimée et signée (forme précisée par l'avis)",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "text_ar": "[مقترح] نسخة من بطاقة التعريف الوطنية",
+     "text_fr": "[Suggestion] Copie de la carte d'identité nationale",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "text_ar": "[مقترح] نسخة مطابقة للأصل من الشهادة العلمية المطلوبة، مع قرار المعادلة بالنسبة للشهادات الأجنبية",
+     "text_fr": "[Suggestion] Copie certifiée conforme du diplôme exigé, avec l'arrêté d'équivalence pour les diplômes étrangers",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "text_ar": "[مقترح] كشوفات الأعداد لكامل سنوات الدراسة (تُعتمد في احتساب التنقيط في المناظرات بالملفات)",
+     "text_fr": "[Suggestion] Relevés de notes de toutes les années d'études (utilisés pour le barème des concours sur dossiers)",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "text_ar": "[مقترح] بطاقة عدد 3 (السوابق العدلية) حديثة — تُطلب غالبا عند الانتداب",
+     "text_fr": "[Suggestion] Bulletin n° 3 (casier judiciaire) récent — généralement exigé au moment de la nomination",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "text_ar": "[مقترح] شهادة طبية تثبت القدرة البدنية والذهنية على ممارسة الوظيفة (عند الانتداب)",
+     "text_fr": "[Suggestion] Certificat médical d'aptitude physique et mentale à l'emploi (à la nomination)",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "text_ar": "[مقترح] وثيقة تثبت الوضعية إزاء الخدمة الوطنية (للمترشحين الذكور)",
+     "text_fr": "[Suggestion] Justificatif de la situation vis-à-vis du service national (candidats masculins)",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "text_ar": "[مقترح] في المناظرات بالملفات: شهادة ترسيم بمكتب التشغيل وما يثبت الوضعية الاجتماعية أو الإعاقة إن وجدت، حسب مقاييس التنقيط المعلنة",
+     "text_fr": "[Suggestion] Pour les concours sur dossiers : attestation d'inscription au bureau de l'emploi et justificatifs de situation sociale ou de handicap éventuels, selon les critères de notation annoncés",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    }
+   ],
+   "blueprint": {
+    "total_minutes": 90,
+    "fidelity": "APPROXIMATED",
+    "sections": [
+     {
+      "domain": "SPECIALTY",
+      "specialty_key": "spec.administration-generale.organisation-judiciaire",
+      "count": 30,
+      "minutes": 40
+     },
+     {
+      "domain": "SPECIALTY",
+      "specialty_key": "spec.redaction-administrative",
+      "count": 10,
+      "minutes": 15
+     },
+     {
+      "domain": "SPECIALTY",
+      "specialty_key": "spec.administration-generale.fonction-publique",
+      "count": 8,
+      "minutes": 10
+     },
+     {
+      "domain": "CULTURE_GENERALE",
+      "specialty_key": null,
+      "count": 10,
+      "minutes": 12
+     },
+     {
+      "domain": "ARABIC",
+      "specialty_key": null,
+      "count": 10,
+      "minutes": 13
+     }
+    ]
+   }
+  },
+  {
+   "slug": "greffier-premier",
+   "title_ar": "كاتب محكمة أول (سلك كتابات المحاكم العدلية)",
+   "title_fr": "Greffier premier des tribunaux (ordre judiciaire)",
+   "diploma_level": "BAC_PLUS_2",
+   "eligibility": {
+    "min_age": 18,
+    "max_age": 40,
+    "genders": [
+     "M",
+     "F"
+    ],
+    "nationality": "TN",
+    "diplomas": [
+     "BAC_PLUS_2"
+    ],
+    "specialties": [],
+    "min_height_cm_male": null,
+    "min_height_cm_female": null,
+    "marital_status": null,
+    "other_ar": [
+     "[مقترح] الشروط العامة للقانون الأساسي العام لأعوان الدولة (القانون عدد 112 لسنة 1983، للتثبت): الجنسية التونسية، التمتع بالحقوق المدنية، حسن السيرة والسلوك، بلوغ 18 سنة على الأقل، القدرة البدنية على ممارسة الوظيفة، وضعية قانونية إزاء الخدمة الوطنية",
+     "حد أقصى للسن 40 سنة ومستوى باكالوريا + سنتين (حسب موقع إعلانات لمناظرة 2026 بالملفات — للتثبت، بما في ذلك تاريخ احتساب السن)",
+     "[مقترح] قد يُشترط اختصاص قانوني — غير مطبّق آليا"
+    ],
+    "other_fr": [
+     "[Suggestion] Conditions générales du statut général des personnels de l'État (loi n° 83-112 du 12/12/1983, à vérifier) : nationalité tunisienne, jouissance des droits civiques, bonne moralité, 18 ans au moins, aptitude physique à l'emploi, situation régulière vis-à-vis du service national",
+     "Âge maximum 40 ans et niveau bac + 2 (selon un portail d'annonces pour le concours sur dossiers 2026 — à vérifier, y compris la date de référence de l'âge)",
+     "[Suggestion] Une spécialité juridique peut être exigée — non appliquée automatiquement"
+    ],
+    "source_key": "s5",
+    "confidence": "LOW",
+    "needs_verification": true,
+    "source_quote": null
+   },
+   "phases": [
+    {
+     "order": 1,
+     "kind": "FILE_REVIEW",
+     "name_ar": "الترشح عن بعد ودراسة قبول الملفات",
+     "name_fr": "Inscription en ligne et recevabilité des dossiers",
+     "is_eliminatory": true,
+     "duration_minutes": null,
+     "description_ar": "[مقترح] التسجيل عن بعد عبر البوابة الوطنية للمناظرات (concours.gov.tn) أو موقع الوزارة/المؤسسة المعنية حسب البلاغ، ثم إرسال أو إيداع الملف في الآجال؛ تُقصى الترشحات غير المستوفية للشروط أو الواردة بعد الأجل. مناظرة 2026 كانت «بالملفات» (ترتيب حسب مقاييس تنقيط للتثبت).",
+     "description_fr": "[Suggestion] Inscription en ligne sur le portail national des concours (concours.gov.tn) ou sur le site du ministère/de l'établissement selon l'avis, puis envoi ou dépôt du dossier dans les délais ; les candidatures non conformes ou hors délai sont écartées. Le concours 2026 était « sur dossiers » (classement selon un barème à vérifier).",
+     "source_key": "s5",
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "order": 2,
+     "kind": "TRAINING",
+     "name_ar": "التربص قبل الترسيم",
+     "name_fr": "Stage probatoire avant titularisation",
+     "is_eliminatory": false,
+     "duration_minutes": null,
+     "description_ar": "[مقترح] يُسمّى الناجحون بصفة متربصين لمدة سنة (قابلة للتجديد مرة واحدة حسب القانون الأساسي العام، للتثبت) قبل ترسيمهم في الرتبة.",
+     "description_fr": "[Suggestion] Les lauréats sont nommés stagiaires pour une durée d'un an (renouvelable une fois selon le statut général, à vérifier) avant titularisation dans le grade.",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    }
+   ],
+   "subjects": [
+    {
+     "phase_order": 1,
+     "domain": "SPECIALTY",
+     "specialty_key": "spec.administration-generale.organisation-judiciaire",
+     "name_ar": "معارف مفيدة للوظيفة: التنظيم القضائي ومسك الدفاتر والمحاضر",
+     "name_fr": "Connaissances utiles au poste : organisation judiciaire, tenue des registres et procès-verbaux",
+     "coefficient": null,
+     "duration_minutes": null,
+     "question_count": null,
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    }
+   ],
+   "physical_tests": [],
+   "required_documents": [
+    {
+     "text_ar": "[مقترح] مطلب ترشح أو استمارة التسجيل عن بعد مطبوعة وممضاة (يحدد البلاغ الصيغة)",
+     "text_fr": "[Suggestion] Demande de candidature ou fiche d'inscription en ligne imprimée et signée (forme précisée par l'avis)",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "text_ar": "[مقترح] نسخة من بطاقة التعريف الوطنية",
+     "text_fr": "[Suggestion] Copie de la carte d'identité nationale",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "text_ar": "[مقترح] نسخة مطابقة للأصل من الشهادة العلمية المطلوبة، مع قرار المعادلة بالنسبة للشهادات الأجنبية",
+     "text_fr": "[Suggestion] Copie certifiée conforme du diplôme exigé, avec l'arrêté d'équivalence pour les diplômes étrangers",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "text_ar": "[مقترح] كشوفات الأعداد لكامل سنوات الدراسة (تُعتمد في احتساب التنقيط في المناظرات بالملفات)",
+     "text_fr": "[Suggestion] Relevés de notes de toutes les années d'études (utilisés pour le barème des concours sur dossiers)",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "text_ar": "[مقترح] بطاقة عدد 3 (السوابق العدلية) حديثة — تُطلب غالبا عند الانتداب",
+     "text_fr": "[Suggestion] Bulletin n° 3 (casier judiciaire) récent — généralement exigé au moment de la nomination",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "text_ar": "[مقترح] شهادة طبية تثبت القدرة البدنية والذهنية على ممارسة الوظيفة (عند الانتداب)",
+     "text_fr": "[Suggestion] Certificat médical d'aptitude physique et mentale à l'emploi (à la nomination)",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "text_ar": "[مقترح] وثيقة تثبت الوضعية إزاء الخدمة الوطنية (للمترشحين الذكور)",
+     "text_fr": "[Suggestion] Justificatif de la situation vis-à-vis du service national (candidats masculins)",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "text_ar": "[مقترح] في المناظرات بالملفات: شهادة ترسيم بمكتب التشغيل وما يثبت الوضعية الاجتماعية أو الإعاقة إن وجدت، حسب مقاييس التنقيط المعلنة",
+     "text_fr": "[Suggestion] Pour les concours sur dossiers : attestation d'inscription au bureau de l'emploi et justificatifs de situation sociale ou de handicap éventuels, selon les critères de notation annoncés",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    }
+   ],
+   "blueprint": {
+    "total_minutes": 75,
+    "fidelity": "APPROXIMATED",
+    "sections": [
+     {
+      "domain": "SPECIALTY",
+      "specialty_key": "spec.administration-generale.organisation-judiciaire",
+      "count": 20,
+      "minutes": 30
+     },
+     {
+      "domain": "SPECIALTY",
+      "specialty_key": "spec.redaction-administrative",
+      "count": 10,
+      "minutes": 15
+     },
+     {
+      "domain": "ARABIC",
+      "specialty_key": null,
+      "count": 10,
+      "minutes": 12
+     },
+     {
+      "domain": "CULTURE_GENERALE",
+      "specialty_key": null,
+      "count": 8,
+      "minutes": 8
+     },
+     {
+      "domain": "SPECIALTY",
+      "specialty_key": "spec.administration-generale.secretariat-bureautique",
+      "count": 8,
+      "minutes": 10
+     }
+    ]
+   }
+  },
+  {
+   "slug": "controleur-etat-adjoint",
+   "title_ar": "مراقب دولة مساعد (هيئة مراقبي الدولة – رئاسة الحكومة)",
+   "title_fr": "Contrôleur d'État adjoint (corps du contrôle d'État – Présidence du gouvernement)",
+   "diploma_level": "MASTER",
+   "eligibility": {
+    "min_age": 18,
+    "max_age": null,
+    "genders": [
+     "M",
+     "F"
+    ],
+    "nationality": "TN",
+    "diplomas": [
+     "MASTER"
+    ],
+    "specialties": [],
+    "min_height_cm_male": null,
+    "min_height_cm_female": null,
+    "marital_status": null,
+    "other_ar": [
+     "[مقترح] الشروط العامة للقانون الأساسي العام لأعوان الدولة (القانون عدد 112 لسنة 1983، للتثبت): الجنسية التونسية، التمتع بالحقوق المدنية، حسن السيرة والسلوك، بلوغ 18 سنة على الأقل، القدرة البدنية على ممارسة الوظيفة، وضعية قانونية إزاء الخدمة الوطنية",
+     "[مقترح] حد أقصى للسن يضبطه قرار فتح المناظرة (عادة 40 سنة في غرة جانفي من سنة المناظرة أو في تاريخ ختم الترشحات، مع إمكانية الترفيع بمدة الخدمة المدنية أو الوطنية) — غير مطبّق آليا هنا لتفادي إقصاء مترشحين عن خطأ",
+     "شهادة الماجستير أو الدكتوراه (حسب الصحافة لمناظرة 2026)؛ قبول شهادة مهندس أو شهادات معادلة للتثبت",
+     "[مقترح] اختصاصات مرجحة: محاسبة، مالية، تصرف، اقتصاد، قانون الأعمال، هندسة — غير مطبّقة آليا"
+    ],
+    "other_fr": [
+     "[Suggestion] Conditions générales du statut général des personnels de l'État (loi n° 83-112 du 12/12/1983, à vérifier) : nationalité tunisienne, jouissance des droits civiques, bonne moralité, 18 ans au moins, aptitude physique à l'emploi, situation régulière vis-à-vis du service national",
+     "[Suggestion] Âge maximum fixé par l'arrêté d'ouverture (souvent 40 ans au 1er janvier de l'année du concours ou à la clôture des candidatures, avec report possible pour services civils ou service national) — volontairement non appliqué automatiquement pour ne pas exclure à tort des candidats des alertes",
+     "Master ou doctorat (selon la presse pour le concours 2026) ; admission du diplôme d'ingénieur ou d'équivalents à vérifier",
+     "[Suggestion] Spécialités probables : comptabilité, finance, gestion, économie, droit des affaires, ingénierie — non appliquées automatiquement"
+    ],
+    "source_key": "s3",
+    "confidence": "LOW",
+    "needs_verification": true,
+    "source_quote": null
+   },
+   "phases": [
+    {
+     "order": 1,
+     "kind": "FILE_REVIEW",
+     "name_ar": "الترشح عن بعد ودراسة قبول الملفات",
+     "name_fr": "Inscription en ligne et recevabilité des dossiers",
+     "is_eliminatory": true,
+     "duration_minutes": null,
+     "description_ar": "[مقترح] التسجيل عن بعد عبر البوابة الوطنية للمناظرات (concours.gov.tn) أو موقع الوزارة/المؤسسة المعنية حسب البلاغ، ثم إرسال أو إيداع الملف في الآجال؛ تُقصى الترشحات غير المستوفية للشروط أو الواردة بعد الأجل.",
+     "description_fr": "[Suggestion] Inscription en ligne sur le portail national des concours (concours.gov.tn) ou sur le site du ministère/de l'établissement selon l'avis, puis envoi ou dépôt du dossier dans les délais ; les candidatures non conformes ou hors délai sont écartées.",
+     "source_key": "s3",
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "order": 2,
+     "kind": "WRITTEN",
+     "name_ar": "الاختبارات الكتابية",
+     "name_fr": "Épreuves écrites",
+     "is_eliminatory": true,
+     "duration_minutes": null,
+     "description_ar": "مناظرة يوم 15 جويلية 2026 (حسب الصحافة). [مقترح] اختبارات في المالية والمحاسبة وتحليل التصرف في المنشآت العمومية وفي الثقافة الاقتصادية؛ الطبيعة والمدد والضوارب للتثبت.",
+     "description_fr": "Concours le 15/07/2026 (selon la presse). [Suggestion] Épreuves de finance/comptabilité, d'analyse de gestion des entreprises publiques et de culture économique ; nature, durées et coefficients à vérifier.",
+     "source_key": "s3",
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "order": 3,
+     "kind": "ORAL",
+     "name_ar": "الاختبار الشفاهي",
+     "name_fr": "Épreuve orale",
+     "is_eliminatory": true,
+     "duration_minutes": null,
+     "description_ar": "[مقترح] مقابلة أمام لجنة حول حالة تطبيقية في الرقابة أو التصرف.",
+     "description_fr": "[Suggestion] Entretien avec le jury sur un cas pratique de contrôle ou de gestion.",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "order": 4,
+     "kind": "TRAINING",
+     "name_ar": "التربص قبل الترسيم",
+     "name_fr": "Stage probatoire avant titularisation",
+     "is_eliminatory": false,
+     "duration_minutes": null,
+     "description_ar": "[مقترح] يُسمّى الناجحون بصفة متربصين لمدة سنة (قابلة للتجديد مرة واحدة حسب القانون الأساسي العام، للتثبت) قبل ترسيمهم في الرتبة.",
+     "description_fr": "[Suggestion] Les lauréats sont nommés stagiaires pour une durée d'un an (renouvelable une fois selon le statut général, à vérifier) avant titularisation dans le grade.",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    }
+   ],
+   "subjects": [
+    {
+     "phase_order": 2,
+     "domain": "SPECIALTY",
+     "specialty_key": "spec.administration-generale.controle-audit",
+     "name_ar": "الرقابة والتدقيق وحوكمة المنشآت العمومية",
+     "name_fr": "Contrôle, audit et gouvernance des entreprises publiques",
+     "coefficient": null,
+     "duration_minutes": null,
+     "question_count": null,
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "phase_order": 2,
+     "domain": "SPECIALTY",
+     "specialty_key": "spec.banque-gestion",
+     "name_ar": "المحاسبة والتحليل المالي والاقتصاد",
+     "name_fr": "Comptabilité, analyse financière et économie",
+     "coefficient": null,
+     "duration_minutes": null,
+     "question_count": null,
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "phase_order": 2,
+     "domain": "SPECIALTY",
+     "specialty_key": "spec.fiscalite",
+     "name_ar": "المالية العمومية والجباية",
+     "name_fr": "Finances publiques et fiscalité",
+     "coefficient": null,
+     "duration_minutes": null,
+     "question_count": null,
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "phase_order": 2,
+     "domain": "CULTURE_GENERALE",
+     "specialty_key": null,
+     "name_ar": "الثقافة العامة والاقتصادية",
+     "name_fr": "Culture générale et économique",
+     "coefficient": null,
+     "duration_minutes": null,
+     "question_count": null,
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "phase_order": 3,
+     "domain": "SPECIALTY",
+     "specialty_key": "spec.administration-generale.controle-audit",
+     "name_ar": "شفاهي: دراسة حالة",
+     "name_fr": "Oral : étude de cas",
+     "coefficient": null,
+     "duration_minutes": null,
+     "question_count": null,
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    }
+   ],
+   "physical_tests": [],
+   "required_documents": [
+    {
+     "text_ar": "[مقترح] مطلب ترشح أو استمارة التسجيل عن بعد مطبوعة وممضاة (يحدد البلاغ الصيغة)",
+     "text_fr": "[Suggestion] Demande de candidature ou fiche d'inscription en ligne imprimée et signée (forme précisée par l'avis)",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "text_ar": "[مقترح] نسخة من بطاقة التعريف الوطنية",
+     "text_fr": "[Suggestion] Copie de la carte d'identité nationale",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "text_ar": "[مقترح] نسخة مطابقة للأصل من الشهادة العلمية المطلوبة، مع قرار المعادلة بالنسبة للشهادات الأجنبية",
+     "text_fr": "[Suggestion] Copie certifiée conforme du diplôme exigé, avec l'arrêté d'équivalence pour les diplômes étrangers",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "text_ar": "[مقترح] كشوفات الأعداد لكامل سنوات الدراسة (تُعتمد في احتساب التنقيط في المناظرات بالملفات)",
+     "text_fr": "[Suggestion] Relevés de notes de toutes les années d'études (utilisés pour le barème des concours sur dossiers)",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "text_ar": "[مقترح] بطاقة عدد 3 (السوابق العدلية) حديثة — تُطلب غالبا عند الانتداب",
+     "text_fr": "[Suggestion] Bulletin n° 3 (casier judiciaire) récent — généralement exigé au moment de la nomination",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "text_ar": "[مقترح] شهادة طبية تثبت القدرة البدنية والذهنية على ممارسة الوظيفة (عند الانتداب)",
+     "text_fr": "[Suggestion] Certificat médical d'aptitude physique et mentale à l'emploi (à la nomination)",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "text_ar": "[مقترح] وثيقة تثبت الوضعية إزاء الخدمة الوطنية (للمترشحين الذكور)",
+     "text_fr": "[Suggestion] Justificatif de la situation vis-à-vis du service national (candidats masculins)",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    }
+   ],
+   "blueprint": {
+    "total_minutes": 150,
+    "fidelity": "APPROXIMATED",
+    "sections": [
+     {
+      "domain": "SPECIALTY",
+      "specialty_key": "spec.administration-generale.controle-audit",
+      "count": 25,
+      "minutes": 35
+     },
+     {
+      "domain": "SPECIALTY",
+      "specialty_key": "spec.banque-gestion",
+      "count": 20,
+      "minutes": 30
+     },
+     {
+      "domain": "SPECIALTY",
+      "specialty_key": "spec.fiscalite",
+      "count": 15,
+      "minutes": 20
+     },
+     {
+      "domain": "SPECIALTY",
+      "specialty_key": "spec.droit-administratif",
+      "count": 10,
+      "minutes": 15
+     },
+     {
+      "domain": "CULTURE_GENERALE",
+      "specialty_key": null,
+      "count": 15,
+      "minutes": 20
+     },
+     {
+      "domain": "FRENCH",
+      "specialty_key": null,
+      "count": 10,
+      "minutes": 15
+     },
+     {
+      "domain": "ENGLISH",
+      "specialty_key": null,
+      "count": 10,
+      "minutes": 15
+     }
+    ]
+   }
+  }
+ ],
+ "specialty_syllabus": [
+  {
+   "key": "spec.administration-generale.fonction-publique",
+   "parent_key": null,
+   "level": "UNIT",
+   "title_ar": "القانون الأساسي العام للوظيفة العمومية والمسار المهني",
+   "title_fr": "Statut général de la fonction publique et carrière",
+   "scope": "SUGGESTED",
+   "source_key": null,
+   "objectives": [
+    {
+     "key": "spec.administration-generale.fonction-publique.o1",
+     "text_ar": "معرفة الإطار القانوني لأعوان الدولة والجماعات المحلية والمؤسسات العمومية الإدارية",
+     "text_fr": "Connaître le cadre juridique des agents de l'État, des collectivités locales et des EPA"
+    },
+    {
+     "key": "spec.administration-generale.fonction-publique.o2",
+     "text_ar": "تطبيق قواعد الانتداب والترسيم والترقية والتأديب على وضعيات عملية",
+     "text_fr": "Appliquer les règles de recrutement, titularisation, promotion et discipline à des cas pratiques"
+    }
+   ]
+  },
+  {
+   "key": "spec.administration-generale.fonction-publique.recrutement",
+   "parent_key": "spec.administration-generale.fonction-publique",
+   "level": "TOPIC",
+   "title_ar": "الانتداب: الشروط العامة والمناظرات والتربص والترسيم",
+   "title_fr": "Recrutement : conditions générales, concours, stage et titularisation",
+   "scope": "SUGGESTED",
+   "source_key": null,
+   "objectives": [
+    {
+     "key": "spec.administration-generale.fonction-publique.recrutement.o1",
+     "text_ar": "تعداد الشروط العامة للالتحاق بالوظيفة العمومية",
+     "text_fr": "Énumérer les conditions générales d'accès à la fonction publique"
+    },
+    {
+     "key": "spec.administration-generale.fonction-publique.recrutement.o2",
+     "text_ar": "التمييز بين المناظرة الخارجية والداخلية والامتحان المهني والمناظرة بالملفات",
+     "text_fr": "Distinguer concours externe, concours interne, examen professionnel et concours sur dossiers"
+    }
+   ]
+  },
+  {
+   "key": "spec.administration-generale.fonction-publique.droits-obligations",
+   "parent_key": "spec.administration-generale.fonction-publique",
+   "level": "TOPIC",
+   "title_ar": "حقوق الموظف وواجباته وأخلاقيات الوظيفة",
+   "title_fr": "Droits, obligations et déontologie de l'agent public",
+   "scope": "SUGGESTED",
+   "source_key": null,
+   "objectives": [
+    {
+     "key": "spec.administration-generale.fonction-publique.droits-obligations.o1",
+     "text_ar": "معرفة الحقوق (الأجر، العطل، الحق النقابي، الحماية) والواجبات (السر المهني، الحياد، عدم الجمع)",
+     "text_fr": "Connaître les droits (rémunération, congés, droit syndical, protection) et obligations (secret professionnel, neutralité, non-cumul)"
+    }
+   ]
+  },
+  {
+   "key": "spec.administration-generale.fonction-publique.carriere",
+   "parent_key": "spec.administration-generale.fonction-publique",
+   "level": "TOPIC",
+   "title_ar": "المسار المهني: الوضعيات والتقييم والترقية",
+   "title_fr": "Carrière : positions, notation et avancement",
+   "scope": "SUGGESTED",
+   "source_key": null,
+   "objectives": [
+    {
+     "key": "spec.administration-generale.fonction-publique.carriere.o1",
+     "text_ar": "التمييز بين وضعيات المباشرة والإلحاق وعدم المباشرة",
+     "text_fr": "Distinguer activité, détachement et disponibilité"
+    },
+    {
+     "key": "spec.administration-generale.fonction-publique.carriere.o2",
+     "text_ar": "فهم آليات الترقية في الدرجة والرتبة والأسناد الوظيفية",
+     "text_fr": "Comprendre l'avancement d'échelon et de grade et les emplois fonctionnels"
+    }
+   ]
+  },
+  {
+   "key": "spec.administration-generale.fonction-publique.discipline",
+   "parent_key": "spec.administration-generale.fonction-publique",
+   "level": "TOPIC",
+   "title_ar": "التأديب وانتهاء العلاقة الوظيفية",
+   "title_fr": "Discipline et cessation de fonctions",
+   "scope": "SUGGESTED",
+   "source_key": null,
+   "objectives": [
+    {
+     "key": "spec.administration-generale.fonction-publique.discipline.o1",
+     "text_ar": "ترتيب العقوبات التأديبية من الدرجة الأولى والثانية وضمانات الموظف (مجلس التأديب)",
+     "text_fr": "Classer les sanctions du 1er et du 2e degré et les garanties de l'agent (conseil de discipline)"
+    }
+   ]
+  },
+  {
+   "key": "spec.administration-generale.secretariat-bureautique",
+   "parent_key": null,
+   "level": "UNIT",
+   "title_ar": "الكتابة الإدارية والتصرف في البريد والإعلامية المكتبية",
+   "title_fr": "Secrétariat, gestion du courrier et bureautique",
+   "scope": "SUGGESTED",
+   "source_key": null,
+   "objectives": [
+    {
+     "key": "spec.administration-generale.secretariat-bureautique.o1",
+     "text_ar": "إتقان المهام اليومية لكتابة إدارية",
+     "text_fr": "Maîtriser les tâches quotidiennes d'un secrétariat administratif"
+    }
+   ]
+  },
+  {
+   "key": "spec.administration-generale.secretariat-bureautique.courrier",
+   "parent_key": "spec.administration-generale.secretariat-bureautique",
+   "level": "TOPIC",
+   "title_ar": "التصرف في البريد الوارد والصادر (مكتب الضبط)",
+   "title_fr": "Gestion du courrier arrivée/départ (bureau d'ordre)",
+   "scope": "SUGGESTED",
+   "source_key": null,
+   "objectives": [
+    {
+     "key": "spec.administration-generale.secretariat-bureautique.courrier.o1",
+     "text_ar": "وصف مسار البريد من التسجيل إلى الإحالة والمتابعة",
+     "text_fr": "Décrire le circuit du courrier, de l'enregistrement à l'imputation et au suivi"
+    }
+   ]
+  },
+  {
+   "key": "spec.administration-generale.secretariat-bureautique.classement",
+   "parent_key": "spec.administration-generale.secretariat-bureautique",
+   "level": "TOPIC",
+   "title_ar": "الترتيب والأرشيف الجاري",
+   "title_fr": "Classement et archives courantes",
+   "scope": "SUGGESTED",
+   "source_key": null,
+   "objectives": [
+    {
+     "key": "spec.administration-generale.secretariat-bureautique.classement.o1",
+     "text_ar": "اختيار طريقة ترتيب مناسبة (أبجدية، رقمية، موضوعية، زمنية)",
+     "text_fr": "Choisir une méthode de classement adaptée (alphabétique, numérique, thématique, chronologique)"
+    }
+   ]
+  },
+  {
+   "key": "spec.administration-generale.secretariat-bureautique.bureautique",
+   "parent_key": "spec.administration-generale.secretariat-bureautique",
+   "level": "TOPIC",
+   "title_ar": "الإعلامية المكتبية والإدارة الإلكترونية",
+   "title_fr": "Bureautique et administration électronique",
+   "scope": "SUGGESTED",
+   "source_key": null,
+   "objectives": [
+    {
+     "key": "spec.administration-generale.secretariat-bureautique.bureautique.o1",
+     "text_ar": "استعمال معالج النصوص والجداول والبريد الإلكتروني في سياق إداري",
+     "text_fr": "Utiliser traitement de texte, tableur et messagerie dans un contexte administratif"
+    },
+    {
+     "key": "spec.administration-generale.secretariat-bureautique.bureautique.o2",
+     "text_ar": "معرفة مبادئ الإدارة الإلكترونية والخدمات عن بعد",
+     "text_fr": "Connaître les principes de l'administration électronique et des services en ligne"
+    }
+   ]
+  },
+  {
+   "key": "spec.administration-generale.accueil-communication",
+   "parent_key": null,
+   "level": "UNIT",
+   "title_ar": "الاستقبال وإرشاد العموم والتواصل الإداري",
+   "title_fr": "Accueil, orientation du public et communication administrative",
+   "scope": "SUGGESTED",
+   "source_key": null,
+   "objectives": [
+    {
+     "key": "spec.administration-generale.accueil-communication.o1",
+     "text_ar": "استقبال المواطن وإرشاده بمهنية واحترام",
+     "text_fr": "Accueillir et orienter l'usager avec professionnalisme et courtoisie"
+    }
+   ]
+  },
+  {
+   "key": "spec.administration-generale.accueil-communication.accueil",
+   "parent_key": "spec.administration-generale.accueil-communication",
+   "level": "TOPIC",
+   "title_ar": "تقنيات الاستقبال المباشر والهاتفي",
+   "title_fr": "Techniques d'accueil physique et téléphonique",
+   "scope": "SUGGESTED",
+   "source_key": null,
+   "objectives": [
+    {
+     "key": "spec.administration-generale.accueil-communication.accueil.o1",
+     "text_ar": "تطبيق قواعد الاستقبال (التحية، الإصغاء، التوجيه، المتابعة)",
+     "text_fr": "Appliquer les règles d'accueil (salutation, écoute, orientation, suivi)"
+    },
+    {
+     "key": "spec.administration-generale.accueil-communication.accueil.o2",
+     "text_ar": "التعامل مع الوضعيات الصعبة والمواطن الغاضب",
+     "text_fr": "Gérer les situations difficiles et les usagers mécontents"
+    }
+   ]
+  },
+  {
+   "key": "spec.administration-generale.accueil-communication.droits-usagers",
+   "parent_key": "spec.administration-generale.accueil-communication",
+   "level": "TOPIC",
+   "title_ar": "حقوق المتعامل مع الإدارة والنفاذ إلى المعلومة",
+   "title_fr": "Droits de l'usager et accès à l'information",
+   "scope": "SUGGESTED",
+   "source_key": null,
+   "objectives": [
+    {
+     "key": "spec.administration-generale.accueil-communication.droits-usagers.o1",
+     "text_ar": "معرفة مبادئ النفاذ إلى المعلومة (القانون الأساسي عدد 22 لسنة 2016، للتثبت) ودور مكاتب العلاقات مع المواطن",
+     "text_fr": "Connaître les principes du droit d'accès à l'information (loi organique n° 2016-22, à vérifier) et le rôle des bureaux des relations avec le citoyen"
+    }
+   ]
+  },
+  {
+   "key": "spec.administration-generale.archives",
+   "parent_key": null,
+   "level": "UNIT",
+   "title_ar": "التصرف في الوثائق والأرشيف",
+   "title_fr": "Gestion des documents et des archives",
+   "scope": "SUGGESTED",
+   "source_key": null,
+   "objectives": [
+    {
+     "key": "spec.administration-generale.archives.o1",
+     "text_ar": "التحكم في دورة حياة الوثيقة الإدارية من إنشائها إلى حفظها النهائي أو إتلافها",
+     "text_fr": "Maîtriser le cycle de vie du document administratif, de sa création à sa conservation définitive ou son élimination"
+    }
+   ]
+  },
+  {
+   "key": "spec.administration-generale.archives.cadre-juridique",
+   "parent_key": "spec.administration-generale.archives",
+   "level": "TOPIC",
+   "title_ar": "الإطار القانوني والمؤسساتي للأرشيف",
+   "title_fr": "Cadre juridique et institutionnel des archives",
+   "scope": "SUGGESTED",
+   "source_key": null,
+   "objectives": [
+    {
+     "key": "spec.administration-generale.archives.cadre-juridique.o1",
+     "text_ar": "معرفة القانون المتعلق بالأرشيف (قانون 1988، للتثبت) ودور الأرشيف الوطني التونسي",
+     "text_fr": "Connaître la loi relative aux archives (loi de 1988, à vérifier) et le rôle des Archives nationales de Tunisie"
+    }
+   ]
+  },
+  {
+   "key": "spec.administration-generale.archives.cycle-de-vie",
+   "parent_key": "spec.administration-generale.archives",
+   "level": "TOPIC",
+   "title_ar": "الأعمار الثلاثة للأرشيف وجداول مدد الاستبقاء",
+   "title_fr": "Les trois âges des archives et calendriers de conservation",
+   "scope": "SUGGESTED",
+   "source_key": null,
+   "objectives": [
+    {
+     "key": "spec.administration-generale.archives.cycle-de-vie.o1",
+     "text_ar": "التمييز بين الأرشيف الجاري والوسيط والنهائي",
+     "text_fr": "Distinguer archives courantes, intermédiaires et définitives"
+    },
+    {
+     "key": "spec.administration-generale.archives.cycle-de-vie.o2",
+     "text_ar": "إعداد جدول مدد استبقاء وتطبيق إجراءات الدفع والإتلاف",
+     "text_fr": "Établir un calendrier de conservation et appliquer versements et éliminations"
+    }
+   ]
+  },
+  {
+   "key": "spec.administration-generale.archives.description-conservation",
+   "parent_key": "spec.administration-generale.archives",
+   "level": "TOPIC",
+   "title_ar": "الترتيب والوصف والحفظ",
+   "title_fr": "Classement, description et conservation",
+   "scope": "SUGGESTED",
+   "source_key": null,
+   "objectives": [
+    {
+     "key": "spec.administration-generale.archives.description-conservation.o1",
+     "text_ar": "تطبيق مبادئ احترام الأرصدة والوصف المعياري (ISAD(G))",
+     "text_fr": "Appliquer le respect des fonds et la description normalisée (ISAD(G))"
+    },
+    {
+     "key": "spec.administration-generale.archives.description-conservation.o2",
+     "text_ar": "معرفة قواعد الحفظ الوقائي والرقمنة",
+     "text_fr": "Connaître la conservation préventive et la numérisation"
+    }
+   ]
+  },
+  {
+   "key": "spec.administration-generale.archives.ged",
+   "parent_key": "spec.administration-generale.archives",
+   "level": "TOPIC",
+   "title_ar": "التصرف الإلكتروني في الوثائق والتصرف في السجلات",
+   "title_fr": "GED et records management",
+   "scope": "SUGGESTED",
+   "source_key": null,
+   "objectives": [
+    {
+     "key": "spec.administration-generale.archives.ged.o1",
+     "text_ar": "معرفة مبادئ التصرف في السجلات (ISO 15489) والأرشفة الإلكترونية",
+     "text_fr": "Connaître les principes du records management (ISO 15489) et de l'archivage électronique"
+    }
+   ]
+  },
+  {
+   "key": "spec.administration-generale.relations-internationales",
+   "parent_key": null,
+   "level": "UNIT",
+   "title_ar": "العلاقات الدولية والعمل الديبلوماسي",
+   "title_fr": "Relations internationales et pratique diplomatique",
+   "scope": "SUGGESTED",
+   "source_key": null,
+   "objectives": [
+    {
+     "key": "spec.administration-generale.relations-internationales.o1",
+     "text_ar": "تحليل الأحداث الدولية وموقع تونس منها",
+     "text_fr": "Analyser l'actualité internationale et la place de la Tunisie"
+    }
+   ]
+  },
+  {
+   "key": "spec.administration-generale.relations-internationales.droit-international",
+   "parent_key": "spec.administration-generale.relations-internationales",
+   "level": "TOPIC",
+   "title_ar": "القانون الدولي العام والمنظمات الدولية",
+   "title_fr": "Droit international public et organisations internationales",
+   "scope": "SUGGESTED",
+   "source_key": null,
+   "objectives": [
+    {
+     "key": "spec.administration-generale.relations-internationales.droit-international.o1",
+     "text_ar": "معرفة مصادر القانون الدولي وقانون المعاهدات (اتفاقية فيينا 1969)",
+     "text_fr": "Connaître les sources du droit international et le droit des traités (Convention de Vienne de 1969)"
+    },
+    {
+     "key": "spec.administration-generale.relations-internationales.droit-international.o2",
+     "text_ar": "معرفة هياكل الأمم المتحدة والاتحاد الإفريقي وجامعة الدول العربية",
+     "text_fr": "Connaître les structures de l'ONU, de l'Union africaine et de la Ligue arabe"
+    }
+   ]
+  },
+  {
+   "key": "spec.administration-generale.relations-internationales.diplomatie-consulaire",
+   "parent_key": "spec.administration-generale.relations-internationales",
+   "level": "TOPIC",
+   "title_ar": "العلاقات الديبلوماسية والقنصلية",
+   "title_fr": "Relations diplomatiques et consulaires",
+   "scope": "SUGGESTED",
+   "source_key": null,
+   "objectives": [
+    {
+     "key": "spec.administration-generale.relations-internationales.diplomatie-consulaire.o1",
+     "text_ar": "معرفة اتفاقيتي فيينا 1961 و1963 والامتيازات والحصانات",
+     "text_fr": "Connaître les Conventions de Vienne de 1961 et 1963, privilèges et immunités"
+    },
+    {
+     "key": "spec.administration-generale.relations-internationales.diplomatie-consulaire.o2",
+     "text_ar": "فهم الخدمات القنصلية للتونسيين بالخارج",
+     "text_fr": "Comprendre les services consulaires aux Tunisiens à l'étranger"
+    }
+   ]
+  },
+  {
+   "key": "spec.administration-generale.relations-internationales.politique-etrangere-tn",
+   "parent_key": "spec.administration-generale.relations-internationales",
+   "level": "TOPIC",
+   "title_ar": "ثوابت السياسة الخارجية التونسية",
+   "title_fr": "Constantes de la politique étrangère tunisienne",
+   "scope": "SUGGESTED",
+   "source_key": null,
+   "objectives": [
+    {
+     "key": "spec.administration-generale.relations-internationales.politique-etrangere-tn.o1",
+     "text_ar": "تحديد مبادئ الديبلوماسية التونسية وانتماءاتها الإقليمية (المغرب العربي، العالم العربي، إفريقيا، المتوسط)",
+     "text_fr": "Identifier les principes de la diplomatie tunisienne et ses appartenances régionales (Maghreb, monde arabe, Afrique, Méditerranée)"
+    }
+   ]
+  },
+  {
+   "key": "spec.administration-generale.relations-internationales.enjeux-contemporains",
+   "parent_key": "spec.administration-generale.relations-internationales",
+   "level": "TOPIC",
+   "title_ar": "القضايا الدولية الراهنة",
+   "title_fr": "Enjeux internationaux contemporains",
+   "scope": "SUGGESTED",
+   "source_key": null,
+   "objectives": [
+    {
+     "key": "spec.administration-generale.relations-internationales.enjeux-contemporains.o1",
+     "text_ar": "تحليل قضايا الهجرة والمناخ والأمن والاقتصاد العالمي",
+     "text_fr": "Analyser les enjeux migratoires, climatiques, sécuritaires et économiques mondiaux"
+    }
+   ]
+  },
+  {
+   "key": "spec.administration-generale.organisation-judiciaire",
+   "parent_key": null,
+   "level": "UNIT",
+   "title_ar": "التنظيم القضائي ومهام كتابة المحكمة",
+   "title_fr": "Organisation judiciaire et missions du greffe",
+   "scope": "SUGGESTED",
+   "source_key": null,
+   "objectives": [
+    {
+     "key": "spec.administration-generale.organisation-judiciaire.o1",
+     "text_ar": "فهم سير المحاكم ودور كاتب المحكمة في الإجراءات",
+     "text_fr": "Comprendre le fonctionnement des juridictions et le rôle du greffier dans les procédures"
+    }
+   ]
+  },
+  {
+   "key": "spec.administration-generale.organisation-judiciaire.organisation",
+   "parent_key": "spec.administration-generale.organisation-judiciaire",
+   "level": "TOPIC",
+   "title_ar": "هيكلة المحاكم العدلية والإدارية والمالية",
+   "title_fr": "Organisation des juridictions judiciaires, administratives et financières",
+   "scope": "SUGGESTED",
+   "source_key": null,
+   "objectives": [
+    {
+     "key": "spec.administration-generale.organisation-judiciaire.organisation.o1",
+     "text_ar": "ترتيب درجات التقاضي واختصاصات المحاكم (ناحية، ابتدائية، استئناف، تعقيب)",
+     "text_fr": "Situer les degrés de juridiction et les compétences (cantonal, première instance, appel, cassation)"
+    }
+   ]
+  },
+  {
+   "key": "spec.administration-generale.organisation-judiciaire.procedures",
+   "parent_key": "spec.administration-generale.organisation-judiciaire",
+   "level": "TOPIC",
+   "title_ar": "مبادئ الإجراءات المدنية والجزائية",
+   "title_fr": "Notions de procédure civile et pénale",
+   "scope": "SUGGESTED",
+   "source_key": null,
+   "objectives": [
+    {
+     "key": "spec.administration-generale.organisation-judiciaire.procedures.o1",
+     "text_ar": "معرفة مراحل الدعوى والآجال وطرق الطعن الأساسية",
+     "text_fr": "Connaître les étapes de l'instance, les délais et les principales voies de recours"
+    }
+   ]
+  },
+  {
+   "key": "spec.administration-generale.organisation-judiciaire.greffe",
+   "parent_key": "spec.administration-generale.organisation-judiciaire",
+   "level": "TOPIC",
+   "title_ar": "مهام كتابة المحكمة: الدفاتر والمحاضر والجلسات والمحجوزات",
+   "title_fr": "Missions du greffe : registres, procès-verbaux, audiences et scellés",
+   "scope": "SUGGESTED",
+   "source_key": null,
+   "objectives": [
+    {
+     "key": "spec.administration-generale.organisation-judiciaire.greffe.o1",
+     "text_ar": "وصف مهام كاتب المحكمة قبل الجلسة وأثناءها وبعدها",
+     "text_fr": "Décrire les tâches du greffier avant, pendant et après l'audience"
+    },
+    {
+     "key": "spec.administration-generale.organisation-judiciaire.greffe.o2",
+     "text_ar": "معرفة قواعد مسك الدفاتر وتسليم النسخ وحفظ الأرشيف القضائي",
+     "text_fr": "Connaître la tenue des registres, la délivrance des copies et la conservation des archives judiciaires"
+    }
+   ]
+  },
+  {
+   "key": "spec.administration-generale.controle-audit",
+   "parent_key": null,
+   "level": "UNIT",
+   "title_ar": "الرقابة والتدقيق وحوكمة المنشآت العمومية",
+   "title_fr": "Contrôle, audit et gouvernance des entreprises publiques",
+   "scope": "SUGGESTED",
+   "source_key": null,
+   "objectives": [
+    {
+     "key": "spec.administration-generale.controle-audit.o1",
+     "text_ar": "تقييم تصرف منشأة عمومية ووضعيتها المالية",
+     "text_fr": "Évaluer la gestion et la situation financière d'une entreprise publique"
+    }
+   ]
+  },
+  {
+   "key": "spec.administration-generale.controle-audit.entreprises-publiques",
+   "parent_key": "spec.administration-generale.controle-audit",
+   "level": "TOPIC",
+   "title_ar": "الإطار القانوني للمنشآت والمؤسسات العمومية وسلطة الإشراف",
+   "title_fr": "Cadre juridique des entreprises et établissements publics, tutelle",
+   "scope": "SUGGESTED",
+   "source_key": null,
+   "objectives": [
+    {
+     "key": "spec.administration-generale.controle-audit.entreprises-publiques.o1",
+     "text_ar": "معرفة أدوار مجلس الإدارة وسلطة الإشراف وعقود البرامج",
+     "text_fr": "Connaître les rôles du conseil d'administration, de la tutelle et des contrats-programmes"
+    }
+   ]
+  },
+  {
+   "key": "spec.administration-generale.controle-audit.audit-controle-interne",
+   "parent_key": "spec.administration-generale.controle-audit",
+   "level": "TOPIC",
+   "title_ar": "الرقابة الداخلية والتدقيق",
+   "title_fr": "Contrôle interne et audit",
+   "scope": "SUGGESTED",
+   "source_key": null,
+   "objectives": [
+    {
+     "key": "spec.administration-generale.controle-audit.audit-controle-interne.o1",
+     "text_ar": "تطبيق منهجية مهمة تدقيق (تخطيط، تنفيذ، تقرير)",
+     "text_fr": "Appliquer la méthodologie d'une mission d'audit (planification, exécution, rapport)"
+    }
+   ]
+  },
+  {
+   "key": "spec.administration-generale.controle-audit.analyse-financiere",
+   "parent_key": "spec.administration-generale.controle-audit",
+   "level": "TOPIC",
+   "title_ar": "التحليل المالي للقوائم المالية",
+   "title_fr": "Analyse financière des états financiers",
+   "scope": "SUGGESTED",
+   "source_key": null,
+   "objectives": [
+    {
+     "key": "spec.administration-generale.controle-audit.analyse-financiere.o1",
+     "text_ar": "احتساب وتأويل النسب المالية الأساسية",
+     "text_fr": "Calculer et interpréter les principaux ratios financiers"
+    }
+   ]
+  },
+  {
+   "key": "spec.administration-generale.controle-audit.marches-publics",
+   "parent_key": "spec.administration-generale.controle-audit",
+   "level": "TOPIC",
+   "title_ar": "مبادئ الصفقات العمومية",
+   "title_fr": "Principes de la commande publique",
+   "scope": "SUGGESTED",
+   "source_key": null,
+   "objectives": [
+    {
+     "key": "spec.administration-generale.controle-audit.marches-publics.o1",
+     "text_ar": "معرفة مبادئ المنافسة والشفافية والمساواة في الصفقات العمومية (الأمر المنظم للصفقات العمومية لسنة 2014، للتثبت)",
+     "text_fr": "Connaître les principes de concurrence, transparence et égalité des marchés publics (décret de 2014 portant réglementation des marchés publics, à vérifier)"
+    }
+   ]
+  },
+  {
+   "key": "spec.administration-generale.metiers-ouvriers",
+   "parent_key": null,
+   "level": "UNIT",
+   "title_ar": "المعارف المهنية لعملة الإدارة",
+   "title_fr": "Connaissances professionnelles des ouvriers de l'administration",
+   "scope": "SUGGESTED",
+   "source_key": null,
+   "objectives": [
+    {
+     "key": "spec.administration-generale.metiers-ouvriers.o1",
+     "text_ar": "أداء مهام التنظيف والحراسة والصيانة والسياقة وفق قواعد السلامة",
+     "text_fr": "Exécuter les tâches de nettoyage, gardiennage, maintenance et conduite selon les règles de sécurité"
+    }
+   ]
+  },
+  {
+   "key": "spec.administration-generale.metiers-ouvriers.securite-travail",
+   "parent_key": "spec.administration-generale.metiers-ouvriers",
+   "level": "TOPIC",
+   "title_ar": "الصحة والسلامة المهنية",
+   "title_fr": "Hygiène et sécurité au travail",
+   "scope": "SUGGESTED",
+   "source_key": null,
+   "objectives": [
+    {
+     "key": "spec.administration-generale.metiers-ouvriers.securite-travail.o1",
+     "text_ar": "معرفة معدات الوقاية الفردية والمخاطر الشائعة",
+     "text_fr": "Connaître les équipements de protection individuelle et les risques courants"
+    }
+   ]
+  },
+  {
+   "key": "spec.administration-generale.metiers-ouvriers.nettoyage-entretien",
+   "parent_key": "spec.administration-generale.metiers-ouvriers",
+   "level": "TOPIC",
+   "title_ar": "التنظيف والصيانة الأساسية",
+   "title_fr": "Nettoyage et maintenance de base",
+   "scope": "SUGGESTED",
+   "source_key": null,
+   "objectives": [
+    {
+     "key": "spec.administration-generale.metiers-ouvriers.nettoyage-entretien.o1",
+     "text_ar": "اختيار مواد التنظيف وطرق الاستعمال الآمن",
+     "text_fr": "Choisir les produits d'entretien et les utiliser en sécurité"
+    },
+    {
+     "key": "spec.administration-generale.metiers-ouvriers.nettoyage-entretien.o2",
+     "text_ar": "تشخيص أعطال بسيطة في الكهرباء والترصيص والنجارة",
+     "text_fr": "Diagnostiquer des pannes simples en électricité, plomberie et menuiserie"
+    }
+   ]
+  },
+  {
+   "key": "spec.administration-generale.metiers-ouvriers.gardiennage",
+   "parent_key": "spec.administration-generale.metiers-ouvriers",
+   "level": "TOPIC",
+   "title_ar": "الحراسة ومراقبة الدخول",
+   "title_fr": "Gardiennage et contrôle d'accès",
+   "scope": "SUGGESTED",
+   "source_key": null,
+   "objectives": [
+    {
+     "key": "spec.administration-generale.metiers-ouvriers.gardiennage.o1",
+     "text_ar": "تطبيق التعليمات ومسك دفتر الحراسة والتبليغ عن الحوادث",
+     "text_fr": "Appliquer les consignes, tenir le registre de garde et signaler les incidents"
+    }
+   ]
+  },
+  {
+   "key": "spec.administration-generale.metiers-ouvriers.conduite",
+   "parent_key": "spec.administration-generale.metiers-ouvriers",
+   "level": "TOPIC",
+   "title_ar": "السياقة المهنية وصيانة العربات",
+   "title_fr": "Conduite professionnelle et entretien des véhicules",
+   "scope": "SUGGESTED",
+   "source_key": null,
+   "objectives": [
+    {
+     "key": "spec.administration-generale.metiers-ouvriers.conduite.o1",
+     "text_ar": "معرفة قواعد مجلة الطرقات والصيانة الدورية للعربة الإدارية",
+     "text_fr": "Connaître le code de la route et l'entretien périodique du véhicule administratif"
+    }
+   ]
+  }
+ ],
+ "past_exams": [],
+ "tips_ar": [
+  "تابع البوابة الوطنية للمناظرات (concours.gov.tn) ومواقع الوزارات والرائد الرسمي: لا توجد رزنامة موحدة، فكل وزارة تفتح مناظراتها حسب الاعتمادات المرصودة في قانون المالية.",
+  "النمط الملاحظ في مناظرات 2026 المرصودة: نحو شهر واحد بين آخر أجل للترشح وتاريخ الاختبار (مثلا 10 أفريل ← 11 ماي، 5 أوت ← 5 سبتمبر، 10 أوت ← 10 سبتمبر). ابدأ المراجعة قبل فتح المناظرة لا بعده.",
+  "اقرأ قرار فتح المناظرة كاملا: هو المرجع الوحيد للشهادات والاختصاصات المقبولة وحد السن وطبيعة الاختبارات وضواربها.",
+  "عدد كبير من المناظرات أصبح «بالملفات»: حضّر مسبقا نسخا مطابقة للأصل من الشهادات وكل كشوفات الأعداد وشهادة الترسيم بمكتب التشغيل، فالتنقيط يعتمد عليها.",
+  "الجذع المشترك لأغلب مناظرات الرتب الإدارية: الثقافة العامة، القانون الإداري، القانون الأساسي العام للوظيفة العمومية، والتحرير الإداري (بالعربية أساسا). تدرّب على مقال ومذكرة في وقت محدد.",
+  "للمتصرفين في الوثائق والأرشيف وكتّاب الشؤون الخارجية ومراقبي الدولة: الاختبارات اختصاصية — راجع مادة الاختصاص بعمق إضافة إلى اللغات.",
+  "للعملة: الاختبار مهني تطبيقي؛ أحضر شهاداتك المهنية أو رخصة السياقة واطّلع على الصنف المفتوح والمهام المطلوبة.",
+  "احذر الصفحات والإعلانات المزيفة التي تطلب أموالا مقابل التسجيل أو «ضمان» النجاح: تثبّت دائما من البلاغ على الموقع الرسمي للهيكل المنظم.",
+  "الانتداب الاستثنائي للعاطلين عن العمل لفترة طويلة (القانون عدد 18 لسنة 2025) مسار منفصل دون اختبار كتابي؛ لا يعوّض المناظرات الخارجية.",
+  "توقع عددا محدودا من المناظرات الإدارية في 2027، إذ يحصر منشور إعداد الميزانية الانتداب في القطاعات ذات الأولوية — فعّل التنبيهات في ملفك حتى لا تفوتك أي مناظرة."
+ ],
+ "tips_fr": [
+  "Surveillez le portail national des concours (concours.gov.tn), les sites des ministères et le JORT : il n'existe pas de calendrier unique, chaque ministère ouvre ses concours selon les postes budgétisés par la loi de finances.",
+  "Rythme observé sur les concours 2026 relevés : environ un mois entre la clôture des candidatures et l'épreuve (ex. 10 avril → 11 mai, 5 août → 5 septembre, 10 août → 10 septembre). Commencez à réviser avant l'ouverture, pas après.",
+  "Lisez l'arrêté d'ouverture en entier : c'est la seule référence pour les diplômes et spécialités admis, la limite d'âge, la nature des épreuves et leurs coefficients.",
+  "Beaucoup de concours sont désormais « sur dossiers » : préparez à l'avance les copies certifiées des diplômes, tous les relevés de notes et l'attestation d'inscription au bureau de l'emploi, car le barème s'appuie dessus.",
+  "Tronc commun de la plupart des concours administratifs : culture générale, droit administratif, statut général de la fonction publique et rédaction administrative (surtout en arabe). Entraînez-vous à la dissertation et à la note en temps limité.",
+  "Pour les archives, les affaires étrangères et le contrôle d'État : les épreuves sont spécialisées — approfondissez la matière de spécialité et les langues.",
+  "Pour les ouvriers : l'épreuve est professionnelle et pratique ; préparez vos certificats professionnels ou permis de conduire et renseignez-vous sur la catégorie ouverte et les tâches attendues.",
+  "Méfiez-vous des pages et annonces frauduleuses qui demandent de l'argent pour une inscription ou une « réussite garantie » : vérifiez toujours l'avis sur le site officiel de l'organisme recruteur.",
+  "Le recrutement exceptionnel des chômeurs de longue durée (loi n° 2025-18) est une voie distincte, sans épreuve écrite ; il ne remplace pas les concours externes.",
+  "Attendez-vous à peu de concours administratifs en 2027 : la circulaire budgétaire réserve les recrutements aux secteurs prioritaires — activez les alertes de votre profil pour ne rien manquer."
+ ],
+ "research_notes": "LIMITE MÉTHODOLOGIQUE MAJEURE : lors de cette passe (07/10/2026), le quota WebSearch partagé était épuisé dès la première requête et WebFetch renvoie EGRESS_BLOCKED pour tous les domaines testés (concours.gov.tn, iort.gov.tn, legislation.tn, legislation-securite.tn, lapresse.tn, tuniscope.com, tunisienumerique.com, webmanagercenter.com, directinfo.webmanagercenter.com, orientini.com, kedma.tn, allafrica.com ; pist.gov.tn ne résout pas). AUCUNE page n'a été lue directement. Les faits rattachés à une source (s2–s15, s17–s19) proviennent de la veille consignée le même jour par l'équipe (content/competitions/_openings.json et docs/research/01-market-raw.md), elle-même fondée sur des résumés de moteur de recherche : c'est pourquoi TOUS les faits portent needs_verification=true et aucun source_quote n'est fourni (0 fait publiable comme officiel en l'état). ÉDITIONS : les 14 éditions 2026 reprennent exactement les dates de _openings.json pour que le seed des ouvertures les reconnaisse comme doublons ; position_slugs cible le poste concerné pour les alertes de profil. Deux sont OPEN au 07/10/2026 (ATCT clôture 20/10, ATI clôture 28/10) — ce sont des établissements publics à statut propre, rattachés ici au poste « administrateur » faute de mieux ; à vérifier avant publication. La session 263 administrateurs (municipalités) était classée « collectivites-locales » par la veille : reprise ici car il s'agit du corps administratif commun ; supprimer en cas de création d'une famille collectivités locales. Non repris en éditions : administrateurs des documents et archives des Domaines de l'État (s16, sans date : l'édition est créée par le seed des ouvertures), ANGED (s20, rattaché à techniciens-ingenieurs), ONT (s21, postes mixtes), ONTH et INM (rattachés à techniciens-ingenieurs). Aucune donnée 2023-2025 n'a pu être collectée (ni dates, ni nombre de postes, ni nombre de candidats) : à compléter. Le nombre de candidats n'est connu pour aucune session. TOUT LE RESTE EST SUGGÉRÉ (connaissances de l'équipe, non confirmées) : (1) références juridiques — loi n° 83-112 du 12/12/1983 (statut général), statut particulier du corps administratif commun (décret n° 98-834 du 13/04/1998 selon notre souvenir, NON cité dans les données pour cette raison), loi relative aux archives (1988), loi organique n° 2016-22 (accès à l'information), décret de 2014 sur les marchés publics ; (2) liste et hiérarchie des grades du corps administratif commun et niveaux de diplôme des grades attaché (bac+2 ?), secrétaire (bac ?), agent d'accueil (9e année ?) ; le grade « rédacteur » (محرر) cité dans la consigne n'a pas été identifié dans l'organisation actuelle du corps (ancien grade ou corps spécifique ?) et n'est donc pas modélisé ; l'agent d'accueil n'est pas rattaché à un corps confirmé ; (3) limite d'âge générale de 40 ans (relevée seulement pour les greffiers premiers et les ouvriers de la Justice 2026 ; appliquée automatiquement uniquement au poste greffier-premier) ; (4) nature, durées et coefficients de toutes les épreuves, existence d'oraux, critères des concours sur dossiers, stage probatoire d'un an ; tous les blueprints sont donc APPROXIMATED ; (5) liste des pièces du dossier ; (6) plateforme d'inscription (concours.gov.tn vs sites ministériels) ; (7) formation à l'Institut diplomatique pour les secrétaires des affaires étrangères ; (8) spécialités admises (seule la position archives porte une liste de spécialités pour la correspondance automatique — à valider, car une liste erronée exclurait des candidats des alertes). Aucune annale (officielle ou communautaire) n'a pu être localisée : past_exams est vide. Le syllabus spécifique (spec.administration-generale.*) est entièrement SUGGESTED. Priorités de vérification : arrêtés d'ouverture au JORT des concours 2026 listés, avis sur concours.gov.tn et sur les sites officiels des ministères concernés, statut particulier du corps administratif commun."
+}

@@ -1,0 +1,1891 @@
+{
+ "family": {
+  "slug": "armee-ecoles-militaires",
+  "field": "DEFENSE",
+  "organization": {
+   "slug": "ministere-defense-nationale",
+   "name_ar": "وزارة الدفاع الوطني – الجيش الوطني (جيش البر، جيش الطيران، جيش البحر، الإدارة العامة للصحة العسكرية)",
+   "name_fr": "Ministère de la Défense nationale – Armée nationale (Armée de terre, Armée de l'air, Marine nationale, Direction générale de la santé militaire)",
+   "ministry_fr": "Ministère de la Défense nationale",
+   "website": "https://www.defense.tn"
+  },
+  "name_ar": "مناظرات الانتداب بالجيش الوطني والمدارس العسكرية (تلامذة ضباط، تلامذة ضباط صف، تقنيون سامون للصحة العسكرية، جنود متطوعون)",
+  "name_fr": "Concours de recrutement de l'Armée nationale et des écoles militaires (élèves officiers, élèves sous-officiers, techniciens supérieurs de la santé militaire, soldats volontaires)",
+  "description_ar": "مناظرات تنظمها وزارة الدفاع الوطني لانتداب العسكريين بمختلف الرتب. (1) تلامذة ضباط (فتيان وفتيات) من بين الناجحين في باكالوريا السنة الجارية للتكوين بالأكاديمية العسكرية (فندق الجديد) والأكاديمية البحرية (منزل بورقيبة) ومدرسة الطيران ببرج العامري: في دورة 2026، حسب الصحافة، يشترط أن يكون المترشح أعزب، سنه بين 18 و23 سنة، طوله 1.67 م للذكور و1.60 م للإناث، وعدده في التربية البدنية بالباكالوريا 12 من 20 على الأقل، مع تسجيل من 23 جوان إلى 19 جويلية 2026. (2) تلامذة ضباط صف: مناظرة لفائدة جيش البر (فتيان وفتيات، 18 إلى 23 سنة، آخر أجل 26 جويلية 2026) ومناظرة لتكوين تلامذة ضباط صف في الاختصاصات شبه الطبية لفائدة الإدارة العامة للصحة العسكرية (باكالوريا 2026، آخر أجل 19 جويلية 2026). (3) مناظرة مفتوحة حاليا لانتداب 90 تقنيا ساميا للصحة العسكرية برتبة وكيل (انتداب مباشر)، لحاملي شهادة باكالوريا + 2 أو إجازة، سن أقصى 40 سنة، آخر أجل 30 أكتوبر 2026 واختبار يوم 1 ديسمبر 2026 (حسب الصحافة). (4) التطوع بصفة جندي: مسار موجود لكن شروطه لم نتمكن من التثبت منها، وكل ما يخصه في هذا الملف اقتراح. حسب قانون المالية لسنة 2026 برمجت وزارة الدفاع الوطني نحو 3728 انتدابا. الانتقاء في المدارس العسكرية لا يعتمد غالبا على امتحان كتابي أكاديمي بل على الملف (معدل الباكالوريا) ثم فحوص طبية واختبارات بدنية ونفسية-تقنية ومقابلة، وهذا الترتيب مقترح ويجب التثبت منه في البلاغ الرسمي. كل المعطيات الواردة هنا مأخوذة من ملخصات صحفية أو مقترحة ولم يتم الاطلاع على النص الرسمي: يرجى الرجوع إلى موقع وزارة الدفاع الوطني وصفحتها الرسمية.",
+  "description_fr": "Concours organisés par le ministère de la Défense nationale pour recruter des militaires de différents grades. (1) Élèves officiers (garçons et filles) parmi les bacheliers de l'année, formés à l'Académie militaire (Fondouk Jedid), à l'Académie navale (Menzel Bourguiba) et à l'École de l'aviation de Borj El Amri : pour la session 2026, selon la presse, il faut être célibataire, avoir 18 à 23 ans, mesurer au moins 1,67 m (garçons) / 1,60 m (filles) et avoir obtenu au moins 12/20 en éducation physique au bac ; inscription du 23 juin au 19 juillet 2026. (2) Élèves sous-officiers : un concours pour l'Armée de terre (garçons et filles, 18 à 23 ans, date limite 26 juillet 2026) et un concours d'élèves sous-officiers formés aux spécialités paramédicales pour la Direction générale de la santé militaire (bacheliers 2026, date limite 19 juillet 2026). (3) Concours actuellement ouvert : recrutement direct de 90 techniciens supérieurs de la santé militaire au grade d'adjudant (وكيل), titulaires d'un bac + 2 ou d'une licence, 40 ans maximum, date limite 30 octobre 2026, épreuve le 1er décembre 2026 (selon la presse). (4) Engagement comme soldat volontaire (التطوع) : la voie existe mais ses conditions n'ont pas pu être vérifiées ; tout ce qui la concerne ici est une suggestion. Selon la loi de finances 2026, le ministère de la Défense nationale prévoit environ 3 728 recrutements. La sélection dans les écoles militaires ne repose généralement pas sur un écrit académique mais sur le dossier (moyenne du bac), puis visite médicale, épreuves physiques, tests psychotechniques et entretien ; cet ordre est suggéré et doit être vérifié sur l'avis officiel. Toutes les données proviennent de résumés de presse ou sont des suggestions, sans lecture du texte officiel : se référer au site et à la page officielle du ministère de la Défense nationale.",
+  "frequency": "ANNUAL",
+  "frequency_confidence": "LOW",
+  "popularity": 4,
+  "keywords": [
+   "وزارة الدفاع الوطني",
+   "الجيش الوطني",
+   "مناظرة الجيش",
+   "تلامذة ضباط",
+   "تلميذ ضابط",
+   "تلامذة ضباط صف",
+   "ضابط صف",
+   "صف ضباط",
+   "الأكاديمية العسكرية",
+   "الأكاديمية العسكرية بفندق الجديد",
+   "الأكاديمية البحرية",
+   "منزل بورقيبة",
+   "مدرسة الطيران ببرج العامري",
+   "برج العامري",
+   "جيش البر",
+   "جيش الطيران",
+   "جيش البحر",
+   "الصحة العسكرية",
+   "شبه طبي عسكري",
+   "تقني سام للصحة العسكرية",
+   "وكيل",
+   "ملازم",
+   "التطوع",
+   "جندي متطوع",
+   "انتداب عسكري",
+   "باكالوريا 2026",
+   "ministère de la Défense nationale",
+   "armée tunisienne",
+   "armée nationale",
+   "concours armée",
+   "élèves officiers",
+   "élève officier",
+   "élèves sous-officiers",
+   "sous-officier",
+   "Académie militaire",
+   "Fondouk Jedid",
+   "Académie navale",
+   "Menzel Bourguiba",
+   "École de l'aviation",
+   "Borj El Amri",
+   "armée de terre",
+   "armée de l'air",
+   "marine nationale",
+   "santé militaire",
+   "technicien supérieur santé militaire",
+   "adjudant",
+   "sous-lieutenant",
+   "soldat volontaire",
+   "engagé volontaire",
+   "recrutement militaire",
+   "Tunisie"
+  ]
+ },
+ "sources": [
+  {
+   "key": "s1",
+   "title": "Recrutement d'élèves officiers (garçons et filles) à l'Académie militaire, l'Académie navale et l'École de l'aviation de Borj El Amri – bacheliers 2026 [titre reconstitué]",
+   "url": "https://fr.allafrica.com/stories/202606230655.html",
+   "publisher": "AllAfrica (reprise d'une dépêche de presse tunisienne)",
+   "source_type": "SECONDARY",
+   "publication_date": "2026-06-23",
+   "retrieved_at": "2026-10-07",
+   "confidence": "MEDIUM",
+   "notes": "Relais presse de l'avis du ministère de la Défense nationale (session 2026). Faits repris : bacheliers 2026, célibataires, 18–23 ans, taille 1,67 m (garçons) / 1,60 m (filles), note d'éducation physique au bac ≥ 12/20, inscription du 23/06 au 19/07/2026, garçons et filles. PAGE NON OUVERTE dans cette passe (WebFetch : EGRESS_BLOCKED pour fr.allafrica.com ; quota WebSearch épuisé). Contenu connu uniquement via les résumés de moteur de recherche consignés le même jour dans docs/research/01-market-raw.md (section Défense) et content/competitions/_openings.json. Date déduite de l'identifiant de l'article."
+  },
+  {
+   "key": "s2",
+   "title": "Recrutement d'élèves sous-officiers (garçons et filles) – formation (licence) en spécialités paramédicales au profit de la Direction générale de la santé militaire – bacheliers 2026 [titre reconstitué]",
+   "url": "https://fr.allafrica.com/stories/202606230663.html",
+   "publisher": "AllAfrica (reprise d'une dépêche de presse tunisienne)",
+   "source_type": "SECONDARY",
+   "publication_date": "2026-06-23",
+   "retrieved_at": "2026-10-07",
+   "confidence": "MEDIUM",
+   "notes": "Relais presse : élèves sous-officiers paramédicaux pour la santé militaire, bacheliers 2026, garçons et filles, date limite 19/07/2026. Âge, taille et nombre de places non repris dans le résumé. PAGE NON OUVERTE (EGRESS_BLOCKED) ; contenu connu via content/competitions/_openings.json."
+  },
+  {
+   "key": "s3",
+   "title": "مناظرة لانتداب تلامذة ضباط صف لفائدة جيش البر (فتيان وفتيات) 2026 – annonce Orientini n° 17599",
+   "url": "https://www.orientini.com/FR/Annonces_Orientation_Formation_Emploi/17599/",
+   "publisher": "Orientini (portail d'annonces orientation / emploi)",
+   "source_type": "SECONDARY",
+   "publication_date": null,
+   "retrieved_at": "2026-10-07",
+   "confidence": "LOW",
+   "notes": "Relais d'annonce : élèves sous-officiers pour l'Armée de terre, garçons et filles, 18–23 ans, date limite 26/07/2026. Niveau d'études non repris dans le résumé. PAGE NON OUVERTE (EGRESS_BLOCKED pour orientini.com) ; contenu connu via content/competitions/_openings.json."
+  },
+  {
+   "key": "s4",
+   "title": "فتح مناظرة لانتداب 90 تقنيا ساميا لفائدة الصحة العسكرية (Radio nationale tunisienne) [titre repris de l'URL]",
+   "url": "https://www.radionationale.tn/article/6aa1a0160d094f0934c1704f/%D9%81%D8%AA%D8%AD-%D9%85%D9%86%D8%A7%D8%B8%D8%B1%D8%A9-%D9%84%D8%A7%D9%86%D8%AA%D8%AF%D8%A7%D8%A8-90-%D8%AA%D9%82%D9%86%D9%8A%D8%A7-%D8%B3%D8%A7%D9%85%D9%8A%D8%A7-%D9%84%D9%81%D8%A7%D8%A6%D8%AF%D8%A9-%D8%A7%D9%84%D8%B5%D8%AD%D8%A9-%D8%A7%D9%84%D8%B9%D8%B3%D9%83%D8%B1%D9%8A%D8%A9",
+   "publisher": "Radio nationale tunisienne",
+   "source_type": "SECONDARY",
+   "publication_date": null,
+   "retrieved_at": "2026-10-07",
+   "confidence": "LOW",
+   "notes": "Relais presse : 90 techniciens supérieurs de la santé militaire au grade d'adjudant (وكيل, recrutement direct), niveau bac + 2 / licence, âge maximal 40 ans, date limite 30/10/2026, épreuve le 01/12/2026. PAGE NON OUVERTE (EGRESS_BLOCKED pour radionationale.tn) ; contenu connu via content/competitions/_openings.json (où ce concours est rattaché provisoirement à une famille santé/paramédical : risque de doublon à arbitrer)."
+  },
+  {
+   "key": "s5",
+   "title": "Loi de finances 2026 : répartition des recrutements par ministère (dépêche reprise par AllAfrica)",
+   "url": "https://fr.allafrica.com/stories/202510300467.html",
+   "publisher": "AllAfrica",
+   "source_type": "SECONDARY",
+   "publication_date": "2025-10-30",
+   "retrieved_at": "2026-10-07",
+   "confidence": "MEDIUM",
+   "notes": "Chiffre de 3 728 recrutements prévus en 2026 pour le ministère de la Défense nationale, relevé dans le résumé d'équipe docs/research/01-market-raw.md (ligne « By ministry », qui cite cette page et s8). Page non ouverte (EGRESS_BLOCKED). Le chiffre inclut tous les types de recrutement (militaires et civils) ; ventilation inconnue."
+  },
+  {
+   "key": "s6",
+   "title": "Défense : ouverture d'un concours externe pour le recrutement de 320 agents (ouvriers, sous-catégories 1, 3 et 5)",
+   "url": "https://www.lapresse.tn/2026/06/10/defense-ouverture-dun-concours-externe-pour-le-recrutement-de-320-agents/",
+   "publisher": "La Presse de Tunisie",
+   "source_type": "SECONDARY",
+   "publication_date": "2026-06-10",
+   "retrieved_at": "2026-10-07",
+   "confidence": "MEDIUM",
+   "notes": "Concours d'OUVRIERS CIVILS du ministère (320 postes, date limite 03/07/2026, épreuve 03/08/2026 selon _openings.json). Hors périmètre militaire de cette famille : cité uniquement dans research_notes. Page non ouverte (EGRESS_BLOCKED)."
+  },
+  {
+   "key": "s7",
+   "title": "Site officiel du ministère de la Défense nationale (Tunisie)",
+   "url": "https://www.defense.tn",
+   "publisher": "Ministère de la Défense nationale",
+   "source_type": "OFFICIAL",
+   "publication_date": null,
+   "retrieved_at": "2026-10-07",
+   "confidence": "LOW",
+   "notes": "Portail officiel où sont publiés les avis de recrutement (à notre connaissance, inscription en ligne via ce site). Page NON CONSULTÉE (WebFetch : EGRESS_BLOCKED pour www.defense.tn). Aucun fait de ce fichier n'en est tiré : référence à utiliser par l'équipe admin pour vérifier chaque élément."
+  },
+  {
+   "key": "s8",
+   "title": "Tunisie – Sécurité nationale : recrutements et achats d'hélicoptères pour 2026 [titre repris de l'URL]",
+   "url": "https://www.webdo.tn/fr/actualite/national/tunisie-securite-nationale-recrutements-et-achats-dhelicopteres-pour-2026/386885/",
+   "publisher": "Webdo",
+   "source_type": "SECONDARY",
+   "publication_date": null,
+   "retrieved_at": "2026-10-07",
+   "confidence": "LOW",
+   "notes": "Seconde source citée par le résumé d'équipe pour la répartition 2026 des recrutements par ministère (Défense : 3 728). Page non ouverte (EGRESS_BLOCKED). À relire pour savoir laquelle de s5 / s8 donne le chiffre Défense."
+  }
+ ],
+ "editions": [
+  {
+   "year": 2026,
+   "session_label": "تلامذة ضباط بالأكاديمية العسكرية والأكاديمية البحرية ومدرسة الطيران ببرج العامري – باكالوريا 2026 / Élèves officiers (Académie militaire, Académie navale, École de l'aviation de Borj El Amri) – bacheliers 2026",
+   "status": "CLOSED",
+   "registration_open": "2026-06-23",
+   "registration_deadline": "2026-07-19",
+   "exam_date": null,
+   "positions_count": null,
+   "candidates_count": null,
+   "source_key": "s1",
+   "confidence": "MEDIUM",
+   "needs_verification": true
+  },
+  {
+   "year": 2026,
+   "session_label": "تلامذة ضباط صف للتكوين في الاختصاصات شبه الطبية لفائدة الإدارة العامة للصحة العسكرية – باكالوريا 2026 / Élèves sous-officiers – spécialités paramédicales, santé militaire – bacheliers 2026",
+   "status": "CLOSED",
+   "registration_open": null,
+   "registration_deadline": "2026-07-19",
+   "exam_date": null,
+   "positions_count": null,
+   "candidates_count": null,
+   "source_key": "s2",
+   "confidence": "MEDIUM",
+   "needs_verification": true
+  },
+  {
+   "year": 2026,
+   "session_label": "تلامذة ضباط صف لفائدة جيش البر (فتيان وفتيات) 2026 / Élèves sous-officiers de l'Armée de terre (garçons et filles) 2026",
+   "status": "CLOSED",
+   "registration_open": null,
+   "registration_deadline": "2026-07-26",
+   "exam_date": null,
+   "positions_count": null,
+   "candidates_count": null,
+   "source_key": "s3",
+   "confidence": "LOW",
+   "needs_verification": true
+  },
+  {
+   "year": 2026,
+   "session_label": "انتداب 90 تقنيا ساميا للصحة العسكرية برتبة وكيل (انتداب مباشر) 2026 / 90 techniciens supérieurs de la santé militaire au grade d'adjudant (recrutement direct) 2026",
+   "status": "OPEN",
+   "registration_open": null,
+   "registration_deadline": "2026-10-30",
+   "exam_date": "2026-12-01",
+   "positions_count": 90,
+   "candidates_count": null,
+   "source_key": "s4",
+   "confidence": "LOW",
+   "needs_verification": true
+  },
+  {
+   "year": 2027,
+   "session_label": "[متوقع] تلامذة ضباط – باكالوريا 2027 (التسجيل يرجح في أواخر جوان–جويلية 2027) / [Attendu] Élèves officiers – bacheliers 2027 (inscription probable fin juin–juillet 2027)",
+   "status": "EXPECTED",
+   "registration_open": null,
+   "registration_deadline": null,
+   "exam_date": null,
+   "positions_count": null,
+   "candidates_count": null,
+   "source_key": null,
+   "confidence": "LOW",
+   "needs_verification": true
+  },
+  {
+   "year": 2027,
+   "session_label": "[متوقع] تلامذة ضباط صف (جيش البر والصحة العسكرية) – صائفة 2027 / [Attendu] Élèves sous-officiers (Armée de terre, santé militaire) – été 2027",
+   "status": "EXPECTED",
+   "registration_open": null,
+   "registration_deadline": null,
+   "exam_date": null,
+   "positions_count": null,
+   "candidates_count": null,
+   "source_key": null,
+   "confidence": "LOW",
+   "needs_verification": true
+  }
+ ],
+ "positions": [
+  {
+   "slug": "eleve-officier-academies-militaires",
+   "title_ar": "تلميذ ضابط (فتيان وفتيات) – الأكاديمية العسكرية بفندق الجديد، الأكاديمية البحرية بمنزل بورقيبة، مدرسة الطيران ببرج العامري",
+   "title_fr": "Élève officier (garçons et filles) – Académie militaire de Fondouk Jedid, Académie navale de Menzel Bourguiba, École de l'aviation de Borj El Amri",
+   "diploma_level": "BAC",
+   "eligibility": {
+    "min_age": 18,
+    "max_age": 23,
+    "genders": [
+     "M",
+     "F"
+    ],
+    "nationality": "TN",
+    "diplomas": [
+     "BAC"
+    ],
+    "specialties": [],
+    "min_height_cm_male": 167,
+    "min_height_cm_female": 160,
+    "marital_status": "SINGLE",
+    "other_ar": [
+     "النجاح في الباكالوريا دورة السنة الجارية (دورة 2026 بالنسبة إلى مناظرة 2026) حسب الصحافة: حاملو الباكالوريا من سنوات سابقة أو حاملو شهادات عليا غير معنيين على الأرجح.",
+     "الحصول على عدد لا يقل عن 12 من 20 في مادة التربية البدنية في امتحان الباكالوريا (حسب الصحافة).",
+     "أن يكون المترشح أعزب، وأن يكون سنه بين 18 و23 سنة (تاريخ احتساب السن غير معروف ويجب التثبت منه).",
+     "الطول الأدنى 1.67 م للذكور و1.60 م للإناث (حسب الصحافة).",
+     "[مقترح] الجنسية التونسية والتمتع بالحقوق المدنية وحسن السيرة: شروط عامة غير مقروءة في النص.",
+     "[مقترح] شعب الباكالوريا المقبولة والحد الأدنى لمجموع النقاط يختلفان حسب المسلك (مسالك هندسية، إجازات، دراسات طبية...) ويجب التثبت منها في البلاغ ودليل التوجيه الجامعي.",
+     "[مقترح] شروط طبية أكثر صرامة لمسلك الطيارين بمدرسة الطيران (قوة الإبصار دون نظارات، السمع، التوازن).",
+     "[مقترح] يرجح أن يمضي المقبول التزاما بالعمل في صفوف الجيش الوطني لمدة دنيا بعد التخرج، مع إرجاع مصاريف التكوين في صورة الاستقالة؛ المدة غير مؤكدة."
+    ],
+    "other_fr": [
+     "Avoir réussi le baccalauréat de l'année en cours (session 2026 pour le concours 2026) selon la presse : les bacheliers des années précédentes et les diplômés du supérieur ne sont probablement pas concernés.",
+     "Avoir obtenu au moins 12/20 en éducation physique à l'examen du baccalauréat (selon la presse).",
+     "Être célibataire et âgé de 18 à 23 ans (date de référence de l'âge inconnue, à vérifier).",
+     "Taille minimale de 1,67 m pour les garçons et 1,60 m pour les filles (selon la presse).",
+     "[Suggestion] Nationalité tunisienne, jouissance des droits civiques et bonne conduite : conditions générales non lues dans le texte.",
+     "[Suggestion] Les sections de bac admises et le score minimal varient selon la filière (ingénieurs, licences, études médicales…) : à vérifier dans l'avis et dans le guide d'orientation universitaire.",
+     "[Suggestion] Conditions médicales plus strictes pour la filière pilote de l'École de l'aviation (acuité visuelle sans correction, audition, équilibre).",
+     "[Suggestion] L'admis signe probablement un engagement à servir dans l'Armée nationale pendant une durée minimale après la sortie d'école, avec remboursement des frais de formation en cas de démission ; durée non confirmée."
+    ],
+    "source_key": "s1",
+    "confidence": "MEDIUM",
+    "needs_verification": true,
+    "source_quote": null
+   },
+   "phases": [
+    {
+     "order": 1,
+     "kind": "FILE_REVIEW",
+     "name_ar": "التسجيل عن بعد والانتقاء الأولي حسب الملف",
+     "name_fr": "Inscription en ligne et présélection sur dossier",
+     "is_eliminatory": true,
+     "duration_minutes": null,
+     "description_ar": "التسجيل في الآجال (من 23 جوان إلى 19 جويلية 2026 حسب الصحافة). [مقترح] يتم الانتقاء الأولي حسب مجموع نقاط الباكالوريا وشعبتها وعدد التربية البدنية، ويتم التسجيل عبر موقع وزارة الدفاع الوطني (المنصة غير مؤكدة).",
+     "description_fr": "Inscription dans les délais (23 juin – 19 juillet 2026 selon la presse). [Suggestion] Présélection selon le score du bac, la section et la note d'éducation physique ; inscription en ligne sur le site du ministère de la Défense nationale (plateforme non confirmée).",
+     "source_key": "s1",
+     "confidence": "MEDIUM",
+     "needs_verification": true
+    },
+    {
+     "order": 2,
+     "kind": "MEDICAL",
+     "name_ar": "الفحص الطبي والقيس",
+     "name_fr": "Visite médicale et mesures",
+     "is_eliminatory": true,
+     "duration_minutes": null,
+     "description_ar": "[مقترح] فحص طبي شامل لدى مصالح الصحة العسكرية (البصر، السمع، الأسنان، القلب، التحاليل) وقيس الطول. فحص خاص بالطيارين لمسلك الطيران.",
+     "description_fr": "[Suggestion] Visite médicale complète auprès du service de santé militaire (vue, audition, dentition, cœur, analyses) et mesure de la taille ; examen aéronautique spécifique pour la filière pilote.",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "order": 3,
+     "kind": "PHYSICAL",
+     "name_ar": "الاختبارات البدنية",
+     "name_fr": "Épreuves physiques",
+     "is_eliminatory": true,
+     "duration_minutes": null,
+     "description_ar": "[مقترح] اختبارات في السرعة والتحمل والقوة (وربما السباحة للأكاديمية البحرية). القائمة وسلم التنقيط غير منشورين.",
+     "description_fr": "[Suggestion] Épreuves de vitesse, d'endurance et de force (et peut-être natation pour l'Académie navale). Liste et barème non publiés.",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "order": 4,
+     "kind": "PSYCHOTECH",
+     "name_ar": "الاختبارات النفسية-التقنية",
+     "name_fr": "Tests psychotechniques",
+     "is_eliminatory": true,
+     "duration_minutes": null,
+     "description_ar": "[مقترح] اختبارات ذكاء واستدلال منطقي وانتباه وتوجه مكاني واستبيان شخصية، مع اختبارات قدرات خاصة لمسلك الطيارين.",
+     "description_fr": "[Suggestion] Tests de raisonnement logique, d'attention, d'orientation spatiale et questionnaire de personnalité, avec tests d'aptitudes spécifiques pour la filière pilote.",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "order": 5,
+     "kind": "INTERVIEW",
+     "name_ar": "المقابلة أمام لجنة",
+     "name_fr": "Entretien devant un jury",
+     "is_eliminatory": true,
+     "duration_minutes": null,
+     "description_ar": "[مقترح] مقابلة لتقييم الدوافع والشخصية والقدرة على التعبير والمعرفة بالمؤسسة العسكرية.",
+     "description_fr": "[Suggestion] Entretien évaluant la motivation, la personnalité, l'expression et la connaissance de l'institution militaire.",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "order": 6,
+     "kind": "TRAINING",
+     "name_ar": "التكوين بالمدرسة العسكرية",
+     "name_fr": "Formation en école militaire",
+     "is_eliminatory": false,
+     "duration_minutes": null,
+     "description_ar": "[مقترح] تكوين عسكري وجامعي متزامن (مسالك إجازة أو مهندسين أو دراسات طبية حسب الاختصاص) ينتهي بالتسمية برتبة ملازم. المدة تختلف حسب المسلك (3 إلى 5 سنوات تقريبا) ويجب التثبت منها.",
+     "description_fr": "[Suggestion] Formation militaire et universitaire simultanée (licence, ingénieur ou études médicales selon la filière), sanctionnée par la nomination au grade de sous-lieutenant. Durée variable selon la filière (environ 3 à 5 ans), à vérifier.",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    }
+   ],
+   "subjects": [
+    {
+     "phase_order": 4,
+     "domain": "PSYCHOTECH",
+     "specialty_key": null,
+     "name_ar": "اختبارات نفسية-تقنية: انتباه، ترميز، توجه مكاني، فهم ميكانيكي",
+     "name_fr": "Tests psychotechniques : attention, codage, orientation spatiale, compréhension mécanique",
+     "coefficient": null,
+     "duration_minutes": null,
+     "question_count": null,
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "phase_order": 4,
+     "domain": "LOGIC",
+     "specialty_key": null,
+     "name_ar": "الاستدلال المنطقي: متتاليات، مصفوفات، تماثلات",
+     "name_fr": "Raisonnement logique : suites, matrices, analogies",
+     "coefficient": null,
+     "duration_minutes": null,
+     "question_count": null,
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "phase_order": 4,
+     "domain": "NUMERICAL",
+     "specialty_key": null,
+     "name_ar": "الاستدلال العددي والحساب الذهني",
+     "name_fr": "Raisonnement numérique et calcul mental",
+     "coefficient": null,
+     "duration_minutes": null,
+     "question_count": null,
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "phase_order": 5,
+     "domain": "CULTURE_GENERALE",
+     "specialty_key": null,
+     "name_ar": "ثقافة عامة ومعرفة بتونس ومؤسساتها (تحضير للمقابلة)",
+     "name_fr": "Culture générale, Tunisie et institutions (préparation de l'entretien)",
+     "coefficient": null,
+     "duration_minutes": null,
+     "question_count": null,
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "phase_order": 5,
+     "domain": "SPECIALTY",
+     "specialty_key": "spec.armee-ecoles-militaires.institution",
+     "name_ar": "الجيش الوطني: المهام، التنظيم، الرتب، المدارس (تحضير للمقابلة)",
+     "name_fr": "Armée nationale : missions, organisation, grades, écoles (préparation de l'entretien)",
+     "coefficient": null,
+     "duration_minutes": null,
+     "question_count": null,
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "phase_order": 5,
+     "domain": "FRENCH",
+     "specialty_key": null,
+     "name_ar": "التعبير الشفوي باللغة الفرنسية",
+     "name_fr": "Expression orale en français",
+     "coefficient": null,
+     "duration_minutes": null,
+     "question_count": null,
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "phase_order": 5,
+     "domain": "ENGLISH",
+     "specialty_key": null,
+     "name_ar": "اللغة الإنجليزية (مفيدة خاصة لمسالك الطيران والبحرية)",
+     "name_fr": "Anglais (utile surtout pour l'aviation et la marine)",
+     "coefficient": null,
+     "duration_minutes": null,
+     "question_count": null,
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    }
+   ],
+   "physical_tests": [
+    {
+     "name_ar": "عدد التربية البدنية في الباكالوريا (شرط مسبق)",
+     "name_fr": "Note d'éducation physique au bac (condition préalable)",
+     "details_ar": "يشترط عدد لا يقل عن 12 من 20 في التربية البدنية في امتحان الباكالوريا (حسب الصحافة).",
+     "details_fr": "Note minimale de 12/20 en éducation physique à l'examen du baccalauréat (selon la presse).",
+     "source_key": "s1",
+     "confidence": "MEDIUM",
+     "needs_verification": true
+    },
+    {
+     "name_ar": "قيس الطول",
+     "name_fr": "Mesure de la taille",
+     "details_ar": "1.67 م على الأقل للذكور و1.60 م على الأقل للإناث (حسب الصحافة). يقاس الطول عادة يوم الفحص الطبي.",
+     "details_fr": "Au moins 1,67 m (garçons) et 1,60 m (filles) selon la presse ; mesure généralement prise lors de la visite médicale.",
+     "source_key": "s1",
+     "confidence": "MEDIUM",
+     "needs_verification": true
+    },
+    {
+     "name_ar": "الاختبارات البدنية الانتقائية",
+     "name_fr": "Épreuves physiques de sélection",
+     "details_ar": "[مقترح] يرجح أن تشمل جريا سريعا (60 إلى 100 م) وجريا للتحمل (1000 إلى 3000 م) وتمارين قوة (العقلة أو الانبطاح المائل، تمارين البطن) وربما السباحة للأكاديمية البحرية. لا يوجد سلم تنقيط منشور.",
+     "details_fr": "[Suggestion] Probablement une course de vitesse (60 à 100 m), une course d'endurance (1 000 à 3 000 m), des exercices de force (tractions ou pompes, abdominaux) et peut-être la natation pour l'Académie navale. Aucun barème publié.",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "name_ar": "تحضير مقترح",
+     "name_fr": "Préparation suggérée",
+     "details_ar": "اقتراح تدريبي فقط وليس سلما رسميا: 3 إلى 4 حصص أسبوعيا لمدة 8 أسابيع على الأقل قبل الاختبارات (جري تحمل، تمارين سرعة، تمارين قوة بوزن الجسم، سباحة عند الإمكان).",
+     "details_fr": "Suggestion d'entraînement uniquement, pas un barème officiel : 3 à 4 séances par semaine pendant au moins 8 semaines avant les épreuves (endurance, fractionné, renforcement au poids du corps, natation si possible).",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    }
+   ],
+   "required_documents": [
+    {
+     "text_ar": "التسجيل عن بعد عبر الموقع المحدد في بلاغ وزارة الدفاع الوطني وطباعة وصل/استمارة الترشح",
+     "text_fr": "Inscription en ligne sur le site indiqué dans l'avis du ministère de la Défense nationale et impression du reçu / formulaire de candidature",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "text_ar": "نسخة من بطاقة التعريف الوطنية",
+     "text_fr": "Copie de la carte d'identité nationale",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "text_ar": "كشف أعداد الباكالوريا أو شهادة النجاح (يظهر فيه عدد التربية البدنية)",
+     "text_fr": "Relevé de notes du bac ou attestation de réussite (faisant apparaître la note d'éducation physique)",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "text_ar": "مضمون ولادة حديث يثبت الحالة المدنية (أعزب)",
+     "text_fr": "Extrait de naissance récent attestant l'état civil (célibataire)",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "text_ar": "بطاقة السوابق العدلية (البطاقة عدد 3)",
+     "text_fr": "Bulletin n° 3 (extrait du casier judiciaire)",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "text_ar": "صور شمسية حديثة",
+     "text_fr": "Photos d'identité récentes",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    }
+   ],
+   "blueprint": {
+    "total_minutes": 115,
+    "fidelity": "APPROXIMATED",
+    "sections": [
+     {
+      "domain": "PSYCHOTECH",
+      "specialty_key": null,
+      "count": 40,
+      "minutes": 30
+     },
+     {
+      "domain": "LOGIC",
+      "specialty_key": null,
+      "count": 20,
+      "minutes": 20
+     },
+     {
+      "domain": "NUMERICAL",
+      "specialty_key": null,
+      "count": 15,
+      "minutes": 20
+     },
+     {
+      "domain": "FRENCH",
+      "specialty_key": null,
+      "count": 15,
+      "minutes": 15
+     },
+     {
+      "domain": "ENGLISH",
+      "specialty_key": null,
+      "count": 10,
+      "minutes": 10
+     },
+     {
+      "domain": "CULTURE_GENERALE",
+      "specialty_key": null,
+      "count": 15,
+      "minutes": 10
+     },
+     {
+      "domain": "SPECIALTY",
+      "specialty_key": "spec.armee-ecoles-militaires.institution",
+      "count": 10,
+      "minutes": 10
+     }
+    ]
+   }
+  },
+  {
+   "slug": "eleve-sous-officier-armee-de-terre",
+   "title_ar": "تلميذ ضابط صف (فتيان وفتيات) لفائدة جيش البر",
+   "title_fr": "Élève sous-officier (garçons et filles) – Armée de terre",
+   "diploma_level": "SECONDARY",
+   "eligibility": {
+    "min_age": 18,
+    "max_age": 23,
+    "genders": [
+     "M",
+     "F"
+    ],
+    "nationality": "TN",
+    "diplomas": [
+     "SECONDARY"
+    ],
+    "specialties": [],
+    "min_height_cm_male": null,
+    "min_height_cm_female": null,
+    "marital_status": null,
+    "other_ar": [
+     "السن بين 18 و23 سنة، والمناظرة مفتوحة للفتيان والفتيات (حسب إعلان 2026 المنشور بموقع Orientini).",
+     "[مقترح] المستوى الدراسي المطلوب غير مذكور في الملخص المتوفر: يرجح مستوى السنة الرابعة ثانوي أو الباكالوريا حسب الاختصاص. تم اعتماد «مستوى ثانوي» كحد أدنى حتى لا يقصى أحد من التنبيهات.",
+     "[مقترح] يرجح اشتراط العزوبية وطول أدنى قريب من شروط تلامذة الضباط (1.67 م / 1.60 م)، وهي غير مؤكدة ولم تدرج في الحقول الآلية.",
+     "[مقترح] الجنسية التونسية، حسن السيرة، والقدرة البدنية.",
+     "[مقترح] قد تنظم مناظرات مماثلة لتلامذة ضباط صف لفائدة جيش الطيران وجيش البحر بشروط قريبة."
+    ],
+    "other_fr": [
+     "Âge de 18 à 23 ans ; concours ouvert aux garçons et aux filles (selon l'annonce 2026 relayée par Orientini).",
+     "[Suggestion] Le niveau d'études exigé ne figure pas dans le résumé disponible : probablement niveau 4e année secondaire ou bac selon la spécialité. « Niveau secondaire » est retenu comme minimum pour n'exclure personne des alertes.",
+     "[Suggestion] Célibat et taille minimale proches des conditions des élèves officiers (1,67 m / 1,60 m) probables mais non confirmés : non intégrés aux champs automatiques.",
+     "[Suggestion] Nationalité tunisienne, bonne conduite et aptitude physique.",
+     "[Suggestion] Des concours similaires d'élèves sous-officiers peuvent exister pour l'Armée de l'air et la Marine nationale avec des conditions proches."
+    ],
+    "source_key": "s3",
+    "confidence": "LOW",
+    "needs_verification": true,
+    "source_quote": null
+   },
+   "phases": [
+    {
+     "order": 1,
+     "kind": "FILE_REVIEW",
+     "name_ar": "التسجيل والانتقاء الأولي",
+     "name_fr": "Inscription et présélection",
+     "is_eliminatory": true,
+     "duration_minutes": null,
+     "description_ar": "آخر أجل للتسجيل 26 جويلية 2026 (حسب Orientini). [مقترح] انتقاء أولي حسب الملف والمستوى الدراسي.",
+     "description_fr": "Date limite d'inscription : 26 juillet 2026 (selon Orientini). [Suggestion] Présélection sur dossier et niveau d'études.",
+     "source_key": "s3",
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "order": 2,
+     "kind": "WRITTEN",
+     "name_ar": "اختبار كتابي في المستوى (غير مؤكد)",
+     "name_fr": "Épreuve écrite de niveau (non confirmée)",
+     "is_eliminatory": true,
+     "duration_minutes": null,
+     "description_ar": "[مقترح] قد يجتاز المترشحون اختبارا كتابيا في المستوى العام (عربية، فرنسية، رياضيات، ثقافة عامة). وجوده ومحتواه غير مؤكدين.",
+     "description_fr": "[Suggestion] Les candidats peuvent passer un test écrit de niveau général (arabe, français, mathématiques, culture générale). Existence et contenu non confirmés.",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "order": 3,
+     "kind": "MEDICAL",
+     "name_ar": "الفحص الطبي",
+     "name_fr": "Visite médicale",
+     "is_eliminatory": true,
+     "duration_minutes": null,
+     "description_ar": "[مقترح] فحص طبي شامل وقيس الطول لدى مصالح الصحة العسكرية.",
+     "description_fr": "[Suggestion] Visite médicale complète et mesure de la taille auprès du service de santé militaire.",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "order": 4,
+     "kind": "PHYSICAL",
+     "name_ar": "الاختبارات البدنية",
+     "name_fr": "Épreuves physiques",
+     "is_eliminatory": true,
+     "duration_minutes": null,
+     "description_ar": "[مقترح] جري سرعة وتحمل وتمارين قوة. القائمة وسلم التنقيط غير منشورين.",
+     "description_fr": "[Suggestion] Course de vitesse et d'endurance, exercices de force. Liste et barème non publiés.",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "order": 5,
+     "kind": "PSYCHOTECH",
+     "name_ar": "الاختبارات النفسية-التقنية والمقابلة",
+     "name_fr": "Tests psychotechniques et entretien",
+     "is_eliminatory": true,
+     "duration_minutes": null,
+     "description_ar": "[مقترح] اختبارات انتباه واستدلال ومقابلة لتقييم الدوافع.",
+     "description_fr": "[Suggestion] Tests d'attention et de raisonnement, entretien de motivation.",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "order": 6,
+     "kind": "TRAINING",
+     "name_ar": "التكوين بمدرسة ضباط الصف",
+     "name_fr": "Formation en école de sous-officiers",
+     "is_eliminatory": false,
+     "duration_minutes": null,
+     "description_ar": "[مقترح] تكوين عسكري وتقني في اختصاص يحدده الجيش، ينتهي بالتسمية برتبة ضابط صف (رقيب على الأرجح). المدة والمدرسة غير مؤكدتين.",
+     "description_fr": "[Suggestion] Formation militaire et technique dans une spécialité fixée par l'armée, sanctionnée par la nomination comme sous-officier (probablement sergent). Durée et école non confirmées.",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    }
+   ],
+   "subjects": [
+    {
+     "phase_order": 2,
+     "domain": "ARABIC",
+     "specialty_key": null,
+     "name_ar": "اللغة العربية: فهم نص وقواعد",
+     "name_fr": "Arabe : compréhension et grammaire",
+     "coefficient": null,
+     "duration_minutes": null,
+     "question_count": null,
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "phase_order": 2,
+     "domain": "FRENCH",
+     "specialty_key": null,
+     "name_ar": "اللغة الفرنسية: فهم وقواعد",
+     "name_fr": "Français : compréhension et grammaire",
+     "coefficient": null,
+     "duration_minutes": null,
+     "question_count": null,
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "phase_order": 2,
+     "domain": "NUMERICAL",
+     "specialty_key": null,
+     "name_ar": "رياضيات المستوى الثانوي والحساب",
+     "name_fr": "Mathématiques de niveau secondaire et calcul",
+     "coefficient": null,
+     "duration_minutes": null,
+     "question_count": null,
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "phase_order": 2,
+     "domain": "CULTURE_GENERALE",
+     "specialty_key": null,
+     "name_ar": "ثقافة عامة",
+     "name_fr": "Culture générale",
+     "coefficient": null,
+     "duration_minutes": null,
+     "question_count": null,
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "phase_order": 5,
+     "domain": "PSYCHOTECH",
+     "specialty_key": null,
+     "name_ar": "اختبارات نفسية-تقنية",
+     "name_fr": "Tests psychotechniques",
+     "coefficient": null,
+     "duration_minutes": null,
+     "question_count": null,
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "phase_order": 5,
+     "domain": "LOGIC",
+     "specialty_key": null,
+     "name_ar": "الاستدلال المنطقي",
+     "name_fr": "Raisonnement logique",
+     "coefficient": null,
+     "duration_minutes": null,
+     "question_count": null,
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "phase_order": 5,
+     "domain": "SPECIALTY",
+     "specialty_key": "spec.armee-ecoles-militaires.institution",
+     "name_ar": "الجيش الوطني: المهام والرتب والانضباط (تحضير للمقابلة)",
+     "name_fr": "Armée nationale : missions, grades, discipline (préparation de l'entretien)",
+     "coefficient": null,
+     "duration_minutes": null,
+     "question_count": null,
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    }
+   ],
+   "physical_tests": [
+    {
+     "name_ar": "الاختبارات البدنية الانتقائية",
+     "name_fr": "Épreuves physiques de sélection",
+     "details_ar": "[مقترح] يرجح أن تشمل جري سرعة وجري تحمل وتمارين قوة (العقلة أو الانبطاح المائل، تمارين البطن). لا يوجد سلم منشور.",
+     "details_fr": "[Suggestion] Probablement course de vitesse, course d'endurance et exercices de force (tractions ou pompes, abdominaux). Aucun barème publié.",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "name_ar": "تحضير مقترح",
+     "name_fr": "Préparation suggérée",
+     "details_ar": "اقتراح تدريبي فقط: جري 2000 إلى 3000 م بانتظام، تمارين سرعة قصيرة، تمارين بوزن الجسم 3 مرات أسبوعيا.",
+     "details_fr": "Suggestion d'entraînement uniquement : courir régulièrement 2 000 à 3 000 m, sprints courts, renforcement au poids du corps 3 fois par semaine.",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    }
+   ],
+   "required_documents": [
+    {
+     "text_ar": "التسجيل حسب الطريقة المحددة في بلاغ وزارة الدفاع الوطني (عن بعد على الأرجح)",
+     "text_fr": "Inscription selon la modalité indiquée dans l'avis du ministère (probablement en ligne)",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "text_ar": "نسخة من بطاقة التعريف الوطنية",
+     "text_fr": "Copie de la carte d'identité nationale",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "text_ar": "شهادة مدرسية أو كشف أعداد يثبت المستوى الدراسي",
+     "text_fr": "Certificat de scolarité ou relevé de notes attestant le niveau d'études",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "text_ar": "مضمون ولادة حديث",
+     "text_fr": "Extrait de naissance récent",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "text_ar": "بطاقة السوابق العدلية (البطاقة عدد 3)",
+     "text_fr": "Bulletin n° 3",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    }
+   ],
+   "blueprint": {
+    "total_minutes": 110,
+    "fidelity": "APPROXIMATED",
+    "sections": [
+     {
+      "domain": "PSYCHOTECH",
+      "specialty_key": null,
+      "count": 30,
+      "minutes": 25
+     },
+     {
+      "domain": "LOGIC",
+      "specialty_key": null,
+      "count": 15,
+      "minutes": 15
+     },
+     {
+      "domain": "NUMERICAL",
+      "specialty_key": null,
+      "count": 15,
+      "minutes": 20
+     },
+     {
+      "domain": "ARABIC",
+      "specialty_key": null,
+      "count": 15,
+      "minutes": 15
+     },
+     {
+      "domain": "FRENCH",
+      "specialty_key": null,
+      "count": 10,
+      "minutes": 10
+     },
+     {
+      "domain": "CULTURE_GENERALE",
+      "specialty_key": null,
+      "count": 15,
+      "minutes": 15
+     },
+     {
+      "domain": "SPECIALTY",
+      "specialty_key": "spec.armee-ecoles-militaires.institution",
+      "count": 10,
+      "minutes": 10
+     }
+    ]
+   }
+  },
+  {
+   "slug": "eleve-sous-officier-paramedical-sante-militaire",
+   "title_ar": "تلميذ ضابط صف (فتيان وفتيات) للتكوين في الاختصاصات شبه الطبية لفائدة الإدارة العامة للصحة العسكرية",
+   "title_fr": "Élève sous-officier (garçons et filles) – formation en spécialités paramédicales pour la Direction générale de la santé militaire",
+   "diploma_level": "BAC",
+   "eligibility": {
+    "min_age": null,
+    "max_age": null,
+    "genders": [
+     "M",
+     "F"
+    ],
+    "nationality": "TN",
+    "diplomas": [
+     "BAC"
+    ],
+    "specialties": [],
+    "min_height_cm_male": null,
+    "min_height_cm_female": null,
+    "marital_status": null,
+    "other_ar": [
+     "النجاح في باكالوريا 2026 (دورة السنة الجارية) والمناظرة مفتوحة للفتيان والفتيات (حسب الصحافة).",
+     "التكوين يتوج بشهادة إجازة في اختصاص شبه طبي (حسب عنوان الإعلان).",
+     "[مقترح] يرجح أن تكون شروط السن والعزوبية والطول قريبة من شروط تلامذة الضباط (18 إلى 23 سنة، أعزب)، لكنها غير مقروءة ولم تدرج في الحقول الآلية.",
+     "[مقترح] الشعب المقبولة يرجح أن تكون علمية (علوم تجريبية، رياضيات...)، ويجب التثبت منها.",
+     "[مقترح] التزام بالعمل في صفوف الجيش لمدة دنيا بعد التخرج."
+    ],
+    "other_fr": [
+     "Avoir réussi le bac 2026 (session de l'année) ; concours ouvert aux garçons et aux filles (selon la presse).",
+     "La formation débouche sur une licence dans une spécialité paramédicale (selon l'intitulé de l'avis).",
+     "[Suggestion] Âge, célibat et taille probablement proches des conditions des élèves officiers (18–23 ans, célibataire), mais non lus : non intégrés aux champs automatiques.",
+     "[Suggestion] Sections de bac admises probablement scientifiques (sciences expérimentales, mathématiques…), à vérifier.",
+     "[Suggestion] Engagement à servir dans l'armée pendant une durée minimale après le diplôme."
+    ],
+    "source_key": "s2",
+    "confidence": "MEDIUM",
+    "needs_verification": true,
+    "source_quote": null
+   },
+   "phases": [
+    {
+     "order": 1,
+     "kind": "FILE_REVIEW",
+     "name_ar": "التسجيل والانتقاء الأولي حسب الباكالوريا",
+     "name_fr": "Inscription et présélection sur le bac",
+     "is_eliminatory": true,
+     "duration_minutes": null,
+     "description_ar": "آخر أجل 19 جويلية 2026 (حسب الصحافة). [مقترح] انتقاء أولي حسب مجموع النقاط والشعبة.",
+     "description_fr": "Date limite : 19 juillet 2026 (selon la presse). [Suggestion] Présélection selon le score et la section du bac.",
+     "source_key": "s2",
+     "confidence": "MEDIUM",
+     "needs_verification": true
+    },
+    {
+     "order": 2,
+     "kind": "MEDICAL",
+     "name_ar": "الفحص الطبي",
+     "name_fr": "Visite médicale",
+     "is_eliminatory": true,
+     "duration_minutes": null,
+     "description_ar": "[مقترح] فحص طبي شامل لدى مصالح الصحة العسكرية.",
+     "description_fr": "[Suggestion] Visite médicale complète auprès du service de santé militaire.",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "order": 3,
+     "kind": "PHYSICAL",
+     "name_ar": "الاختبارات البدنية",
+     "name_fr": "Épreuves physiques",
+     "is_eliminatory": true,
+     "duration_minutes": null,
+     "description_ar": "[مقترح] اختبارات سرعة وتحمل وقوة؛ سلم التنقيط غير منشور.",
+     "description_fr": "[Suggestion] Épreuves de vitesse, d'endurance et de force ; barème non publié.",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "order": 4,
+     "kind": "PSYCHOTECH",
+     "name_ar": "الاختبارات النفسية-التقنية",
+     "name_fr": "Tests psychotechniques",
+     "is_eliminatory": true,
+     "duration_minutes": null,
+     "description_ar": "[مقترح] اختبارات انتباه واستدلال وشخصية.",
+     "description_fr": "[Suggestion] Tests d'attention, de raisonnement et de personnalité.",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "order": 5,
+     "kind": "INTERVIEW",
+     "name_ar": "المقابلة",
+     "name_fr": "Entretien",
+     "is_eliminatory": true,
+     "duration_minutes": null,
+     "description_ar": "[مقترح] مقابلة لتقييم الدوافع والاهتمام بالمهن الصحية.",
+     "description_fr": "[Suggestion] Entretien de motivation et d'intérêt pour les métiers de la santé.",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "order": 6,
+     "kind": "TRAINING",
+     "name_ar": "التكوين الجامعي والعسكري (إجازة شبه طبية)",
+     "name_fr": "Formation universitaire et militaire (licence paramédicale)",
+     "is_eliminatory": false,
+     "duration_minutes": null,
+     "description_ar": "التكوين يتوج بإجازة في اختصاص شبه طبي (حسب العنوان). [مقترح] المؤسسة والمدة (3 سنوات على الأرجح) والرتبة عند التخرج يجب التثبت منها.",
+     "description_fr": "Formation sanctionnée par une licence paramédicale (selon l'intitulé). [Suggestion] Établissement, durée (probablement 3 ans) et grade à la sortie à vérifier.",
+     "source_key": "s2",
+     "confidence": "MEDIUM",
+     "needs_verification": true
+    }
+   ],
+   "subjects": [
+    {
+     "phase_order": 4,
+     "domain": "PSYCHOTECH",
+     "specialty_key": null,
+     "name_ar": "اختبارات نفسية-تقنية",
+     "name_fr": "Tests psychotechniques",
+     "coefficient": null,
+     "duration_minutes": null,
+     "question_count": null,
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "phase_order": 4,
+     "domain": "LOGIC",
+     "specialty_key": null,
+     "name_ar": "الاستدلال المنطقي",
+     "name_fr": "Raisonnement logique",
+     "coefficient": null,
+     "duration_minutes": null,
+     "question_count": null,
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "phase_order": 4,
+     "domain": "NUMERICAL",
+     "specialty_key": null,
+     "name_ar": "الاستدلال العددي",
+     "name_fr": "Raisonnement numérique",
+     "coefficient": null,
+     "duration_minutes": null,
+     "question_count": null,
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "phase_order": 5,
+     "domain": "FRENCH",
+     "specialty_key": null,
+     "name_ar": "التعبير باللغة الفرنسية (لغة الدراسة شبه الطبية)",
+     "name_fr": "Expression en français (langue des études paramédicales)",
+     "coefficient": null,
+     "duration_minutes": null,
+     "question_count": null,
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "phase_order": 5,
+     "domain": "SPECIALTY",
+     "specialty_key": "spec.armee-ecoles-militaires.institution",
+     "name_ar": "الجيش الوطني والصحة العسكرية (تحضير للمقابلة)",
+     "name_fr": "Armée nationale et santé militaire (préparation de l'entretien)",
+     "coefficient": null,
+     "duration_minutes": null,
+     "question_count": null,
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    }
+   ],
+   "physical_tests": [
+    {
+     "name_ar": "الاختبارات البدنية الانتقائية",
+     "name_fr": "Épreuves physiques de sélection",
+     "details_ar": "[مقترح] يرجح أن تشمل جري سرعة وتحمل وتمارين قوة. لا يوجد سلم منشور.",
+     "details_fr": "[Suggestion] Probablement course de vitesse, endurance et exercices de force. Aucun barème publié.",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    }
+   ],
+   "required_documents": [
+    {
+     "text_ar": "التسجيل حسب الطريقة المحددة في بلاغ وزارة الدفاع الوطني",
+     "text_fr": "Inscription selon la modalité indiquée dans l'avis du ministère",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "text_ar": "نسخة من بطاقة التعريف الوطنية",
+     "text_fr": "Copie de la carte d'identité nationale",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "text_ar": "كشف أعداد الباكالوريا 2026",
+     "text_fr": "Relevé de notes du bac 2026",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "text_ar": "مضمون ولادة حديث",
+     "text_fr": "Extrait de naissance récent",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "text_ar": "بطاقة السوابق العدلية (البطاقة عدد 3)",
+     "text_fr": "Bulletin n° 3",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    }
+   ],
+   "blueprint": {
+    "total_minutes": 100,
+    "fidelity": "APPROXIMATED",
+    "sections": [
+     {
+      "domain": "PSYCHOTECH",
+      "specialty_key": null,
+      "count": 30,
+      "minutes": 25
+     },
+     {
+      "domain": "LOGIC",
+      "specialty_key": null,
+      "count": 15,
+      "minutes": 15
+     },
+     {
+      "domain": "NUMERICAL",
+      "specialty_key": null,
+      "count": 15,
+      "minutes": 15
+     },
+     {
+      "domain": "FRENCH",
+      "specialty_key": null,
+      "count": 15,
+      "minutes": 15
+     },
+     {
+      "domain": "ARABIC",
+      "specialty_key": null,
+      "count": 10,
+      "minutes": 10
+     },
+     {
+      "domain": "CULTURE_GENERALE",
+      "specialty_key": null,
+      "count": 10,
+      "minutes": 10
+     },
+     {
+      "domain": "SPECIALTY",
+      "specialty_key": "spec.armee-ecoles-militaires.institution",
+      "count": 10,
+      "minutes": 10
+     }
+    ]
+   }
+  },
+  {
+   "slug": "technicien-superieur-sante-militaire-adjudant",
+   "title_ar": "تقني سام للصحة العسكرية برتبة وكيل (انتداب مباشر) – الإدارة العامة للصحة العسكرية",
+   "title_fr": "Technicien supérieur de la santé militaire au grade d'adjudant (recrutement direct) – Direction générale de la santé militaire",
+   "diploma_level": "BAC_PLUS_2",
+   "eligibility": {
+    "min_age": null,
+    "max_age": 40,
+    "genders": [
+     "M",
+     "F"
+    ],
+    "nationality": "TN",
+    "diplomas": [
+     "BAC_PLUS_2"
+    ],
+    "specialties": [
+     "infirm",
+     "paramedical",
+     "sante",
+     "anesthes",
+     "radiolog",
+     "imagerie",
+     "laboratoire",
+     "biologie medicale",
+     "kinesitherap",
+     "sage-femme",
+     "obstetri",
+     "تمريض",
+     "شبه طبي",
+     "صحة",
+     "تخدير",
+     "أشعة",
+     "مخبر"
+    ],
+    "min_height_cm_male": null,
+    "min_height_cm_female": null,
+    "marital_status": null,
+    "other_ar": [
+     "شهادة من مستوى باكالوريا + 2 أو إجازة، والسن الأقصى 40 سنة (حسب الصحافة). عدد الخطط: 90.",
+     "آخر أجل للترشح 30 أكتوبر 2026 والاختبار يوم 1 ديسمبر 2026 (حسب الصحافة).",
+     "[مقترح] الشهادات المطلوبة في اختصاصات شبه طبية (تمريض، تخدير وإنعاش، تصوير طبي، مخابر، ...)؛ قائمة الاختصاصات وعدد الخطط لكل اختصاص يجب التثبت منهما. الكلمات المفتاحية في حقل الاختصاصات مقترحة للمطابقة فقط.",
+     "[مقترح] جنس المترشحين غير مذكور في الملخص: تم اعتبار المناظرة مفتوحة للجنسين.",
+     "[مقترح] الجنسية التونسية، حسن السيرة، القدرة البدنية والطبية على الخدمة العسكرية."
+    ],
+    "other_fr": [
+     "Diplôme de niveau bac + 2 ou licence ; âge maximal 40 ans (selon la presse). 90 postes.",
+     "Date limite de candidature : 30 octobre 2026 ; épreuve le 1er décembre 2026 (selon la presse).",
+     "[Suggestion] Diplômes exigés dans des spécialités paramédicales (soins infirmiers, anesthésie-réanimation, imagerie médicale, laboratoire…) ; liste des spécialités et répartition des 90 postes à vérifier. Les mots-clés du champ « specialties » sont des suggestions pour le matching.",
+     "[Suggestion] Sexe des candidats non précisé dans le résumé : concours considéré ouvert aux deux sexes.",
+     "[Suggestion] Nationalité tunisienne, bonne conduite, aptitude physique et médicale au service militaire."
+    ],
+    "source_key": "s4",
+    "confidence": "LOW",
+    "needs_verification": true,
+    "source_quote": null
+   },
+   "phases": [
+    {
+     "order": 1,
+     "kind": "FILE_REVIEW",
+     "name_ar": "إيداع الترشح ودراسة الملف",
+     "name_fr": "Dépôt de candidature et étude du dossier",
+     "is_eliminatory": true,
+     "duration_minutes": null,
+     "description_ar": "آخر أجل 30 أكتوبر 2026 (حسب الصحافة). [مقترح] طريقة الإيداع (عن بعد أو بالبريد) يجب التثبت منها في البلاغ.",
+     "description_fr": "Date limite : 30 octobre 2026 (selon la presse). [Suggestion] Modalité de dépôt (en ligne ou par courrier) à vérifier dans l'avis.",
+     "source_key": "s4",
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "order": 2,
+     "kind": "WRITTEN",
+     "name_ar": "الاختبار الكتابي",
+     "name_fr": "Épreuve écrite",
+     "is_eliminatory": true,
+     "duration_minutes": null,
+     "description_ar": "اختبار يوم 1 ديسمبر 2026 (حسب الصحافة). [مقترح] يرجح أن يكون في الاختصاص شبه الطبي؛ المدة والضوارب غير منشورة.",
+     "description_fr": "Épreuve le 1er décembre 2026 (selon la presse). [Suggestion] Probablement dans la spécialité paramédicale ; durée et coefficients non publiés.",
+     "source_key": "s4",
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "order": 3,
+     "kind": "MEDICAL",
+     "name_ar": "الفحص الطبي",
+     "name_fr": "Visite médicale",
+     "is_eliminatory": true,
+     "duration_minutes": null,
+     "description_ar": "[مقترح] فحص طبي للقدرة على الخدمة العسكرية.",
+     "description_fr": "[Suggestion] Visite médicale d'aptitude au service militaire.",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "order": 4,
+     "kind": "PHYSICAL",
+     "name_ar": "الاختبارات البدنية",
+     "name_fr": "Épreuves physiques",
+     "is_eliminatory": true,
+     "duration_minutes": null,
+     "description_ar": "[مقترح] اختبارات بدنية مكيفة؛ وجودها غير مؤكد.",
+     "description_fr": "[Suggestion] Épreuves physiques adaptées ; existence non confirmée.",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "order": 5,
+     "kind": "INTERVIEW",
+     "name_ar": "المقابلة أو الاختبار الشفاهي",
+     "name_fr": "Entretien ou épreuve orale",
+     "is_eliminatory": true,
+     "duration_minutes": null,
+     "description_ar": "[مقترح] مقابلة حول الاختصاص والدوافع.",
+     "description_fr": "[Suggestion] Entretien sur la spécialité et la motivation.",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "order": 6,
+     "kind": "TRAINING",
+     "name_ar": "التكوين العسكري الأساسي",
+     "name_fr": "Formation militaire de base",
+     "is_eliminatory": false,
+     "duration_minutes": null,
+     "description_ar": "[مقترح] تكوين عسكري أساسي قبل المباشرة بالمستشفيات والوحدات العسكرية.",
+     "description_fr": "[Suggestion] Formation militaire de base avant affectation dans les hôpitaux et unités militaires.",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    }
+   ],
+   "subjects": [
+    {
+     "phase_order": 2,
+     "domain": "SPECIALTY",
+     "specialty_key": "spec.sante",
+     "name_ar": "اختبار كتابي في الاختصاص شبه الطبي (علاجات، صحة عمومية، نظافة استشفائية)",
+     "name_fr": "Épreuve écrite de spécialité paramédicale (soins, santé publique, hygiène hospitalière)",
+     "coefficient": null,
+     "duration_minutes": null,
+     "question_count": null,
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "phase_order": 2,
+     "domain": "CULTURE_GENERALE",
+     "specialty_key": null,
+     "name_ar": "ثقافة عامة (غير مؤكد)",
+     "name_fr": "Culture générale (non confirmée)",
+     "coefficient": null,
+     "duration_minutes": null,
+     "question_count": null,
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "phase_order": 2,
+     "domain": "FRENCH",
+     "specialty_key": null,
+     "name_ar": "اللغة الفرنسية المهنية (غير مؤكد)",
+     "name_fr": "Français professionnel (non confirmé)",
+     "coefficient": null,
+     "duration_minutes": null,
+     "question_count": null,
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "phase_order": 5,
+     "domain": "SPECIALTY",
+     "specialty_key": "spec.armee-ecoles-militaires.institution",
+     "name_ar": "الصحة العسكرية والجيش الوطني (تحضير للمقابلة)",
+     "name_fr": "Santé militaire et Armée nationale (préparation de l'entretien)",
+     "coefficient": null,
+     "duration_minutes": null,
+     "question_count": null,
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    }
+   ],
+   "physical_tests": [
+    {
+     "name_ar": "اختبارات بدنية محتملة",
+     "name_fr": "Épreuves physiques éventuelles",
+     "details_ar": "[مقترح] لم يذكر الملخص أي اختبار بدني؛ يستحسن الاستعداد بجري تحمل وتمارين قوة خفيفة.",
+     "details_fr": "[Suggestion] Le résumé ne mentionne aucune épreuve physique ; il est prudent de se préparer (endurance, renforcement léger).",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    }
+   ],
+   "required_documents": [
+    {
+     "text_ar": "مطلب ترشح أو استمارة حسب البلاغ",
+     "text_fr": "Demande de candidature ou formulaire selon l'avis",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "text_ar": "نسخة من الشهادة العلمية (باكالوريا + 2 أو إجازة) وكشوف الأعداد",
+     "text_fr": "Copie du diplôme (bac + 2 ou licence) et relevés de notes",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "text_ar": "نسخة من بطاقة التعريف الوطنية",
+     "text_fr": "Copie de la carte d'identité nationale",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "text_ar": "بطاقة السوابق العدلية (البطاقة عدد 3)",
+     "text_fr": "Bulletin n° 3",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "text_ar": "شهائد الخبرة المهنية إن وجدت",
+     "text_fr": "Attestations d'expérience professionnelle le cas échéant",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    }
+   ],
+   "blueprint": {
+    "total_minutes": 110,
+    "fidelity": "APPROXIMATED",
+    "sections": [
+     {
+      "domain": "SPECIALTY",
+      "specialty_key": "spec.sante",
+      "count": 40,
+      "minutes": 60
+     },
+     {
+      "domain": "FRENCH",
+      "specialty_key": null,
+      "count": 15,
+      "minutes": 15
+     },
+     {
+      "domain": "CULTURE_GENERALE",
+      "specialty_key": null,
+      "count": 10,
+      "minutes": 10
+     },
+     {
+      "domain": "PSYCHOTECH",
+      "specialty_key": null,
+      "count": 20,
+      "minutes": 15
+     },
+     {
+      "domain": "SPECIALTY",
+      "specialty_key": "spec.armee-ecoles-militaires.institution",
+      "count": 10,
+      "minutes": 10
+     }
+    ]
+   }
+  },
+  {
+   "slug": "soldat-volontaire",
+   "title_ar": "جندي متطوع بالجيش الوطني (التطوع) – [مقترح، للتثبت]",
+   "title_fr": "Soldat volontaire (engagé) de l'Armée nationale – [suggestion, à vérifier]",
+   "diploma_level": "PRIMARY",
+   "eligibility": {
+    "min_age": 18,
+    "max_age": 25,
+    "genders": [
+     "M",
+     "F"
+    ],
+    "nationality": "TN",
+    "diplomas": [
+     "PRIMARY"
+    ],
+    "specialties": [],
+    "min_height_cm_male": null,
+    "min_height_cm_female": null,
+    "marital_status": null,
+    "other_ar": [
+     "[مقترح بالكامل] لم نتمكن من الاطلاع على أي بلاغ حديث للتطوع: السن (18 إلى 25 سنة) والمستوى الدراسي (ابتدائي فما فوق) وفتح الباب للإناث كلها تقديرات واسعة لتفادي إقصاء المعنيين من التنبيهات.",
+     "[مقترح] يرجح أن يتم التسجيل لدى مكاتب التجنيد والتعبئة أو مراكز الخدمة الوطنية بالولايات أو عن بعد عبر موقع الوزارة، وأن يمضي المتطوع عقد التزام لمدة محددة.",
+     "[مقترح] لا يجب الخلط بين التطوع والخدمة الوطنية الإجبارية (الخدمة العسكرية)، فهي ليست مناظرة.",
+     "[مقترح] الجنسية التونسية، حسن السيرة، الأهلية الطبية والبدنية."
+    ],
+    "other_fr": [
+     "[Entièrement suggéré] Aucun avis récent d'engagement volontaire n'a pu être consulté : l'âge (18 à 25 ans), le niveau (primaire et plus) et l'ouverture aux femmes sont des estimations larges pour ne pas exclure les personnes concernées des alertes.",
+     "[Suggestion] Inscription probablement auprès des bureaux régionaux de recrutement et de mobilisation / centres du service national, ou en ligne sur le site du ministère ; signature d'un contrat d'engagement à durée déterminée.",
+     "[Suggestion] Ne pas confondre l'engagement volontaire avec le service national obligatoire, qui n'est pas un concours.",
+     "[Suggestion] Nationalité tunisienne, bonne conduite, aptitude médicale et physique."
+    ],
+    "source_key": null,
+    "confidence": "LOW",
+    "needs_verification": true,
+    "source_quote": null
+   },
+   "phases": [
+    {
+     "order": 1,
+     "kind": "FILE_REVIEW",
+     "name_ar": "التسجيل ودراسة الملف",
+     "name_fr": "Inscription et étude du dossier",
+     "is_eliminatory": true,
+     "duration_minutes": null,
+     "description_ar": "[مقترح] التسجيل حسب البلاغ (مكتب التجنيد بالولاية أو عن بعد).",
+     "description_fr": "[Suggestion] Inscription selon l'avis (bureau de recrutement du gouvernorat ou en ligne).",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "order": 2,
+     "kind": "MEDICAL",
+     "name_ar": "الفحص الطبي",
+     "name_fr": "Visite médicale",
+     "is_eliminatory": true,
+     "duration_minutes": null,
+     "description_ar": "[مقترح] فحص طبي للقدرة على الخدمة العسكرية.",
+     "description_fr": "[Suggestion] Visite médicale d'aptitude au service militaire.",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "order": 3,
+     "kind": "PHYSICAL",
+     "name_ar": "الاختبارات البدنية",
+     "name_fr": "Épreuves physiques",
+     "is_eliminatory": true,
+     "duration_minutes": null,
+     "description_ar": "[مقترح] جري وتمارين قوة؛ لا يوجد سلم منشور.",
+     "description_fr": "[Suggestion] Course et exercices de force ; aucun barème publié.",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "order": 4,
+     "kind": "PSYCHOTECH",
+     "name_ar": "اختبار نفسي-تقني بسيط ومقابلة",
+     "name_fr": "Test psychotechnique simple et entretien",
+     "is_eliminatory": true,
+     "duration_minutes": null,
+     "description_ar": "[مقترح] اختبار انتباه وفهم ومقابلة قصيرة.",
+     "description_fr": "[Suggestion] Test d'attention et de compréhension, court entretien.",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "order": 5,
+     "kind": "TRAINING",
+     "name_ar": "التدريب الأساسي للجندي",
+     "name_fr": "Instruction de base du soldat",
+     "is_eliminatory": false,
+     "duration_minutes": null,
+     "description_ar": "[مقترح] تدريب عسكري أساسي لبضعة أشهر بمركز تدريب.",
+     "description_fr": "[Suggestion] Instruction militaire de base de quelques mois dans un centre d'instruction.",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    }
+   ],
+   "subjects": [
+    {
+     "phase_order": 4,
+     "domain": "PSYCHOTECH",
+     "specialty_key": null,
+     "name_ar": "اختبارات انتباه وترميز",
+     "name_fr": "Tests d'attention et de codage",
+     "coefficient": null,
+     "duration_minutes": null,
+     "question_count": null,
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "phase_order": 4,
+     "domain": "ARABIC",
+     "specialty_key": null,
+     "name_ar": "فهم نص بسيط باللغة العربية",
+     "name_fr": "Compréhension d'un texte simple en arabe",
+     "coefficient": null,
+     "duration_minutes": null,
+     "question_count": null,
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "phase_order": 4,
+     "domain": "NUMERICAL",
+     "specialty_key": null,
+     "name_ar": "حساب أساسي",
+     "name_fr": "Calcul de base",
+     "coefficient": null,
+     "duration_minutes": null,
+     "question_count": null,
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "phase_order": 4,
+     "domain": "SPECIALTY",
+     "specialty_key": "spec.armee-ecoles-militaires.institution",
+     "name_ar": "الجيش الوطني: الرتب والانضباط",
+     "name_fr": "Armée nationale : grades et discipline",
+     "coefficient": null,
+     "duration_minutes": null,
+     "question_count": null,
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    }
+   ],
+   "physical_tests": [
+    {
+     "name_ar": "تحضير بدني مقترح",
+     "name_fr": "Préparation physique suggérée",
+     "details_ar": "اقتراح تدريبي فقط: جري تحمل 2000 إلى 3000 م، الانبطاح المائل، تمارين البطن والعقلة، 3 حصص أسبوعيا.",
+     "details_fr": "Suggestion d'entraînement uniquement : endurance 2 000 à 3 000 m, pompes, abdominaux et tractions, 3 séances par semaine.",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    }
+   ],
+   "required_documents": [
+    {
+     "text_ar": "نسخة من بطاقة التعريف الوطنية",
+     "text_fr": "Copie de la carte d'identité nationale",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "text_ar": "شهادة مدرسية تثبت المستوى الدراسي",
+     "text_fr": "Certificat attestant le niveau scolaire",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "text_ar": "مضمون ولادة وبطاقة السوابق العدلية (البطاقة عدد 3)",
+     "text_fr": "Extrait de naissance et bulletin n° 3",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "text_ar": "وثيقة الوضعية إزاء الخدمة الوطنية إن وجدت",
+     "text_fr": "Document de situation vis-à-vis du service national, le cas échéant",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    }
+   ],
+   "blueprint": {
+    "total_minutes": 75,
+    "fidelity": "APPROXIMATED",
+    "sections": [
+     {
+      "domain": "PSYCHOTECH",
+      "specialty_key": null,
+      "count": 20,
+      "minutes": 15
+     },
+     {
+      "domain": "ARABIC",
+      "specialty_key": null,
+      "count": 15,
+      "minutes": 15
+     },
+     {
+      "domain": "NUMERICAL",
+      "specialty_key": null,
+      "count": 10,
+      "minutes": 15
+     },
+     {
+      "domain": "CULTURE_GENERALE",
+      "specialty_key": null,
+      "count": 10,
+      "minutes": 10
+     },
+     {
+      "domain": "LOGIC",
+      "specialty_key": null,
+      "count": 10,
+      "minutes": 10
+     },
+     {
+      "domain": "SPECIALTY",
+      "specialty_key": "spec.armee-ecoles-militaires.institution",
+      "count": 10,
+      "minutes": 10
+     }
+    ]
+   }
+  }
+ ],
+ "specialty_syllabus": [
+  {
+   "key": "spec.armee-ecoles-militaires.institution",
+   "parent_key": null,
+   "level": "UNIT",
+   "title_ar": "الجيش الوطني ووزارة الدفاع الوطني: المؤسسة والمهام والرتب",
+   "title_fr": "Armée nationale et ministère de la Défense nationale : institution, missions et grades",
+   "scope": "SUGGESTED",
+   "source_key": null,
+   "objectives": [
+    {
+     "key": "spec.armee-ecoles-militaires.institution.o1",
+     "text_ar": "التعرف على مكونات الجيش الوطني (جيش البر، جيش الطيران، جيش البحر) والإدارة العامة للصحة العسكرية وموقعها ضمن وزارة الدفاع الوطني",
+     "text_fr": "Connaître les composantes de l'Armée nationale (Armée de terre, Armée de l'air, Marine nationale) et la Direction générale de la santé militaire au sein du ministère de la Défense nationale"
+    },
+    {
+     "key": "spec.armee-ecoles-militaires.institution.o2",
+     "text_ar": "معرفة مهام الجيش: الدفاع عن حرمة التراب الوطني، مساندة السلط المدنية عند الكوارث والأزمات، المساهمة في التنمية وفي عمليات حفظ السلام",
+     "text_fr": "Connaître les missions de l'armée : défense de l'intégrité du territoire, appui aux autorités civiles lors de catastrophes et crises, contribution au développement et aux opérations de maintien de la paix"
+    },
+    {
+     "key": "spec.armee-ecoles-militaires.institution.o3",
+     "text_ar": "تمييز المسارات: جندي، ضابط صف، ضابط، والرتبة عند التخرج لكل مسار",
+     "text_fr": "Distinguer les parcours soldat, sous-officier et officier, et le grade de sortie de chacun"
+    }
+   ]
+  },
+  {
+   "key": "spec.armee-ecoles-militaires.institution.grades",
+   "parent_key": "spec.armee-ecoles-militaires.institution",
+   "level": "TOPIC",
+   "title_ar": "التسلسل الهرمي للرتب العسكرية",
+   "title_fr": "Hiérarchie des grades militaires",
+   "scope": "SUGGESTED",
+   "source_key": null,
+   "objectives": [
+    {
+     "key": "spec.armee-ecoles-militaires.institution.grades.o1",
+     "text_ar": "ترتيب رتب الجيش من الجندي إلى الفريق: جندي، عريف، عريف أول، رقيب، رقيب أول، وكيل، وكيل أول، ملازم، ملازم أول، نقيب، رائد، مقدم، عقيد، عميد، أمير لواء، فريق (للتثبت، مع اختلاف التسميات في جيش البحر)",
+     "text_fr": "Ordonner les grades de soldat à général : soldat, caporal, caporal-chef, sergent, sergent-chef, adjudant, adjudant-chef, sous-lieutenant, lieutenant, capitaine, commandant, lieutenant-colonel, colonel, général de brigade, général de division, général de corps d'armée (à vérifier ; appellations différentes dans la Marine)"
+    },
+    {
+     "key": "spec.armee-ecoles-militaires.institution.grades.o2",
+     "text_ar": "التمييز بين فئات العسكريين: رجال الجيش، ضباط الصف، الضباط",
+     "text_fr": "Distinguer les catégories : hommes du rang, sous-officiers, officiers"
+    }
+   ]
+  },
+  {
+   "key": "spec.armee-ecoles-militaires.institution.missions-organisation",
+   "parent_key": "spec.armee-ecoles-militaires.institution",
+   "level": "TOPIC",
+   "title_ar": "مهام الجيش الوطني وتنظيمه وقيمه",
+   "title_fr": "Missions, organisation et valeurs de l'Armée nationale",
+   "scope": "SUGGESTED",
+   "source_key": null,
+   "objectives": [
+    {
+     "key": "spec.armee-ecoles-militaires.institution.missions-organisation.o1",
+     "text_ar": "شرح مبدأ الجيش الجمهوري المحايد والملتزم بالانضباط كما يكرسه الدستور (الفصل المعني للتثبت)",
+     "text_fr": "Expliquer le principe d'une armée républicaine, neutre et disciplinée consacré par la Constitution (article à vérifier)"
+    },
+    {
+     "key": "spec.armee-ecoles-militaires.institution.missions-organisation.o2",
+     "text_ar": "ذكر أمثلة على مساهمة الجيش في التنمية والإغاثة (مثال: مشروع رجيم معتوق، التدخل عند الفيضانات والحرائق)",
+     "text_fr": "Citer des exemples de contribution de l'armée au développement et aux secours (ex. projet de Régim Maâtoug, interventions lors d'inondations et d'incendies)"
+    },
+    {
+     "key": "spec.armee-ecoles-militaires.institution.missions-organisation.o3",
+     "text_ar": "فهم قيم الانضباط والطاعة والتضامن وحب الوطن وكيفية التعبير عنها في المقابلة",
+     "text_fr": "Comprendre les valeurs de discipline, d'obéissance, de solidarité et de patriotisme et savoir les exprimer en entretien"
+    }
+   ]
+  },
+  {
+   "key": "spec.armee-ecoles-militaires.institution.ecoles-formation",
+   "parent_key": "spec.armee-ecoles-militaires.institution",
+   "level": "TOPIC",
+   "title_ar": "المدارس العسكرية ومسارات التكوين",
+   "title_fr": "Écoles militaires et parcours de formation",
+   "scope": "SUGGESTED",
+   "source_key": null,
+   "objectives": [
+    {
+     "key": "spec.armee-ecoles-militaires.institution.ecoles-formation.o1",
+     "text_ar": "التعرف على الأكاديمية العسكرية بفندق الجديد والأكاديمية البحرية بمنزل بورقيبة ومدرسة الطيران ببرج العامري ومهام كل منها",
+     "text_fr": "Connaître l'Académie militaire de Fondouk Jedid, l'Académie navale de Menzel Bourguiba et l'École de l'aviation de Borj El Amri et la vocation de chacune"
+    },
+    {
+     "key": "spec.armee-ecoles-militaires.institution.ecoles-formation.o2",
+     "text_ar": "فهم الجمع بين التكوين العسكري والتكوين الجامعي (إجازة، مهندس، دراسات طبية وشبه طبية) والالتزام بالخدمة بعد التخرج",
+     "text_fr": "Comprendre l'articulation entre formation militaire et formation universitaire (licence, ingénieur, études médicales et paramédicales) et l'engagement de servir après la sortie"
+    }
+   ]
+  },
+  {
+   "key": "spec.armee-ecoles-militaires.preparation",
+   "parent_key": null,
+   "level": "UNIT",
+   "title_ar": "التحضير للاختبارات الانتقائية: البدنية والنفسية-التقنية والمقابلة",
+   "title_fr": "Préparation aux épreuves de sélection : physique, psychotechnique et entretien",
+   "scope": "SUGGESTED",
+   "source_key": null,
+   "objectives": [
+    {
+     "key": "spec.armee-ecoles-militaires.preparation.o1",
+     "text_ar": "تخطيط برنامج تحضير بدني من 8 أسابيع على الأقل (تحمل، سرعة، قوة، سباحة)",
+     "text_fr": "Planifier une préparation physique d'au moins 8 semaines (endurance, vitesse, force, natation)"
+    },
+    {
+     "key": "spec.armee-ecoles-militaires.preparation.o2",
+     "text_ar": "التدرب على اختبارات الانتباه والتوجه المكاني والاستدلال تحت ضغط الوقت",
+     "text_fr": "S'entraîner aux tests d'attention, d'orientation spatiale et de raisonnement sous contrainte de temps"
+    }
+   ]
+  },
+  {
+   "key": "spec.armee-ecoles-militaires.preparation.entretien",
+   "parent_key": "spec.armee-ecoles-militaires.preparation",
+   "level": "TOPIC",
+   "title_ar": "مقابلة الانتقاء العسكري",
+   "title_fr": "Entretien de sélection militaire",
+   "scope": "SUGGESTED",
+   "source_key": null,
+   "objectives": [
+    {
+     "key": "spec.armee-ecoles-militaires.preparation.entretien.o1",
+     "text_ar": "تقديم النفس في دقيقتين وشرح دوافع اختيار المسار العسكري والمدرسة المطلوبة",
+     "text_fr": "Se présenter en deux minutes et expliquer ses motivations pour la carrière militaire et l'école visée"
+    },
+    {
+     "key": "spec.armee-ecoles-militaires.preparation.entretien.o2",
+     "text_ar": "الإجابة بهدوء عن أسئلة حول الانضباط والعمل الجماعي والبعد عن العائلة والتنقل",
+     "text_fr": "Répondre calmement aux questions sur la discipline, le travail en équipe, l'éloignement familial et la mobilité"
+    }
+   ]
+  },
+  {
+   "key": "spec.armee-ecoles-militaires.preparation.aptitudes-aeronautiques",
+   "parent_key": "spec.armee-ecoles-militaires.preparation",
+   "level": "TOPIC",
+   "title_ar": "قدرات خاصة بمسلك الطيارين",
+   "title_fr": "Aptitudes spécifiques à la filière pilote",
+   "scope": "SUGGESTED",
+   "source_key": null,
+   "objectives": [
+    {
+     "key": "spec.armee-ecoles-militaires.preparation.aptitudes-aeronautiques.o1",
+     "text_ar": "التدرب على التوجه المكاني وقراءة المؤشرات وتعدد المهام والتنسيق بين اليد والعين",
+     "text_fr": "S'entraîner à l'orientation spatiale, à la lecture d'instruments, au multitâche et à la coordination œil-main"
+    }
+   ]
+  }
+ ],
+ "past_exams": [],
+ "tips_ar": [
+  "تابع بلاغات وزارة الدفاع الوطني على موقعها الرسمي وصفحتها الرسمية على فيسبوك بداية من الإعلان عن نتائج الدورة الرئيسية للباكالوريا (أواخر جوان)، لأن آجال التسجيل في مناظرات تلامذة الضباط وضباط الصف قصيرة (من 3 إلى 4 أسابيع).",
+  "سجل فقط عبر المنصة المذكورة في البلاغ الرسمي، واحذر من الصفحات التي تطلب مالا مقابل «التسجيل» أو «ضمان القبول»: الانتداب في الجيش لا يتم عبر وسطاء.",
+  "قبل الترشح كتلميذ ضابط تثبت من عددك في التربية البدنية في الباكالوريا (12 من 20 على الأقل في 2026) ومن طولك (1.67 م / 1.60 م) لأنهما شرطان مقصيان.",
+  "ابدأ التحضير البدني قبل الباكالوريا بشهرين على الأقل: جري تحمل 3 مرات أسبوعيا، تمارين سرعة، العقلة والانبطاح المائل وتمارين البطن، والسباحة إن كنت تستهدف الأكاديمية البحرية.",
+  "إن كنت تستهدف مسلك الطيارين بمدرسة الطيران ببرج العامري فقم بفحص للبصر والسمع مسبقا، فالشروط الطبية أكثر صرامة.",
+  "تدرب على الاختبارات النفسية-التقنية (متتاليات، مصفوفات، ترميز، توجه مكاني) في ظروف زمنية حقيقية، فهي غالبا محددة بالوقت.",
+  "حضر للمقابلة: تقديم نفسك، دوافعك، معرفة الرتب ومهام الجيش ومدارسه، واستعدادك للانضباط والتنقل.",
+  "اجمع وثائقك مبكرا: بطاقة التعريف، كشف أعداد الباكالوريا، مضمون ولادة حديث، البطاقة عدد 3 (تستغرق أياما)، صور شمسية.",
+  "حاملو شهادات شبه طبية: مناظرة 90 تقنيا ساميا للصحة العسكرية مفتوحة إلى غاية 30 أكتوبر 2026 حسب الصحافة؛ تثبت من النص الرسمي قبل الإيداع."
+ ],
+ "tips_fr": [
+  "Suivez les avis du ministère de la Défense nationale sur son site officiel et sa page Facebook officielle dès la proclamation des résultats du bac (fin juin) : les délais d'inscription des concours d'élèves officiers et sous-officiers sont courts (3 à 4 semaines).",
+  "Inscrivez-vous uniquement via la plateforme citée dans l'avis officiel et méfiez-vous des pages qui demandent de l'argent pour « l'inscription » ou une « admission garantie » : le recrutement militaire ne passe pas par des intermédiaires.",
+  "Avant de candidater comme élève officier, vérifiez votre note d'éducation physique au bac (au moins 12/20 en 2026) et votre taille (1,67 m / 1,60 m) : ce sont des conditions éliminatoires.",
+  "Commencez la préparation physique au moins deux mois avant le bac : endurance 3 fois par semaine, sprints, tractions, pompes, abdominaux, et natation si vous visez l'Académie navale.",
+  "Si vous visez la filière pilote de l'École de l'aviation de Borj El Amri, faites contrôler votre vue et votre audition à l'avance : les exigences médicales y sont plus strictes.",
+  "Entraînez-vous aux tests psychotechniques (suites, matrices, codage, orientation spatiale) en temps réel : ils sont généralement chronométrés.",
+  "Préparez l'entretien : présentation, motivation, connaissance des grades, des missions et des écoles de l'armée, disponibilité pour la discipline et la mobilité.",
+  "Rassemblez vos documents tôt : CIN, relevé de notes du bac, extrait de naissance récent, bulletin n° 3 (plusieurs jours de délai), photos.",
+  "Diplômés paramédicaux : le concours de 90 techniciens supérieurs de la santé militaire est ouvert jusqu'au 30 octobre 2026 selon la presse ; vérifiez le texte officiel avant de déposer."
+ ],
+ "research_notes": "LIMITE MÉTHODOLOGIQUE MAJEURE (2026-10-07) : le quota WebSearch partagé était épuisé dès la première requête de cette passe et WebFetch est refusé par le proxy (EGRESS_BLOCKED) pour tous les domaines essayés : fr.allafrica.com, www.orientini.com, www.defense.tn, www.lapresse.tn, fr.wikipedia.org, www.radionationale.tn, www.tuniscope.com, www.webmanagercenter.com, www.tunisienumerique.com. AUCUNE page n'a été lue directement et aucun avis officiel n'a pu être consulté. Les faits non suggérés proviennent uniquement des résumés de moteur de recherche consignés le même jour par l'équipe dans docs/research/01-market-raw.md (section Défense) et content/competitions/_openings.json (sources s1 à s6, s8). C'est pourquoi TOUS les faits portent needs_verification=true et aucun source_quote n'est renseigné.\n\nREPRIS DES RÉSUMÉS (confiance MEDIUM/LOW, à recouper) : (1) élèves officiers 2026 (s1) : Académie militaire, Académie navale, École de l'aviation de Borj El Amri ; garçons et filles ; bacheliers 2026 ; célibataires ; 18–23 ans ; 1,67 m / 1,60 m ; EP au bac ≥ 12/20 ; inscription 23/06–19/07/2026. (2) élèves sous-officiers paramédicaux santé militaire 2026 (s2) : bacheliers 2026, garçons et filles, licence paramédicale, date limite 19/07/2026. (3) élèves sous-officiers Armée de terre 2026 (s3) : garçons et filles, 18–23 ans, date limite 26/07/2026. (4) 90 techniciens supérieurs santé militaire, grade d'adjudant, recrutement direct (s4) : bac+2/licence, ≤ 40 ans, date limite 30/10/2026, épreuve 01/12/2026 — ACTUELLEMENT OUVERT, priorité de vérification pour les alertes ; ce concours figure aussi dans _openings.json avec family_slug_guess « sante-paramedical » : arbitrer le doublon éventuel. (5) LF 2026 : environ 3 728 recrutements pour la Défense (s5/s8, tous types confondus).\n\nÀ VÉRIFIER EN PRIORITÉ sur l'avis officiel (defense.tn, page Facebook officielle du ministère, JORT) : nombre de places par école et par filière ; nombre de candidats (jamais trouvé) ; date de référence de l'âge ; plateforme d'inscription exacte ; sections de bac admises et score minimal ; ordre et contenu des phases (présélection, médical, physique, psychotechnique, entretien) ; barèmes sportifs ; durée de formation et grade de sortie ; durée de l'engagement et clause de remboursement ; niveau d'études, taille et célibat pour les sous-officiers de l'Armée de terre ; âge et taille pour les paramédicaux ; liste des spécialités des 90 techniciens supérieurs, contenu de l'écrit, sexe admis ; existence de concours d'élèves sous-officiers Armée de l'air / Marine et d'élèves officiers médecins/pharmaciens.\n\nSUGGESTIONS ÉDITORIALES (confiance LOW, source_key null) : toutes les phases marquées [Suggestion], toutes les épreuves physiques au-delà de l'EP ≥ 12/20 et de la taille, toutes les pièces du dossier, tous les blueprints (fidelity APPROXIMATED : il n'y a pas d'écrit académique connu pour les écoles, les blueprints servent d'entraînement psychotechnique / culture / entretien), tout le specialty_syllabus (scope SUGGESTED, y compris la hiérarchie des grades citée de mémoire), la position « soldat volontaire » en entier (âge 18–25, niveau primaire, ouverture aux femmes : estimations larges), les éditions 2027 (EXPECTED). Localisations des écoles (Fondouk Jedid, Menzel Bourguiba, Borj El Amri) et site www.defense.tn cités de connaissance générale, non vérifiés ici. Éditions 2023–2025 : aucune donnée collectée (non créées pour ne rien inventer) ; le concours des élèves officiers est très probablement annuel.\n\nHORS PÉRIMÈTRE mais utile pour les alertes : concours de 320 ouvriers civils (sous-catégories 1, 3, 5) du ministère de la Défense 2026 (s6, date limite 03/07/2026, épreuve 03/08/2026) ; Office de développement de Régim Maâtoug (8 postes techniques, date limite 09/10/2026, dans _openings.json). Non modélisés comme positions de cette famille militaire.\n\nANNALES : aucune annale officielle ni communautaire vérifiable repérée (past_exams vide) ; les tests psychotechniques militaires ne sont pas publiés. À rechercher : groupes Facebook de candidats « مناظرة تلامذة ضباط » / « الأكاديمية العسكرية ».\n\nPOUR LE MATCHING / NOTIFICATIONS : élèves officiers = BAC, 18–23, M/F, 167/160 cm, SINGLE (le critère « bac de l'année » reste en texte libre) ; sous-officiers Armée de terre = SECONDARY minimum, 18–23, M/F, sans taille ni célibat (non confirmés) ; paramédicaux = BAC, âge null (non lu) ; techniciens supérieurs = BAC_PLUS_2 minimum, ≤ 40 ans, mots-clés de spécialités paramédicales (suggestion) ; soldat volontaire = PRIMARY, 18–25 (suggestion large)."
+}

@@ -1,11 +1,12 @@
 import { Module } from '@nestjs/common';
+import { TutorController } from './tutor.controller';
+import { TutorService } from './tutor.service';
 
-
-/** Tutor module — see docs/api-contract.md for its endpoints. */
+/** Tutor module — POST /tutor/explain (see docs/api-contract.md). Uses the global EntitlementsService and AiService. */
 @Module({
   imports: [],
-  controllers: [],
-  providers: [],
+  controllers: [TutorController],
+  providers: [TutorService],
   exports: [],
 })
 export class TutorModule {}

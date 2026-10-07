@@ -1,0 +1,3732 @@
+{
+  "family": {
+    "slug": "enseignement-secondaire",
+    "field": "EDUCATION",
+    "organization": {
+      "slug": "ministere-education",
+      "name_ar": "وزارة التربية",
+      "name_fr": "Ministère de l'Éducation",
+      "ministry_fr": "Ministère de l'Éducation",
+      "website": "https://www.education.gov.tn"
+    },
+    "name_ar": "مناظرات انتداب أساتذة التعليم الثانوي (الإعداديات والمعاهد)",
+    "name_fr": "Concours de recrutement des professeurs de l'enseignement secondaire (collèges et lycées)",
+    "description_ar": "مناظرة خارجية بالاختبارات تنظمها وزارة التربية لانتداب أساتذة التعليم الثانوي الذين يدرّسون بالمدارس الإعدادية والمعاهد. حسب الصحافة (لابراس، فيفري وماي 2026) عادت المناظرة في 2026 بعد سنوات من الانقطاع بـ1630 خطة (منها رياضيات 390، عربية 320، علوم فيزيائية 185، تربية إسلامية 180، تكنولوجيا 165، تاريخ وجغرافيا 95)، مع تسجيل عن بعد عبر edunet.tn إلى غاية 14 مارس 2026، واختبار كتابي في الربيع اجتازه 66125 مترشحا (نحو 41 مترشحا للخطة الواحدة)، ثم اختبار شفاهي في أوت 2026. تنبيه: هذه الأرقام منقولة عن الصحافة ولم تتم مطابقتها بعد مع البلاغ الرسمي، وصيغة الاختبارات (المواد، المدة، الضوارب) وشروط السن والشهادات المقبولة مقترحة وتحتاج إلى تثبت.",
+    "description_fr": "Concours externe sur épreuves organisé par le ministère de l'Éducation pour recruter des professeurs de l'enseignement secondaire (collèges et lycées). Selon la presse (La Presse, février et mai 2026), le concours est revenu en 2026 après plusieurs années d'interruption avec 1 630 postes (dont maths 390, arabe 320, sciences physiques 185, éducation islamique 180, technologie 165, histoire-géographie 95), inscription en ligne sur edunet.tn jusqu'au 14/03/2026, un écrit au printemps passé par 66 125 candidats (~41 candidats par poste) puis un oral en août 2026. Attention : ces chiffres viennent de la presse et n'ont pas encore été recoupés avec l'avis officiel ; le format des épreuves (matières, durées, coefficients), la limite d'âge et la liste des diplômes admis sont SUGGÉRÉS et doivent être vérifiés.",
+    "frequency": "IRREGULAR",
+    "frequency_confidence": "LOW",
+    "popularity": 5,
+    "keywords": [
+      "مناظرة الأساتذة",
+      "مناظرة انتداب أساتذة",
+      "أساتذة التعليم الثانوي",
+      "أستاذ تعليم ثانوي",
+      "انتداب أساتذة 2026",
+      "الكاباس",
+      "مناظرة الكاباس",
+      "وزارة التربية",
+      "التعليم الإعدادي",
+      "المعاهد الثانوية",
+      "أستاذ رياضيات",
+      "أستاذ عربية",
+      "أستاذ فيزياء",
+      "أستاذ تربية إسلامية",
+      "أستاذ تكنولوجيا",
+      "أستاذ تاريخ وجغرافيا",
+      "أستاذ فرنسية",
+      "أستاذ إنجليزية",
+      "أستاذ إعلامية",
+      "أستاذ علوم الحياة والأرض",
+      "أستاذ اقتصاد وتصرف",
+      "علوم التربية",
+      "تعلمية",
+      "ديداكتيك",
+      "CAPES",
+      "CAPES Tunisie",
+      "concours enseignants",
+      "concours professeurs secondaire",
+      "recrutement enseignants 2026",
+      "professeur de l'enseignement secondaire",
+      "ministère de l'Éducation",
+      "edunet",
+      "1630 postes",
+      "concours externe sur épreuves",
+      "collège",
+      "lycée"
+    ]
+  },
+  "sources": [
+    {
+      "key": "s1",
+      "title": "Tunisie : concours externe pour 1 630 postes d'enseignants en 2026 (La Presse, 25/02/2026)",
+      "url": "https://www.lapresse.tn/2026/02/25/tunisie-concours-externe-pour-1-630-postes-denseignants-en-2026/",
+      "publisher": "La Presse de Tunisie",
+      "source_type": "SECONDARY",
+      "publication_date": "2026-02-25",
+      "retrieved_at": "2026-10-07",
+      "confidence": "MEDIUM",
+      "notes": "Article relayant l'annonce du ministère de l'Éducation. PAGE NON OUVERTE dans cette passe (WebFetch bloqué par le proxy du conteneur, quota WebSearch épuisé dès la première requête). Les faits repris (1 630 postes ; répartition maths 390, arabe 320, sciences physiques 185, éducation islamique 180, technologie 165, histoire-géographie 95 ; inscription sur edunet.tn jusqu'au 14/03/2026) proviennent du résumé consigné le même jour dans docs/research/01-market-raw.md, qui cite ensemble s1, s2 et s3 : l'attribution exacte de chaque chiffre à l'un des trois articles est approximative. Titre reconstitué à partir de l'URL. À relire et à recouper avec l'avis officiel (education.gov.tn)."
+    },
+    {
+      "key": "s2",
+      "title": "66 125 candidats ont passé le concours de recrutement des enseignants au titre de 2026 (La Presse, 18/05/2026)",
+      "url": "https://www.lapresse.tn/2026/05/18/66125-candidats-ont-passe-le-concours-de-recrutement-des-enseignants-au-titre-de-2026/",
+      "publisher": "La Presse de Tunisie",
+      "source_type": "SECONDARY",
+      "publication_date": "2026-05-18",
+      "retrieved_at": "2026-10-07",
+      "confidence": "MEDIUM",
+      "notes": "Article sur le déroulement de l'écrit 2026 : 66 125 candidats présents, oral prévu en août 2026 (selon le résumé de docs/research/01-market-raw.md). PAGE NON OUVERTE (proxy). Titre reconstitué à partir de l'URL. Date exacte de l'écrit non confirmée : le résumé de recherche indique le 13/04/2026, alors que content/competitions/_openings.json indique le 17/05/2026 (cohérent avec un article paru le 18/05 disant que les candidats « ont passé » l'épreuve)."
+    },
+    {
+      "key": "s3",
+      "title": "أكثر من 60 ألف مترشح يجتازون مناظرة انتداب أساتذة (موزاييك أف أم)",
+      "url": "https://www.mosaiquefm.net/mobile/ar/تونس-وطنية/1516980/أكثر-من-60-ألف-مترشح-يجتازون-مناظرة-انتداب-أساتذة",
+      "publisher": "Mosaïque FM",
+      "source_type": "SECONDARY",
+      "publication_date": null,
+      "retrieved_at": "2026-10-07",
+      "confidence": "MEDIUM",
+      "notes": "Second relais du nombre de candidats à l'écrit 2026 (« plus de 60 000 »). PAGE NON OUVERTE (proxy) ; titre reconstitué à partir de l'URL ; date de publication inconnue (probablement avril-mai 2026)."
+    },
+    {
+      "key": "s4",
+      "title": "Budget de l'État 2026 : répartition des recrutements par ministère (AllAfrica, ~30/10/2025)",
+      "url": "https://fr.allafrica.com/stories/202510300467.html",
+      "publisher": "AllAfrica",
+      "source_type": "SECONDARY",
+      "publication_date": null,
+      "retrieved_at": "2026-10-07",
+      "confidence": "LOW",
+      "notes": "Utilisé uniquement pour le contexte : environ 18 079 recrutements prévus pour le ministère de l'Éducation dans le budget 2026 (toutes catégories confondues, y compris probablement régularisations/intégrations d'enseignants suppléants). Chiffre repris du résumé docs/research/01-market-raw.md ; page non ouverte (proxy) ; titre non connu exactement (reconstitué)."
+    }
+  ],
+  "editions": [
+    {
+      "year": 2026,
+      "session_label": "مناظرة خارجية بالاختبارات لانتداب 1630 أستاذا للتعليم الثانوي بعنوان سنة 2026 (تسجيل عبر edunet.tn إلى 14 مارس 2026، كتابي في الربيع — 13 أفريل أو 17 ماي حسب الملاحظات، شفاهي في أوت 2026) / Concours externe sur épreuves : 1 630 professeurs de l'enseignement secondaire au titre de 2026 (inscription sur edunet.tn jusqu'au 14/03/2026 ; écrit au printemps — 13/04 ou 17/05 selon les notes ; oral en août 2026)",
+      "status": "EXAM_DONE",
+      "registration_open": null,
+      "registration_deadline": "2026-03-14",
+      "exam_date": null,
+      "positions_count": 1630,
+      "candidates_count": 66125,
+      "source_key": "s2",
+      "confidence": "MEDIUM",
+      "needs_verification": true
+    }
+  ],
+  "positions": [
+    {
+      "slug": "prof-mathematiques",
+      "title_ar": "أستاذ التعليم الثانوي — الرياضيات",
+      "title_fr": "Professeur de l'enseignement secondaire — Mathématiques",
+      "diploma_level": "LICENCE",
+      "eligibility": {
+        "min_age": null,
+        "max_age": null,
+        "genders": [
+          "M",
+          "F"
+        ],
+        "nationality": "TN",
+        "diplomas": [
+          "LICENCE",
+          "MASTER",
+          "DOCTORATE"
+        ],
+        "specialties": [
+          "رياضيات",
+          "الرياضيات",
+          "رياضيات تطبيقية",
+          "Mathématiques",
+          "Mathematiques appliquées",
+          "Maths",
+          "Mathematics"
+        ],
+        "min_height_cm_male": null,
+        "min_height_cm_female": null,
+        "marital_status": null,
+        "other_ar": [
+          "عدد الخطط المفتوحة لهذه المادة في دورة 2026: 390 من جملة 1630 (حسب ملخص مقالات صحفية — للتثبت من البلاغ الرسمي)",
+          "[مقترح] الإجازة (الأساسية) أو الأستاذية أو الماجستير في الرياضيات أو شهادة معادلة؛ قائمة الشهادات المقبولة لكل مادة تُضبط في قرار فتح المناظرة (هل تُقبل الإجازة التطبيقية؟ — للتثبت)",
+          "[مقترح] الجنسية التونسية والتمتع بالحقوق المدنية وحسن السيرة والسلوك (بطاقة عدد 3)",
+          "[مقترح] حد أقصى محتمل للسن وفق القانون الأساسي العام لأعوان الدولة (يُذكر عادة 40 سنة في غرة جانفي من سنة المناظرة مع إمكانية طرح سنوات الخدمة العمومية) — غير مؤكد لهذه المناظرة، لذلك لم يُدرج كشرط آلي",
+          "[مقترح] تسوية الوضعية إزاء الخدمة الوطنية بالنسبة إلى الذكور",
+          "[مقترح] القدرة البدنية والذهنية على ممارسة مهنة التدريس (شهادة طبية) والالتزام بالعمل في أي مؤسسة تربوية (إعدادية أو معهد) بكامل تراب الجمهورية",
+          "قائمة الاختصاصات أعلاه تقريبية لأغراض المطابقة الآلية والتنبيهات؛ المرجع هو قائمة الشهادات المقبولة في البلاغ الرسمي"
+        ],
+        "other_fr": [
+          "Postes ouverts pour cette discipline en 2026 : 390 sur 1 630 (selon le résumé d'articles de presse — à vérifier sur l'avis officiel)",
+          "[Suggéré] Licence (fondamentale), maîtrise ou master en mathématiques ou diplôme équivalent ; la liste exacte des diplômes admis par discipline est fixée par l'arrêté d'ouverture (licence appliquée acceptée ? — à vérifier)",
+          "[Suggéré] Nationalité tunisienne, jouissance des droits civiques, bonne conduite (bulletin n° 3)",
+          "[Suggéré] Limite d'âge possible selon le statut général des agents de l'État (souvent 40 ans au 1er janvier de l'année du concours, avec déduction des années de service public) — non confirmée pour ce concours, donc non appliquée automatiquement",
+          "[Suggéré] Situation régulière vis-à-vis du service national (candidats masculins)",
+          "[Suggéré] Aptitude physique et mentale à l'enseignement (certificat médical) et engagement à servir dans tout établissement (collège ou lycée) du territoire",
+          "La liste de spécialités ci-dessus est indicative (appariement automatique et alertes) ; seule la liste des diplômes de l'avis officiel fait foi"
+        ],
+        "source_key": "s1",
+        "confidence": "LOW",
+        "needs_verification": true,
+        "source_quote": null
+      },
+      "phases": [
+        {
+          "order": 1,
+          "kind": "WRITTEN",
+          "name_ar": "الاختبار الكتابي (القبول الأولي)",
+          "name_fr": "Épreuve(s) écrite(s) d'admissibilité",
+          "is_eliminatory": true,
+          "duration_minutes": null,
+          "description_ar": "أُجري الاختبار الكتابي لدورة 2026 في الربيع (أفريل أو ماي 2026 — التاريخ متضارب) بحضور 66125 مترشحا حسب الصحافة. الصيغة الدقيقة (عدد الاختبارات ومدتها وضواربها) غير منشورة في المصادر المتاحة: يُرجّح اختبار في مادة الاختصاص (الرياضيات) وقد يشمل محورا في علوم التربية والتعلّمية.",
+          "description_fr": "L'écrit de la session 2026 s'est tenu au printemps (avril ou mai 2026 — dates contradictoires) avec 66 125 candidats selon la presse. Le format exact (nombre d'épreuves, durées, coefficients) n'apparaît pas dans les sources disponibles : probablement une épreuve dans la discipline (mathématiques), éventuellement complétée par un volet sciences de l'éducation/didactique.",
+          "source_key": "s2",
+          "confidence": "MEDIUM",
+          "needs_verification": true
+        },
+        {
+          "order": 2,
+          "kind": "ORAL",
+          "name_ar": "الاختبار الشفاهي (القبول النهائي)",
+          "name_fr": "Épreuve orale d'admission",
+          "is_eliminatory": true,
+          "duration_minutes": null,
+          "description_ar": "برمج الاختبار الشفاهي في أوت 2026 للمقبولين في الكتابي حسب الصحافة. محتوى مقترح (غير مؤكد): تقديم درس أو تحليل وضعية تعليمية في المادة ثم محادثة مع اللجنة حول التعلّمية والمنظومة التربوية وأخلاقيات المهنة.",
+          "description_fr": "Oral prévu en août 2026 pour les admissibles selon la presse. Contenu suggéré (non confirmé) : présentation d'une leçon ou analyse d'une situation d'enseignement dans la discipline, puis entretien avec le jury (didactique, système éducatif, déontologie).",
+          "source_key": "s2",
+          "confidence": "MEDIUM",
+          "needs_verification": true
+        },
+        {
+          "order": 3,
+          "kind": "TRAINING",
+          "name_ar": "التعيين والتكوين والتربص قبل الترسيم",
+          "name_fr": "Affectation, formation et stage avant titularisation",
+          "is_eliminatory": false,
+          "duration_minutes": null,
+          "description_ar": "[مقترح] يُعيَّن الناجحون كأساتذة متربصين بالإعداديات والمعاهد مع تكوين بيداغوجي وزيارات تفقد قبل الترسيم (مدة التربص وشروطه غير مؤكدة).",
+          "description_fr": "[Suggéré] Les lauréats sont affectés comme professeurs stagiaires en collège/lycée, avec formation pédagogique et inspections avant titularisation (durée et modalités du stage non confirmées).",
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        }
+      ],
+      "subjects": [
+        {
+          "phase_order": 1,
+          "domain": "SPECIALTY",
+          "specialty_key": "spec.enseignement-secondaire.mathematiques",
+          "name_ar": "اختبار كتابي في مادة الاختصاص: الرياضيات (المعارف العلمية في مستوى الإجازة وبرامج التعليم الثانوي)",
+          "name_fr": "Épreuve écrite de spécialité : mathématiques (savoirs disciplinaires niveau licence et programmes du secondaire)",
+          "coefficient": null,
+          "duration_minutes": null,
+          "question_count": null,
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "phase_order": 1,
+          "domain": "SPECIALTY",
+          "specialty_key": "spec.pedagogie",
+          "name_ar": "علوم التربية والتعلّمية (الديداكتيك والتقييم والمقاربة بالكفايات) — وجوده في الكتابي غير مؤكد",
+          "name_fr": "Sciences de l'éducation et didactique (évaluation, approche par compétences) — présence à l'écrit non confirmée",
+          "coefficient": null,
+          "duration_minutes": null,
+          "question_count": null,
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "phase_order": 2,
+          "domain": "SPECIALTY",
+          "specialty_key": "spec.enseignement-secondaire.mathematiques",
+          "name_ar": "الشفاهي: تقديم درس أو تحليل وضعية تعليمية في الرياضيات",
+          "name_fr": "Oral : leçon ou analyse d'une situation d'enseignement en mathématiques",
+          "coefficient": null,
+          "duration_minutes": null,
+          "question_count": null,
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "phase_order": 2,
+          "domain": "SPECIALTY",
+          "specialty_key": "spec.enseignement-secondaire.systeme-educatif",
+          "name_ar": "الشفاهي: محادثة حول المنظومة التربوية التونسية وأخلاقيات المهنة والحياة المدرسية",
+          "name_fr": "Oral : entretien sur le système éducatif tunisien, la déontologie et la vie scolaire",
+          "coefficient": null,
+          "duration_minutes": null,
+          "question_count": null,
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        }
+      ],
+      "physical_tests": [],
+      "required_documents": [
+        {
+          "text_ar": "التسجيل عن بعد عبر المنصة التي يحددها البلاغ (edunet.tn حسب الصحافة لدورة 2026) وطباعة استمارة أو وصل الترشح",
+          "text_fr": "Inscription en ligne sur la plateforme indiquée dans l'avis (edunet.tn selon la presse pour 2026) et impression du formulaire ou récépissé",
+          "source_key": "s1",
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "text_ar": "نسخة من بطاقة التعريف الوطنية",
+          "text_fr": "Copie de la carte d'identité nationale",
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "text_ar": "نسخة من الشهادة العلمية المطلوبة (إجازة/أستاذية/ماجستير) وقرار معادلة بالنسبة إلى الشهادات الأجنبية",
+          "text_fr": "Copie du diplôme requis (licence/maîtrise/master) et arrêté d'équivalence pour les diplômes étrangers",
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "text_ar": "كشوف أعداد سنوات الدراسة الجامعية (قد تُطلب للتثبت من الاختصاص)",
+          "text_fr": "Relevés de notes des années universitaires (peuvent être demandés pour vérifier la spécialité)",
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "text_ar": "بطاقة عدد 3 حديثة (عادة عند الانتداب)",
+          "text_fr": "Bulletin n° 3 récent (généralement lors du recrutement)",
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "text_ar": "شهادة طبية تثبت القدرة على ممارسة التدريس (عادة عند الانتداب)",
+          "text_fr": "Certificat médical d'aptitude à l'enseignement (généralement lors du recrutement)",
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "text_ar": "وثيقة تثبت الوضعية إزاء الخدمة الوطنية (للذكور)",
+          "text_fr": "Justificatif de la situation vis-à-vis du service national (candidats masculins)",
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "text_ar": "صور شمسية حديثة",
+          "text_fr": "Photos d'identité récentes",
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        }
+      ],
+      "blueprint": {
+        "total_minutes": 140,
+        "fidelity": "APPROXIMATED",
+        "sections": [
+          {
+            "domain": "SPECIALTY",
+            "specialty_key": "spec.enseignement-secondaire.mathematiques",
+            "count": 40,
+            "minutes": 100
+          },
+          {
+            "domain": "SPECIALTY",
+            "specialty_key": "spec.pedagogie",
+            "count": 15,
+            "minutes": 30
+          },
+          {
+            "domain": "SPECIALTY",
+            "specialty_key": "spec.enseignement-secondaire.systeme-educatif",
+            "count": 5,
+            "minutes": 10
+          }
+        ]
+      }
+    },
+    {
+      "slug": "prof-langue-arabe",
+      "title_ar": "أستاذ التعليم الثانوي — اللغة العربية",
+      "title_fr": "Professeur de l'enseignement secondaire — Langue et littérature arabes",
+      "diploma_level": "LICENCE",
+      "eligibility": {
+        "min_age": null,
+        "max_age": null,
+        "genders": [
+          "M",
+          "F"
+        ],
+        "nationality": "TN",
+        "diplomas": [
+          "LICENCE",
+          "MASTER",
+          "DOCTORATE"
+        ],
+        "specialties": [
+          "اللغة العربية",
+          "العربية وآدابها",
+          "آداب عربية",
+          "اللغة والآداب العربية",
+          "Arabe",
+          "Langue et littérature arabes",
+          "Lettres arabes"
+        ],
+        "min_height_cm_male": null,
+        "min_height_cm_female": null,
+        "marital_status": null,
+        "other_ar": [
+          "عدد الخطط المفتوحة لهذه المادة في دورة 2026: 320 من جملة 1630 (حسب ملخص مقالات صحفية — للتثبت من البلاغ الرسمي)",
+          "[مقترح] الإجازة (الأساسية) أو الأستاذية أو الماجستير في العربية أو شهادة معادلة؛ قائمة الشهادات المقبولة لكل مادة تُضبط في قرار فتح المناظرة (هل تُقبل الإجازة التطبيقية؟ — للتثبت)",
+          "[مقترح] الجنسية التونسية والتمتع بالحقوق المدنية وحسن السيرة والسلوك (بطاقة عدد 3)",
+          "[مقترح] حد أقصى محتمل للسن وفق القانون الأساسي العام لأعوان الدولة (يُذكر عادة 40 سنة في غرة جانفي من سنة المناظرة مع إمكانية طرح سنوات الخدمة العمومية) — غير مؤكد لهذه المناظرة، لذلك لم يُدرج كشرط آلي",
+          "[مقترح] تسوية الوضعية إزاء الخدمة الوطنية بالنسبة إلى الذكور",
+          "[مقترح] القدرة البدنية والذهنية على ممارسة مهنة التدريس (شهادة طبية) والالتزام بالعمل في أي مؤسسة تربوية (إعدادية أو معهد) بكامل تراب الجمهورية",
+          "قائمة الاختصاصات أعلاه تقريبية لأغراض المطابقة الآلية والتنبيهات؛ المرجع هو قائمة الشهادات المقبولة في البلاغ الرسمي"
+        ],
+        "other_fr": [
+          "Postes ouverts pour cette discipline en 2026 : 320 sur 1 630 (selon le résumé d'articles de presse — à vérifier sur l'avis officiel)",
+          "[Suggéré] Licence (fondamentale), maîtrise ou master en arabe ou diplôme équivalent ; la liste exacte des diplômes admis par discipline est fixée par l'arrêté d'ouverture (licence appliquée acceptée ? — à vérifier)",
+          "[Suggéré] Nationalité tunisienne, jouissance des droits civiques, bonne conduite (bulletin n° 3)",
+          "[Suggéré] Limite d'âge possible selon le statut général des agents de l'État (souvent 40 ans au 1er janvier de l'année du concours, avec déduction des années de service public) — non confirmée pour ce concours, donc non appliquée automatiquement",
+          "[Suggéré] Situation régulière vis-à-vis du service national (candidats masculins)",
+          "[Suggéré] Aptitude physique et mentale à l'enseignement (certificat médical) et engagement à servir dans tout établissement (collège ou lycée) du territoire",
+          "La liste de spécialités ci-dessus est indicative (appariement automatique et alertes) ; seule la liste des diplômes de l'avis officiel fait foi"
+        ],
+        "source_key": "s1",
+        "confidence": "LOW",
+        "needs_verification": true,
+        "source_quote": null
+      },
+      "phases": [
+        {
+          "order": 1,
+          "kind": "WRITTEN",
+          "name_ar": "الاختبار الكتابي (القبول الأولي)",
+          "name_fr": "Épreuve(s) écrite(s) d'admissibilité",
+          "is_eliminatory": true,
+          "duration_minutes": null,
+          "description_ar": "أُجري الاختبار الكتابي لدورة 2026 في الربيع (أفريل أو ماي 2026 — التاريخ متضارب) بحضور 66125 مترشحا حسب الصحافة. الصيغة الدقيقة (عدد الاختبارات ومدتها وضواربها) غير منشورة في المصادر المتاحة: يُرجّح اختبار في مادة الاختصاص (العربية) وقد يشمل محورا في علوم التربية والتعلّمية.",
+          "description_fr": "L'écrit de la session 2026 s'est tenu au printemps (avril ou mai 2026 — dates contradictoires) avec 66 125 candidats selon la presse. Le format exact (nombre d'épreuves, durées, coefficients) n'apparaît pas dans les sources disponibles : probablement une épreuve dans la discipline (arabe), éventuellement complétée par un volet sciences de l'éducation/didactique.",
+          "source_key": "s2",
+          "confidence": "MEDIUM",
+          "needs_verification": true
+        },
+        {
+          "order": 2,
+          "kind": "ORAL",
+          "name_ar": "الاختبار الشفاهي (القبول النهائي)",
+          "name_fr": "Épreuve orale d'admission",
+          "is_eliminatory": true,
+          "duration_minutes": null,
+          "description_ar": "برمج الاختبار الشفاهي في أوت 2026 للمقبولين في الكتابي حسب الصحافة. محتوى مقترح (غير مؤكد): تقديم درس أو تحليل وضعية تعليمية في المادة ثم محادثة مع اللجنة حول التعلّمية والمنظومة التربوية وأخلاقيات المهنة.",
+          "description_fr": "Oral prévu en août 2026 pour les admissibles selon la presse. Contenu suggéré (non confirmé) : présentation d'une leçon ou analyse d'une situation d'enseignement dans la discipline, puis entretien avec le jury (didactique, système éducatif, déontologie).",
+          "source_key": "s2",
+          "confidence": "MEDIUM",
+          "needs_verification": true
+        },
+        {
+          "order": 3,
+          "kind": "TRAINING",
+          "name_ar": "التعيين والتكوين والتربص قبل الترسيم",
+          "name_fr": "Affectation, formation et stage avant titularisation",
+          "is_eliminatory": false,
+          "duration_minutes": null,
+          "description_ar": "[مقترح] يُعيَّن الناجحون كأساتذة متربصين بالإعداديات والمعاهد مع تكوين بيداغوجي وزيارات تفقد قبل الترسيم (مدة التربص وشروطه غير مؤكدة).",
+          "description_fr": "[Suggéré] Les lauréats sont affectés comme professeurs stagiaires en collège/lycée, avec formation pédagogique et inspections avant titularisation (durée et modalités du stage non confirmées).",
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        }
+      ],
+      "subjects": [
+        {
+          "phase_order": 1,
+          "domain": "SPECIALTY",
+          "specialty_key": "spec.enseignement-secondaire.langue-arabe",
+          "name_ar": "اختبار كتابي في مادة الاختصاص: العربية (المعارف العلمية في مستوى الإجازة وبرامج التعليم الثانوي)",
+          "name_fr": "Épreuve écrite de spécialité : arabe (savoirs disciplinaires niveau licence et programmes du secondaire)",
+          "coefficient": null,
+          "duration_minutes": null,
+          "question_count": null,
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "phase_order": 1,
+          "domain": "SPECIALTY",
+          "specialty_key": "spec.pedagogie",
+          "name_ar": "علوم التربية والتعلّمية (الديداكتيك والتقييم والمقاربة بالكفايات) — وجوده في الكتابي غير مؤكد",
+          "name_fr": "Sciences de l'éducation et didactique (évaluation, approche par compétences) — présence à l'écrit non confirmée",
+          "coefficient": null,
+          "duration_minutes": null,
+          "question_count": null,
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "phase_order": 2,
+          "domain": "SPECIALTY",
+          "specialty_key": "spec.enseignement-secondaire.langue-arabe",
+          "name_ar": "الشفاهي: تقديم درس أو تحليل وضعية تعليمية في العربية",
+          "name_fr": "Oral : leçon ou analyse d'une situation d'enseignement en arabe",
+          "coefficient": null,
+          "duration_minutes": null,
+          "question_count": null,
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "phase_order": 2,
+          "domain": "SPECIALTY",
+          "specialty_key": "spec.enseignement-secondaire.systeme-educatif",
+          "name_ar": "الشفاهي: محادثة حول المنظومة التربوية التونسية وأخلاقيات المهنة والحياة المدرسية",
+          "name_fr": "Oral : entretien sur le système éducatif tunisien, la déontologie et la vie scolaire",
+          "coefficient": null,
+          "duration_minutes": null,
+          "question_count": null,
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        }
+      ],
+      "physical_tests": [],
+      "required_documents": [
+        {
+          "text_ar": "التسجيل عن بعد عبر المنصة التي يحددها البلاغ (edunet.tn حسب الصحافة لدورة 2026) وطباعة استمارة أو وصل الترشح",
+          "text_fr": "Inscription en ligne sur la plateforme indiquée dans l'avis (edunet.tn selon la presse pour 2026) et impression du formulaire ou récépissé",
+          "source_key": "s1",
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "text_ar": "نسخة من بطاقة التعريف الوطنية",
+          "text_fr": "Copie de la carte d'identité nationale",
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "text_ar": "نسخة من الشهادة العلمية المطلوبة (إجازة/أستاذية/ماجستير) وقرار معادلة بالنسبة إلى الشهادات الأجنبية",
+          "text_fr": "Copie du diplôme requis (licence/maîtrise/master) et arrêté d'équivalence pour les diplômes étrangers",
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "text_ar": "كشوف أعداد سنوات الدراسة الجامعية (قد تُطلب للتثبت من الاختصاص)",
+          "text_fr": "Relevés de notes des années universitaires (peuvent être demandés pour vérifier la spécialité)",
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "text_ar": "بطاقة عدد 3 حديثة (عادة عند الانتداب)",
+          "text_fr": "Bulletin n° 3 récent (généralement lors du recrutement)",
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "text_ar": "شهادة طبية تثبت القدرة على ممارسة التدريس (عادة عند الانتداب)",
+          "text_fr": "Certificat médical d'aptitude à l'enseignement (généralement lors du recrutement)",
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "text_ar": "وثيقة تثبت الوضعية إزاء الخدمة الوطنية (للذكور)",
+          "text_fr": "Justificatif de la situation vis-à-vis du service national (candidats masculins)",
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "text_ar": "صور شمسية حديثة",
+          "text_fr": "Photos d'identité récentes",
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        }
+      ],
+      "blueprint": {
+        "total_minutes": 140,
+        "fidelity": "APPROXIMATED",
+        "sections": [
+          {
+            "domain": "SPECIALTY",
+            "specialty_key": "spec.enseignement-secondaire.langue-arabe",
+            "count": 30,
+            "minutes": 80
+          },
+          {
+            "domain": "ARABIC",
+            "specialty_key": null,
+            "count": 10,
+            "minutes": 20
+          },
+          {
+            "domain": "SPECIALTY",
+            "specialty_key": "spec.pedagogie",
+            "count": 15,
+            "minutes": 30
+          },
+          {
+            "domain": "SPECIALTY",
+            "specialty_key": "spec.enseignement-secondaire.systeme-educatif",
+            "count": 5,
+            "minutes": 10
+          }
+        ]
+      }
+    },
+    {
+      "slug": "prof-sciences-physiques",
+      "title_ar": "أستاذ التعليم الثانوي — العلوم الفيزيائية",
+      "title_fr": "Professeur de l'enseignement secondaire — Sciences physiques",
+      "diploma_level": "LICENCE",
+      "eligibility": {
+        "min_age": null,
+        "max_age": null,
+        "genders": [
+          "M",
+          "F"
+        ],
+        "nationality": "TN",
+        "diplomas": [
+          "LICENCE",
+          "MASTER",
+          "DOCTORATE"
+        ],
+        "specialties": [
+          "علوم فيزيائية",
+          "العلوم الفيزيائية",
+          "فيزياء",
+          "كيمياء",
+          "Sciences physiques",
+          "Physique-chimie",
+          "Physique fondamentale",
+          "Chimie"
+        ],
+        "min_height_cm_male": null,
+        "min_height_cm_female": null,
+        "marital_status": null,
+        "other_ar": [
+          "عدد الخطط المفتوحة لهذه المادة في دورة 2026: 185 من جملة 1630 (حسب ملخص مقالات صحفية — للتثبت من البلاغ الرسمي)",
+          "[مقترح] الإجازة (الأساسية) أو الأستاذية أو الماجستير في العلوم الفيزيائية أو شهادة معادلة؛ قائمة الشهادات المقبولة لكل مادة تُضبط في قرار فتح المناظرة (هل تُقبل الإجازة التطبيقية؟ — للتثبت)",
+          "[مقترح] الجنسية التونسية والتمتع بالحقوق المدنية وحسن السيرة والسلوك (بطاقة عدد 3)",
+          "[مقترح] حد أقصى محتمل للسن وفق القانون الأساسي العام لأعوان الدولة (يُذكر عادة 40 سنة في غرة جانفي من سنة المناظرة مع إمكانية طرح سنوات الخدمة العمومية) — غير مؤكد لهذه المناظرة، لذلك لم يُدرج كشرط آلي",
+          "[مقترح] تسوية الوضعية إزاء الخدمة الوطنية بالنسبة إلى الذكور",
+          "[مقترح] القدرة البدنية والذهنية على ممارسة مهنة التدريس (شهادة طبية) والالتزام بالعمل في أي مؤسسة تربوية (إعدادية أو معهد) بكامل تراب الجمهورية",
+          "قائمة الاختصاصات أعلاه تقريبية لأغراض المطابقة الآلية والتنبيهات؛ المرجع هو قائمة الشهادات المقبولة في البلاغ الرسمي"
+        ],
+        "other_fr": [
+          "Postes ouverts pour cette discipline en 2026 : 185 sur 1 630 (selon le résumé d'articles de presse — à vérifier sur l'avis officiel)",
+          "[Suggéré] Licence (fondamentale), maîtrise ou master en sciences physiques ou diplôme équivalent ; la liste exacte des diplômes admis par discipline est fixée par l'arrêté d'ouverture (licence appliquée acceptée ? — à vérifier)",
+          "[Suggéré] Nationalité tunisienne, jouissance des droits civiques, bonne conduite (bulletin n° 3)",
+          "[Suggéré] Limite d'âge possible selon le statut général des agents de l'État (souvent 40 ans au 1er janvier de l'année du concours, avec déduction des années de service public) — non confirmée pour ce concours, donc non appliquée automatiquement",
+          "[Suggéré] Situation régulière vis-à-vis du service national (candidats masculins)",
+          "[Suggéré] Aptitude physique et mentale à l'enseignement (certificat médical) et engagement à servir dans tout établissement (collège ou lycée) du territoire",
+          "La liste de spécialités ci-dessus est indicative (appariement automatique et alertes) ; seule la liste des diplômes de l'avis officiel fait foi"
+        ],
+        "source_key": "s1",
+        "confidence": "LOW",
+        "needs_verification": true,
+        "source_quote": null
+      },
+      "phases": [
+        {
+          "order": 1,
+          "kind": "WRITTEN",
+          "name_ar": "الاختبار الكتابي (القبول الأولي)",
+          "name_fr": "Épreuve(s) écrite(s) d'admissibilité",
+          "is_eliminatory": true,
+          "duration_minutes": null,
+          "description_ar": "أُجري الاختبار الكتابي لدورة 2026 في الربيع (أفريل أو ماي 2026 — التاريخ متضارب) بحضور 66125 مترشحا حسب الصحافة. الصيغة الدقيقة (عدد الاختبارات ومدتها وضواربها) غير منشورة في المصادر المتاحة: يُرجّح اختبار في مادة الاختصاص (العلوم الفيزيائية) وقد يشمل محورا في علوم التربية والتعلّمية.",
+          "description_fr": "L'écrit de la session 2026 s'est tenu au printemps (avril ou mai 2026 — dates contradictoires) avec 66 125 candidats selon la presse. Le format exact (nombre d'épreuves, durées, coefficients) n'apparaît pas dans les sources disponibles : probablement une épreuve dans la discipline (sciences physiques), éventuellement complétée par un volet sciences de l'éducation/didactique.",
+          "source_key": "s2",
+          "confidence": "MEDIUM",
+          "needs_verification": true
+        },
+        {
+          "order": 2,
+          "kind": "ORAL",
+          "name_ar": "الاختبار الشفاهي (القبول النهائي)",
+          "name_fr": "Épreuve orale d'admission",
+          "is_eliminatory": true,
+          "duration_minutes": null,
+          "description_ar": "برمج الاختبار الشفاهي في أوت 2026 للمقبولين في الكتابي حسب الصحافة. محتوى مقترح (غير مؤكد): تقديم درس أو تحليل وضعية تعليمية في المادة ثم محادثة مع اللجنة حول التعلّمية والمنظومة التربوية وأخلاقيات المهنة.",
+          "description_fr": "Oral prévu en août 2026 pour les admissibles selon la presse. Contenu suggéré (non confirmé) : présentation d'une leçon ou analyse d'une situation d'enseignement dans la discipline, puis entretien avec le jury (didactique, système éducatif, déontologie).",
+          "source_key": "s2",
+          "confidence": "MEDIUM",
+          "needs_verification": true
+        },
+        {
+          "order": 3,
+          "kind": "TRAINING",
+          "name_ar": "التعيين والتكوين والتربص قبل الترسيم",
+          "name_fr": "Affectation, formation et stage avant titularisation",
+          "is_eliminatory": false,
+          "duration_minutes": null,
+          "description_ar": "[مقترح] يُعيَّن الناجحون كأساتذة متربصين بالإعداديات والمعاهد مع تكوين بيداغوجي وزيارات تفقد قبل الترسيم (مدة التربص وشروطه غير مؤكدة).",
+          "description_fr": "[Suggéré] Les lauréats sont affectés comme professeurs stagiaires en collège/lycée, avec formation pédagogique et inspections avant titularisation (durée et modalités du stage non confirmées).",
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        }
+      ],
+      "subjects": [
+        {
+          "phase_order": 1,
+          "domain": "SPECIALTY",
+          "specialty_key": "spec.enseignement-secondaire.sciences-physiques",
+          "name_ar": "اختبار كتابي في مادة الاختصاص: العلوم الفيزيائية (المعارف العلمية في مستوى الإجازة وبرامج التعليم الثانوي)",
+          "name_fr": "Épreuve écrite de spécialité : sciences physiques (savoirs disciplinaires niveau licence et programmes du secondaire)",
+          "coefficient": null,
+          "duration_minutes": null,
+          "question_count": null,
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "phase_order": 1,
+          "domain": "SPECIALTY",
+          "specialty_key": "spec.pedagogie",
+          "name_ar": "علوم التربية والتعلّمية (الديداكتيك والتقييم والمقاربة بالكفايات) — وجوده في الكتابي غير مؤكد",
+          "name_fr": "Sciences de l'éducation et didactique (évaluation, approche par compétences) — présence à l'écrit non confirmée",
+          "coefficient": null,
+          "duration_minutes": null,
+          "question_count": null,
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "phase_order": 2,
+          "domain": "SPECIALTY",
+          "specialty_key": "spec.enseignement-secondaire.sciences-physiques",
+          "name_ar": "الشفاهي: تقديم درس أو تحليل وضعية تعليمية في العلوم الفيزيائية",
+          "name_fr": "Oral : leçon ou analyse d'une situation d'enseignement en sciences physiques",
+          "coefficient": null,
+          "duration_minutes": null,
+          "question_count": null,
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "phase_order": 2,
+          "domain": "SPECIALTY",
+          "specialty_key": "spec.enseignement-secondaire.systeme-educatif",
+          "name_ar": "الشفاهي: محادثة حول المنظومة التربوية التونسية وأخلاقيات المهنة والحياة المدرسية",
+          "name_fr": "Oral : entretien sur le système éducatif tunisien, la déontologie et la vie scolaire",
+          "coefficient": null,
+          "duration_minutes": null,
+          "question_count": null,
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        }
+      ],
+      "physical_tests": [],
+      "required_documents": [
+        {
+          "text_ar": "التسجيل عن بعد عبر المنصة التي يحددها البلاغ (edunet.tn حسب الصحافة لدورة 2026) وطباعة استمارة أو وصل الترشح",
+          "text_fr": "Inscription en ligne sur la plateforme indiquée dans l'avis (edunet.tn selon la presse pour 2026) et impression du formulaire ou récépissé",
+          "source_key": "s1",
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "text_ar": "نسخة من بطاقة التعريف الوطنية",
+          "text_fr": "Copie de la carte d'identité nationale",
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "text_ar": "نسخة من الشهادة العلمية المطلوبة (إجازة/أستاذية/ماجستير) وقرار معادلة بالنسبة إلى الشهادات الأجنبية",
+          "text_fr": "Copie du diplôme requis (licence/maîtrise/master) et arrêté d'équivalence pour les diplômes étrangers",
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "text_ar": "كشوف أعداد سنوات الدراسة الجامعية (قد تُطلب للتثبت من الاختصاص)",
+          "text_fr": "Relevés de notes des années universitaires (peuvent être demandés pour vérifier la spécialité)",
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "text_ar": "بطاقة عدد 3 حديثة (عادة عند الانتداب)",
+          "text_fr": "Bulletin n° 3 récent (généralement lors du recrutement)",
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "text_ar": "شهادة طبية تثبت القدرة على ممارسة التدريس (عادة عند الانتداب)",
+          "text_fr": "Certificat médical d'aptitude à l'enseignement (généralement lors du recrutement)",
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "text_ar": "وثيقة تثبت الوضعية إزاء الخدمة الوطنية (للذكور)",
+          "text_fr": "Justificatif de la situation vis-à-vis du service national (candidats masculins)",
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "text_ar": "صور شمسية حديثة",
+          "text_fr": "Photos d'identité récentes",
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        }
+      ],
+      "blueprint": {
+        "total_minutes": 140,
+        "fidelity": "APPROXIMATED",
+        "sections": [
+          {
+            "domain": "SPECIALTY",
+            "specialty_key": "spec.enseignement-secondaire.sciences-physiques",
+            "count": 40,
+            "minutes": 100
+          },
+          {
+            "domain": "SPECIALTY",
+            "specialty_key": "spec.pedagogie",
+            "count": 15,
+            "minutes": 30
+          },
+          {
+            "domain": "SPECIALTY",
+            "specialty_key": "spec.enseignement-secondaire.systeme-educatif",
+            "count": 5,
+            "minutes": 10
+          }
+        ]
+      }
+    },
+    {
+      "slug": "prof-education-islamique",
+      "title_ar": "أستاذ التعليم الثانوي — التربية الإسلامية والتفكير الإسلامي",
+      "title_fr": "Professeur de l'enseignement secondaire — Éducation islamique / Pensée islamique",
+      "diploma_level": "LICENCE",
+      "eligibility": {
+        "min_age": null,
+        "max_age": null,
+        "genders": [
+          "M",
+          "F"
+        ],
+        "nationality": "TN",
+        "diplomas": [
+          "LICENCE",
+          "MASTER",
+          "DOCTORATE"
+        ],
+        "specialties": [
+          "التربية الإسلامية",
+          "تفكير إسلامي",
+          "التفكير الإسلامي",
+          "أصول الدين",
+          "الشريعة",
+          "علوم إسلامية",
+          "الحضارة الإسلامية",
+          "Sciences islamiques",
+          "Pensée islamique",
+          "Théologie",
+          "Civilisation islamique",
+          "Zitouna"
+        ],
+        "min_height_cm_male": null,
+        "min_height_cm_female": null,
+        "marital_status": null,
+        "other_ar": [
+          "عدد الخطط المفتوحة لهذه المادة في دورة 2026: 180 من جملة 1630 (حسب ملخص مقالات صحفية — للتثبت من البلاغ الرسمي)",
+          "[مقترح] الإجازة (الأساسية) أو الأستاذية أو الماجستير في التربية الإسلامية أو شهادة معادلة؛ قائمة الشهادات المقبولة لكل مادة تُضبط في قرار فتح المناظرة (هل تُقبل الإجازة التطبيقية؟ — للتثبت)",
+          "[مقترح] الجنسية التونسية والتمتع بالحقوق المدنية وحسن السيرة والسلوك (بطاقة عدد 3)",
+          "[مقترح] حد أقصى محتمل للسن وفق القانون الأساسي العام لأعوان الدولة (يُذكر عادة 40 سنة في غرة جانفي من سنة المناظرة مع إمكانية طرح سنوات الخدمة العمومية) — غير مؤكد لهذه المناظرة، لذلك لم يُدرج كشرط آلي",
+          "[مقترح] تسوية الوضعية إزاء الخدمة الوطنية بالنسبة إلى الذكور",
+          "[مقترح] القدرة البدنية والذهنية على ممارسة مهنة التدريس (شهادة طبية) والالتزام بالعمل في أي مؤسسة تربوية (إعدادية أو معهد) بكامل تراب الجمهورية",
+          "قائمة الاختصاصات أعلاه تقريبية لأغراض المطابقة الآلية والتنبيهات؛ المرجع هو قائمة الشهادات المقبولة في البلاغ الرسمي"
+        ],
+        "other_fr": [
+          "Postes ouverts pour cette discipline en 2026 : 180 sur 1 630 (selon le résumé d'articles de presse — à vérifier sur l'avis officiel)",
+          "[Suggéré] Licence (fondamentale), maîtrise ou master en éducation islamique ou diplôme équivalent ; la liste exacte des diplômes admis par discipline est fixée par l'arrêté d'ouverture (licence appliquée acceptée ? — à vérifier)",
+          "[Suggéré] Nationalité tunisienne, jouissance des droits civiques, bonne conduite (bulletin n° 3)",
+          "[Suggéré] Limite d'âge possible selon le statut général des agents de l'État (souvent 40 ans au 1er janvier de l'année du concours, avec déduction des années de service public) — non confirmée pour ce concours, donc non appliquée automatiquement",
+          "[Suggéré] Situation régulière vis-à-vis du service national (candidats masculins)",
+          "[Suggéré] Aptitude physique et mentale à l'enseignement (certificat médical) et engagement à servir dans tout établissement (collège ou lycée) du territoire",
+          "La liste de spécialités ci-dessus est indicative (appariement automatique et alertes) ; seule la liste des diplômes de l'avis officiel fait foi"
+        ],
+        "source_key": "s1",
+        "confidence": "LOW",
+        "needs_verification": true,
+        "source_quote": null
+      },
+      "phases": [
+        {
+          "order": 1,
+          "kind": "WRITTEN",
+          "name_ar": "الاختبار الكتابي (القبول الأولي)",
+          "name_fr": "Épreuve(s) écrite(s) d'admissibilité",
+          "is_eliminatory": true,
+          "duration_minutes": null,
+          "description_ar": "أُجري الاختبار الكتابي لدورة 2026 في الربيع (أفريل أو ماي 2026 — التاريخ متضارب) بحضور 66125 مترشحا حسب الصحافة. الصيغة الدقيقة (عدد الاختبارات ومدتها وضواربها) غير منشورة في المصادر المتاحة: يُرجّح اختبار في مادة الاختصاص (التربية الإسلامية) وقد يشمل محورا في علوم التربية والتعلّمية.",
+          "description_fr": "L'écrit de la session 2026 s'est tenu au printemps (avril ou mai 2026 — dates contradictoires) avec 66 125 candidats selon la presse. Le format exact (nombre d'épreuves, durées, coefficients) n'apparaît pas dans les sources disponibles : probablement une épreuve dans la discipline (éducation islamique), éventuellement complétée par un volet sciences de l'éducation/didactique.",
+          "source_key": "s2",
+          "confidence": "MEDIUM",
+          "needs_verification": true
+        },
+        {
+          "order": 2,
+          "kind": "ORAL",
+          "name_ar": "الاختبار الشفاهي (القبول النهائي)",
+          "name_fr": "Épreuve orale d'admission",
+          "is_eliminatory": true,
+          "duration_minutes": null,
+          "description_ar": "برمج الاختبار الشفاهي في أوت 2026 للمقبولين في الكتابي حسب الصحافة. محتوى مقترح (غير مؤكد): تقديم درس أو تحليل وضعية تعليمية في المادة ثم محادثة مع اللجنة حول التعلّمية والمنظومة التربوية وأخلاقيات المهنة.",
+          "description_fr": "Oral prévu en août 2026 pour les admissibles selon la presse. Contenu suggéré (non confirmé) : présentation d'une leçon ou analyse d'une situation d'enseignement dans la discipline, puis entretien avec le jury (didactique, système éducatif, déontologie).",
+          "source_key": "s2",
+          "confidence": "MEDIUM",
+          "needs_verification": true
+        },
+        {
+          "order": 3,
+          "kind": "TRAINING",
+          "name_ar": "التعيين والتكوين والتربص قبل الترسيم",
+          "name_fr": "Affectation, formation et stage avant titularisation",
+          "is_eliminatory": false,
+          "duration_minutes": null,
+          "description_ar": "[مقترح] يُعيَّن الناجحون كأساتذة متربصين بالإعداديات والمعاهد مع تكوين بيداغوجي وزيارات تفقد قبل الترسيم (مدة التربص وشروطه غير مؤكدة).",
+          "description_fr": "[Suggéré] Les lauréats sont affectés comme professeurs stagiaires en collège/lycée, avec formation pédagogique et inspections avant titularisation (durée et modalités du stage non confirmées).",
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        }
+      ],
+      "subjects": [
+        {
+          "phase_order": 1,
+          "domain": "SPECIALTY",
+          "specialty_key": "spec.enseignement-secondaire.education-islamique",
+          "name_ar": "اختبار كتابي في مادة الاختصاص: التربية الإسلامية (المعارف العلمية في مستوى الإجازة وبرامج التعليم الثانوي)",
+          "name_fr": "Épreuve écrite de spécialité : éducation islamique (savoirs disciplinaires niveau licence et programmes du secondaire)",
+          "coefficient": null,
+          "duration_minutes": null,
+          "question_count": null,
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "phase_order": 1,
+          "domain": "SPECIALTY",
+          "specialty_key": "spec.pedagogie",
+          "name_ar": "علوم التربية والتعلّمية (الديداكتيك والتقييم والمقاربة بالكفايات) — وجوده في الكتابي غير مؤكد",
+          "name_fr": "Sciences de l'éducation et didactique (évaluation, approche par compétences) — présence à l'écrit non confirmée",
+          "coefficient": null,
+          "duration_minutes": null,
+          "question_count": null,
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "phase_order": 2,
+          "domain": "SPECIALTY",
+          "specialty_key": "spec.enseignement-secondaire.education-islamique",
+          "name_ar": "الشفاهي: تقديم درس أو تحليل وضعية تعليمية في التربية الإسلامية",
+          "name_fr": "Oral : leçon ou analyse d'une situation d'enseignement en éducation islamique",
+          "coefficient": null,
+          "duration_minutes": null,
+          "question_count": null,
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "phase_order": 2,
+          "domain": "SPECIALTY",
+          "specialty_key": "spec.enseignement-secondaire.systeme-educatif",
+          "name_ar": "الشفاهي: محادثة حول المنظومة التربوية التونسية وأخلاقيات المهنة والحياة المدرسية",
+          "name_fr": "Oral : entretien sur le système éducatif tunisien, la déontologie et la vie scolaire",
+          "coefficient": null,
+          "duration_minutes": null,
+          "question_count": null,
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        }
+      ],
+      "physical_tests": [],
+      "required_documents": [
+        {
+          "text_ar": "التسجيل عن بعد عبر المنصة التي يحددها البلاغ (edunet.tn حسب الصحافة لدورة 2026) وطباعة استمارة أو وصل الترشح",
+          "text_fr": "Inscription en ligne sur la plateforme indiquée dans l'avis (edunet.tn selon la presse pour 2026) et impression du formulaire ou récépissé",
+          "source_key": "s1",
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "text_ar": "نسخة من بطاقة التعريف الوطنية",
+          "text_fr": "Copie de la carte d'identité nationale",
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "text_ar": "نسخة من الشهادة العلمية المطلوبة (إجازة/أستاذية/ماجستير) وقرار معادلة بالنسبة إلى الشهادات الأجنبية",
+          "text_fr": "Copie du diplôme requis (licence/maîtrise/master) et arrêté d'équivalence pour les diplômes étrangers",
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "text_ar": "كشوف أعداد سنوات الدراسة الجامعية (قد تُطلب للتثبت من الاختصاص)",
+          "text_fr": "Relevés de notes des années universitaires (peuvent être demandés pour vérifier la spécialité)",
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "text_ar": "بطاقة عدد 3 حديثة (عادة عند الانتداب)",
+          "text_fr": "Bulletin n° 3 récent (généralement lors du recrutement)",
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "text_ar": "شهادة طبية تثبت القدرة على ممارسة التدريس (عادة عند الانتداب)",
+          "text_fr": "Certificat médical d'aptitude à l'enseignement (généralement lors du recrutement)",
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "text_ar": "وثيقة تثبت الوضعية إزاء الخدمة الوطنية (للذكور)",
+          "text_fr": "Justificatif de la situation vis-à-vis du service national (candidats masculins)",
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "text_ar": "صور شمسية حديثة",
+          "text_fr": "Photos d'identité récentes",
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        }
+      ],
+      "blueprint": {
+        "total_minutes": 140,
+        "fidelity": "APPROXIMATED",
+        "sections": [
+          {
+            "domain": "SPECIALTY",
+            "specialty_key": "spec.enseignement-secondaire.education-islamique",
+            "count": 30,
+            "minutes": 80
+          },
+          {
+            "domain": "ARABIC",
+            "specialty_key": null,
+            "count": 10,
+            "minutes": 20
+          },
+          {
+            "domain": "SPECIALTY",
+            "specialty_key": "spec.pedagogie",
+            "count": 15,
+            "minutes": 30
+          },
+          {
+            "domain": "SPECIALTY",
+            "specialty_key": "spec.enseignement-secondaire.systeme-educatif",
+            "count": 5,
+            "minutes": 10
+          }
+        ]
+      }
+    },
+    {
+      "slug": "prof-technologie",
+      "title_ar": "أستاذ التعليم الثانوي — التكنولوجيا",
+      "title_fr": "Professeur de l'enseignement secondaire — Technologie",
+      "diploma_level": "LICENCE",
+      "eligibility": {
+        "min_age": null,
+        "max_age": null,
+        "genders": [
+          "M",
+          "F"
+        ],
+        "nationality": "TN",
+        "diplomas": [
+          "LICENCE",
+          "MASTER",
+          "ENGINEER",
+          "DOCTORATE"
+        ],
+        "specialties": [
+          "تكنولوجيا",
+          "هندسة ميكانيكية",
+          "هندسة كهربائية",
+          "كهروميكانيك",
+          "ميكانيك",
+          "Technologie",
+          "Génie mécanique",
+          "Génie électrique",
+          "Électromécanique",
+          "Électrotechnique",
+          "Automatique"
+        ],
+        "min_height_cm_male": null,
+        "min_height_cm_female": null,
+        "marital_status": null,
+        "other_ar": [
+          "عدد الخطط المفتوحة لهذه المادة في دورة 2026: 165 من جملة 1630 (حسب ملخص مقالات صحفية — للتثبت من البلاغ الرسمي)",
+          "[مقترح] الإجازة (الأساسية) أو الأستاذية أو الماجستير في التكنولوجيا أو شهادة معادلة؛ قائمة الشهادات المقبولة لكل مادة تُضبط في قرار فتح المناظرة (هل تُقبل الإجازة التطبيقية؟ — للتثبت)",
+          "[مقترح] الجنسية التونسية والتمتع بالحقوق المدنية وحسن السيرة والسلوك (بطاقة عدد 3)",
+          "[مقترح] حد أقصى محتمل للسن وفق القانون الأساسي العام لأعوان الدولة (يُذكر عادة 40 سنة في غرة جانفي من سنة المناظرة مع إمكانية طرح سنوات الخدمة العمومية) — غير مؤكد لهذه المناظرة، لذلك لم يُدرج كشرط آلي",
+          "[مقترح] تسوية الوضعية إزاء الخدمة الوطنية بالنسبة إلى الذكور",
+          "[مقترح] القدرة البدنية والذهنية على ممارسة مهنة التدريس (شهادة طبية) والالتزام بالعمل في أي مؤسسة تربوية (إعدادية أو معهد) بكامل تراب الجمهورية",
+          "قائمة الاختصاصات أعلاه تقريبية لأغراض المطابقة الآلية والتنبيهات؛ المرجع هو قائمة الشهادات المقبولة في البلاغ الرسمي"
+        ],
+        "other_fr": [
+          "Postes ouverts pour cette discipline en 2026 : 165 sur 1 630 (selon le résumé d'articles de presse — à vérifier sur l'avis officiel)",
+          "[Suggéré] Licence (fondamentale), maîtrise ou master en technologie ou diplôme équivalent ; la liste exacte des diplômes admis par discipline est fixée par l'arrêté d'ouverture (licence appliquée acceptée ? — à vérifier)",
+          "[Suggéré] Nationalité tunisienne, jouissance des droits civiques, bonne conduite (bulletin n° 3)",
+          "[Suggéré] Limite d'âge possible selon le statut général des agents de l'État (souvent 40 ans au 1er janvier de l'année du concours, avec déduction des années de service public) — non confirmée pour ce concours, donc non appliquée automatiquement",
+          "[Suggéré] Situation régulière vis-à-vis du service national (candidats masculins)",
+          "[Suggéré] Aptitude physique et mentale à l'enseignement (certificat médical) et engagement à servir dans tout établissement (collège ou lycée) du territoire",
+          "La liste de spécialités ci-dessus est indicative (appariement automatique et alertes) ; seule la liste des diplômes de l'avis officiel fait foi"
+        ],
+        "source_key": "s1",
+        "confidence": "LOW",
+        "needs_verification": true,
+        "source_quote": null
+      },
+      "phases": [
+        {
+          "order": 1,
+          "kind": "WRITTEN",
+          "name_ar": "الاختبار الكتابي (القبول الأولي)",
+          "name_fr": "Épreuve(s) écrite(s) d'admissibilité",
+          "is_eliminatory": true,
+          "duration_minutes": null,
+          "description_ar": "أُجري الاختبار الكتابي لدورة 2026 في الربيع (أفريل أو ماي 2026 — التاريخ متضارب) بحضور 66125 مترشحا حسب الصحافة. الصيغة الدقيقة (عدد الاختبارات ومدتها وضواربها) غير منشورة في المصادر المتاحة: يُرجّح اختبار في مادة الاختصاص (التكنولوجيا) وقد يشمل محورا في علوم التربية والتعلّمية.",
+          "description_fr": "L'écrit de la session 2026 s'est tenu au printemps (avril ou mai 2026 — dates contradictoires) avec 66 125 candidats selon la presse. Le format exact (nombre d'épreuves, durées, coefficients) n'apparaît pas dans les sources disponibles : probablement une épreuve dans la discipline (technologie), éventuellement complétée par un volet sciences de l'éducation/didactique.",
+          "source_key": "s2",
+          "confidence": "MEDIUM",
+          "needs_verification": true
+        },
+        {
+          "order": 2,
+          "kind": "ORAL",
+          "name_ar": "الاختبار الشفاهي (القبول النهائي)",
+          "name_fr": "Épreuve orale d'admission",
+          "is_eliminatory": true,
+          "duration_minutes": null,
+          "description_ar": "برمج الاختبار الشفاهي في أوت 2026 للمقبولين في الكتابي حسب الصحافة. محتوى مقترح (غير مؤكد): تقديم درس أو تحليل وضعية تعليمية في المادة ثم محادثة مع اللجنة حول التعلّمية والمنظومة التربوية وأخلاقيات المهنة.",
+          "description_fr": "Oral prévu en août 2026 pour les admissibles selon la presse. Contenu suggéré (non confirmé) : présentation d'une leçon ou analyse d'une situation d'enseignement dans la discipline, puis entretien avec le jury (didactique, système éducatif, déontologie).",
+          "source_key": "s2",
+          "confidence": "MEDIUM",
+          "needs_verification": true
+        },
+        {
+          "order": 3,
+          "kind": "TRAINING",
+          "name_ar": "التعيين والتكوين والتربص قبل الترسيم",
+          "name_fr": "Affectation, formation et stage avant titularisation",
+          "is_eliminatory": false,
+          "duration_minutes": null,
+          "description_ar": "[مقترح] يُعيَّن الناجحون كأساتذة متربصين بالإعداديات والمعاهد مع تكوين بيداغوجي وزيارات تفقد قبل الترسيم (مدة التربص وشروطه غير مؤكدة).",
+          "description_fr": "[Suggéré] Les lauréats sont affectés comme professeurs stagiaires en collège/lycée, avec formation pédagogique et inspections avant titularisation (durée et modalités du stage non confirmées).",
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        }
+      ],
+      "subjects": [
+        {
+          "phase_order": 1,
+          "domain": "SPECIALTY",
+          "specialty_key": "spec.enseignement-secondaire.technologie",
+          "name_ar": "اختبار كتابي في مادة الاختصاص: التكنولوجيا (المعارف العلمية في مستوى الإجازة وبرامج التعليم الثانوي)",
+          "name_fr": "Épreuve écrite de spécialité : technologie (savoirs disciplinaires niveau licence et programmes du secondaire)",
+          "coefficient": null,
+          "duration_minutes": null,
+          "question_count": null,
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "phase_order": 1,
+          "domain": "SPECIALTY",
+          "specialty_key": "spec.electricite",
+          "name_ar": "الكهرباء والإلكترونيك (ضمن اختبار التكنولوجيا — مقترح)",
+          "name_fr": "Électricité et électronique (volet de l'épreuve de technologie — suggéré)",
+          "coefficient": null,
+          "duration_minutes": null,
+          "question_count": null,
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "phase_order": 1,
+          "domain": "SPECIALTY",
+          "specialty_key": "spec.pedagogie",
+          "name_ar": "علوم التربية والتعلّمية (الديداكتيك والتقييم والمقاربة بالكفايات) — وجوده في الكتابي غير مؤكد",
+          "name_fr": "Sciences de l'éducation et didactique (évaluation, approche par compétences) — présence à l'écrit non confirmée",
+          "coefficient": null,
+          "duration_minutes": null,
+          "question_count": null,
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "phase_order": 2,
+          "domain": "SPECIALTY",
+          "specialty_key": "spec.enseignement-secondaire.technologie",
+          "name_ar": "الشفاهي: تقديم درس أو تحليل وضعية تعليمية في التكنولوجيا",
+          "name_fr": "Oral : leçon ou analyse d'une situation d'enseignement en technologie",
+          "coefficient": null,
+          "duration_minutes": null,
+          "question_count": null,
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "phase_order": 2,
+          "domain": "SPECIALTY",
+          "specialty_key": "spec.enseignement-secondaire.systeme-educatif",
+          "name_ar": "الشفاهي: محادثة حول المنظومة التربوية التونسية وأخلاقيات المهنة والحياة المدرسية",
+          "name_fr": "Oral : entretien sur le système éducatif tunisien, la déontologie et la vie scolaire",
+          "coefficient": null,
+          "duration_minutes": null,
+          "question_count": null,
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        }
+      ],
+      "physical_tests": [],
+      "required_documents": [
+        {
+          "text_ar": "التسجيل عن بعد عبر المنصة التي يحددها البلاغ (edunet.tn حسب الصحافة لدورة 2026) وطباعة استمارة أو وصل الترشح",
+          "text_fr": "Inscription en ligne sur la plateforme indiquée dans l'avis (edunet.tn selon la presse pour 2026) et impression du formulaire ou récépissé",
+          "source_key": "s1",
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "text_ar": "نسخة من بطاقة التعريف الوطنية",
+          "text_fr": "Copie de la carte d'identité nationale",
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "text_ar": "نسخة من الشهادة العلمية المطلوبة (إجازة/أستاذية/ماجستير) وقرار معادلة بالنسبة إلى الشهادات الأجنبية",
+          "text_fr": "Copie du diplôme requis (licence/maîtrise/master) et arrêté d'équivalence pour les diplômes étrangers",
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "text_ar": "كشوف أعداد سنوات الدراسة الجامعية (قد تُطلب للتثبت من الاختصاص)",
+          "text_fr": "Relevés de notes des années universitaires (peuvent être demandés pour vérifier la spécialité)",
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "text_ar": "بطاقة عدد 3 حديثة (عادة عند الانتداب)",
+          "text_fr": "Bulletin n° 3 récent (généralement lors du recrutement)",
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "text_ar": "شهادة طبية تثبت القدرة على ممارسة التدريس (عادة عند الانتداب)",
+          "text_fr": "Certificat médical d'aptitude à l'enseignement (généralement lors du recrutement)",
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "text_ar": "وثيقة تثبت الوضعية إزاء الخدمة الوطنية (للذكور)",
+          "text_fr": "Justificatif de la situation vis-à-vis du service national (candidats masculins)",
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "text_ar": "صور شمسية حديثة",
+          "text_fr": "Photos d'identité récentes",
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        }
+      ],
+      "blueprint": {
+        "total_minutes": 140,
+        "fidelity": "APPROXIMATED",
+        "sections": [
+          {
+            "domain": "SPECIALTY",
+            "specialty_key": "spec.enseignement-secondaire.technologie",
+            "count": 25,
+            "minutes": 60
+          },
+          {
+            "domain": "SPECIALTY",
+            "specialty_key": "spec.electricite",
+            "count": 15,
+            "minutes": 40
+          },
+          {
+            "domain": "SPECIALTY",
+            "specialty_key": "spec.pedagogie",
+            "count": 15,
+            "minutes": 30
+          },
+          {
+            "domain": "SPECIALTY",
+            "specialty_key": "spec.enseignement-secondaire.systeme-educatif",
+            "count": 5,
+            "minutes": 10
+          }
+        ]
+      }
+    },
+    {
+      "slug": "prof-histoire-geographie",
+      "title_ar": "أستاذ التعليم الثانوي — التاريخ والجغرافيا",
+      "title_fr": "Professeur de l'enseignement secondaire — Histoire-géographie",
+      "diploma_level": "LICENCE",
+      "eligibility": {
+        "min_age": null,
+        "max_age": null,
+        "genders": [
+          "M",
+          "F"
+        ],
+        "nationality": "TN",
+        "diplomas": [
+          "LICENCE",
+          "MASTER",
+          "DOCTORATE"
+        ],
+        "specialties": [
+          "تاريخ",
+          "جغرافيا",
+          "التاريخ",
+          "الجغرافيا",
+          "Histoire",
+          "Géographie",
+          "Histoire-géographie"
+        ],
+        "min_height_cm_male": null,
+        "min_height_cm_female": null,
+        "marital_status": null,
+        "other_ar": [
+          "عدد الخطط المفتوحة لهذه المادة في دورة 2026: 95 من جملة 1630 (حسب ملخص مقالات صحفية — للتثبت من البلاغ الرسمي)",
+          "[مقترح] الإجازة (الأساسية) أو الأستاذية أو الماجستير في التاريخ والجغرافيا أو شهادة معادلة؛ قائمة الشهادات المقبولة لكل مادة تُضبط في قرار فتح المناظرة (هل تُقبل الإجازة التطبيقية؟ — للتثبت)",
+          "[مقترح] الجنسية التونسية والتمتع بالحقوق المدنية وحسن السيرة والسلوك (بطاقة عدد 3)",
+          "[مقترح] حد أقصى محتمل للسن وفق القانون الأساسي العام لأعوان الدولة (يُذكر عادة 40 سنة في غرة جانفي من سنة المناظرة مع إمكانية طرح سنوات الخدمة العمومية) — غير مؤكد لهذه المناظرة، لذلك لم يُدرج كشرط آلي",
+          "[مقترح] تسوية الوضعية إزاء الخدمة الوطنية بالنسبة إلى الذكور",
+          "[مقترح] القدرة البدنية والذهنية على ممارسة مهنة التدريس (شهادة طبية) والالتزام بالعمل في أي مؤسسة تربوية (إعدادية أو معهد) بكامل تراب الجمهورية",
+          "قائمة الاختصاصات أعلاه تقريبية لأغراض المطابقة الآلية والتنبيهات؛ المرجع هو قائمة الشهادات المقبولة في البلاغ الرسمي"
+        ],
+        "other_fr": [
+          "Postes ouverts pour cette discipline en 2026 : 95 sur 1 630 (selon le résumé d'articles de presse — à vérifier sur l'avis officiel)",
+          "[Suggéré] Licence (fondamentale), maîtrise ou master en histoire-géographie ou diplôme équivalent ; la liste exacte des diplômes admis par discipline est fixée par l'arrêté d'ouverture (licence appliquée acceptée ? — à vérifier)",
+          "[Suggéré] Nationalité tunisienne, jouissance des droits civiques, bonne conduite (bulletin n° 3)",
+          "[Suggéré] Limite d'âge possible selon le statut général des agents de l'État (souvent 40 ans au 1er janvier de l'année du concours, avec déduction des années de service public) — non confirmée pour ce concours, donc non appliquée automatiquement",
+          "[Suggéré] Situation régulière vis-à-vis du service national (candidats masculins)",
+          "[Suggéré] Aptitude physique et mentale à l'enseignement (certificat médical) et engagement à servir dans tout établissement (collège ou lycée) du territoire",
+          "La liste de spécialités ci-dessus est indicative (appariement automatique et alertes) ; seule la liste des diplômes de l'avis officiel fait foi"
+        ],
+        "source_key": "s1",
+        "confidence": "LOW",
+        "needs_verification": true,
+        "source_quote": null
+      },
+      "phases": [
+        {
+          "order": 1,
+          "kind": "WRITTEN",
+          "name_ar": "الاختبار الكتابي (القبول الأولي)",
+          "name_fr": "Épreuve(s) écrite(s) d'admissibilité",
+          "is_eliminatory": true,
+          "duration_minutes": null,
+          "description_ar": "أُجري الاختبار الكتابي لدورة 2026 في الربيع (أفريل أو ماي 2026 — التاريخ متضارب) بحضور 66125 مترشحا حسب الصحافة. الصيغة الدقيقة (عدد الاختبارات ومدتها وضواربها) غير منشورة في المصادر المتاحة: يُرجّح اختبار في مادة الاختصاص (التاريخ والجغرافيا) وقد يشمل محورا في علوم التربية والتعلّمية.",
+          "description_fr": "L'écrit de la session 2026 s'est tenu au printemps (avril ou mai 2026 — dates contradictoires) avec 66 125 candidats selon la presse. Le format exact (nombre d'épreuves, durées, coefficients) n'apparaît pas dans les sources disponibles : probablement une épreuve dans la discipline (histoire-géographie), éventuellement complétée par un volet sciences de l'éducation/didactique.",
+          "source_key": "s2",
+          "confidence": "MEDIUM",
+          "needs_verification": true
+        },
+        {
+          "order": 2,
+          "kind": "ORAL",
+          "name_ar": "الاختبار الشفاهي (القبول النهائي)",
+          "name_fr": "Épreuve orale d'admission",
+          "is_eliminatory": true,
+          "duration_minutes": null,
+          "description_ar": "برمج الاختبار الشفاهي في أوت 2026 للمقبولين في الكتابي حسب الصحافة. محتوى مقترح (غير مؤكد): تقديم درس أو تحليل وضعية تعليمية في المادة ثم محادثة مع اللجنة حول التعلّمية والمنظومة التربوية وأخلاقيات المهنة.",
+          "description_fr": "Oral prévu en août 2026 pour les admissibles selon la presse. Contenu suggéré (non confirmé) : présentation d'une leçon ou analyse d'une situation d'enseignement dans la discipline, puis entretien avec le jury (didactique, système éducatif, déontologie).",
+          "source_key": "s2",
+          "confidence": "MEDIUM",
+          "needs_verification": true
+        },
+        {
+          "order": 3,
+          "kind": "TRAINING",
+          "name_ar": "التعيين والتكوين والتربص قبل الترسيم",
+          "name_fr": "Affectation, formation et stage avant titularisation",
+          "is_eliminatory": false,
+          "duration_minutes": null,
+          "description_ar": "[مقترح] يُعيَّن الناجحون كأساتذة متربصين بالإعداديات والمعاهد مع تكوين بيداغوجي وزيارات تفقد قبل الترسيم (مدة التربص وشروطه غير مؤكدة).",
+          "description_fr": "[Suggéré] Les lauréats sont affectés comme professeurs stagiaires en collège/lycée, avec formation pédagogique et inspections avant titularisation (durée et modalités du stage non confirmées).",
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        }
+      ],
+      "subjects": [
+        {
+          "phase_order": 1,
+          "domain": "SPECIALTY",
+          "specialty_key": "spec.enseignement-secondaire.histoire-geographie",
+          "name_ar": "اختبار كتابي في مادة الاختصاص: التاريخ والجغرافيا (المعارف العلمية في مستوى الإجازة وبرامج التعليم الثانوي)",
+          "name_fr": "Épreuve écrite de spécialité : histoire-géographie (savoirs disciplinaires niveau licence et programmes du secondaire)",
+          "coefficient": null,
+          "duration_minutes": null,
+          "question_count": null,
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "phase_order": 1,
+          "domain": "SPECIALTY",
+          "specialty_key": "spec.pedagogie",
+          "name_ar": "علوم التربية والتعلّمية (الديداكتيك والتقييم والمقاربة بالكفايات) — وجوده في الكتابي غير مؤكد",
+          "name_fr": "Sciences de l'éducation et didactique (évaluation, approche par compétences) — présence à l'écrit non confirmée",
+          "coefficient": null,
+          "duration_minutes": null,
+          "question_count": null,
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "phase_order": 2,
+          "domain": "SPECIALTY",
+          "specialty_key": "spec.enseignement-secondaire.histoire-geographie",
+          "name_ar": "الشفاهي: تقديم درس أو تحليل وضعية تعليمية في التاريخ والجغرافيا",
+          "name_fr": "Oral : leçon ou analyse d'une situation d'enseignement en histoire-géographie",
+          "coefficient": null,
+          "duration_minutes": null,
+          "question_count": null,
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "phase_order": 2,
+          "domain": "SPECIALTY",
+          "specialty_key": "spec.enseignement-secondaire.systeme-educatif",
+          "name_ar": "الشفاهي: محادثة حول المنظومة التربوية التونسية وأخلاقيات المهنة والحياة المدرسية",
+          "name_fr": "Oral : entretien sur le système éducatif tunisien, la déontologie et la vie scolaire",
+          "coefficient": null,
+          "duration_minutes": null,
+          "question_count": null,
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        }
+      ],
+      "physical_tests": [],
+      "required_documents": [
+        {
+          "text_ar": "التسجيل عن بعد عبر المنصة التي يحددها البلاغ (edunet.tn حسب الصحافة لدورة 2026) وطباعة استمارة أو وصل الترشح",
+          "text_fr": "Inscription en ligne sur la plateforme indiquée dans l'avis (edunet.tn selon la presse pour 2026) et impression du formulaire ou récépissé",
+          "source_key": "s1",
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "text_ar": "نسخة من بطاقة التعريف الوطنية",
+          "text_fr": "Copie de la carte d'identité nationale",
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "text_ar": "نسخة من الشهادة العلمية المطلوبة (إجازة/أستاذية/ماجستير) وقرار معادلة بالنسبة إلى الشهادات الأجنبية",
+          "text_fr": "Copie du diplôme requis (licence/maîtrise/master) et arrêté d'équivalence pour les diplômes étrangers",
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "text_ar": "كشوف أعداد سنوات الدراسة الجامعية (قد تُطلب للتثبت من الاختصاص)",
+          "text_fr": "Relevés de notes des années universitaires (peuvent être demandés pour vérifier la spécialité)",
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "text_ar": "بطاقة عدد 3 حديثة (عادة عند الانتداب)",
+          "text_fr": "Bulletin n° 3 récent (généralement lors du recrutement)",
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "text_ar": "شهادة طبية تثبت القدرة على ممارسة التدريس (عادة عند الانتداب)",
+          "text_fr": "Certificat médical d'aptitude à l'enseignement (généralement lors du recrutement)",
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "text_ar": "وثيقة تثبت الوضعية إزاء الخدمة الوطنية (للذكور)",
+          "text_fr": "Justificatif de la situation vis-à-vis du service national (candidats masculins)",
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "text_ar": "صور شمسية حديثة",
+          "text_fr": "Photos d'identité récentes",
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        }
+      ],
+      "blueprint": {
+        "total_minutes": 140,
+        "fidelity": "APPROXIMATED",
+        "sections": [
+          {
+            "domain": "SPECIALTY",
+            "specialty_key": "spec.enseignement-secondaire.histoire-geographie",
+            "count": 30,
+            "minutes": 80
+          },
+          {
+            "domain": "ARABIC",
+            "specialty_key": null,
+            "count": 10,
+            "minutes": 20
+          },
+          {
+            "domain": "SPECIALTY",
+            "specialty_key": "spec.pedagogie",
+            "count": 15,
+            "minutes": 30
+          },
+          {
+            "domain": "SPECIALTY",
+            "specialty_key": "spec.enseignement-secondaire.systeme-educatif",
+            "count": 5,
+            "minutes": 10
+          }
+        ]
+      }
+    },
+    {
+      "slug": "prof-francais",
+      "title_ar": "أستاذ التعليم الثانوي — اللغة الفرنسية",
+      "title_fr": "Professeur de l'enseignement secondaire — Français",
+      "diploma_level": "LICENCE",
+      "eligibility": {
+        "min_age": null,
+        "max_age": null,
+        "genders": [
+          "M",
+          "F"
+        ],
+        "nationality": "TN",
+        "diplomas": [
+          "LICENCE",
+          "MASTER",
+          "DOCTORATE"
+        ],
+        "specialties": [
+          "اللغة الفرنسية",
+          "الفرنسية وآدابها",
+          "آداب فرنسية",
+          "Français",
+          "Lettres françaises",
+          "Langue française",
+          "Langue et littérature françaises"
+        ],
+        "min_height_cm_male": null,
+        "min_height_cm_female": null,
+        "marital_status": null,
+        "other_ar": [
+          "لم يُعثر على عدد خطط لهذه المادة في دورة 2026 (الخطط الـ295 غير الموزعة في الملخص الصحفي قد تشمل مواد أخرى) — هذه الخطة مدرجة لأغراض المطابقة والتنبيه فقط وتحتاج إلى تثبت",
+          "[مقترح] الإجازة (الأساسية) أو الأستاذية أو الماجستير في الفرنسية أو شهادة معادلة؛ قائمة الشهادات المقبولة لكل مادة تُضبط في قرار فتح المناظرة (هل تُقبل الإجازة التطبيقية؟ — للتثبت)",
+          "[مقترح] الجنسية التونسية والتمتع بالحقوق المدنية وحسن السيرة والسلوك (بطاقة عدد 3)",
+          "[مقترح] حد أقصى محتمل للسن وفق القانون الأساسي العام لأعوان الدولة (يُذكر عادة 40 سنة في غرة جانفي من سنة المناظرة مع إمكانية طرح سنوات الخدمة العمومية) — غير مؤكد لهذه المناظرة، لذلك لم يُدرج كشرط آلي",
+          "[مقترح] تسوية الوضعية إزاء الخدمة الوطنية بالنسبة إلى الذكور",
+          "[مقترح] القدرة البدنية والذهنية على ممارسة مهنة التدريس (شهادة طبية) والالتزام بالعمل في أي مؤسسة تربوية (إعدادية أو معهد) بكامل تراب الجمهورية",
+          "قائمة الاختصاصات أعلاه تقريبية لأغراض المطابقة الآلية والتنبيهات؛ المرجع هو قائمة الشهادات المقبولة في البلاغ الرسمي"
+        ],
+        "other_fr": [
+          "Aucun nombre de postes trouvé pour cette discipline en 2026 (les 295 postes non ventilés dans le résumé de presse peuvent concerner d'autres disciplines) — position incluse pour l'appariement de profils et les alertes, à vérifier",
+          "[Suggéré] Licence (fondamentale), maîtrise ou master en français ou diplôme équivalent ; la liste exacte des diplômes admis par discipline est fixée par l'arrêté d'ouverture (licence appliquée acceptée ? — à vérifier)",
+          "[Suggéré] Nationalité tunisienne, jouissance des droits civiques, bonne conduite (bulletin n° 3)",
+          "[Suggéré] Limite d'âge possible selon le statut général des agents de l'État (souvent 40 ans au 1er janvier de l'année du concours, avec déduction des années de service public) — non confirmée pour ce concours, donc non appliquée automatiquement",
+          "[Suggéré] Situation régulière vis-à-vis du service national (candidats masculins)",
+          "[Suggéré] Aptitude physique et mentale à l'enseignement (certificat médical) et engagement à servir dans tout établissement (collège ou lycée) du territoire",
+          "La liste de spécialités ci-dessus est indicative (appariement automatique et alertes) ; seule la liste des diplômes de l'avis officiel fait foi"
+        ],
+        "source_key": "s1",
+        "confidence": "LOW",
+        "needs_verification": true,
+        "source_quote": null
+      },
+      "phases": [
+        {
+          "order": 1,
+          "kind": "WRITTEN",
+          "name_ar": "الاختبار الكتابي (القبول الأولي)",
+          "name_fr": "Épreuve(s) écrite(s) d'admissibilité",
+          "is_eliminatory": true,
+          "duration_minutes": null,
+          "description_ar": "أُجري الاختبار الكتابي لدورة 2026 في الربيع (أفريل أو ماي 2026 — التاريخ متضارب) بحضور 66125 مترشحا حسب الصحافة. الصيغة الدقيقة (عدد الاختبارات ومدتها وضواربها) غير منشورة في المصادر المتاحة: يُرجّح اختبار في مادة الاختصاص (الفرنسية) وقد يشمل محورا في علوم التربية والتعلّمية.",
+          "description_fr": "L'écrit de la session 2026 s'est tenu au printemps (avril ou mai 2026 — dates contradictoires) avec 66 125 candidats selon la presse. Le format exact (nombre d'épreuves, durées, coefficients) n'apparaît pas dans les sources disponibles : probablement une épreuve dans la discipline (français), éventuellement complétée par un volet sciences de l'éducation/didactique.",
+          "source_key": "s2",
+          "confidence": "MEDIUM",
+          "needs_verification": true
+        },
+        {
+          "order": 2,
+          "kind": "ORAL",
+          "name_ar": "الاختبار الشفاهي (القبول النهائي)",
+          "name_fr": "Épreuve orale d'admission",
+          "is_eliminatory": true,
+          "duration_minutes": null,
+          "description_ar": "برمج الاختبار الشفاهي في أوت 2026 للمقبولين في الكتابي حسب الصحافة. محتوى مقترح (غير مؤكد): تقديم درس أو تحليل وضعية تعليمية في المادة ثم محادثة مع اللجنة حول التعلّمية والمنظومة التربوية وأخلاقيات المهنة.",
+          "description_fr": "Oral prévu en août 2026 pour les admissibles selon la presse. Contenu suggéré (non confirmé) : présentation d'une leçon ou analyse d'une situation d'enseignement dans la discipline, puis entretien avec le jury (didactique, système éducatif, déontologie).",
+          "source_key": "s2",
+          "confidence": "MEDIUM",
+          "needs_verification": true
+        },
+        {
+          "order": 3,
+          "kind": "TRAINING",
+          "name_ar": "التعيين والتكوين والتربص قبل الترسيم",
+          "name_fr": "Affectation, formation et stage avant titularisation",
+          "is_eliminatory": false,
+          "duration_minutes": null,
+          "description_ar": "[مقترح] يُعيَّن الناجحون كأساتذة متربصين بالإعداديات والمعاهد مع تكوين بيداغوجي وزيارات تفقد قبل الترسيم (مدة التربص وشروطه غير مؤكدة).",
+          "description_fr": "[Suggéré] Les lauréats sont affectés comme professeurs stagiaires en collège/lycée, avec formation pédagogique et inspections avant titularisation (durée et modalités du stage non confirmées).",
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        }
+      ],
+      "subjects": [
+        {
+          "phase_order": 1,
+          "domain": "SPECIALTY",
+          "specialty_key": "spec.enseignement-secondaire.langue-francaise",
+          "name_ar": "اختبار كتابي في مادة الاختصاص: الفرنسية (المعارف العلمية في مستوى الإجازة وبرامج التعليم الثانوي)",
+          "name_fr": "Épreuve écrite de spécialité : français (savoirs disciplinaires niveau licence et programmes du secondaire)",
+          "coefficient": null,
+          "duration_minutes": null,
+          "question_count": null,
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "phase_order": 1,
+          "domain": "SPECIALTY",
+          "specialty_key": "spec.pedagogie",
+          "name_ar": "علوم التربية والتعلّمية (الديداكتيك والتقييم والمقاربة بالكفايات) — وجوده في الكتابي غير مؤكد",
+          "name_fr": "Sciences de l'éducation et didactique (évaluation, approche par compétences) — présence à l'écrit non confirmée",
+          "coefficient": null,
+          "duration_minutes": null,
+          "question_count": null,
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "phase_order": 2,
+          "domain": "SPECIALTY",
+          "specialty_key": "spec.enseignement-secondaire.langue-francaise",
+          "name_ar": "الشفاهي: تقديم درس أو تحليل وضعية تعليمية في الفرنسية",
+          "name_fr": "Oral : leçon ou analyse d'une situation d'enseignement en français",
+          "coefficient": null,
+          "duration_minutes": null,
+          "question_count": null,
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "phase_order": 2,
+          "domain": "SPECIALTY",
+          "specialty_key": "spec.enseignement-secondaire.systeme-educatif",
+          "name_ar": "الشفاهي: محادثة حول المنظومة التربوية التونسية وأخلاقيات المهنة والحياة المدرسية",
+          "name_fr": "Oral : entretien sur le système éducatif tunisien, la déontologie et la vie scolaire",
+          "coefficient": null,
+          "duration_minutes": null,
+          "question_count": null,
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        }
+      ],
+      "physical_tests": [],
+      "required_documents": [
+        {
+          "text_ar": "التسجيل عن بعد عبر المنصة التي يحددها البلاغ (edunet.tn حسب الصحافة لدورة 2026) وطباعة استمارة أو وصل الترشح",
+          "text_fr": "Inscription en ligne sur la plateforme indiquée dans l'avis (edunet.tn selon la presse pour 2026) et impression du formulaire ou récépissé",
+          "source_key": "s1",
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "text_ar": "نسخة من بطاقة التعريف الوطنية",
+          "text_fr": "Copie de la carte d'identité nationale",
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "text_ar": "نسخة من الشهادة العلمية المطلوبة (إجازة/أستاذية/ماجستير) وقرار معادلة بالنسبة إلى الشهادات الأجنبية",
+          "text_fr": "Copie du diplôme requis (licence/maîtrise/master) et arrêté d'équivalence pour les diplômes étrangers",
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "text_ar": "كشوف أعداد سنوات الدراسة الجامعية (قد تُطلب للتثبت من الاختصاص)",
+          "text_fr": "Relevés de notes des années universitaires (peuvent être demandés pour vérifier la spécialité)",
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "text_ar": "بطاقة عدد 3 حديثة (عادة عند الانتداب)",
+          "text_fr": "Bulletin n° 3 récent (généralement lors du recrutement)",
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "text_ar": "شهادة طبية تثبت القدرة على ممارسة التدريس (عادة عند الانتداب)",
+          "text_fr": "Certificat médical d'aptitude à l'enseignement (généralement lors du recrutement)",
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "text_ar": "وثيقة تثبت الوضعية إزاء الخدمة الوطنية (للذكور)",
+          "text_fr": "Justificatif de la situation vis-à-vis du service national (candidats masculins)",
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "text_ar": "صور شمسية حديثة",
+          "text_fr": "Photos d'identité récentes",
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        }
+      ],
+      "blueprint": {
+        "total_minutes": 140,
+        "fidelity": "APPROXIMATED",
+        "sections": [
+          {
+            "domain": "SPECIALTY",
+            "specialty_key": "spec.enseignement-secondaire.langue-francaise",
+            "count": 30,
+            "minutes": 80
+          },
+          {
+            "domain": "FRENCH",
+            "specialty_key": null,
+            "count": 10,
+            "minutes": 20
+          },
+          {
+            "domain": "SPECIALTY",
+            "specialty_key": "spec.pedagogie",
+            "count": 15,
+            "minutes": 30
+          },
+          {
+            "domain": "SPECIALTY",
+            "specialty_key": "spec.enseignement-secondaire.systeme-educatif",
+            "count": 5,
+            "minutes": 10
+          }
+        ]
+      }
+    },
+    {
+      "slug": "prof-anglais",
+      "title_ar": "أستاذ التعليم الثانوي — اللغة الإنجليزية",
+      "title_fr": "Professeur de l'enseignement secondaire — Anglais",
+      "diploma_level": "LICENCE",
+      "eligibility": {
+        "min_age": null,
+        "max_age": null,
+        "genders": [
+          "M",
+          "F"
+        ],
+        "nationality": "TN",
+        "diplomas": [
+          "LICENCE",
+          "MASTER",
+          "DOCTORATE"
+        ],
+        "specialties": [
+          "اللغة الإنجليزية",
+          "الإنجليزية",
+          "الانجليزية",
+          "آداب إنجليزية",
+          "Anglais",
+          "English",
+          "Études anglaises",
+          "Langue et littérature anglaises"
+        ],
+        "min_height_cm_male": null,
+        "min_height_cm_female": null,
+        "marital_status": null,
+        "other_ar": [
+          "لم يُعثر على عدد خطط لهذه المادة في دورة 2026 (الخطط الـ295 غير الموزعة في الملخص الصحفي قد تشمل مواد أخرى) — هذه الخطة مدرجة لأغراض المطابقة والتنبيه فقط وتحتاج إلى تثبت",
+          "[مقترح] الإجازة (الأساسية) أو الأستاذية أو الماجستير في الإنجليزية أو شهادة معادلة؛ قائمة الشهادات المقبولة لكل مادة تُضبط في قرار فتح المناظرة (هل تُقبل الإجازة التطبيقية؟ — للتثبت)",
+          "[مقترح] الجنسية التونسية والتمتع بالحقوق المدنية وحسن السيرة والسلوك (بطاقة عدد 3)",
+          "[مقترح] حد أقصى محتمل للسن وفق القانون الأساسي العام لأعوان الدولة (يُذكر عادة 40 سنة في غرة جانفي من سنة المناظرة مع إمكانية طرح سنوات الخدمة العمومية) — غير مؤكد لهذه المناظرة، لذلك لم يُدرج كشرط آلي",
+          "[مقترح] تسوية الوضعية إزاء الخدمة الوطنية بالنسبة إلى الذكور",
+          "[مقترح] القدرة البدنية والذهنية على ممارسة مهنة التدريس (شهادة طبية) والالتزام بالعمل في أي مؤسسة تربوية (إعدادية أو معهد) بكامل تراب الجمهورية",
+          "قائمة الاختصاصات أعلاه تقريبية لأغراض المطابقة الآلية والتنبيهات؛ المرجع هو قائمة الشهادات المقبولة في البلاغ الرسمي"
+        ],
+        "other_fr": [
+          "Aucun nombre de postes trouvé pour cette discipline en 2026 (les 295 postes non ventilés dans le résumé de presse peuvent concerner d'autres disciplines) — position incluse pour l'appariement de profils et les alertes, à vérifier",
+          "[Suggéré] Licence (fondamentale), maîtrise ou master en anglais ou diplôme équivalent ; la liste exacte des diplômes admis par discipline est fixée par l'arrêté d'ouverture (licence appliquée acceptée ? — à vérifier)",
+          "[Suggéré] Nationalité tunisienne, jouissance des droits civiques, bonne conduite (bulletin n° 3)",
+          "[Suggéré] Limite d'âge possible selon le statut général des agents de l'État (souvent 40 ans au 1er janvier de l'année du concours, avec déduction des années de service public) — non confirmée pour ce concours, donc non appliquée automatiquement",
+          "[Suggéré] Situation régulière vis-à-vis du service national (candidats masculins)",
+          "[Suggéré] Aptitude physique et mentale à l'enseignement (certificat médical) et engagement à servir dans tout établissement (collège ou lycée) du territoire",
+          "La liste de spécialités ci-dessus est indicative (appariement automatique et alertes) ; seule la liste des diplômes de l'avis officiel fait foi"
+        ],
+        "source_key": "s1",
+        "confidence": "LOW",
+        "needs_verification": true,
+        "source_quote": null
+      },
+      "phases": [
+        {
+          "order": 1,
+          "kind": "WRITTEN",
+          "name_ar": "الاختبار الكتابي (القبول الأولي)",
+          "name_fr": "Épreuve(s) écrite(s) d'admissibilité",
+          "is_eliminatory": true,
+          "duration_minutes": null,
+          "description_ar": "أُجري الاختبار الكتابي لدورة 2026 في الربيع (أفريل أو ماي 2026 — التاريخ متضارب) بحضور 66125 مترشحا حسب الصحافة. الصيغة الدقيقة (عدد الاختبارات ومدتها وضواربها) غير منشورة في المصادر المتاحة: يُرجّح اختبار في مادة الاختصاص (الإنجليزية) وقد يشمل محورا في علوم التربية والتعلّمية.",
+          "description_fr": "L'écrit de la session 2026 s'est tenu au printemps (avril ou mai 2026 — dates contradictoires) avec 66 125 candidats selon la presse. Le format exact (nombre d'épreuves, durées, coefficients) n'apparaît pas dans les sources disponibles : probablement une épreuve dans la discipline (anglais), éventuellement complétée par un volet sciences de l'éducation/didactique.",
+          "source_key": "s2",
+          "confidence": "MEDIUM",
+          "needs_verification": true
+        },
+        {
+          "order": 2,
+          "kind": "ORAL",
+          "name_ar": "الاختبار الشفاهي (القبول النهائي)",
+          "name_fr": "Épreuve orale d'admission",
+          "is_eliminatory": true,
+          "duration_minutes": null,
+          "description_ar": "برمج الاختبار الشفاهي في أوت 2026 للمقبولين في الكتابي حسب الصحافة. محتوى مقترح (غير مؤكد): تقديم درس أو تحليل وضعية تعليمية في المادة ثم محادثة مع اللجنة حول التعلّمية والمنظومة التربوية وأخلاقيات المهنة.",
+          "description_fr": "Oral prévu en août 2026 pour les admissibles selon la presse. Contenu suggéré (non confirmé) : présentation d'une leçon ou analyse d'une situation d'enseignement dans la discipline, puis entretien avec le jury (didactique, système éducatif, déontologie).",
+          "source_key": "s2",
+          "confidence": "MEDIUM",
+          "needs_verification": true
+        },
+        {
+          "order": 3,
+          "kind": "TRAINING",
+          "name_ar": "التعيين والتكوين والتربص قبل الترسيم",
+          "name_fr": "Affectation, formation et stage avant titularisation",
+          "is_eliminatory": false,
+          "duration_minutes": null,
+          "description_ar": "[مقترح] يُعيَّن الناجحون كأساتذة متربصين بالإعداديات والمعاهد مع تكوين بيداغوجي وزيارات تفقد قبل الترسيم (مدة التربص وشروطه غير مؤكدة).",
+          "description_fr": "[Suggéré] Les lauréats sont affectés comme professeurs stagiaires en collège/lycée, avec formation pédagogique et inspections avant titularisation (durée et modalités du stage non confirmées).",
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        }
+      ],
+      "subjects": [
+        {
+          "phase_order": 1,
+          "domain": "SPECIALTY",
+          "specialty_key": "spec.enseignement-secondaire.langue-anglaise",
+          "name_ar": "اختبار كتابي في مادة الاختصاص: الإنجليزية (المعارف العلمية في مستوى الإجازة وبرامج التعليم الثانوي)",
+          "name_fr": "Épreuve écrite de spécialité : anglais (savoirs disciplinaires niveau licence et programmes du secondaire)",
+          "coefficient": null,
+          "duration_minutes": null,
+          "question_count": null,
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "phase_order": 1,
+          "domain": "SPECIALTY",
+          "specialty_key": "spec.pedagogie",
+          "name_ar": "علوم التربية والتعلّمية (الديداكتيك والتقييم والمقاربة بالكفايات) — وجوده في الكتابي غير مؤكد",
+          "name_fr": "Sciences de l'éducation et didactique (évaluation, approche par compétences) — présence à l'écrit non confirmée",
+          "coefficient": null,
+          "duration_minutes": null,
+          "question_count": null,
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "phase_order": 2,
+          "domain": "SPECIALTY",
+          "specialty_key": "spec.enseignement-secondaire.langue-anglaise",
+          "name_ar": "الشفاهي: تقديم درس أو تحليل وضعية تعليمية في الإنجليزية",
+          "name_fr": "Oral : leçon ou analyse d'une situation d'enseignement en anglais",
+          "coefficient": null,
+          "duration_minutes": null,
+          "question_count": null,
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "phase_order": 2,
+          "domain": "SPECIALTY",
+          "specialty_key": "spec.enseignement-secondaire.systeme-educatif",
+          "name_ar": "الشفاهي: محادثة حول المنظومة التربوية التونسية وأخلاقيات المهنة والحياة المدرسية",
+          "name_fr": "Oral : entretien sur le système éducatif tunisien, la déontologie et la vie scolaire",
+          "coefficient": null,
+          "duration_minutes": null,
+          "question_count": null,
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        }
+      ],
+      "physical_tests": [],
+      "required_documents": [
+        {
+          "text_ar": "التسجيل عن بعد عبر المنصة التي يحددها البلاغ (edunet.tn حسب الصحافة لدورة 2026) وطباعة استمارة أو وصل الترشح",
+          "text_fr": "Inscription en ligne sur la plateforme indiquée dans l'avis (edunet.tn selon la presse pour 2026) et impression du formulaire ou récépissé",
+          "source_key": "s1",
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "text_ar": "نسخة من بطاقة التعريف الوطنية",
+          "text_fr": "Copie de la carte d'identité nationale",
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "text_ar": "نسخة من الشهادة العلمية المطلوبة (إجازة/أستاذية/ماجستير) وقرار معادلة بالنسبة إلى الشهادات الأجنبية",
+          "text_fr": "Copie du diplôme requis (licence/maîtrise/master) et arrêté d'équivalence pour les diplômes étrangers",
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "text_ar": "كشوف أعداد سنوات الدراسة الجامعية (قد تُطلب للتثبت من الاختصاص)",
+          "text_fr": "Relevés de notes des années universitaires (peuvent être demandés pour vérifier la spécialité)",
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "text_ar": "بطاقة عدد 3 حديثة (عادة عند الانتداب)",
+          "text_fr": "Bulletin n° 3 récent (généralement lors du recrutement)",
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "text_ar": "شهادة طبية تثبت القدرة على ممارسة التدريس (عادة عند الانتداب)",
+          "text_fr": "Certificat médical d'aptitude à l'enseignement (généralement lors du recrutement)",
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "text_ar": "وثيقة تثبت الوضعية إزاء الخدمة الوطنية (للذكور)",
+          "text_fr": "Justificatif de la situation vis-à-vis du service national (candidats masculins)",
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "text_ar": "صور شمسية حديثة",
+          "text_fr": "Photos d'identité récentes",
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        }
+      ],
+      "blueprint": {
+        "total_minutes": 140,
+        "fidelity": "APPROXIMATED",
+        "sections": [
+          {
+            "domain": "SPECIALTY",
+            "specialty_key": "spec.enseignement-secondaire.langue-anglaise",
+            "count": 30,
+            "minutes": 80
+          },
+          {
+            "domain": "ENGLISH",
+            "specialty_key": null,
+            "count": 10,
+            "minutes": 20
+          },
+          {
+            "domain": "SPECIALTY",
+            "specialty_key": "spec.pedagogie",
+            "count": 15,
+            "minutes": 30
+          },
+          {
+            "domain": "SPECIALTY",
+            "specialty_key": "spec.enseignement-secondaire.systeme-educatif",
+            "count": 5,
+            "minutes": 10
+          }
+        ]
+      }
+    },
+    {
+      "slug": "prof-sciences-vie-terre",
+      "title_ar": "أستاذ التعليم الثانوي — علوم الحياة والأرض",
+      "title_fr": "Professeur de l'enseignement secondaire — Sciences de la vie et de la terre (SVT)",
+      "diploma_level": "LICENCE",
+      "eligibility": {
+        "min_age": null,
+        "max_age": null,
+        "genders": [
+          "M",
+          "F"
+        ],
+        "nationality": "TN",
+        "diplomas": [
+          "LICENCE",
+          "MASTER",
+          "DOCTORATE"
+        ],
+        "specialties": [
+          "علوم الحياة والأرض",
+          "علوم طبيعية",
+          "بيولوجيا",
+          "جيولوجيا",
+          "Sciences de la vie et de la terre",
+          "SVT",
+          "Biologie",
+          "Géologie",
+          "Sciences naturelles"
+        ],
+        "min_height_cm_male": null,
+        "min_height_cm_female": null,
+        "marital_status": null,
+        "other_ar": [
+          "لم يُعثر على عدد خطط لهذه المادة في دورة 2026 (الخطط الـ295 غير الموزعة في الملخص الصحفي قد تشمل مواد أخرى) — هذه الخطة مدرجة لأغراض المطابقة والتنبيه فقط وتحتاج إلى تثبت",
+          "[مقترح] الإجازة (الأساسية) أو الأستاذية أو الماجستير في علوم الحياة والأرض أو شهادة معادلة؛ قائمة الشهادات المقبولة لكل مادة تُضبط في قرار فتح المناظرة (هل تُقبل الإجازة التطبيقية؟ — للتثبت)",
+          "[مقترح] الجنسية التونسية والتمتع بالحقوق المدنية وحسن السيرة والسلوك (بطاقة عدد 3)",
+          "[مقترح] حد أقصى محتمل للسن وفق القانون الأساسي العام لأعوان الدولة (يُذكر عادة 40 سنة في غرة جانفي من سنة المناظرة مع إمكانية طرح سنوات الخدمة العمومية) — غير مؤكد لهذه المناظرة، لذلك لم يُدرج كشرط آلي",
+          "[مقترح] تسوية الوضعية إزاء الخدمة الوطنية بالنسبة إلى الذكور",
+          "[مقترح] القدرة البدنية والذهنية على ممارسة مهنة التدريس (شهادة طبية) والالتزام بالعمل في أي مؤسسة تربوية (إعدادية أو معهد) بكامل تراب الجمهورية",
+          "قائمة الاختصاصات أعلاه تقريبية لأغراض المطابقة الآلية والتنبيهات؛ المرجع هو قائمة الشهادات المقبولة في البلاغ الرسمي"
+        ],
+        "other_fr": [
+          "Aucun nombre de postes trouvé pour cette discipline en 2026 (les 295 postes non ventilés dans le résumé de presse peuvent concerner d'autres disciplines) — position incluse pour l'appariement de profils et les alertes, à vérifier",
+          "[Suggéré] Licence (fondamentale), maîtrise ou master en SVT ou diplôme équivalent ; la liste exacte des diplômes admis par discipline est fixée par l'arrêté d'ouverture (licence appliquée acceptée ? — à vérifier)",
+          "[Suggéré] Nationalité tunisienne, jouissance des droits civiques, bonne conduite (bulletin n° 3)",
+          "[Suggéré] Limite d'âge possible selon le statut général des agents de l'État (souvent 40 ans au 1er janvier de l'année du concours, avec déduction des années de service public) — non confirmée pour ce concours, donc non appliquée automatiquement",
+          "[Suggéré] Situation régulière vis-à-vis du service national (candidats masculins)",
+          "[Suggéré] Aptitude physique et mentale à l'enseignement (certificat médical) et engagement à servir dans tout établissement (collège ou lycée) du territoire",
+          "La liste de spécialités ci-dessus est indicative (appariement automatique et alertes) ; seule la liste des diplômes de l'avis officiel fait foi"
+        ],
+        "source_key": "s1",
+        "confidence": "LOW",
+        "needs_verification": true,
+        "source_quote": null
+      },
+      "phases": [
+        {
+          "order": 1,
+          "kind": "WRITTEN",
+          "name_ar": "الاختبار الكتابي (القبول الأولي)",
+          "name_fr": "Épreuve(s) écrite(s) d'admissibilité",
+          "is_eliminatory": true,
+          "duration_minutes": null,
+          "description_ar": "أُجري الاختبار الكتابي لدورة 2026 في الربيع (أفريل أو ماي 2026 — التاريخ متضارب) بحضور 66125 مترشحا حسب الصحافة. الصيغة الدقيقة (عدد الاختبارات ومدتها وضواربها) غير منشورة في المصادر المتاحة: يُرجّح اختبار في مادة الاختصاص (علوم الحياة والأرض) وقد يشمل محورا في علوم التربية والتعلّمية.",
+          "description_fr": "L'écrit de la session 2026 s'est tenu au printemps (avril ou mai 2026 — dates contradictoires) avec 66 125 candidats selon la presse. Le format exact (nombre d'épreuves, durées, coefficients) n'apparaît pas dans les sources disponibles : probablement une épreuve dans la discipline (SVT), éventuellement complétée par un volet sciences de l'éducation/didactique.",
+          "source_key": "s2",
+          "confidence": "MEDIUM",
+          "needs_verification": true
+        },
+        {
+          "order": 2,
+          "kind": "ORAL",
+          "name_ar": "الاختبار الشفاهي (القبول النهائي)",
+          "name_fr": "Épreuve orale d'admission",
+          "is_eliminatory": true,
+          "duration_minutes": null,
+          "description_ar": "برمج الاختبار الشفاهي في أوت 2026 للمقبولين في الكتابي حسب الصحافة. محتوى مقترح (غير مؤكد): تقديم درس أو تحليل وضعية تعليمية في المادة ثم محادثة مع اللجنة حول التعلّمية والمنظومة التربوية وأخلاقيات المهنة.",
+          "description_fr": "Oral prévu en août 2026 pour les admissibles selon la presse. Contenu suggéré (non confirmé) : présentation d'une leçon ou analyse d'une situation d'enseignement dans la discipline, puis entretien avec le jury (didactique, système éducatif, déontologie).",
+          "source_key": "s2",
+          "confidence": "MEDIUM",
+          "needs_verification": true
+        },
+        {
+          "order": 3,
+          "kind": "TRAINING",
+          "name_ar": "التعيين والتكوين والتربص قبل الترسيم",
+          "name_fr": "Affectation, formation et stage avant titularisation",
+          "is_eliminatory": false,
+          "duration_minutes": null,
+          "description_ar": "[مقترح] يُعيَّن الناجحون كأساتذة متربصين بالإعداديات والمعاهد مع تكوين بيداغوجي وزيارات تفقد قبل الترسيم (مدة التربص وشروطه غير مؤكدة).",
+          "description_fr": "[Suggéré] Les lauréats sont affectés comme professeurs stagiaires en collège/lycée, avec formation pédagogique et inspections avant titularisation (durée et modalités du stage non confirmées).",
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        }
+      ],
+      "subjects": [
+        {
+          "phase_order": 1,
+          "domain": "SPECIALTY",
+          "specialty_key": "spec.enseignement-secondaire.svt",
+          "name_ar": "اختبار كتابي في مادة الاختصاص: علوم الحياة والأرض (المعارف العلمية في مستوى الإجازة وبرامج التعليم الثانوي)",
+          "name_fr": "Épreuve écrite de spécialité : SVT (savoirs disciplinaires niveau licence et programmes du secondaire)",
+          "coefficient": null,
+          "duration_minutes": null,
+          "question_count": null,
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "phase_order": 1,
+          "domain": "SPECIALTY",
+          "specialty_key": "spec.pedagogie",
+          "name_ar": "علوم التربية والتعلّمية (الديداكتيك والتقييم والمقاربة بالكفايات) — وجوده في الكتابي غير مؤكد",
+          "name_fr": "Sciences de l'éducation et didactique (évaluation, approche par compétences) — présence à l'écrit non confirmée",
+          "coefficient": null,
+          "duration_minutes": null,
+          "question_count": null,
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "phase_order": 2,
+          "domain": "SPECIALTY",
+          "specialty_key": "spec.enseignement-secondaire.svt",
+          "name_ar": "الشفاهي: تقديم درس أو تحليل وضعية تعليمية في علوم الحياة والأرض",
+          "name_fr": "Oral : leçon ou analyse d'une situation d'enseignement en SVT",
+          "coefficient": null,
+          "duration_minutes": null,
+          "question_count": null,
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "phase_order": 2,
+          "domain": "SPECIALTY",
+          "specialty_key": "spec.enseignement-secondaire.systeme-educatif",
+          "name_ar": "الشفاهي: محادثة حول المنظومة التربوية التونسية وأخلاقيات المهنة والحياة المدرسية",
+          "name_fr": "Oral : entretien sur le système éducatif tunisien, la déontologie et la vie scolaire",
+          "coefficient": null,
+          "duration_minutes": null,
+          "question_count": null,
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        }
+      ],
+      "physical_tests": [],
+      "required_documents": [
+        {
+          "text_ar": "التسجيل عن بعد عبر المنصة التي يحددها البلاغ (edunet.tn حسب الصحافة لدورة 2026) وطباعة استمارة أو وصل الترشح",
+          "text_fr": "Inscription en ligne sur la plateforme indiquée dans l'avis (edunet.tn selon la presse pour 2026) et impression du formulaire ou récépissé",
+          "source_key": "s1",
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "text_ar": "نسخة من بطاقة التعريف الوطنية",
+          "text_fr": "Copie de la carte d'identité nationale",
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "text_ar": "نسخة من الشهادة العلمية المطلوبة (إجازة/أستاذية/ماجستير) وقرار معادلة بالنسبة إلى الشهادات الأجنبية",
+          "text_fr": "Copie du diplôme requis (licence/maîtrise/master) et arrêté d'équivalence pour les diplômes étrangers",
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "text_ar": "كشوف أعداد سنوات الدراسة الجامعية (قد تُطلب للتثبت من الاختصاص)",
+          "text_fr": "Relevés de notes des années universitaires (peuvent être demandés pour vérifier la spécialité)",
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "text_ar": "بطاقة عدد 3 حديثة (عادة عند الانتداب)",
+          "text_fr": "Bulletin n° 3 récent (généralement lors du recrutement)",
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "text_ar": "شهادة طبية تثبت القدرة على ممارسة التدريس (عادة عند الانتداب)",
+          "text_fr": "Certificat médical d'aptitude à l'enseignement (généralement lors du recrutement)",
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "text_ar": "وثيقة تثبت الوضعية إزاء الخدمة الوطنية (للذكور)",
+          "text_fr": "Justificatif de la situation vis-à-vis du service national (candidats masculins)",
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "text_ar": "صور شمسية حديثة",
+          "text_fr": "Photos d'identité récentes",
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        }
+      ],
+      "blueprint": {
+        "total_minutes": 140,
+        "fidelity": "APPROXIMATED",
+        "sections": [
+          {
+            "domain": "SPECIALTY",
+            "specialty_key": "spec.enseignement-secondaire.svt",
+            "count": 40,
+            "minutes": 100
+          },
+          {
+            "domain": "SPECIALTY",
+            "specialty_key": "spec.pedagogie",
+            "count": 15,
+            "minutes": 30
+          },
+          {
+            "domain": "SPECIALTY",
+            "specialty_key": "spec.enseignement-secondaire.systeme-educatif",
+            "count": 5,
+            "minutes": 10
+          }
+        ]
+      }
+    },
+    {
+      "slug": "prof-informatique",
+      "title_ar": "أستاذ التعليم الثانوي — الإعلامية",
+      "title_fr": "Professeur de l'enseignement secondaire — Informatique",
+      "diploma_level": "LICENCE",
+      "eligibility": {
+        "min_age": null,
+        "max_age": null,
+        "genders": [
+          "M",
+          "F"
+        ],
+        "nationality": "TN",
+        "diplomas": [
+          "LICENCE",
+          "MASTER",
+          "ENGINEER",
+          "DOCTORATE"
+        ],
+        "specialties": [
+          "إعلامية",
+          "الإعلامية",
+          "علوم الإعلامية",
+          "Informatique",
+          "Sciences informatiques",
+          "Génie logiciel",
+          "Computer science"
+        ],
+        "min_height_cm_male": null,
+        "min_height_cm_female": null,
+        "marital_status": null,
+        "other_ar": [
+          "لم يُعثر على عدد خطط لهذه المادة في دورة 2026 (الخطط الـ295 غير الموزعة في الملخص الصحفي قد تشمل مواد أخرى) — هذه الخطة مدرجة لأغراض المطابقة والتنبيه فقط وتحتاج إلى تثبت",
+          "[مقترح] الإجازة (الأساسية) أو الأستاذية أو الماجستير في الإعلامية أو شهادة معادلة؛ قائمة الشهادات المقبولة لكل مادة تُضبط في قرار فتح المناظرة (هل تُقبل الإجازة التطبيقية؟ — للتثبت)",
+          "[مقترح] الجنسية التونسية والتمتع بالحقوق المدنية وحسن السيرة والسلوك (بطاقة عدد 3)",
+          "[مقترح] حد أقصى محتمل للسن وفق القانون الأساسي العام لأعوان الدولة (يُذكر عادة 40 سنة في غرة جانفي من سنة المناظرة مع إمكانية طرح سنوات الخدمة العمومية) — غير مؤكد لهذه المناظرة، لذلك لم يُدرج كشرط آلي",
+          "[مقترح] تسوية الوضعية إزاء الخدمة الوطنية بالنسبة إلى الذكور",
+          "[مقترح] القدرة البدنية والذهنية على ممارسة مهنة التدريس (شهادة طبية) والالتزام بالعمل في أي مؤسسة تربوية (إعدادية أو معهد) بكامل تراب الجمهورية",
+          "قائمة الاختصاصات أعلاه تقريبية لأغراض المطابقة الآلية والتنبيهات؛ المرجع هو قائمة الشهادات المقبولة في البلاغ الرسمي"
+        ],
+        "other_fr": [
+          "Aucun nombre de postes trouvé pour cette discipline en 2026 (les 295 postes non ventilés dans le résumé de presse peuvent concerner d'autres disciplines) — position incluse pour l'appariement de profils et les alertes, à vérifier",
+          "[Suggéré] Licence (fondamentale), maîtrise ou master en informatique ou diplôme équivalent ; la liste exacte des diplômes admis par discipline est fixée par l'arrêté d'ouverture (licence appliquée acceptée ? — à vérifier)",
+          "[Suggéré] Nationalité tunisienne, jouissance des droits civiques, bonne conduite (bulletin n° 3)",
+          "[Suggéré] Limite d'âge possible selon le statut général des agents de l'État (souvent 40 ans au 1er janvier de l'année du concours, avec déduction des années de service public) — non confirmée pour ce concours, donc non appliquée automatiquement",
+          "[Suggéré] Situation régulière vis-à-vis du service national (candidats masculins)",
+          "[Suggéré] Aptitude physique et mentale à l'enseignement (certificat médical) et engagement à servir dans tout établissement (collège ou lycée) du territoire",
+          "La liste de spécialités ci-dessus est indicative (appariement automatique et alertes) ; seule la liste des diplômes de l'avis officiel fait foi"
+        ],
+        "source_key": "s1",
+        "confidence": "LOW",
+        "needs_verification": true,
+        "source_quote": null
+      },
+      "phases": [
+        {
+          "order": 1,
+          "kind": "WRITTEN",
+          "name_ar": "الاختبار الكتابي (القبول الأولي)",
+          "name_fr": "Épreuve(s) écrite(s) d'admissibilité",
+          "is_eliminatory": true,
+          "duration_minutes": null,
+          "description_ar": "أُجري الاختبار الكتابي لدورة 2026 في الربيع (أفريل أو ماي 2026 — التاريخ متضارب) بحضور 66125 مترشحا حسب الصحافة. الصيغة الدقيقة (عدد الاختبارات ومدتها وضواربها) غير منشورة في المصادر المتاحة: يُرجّح اختبار في مادة الاختصاص (الإعلامية) وقد يشمل محورا في علوم التربية والتعلّمية.",
+          "description_fr": "L'écrit de la session 2026 s'est tenu au printemps (avril ou mai 2026 — dates contradictoires) avec 66 125 candidats selon la presse. Le format exact (nombre d'épreuves, durées, coefficients) n'apparaît pas dans les sources disponibles : probablement une épreuve dans la discipline (informatique), éventuellement complétée par un volet sciences de l'éducation/didactique.",
+          "source_key": "s2",
+          "confidence": "MEDIUM",
+          "needs_verification": true
+        },
+        {
+          "order": 2,
+          "kind": "ORAL",
+          "name_ar": "الاختبار الشفاهي (القبول النهائي)",
+          "name_fr": "Épreuve orale d'admission",
+          "is_eliminatory": true,
+          "duration_minutes": null,
+          "description_ar": "برمج الاختبار الشفاهي في أوت 2026 للمقبولين في الكتابي حسب الصحافة. محتوى مقترح (غير مؤكد): تقديم درس أو تحليل وضعية تعليمية في المادة ثم محادثة مع اللجنة حول التعلّمية والمنظومة التربوية وأخلاقيات المهنة.",
+          "description_fr": "Oral prévu en août 2026 pour les admissibles selon la presse. Contenu suggéré (non confirmé) : présentation d'une leçon ou analyse d'une situation d'enseignement dans la discipline, puis entretien avec le jury (didactique, système éducatif, déontologie).",
+          "source_key": "s2",
+          "confidence": "MEDIUM",
+          "needs_verification": true
+        },
+        {
+          "order": 3,
+          "kind": "TRAINING",
+          "name_ar": "التعيين والتكوين والتربص قبل الترسيم",
+          "name_fr": "Affectation, formation et stage avant titularisation",
+          "is_eliminatory": false,
+          "duration_minutes": null,
+          "description_ar": "[مقترح] يُعيَّن الناجحون كأساتذة متربصين بالإعداديات والمعاهد مع تكوين بيداغوجي وزيارات تفقد قبل الترسيم (مدة التربص وشروطه غير مؤكدة).",
+          "description_fr": "[Suggéré] Les lauréats sont affectés comme professeurs stagiaires en collège/lycée, avec formation pédagogique et inspections avant titularisation (durée et modalités du stage non confirmées).",
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        }
+      ],
+      "subjects": [
+        {
+          "phase_order": 1,
+          "domain": "SPECIALTY",
+          "specialty_key": "spec.informatique",
+          "name_ar": "اختبار كتابي في مادة الاختصاص: الإعلامية (المعارف العلمية في مستوى الإجازة وبرامج التعليم الثانوي)",
+          "name_fr": "Épreuve écrite de spécialité : informatique (savoirs disciplinaires niveau licence et programmes du secondaire)",
+          "coefficient": null,
+          "duration_minutes": null,
+          "question_count": null,
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "phase_order": 1,
+          "domain": "SPECIALTY",
+          "specialty_key": "spec.pedagogie",
+          "name_ar": "علوم التربية والتعلّمية (الديداكتيك والتقييم والمقاربة بالكفايات) — وجوده في الكتابي غير مؤكد",
+          "name_fr": "Sciences de l'éducation et didactique (évaluation, approche par compétences) — présence à l'écrit non confirmée",
+          "coefficient": null,
+          "duration_minutes": null,
+          "question_count": null,
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "phase_order": 2,
+          "domain": "SPECIALTY",
+          "specialty_key": "spec.informatique",
+          "name_ar": "الشفاهي: تقديم درس أو تحليل وضعية تعليمية في الإعلامية",
+          "name_fr": "Oral : leçon ou analyse d'une situation d'enseignement en informatique",
+          "coefficient": null,
+          "duration_minutes": null,
+          "question_count": null,
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "phase_order": 2,
+          "domain": "SPECIALTY",
+          "specialty_key": "spec.enseignement-secondaire.systeme-educatif",
+          "name_ar": "الشفاهي: محادثة حول المنظومة التربوية التونسية وأخلاقيات المهنة والحياة المدرسية",
+          "name_fr": "Oral : entretien sur le système éducatif tunisien, la déontologie et la vie scolaire",
+          "coefficient": null,
+          "duration_minutes": null,
+          "question_count": null,
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        }
+      ],
+      "physical_tests": [],
+      "required_documents": [
+        {
+          "text_ar": "التسجيل عن بعد عبر المنصة التي يحددها البلاغ (edunet.tn حسب الصحافة لدورة 2026) وطباعة استمارة أو وصل الترشح",
+          "text_fr": "Inscription en ligne sur la plateforme indiquée dans l'avis (edunet.tn selon la presse pour 2026) et impression du formulaire ou récépissé",
+          "source_key": "s1",
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "text_ar": "نسخة من بطاقة التعريف الوطنية",
+          "text_fr": "Copie de la carte d'identité nationale",
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "text_ar": "نسخة من الشهادة العلمية المطلوبة (إجازة/أستاذية/ماجستير) وقرار معادلة بالنسبة إلى الشهادات الأجنبية",
+          "text_fr": "Copie du diplôme requis (licence/maîtrise/master) et arrêté d'équivalence pour les diplômes étrangers",
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "text_ar": "كشوف أعداد سنوات الدراسة الجامعية (قد تُطلب للتثبت من الاختصاص)",
+          "text_fr": "Relevés de notes des années universitaires (peuvent être demandés pour vérifier la spécialité)",
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "text_ar": "بطاقة عدد 3 حديثة (عادة عند الانتداب)",
+          "text_fr": "Bulletin n° 3 récent (généralement lors du recrutement)",
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "text_ar": "شهادة طبية تثبت القدرة على ممارسة التدريس (عادة عند الانتداب)",
+          "text_fr": "Certificat médical d'aptitude à l'enseignement (généralement lors du recrutement)",
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "text_ar": "وثيقة تثبت الوضعية إزاء الخدمة الوطنية (للذكور)",
+          "text_fr": "Justificatif de la situation vis-à-vis du service national (candidats masculins)",
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "text_ar": "صور شمسية حديثة",
+          "text_fr": "Photos d'identité récentes",
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        }
+      ],
+      "blueprint": {
+        "total_minutes": 140,
+        "fidelity": "APPROXIMATED",
+        "sections": [
+          {
+            "domain": "SPECIALTY",
+            "specialty_key": "spec.informatique",
+            "count": 40,
+            "minutes": 100
+          },
+          {
+            "domain": "SPECIALTY",
+            "specialty_key": "spec.pedagogie",
+            "count": 15,
+            "minutes": 30
+          },
+          {
+            "domain": "SPECIALTY",
+            "specialty_key": "spec.enseignement-secondaire.systeme-educatif",
+            "count": 5,
+            "minutes": 10
+          }
+        ]
+      }
+    },
+    {
+      "slug": "prof-economie-gestion",
+      "title_ar": "أستاذ التعليم الثانوي — الاقتصاد والتصرف",
+      "title_fr": "Professeur de l'enseignement secondaire — Économie et gestion",
+      "diploma_level": "LICENCE",
+      "eligibility": {
+        "min_age": null,
+        "max_age": null,
+        "genders": [
+          "M",
+          "F"
+        ],
+        "nationality": "TN",
+        "diplomas": [
+          "LICENCE",
+          "MASTER",
+          "DOCTORATE"
+        ],
+        "specialties": [
+          "اقتصاد",
+          "تصرف",
+          "علوم اقتصادية",
+          "علوم التصرف",
+          "محاسبة",
+          "Économie",
+          "Sciences économiques",
+          "Gestion",
+          "Sciences de gestion",
+          "Comptabilité"
+        ],
+        "min_height_cm_male": null,
+        "min_height_cm_female": null,
+        "marital_status": null,
+        "other_ar": [
+          "لم يُعثر على عدد خطط لهذه المادة في دورة 2026 (الخطط الـ295 غير الموزعة في الملخص الصحفي قد تشمل مواد أخرى) — هذه الخطة مدرجة لأغراض المطابقة والتنبيه فقط وتحتاج إلى تثبت",
+          "[مقترح] الإجازة (الأساسية) أو الأستاذية أو الماجستير في الاقتصاد والتصرف أو شهادة معادلة؛ قائمة الشهادات المقبولة لكل مادة تُضبط في قرار فتح المناظرة (هل تُقبل الإجازة التطبيقية؟ — للتثبت)",
+          "[مقترح] الجنسية التونسية والتمتع بالحقوق المدنية وحسن السيرة والسلوك (بطاقة عدد 3)",
+          "[مقترح] حد أقصى محتمل للسن وفق القانون الأساسي العام لأعوان الدولة (يُذكر عادة 40 سنة في غرة جانفي من سنة المناظرة مع إمكانية طرح سنوات الخدمة العمومية) — غير مؤكد لهذه المناظرة، لذلك لم يُدرج كشرط آلي",
+          "[مقترح] تسوية الوضعية إزاء الخدمة الوطنية بالنسبة إلى الذكور",
+          "[مقترح] القدرة البدنية والذهنية على ممارسة مهنة التدريس (شهادة طبية) والالتزام بالعمل في أي مؤسسة تربوية (إعدادية أو معهد) بكامل تراب الجمهورية",
+          "قائمة الاختصاصات أعلاه تقريبية لأغراض المطابقة الآلية والتنبيهات؛ المرجع هو قائمة الشهادات المقبولة في البلاغ الرسمي"
+        ],
+        "other_fr": [
+          "Aucun nombre de postes trouvé pour cette discipline en 2026 (les 295 postes non ventilés dans le résumé de presse peuvent concerner d'autres disciplines) — position incluse pour l'appariement de profils et les alertes, à vérifier",
+          "[Suggéré] Licence (fondamentale), maîtrise ou master en économie et gestion ou diplôme équivalent ; la liste exacte des diplômes admis par discipline est fixée par l'arrêté d'ouverture (licence appliquée acceptée ? — à vérifier)",
+          "[Suggéré] Nationalité tunisienne, jouissance des droits civiques, bonne conduite (bulletin n° 3)",
+          "[Suggéré] Limite d'âge possible selon le statut général des agents de l'État (souvent 40 ans au 1er janvier de l'année du concours, avec déduction des années de service public) — non confirmée pour ce concours, donc non appliquée automatiquement",
+          "[Suggéré] Situation régulière vis-à-vis du service national (candidats masculins)",
+          "[Suggéré] Aptitude physique et mentale à l'enseignement (certificat médical) et engagement à servir dans tout établissement (collège ou lycée) du territoire",
+          "La liste de spécialités ci-dessus est indicative (appariement automatique et alertes) ; seule la liste des diplômes de l'avis officiel fait foi"
+        ],
+        "source_key": "s1",
+        "confidence": "LOW",
+        "needs_verification": true,
+        "source_quote": null
+      },
+      "phases": [
+        {
+          "order": 1,
+          "kind": "WRITTEN",
+          "name_ar": "الاختبار الكتابي (القبول الأولي)",
+          "name_fr": "Épreuve(s) écrite(s) d'admissibilité",
+          "is_eliminatory": true,
+          "duration_minutes": null,
+          "description_ar": "أُجري الاختبار الكتابي لدورة 2026 في الربيع (أفريل أو ماي 2026 — التاريخ متضارب) بحضور 66125 مترشحا حسب الصحافة. الصيغة الدقيقة (عدد الاختبارات ومدتها وضواربها) غير منشورة في المصادر المتاحة: يُرجّح اختبار في مادة الاختصاص (الاقتصاد والتصرف) وقد يشمل محورا في علوم التربية والتعلّمية.",
+          "description_fr": "L'écrit de la session 2026 s'est tenu au printemps (avril ou mai 2026 — dates contradictoires) avec 66 125 candidats selon la presse. Le format exact (nombre d'épreuves, durées, coefficients) n'apparaît pas dans les sources disponibles : probablement une épreuve dans la discipline (économie et gestion), éventuellement complétée par un volet sciences de l'éducation/didactique.",
+          "source_key": "s2",
+          "confidence": "MEDIUM",
+          "needs_verification": true
+        },
+        {
+          "order": 2,
+          "kind": "ORAL",
+          "name_ar": "الاختبار الشفاهي (القبول النهائي)",
+          "name_fr": "Épreuve orale d'admission",
+          "is_eliminatory": true,
+          "duration_minutes": null,
+          "description_ar": "برمج الاختبار الشفاهي في أوت 2026 للمقبولين في الكتابي حسب الصحافة. محتوى مقترح (غير مؤكد): تقديم درس أو تحليل وضعية تعليمية في المادة ثم محادثة مع اللجنة حول التعلّمية والمنظومة التربوية وأخلاقيات المهنة.",
+          "description_fr": "Oral prévu en août 2026 pour les admissibles selon la presse. Contenu suggéré (non confirmé) : présentation d'une leçon ou analyse d'une situation d'enseignement dans la discipline, puis entretien avec le jury (didactique, système éducatif, déontologie).",
+          "source_key": "s2",
+          "confidence": "MEDIUM",
+          "needs_verification": true
+        },
+        {
+          "order": 3,
+          "kind": "TRAINING",
+          "name_ar": "التعيين والتكوين والتربص قبل الترسيم",
+          "name_fr": "Affectation, formation et stage avant titularisation",
+          "is_eliminatory": false,
+          "duration_minutes": null,
+          "description_ar": "[مقترح] يُعيَّن الناجحون كأساتذة متربصين بالإعداديات والمعاهد مع تكوين بيداغوجي وزيارات تفقد قبل الترسيم (مدة التربص وشروطه غير مؤكدة).",
+          "description_fr": "[Suggéré] Les lauréats sont affectés comme professeurs stagiaires en collège/lycée, avec formation pédagogique et inspections avant titularisation (durée et modalités du stage non confirmées).",
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        }
+      ],
+      "subjects": [
+        {
+          "phase_order": 1,
+          "domain": "SPECIALTY",
+          "specialty_key": "spec.banque-gestion",
+          "name_ar": "اختبار كتابي في مادة الاختصاص: الاقتصاد والتصرف (المعارف العلمية في مستوى الإجازة وبرامج التعليم الثانوي)",
+          "name_fr": "Épreuve écrite de spécialité : économie et gestion (savoirs disciplinaires niveau licence et programmes du secondaire)",
+          "coefficient": null,
+          "duration_minutes": null,
+          "question_count": null,
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "phase_order": 1,
+          "domain": "SPECIALTY",
+          "specialty_key": "spec.pedagogie",
+          "name_ar": "علوم التربية والتعلّمية (الديداكتيك والتقييم والمقاربة بالكفايات) — وجوده في الكتابي غير مؤكد",
+          "name_fr": "Sciences de l'éducation et didactique (évaluation, approche par compétences) — présence à l'écrit non confirmée",
+          "coefficient": null,
+          "duration_minutes": null,
+          "question_count": null,
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "phase_order": 2,
+          "domain": "SPECIALTY",
+          "specialty_key": "spec.banque-gestion",
+          "name_ar": "الشفاهي: تقديم درس أو تحليل وضعية تعليمية في الاقتصاد والتصرف",
+          "name_fr": "Oral : leçon ou analyse d'une situation d'enseignement en économie et gestion",
+          "coefficient": null,
+          "duration_minutes": null,
+          "question_count": null,
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "phase_order": 2,
+          "domain": "SPECIALTY",
+          "specialty_key": "spec.enseignement-secondaire.systeme-educatif",
+          "name_ar": "الشفاهي: محادثة حول المنظومة التربوية التونسية وأخلاقيات المهنة والحياة المدرسية",
+          "name_fr": "Oral : entretien sur le système éducatif tunisien, la déontologie et la vie scolaire",
+          "coefficient": null,
+          "duration_minutes": null,
+          "question_count": null,
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        }
+      ],
+      "physical_tests": [],
+      "required_documents": [
+        {
+          "text_ar": "التسجيل عن بعد عبر المنصة التي يحددها البلاغ (edunet.tn حسب الصحافة لدورة 2026) وطباعة استمارة أو وصل الترشح",
+          "text_fr": "Inscription en ligne sur la plateforme indiquée dans l'avis (edunet.tn selon la presse pour 2026) et impression du formulaire ou récépissé",
+          "source_key": "s1",
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "text_ar": "نسخة من بطاقة التعريف الوطنية",
+          "text_fr": "Copie de la carte d'identité nationale",
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "text_ar": "نسخة من الشهادة العلمية المطلوبة (إجازة/أستاذية/ماجستير) وقرار معادلة بالنسبة إلى الشهادات الأجنبية",
+          "text_fr": "Copie du diplôme requis (licence/maîtrise/master) et arrêté d'équivalence pour les diplômes étrangers",
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "text_ar": "كشوف أعداد سنوات الدراسة الجامعية (قد تُطلب للتثبت من الاختصاص)",
+          "text_fr": "Relevés de notes des années universitaires (peuvent être demandés pour vérifier la spécialité)",
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "text_ar": "بطاقة عدد 3 حديثة (عادة عند الانتداب)",
+          "text_fr": "Bulletin n° 3 récent (généralement lors du recrutement)",
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "text_ar": "شهادة طبية تثبت القدرة على ممارسة التدريس (عادة عند الانتداب)",
+          "text_fr": "Certificat médical d'aptitude à l'enseignement (généralement lors du recrutement)",
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "text_ar": "وثيقة تثبت الوضعية إزاء الخدمة الوطنية (للذكور)",
+          "text_fr": "Justificatif de la situation vis-à-vis du service national (candidats masculins)",
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "text_ar": "صور شمسية حديثة",
+          "text_fr": "Photos d'identité récentes",
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        }
+      ],
+      "blueprint": {
+        "total_minutes": 140,
+        "fidelity": "APPROXIMATED",
+        "sections": [
+          {
+            "domain": "SPECIALTY",
+            "specialty_key": "spec.banque-gestion",
+            "count": 40,
+            "minutes": 100
+          },
+          {
+            "domain": "SPECIALTY",
+            "specialty_key": "spec.pedagogie",
+            "count": 15,
+            "minutes": 30
+          },
+          {
+            "domain": "SPECIALTY",
+            "specialty_key": "spec.enseignement-secondaire.systeme-educatif",
+            "count": 5,
+            "minutes": 10
+          }
+        ]
+      }
+    }
+  ],
+  "specialty_syllabus": [
+    {
+      "key": "spec.enseignement-secondaire.mathematiques",
+      "parent_key": null,
+      "level": "UNIT",
+      "title_ar": "الرياضيات (مستوى الإجازة وبرامج التعليم الثانوي التونسي)",
+      "title_fr": "Mathématiques (niveau licence et programmes du secondaire tunisien)",
+      "scope": "SUGGESTED",
+      "source_key": null,
+      "objectives": [
+        {
+          "key": "spec.enseignement-secondaire.mathematiques.o1",
+          "text_ar": "إتقان المعارف العلمية في الرياضيات الضرورية لتدريس برامج التعليم الإعدادي والثانوي",
+          "text_fr": "Maîtriser les savoirs disciplinaires en mathématiques nécessaires à l'enseignement des programmes du collège et du lycée"
+        }
+      ]
+    },
+    {
+      "key": "spec.enseignement-secondaire.mathematiques.analyse",
+      "parent_key": "spec.enseignement-secondaire.mathematiques",
+      "level": "TOPIC",
+      "title_ar": "التحليل: المتتاليات والنهايات والاشتقاق والتكامل والمعادلات التفاضلية",
+      "title_fr": "Analyse : suites, limites, dérivation, intégration, équations différentielles",
+      "scope": "SUGGESTED",
+      "source_key": null,
+      "objectives": [
+        {
+          "key": "spec.enseignement-secondaire.mathematiques.analyse.o1",
+          "text_ar": "دراسة تقارب متتالية عددية (رتيبة، محدودة، تراجعية) وحساب نهايتها",
+          "text_fr": "Étudier la convergence d'une suite (monotone, bornée, récurrente) et calculer sa limite"
+        },
+        {
+          "key": "spec.enseignement-secondaire.mathematiques.analyse.o2",
+          "text_ar": "دراسة دالة دراسة كاملة (التغيرات، المقاربات، التقعر) وتمثيلها البياني",
+          "text_fr": "Mener l'étude complète d'une fonction (variations, asymptotes, convexité) et la représenter"
+        },
+        {
+          "key": "spec.enseignement-secondaire.mathematiques.analyse.o3",
+          "text_ar": "حساب تكاملات بالتجزئة وبتغيير المتغير وحل معادلات تفاضلية خطية من الرتبة الأولى والثانية",
+          "text_fr": "Calculer des intégrales (par parties, changement de variable) et résoudre des équations différentielles linéaires d'ordre 1 et 2"
+        }
+      ]
+    },
+    {
+      "key": "spec.enseignement-secondaire.mathematiques.algebre-geometrie",
+      "parent_key": "spec.enseignement-secondaire.mathematiques",
+      "level": "TOPIC",
+      "title_ar": "الجبر والهندسة: الحسابيات والأعداد المركبة والهندسة في الفضاء والتحويلات والمصفوفات",
+      "title_fr": "Algèbre et géométrie : arithmétique, nombres complexes, géométrie dans l'espace, transformations, matrices",
+      "scope": "SUGGESTED",
+      "source_key": null,
+      "objectives": [
+        {
+          "key": "spec.enseignement-secondaire.mathematiques.algebre-geometrie.o1",
+          "text_ar": "توظيف القسمة الإقليدية والقاسم المشترك الأكبر والموافقات بترديد n",
+          "text_fr": "Utiliser la division euclidienne, le PGCD et les congruences modulo n"
+        },
+        {
+          "key": "spec.enseignement-secondaire.mathematiques.algebre-geometrie.o2",
+          "text_ar": "استعمال الأعداد المركبة لحل معادلات ومسائل هندسية",
+          "text_fr": "Utiliser les nombres complexes pour résoudre des équations et des problèmes géométriques"
+        },
+        {
+          "key": "spec.enseignement-secondaire.mathematiques.algebre-geometrie.o3",
+          "text_ar": "تحديد طبيعة تقايس أو تشابه وعناصره المميزة",
+          "text_fr": "Identifier une isométrie ou une similitude et ses éléments caractéristiques"
+        },
+        {
+          "key": "spec.enseignement-secondaire.mathematiques.algebre-geometrie.o4",
+          "text_ar": "إجراء العمليات على المصفوفات وحل جمل خطية",
+          "text_fr": "Calculer avec des matrices et résoudre des systèmes linéaires"
+        }
+      ]
+    },
+    {
+      "key": "spec.enseignement-secondaire.mathematiques.probabilites-statistiques",
+      "parent_key": "spec.enseignement-secondaire.mathematiques",
+      "level": "TOPIC",
+      "title_ar": "الاحتمالات والإحصاء",
+      "title_fr": "Probabilités et statistiques",
+      "scope": "SUGGESTED",
+      "source_key": null,
+      "objectives": [
+        {
+          "key": "spec.enseignement-secondaire.mathematiques.probabilites-statistiques.o1",
+          "text_ar": "حساب احتمالات شرطية باستعمال شجرة الاحتمالات وصيغة الاحتمالات الكلية",
+          "text_fr": "Calculer des probabilités conditionnelles (arbres, formule des probabilités totales)"
+        },
+        {
+          "key": "spec.enseignement-secondaire.mathematiques.probabilites-statistiques.o2",
+          "text_ar": "التعرف على قوانين ثنائي الحدين والأسي والطبيعي واستعمالها",
+          "text_fr": "Reconnaître et utiliser les lois binomiale, exponentielle et normale"
+        },
+        {
+          "key": "spec.enseignement-secondaire.mathematiques.probabilites-statistiques.o3",
+          "text_ar": "تحليل سلسلة إحصائية ذات متغيرين (التعديل الخطي والارتباط)",
+          "text_fr": "Analyser une série statistique double (ajustement affine, corrélation)"
+        }
+      ]
+    },
+    {
+      "key": "spec.enseignement-secondaire.mathematiques.didactique",
+      "parent_key": "spec.enseignement-secondaire.mathematiques",
+      "level": "TOPIC",
+      "title_ar": "تعليمية الرياضيات",
+      "title_fr": "Didactique des mathématiques",
+      "scope": "SUGGESTED",
+      "source_key": null,
+      "objectives": [
+        {
+          "key": "spec.enseignement-secondaire.mathematiques.didactique.o1",
+          "text_ar": "تحليل الأخطاء الشائعة لدى التلاميذ واقتراح أنشطة علاجية",
+          "text_fr": "Analyser les erreurs fréquentes des élèves et proposer une remédiation"
+        },
+        {
+          "key": "spec.enseignement-secondaire.mathematiques.didactique.o2",
+          "text_ar": "بناء وضعية مشكل لإرساء مفهوم رياضي وتدرّج في التمارين",
+          "text_fr": "Concevoir une situation-problème pour introduire une notion et une progression d'exercices"
+        }
+      ]
+    },
+    {
+      "key": "spec.enseignement-secondaire.langue-arabe",
+      "parent_key": null,
+      "level": "UNIT",
+      "title_ar": "اللغة العربية وآدابها (مستوى الإجازة وبرامج التعليم الثانوي)",
+      "title_fr": "Langue et littérature arabes (niveau licence et programmes du secondaire)",
+      "scope": "SUGGESTED",
+      "source_key": null,
+      "objectives": [
+        {
+          "key": "spec.enseignement-secondaire.langue-arabe.o1",
+          "text_ar": "إتقان المعارف العلمية في العربية الضرورية لتدريس برامج التعليم الإعدادي والثانوي",
+          "text_fr": "Maîtriser les savoirs disciplinaires en arabe nécessaires à l'enseignement des programmes du collège et du lycée"
+        }
+      ]
+    },
+    {
+      "key": "spec.enseignement-secondaire.langue-arabe.langue",
+      "parent_key": "spec.enseignement-secondaire.langue-arabe",
+      "level": "TOPIC",
+      "title_ar": "علوم اللغة: النحو والصرف والبلاغة والعروض",
+      "title_fr": "Sciences de la langue : grammaire (nahw), morphologie (sarf), rhétorique (balagha), prosodie (aroud)",
+      "scope": "SUGGESTED",
+      "source_key": null,
+      "objectives": [
+        {
+          "key": "spec.enseignement-secondaire.langue-arabe.langue.o1",
+          "text_ar": "إعراب الجمل المركبة وتحديد الوظائف النحوية والأساليب (الشرط، الاستثناء، التعجب…)",
+          "text_fr": "Analyser grammaticalement des phrases complexes et les styles (condition, exception, exclamation…)"
+        },
+        {
+          "key": "spec.enseignement-secondaire.langue-arabe.langue.o2",
+          "text_ar": "التعرف على الصور البلاغية (التشبيه، الاستعارة، الكناية، المجاز) ووظائفها في النص",
+          "text_fr": "Identifier les figures de rhétorique (comparaison, métaphore, métonymie, majaz) et leur fonction"
+        },
+        {
+          "key": "spec.enseignement-secondaire.langue-arabe.langue.o3",
+          "text_ar": "تقطيع بيت شعري وتحديد بحره",
+          "text_fr": "Scander un vers et en identifier le mètre"
+        }
+      ]
+    },
+    {
+      "key": "spec.enseignement-secondaire.langue-arabe.litterature",
+      "parent_key": "spec.enseignement-secondaire.langue-arabe",
+      "level": "TOPIC",
+      "title_ar": "الأدب العربي القديم والحديث والأدب التونسي",
+      "title_fr": "Littérature arabe classique et moderne, littérature tunisienne",
+      "scope": "SUGGESTED",
+      "source_key": null,
+      "objectives": [
+        {
+          "key": "spec.enseignement-secondaire.langue-arabe.litterature.o1",
+          "text_ar": "التمييز بين الأجناس الأدبية (الشعر، المقامة، الرسالة، القصة، الرواية، المسرحية) وخصائصها",
+          "text_fr": "Distinguer les genres (poésie, maqama, épître, nouvelle, roman, théâtre) et leurs caractéristiques"
+        },
+        {
+          "key": "spec.enseignement-secondaire.langue-arabe.litterature.o2",
+          "text_ar": "تنزيل النصوص في سياقها التاريخي والفكري (من العصر الجاهلي إلى الأدب المعاصر)",
+          "text_fr": "Situer les textes dans leur contexte historique et intellectuel (de l'antéislamique au contemporain)"
+        },
+        {
+          "key": "spec.enseignement-secondaire.langue-arabe.litterature.o3",
+          "text_ar": "معرفة أعلام الأدب التونسي المدرّسين في التعليم الثانوي",
+          "text_fr": "Connaître les grands auteurs tunisiens étudiés au secondaire"
+        }
+      ]
+    },
+    {
+      "key": "spec.enseignement-secondaire.langue-arabe.analyse-texte",
+      "parent_key": "spec.enseignement-secondaire.langue-arabe",
+      "level": "TOPIC",
+      "title_ar": "تحليل النص والمقال الأدبي",
+      "title_fr": "Analyse de texte et dissertation littéraire",
+      "scope": "SUGGESTED",
+      "source_key": null,
+      "objectives": [
+        {
+          "key": "spec.enseignement-secondaire.langue-arabe.analyse-texte.o1",
+          "text_ar": "إنجاز تحليل نص وفق مراحل منهجية (التقديم، التحليل، التقييم)",
+          "text_fr": "Rédiger une analyse de texte méthodique (présentation, analyse, évaluation)"
+        },
+        {
+          "key": "spec.enseignement-secondaire.langue-arabe.analyse-texte.o2",
+          "text_ar": "كتابة مقال أدبي حجاجي متماسك",
+          "text_fr": "Rédiger une dissertation argumentée et cohérente"
+        }
+      ]
+    },
+    {
+      "key": "spec.enseignement-secondaire.langue-arabe.didactique",
+      "parent_key": "spec.enseignement-secondaire.langue-arabe",
+      "level": "TOPIC",
+      "title_ar": "تعليمية اللغة العربية",
+      "title_fr": "Didactique de l'arabe",
+      "scope": "SUGGESTED",
+      "source_key": null,
+      "objectives": [
+        {
+          "key": "spec.enseignement-secondaire.langue-arabe.didactique.o1",
+          "text_ar": "تخطيط حصة في دراسة النص أو قواعد اللغة أو الإنتاج الكتابي",
+          "text_fr": "Planifier une séance d'étude de texte, de langue ou de production écrite"
+        },
+        {
+          "key": "spec.enseignement-secondaire.langue-arabe.didactique.o2",
+          "text_ar": "تقييم إنتاج كتابي باستعمال شبكة معايير",
+          "text_fr": "Évaluer une production écrite à l'aide d'une grille critériée"
+        }
+      ]
+    },
+    {
+      "key": "spec.enseignement-secondaire.sciences-physiques",
+      "parent_key": null,
+      "level": "UNIT",
+      "title_ar": "العلوم الفيزيائية: الفيزياء والكيمياء (مستوى الإجازة وبرامج التعليم الثانوي)",
+      "title_fr": "Sciences physiques : physique et chimie (niveau licence et programmes du secondaire)",
+      "scope": "SUGGESTED",
+      "source_key": null,
+      "objectives": [
+        {
+          "key": "spec.enseignement-secondaire.sciences-physiques.o1",
+          "text_ar": "إتقان المعارف العلمية في العلوم الفيزيائية الضرورية لتدريس برامج التعليم الإعدادي والثانوي",
+          "text_fr": "Maîtriser les savoirs disciplinaires en sciences physiques nécessaires à l'enseignement des programmes du collège et du lycée"
+        }
+      ]
+    },
+    {
+      "key": "spec.enseignement-secondaire.sciences-physiques.mecanique",
+      "parent_key": "spec.enseignement-secondaire.sciences-physiques",
+      "level": "TOPIC",
+      "title_ar": "الميكانيك: الحركية وقوانين نيوتن والطاقة والذبذبات الميكانيكية",
+      "title_fr": "Mécanique : cinématique, lois de Newton, énergie, oscillations mécaniques",
+      "scope": "SUGGESTED",
+      "source_key": null,
+      "objectives": [
+        {
+          "key": "spec.enseignement-secondaire.sciences-physiques.mecanique.o1",
+          "text_ar": "تطبيق القانون الثاني لنيوتن على حركات مستقيمة ودائرية ومقذوفات",
+          "text_fr": "Appliquer la 2e loi de Newton (mouvements rectilignes, circulaires, projectiles)"
+        },
+        {
+          "key": "spec.enseignement-secondaire.sciences-physiques.mecanique.o2",
+          "text_ar": "دراسة ذبذبات نواس مرن حرة ومخمدة وقسرية ومبدأ الرنين",
+          "text_fr": "Étudier les oscillations libres, amorties et forcées d'un pendule élastique ; résonance"
+        }
+      ]
+    },
+    {
+      "key": "spec.enseignement-secondaire.sciences-physiques.electricite-ondes",
+      "parent_key": "spec.enseignement-secondaire.sciences-physiques",
+      "level": "TOPIC",
+      "title_ar": "الكهرباء والموجات: ثنائيات القطب RC وRL وRLC والموجات والفيزياء النووية",
+      "title_fr": "Électricité et ondes : dipôles RC, RL, RLC, ondes, physique nucléaire",
+      "scope": "SUGGESTED",
+      "source_key": null,
+      "objectives": [
+        {
+          "key": "spec.enseignement-secondaire.sciences-physiques.electricite-ondes.o1",
+          "text_ar": "استغلال المعادلات التفاضلية لشحن مكثف وإقامة التيار في وشيعة",
+          "text_fr": "Exploiter les équations différentielles de la charge d'un condensateur et de l'établissement du courant dans une bobine"
+        },
+        {
+          "key": "spec.enseignement-secondaire.sciences-physiques.electricite-ondes.o2",
+          "text_ar": "تمييز الموجات الميكانيكية والضوئية وظواهر الحيود والتداخل",
+          "text_fr": "Caractériser ondes mécaniques et lumineuses, diffraction et interférences"
+        },
+        {
+          "key": "spec.enseignement-secondaire.sciences-physiques.electricite-ondes.o3",
+          "text_ar": "تطبيق قانون التناقص الإشعاعي وحساب طاقة تفاعل نووي",
+          "text_fr": "Appliquer la loi de décroissance radioactive et calculer l'énergie d'une réaction nucléaire"
+        }
+      ]
+    },
+    {
+      "key": "spec.enseignement-secondaire.sciences-physiques.chimie",
+      "parent_key": "spec.enseignement-secondaire.sciences-physiques",
+      "level": "TOPIC",
+      "title_ar": "الكيمياء: الحركية والتوازن الكيميائي والأحماض والقواعد والأكسدة والإرجاع والكيمياء العضوية",
+      "title_fr": "Chimie : cinétique, équilibre chimique, acides et bases, oxydoréduction, chimie organique",
+      "scope": "SUGGESTED",
+      "source_key": null,
+      "objectives": [
+        {
+          "key": "spec.enseignement-secondaire.sciences-physiques.chimie.o1",
+          "text_ar": "حساب تقدم تفاعل وسرعته وتحديد العوامل الحركية",
+          "text_fr": "Calculer l'avancement et la vitesse d'une réaction ; facteurs cinétiques"
+        },
+        {
+          "key": "spec.enseignement-secondaire.sciences-physiques.chimie.o2",
+          "text_ar": "تطبيق قانون التوازن وحساب pH محاليل الأحماض والقواعد",
+          "text_fr": "Appliquer la loi d'action de masse et calculer le pH de solutions acides/basiques"
+        },
+        {
+          "key": "spec.enseignement-secondaire.sciences-physiques.chimie.o3",
+          "text_ar": "موازنة معادلات الأكسدة والإرجاع ودراسة الأعمدة والتحليل الكهربائي",
+          "text_fr": "Équilibrer des réactions d'oxydoréduction ; piles et électrolyse"
+        }
+      ]
+    },
+    {
+      "key": "spec.enseignement-secondaire.sciences-physiques.experimentation",
+      "parent_key": "spec.enseignement-secondaire.sciences-physiques",
+      "level": "TOPIC",
+      "title_ar": "الطريقة التجريبية وتعليمية العلوم الفيزيائية والسلامة في المخبر",
+      "title_fr": "Démarche expérimentale, didactique des sciences physiques et sécurité au laboratoire",
+      "scope": "SUGGESTED",
+      "source_key": null,
+      "objectives": [
+        {
+          "key": "spec.enseignement-secondaire.sciences-physiques.experimentation.o1",
+          "text_ar": "تخطيط حصة أعمال تطبيقية وتحليل نتائج قياس (الارتياب)",
+          "text_fr": "Planifier une séance de TP et exploiter des mesures (incertitudes)"
+        },
+        {
+          "key": "spec.enseignement-secondaire.sciences-physiques.experimentation.o2",
+          "text_ar": "احترام قواعد السلامة في استعمال المواد الكيميائية والتجهيزات الكهربائية",
+          "text_fr": "Appliquer les règles de sécurité (produits chimiques, montages électriques)"
+        }
+      ]
+    },
+    {
+      "key": "spec.enseignement-secondaire.education-islamique",
+      "parent_key": null,
+      "level": "UNIT",
+      "title_ar": "التربية الإسلامية والتفكير الإسلامي (مستوى الإجازة وبرامج التعليم الثانوي)",
+      "title_fr": "Éducation islamique et pensée islamique (niveau licence et programmes du secondaire)",
+      "scope": "SUGGESTED",
+      "source_key": null,
+      "objectives": [
+        {
+          "key": "spec.enseignement-secondaire.education-islamique.o1",
+          "text_ar": "إتقان المعارف العلمية في التربية الإسلامية الضرورية لتدريس برامج التعليم الإعدادي والثانوي",
+          "text_fr": "Maîtriser les savoirs disciplinaires en éducation islamique nécessaires à l'enseignement des programmes du collège et du lycée"
+        }
+      ]
+    },
+    {
+      "key": "spec.enseignement-secondaire.education-islamique.coran-hadith",
+      "parent_key": "spec.enseignement-secondaire.education-islamique",
+      "level": "TOPIC",
+      "title_ar": "علوم القرآن والحديث",
+      "title_fr": "Sciences du Coran et du hadith",
+      "scope": "SUGGESTED",
+      "source_key": null,
+      "objectives": [
+        {
+          "key": "spec.enseignement-secondaire.education-islamique.coran-hadith.o1",
+          "text_ar": "معرفة مباحث علوم القرآن (أسباب النزول، المكي والمدني، الناسخ والمنسوخ، مناهج التفسير)",
+          "text_fr": "Connaître les sciences coraniques (circonstances de la révélation, mecquois/médinois, abrogation, méthodes d'exégèse)"
+        },
+        {
+          "key": "spec.enseignement-secondaire.education-islamique.coran-hadith.o2",
+          "text_ar": "التمييز بين درجات الحديث وشروط صحته",
+          "text_fr": "Distinguer les degrés du hadith et les conditions de son authenticité"
+        }
+      ]
+    },
+    {
+      "key": "spec.enseignement-secondaire.education-islamique.fiqh-maqasid",
+      "parent_key": "spec.enseignement-secondaire.education-islamique",
+      "level": "TOPIC",
+      "title_ar": "الفقه وأصوله ومقاصد الشريعة",
+      "title_fr": "Fiqh, fondements du droit (usul) et finalités de la charia (maqasid)",
+      "scope": "SUGGESTED",
+      "source_key": null,
+      "objectives": [
+        {
+          "key": "spec.enseignement-secondaire.education-islamique.fiqh-maqasid.o1",
+          "text_ar": "التعرف على مصادر التشريع وقواعد الاستنباط",
+          "text_fr": "Identifier les sources de la législation et les règles de déduction"
+        },
+        {
+          "key": "spec.enseignement-secondaire.education-islamique.fiqh-maqasid.o2",
+          "text_ar": "شرح نظرية المقاصد عند الشاطبي وابن عاشور وتطبيقها على قضايا معاصرة",
+          "text_fr": "Expliquer la théorie des maqasid (al-Shatibi, Ibn Achour) et l'appliquer à des questions contemporaines"
+        }
+      ]
+    },
+    {
+      "key": "spec.enseignement-secondaire.education-islamique.pensee-islamique",
+      "parent_key": "spec.enseignement-secondaire.education-islamique",
+      "level": "TOPIC",
+      "title_ar": "العقيدة والفكر الإسلامي والقضايا المعاصرة",
+      "title_fr": "Doctrine, pensée islamique et questions contemporaines",
+      "scope": "SUGGESTED",
+      "source_key": null,
+      "objectives": [
+        {
+          "key": "spec.enseignement-secondaire.education-islamique.pensee-islamique.o1",
+          "text_ar": "عرض أهم المدارس الكلامية والفلسفية في الحضارة الإسلامية",
+          "text_fr": "Présenter les principales écoles théologiques et philosophiques de la civilisation islamique"
+        },
+        {
+          "key": "spec.enseignement-secondaire.education-islamique.pensee-islamique.o2",
+          "text_ar": "تحليل قضايا معاصرة (الحرية، حقوق الإنسان، الاجتهاد والتجديد، الحوار بين الحضارات)",
+          "text_fr": "Analyser des questions contemporaines (liberté, droits humains, ijtihad et renouveau, dialogue des civilisations)"
+        }
+      ]
+    },
+    {
+      "key": "spec.enseignement-secondaire.education-islamique.didactique",
+      "parent_key": "spec.enseignement-secondaire.education-islamique",
+      "level": "TOPIC",
+      "title_ar": "تعليمية التربية الإسلامية والتفكير الإسلامي",
+      "title_fr": "Didactique de l'éducation islamique et de la pensée islamique",
+      "scope": "SUGGESTED",
+      "source_key": null,
+      "objectives": [
+        {
+          "key": "spec.enseignement-secondaire.education-islamique.didactique.o1",
+          "text_ar": "بناء حصة انطلاقا من نص مرجعي وإثارة التفكير النقدي لدى التلاميذ",
+          "text_fr": "Construire une séance à partir d'un texte de référence en développant l'esprit critique des élèves"
+        }
+      ]
+    },
+    {
+      "key": "spec.enseignement-secondaire.technologie",
+      "parent_key": null,
+      "level": "UNIT",
+      "title_ar": "التكنولوجيا: الهندسة الميكانيكية والكهربائية (برامج التعليم الإعدادي والثانوي)",
+      "title_fr": "Technologie : génie mécanique et génie électrique (programmes du collège et du lycée)",
+      "scope": "SUGGESTED",
+      "source_key": null,
+      "objectives": [
+        {
+          "key": "spec.enseignement-secondaire.technologie.o1",
+          "text_ar": "إتقان المعارف العلمية في التكنولوجيا الضرورية لتدريس برامج التعليم الإعدادي والثانوي",
+          "text_fr": "Maîtriser les savoirs disciplinaires en technologie nécessaires à l'enseignement des programmes du collège et du lycée"
+        }
+      ]
+    },
+    {
+      "key": "spec.enseignement-secondaire.technologie.analyse-fonctionnelle",
+      "parent_key": "spec.enseignement-secondaire.technologie",
+      "level": "TOPIC",
+      "title_ar": "التحليل الوظيفي والرسم الصناعي",
+      "title_fr": "Analyse fonctionnelle et dessin technique",
+      "scope": "SUGGESTED",
+      "source_key": null,
+      "objectives": [
+        {
+          "key": "spec.enseignement-secondaire.technologie.analyse-fonctionnelle.o1",
+          "text_ar": "إنجاز التحليل الوظيفي لنظام تقني (المخطط الوظيفي، FAST)",
+          "text_fr": "Réaliser l'analyse fonctionnelle d'un système technique (diagrammes, FAST)"
+        },
+        {
+          "key": "spec.enseignement-secondaire.technologie.analyse-fonctionnelle.o2",
+          "text_ar": "قراءة رسم تجميعي وإنجاز رسم تعريفي مع الأبعاد",
+          "text_fr": "Lire un dessin d'ensemble et réaliser un dessin de définition coté"
+        }
+      ]
+    },
+    {
+      "key": "spec.enseignement-secondaire.technologie.mecanique",
+      "parent_key": "spec.enseignement-secondaire.technologie",
+      "level": "TOPIC",
+      "title_ar": "البناء الميكانيكي: نقل الحركة ومقاومة المواد",
+      "title_fr": "Construction mécanique : transmission de mouvement, résistance des matériaux",
+      "scope": "SUGGESTED",
+      "source_key": null,
+      "objectives": [
+        {
+          "key": "spec.enseignement-secondaire.technologie.mecanique.o1",
+          "text_ar": "حساب نسبة نقل في سلسلة مسننات أو بكرات وسير",
+          "text_fr": "Calculer un rapport de transmission (engrenages, poulies-courroie)"
+        },
+        {
+          "key": "spec.enseignement-secondaire.technologie.mecanique.o2",
+          "text_ar": "التحقق من مقاومة قطعة للشد والانحناء والالتواء",
+          "text_fr": "Vérifier la résistance d'une pièce (traction, flexion, torsion)"
+        }
+      ]
+    },
+    {
+      "key": "spec.enseignement-secondaire.technologie.automatismes",
+      "parent_key": "spec.enseignement-secondaire.technologie",
+      "level": "TOPIC",
+      "title_ar": "الآليات: المنطق التوافقي والتتابعي وGRAFCET والمتحكمات الدقيقة",
+      "title_fr": "Automatismes : logique combinatoire et séquentielle, GRAFCET, microcontrôleurs",
+      "scope": "SUGGESTED",
+      "source_key": null,
+      "objectives": [
+        {
+          "key": "spec.enseignement-secondaire.technologie.automatismes.o1",
+          "text_ar": "تبسيط دالة منطقية (جدول كارنو) وإنجاز الدارة الموافقة",
+          "text_fr": "Simplifier une fonction logique (Karnaugh) et réaliser le logigramme"
+        },
+        {
+          "key": "spec.enseignement-secondaire.technologie.automatismes.o2",
+          "text_ar": "إنجاز GRAFCET لنظام آلي وبرمجته",
+          "text_fr": "Établir et programmer le GRAFCET d'un système automatisé"
+        }
+      ]
+    },
+    {
+      "key": "spec.enseignement-secondaire.technologie.didactique",
+      "parent_key": "spec.enseignement-secondaire.technologie",
+      "level": "TOPIC",
+      "title_ar": "تعليمية التكنولوجيا وبيداغوجيا المشروع",
+      "title_fr": "Didactique de la technologie et pédagogie de projet",
+      "scope": "SUGGESTED",
+      "source_key": null,
+      "objectives": [
+        {
+          "key": "spec.enseignement-secondaire.technologie.didactique.o1",
+          "text_ar": "تنظيم نشاط تطبيقي في المخبر وفق مقاربة المشروع",
+          "text_fr": "Organiser une activité pratique en atelier selon une démarche de projet"
+        }
+      ]
+    },
+    {
+      "key": "spec.enseignement-secondaire.histoire-geographie",
+      "parent_key": null,
+      "level": "UNIT",
+      "title_ar": "التاريخ والجغرافيا (مستوى الإجازة وبرامج التعليم الثانوي)",
+      "title_fr": "Histoire et géographie (niveau licence et programmes du secondaire)",
+      "scope": "SUGGESTED",
+      "source_key": null,
+      "objectives": [
+        {
+          "key": "spec.enseignement-secondaire.histoire-geographie.o1",
+          "text_ar": "إتقان المعارف العلمية في التاريخ والجغرافيا الضرورية لتدريس برامج التعليم الإعدادي والثانوي",
+          "text_fr": "Maîtriser les savoirs disciplinaires en histoire-géographie nécessaires à l'enseignement des programmes du collège et du lycée"
+        }
+      ]
+    },
+    {
+      "key": "spec.enseignement-secondaire.histoire-geographie.histoire-tunisie",
+      "parent_key": "spec.enseignement-secondaire.histoire-geographie",
+      "level": "TOPIC",
+      "title_ar": "تاريخ تونس من العصور القديمة إلى الدولة الوطنية",
+      "title_fr": "Histoire de la Tunisie de l'Antiquité à l'État national",
+      "scope": "SUGGESTED",
+      "source_key": null,
+      "objectives": [
+        {
+          "key": "spec.enseignement-secondaire.histoire-geographie.histoire-tunisie.o1",
+          "text_ar": "ترتيب المراحل الكبرى لتاريخ تونس (قرطاج، الفترة الرومانية، الفتح الإسلامي، الدول المتعاقبة، العهد العثماني والحسيني)",
+          "text_fr": "Ordonner les grandes périodes de l'histoire tunisienne (Carthage, période romaine, conquête arabe, dynasties, époque ottomane et husseinite)"
+        },
+        {
+          "key": "spec.enseignement-secondaire.histoire-geographie.histoire-tunisie.o2",
+          "text_ar": "تحليل مراحل الحركة الوطنية وبناء الدولة الحديثة بعد الاستقلال",
+          "text_fr": "Analyser les étapes du mouvement national et la construction de l'État après l'indépendance"
+        }
+      ]
+    },
+    {
+      "key": "spec.enseignement-secondaire.histoire-geographie.histoire-monde",
+      "parent_key": "spec.enseignement-secondaire.histoire-geographie",
+      "level": "TOPIC",
+      "title_ar": "التاريخ العالمي الحديث والمعاصر",
+      "title_fr": "Histoire moderne et contemporaine du monde",
+      "scope": "SUGGESTED",
+      "source_key": null,
+      "objectives": [
+        {
+          "key": "spec.enseignement-secondaire.histoire-geographie.histoire-monde.o1",
+          "text_ar": "شرح أسباب ونتائج الحربين العالميتين والحرب الباردة",
+          "text_fr": "Expliquer causes et conséquences des deux guerres mondiales et de la guerre froide"
+        },
+        {
+          "key": "spec.enseignement-secondaire.histoire-geographie.histoire-monde.o2",
+          "text_ar": "تحليل حركات التحرر وتصفية الاستعمار",
+          "text_fr": "Analyser les mouvements de libération et la décolonisation"
+        }
+      ]
+    },
+    {
+      "key": "spec.enseignement-secondaire.histoire-geographie.geographie",
+      "parent_key": "spec.enseignement-secondaire.histoire-geographie",
+      "level": "TOPIC",
+      "title_ar": "الجغرافيا: السكان والتنمية والعولمة والمجال التونسي",
+      "title_fr": "Géographie : population, développement, mondialisation, territoire tunisien",
+      "scope": "SUGGESTED",
+      "source_key": null,
+      "objectives": [
+        {
+          "key": "spec.enseignement-secondaire.histoire-geographie.geographie.o1",
+          "text_ar": "قراءة مؤشرات ديمغرافية واقتصادية وتفسير الفوارق في التنمية",
+          "text_fr": "Lire des indicateurs démographiques et économiques et expliquer les inégalités de développement"
+        },
+        {
+          "key": "spec.enseignement-secondaire.histoire-geographie.geographie.o2",
+          "text_ar": "تحليل خصائص المجال التونسي (الأقاليم، الموارد، التهيئة الترابية)",
+          "text_fr": "Analyser le territoire tunisien (régions, ressources, aménagement)"
+        }
+      ]
+    },
+    {
+      "key": "spec.enseignement-secondaire.histoire-geographie.methodes",
+      "parent_key": "spec.enseignement-secondaire.histoire-geographie",
+      "level": "TOPIC",
+      "title_ar": "منهجية المادة: تحليل الوثيقة والخرائط والمقال",
+      "title_fr": "Méthodes : analyse de document, cartographie, dissertation",
+      "scope": "SUGGESTED",
+      "source_key": null,
+      "objectives": [
+        {
+          "key": "spec.enseignement-secondaire.histoire-geographie.methodes.o1",
+          "text_ar": "تحليل وثيقة تاريخية أو جغرافية وفق خطوات منهجية",
+          "text_fr": "Analyser un document historique ou géographique de façon méthodique"
+        },
+        {
+          "key": "spec.enseignement-secondaire.histoire-geographie.methodes.o2",
+          "text_ar": "إنجاز خريطة أو رسم بياني وتأويله",
+          "text_fr": "Réaliser et interpréter une carte ou un graphique"
+        }
+      ]
+    },
+    {
+      "key": "spec.enseignement-secondaire.langue-francaise",
+      "parent_key": null,
+      "level": "UNIT",
+      "title_ar": "اللغة الفرنسية وآدابها (مستوى الإجازة وبرامج التعليم الثانوي)",
+      "title_fr": "Langue et littérature françaises (niveau licence et programmes du secondaire)",
+      "scope": "SUGGESTED",
+      "source_key": null,
+      "objectives": [
+        {
+          "key": "spec.enseignement-secondaire.langue-francaise.o1",
+          "text_ar": "إتقان المعارف العلمية في الفرنسية الضرورية لتدريس برامج التعليم الإعدادي والثانوي",
+          "text_fr": "Maîtriser les savoirs disciplinaires en français nécessaires à l'enseignement des programmes du collège et du lycée"
+        }
+      ]
+    },
+    {
+      "key": "spec.enseignement-secondaire.langue-francaise.langue",
+      "parent_key": "spec.enseignement-secondaire.langue-francaise",
+      "level": "TOPIC",
+      "title_ar": "اللغة: نحو الجملة والنص والتلفظ والأسلوبية",
+      "title_fr": "Langue : grammaire de la phrase et du texte, énonciation, stylistique",
+      "scope": "SUGGESTED",
+      "source_key": null,
+      "objectives": [
+        {
+          "key": "spec.enseignement-secondaire.langue-francaise.langue.o1",
+          "text_ar": "تحليل الجمل التابعة وأزمنة الأفعال وتوافق الأزمنة",
+          "text_fr": "Analyser les propositions subordonnées, les temps verbaux et la concordance des temps"
+        },
+        {
+          "key": "spec.enseignement-secondaire.langue-francaise.langue.o2",
+          "text_ar": "تحديد مؤشرات التلفظ والتماسك النصي",
+          "text_fr": "Repérer les marques de l'énonciation et les connecteurs de cohésion textuelle"
+        }
+      ]
+    },
+    {
+      "key": "spec.enseignement-secondaire.langue-francaise.litterature",
+      "parent_key": "spec.enseignement-secondaire.langue-francaise",
+      "level": "TOPIC",
+      "title_ar": "الأدب الفرنسي والفرنكوفوني: الأجناس والتيارات",
+      "title_fr": "Littérature française et francophone : genres et mouvements",
+      "scope": "SUGGESTED",
+      "source_key": null,
+      "objectives": [
+        {
+          "key": "spec.enseignement-secondaire.langue-francaise.litterature.o1",
+          "text_ar": "تنزيل نص في تياره الأدبي (الإنسانية، الكلاسيكية، الأنوار، الرومنسية، الواقعية، القرن العشرون)",
+          "text_fr": "Situer un texte dans son mouvement (humanisme, classicisme, Lumières, romantisme, réalisme, XXe siècle)"
+        },
+        {
+          "key": "spec.enseignement-secondaire.langue-francaise.litterature.o2",
+          "text_ar": "معرفة أهم الأعمال المقررة في برامج الثانوي",
+          "text_fr": "Connaître les principales œuvres au programme du secondaire"
+        }
+      ]
+    },
+    {
+      "key": "spec.enseignement-secondaire.langue-francaise.methodologie",
+      "parent_key": "spec.enseignement-secondaire.langue-francaise",
+      "level": "TOPIC",
+      "title_ar": "المنهجية: الشرح والمقالة والتلخيص",
+      "title_fr": "Méthodologie : commentaire, essai/dissertation, résumé",
+      "scope": "SUGGESTED",
+      "source_key": null,
+      "objectives": [
+        {
+          "key": "spec.enseignement-secondaire.langue-francaise.methodologie.o1",
+          "text_ar": "كتابة شرح نص منظم ومقال حجاجي",
+          "text_fr": "Rédiger un commentaire composé et un essai argumentatif"
+        }
+      ]
+    },
+    {
+      "key": "spec.enseignement-secondaire.langue-francaise.didactique",
+      "parent_key": "spec.enseignement-secondaire.langue-francaise",
+      "level": "TOPIC",
+      "title_ar": "تعليمية الفرنسية لغة ثانية",
+      "title_fr": "Didactique du français langue seconde/étrangère",
+      "scope": "SUGGESTED",
+      "source_key": null,
+      "objectives": [
+        {
+          "key": "spec.enseignement-secondaire.langue-francaise.didactique.o1",
+          "text_ar": "تخطيط حصة في القراءة أو اللغة أو الإنتاج الكتابي لتلاميذ يتعلمون الفرنسية لغة ثانية",
+          "text_fr": "Planifier une séance de lecture, de langue ou d'écriture pour des apprenants de FLS"
+        }
+      ]
+    },
+    {
+      "key": "spec.enseignement-secondaire.langue-anglaise",
+      "parent_key": null,
+      "level": "UNIT",
+      "title_ar": "اللغة الإنجليزية وآدابها (مستوى الإجازة وبرامج التعليم الثانوي)",
+      "title_fr": "Langue, littérature et civilisation anglaises (niveau licence et programmes du secondaire)",
+      "scope": "SUGGESTED",
+      "source_key": null,
+      "objectives": [
+        {
+          "key": "spec.enseignement-secondaire.langue-anglaise.o1",
+          "text_ar": "إتقان المعارف العلمية في الإنجليزية الضرورية لتدريس برامج التعليم الإعدادي والثانوي",
+          "text_fr": "Maîtriser les savoirs disciplinaires en anglais nécessaires à l'enseignement des programmes du collège et du lycée"
+        }
+      ]
+    },
+    {
+      "key": "spec.enseignement-secondaire.langue-anglaise.linguistics",
+      "parent_key": "spec.enseignement-secondaire.langue-anglaise",
+      "level": "TOPIC",
+      "title_ar": "اللسانيات: الأصوات والنحو والمعجم",
+      "title_fr": "Linguistique : phonétique, grammaire, lexique",
+      "scope": "SUGGESTED",
+      "source_key": null,
+      "objectives": [
+        {
+          "key": "spec.enseignement-secondaire.langue-anglaise.linguistics.o1",
+          "text_ar": "كتابة النطق الصوتي لكلمات شائعة وشرح مواضع النبر",
+          "text_fr": "Transcrire phonétiquement des mots courants et expliquer l'accentuation"
+        },
+        {
+          "key": "spec.enseignement-secondaire.langue-anglaise.linguistics.o2",
+          "text_ar": "شرح أزمنة الأفعال والصيغ وأنماط الجمل في الإنجليزية",
+          "text_fr": "Expliquer temps, aspects, modalité et structures de phrase en anglais"
+        }
+      ]
+    },
+    {
+      "key": "spec.enseignement-secondaire.langue-anglaise.literature-civilisation",
+      "parent_key": "spec.enseignement-secondaire.langue-anglaise",
+      "level": "TOPIC",
+      "title_ar": "الأدب والحضارة الأنجلوسكسونية",
+      "title_fr": "Littérature et civilisation anglophones",
+      "scope": "SUGGESTED",
+      "source_key": null,
+      "objectives": [
+        {
+          "key": "spec.enseignement-secondaire.langue-anglaise.literature-civilisation.o1",
+          "text_ar": "تحليل نص أدبي إنجليزي أو أمريكي وتنزيله في سياقه",
+          "text_fr": "Analyser un texte littéraire britannique ou américain dans son contexte"
+        }
+      ]
+    },
+    {
+      "key": "spec.enseignement-secondaire.langue-anglaise.tefl",
+      "parent_key": "spec.enseignement-secondaire.langue-anglaise",
+      "level": "TOPIC",
+      "title_ar": "تعليمية الإنجليزية لغة أجنبية",
+      "title_fr": "Didactique de l'anglais langue étrangère (TEFL)",
+      "scope": "SUGGESTED",
+      "source_key": null,
+      "objectives": [
+        {
+          "key": "spec.enseignement-secondaire.langue-anglaise.tefl.o1",
+          "text_ar": "تخطيط حصة وفق مقاربة تواصلية (PPP أو المهمة)",
+          "text_fr": "Planifier une séance selon une approche communicative (PPP, tâche)"
+        },
+        {
+          "key": "spec.enseignement-secondaire.langue-anglaise.tefl.o2",
+          "text_ar": "تقييم المهارات الأربع (الاستماع، القراءة، التحدث، الكتابة)",
+          "text_fr": "Évaluer les quatre compétences (compréhension orale/écrite, expression orale/écrite)"
+        }
+      ]
+    },
+    {
+      "key": "spec.enseignement-secondaire.svt",
+      "parent_key": null,
+      "level": "UNIT",
+      "title_ar": "علوم الحياة والأرض (مستوى الإجازة وبرامج التعليم الثانوي)",
+      "title_fr": "Sciences de la vie et de la terre (niveau licence et programmes du secondaire)",
+      "scope": "SUGGESTED",
+      "source_key": null,
+      "objectives": [
+        {
+          "key": "spec.enseignement-secondaire.svt.o1",
+          "text_ar": "إتقان المعارف العلمية في علوم الحياة والأرض الضرورية لتدريس برامج التعليم الإعدادي والثانوي",
+          "text_fr": "Maîtriser les savoirs disciplinaires en SVT nécessaires à l'enseignement des programmes du collège et du lycée"
+        }
+      ]
+    },
+    {
+      "key": "spec.enseignement-secondaire.svt.biologie-genetique",
+      "parent_key": "spec.enseignement-secondaire.svt",
+      "level": "TOPIC",
+      "title_ar": "البيولوجيا الخلوية وعلم الوراثة",
+      "title_fr": "Biologie cellulaire et génétique",
+      "scope": "SUGGESTED",
+      "source_key": null,
+      "objectives": [
+        {
+          "key": "spec.enseignement-secondaire.svt.biologie-genetique.o1",
+          "text_ar": "شرح الانقسام الخيطي والاختزالي ونقل المعلومة الوراثية",
+          "text_fr": "Expliquer mitose, méiose et transmission de l'information génétique"
+        },
+        {
+          "key": "spec.enseignement-secondaire.svt.biologie-genetique.o2",
+          "text_ar": "حل مسائل في الوراثة (الهجونة الأحادية والثنائية، الوراثة المرتبطة بالجنس)",
+          "text_fr": "Résoudre des problèmes de génétique (mono/dihybridisme, hérédité liée au sexe)"
+        }
+      ]
+    },
+    {
+      "key": "spec.enseignement-secondaire.svt.physiologie",
+      "parent_key": "spec.enseignement-secondaire.svt",
+      "level": "TOPIC",
+      "title_ar": "الفيزيولوجيا البشرية: التكاثر والجهاز العصبي والمناعة",
+      "title_fr": "Physiologie humaine : reproduction, système nerveux, immunité",
+      "scope": "SUGGESTED",
+      "source_key": null,
+      "objectives": [
+        {
+          "key": "spec.enseignement-secondaire.svt.physiologie.o1",
+          "text_ar": "شرح التنظيم الهرموني للوظيفة التناسلية",
+          "text_fr": "Expliquer la régulation hormonale de la fonction reproductrice"
+        },
+        {
+          "key": "spec.enseignement-secondaire.svt.physiologie.o2",
+          "text_ar": "وصف آليات الاستجابة المناعية",
+          "text_fr": "Décrire les mécanismes de la réponse immunitaire"
+        }
+      ]
+    },
+    {
+      "key": "spec.enseignement-secondaire.svt.geologie-ecologie",
+      "parent_key": "spec.enseignement-secondaire.svt",
+      "level": "TOPIC",
+      "title_ar": "الجيولوجيا والبيئة",
+      "title_fr": "Géologie et écologie",
+      "scope": "SUGGESTED",
+      "source_key": null,
+      "objectives": [
+        {
+          "key": "spec.enseignement-secondaire.svt.geologie-ecologie.o1",
+          "text_ar": "تفسير تكتونية الصفائح وتكوّن السلاسل الجبلية",
+          "text_fr": "Expliquer la tectonique des plaques et la formation des chaînes de montagnes"
+        },
+        {
+          "key": "spec.enseignement-secondaire.svt.geologie-ecologie.o2",
+          "text_ar": "تحليل علاقات كائنات حية داخل نظام بيئي",
+          "text_fr": "Analyser les relations au sein d'un écosystème"
+        }
+      ]
+    },
+    {
+      "key": "spec.enseignement-secondaire.svt.didactique",
+      "parent_key": "spec.enseignement-secondaire.svt",
+      "level": "TOPIC",
+      "title_ar": "تعليمية علوم الحياة والأرض والأعمال التطبيقية",
+      "title_fr": "Didactique des SVT et travaux pratiques",
+      "scope": "SUGGESTED",
+      "source_key": null,
+      "objectives": [
+        {
+          "key": "spec.enseignement-secondaire.svt.didactique.o1",
+          "text_ar": "تخطيط حصة تطبيقية (ملاحظة مجهرية، تشريح، تجربة) وفق الطريقة التجريبية",
+          "text_fr": "Planifier une séance de TP (observation microscopique, dissection, expérience) selon la démarche expérimentale"
+        }
+      ]
+    },
+    {
+      "key": "spec.enseignement-secondaire.systeme-educatif",
+      "parent_key": null,
+      "level": "UNIT",
+      "title_ar": "المنظومة التربوية التونسية وأخلاقيات مهنة التدريس",
+      "title_fr": "Système éducatif tunisien et déontologie du métier d'enseignant",
+      "scope": "SUGGESTED",
+      "source_key": null,
+      "objectives": [
+        {
+          "key": "spec.enseignement-secondaire.systeme-educatif.o1",
+          "text_ar": "فهم تنظيم المنظومة التربوية التونسية وإطارها القانوني ودور الأستاذ فيها",
+          "text_fr": "Comprendre l'organisation et le cadre juridique du système éducatif tunisien et le rôle de l'enseignant"
+        }
+      ]
+    },
+    {
+      "key": "spec.enseignement-secondaire.systeme-educatif.organisation",
+      "parent_key": "spec.enseignement-secondaire.systeme-educatif",
+      "level": "TOPIC",
+      "title_ar": "تنظيم المنظومة التربوية: المراحل والشعب والامتحانات الوطنية",
+      "title_fr": "Organisation du système : cycles, sections et examens nationaux",
+      "scope": "SUGGESTED",
+      "source_key": null,
+      "objectives": [
+        {
+          "key": "spec.enseignement-secondaire.systeme-educatif.organisation.o1",
+          "text_ar": "وصف هيكلة التعليم: التعليم الأساسي (ابتدائي 6 سنوات وإعدادي 3 سنوات) والتعليم الثانوي (4 سنوات) وشعب البكالوريا",
+          "text_fr": "Décrire la structure : enseignement de base (primaire 6 ans + collège 3 ans), secondaire (4 ans) et sections du baccalauréat"
+        },
+        {
+          "key": "spec.enseignement-secondaire.systeme-educatif.organisation.o2",
+          "text_ar": "التعرف على الامتحانات والمناظرات الوطنية (شهادة ختم التعليم الأساسي، مناظرات المدارس والمعاهد النموذجية، البكالوريا)",
+          "text_fr": "Connaître les examens et concours nationaux (diplôme de fin d'études de base, concours des collèges/lycées pilotes, baccalauréat)"
+        }
+      ]
+    },
+    {
+      "key": "spec.enseignement-secondaire.systeme-educatif.cadre-juridique",
+      "parent_key": "spec.enseignement-secondaire.systeme-educatif",
+      "level": "TOPIC",
+      "title_ar": "الإطار القانوني: القانون التوجيهي للتربية والتعليم المدرسي والنظام الأساسي للمدرسين",
+      "title_fr": "Cadre juridique : loi d'orientation de l'éducation et de l'enseignement scolaire, statut des enseignants",
+      "scope": "SUGGESTED",
+      "source_key": null,
+      "objectives": [
+        {
+          "key": "spec.enseignement-secondaire.systeme-educatif.cadre-juridique.o1",
+          "text_ar": "عرض غايات المدرسة التونسية ومبادئها كما يضبطها القانون التوجيهي (القانون عدد 80 لسنة 2002 — مرجع للتثبت)",
+          "text_fr": "Présenter les finalités et principes de l'école tunisienne fixés par la loi d'orientation (loi n° 2002-80 — référence à vérifier)"
+        },
+        {
+          "key": "spec.enseignement-secondaire.systeme-educatif.cadre-juridique.o2",
+          "text_ar": "معرفة حقوق الأستاذ وواجباته ومراحل مساره المهني (التربص، الترسيم، الترقية، التفقد)",
+          "text_fr": "Connaître droits, devoirs et carrière de l'enseignant (stage, titularisation, avancement, inspection)"
+        }
+      ]
+    },
+    {
+      "key": "spec.enseignement-secondaire.systeme-educatif.deontologie",
+      "parent_key": "spec.enseignement-secondaire.systeme-educatif",
+      "level": "TOPIC",
+      "title_ar": "أخلاقيات المهنة والحياة المدرسية",
+      "title_fr": "Déontologie et vie scolaire",
+      "scope": "SUGGESTED",
+      "source_key": null,
+      "objectives": [
+        {
+          "key": "spec.enseignement-secondaire.systeme-educatif.deontologie.o1",
+          "text_ar": "التصرف وفق مبادئ الحياد والإنصاف واحترام كرامة التلميذ",
+          "text_fr": "Agir selon les principes de neutralité, d'équité et de respect de la dignité de l'élève"
+        },
+        {
+          "key": "spec.enseignement-secondaire.systeme-educatif.deontologie.o2",
+          "text_ar": "التعامل مع وضعيات العنف المدرسي والانقطاع والتواصل مع الأولياء",
+          "text_fr": "Gérer violence scolaire, décrochage et relation avec les parents"
+        }
+      ]
+    }
+  ],
+  "past_exams": [],
+  "tips_ar": [
+    "تابع البلاغات على الموقع الرسمي لوزارة التربية (education.gov.tn) وعلى المنصة المذكورة في البلاغ (edunet.tn لدورة 2026) ولا تسجّل إلا عبرها؛ احذر الصفحات التي تطلب مالا مقابل «التسجيل» أو «النجاح المضمون».",
+    "راجع البرامج الرسمية والكتب المدرسية لمادتك في الإعدادي والثانوي (المركز الوطني البيداغوجي): أسئلة المناظرة وموضوع الشفاهي ينطلقان عادة مما سيُدرَّس فعلا.",
+    "ثبّت معارفك الأكاديمية في مستوى الإجازة (تمارين ومسائل من الامتحانات الجامعية) لأن الاختبار الكتابي في الاختصاص هو الأكثر انتقائية (نحو 41 مترشحا لكل خطة في 2026).",
+    "تدرّب على مصطلحات علوم التربية والتعلّمية: الكفاية، الهدف، الوضعية المشكل، التقييم التكويني والجزائي، الفارقية، العقد التعليمي، معالجة الأخطاء.",
+    "حضّر الشفاهي بإعداد مذكرات دروس قصيرة (20 دقيقة) لمواضيع من البرنامج مع تبرير الاختيارات البيداغوجية، وتوقّع أسئلة حول تسيير القسم والعنف المدرسي والعلاقة مع الأولياء.",
+    "تعرّف على المنظومة التربوية التونسية: المراحل، شعب البكالوريا، الامتحانات الوطنية، القانون التوجيهي للتربية، حقوق الأستاذ وواجباته.",
+    "اجمع مسبقا نسخا رقمية واضحة من بطاقة التعريف والشهادة وكشوف الأعداد وقرار المعادلة إن وُجد حتى لا تفوتك آجال التسجيل.",
+    "أدخل اختصاصك الدقيق (مثلا «رياضيات» أو «علوم فيزيائية») في ملفك الشخصي لتصلك تنبيهات المناظرات المطابقة لشهادتك."
+  ],
+  "tips_fr": [
+    "Suivez les avis sur le site officiel du ministère de l'Éducation (education.gov.tn) et la plateforme citée dans l'avis (edunet.tn en 2026) ; inscrivez-vous uniquement via celle-ci et méfiez-vous des pages qui demandent de l'argent pour « l'inscription » ou une « réussite garantie ».",
+    "Révisez les programmes officiels et les manuels de votre discipline au collège et au lycée (Centre national pédagogique) : les sujets d'écrit et d'oral partent généralement de ce qui sera réellement enseigné.",
+    "Consolidez vos acquis disciplinaires de niveau licence (exercices et problèmes d'examens universitaires) : l'épreuve de spécialité est la plus sélective (~41 candidats par poste en 2026).",
+    "Maîtrisez le vocabulaire des sciences de l'éducation et de la didactique : compétence, objectif, situation-problème, évaluation formative et sommative, différenciation, contrat didactique, traitement de l'erreur.",
+    "Préparez l'oral en rédigeant des fiches de leçon courtes (20 minutes) sur des chapitres du programme en justifiant vos choix, et anticipez les questions sur la gestion de classe, la violence scolaire et la relation avec les parents.",
+    "Connaissez le système éducatif tunisien : cycles, sections du bac, examens nationaux, loi d'orientation de l'éducation, droits et devoirs de l'enseignant.",
+    "Préparez à l'avance des copies numériques lisibles de votre CIN, diplôme, relevés de notes et éventuel arrêté d'équivalence pour ne pas rater la fenêtre d'inscription.",
+    "Renseignez votre spécialité exacte (ex. « Mathématiques », « Sciences physiques ») dans votre profil pour recevoir les alertes des concours correspondant à votre diplôme."
+  ],
+  "research_notes": "LIMITE MÉTHODOLOGIQUE MAJEURE : lors de cette passe, le quota WebSearch partagé était épuisé dès la première requête et WebFetch est bloqué par le proxy du conteneur pour tous les domaines essayés (lapresse.tn, education.gov.tn, concours.gov.tn, mosaiquefm.net, tuniscope.com, webdo.tn, fr.wikipedia.org). AUCUNE page n'a été lue directement. Les seuls faits non suggérés viennent du résumé de recherche consigné le même jour par l'équipe dans docs/research/01-market-raw.md (ligne « Secondary teachers 2026 ») et de content/competitions/_openings.json, qui citent La Presse (25/02/2026 = s1 ; 18/05/2026 = s2) et Mosaïque FM (s3). C'est pourquoi TOUS les faits portent needs_verification=true (aucun fait officiel confirmé). À VÉRIFIER EN PRIORITÉ sur l'avis/arrêté officiel (education.gov.tn, JORT/iort.gov.tn, page Facebook du ministère) : (1) intitulé exact et arrêté d'ouverture du concours 2026 (concours externe sur épreuves ? « بالاختبارات » ou « بالملفات » ?), référence JORT ; (2) 1 630 postes et ventilation : maths 390, arabe 320, sciences physiques 185, éducation islamique 180, technologie 165, histoire-géographie 95 (= 1 335) ; les 295 postes restants ne sont pas ventilés dans les notes (français, anglais, SVT, informatique, économie-gestion, philosophie, arts… ?). Les positions prof-francais, prof-anglais, prof-sciences-vie-terre, prof-informatique et prof-economie-gestion ont été AJOUTÉES pour l'appariement profil/alertes sans preuve qu'elles aient été ouvertes en 2026 : à supprimer/désactiver si l'avis ne les mentionne pas ; d'autres disciplines (philosophie, éducation musicale/artistique, allemand/italien/espagnol) peuvent manquer ; (3) calendrier 2026 : date d'ouverture des inscriptions inconnue, clôture 14/03/2026 sur edunet.tn (plateforme exacte à confirmer) ; DATE DE L'ÉCRIT CONTRADICTOIRE : 13/04/2026 dans docs/research/01-market-raw.md vs 17/05/2026 dans _openings.json (l'article La Presse du 18/05/2026 « 66 125 candidats ont passé… » plaide pour mi-mai) — exam_date laissé à null ; oral en août 2026 ; résultats finaux et affectations pour la rentrée 2026-2027 non trouvés (statut laissé à EXAM_DONE) ; (4) nombre de candidats : 66 125 (s2) vs « plus de 60 000 » (s3) ; inscrits non connus ; (5) format des épreuves écrites et orales (nombre d'épreuves, durées, coefficients, présence d'une épreuve de sciences de l'éducation/didactique, langue de l'épreuve) : NON TROUVÉ — tous les subjects et les blueprints (APPROXIMATED, format QCM d'entraînement) sont des suggestions ; (6) conditions : limite d'âge (40 ans au 1er janvier selon le statut général — loi n° 83-112 du 12/12/1983, souvenir non vérifié — non appliquée automatiquement : max_age=null pour éviter d'exclure à tort des candidats des alertes), diplômes admis par discipline (licence fondamentale/appliquée, maîtrise, master ; ingénieurs pour technologie/informatique ? docteurs ?), pièces du dossier ; la liste « specialties » de chaque position est une liste de mots-clés indicative pour l'appariement automatique ; (7) historique : le CAPES (certificat d'aptitude au professorat de l'enseignement secondaire, « الكاباس ») aurait été organisé régulièrement jusqu'au milieu des années 2010, puis le recrutement serait passé surtout par l'intégration d'enseignants suppléants (أساتذة نواب) dans le cadre d'accords avec les syndicats — souvenir non vérifié, AUCUNE édition 2023-2025 trouvée, et aucune édition 2027 annoncée (non ajoutée) ; le budget 2026 prévoirait ~18 079 recrutements au ministère de l'Éducation toutes catégories (s4, contexte uniquement) ; (8) hors périmètre de cette famille : professeurs d'éducation physique du secondaire (relevant historiquement du ministère de la Jeunesse et des Sports — à vérifier), agrégation (أستاذ مبرز), enseignants du primaire (famille enseignement-primaire), psychologues et ingénieurs du ministère ; l'hypothèse selon laquelle le grade « professeur de l'enseignement secondaire » couvre à la fois collèges (التعليم الإعدادي) et lycées est à confirmer ; (9) références juridiques citées de mémoire dans le syllabus : loi d'orientation n° 2002-80 du 23/07/2002 relative à l'éducation et à l'enseignement scolaire ; structure 6+3+4 ans et sections du bac ; à vérifier sur legislation.tn. (10) Annales : aucune annale officielle ou communautaire n'a pu être recherchée (past_exams vide) ; à rechercher : sujets CAPES Tunisie (2008-2015) et sujets de l'écrit 2026 publiés sur des groupes Facebook ou sites éducatifs. (11) Tout le specialty_syllabus (spec.enseignement-secondaire.*) est SUGGÉRÉ d'après la connaissance générale des programmes du secondaire tunisien ; les positions informatique et économie-gestion réutilisent les clés partagées spec.informatique et spec.banque-gestion, la technologie réutilise spec.electricite."
+}

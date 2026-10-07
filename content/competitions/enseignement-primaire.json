@@ -1,0 +1,1309 @@
+{
+  "family": {
+    "slug": "enseignement-primaire",
+    "field": "EDUCATION",
+    "organization": {
+      "slug": "ministere-education",
+      "name_ar": "وزارة التربية",
+      "name_fr": "Ministère de l'Éducation",
+      "ministry_fr": "Ministère de l'Éducation",
+      "website": "http://www.education.gov.tn"
+    },
+    "name_ar": "الانتداب للتدريس بالمدارس الابتدائية (أساتذة المدارس الابتدائية / المعلمون)",
+    "name_fr": "Recrutement des enseignants du primaire (professeurs des écoles primaires / instituteurs)",
+    "description_ar": "تجمع هذه العائلة مسالك الانتداب للتدريس بالمدارس الابتدائية العمومية. المسلك الرئيسي الحالي حسب البحث (للتثبت) هو الانتداب المباشر ودون مناظرة كتابية لخريجي «الإجازة التطبيقية في التربية والتعليم»، وهي إجازة مهنية تُدرَّس بمؤسسات جامعية عمومية ويتم القبول فيها عبر التوجيه الجامعي، ثم يُعيَّن الخريجون حسب الشغورات بالمندوبيات الجهوية للتربية (يرجح برتبة أستاذ مدارس ابتدائية — للتثبت). وحسب الصحافة، يبرمج قانون المالية لسنة 2026 انتداب 2,601 من حاملي الإجازة التطبيقية (ربطهم بإجازة التربية والتعليم استنتاج يحتاج إلى تثبت) ضمن نحو 18 ألف انتداب لوزارة التربية تشمل تسوية وضعية المدرسين النواب. لم نعثر على مناظرة خارجية كتابية لانتداب المعلمين بين 2023 و2026؛ وكانت تُنظَّم سابقا مناظرة الكفاءة لأستاذية التعليم الابتدائي (CAPEP) لحاملي الإجازة (للتثبت). كما تنظم وزارة الشباب والرياضة مناظرات خارجية بالملفات لانتداب أساتذة التربية البدنية للمدارس الابتدائية (940 خطة سنة 2026، آخر أجل للترشح 29 جوان 2026). تنبيه: لم يتم الاطلاع مباشرة على أي بلاغ رسمي في هذه المرحلة، وجميع المعطيات مقترحة أو منقولة عن الصحافة وتحتاج إلى تثبت من الإدارة.",
+    "description_fr": "Cette famille regroupe les voies d'accès à l'enseignement dans les écoles primaires publiques. Selon nos recherches (à vérifier), la voie principale actuelle est le RECRUTEMENT DIRECT, sans concours écrit, des diplômés de la « licence appliquée en éducation et enseignement » (الإجازة التطبيقية في التربية والتعليم), licence professionnalisante dispensée dans des établissements universitaires publics et accessible via l'orientation universitaire ; les diplômés sont affectés selon les postes vacants des commissariats régionaux à l'éducation (probablement au grade de professeur des écoles primaires — à vérifier). Selon la presse, la loi de finances 2026 prévoit 2 601 recrutements de titulaires de la licence appliquée (rattachement à la licence en éducation et enseignement : inférence à confirmer), parmi environ 18 000 recrutements du ministère de l'Éducation incluant la régularisation des enseignants suppléants (النواب). Aucun concours externe écrit pour les instituteurs n'a été trouvé pour 2023-2026 ; un concours CAPEP (certificat d'aptitude au professorat de l'enseignement primaire) était organisé auparavant pour les titulaires d'une licence (à vérifier). Le ministère de la Jeunesse et des Sports organise en outre des concours externes sur dossiers pour les professeurs d'éducation physique des écoles primaires (940 postes en 2026, clôture le 29/06/2026). Attention : aucun avis officiel n'a pu être lu directement lors de cette passe ; toutes les données sont des suggestions ou des relais de presse à vérifier par l'équipe.",
+    "frequency": "IRREGULAR",
+    "frequency_confidence": "LOW",
+    "popularity": 4,
+    "keywords": [
+      "معلم",
+      "معلمين",
+      "أستاذ مدارس ابتدائية",
+      "التعليم الابتدائي",
+      "الإجازة التطبيقية في التربية والتعليم",
+      "انتداب مباشر",
+      "المعلمون النواب",
+      "تسوية وضعية النواب",
+      "وزارة التربية",
+      "أستاذ تربية بدنية بالمدارس الابتدائية",
+      "كاباب",
+      "professeur des écoles primaires",
+      "instituteur",
+      "enseignement primaire",
+      "licence appliquée en éducation et enseignement",
+      "recrutement direct",
+      "enseignants suppléants",
+      "CAPEP",
+      "éducation physique primaire",
+      "ministère de l'Éducation"
+    ]
+  },
+  "sources": [
+    {
+      "key": "s1",
+      "title": "Tunisie – Loi de finances 2026 : catégories de recrutements dans la fonction publique (AllAfrica, 24/10/2025)",
+      "url": "https://fr.allafrica.com/stories/202510240500.html",
+      "publisher": "AllAfrica (relais de la presse tunisienne)",
+      "source_type": "SECONDARY",
+      "publication_date": "2025-10-24",
+      "retrieved_at": "2026-10-07",
+      "confidence": "MEDIUM",
+      "notes": "Répartition des recrutements LF 2026 : 12 942 ouvriers de chantiers régularisés, 1 350 docteurs, 1 066 enseignants d'éducation physique, 2 601 titulaires de la licence appliquée. Le rattachement des 2 601 à la « licence appliquée en éducation et enseignement » est une INFÉRENCE de l'équipe (non lue dans le texte). Date déduite de l'identifiant de l'URL. PAGE NON OUVERTE dans cette passe (WebSearch épuisé, WebFetch bloqué par le proxy du conteneur pour ce domaine). Les faits repris proviennent du résumé de recherche consigné le même jour dans docs/research/01-market-raw.md et/ou de content/competitions/_openings.json. Titre reconstitué à partir de l'URL. À relire intégralement."
+    },
+    {
+      "key": "s2",
+      "title": "Fonction publique : l'État tunisien relance les recrutements en 2026 (La Presse, 16/10/2025)",
+      "url": "https://lapresse.tn/2025/10/16/fonction-publique-letat-tunisien-relance-les-recrutements-en-2026/",
+      "publisher": "La Presse de Tunisie",
+      "source_type": "SECONDARY",
+      "publication_date": "2025-10-16",
+      "retrieved_at": "2026-10-07",
+      "confidence": "MEDIUM",
+      "notes": "LF 2026 : 51 878 recrutements et régularisations. Contexte général. PAGE NON OUVERTE dans cette passe (WebSearch épuisé, WebFetch bloqué par le proxy du conteneur pour ce domaine). Les faits repris proviennent du résumé de recherche consigné le même jour dans docs/research/01-market-raw.md et/ou de content/competitions/_openings.json. Titre reconstitué à partir de l'URL. À relire intégralement."
+    },
+    {
+      "key": "s3",
+      "title": "Recrutement dans la fonction publique : les départements qui recruteront le plus et le moins en 2026 (WMC, 03/11/2025)",
+      "url": "https://www.webmanagercenter.com/2025/11/03/554950/recrutement-dans-la-fonction-publique-les-departements-qui-recruteront-le-plus-et-le-moins-en-2026/",
+      "publisher": "WebManagerCenter",
+      "source_type": "SECONDARY",
+      "publication_date": "2025-11-03",
+      "retrieved_at": "2026-10-07",
+      "confidence": "MEDIUM",
+      "notes": "Ministère de l'Éducation : environ 18 079 recrutements en 2026 (18 349 selon le budget du ministère), régularisations comprises ; répartition primaire/secondaire non connue. PAGE NON OUVERTE dans cette passe (WebSearch épuisé, WebFetch bloqué par le proxy du conteneur pour ce domaine). Les faits repris proviennent du résumé de recherche consigné le même jour dans docs/research/01-market-raw.md et/ou de content/competitions/_openings.json. Titre reconstitué à partir de l'URL. À relire intégralement."
+    },
+    {
+      "key": "s4",
+      "title": "Le ministère de la Jeunesse recrute : 1 245 postes à pourvoir (L'Économiste Maghrébin, 30/05/2026)",
+      "url": "https://www.leconomistemaghrebin.com/2026/05/30/le-ministere-de-la-jeunesse-recrute-1245-postes-a-pourvoir/",
+      "publisher": "L'Économiste Maghrébin",
+      "source_type": "SECONDARY",
+      "publication_date": "2026-05-30",
+      "retrieved_at": "2026-10-07",
+      "confidence": "MEDIUM",
+      "notes": "4 concours externes SUR DOSSIERS du ministère de la Jeunesse et des Sports : 940 professeurs d'éducation physique pour les écoles primaires, 141 professeurs de sport, 160 professeurs de jeunesse et d'enfance, 4 instituteurs principaux d'éducation physique (total 1 245) ; clôture des candidatures 29/06/2026, concours à partir du 29/07/2026. PAGE NON OUVERTE dans cette passe (WebSearch épuisé, WebFetch bloqué par le proxy du conteneur pour ce domaine). Les faits repris proviennent du résumé de recherche consigné le même jour dans docs/research/01-market-raw.md et/ou de content/competitions/_openings.json. Titre reconstitué à partir de l'URL. À relire intégralement."
+    },
+    {
+      "key": "s5",
+      "title": "Tunisie – Circulaire n°2 du 14 avril 2026 relative à la préparation du budget 2027 (AllAfrica, 20/04/2026)",
+      "url": "https://fr.allafrica.com/stories/202604200506.html",
+      "publisher": "AllAfrica (relais de la presse tunisienne)",
+      "source_type": "SECONDARY",
+      "publication_date": "2026-04-20",
+      "retrieved_at": "2026-10-07",
+      "confidence": "MEDIUM",
+      "notes": "La circulaire budgétaire 2027 limite les recrutements aux secteurs « prioritaires » ; la place exacte de l'enseignement primaire n'est pas connue. PAGE NON OUVERTE dans cette passe (WebSearch épuisé, WebFetch bloqué par le proxy du conteneur pour ce domaine). Les faits repris proviennent du résumé de recherche consigné le même jour dans docs/research/01-market-raw.md et/ou de content/competitions/_openings.json. Titre reconstitué à partir de l'URL. À relire intégralement."
+    },
+    {
+      "key": "s6",
+      "title": "Tunisie : concours externe pour 1 630 postes d'enseignants en 2026 (La Presse, 25/02/2026)",
+      "url": "https://www.lapresse.tn/2026/02/25/tunisie-concours-externe-pour-1-630-postes-denseignants-en-2026/",
+      "publisher": "La Presse de Tunisie",
+      "source_type": "SECONDARY",
+      "publication_date": "2026-02-25",
+      "retrieved_at": "2026-10-07",
+      "confidence": "MEDIUM",
+      "notes": "Concours du SECONDAIRE (famille voisine) : inscription sur edunet.tn jusqu'au 14/03/2026. Cité uniquement comme indice du canal d'inscription habituel du ministère de l'Éducation et du retour au concours dans le secondaire ; ne concerne pas le primaire. PAGE NON OUVERTE dans cette passe (WebSearch épuisé, WebFetch bloqué par le proxy du conteneur pour ce domaine). Les faits repris proviennent du résumé de recherche consigné le même jour dans docs/research/01-market-raw.md et/ou de content/competitions/_openings.json. Titre reconstitué à partir de l'URL. À relire intégralement."
+    },
+    {
+      "key": "s7",
+      "title": "66 125 candidats ont passé le concours de recrutement des enseignants au titre de 2026 (La Presse, 18/05/2026)",
+      "url": "https://www.lapresse.tn/2026/05/18/66125-candidats-ont-passe-le-concours-de-recrutement-des-enseignants-au-titre-de-2026/",
+      "publisher": "La Presse de Tunisie",
+      "source_type": "SECONDARY",
+      "publication_date": "2026-05-18",
+      "retrieved_at": "2026-10-07",
+      "confidence": "MEDIUM",
+      "notes": "Concours du SECONDAIRE : 66 125 candidats pour 1 630 postes (~41 par poste). Cité seulement comme ordre de grandeur de la concurrence si un concours pour le primaire était rouvert. PAGE NON OUVERTE dans cette passe (WebSearch épuisé, WebFetch bloqué par le proxy du conteneur pour ce domaine). Les faits repris proviennent du résumé de recherche consigné le même jour dans docs/research/01-market-raw.md et/ou de content/competitions/_openings.json. Titre reconstitué à partir de l'URL. À relire intégralement."
+    },
+    {
+      "key": "s8",
+      "title": "Ministère de l'Éducation – portail officiel (وزارة التربية)",
+      "url": "http://www.education.gov.tn",
+      "publisher": "Ministère de l'Éducation",
+      "source_type": "OFFICIAL",
+      "publication_date": null,
+      "retrieved_at": "2026-10-07",
+      "confidence": "LOW",
+      "notes": "Portail officiel où doivent être vérifiés les avis (بلاغات) de recrutement des diplômés de la licence appliquée et des suppléants. NON CONSULTÉ : domaine bloqué par le proxy du conteneur. Aucun fait du fichier n'en est tiré ; confiance LOW tant qu'il n'a pas été lu."
+    },
+    {
+      "key": "s9",
+      "title": "Edunet – portail éducatif du ministère de l'Éducation",
+      "url": "https://www.edunet.tn",
+      "publisher": "Ministère de l'Éducation (CNTE)",
+      "source_type": "OFFICIAL",
+      "publication_date": null,
+      "retrieved_at": "2026-10-07",
+      "confidence": "LOW",
+      "notes": "Plateforme utilisée pour l'inscription au concours du secondaire 2026 (selon s6) ; plateforme probable pour les inscriptions du primaire, NON CONFIRMÉ. NON CONSULTÉ : domaine bloqué par le proxy du conteneur."
+    }
+  ],
+  "editions": [
+    {
+      "year": 2026,
+      "session_label": "قانون المالية 2026: 2,601 انتداب مبرمج لحاملي الإجازة التطبيقية (حسب الصحافة؛ ربطهم بإجازة التربية والتعليم للتثبت، والتواريخ غير معروفة) / LF 2026 : 2 601 recrutements prévus de titulaires de la licence appliquée (presse ; rattachement à la licence en éducation et enseignement et calendrier à vérifier)",
+      "status": "EXPECTED",
+      "registration_open": null,
+      "registration_deadline": null,
+      "exam_date": null,
+      "positions_count": 2601,
+      "candidates_count": null,
+      "position_slugs": [
+        "professeur-ecoles-primaires"
+      ],
+      "source_key": "s1",
+      "confidence": "LOW",
+      "needs_verification": true
+    },
+    {
+      "year": 2026,
+      "session_label": "وزارة الشباب والرياضة: مناظرة خارجية بالملفات لانتداب 940 أستاذ تربية بدنية بالمدارس الابتدائية (+4 معلمين أول للتربية البدنية)، آخر أجل للترشح 29 جوان 2026، فتح المناظرة 29 جويلية 2026 / MJS : concours externe sur dossiers, 940 professeurs d'EPS des écoles primaires (+4 instituteurs principaux d'EPS), clôture 29/06/2026, ouverture du concours 29/07/2026",
+      "status": "EXAM_DONE",
+      "registration_open": null,
+      "registration_deadline": "2026-06-29",
+      "exam_date": "2026-07-29",
+      "positions_count": 940,
+      "candidates_count": null,
+      "position_slugs": [
+        "professeur-eps-ecoles-primaires"
+      ],
+      "source_key": "s4",
+      "confidence": "MEDIUM",
+      "needs_verification": true
+    },
+    {
+      "year": 2027,
+      "session_label": "دورة 2027 منتظرة: منشور إعداد ميزانية 2027 يحصر الانتداب في القطاعات ذات الأولوية (عدد الخطط غير معروف) / 2027 attendu : la circulaire budgétaire limite les recrutements aux secteurs prioritaires (volume inconnu)",
+      "status": "EXPECTED",
+      "registration_open": null,
+      "registration_deadline": null,
+      "exam_date": null,
+      "positions_count": null,
+      "candidates_count": null,
+      "source_key": "s5",
+      "confidence": "LOW",
+      "needs_verification": true
+    }
+  ],
+  "positions": [
+    {
+      "slug": "professeur-ecoles-primaires",
+      "title_ar": "أستاذ مدارس ابتدائية — انتداب مباشر لخريجي الإجازة التطبيقية في التربية والتعليم",
+      "title_fr": "Professeur des écoles primaires — recrutement direct des diplômés de la licence appliquée en éducation et enseignement",
+      "diploma_level": "LICENCE",
+      "eligibility": {
+        "min_age": null,
+        "max_age": null,
+        "genders": [
+          "M",
+          "F"
+        ],
+        "nationality": "TN",
+        "diplomas": [
+          "LICENCE"
+        ],
+        "specialties": [
+          "الإجازة التطبيقية في التربية والتعليم",
+          "التربية والتعليم",
+          "licence appliquée en éducation et enseignement",
+          "éducation et enseignement"
+        ],
+        "min_height_cm_male": null,
+        "min_height_cm_female": null,
+        "marital_status": null,
+        "other_ar": [
+          "[مقترح] الإحراز على الإجازة التطبيقية في التربية والتعليم من مؤسسة جامعية عمومية تونسية (المسار المخصص لتكوين مدرسي التعليم الابتدائي)؛ حاملو الإجازات الأخرى غير معنيين بهذا الانتداب المباشر",
+          "[مقترح] الجنسية التونسية والتمتع بالحقوق المدنية وحسن السيرة والأخلاق",
+          "[مقترح] القدرة البدنية والصحية على مباشرة التدريس (فحص طبي)",
+          "[مقترح] التعيين حسب الشغورات وترتيب الخريجين، وقد يطلب الالتزام بالعمل في أي مندوبية جهوية للتربية — للتثبت",
+          "[غير معروف] حد أقصى للسن: لم يُعثر على نص؛ يستبعد وجوده في الانتداب المباشر لخريجين حديثين — للتثبت",
+          "[مقترح] القبول في الإجازة نفسها يتم عبر التوجيه الجامعي بعد الباكالوريا وقد يتضمن اختبارا أو مقابلة للتثبت من الكفاءة التواصلية — للتثبت في دليل التوجيه الجامعي"
+        ],
+        "other_fr": [
+          "[Suggestion] Être titulaire de la licence appliquée en éducation et enseignement délivrée par un établissement universitaire public tunisien (filière dédiée à la formation des enseignants du primaire) ; les titulaires d'autres licences ne sont pas concernés par ce recrutement direct",
+          "[Suggestion] Nationalité tunisienne, jouissance des droits civiques, bonne conduite et moralité",
+          "[Suggestion] Aptitude physique et médicale à l'enseignement (visite médicale)",
+          "[Suggestion] Affectation selon les postes vacants et le classement des diplômés ; un engagement à servir dans n'importe quel commissariat régional peut être demandé — à vérifier",
+          "[Inconnu] Âge maximal : aucun texte trouvé ; peu probable pour un recrutement direct de jeunes diplômés — à vérifier",
+          "[Suggestion] L'admission à la licence elle-même se fait via l'orientation universitaire après le bac et peut comporter un test ou un entretien (aptitude à communiquer) — à vérifier dans le guide d'orientation"
+        ],
+        "source_key": "s1",
+        "confidence": "LOW",
+        "needs_verification": true,
+        "source_quote": null
+      },
+      "phases": [
+        {
+          "order": 1,
+          "kind": "FILE_REVIEW",
+          "name_ar": "التسجيل وترتيب الخريجين بالملفات",
+          "name_fr": "Inscription et classement des diplômés sur dossier",
+          "is_eliminatory": true,
+          "duration_minutes": null,
+          "description_ar": "[مقترح] انتداب دون مناظرة كتابية: يسجل الخريجون (يرجح عبر منصة رقمية لوزارة التربية) ثم يرتبون حسب معايير يرجح أن تشمل معدل التخرج وسنة الحصول على الإجازة، ويعينون حسب الشغورات بالمندوبيات الجهوية للتربية. المنصة والمعايير والرزنامة غير مؤكدة.",
+          "description_fr": "[Suggestion] Recrutement sans concours écrit : les diplômés s'inscrivent (probablement sur une plateforme du ministère de l'Éducation) puis sont classés selon des critères incluant vraisemblablement la moyenne de la licence et l'année d'obtention, et affectés selon les postes vacants des commissariats régionaux. Plateforme, critères et calendrier non confirmés.",
+          "source_key": "s1",
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "order": 2,
+          "kind": "MEDICAL",
+          "name_ar": "الفحص الطبي للقدرة على العمل",
+          "name_fr": "Visite médicale d'aptitude",
+          "is_eliminatory": true,
+          "duration_minutes": null,
+          "description_ar": "[مقترح] فحص طبي يثبت القدرة على مباشرة التدريس، كما هو معمول به عند الانتداب في الوظيفة العمومية.",
+          "description_fr": "[Suggestion] Contrôle médical attestant l'aptitude à enseigner, comme pour tout recrutement dans la fonction publique.",
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "order": 3,
+          "kind": "TRAINING",
+          "name_ar": "التربص والتكوين ثم الترسيم بعد زيارة تفقد",
+          "name_fr": "Stage probatoire, formation et titularisation après inspection",
+          "is_eliminatory": true,
+          "duration_minutes": null,
+          "description_ar": "[مقترح] يخضع العون المنتدب في الوظيفة العمومية عادة إلى تربص لمدة سنة قبل الترسيم (القانون الأساسي العام للوظيفة العمومية، القانون عدد 112 لسنة 1983 — للتثبت)، مع تكوين بيداغوجي وزيارة تفقد من المتفقد البيداغوجي للتعليم الابتدائي تقيّم التخطيط وإدارة القسم والتقييم.",
+          "description_fr": "[Suggestion] Tout agent recruté dans la fonction publique effectue en principe un stage d'un an avant titularisation (statut général, loi n° 83-112 — à vérifier), avec formation pédagogique et visite de l'inspecteur pédagogique du primaire évaluant la planification, la gestion de classe et l'évaluation.",
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        }
+      ],
+      "subjects": [
+        {
+          "phase_order": 3,
+          "domain": "SPECIALTY",
+          "specialty_key": "spec.pedagogie",
+          "name_ar": "علوم التربية: التخطيط والتقييم والتصرف في القسم (محاور يقيّمها المتفقد أثناء التربص — مقترح للتحضير)",
+          "name_fr": "Sciences de l'éducation : planification, évaluation, gestion de classe (axes évalués lors de l'inspection — suggestion de préparation)",
+          "coefficient": null,
+          "duration_minutes": null,
+          "question_count": null,
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "phase_order": 3,
+          "domain": "SPECIALTY",
+          "specialty_key": "spec.enseignement-primaire.programmes",
+          "name_ar": "البرامج الرسمية للتعليم الابتدائي والمقاربة بالكفايات",
+          "name_fr": "Programmes officiels du primaire et approche par compétences",
+          "coefficient": null,
+          "duration_minutes": null,
+          "question_count": null,
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "phase_order": 3,
+          "domain": "SPECIALTY",
+          "specialty_key": "spec.enseignement-primaire.didactique-arabe",
+          "name_ar": "تعليمية اللغة العربية بالمرحلة الابتدائية",
+          "name_fr": "Didactique de l'arabe au primaire",
+          "coefficient": null,
+          "duration_minutes": null,
+          "question_count": null,
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "phase_order": 3,
+          "domain": "SPECIALTY",
+          "specialty_key": "spec.enseignement-primaire.didactique-francais",
+          "name_ar": "تعليمية اللغة الفرنسية بالمرحلة الابتدائية",
+          "name_fr": "Didactique du français au primaire",
+          "coefficient": null,
+          "duration_minutes": null,
+          "question_count": null,
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "phase_order": 3,
+          "domain": "SPECIALTY",
+          "specialty_key": "spec.enseignement-primaire.didactique-maths-sciences",
+          "name_ar": "تعليمية الرياضيات والإيقاظ العلمي",
+          "name_fr": "Didactique des mathématiques et de l'éveil scientifique",
+          "coefficient": null,
+          "duration_minutes": null,
+          "question_count": null,
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "phase_order": 3,
+          "domain": "SPECIALTY",
+          "specialty_key": "spec.enseignement-primaire.systeme-educatif",
+          "name_ar": "النظام التربوي التونسي والتشريع المدرسي وأخلاقيات المهنة",
+          "name_fr": "Système éducatif tunisien, législation scolaire et déontologie",
+          "coefficient": null,
+          "duration_minutes": null,
+          "question_count": null,
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "phase_order": 3,
+          "domain": "SPECIALTY",
+          "specialty_key": "spec.enseignement-primaire.psychologie-enfant",
+          "name_ar": "علم نفس الطفل وصعوبات التعلم والتربية الدامجة",
+          "name_fr": "Psychologie de l'enfant, difficultés d'apprentissage et éducation inclusive",
+          "coefficient": null,
+          "duration_minutes": null,
+          "question_count": null,
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "phase_order": 3,
+          "domain": "ARABIC",
+          "specialty_key": null,
+          "name_ar": "التمكن من اللغة العربية (لغة التدريس الأساسية)",
+          "name_fr": "Maîtrise de la langue arabe (langue d'enseignement principale)",
+          "coefficient": null,
+          "duration_minutes": null,
+          "question_count": null,
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "phase_order": 3,
+          "domain": "FRENCH",
+          "specialty_key": null,
+          "name_ar": "التمكن من اللغة الفرنسية",
+          "name_fr": "Maîtrise de la langue française",
+          "coefficient": null,
+          "duration_minutes": null,
+          "question_count": null,
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        }
+      ],
+      "physical_tests": [],
+      "required_documents": [
+        {
+          "text_ar": "[مقترح] مطبوعة التسجيل المستخرجة من المنصة الرقمية ممضاة (في صورة التسجيل عن بعد)",
+          "text_fr": "[Suggestion] Formulaire d'inscription imprimé depuis la plateforme et signé (en cas d'inscription en ligne)",
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "text_ar": "[مقترح] نسخة مطابقة للأصل من شهادة الإجازة التطبيقية في التربية والتعليم أو شهادة النجاح",
+          "text_fr": "[Suggestion] Copie certifiée conforme du diplôme de licence appliquée en éducation et enseignement ou de l'attestation de réussite",
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "text_ar": "[مقترح] كشوف الأعداد لسنوات الإجازة الثلاث (قد تعتمد لاحتساب المعدل في الترتيب)",
+          "text_fr": "[Suggestion] Relevés de notes des trois années de licence (pouvant servir au classement)",
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "text_ar": "[مقترح] نسخة من شهادة الباكالوريا",
+          "text_fr": "[Suggestion] Copie du diplôme du baccalauréat",
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "text_ar": "[مقترح] نسخة من بطاقة التعريف الوطنية",
+          "text_fr": "[Suggestion] Copie de la carte d'identité nationale",
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "text_ar": "[مقترح] مضمون ولادة حديث",
+          "text_fr": "[Suggestion] Extrait de naissance récent",
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "text_ar": "[مقترح] بطاقة عدد 3 (مضمون السجل العدلي) — تطلب عادة عند الانتداب",
+          "text_fr": "[Suggestion] Bulletin n°3 (extrait du casier judiciaire) — généralement exigé au moment du recrutement",
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "text_ar": "[مقترح] شهادة طبية تثبت القدرة البدنية والذهنية على العمل",
+          "text_fr": "[Suggestion] Certificat médical d'aptitude physique et mentale",
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "text_ar": "[مقترح] وثيقة تثبت الوضعية إزاء الخدمة الوطنية (للذكور)",
+          "text_fr": "[Suggestion] Justificatif de la situation vis-à-vis du service national (candidats masculins)",
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        }
+      ],
+      "blueprint": {
+        "total_minutes": 120,
+        "fidelity": "APPROXIMATED",
+        "sections": [
+          {
+            "domain": "SPECIALTY",
+            "specialty_key": "spec.pedagogie",
+            "count": 30,
+            "minutes": 35
+          },
+          {
+            "domain": "SPECIALTY",
+            "specialty_key": "spec.enseignement-primaire.programmes",
+            "count": 10,
+            "minutes": 12
+          },
+          {
+            "domain": "SPECIALTY",
+            "specialty_key": "spec.enseignement-primaire.systeme-educatif",
+            "count": 8,
+            "minutes": 8
+          },
+          {
+            "domain": "SPECIALTY",
+            "specialty_key": "spec.enseignement-primaire.didactique-arabe",
+            "count": 6,
+            "minutes": 8
+          },
+          {
+            "domain": "SPECIALTY",
+            "specialty_key": "spec.enseignement-primaire.didactique-francais",
+            "count": 6,
+            "minutes": 8
+          },
+          {
+            "domain": "SPECIALTY",
+            "specialty_key": "spec.enseignement-primaire.didactique-maths-sciences",
+            "count": 6,
+            "minutes": 8
+          },
+          {
+            "domain": "SPECIALTY",
+            "specialty_key": "spec.enseignement-primaire.psychologie-enfant",
+            "count": 6,
+            "minutes": 7
+          },
+          {
+            "domain": "ARABIC",
+            "specialty_key": null,
+            "count": 10,
+            "minutes": 12
+          },
+          {
+            "domain": "FRENCH",
+            "specialty_key": null,
+            "count": 8,
+            "minutes": 10
+          },
+          {
+            "domain": "NUMERICAL",
+            "specialty_key": null,
+            "count": 6,
+            "minutes": 8
+          },
+          {
+            "domain": "CULTURE_GENERALE",
+            "specialty_key": null,
+            "count": 5,
+            "minutes": 4
+          }
+        ]
+      }
+    },
+    {
+      "slug": "professeur-eps-ecoles-primaires",
+      "title_ar": "أستاذ تربية بدنية بالمدارس الابتدائية — مناظرة خارجية بالملفات (وزارة الشباب والرياضة)",
+      "title_fr": "Professeur d'éducation physique des écoles primaires — concours externe sur dossiers (Ministère de la Jeunesse et des Sports)",
+      "diploma_level": "LICENCE",
+      "eligibility": {
+        "min_age": null,
+        "max_age": null,
+        "genders": [
+          "M",
+          "F"
+        ],
+        "nationality": "TN",
+        "diplomas": [
+          "LICENCE"
+        ],
+        "specialties": [
+          "التربية البدنية",
+          "علوم وتقنيات الأنشطة البدنية والرياضية",
+          "éducation physique",
+          "activités physiques et sportives",
+          "STAPS"
+        ],
+        "min_height_cm_male": null,
+        "min_height_cm_female": null,
+        "marital_status": null,
+        "other_ar": [
+          "مناظرة تنظمها وزارة الشباب والرياضة (لا وزارة التربية) لفائدة المدارس الابتدائية: 940 خطة سنة 2026 (حسب الصحافة)",
+          "مستوى الشهادة المطلوب: الإجازة (حسب الصحافة)",
+          "[مقترح] الاختصاص: إجازة في التربية البدنية (المعاهد العليا للرياضة والتربية البدنية) أو شهادة معادلة — للتثبت",
+          "[مقترح] الجنسية التونسية والتمتع بالحقوق المدنية والقدرة البدنية على العمل",
+          "[غير معروف] حد السن ومعايير الترتيب بالملفات (المعدل، سنة التخرج، الخبرة...) — للتثبت في قرار فتح المناظرة",
+          "[مقترح] حسب الصيغة المعتادة لقرارات فتح المناظرات، تختتم قائمة الترشحات قبل شهر من تاريخ فتح المناظرة (29 جوان / 29 جويلية 2026)"
+        ],
+        "other_fr": [
+          "Concours organisé par le ministère de la Jeunesse et des Sports (et non par le ministère de l'Éducation) au profit des écoles primaires : 940 postes en 2026 (selon la presse)",
+          "Niveau de diplôme requis : licence (selon la presse)",
+          "[Suggestion] Spécialité : licence en éducation physique (instituts supérieurs du sport et de l'éducation physique) ou diplôme équivalent — à vérifier",
+          "[Suggestion] Nationalité tunisienne, droits civiques, aptitude physique",
+          "[Inconnu] Limite d'âge et critères de classement sur dossier (moyenne, année d'obtention, expérience…) — à vérifier dans l'arrêté d'ouverture",
+          "[Suggestion] Selon la formule habituelle des arrêtés d'ouverture, la liste des candidatures est close un mois avant la date d'ouverture du concours (29/06 → 29/07/2026)"
+        ],
+        "source_key": "s4",
+        "confidence": "LOW",
+        "needs_verification": true,
+        "source_quote": null
+      },
+      "phases": [
+        {
+          "order": 1,
+          "kind": "FILE_REVIEW",
+          "name_ar": "مناظرة بالملفات: دراسة الملفات وترتيب المترشحين",
+          "name_fr": "Concours sur dossiers : examen et classement des dossiers",
+          "is_eliminatory": true,
+          "duration_minutes": null,
+          "description_ar": "مناظرة خارجية بالملفات (حسب الصحافة): لا يوجد اختبار كتابي. آخر أجل للترشح 29 جوان 2026 وفتح المناظرة (مداولات اللجنة) ابتداء من 29 جويلية 2026. معايير التنقيط غير معروفة (يرجح: المعدل، سنة التخرج، الخبرة) — للتثبت.",
+          "description_fr": "Concours externe sur dossiers (selon la presse) : pas d'épreuve écrite. Clôture des candidatures le 29/06/2026, ouverture du concours (délibérations du jury) à partir du 29/07/2026. Critères de notation inconnus (probablement moyenne, année d'obtention, expérience) — à vérifier.",
+          "source_key": "s4",
+          "confidence": "MEDIUM",
+          "needs_verification": true
+        },
+        {
+          "order": 2,
+          "kind": "MEDICAL",
+          "name_ar": "الفحص الطبي للقدرة على العمل",
+          "name_fr": "Visite médicale d'aptitude",
+          "is_eliminatory": true,
+          "duration_minutes": null,
+          "description_ar": "[مقترح] فحص طبي للقدرة البدنية على تدريس التربية البدنية.",
+          "description_fr": "[Suggestion] Contrôle médical d'aptitude physique à l'enseignement de l'EPS.",
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "order": 3,
+          "kind": "TRAINING",
+          "name_ar": "التربص ثم الترسيم بعد زيارة تفقد",
+          "name_fr": "Stage probatoire et titularisation après inspection",
+          "is_eliminatory": true,
+          "duration_minutes": null,
+          "description_ar": "[مقترح] تربص لمدة سنة قبل الترسيم وفق القانون الأساسي العام للوظيفة العمومية (للتثبت)، مع زيارة تفقد بيداغوجي لحصة تربية بدنية.",
+          "description_fr": "[Suggestion] Stage d'un an avant titularisation selon le statut général de la fonction publique (à vérifier), avec inspection pédagogique d'une séance d'EPS.",
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        }
+      ],
+      "subjects": [
+        {
+          "phase_order": 3,
+          "domain": "SPECIALTY",
+          "specialty_key": "spec.enseignement-primaire.eps",
+          "name_ar": "تعليمية التربية البدنية بالمدرسة الابتدائية (محاور التفقد أثناء التربص — مقترح للتحضير)",
+          "name_fr": "Didactique de l'EPS à l'école primaire (axes d'inspection pendant le stage — suggestion de préparation)",
+          "coefficient": null,
+          "duration_minutes": null,
+          "question_count": null,
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "phase_order": 3,
+          "domain": "SPECIALTY",
+          "specialty_key": "spec.pedagogie",
+          "name_ar": "علوم التربية: التخطيط والتقييم وإدارة المجموعة",
+          "name_fr": "Sciences de l'éducation : planification, évaluation, gestion du groupe",
+          "coefficient": null,
+          "duration_minutes": null,
+          "question_count": null,
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "phase_order": 3,
+          "domain": "SPECIALTY",
+          "specialty_key": "spec.secourisme",
+          "name_ar": "الإسعافات الأولية والوقاية من الحوادث أثناء النشاط البدني",
+          "name_fr": "Secourisme et prévention des accidents pendant l'activité physique",
+          "coefficient": null,
+          "duration_minutes": null,
+          "question_count": null,
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "phase_order": 3,
+          "domain": "SPECIALTY",
+          "specialty_key": "spec.enseignement-primaire.psychologie-enfant",
+          "name_ar": "النمو الحركي والنفسي للطفل (6–12 سنة)",
+          "name_fr": "Développement moteur et psychologique de l'enfant (6-12 ans)",
+          "coefficient": null,
+          "duration_minutes": null,
+          "question_count": null,
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "phase_order": 3,
+          "domain": "SPECIALTY",
+          "specialty_key": "spec.enseignement-primaire.systeme-educatif",
+          "name_ar": "النظام التربوي والحياة المدرسية وأخلاقيات المهنة",
+          "name_fr": "Système éducatif, vie scolaire et déontologie",
+          "coefficient": null,
+          "duration_minutes": null,
+          "question_count": null,
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        }
+      ],
+      "physical_tests": [],
+      "required_documents": [
+        {
+          "text_ar": "[مقترح] مطلب ترشح باسم الوزير أو مطبوعة التسجيل حسب ما يحدده البلاغ",
+          "text_fr": "[Suggestion] Demande de candidature adressée au ministre ou formulaire d'inscription selon l'avis",
+          "source_key": "s4",
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "text_ar": "[مقترح] نسخة مطابقة للأصل من الإجازة في التربية البدنية (أو ما يعادلها مع قرار المعادلة للشهادات الأجنبية)",
+          "text_fr": "[Suggestion] Copie certifiée conforme de la licence en éducation physique (ou équivalent, avec arrêté d'équivalence pour les diplômes étrangers)",
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "text_ar": "[مقترح] كشوف الأعداد لكل سنوات الدراسة الجامعية",
+          "text_fr": "[Suggestion] Relevés de notes de toutes les années d'études universitaires",
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "text_ar": "[مقترح] شهادات عمل أو تربص تثبت الخبرة إن كانت ضمن معايير الترتيب",
+          "text_fr": "[Suggestion] Attestations de travail ou de stage justifiant l'expérience, si elle entre dans les critères de classement",
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "text_ar": "[مقترح] إرسال الملف في الآجال عبر البريد مضمون الوصول (ختم البريد دليل على التاريخ) مع ظرف خالص معلوم البريد يحمل عنوان المترشح",
+          "text_fr": "[Suggestion] Envoi du dossier dans les délais par courrier recommandé (le cachet de la poste faisant foi), avec une enveloppe timbrée à l'adresse du candidat",
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "text_ar": "[مقترح] نسخة من بطاقة التعريف الوطنية",
+          "text_fr": "[Suggestion] Copie de la carte d'identité nationale",
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "text_ar": "[مقترح] مضمون ولادة حديث",
+          "text_fr": "[Suggestion] Extrait de naissance récent",
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "text_ar": "[مقترح] بطاقة عدد 3 (مضمون السجل العدلي) — تطلب عادة عند الانتداب",
+          "text_fr": "[Suggestion] Bulletin n°3 (extrait du casier judiciaire) — généralement exigé au moment du recrutement",
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "text_ar": "[مقترح] شهادة طبية تثبت القدرة البدنية والذهنية على العمل",
+          "text_fr": "[Suggestion] Certificat médical d'aptitude physique et mentale",
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "text_ar": "[مقترح] وثيقة تثبت الوضعية إزاء الخدمة الوطنية (للذكور)",
+          "text_fr": "[Suggestion] Justificatif de la situation vis-à-vis du service national (candidats masculins)",
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        }
+      ],
+      "blueprint": {
+        "total_minutes": 90,
+        "fidelity": "APPROXIMATED",
+        "sections": [
+          {
+            "domain": "SPECIALTY",
+            "specialty_key": "spec.enseignement-primaire.eps",
+            "count": 20,
+            "minutes": 28
+          },
+          {
+            "domain": "SPECIALTY",
+            "specialty_key": "spec.pedagogie",
+            "count": 15,
+            "minutes": 18
+          },
+          {
+            "domain": "SPECIALTY",
+            "specialty_key": "spec.secourisme",
+            "count": 10,
+            "minutes": 12
+          },
+          {
+            "domain": "SPECIALTY",
+            "specialty_key": "spec.enseignement-primaire.psychologie-enfant",
+            "count": 6,
+            "minutes": 7
+          },
+          {
+            "domain": "SPECIALTY",
+            "specialty_key": "spec.enseignement-primaire.systeme-educatif",
+            "count": 5,
+            "minutes": 5
+          },
+          {
+            "domain": "ARABIC",
+            "specialty_key": null,
+            "count": 8,
+            "minutes": 10
+          },
+          {
+            "domain": "CULTURE_GENERALE",
+            "specialty_key": null,
+            "count": 6,
+            "minutes": 5
+          },
+          {
+            "domain": "FRENCH",
+            "specialty_key": null,
+            "count": 4,
+            "minutes": 5
+          }
+        ]
+      }
+    }
+  ],
+  "specialty_syllabus": [
+    {
+      "key": "spec.enseignement-primaire.systeme-educatif",
+      "parent_key": null,
+      "level": "UNIT",
+      "title_ar": "النظام التربوي التونسي والتشريع المدرسي",
+      "title_fr": "Système éducatif tunisien et législation scolaire",
+      "scope": "SUGGESTED",
+      "source_key": null,
+      "objectives": [
+        {
+          "key": "spec.enseignement-primaire.systeme-educatif.o1",
+          "text_ar": "معرفة المبادئ الكبرى للقانون التوجيهي للتربية والتعليم المدرسي (يرجح القانون عدد 80 لسنة 2002 المؤرخ في 23 جويلية 2002 — للتثبت في الرائد الرسمي): الحق في التعليم، الإجبارية من 6 إلى 16 سنة، المجانية",
+          "text_fr": "Connaître les grands principes de la loi d'orientation de l'éducation et de l'enseignement scolaire (probablement loi n° 2002-80 du 23 juillet 2002 — à vérifier au JORT) : droit à l'éducation, obligation scolaire de 6 à 16 ans, gratuité"
+        },
+        {
+          "key": "spec.enseignement-primaire.systeme-educatif.o2",
+          "text_ar": "وصف هيكلة التعليم: السنة التحضيرية، التعليم الأساسي (المرحلة الابتدائية 6 سنوات والمرحلة الإعدادية 3 سنوات)، التعليم الثانوي",
+          "text_fr": "Décrire la structure du système : année préparatoire, enseignement de base (primaire 6 ans + collège 3 ans), enseignement secondaire"
+        },
+        {
+          "key": "spec.enseignement-primaire.systeme-educatif.o3",
+          "text_ar": "معرفة أدوار المندوبيات الجهوية للتربية والمتفقدين البيداغوجيين ومديري المدارس",
+          "text_fr": "Connaître les rôles des commissariats régionaux à l'éducation, des inspecteurs pédagogiques et des directeurs d'école"
+        }
+      ]
+    },
+    {
+      "key": "spec.enseignement-primaire.systeme-educatif.vie-scolaire",
+      "parent_key": "spec.enseignement-primaire.systeme-educatif",
+      "level": "TOPIC",
+      "title_ar": "الحياة المدرسية والعلاقة مع الأولياء",
+      "title_fr": "Vie scolaire et relations avec les parents",
+      "scope": "SUGGESTED",
+      "source_key": null,
+      "objectives": [
+        {
+          "key": "spec.enseignement-primaire.systeme-educatif.vie-scolaire.o1",
+          "text_ar": "التعرف على النظام الداخلي للمدرسة الابتدائية: المواظبة، الغيابات، الانضباط، السلامة داخل المدرسة",
+          "text_fr": "Connaître le règlement intérieur de l'école : assiduité, absences, discipline, sécurité"
+        },
+        {
+          "key": "spec.enseignement-primaire.systeme-educatif.vie-scolaire.o2",
+          "text_ar": "تنظيم التواصل مع الأولياء (الكراس اليومي، بطاقة الأعداد، اللقاءات الدورية)",
+          "text_fr": "Organiser la communication avec les parents (cahier de liaison, bulletin, réunions)"
+        }
+      ]
+    },
+    {
+      "key": "spec.enseignement-primaire.systeme-educatif.deontologie",
+      "parent_key": "spec.enseignement-primaire.systeme-educatif",
+      "level": "TOPIC",
+      "title_ar": "أخلاقيات مهنة التدريس وحقوق الطفل",
+      "title_fr": "Déontologie enseignante et droits de l'enfant",
+      "scope": "SUGGESTED",
+      "source_key": null,
+      "objectives": [
+        {
+          "key": "spec.enseignement-primaire.systeme-educatif.deontologie.o1",
+          "text_ar": "واجبات المدرس بصفته موظفا عموميا: الحياد، كتمان السر المهني، المواظبة، احترام التسلسل الإداري",
+          "text_fr": "Obligations de l'enseignant fonctionnaire : neutralité, secret professionnel, assiduité, respect de la hiérarchie"
+        },
+        {
+          "key": "spec.enseignement-primaire.systeme-educatif.deontologie.o2",
+          "text_ar": "مجلة حماية الطفل (يرجح 1995 — للتثبت) وواجب الإشعار بوضعيات التهديد ومنع العقاب البدني",
+          "text_fr": "Code de la protection de l'enfant (probablement 1995 — à vérifier), devoir de signalement, interdiction des châtiments corporels"
+        }
+      ]
+    },
+    {
+      "key": "spec.enseignement-primaire.systeme-educatif.examens",
+      "parent_key": "spec.enseignement-primaire.systeme-educatif",
+      "level": "TOPIC",
+      "title_ar": "التقييمات الوطنية والدخول إلى المدارس الإعدادية النموذجية",
+      "title_fr": "Évaluations nationales et accès aux collèges pilotes",
+      "scope": "SUGGESTED",
+      "source_key": null,
+      "objectives": [
+        {
+          "key": "spec.enseignement-primaire.systeme-educatif.examens.o1",
+          "text_ar": "معرفة صيغة مناظرة الدخول إلى المدارس الإعدادية النموذجية في نهاية السنة السادسة (الصيغة الحالية للتثبت)",
+          "text_fr": "Connaître le concours d'entrée aux collèges pilotes en fin de 6e année (modalités actuelles à vérifier)"
+        }
+      ]
+    },
+    {
+      "key": "spec.enseignement-primaire.programmes",
+      "parent_key": null,
+      "level": "UNIT",
+      "title_ar": "البرامج الرسمية للتعليم الابتدائي والمقاربة بالكفايات",
+      "title_fr": "Programmes officiels du primaire et approche par compétences",
+      "scope": "SUGGESTED",
+      "source_key": null,
+      "objectives": [
+        {
+          "key": "spec.enseignement-primaire.programmes.o1",
+          "text_ar": "معرفة تنظيم المرحلة الابتدائية في درجات (يرجح 3 درجات بسنتين لكل منها — للتثبت) وملمح المتخرج من التعليم الابتدائي",
+          "text_fr": "Connaître l'organisation du primaire en degrés (probablement 3 degrés de 2 ans — à vérifier) et le profil de sortie"
+        },
+        {
+          "key": "spec.enseignement-primaire.programmes.o2",
+          "text_ar": "تعداد المجالات التعلمية (اللغات، العلوم والتكنولوجيا، التنشئة الاجتماعية، التنشيط الثقافي والفني والبدني — التسميات للتثبت في البرامج الرسمية)",
+          "text_fr": "Énumérer les domaines d'apprentissage (langues, sciences et technologie, éducation sociale, activités culturelles, artistiques et physiques — intitulés à vérifier dans les programmes officiels)"
+        }
+      ]
+    },
+    {
+      "key": "spec.enseignement-primaire.programmes.apc",
+      "parent_key": "spec.enseignement-primaire.programmes",
+      "level": "TOPIC",
+      "title_ar": "المقاربة بالكفايات",
+      "title_fr": "Approche par compétences",
+      "scope": "SUGGESTED",
+      "source_key": null,
+      "objectives": [
+        {
+          "key": "spec.enseignement-primaire.programmes.apc.o1",
+          "text_ar": "التمييز بين الكفاية والمكون والهدف المميز والهدف المرحلي",
+          "text_fr": "Distinguer compétence, composante, objectif spécifique et objectif d'étape"
+        },
+        {
+          "key": "spec.enseignement-primaire.programmes.apc.o2",
+          "text_ar": "بناء وضعية مشكل ووضعية إدماجية دالة للتلميذ",
+          "text_fr": "Construire une situation-problème et une situation d'intégration signifiantes"
+        }
+      ]
+    },
+    {
+      "key": "spec.enseignement-primaire.programmes.evaluation",
+      "parent_key": "spec.enseignement-primaire.programmes",
+      "level": "TOPIC",
+      "title_ar": "التقييم بالمعايير والدعم والعلاج",
+      "title_fr": "Évaluation critériée, soutien et remédiation",
+      "scope": "SUGGESTED",
+      "source_key": null,
+      "objectives": [
+        {
+          "key": "spec.enseignement-primaire.programmes.evaluation.o1",
+          "text_ar": "التمييز بين التقييم التشخيصي والتكويني والجزائي",
+          "text_fr": "Distinguer évaluation diagnostique, formative et sommative"
+        },
+        {
+          "key": "spec.enseignement-primaire.programmes.evaluation.o2",
+          "text_ar": "استعمال معايير الحد الأدنى ومعايير التميز (قاعدة الثلثين — للتثبت) في إصلاح الإنتاجات",
+          "text_fr": "Utiliser critères minimaux et critères de perfectionnement (règle des deux tiers — à vérifier) pour corriger"
+        },
+        {
+          "key": "spec.enseignement-primaire.programmes.evaluation.o3",
+          "text_ar": "تخطيط حصص الدعم والعلاج انطلاقا من تحليل الأخطاء",
+          "text_fr": "Planifier soutien et remédiation à partir de l'analyse des erreurs"
+        }
+      ]
+    },
+    {
+      "key": "spec.enseignement-primaire.programmes.planification",
+      "parent_key": "spec.enseignement-primaire.programmes",
+      "level": "TOPIC",
+      "title_ar": "التخطيط: التوزيع السنوي والجذاذة",
+      "title_fr": "Planification : progression annuelle et fiche de préparation",
+      "scope": "SUGGESTED",
+      "source_key": null,
+      "objectives": [
+        {
+          "key": "spec.enseignement-primaire.programmes.planification.o1",
+          "text_ar": "إعداد جذاذة حصة: الأهداف، المحتوى، الوسائل، المراحل، التقييم",
+          "text_fr": "Rédiger une fiche de séance : objectifs, contenus, supports, étapes, évaluation"
+        },
+        {
+          "key": "spec.enseignement-primaire.programmes.planification.o2",
+          "text_ar": "التصرف في الزمن المدرسي وفي القسم متعدد المستويات",
+          "text_fr": "Gérer le temps scolaire et la classe multi-niveaux"
+        }
+      ]
+    },
+    {
+      "key": "spec.enseignement-primaire.didactique-arabe",
+      "parent_key": null,
+      "level": "UNIT",
+      "title_ar": "تعليمية اللغة العربية بالمرحلة الابتدائية",
+      "title_fr": "Didactique de l'arabe au primaire",
+      "scope": "SUGGESTED",
+      "source_key": null,
+      "objectives": [
+        {
+          "key": "spec.enseignement-primaire.didactique-arabe.o1",
+          "text_ar": "معرفة مكونات مادة العربية بالابتدائي: التواصل الشفوي، القراءة، الإنتاج الكتابي، قواعد اللغة، الخط",
+          "text_fr": "Connaître les composantes de l'arabe au primaire : oral, lecture, production écrite, langue, écriture"
+        }
+      ]
+    },
+    {
+      "key": "spec.enseignement-primaire.didactique-arabe.lecture-ecriture",
+      "parent_key": "spec.enseignement-primaire.didactique-arabe",
+      "level": "TOPIC",
+      "title_ar": "تعلم القراءة والكتابة في السنوات الأولى",
+      "title_fr": "Apprentissage de la lecture et de l'écriture en début de scolarité",
+      "scope": "SUGGESTED",
+      "source_key": null,
+      "objectives": [
+        {
+          "key": "spec.enseignement-primaire.didactique-arabe.lecture-ecriture.o1",
+          "text_ar": "مقارنة طرائق تعليم القراءة (التحليلية التركيبية، المزجية) وصعوباتها",
+          "text_fr": "Comparer les méthodes d'apprentissage de la lecture (analytique-synthétique, mixte) et leurs difficultés"
+        },
+        {
+          "key": "spec.enseignement-primaire.didactique-arabe.lecture-ecriture.o2",
+          "text_ar": "تدريج الإنتاج الكتابي من الجملة إلى النص",
+          "text_fr": "Progresser en production écrite de la phrase au texte"
+        }
+      ]
+    },
+    {
+      "key": "spec.enseignement-primaire.didactique-arabe.oral-langue",
+      "parent_key": "spec.enseignement-primaire.didactique-arabe",
+      "level": "TOPIC",
+      "title_ar": "التواصل الشفوي وقواعد اللغة",
+      "title_fr": "Communication orale et étude de la langue",
+      "scope": "SUGGESTED",
+      "source_key": null,
+      "objectives": [
+        {
+          "key": "spec.enseignement-primaire.didactique-arabe.oral-langue.o1",
+          "text_ar": "تنمية التعبير الشفوي بالعربية الفصحى انطلاقا من وضعيات تواصلية",
+          "text_fr": "Développer l'expression orale en arabe standard à partir de situations de communication"
+        },
+        {
+          "key": "spec.enseignement-primaire.didactique-arabe.oral-langue.o2",
+          "text_ar": "تدريس الظواهر اللغوية ضمن نصوص (مقاربة نصية)",
+          "text_fr": "Enseigner les faits de langue en contexte (approche textuelle)"
+        }
+      ]
+    },
+    {
+      "key": "spec.enseignement-primaire.didactique-francais",
+      "parent_key": null,
+      "level": "UNIT",
+      "title_ar": "تعليمية اللغة الفرنسية بالمرحلة الابتدائية",
+      "title_fr": "Didactique du français au primaire",
+      "scope": "SUGGESTED",
+      "source_key": null,
+      "objectives": [
+        {
+          "key": "spec.enseignement-primaire.didactique-francais.o1",
+          "text_ar": "معرفة موقع الفرنسية كلغة أجنبية أولى بالابتدائي (سنة بداية تدريسها للتثبت)",
+          "text_fr": "Situer le français comme première langue étrangère au primaire (année d'introduction à vérifier)"
+        }
+      ]
+    },
+    {
+      "key": "spec.enseignement-primaire.didactique-francais.oral-lecture",
+      "parent_key": "spec.enseignement-primaire.didactique-francais",
+      "level": "TOPIC",
+      "title_ar": "L'oral et la lecture en français langue étrangère",
+      "title_fr": "L'oral et la lecture en français langue étrangère",
+      "scope": "SUGGESTED",
+      "source_key": null,
+      "objectives": [
+        {
+          "key": "spec.enseignement-primaire.didactique-francais.oral-lecture.o1",
+          "text_ar": "Construire une séance d'oral (écoute, répétition, réemploi) adaptée à de jeunes apprenants arabophones",
+          "text_fr": "Construire une séance d'oral (écoute, répétition, réemploi) adaptée à de jeunes apprenants arabophones"
+        },
+        {
+          "key": "spec.enseignement-primaire.didactique-francais.oral-lecture.o2",
+          "text_ar": "Identifier les interférences arabe/français (sons, genre, ordre des mots)",
+          "text_fr": "Identifier les interférences arabe/français (sons, genre, ordre des mots)"
+        }
+      ]
+    },
+    {
+      "key": "spec.enseignement-primaire.didactique-francais.ecriture-langue",
+      "parent_key": "spec.enseignement-primaire.didactique-francais",
+      "level": "TOPIC",
+      "title_ar": "Production écrite et outils de la langue",
+      "title_fr": "Production écrite et outils de la langue",
+      "scope": "SUGGESTED",
+      "source_key": null,
+      "objectives": [
+        {
+          "key": "spec.enseignement-primaire.didactique-francais.ecriture-langue.o1",
+          "text_ar": "Programmer une production écrite guidée et sa grille de correction",
+          "text_fr": "Programmer une production écrite guidée et sa grille de correction"
+        }
+      ]
+    },
+    {
+      "key": "spec.enseignement-primaire.didactique-maths-sciences",
+      "parent_key": null,
+      "level": "UNIT",
+      "title_ar": "تعليمية الرياضيات والإيقاظ العلمي",
+      "title_fr": "Didactique des mathématiques et de l'éveil scientifique",
+      "scope": "SUGGESTED",
+      "source_key": null,
+      "objectives": [
+        {
+          "key": "spec.enseignement-primaire.didactique-maths-sciences.o1",
+          "text_ar": "معرفة محاور الرياضيات بالابتدائي: الأعداد والعمليات، حل المسائل، الهندسة، القيس",
+          "text_fr": "Connaître les axes des mathématiques au primaire : nombres et opérations, problèmes, géométrie, mesure"
+        }
+      ]
+    },
+    {
+      "key": "spec.enseignement-primaire.didactique-maths-sciences.maths",
+      "parent_key": "spec.enseignement-primaire.didactique-maths-sciences",
+      "level": "TOPIC",
+      "title_ar": "حل المسائل وتحليل أخطاء التلاميذ في الرياضيات",
+      "title_fr": "Résolution de problèmes et analyse des erreurs en mathématiques",
+      "scope": "SUGGESTED",
+      "source_key": null,
+      "objectives": [
+        {
+          "key": "spec.enseignement-primaire.didactique-maths-sciences.maths.o1",
+          "text_ar": "استعمال المحسوس ثم المرسوم ثم المجرد في بناء مفهوم العدد والعمليات",
+          "text_fr": "Passer du concret au figuré puis à l'abstrait pour construire nombre et opérations"
+        },
+        {
+          "key": "spec.enseignement-primaire.didactique-maths-sciences.maths.o2",
+          "text_ar": "تحليل الأخطاء الشائعة (العدد العشري، الطرح بالاستلاف، التناسب) واقتراح علاج",
+          "text_fr": "Analyser les erreurs fréquentes (décimaux, soustraction avec retenue, proportionnalité) et proposer une remédiation"
+        }
+      ]
+    },
+    {
+      "key": "spec.enseignement-primaire.didactique-maths-sciences.eveil-scientifique",
+      "parent_key": "spec.enseignement-primaire.didactique-maths-sciences",
+      "level": "TOPIC",
+      "title_ar": "الإيقاظ العلمي ومنهج التقصي",
+      "title_fr": "Éveil scientifique et démarche d'investigation",
+      "scope": "SUGGESTED",
+      "source_key": null,
+      "objectives": [
+        {
+          "key": "spec.enseignement-primaire.didactique-maths-sciences.eveil-scientifique.o1",
+          "text_ar": "تنظيم حصة إيقاظ علمي وفق مراحل: وضعية انطلاق، فرضيات، تجربة، استنتاج",
+          "text_fr": "Organiser une séance d'éveil : situation de départ, hypothèses, expérience, conclusion"
+        }
+      ]
+    },
+    {
+      "key": "spec.enseignement-primaire.psychologie-enfant",
+      "parent_key": null,
+      "level": "UNIT",
+      "title_ar": "علم نفس الطفل وصعوبات التعلم والتربية الدامجة",
+      "title_fr": "Psychologie de l'enfant, difficultés d'apprentissage et éducation inclusive",
+      "scope": "SUGGESTED",
+      "source_key": null,
+      "objectives": [
+        {
+          "key": "spec.enseignement-primaire.psychologie-enfant.o1",
+          "text_ar": "ربط خصائص النمو (6–12 سنة) بالاختيارات البيداغوجية",
+          "text_fr": "Relier les caractéristiques du développement (6-12 ans) aux choix pédagogiques"
+        }
+      ]
+    },
+    {
+      "key": "spec.enseignement-primaire.psychologie-enfant.developpement",
+      "parent_key": "spec.enseignement-primaire.psychologie-enfant",
+      "level": "TOPIC",
+      "title_ar": "نظريات النمو والتعلم",
+      "title_fr": "Théories du développement et de l'apprentissage",
+      "scope": "SUGGESTED",
+      "source_key": null,
+      "objectives": [
+        {
+          "key": "spec.enseignement-primaire.psychologie-enfant.developpement.o1",
+          "text_ar": "مراحل النمو المعرفي عند بياجي ومنطقة النمو القريبة عند فيغوتسكي",
+          "text_fr": "Stades du développement cognitif (Piaget) et zone proximale de développement (Vygotski)"
+        },
+        {
+          "key": "spec.enseignement-primaire.psychologie-enfant.developpement.o2",
+          "text_ar": "الدافعية والتعزيز وتقدير الذات لدى الطفل",
+          "text_fr": "Motivation, renforcement et estime de soi chez l'enfant"
+        }
+      ]
+    },
+    {
+      "key": "spec.enseignement-primaire.psychologie-enfant.inclusion",
+      "parent_key": "spec.enseignement-primaire.psychologie-enfant",
+      "level": "TOPIC",
+      "title_ar": "صعوبات التعلم والتربية الدامجة والتنمر",
+      "title_fr": "Difficultés d'apprentissage, éducation inclusive et harcèlement",
+      "scope": "SUGGESTED",
+      "source_key": null,
+      "objectives": [
+        {
+          "key": "spec.enseignement-primaire.psychologie-enfant.inclusion.o1",
+          "text_ar": "التعرف على مؤشرات عسر القراءة وعسر الحساب واضطراب نقص الانتباه وتوجيه الطفل",
+          "text_fr": "Repérer les signes de dyslexie, dyscalculie et TDAH et orienter l'enfant"
+        },
+        {
+          "key": "spec.enseignement-primaire.psychologie-enfant.inclusion.o2",
+          "text_ar": "تكييف التعلمات للأطفال ذوي الإعاقة في إطار التربية الدامجة",
+          "text_fr": "Adapter les apprentissages aux enfants en situation de handicap (éducation inclusive)"
+        },
+        {
+          "key": "spec.enseignement-primaire.psychologie-enfant.inclusion.o3",
+          "text_ar": "الوقاية من التنمر والعنف المدرسي",
+          "text_fr": "Prévenir le harcèlement et la violence scolaires"
+        }
+      ]
+    },
+    {
+      "key": "spec.enseignement-primaire.eps",
+      "parent_key": null,
+      "level": "UNIT",
+      "title_ar": "تعليمية التربية البدنية بالمدرسة الابتدائية",
+      "title_fr": "Didactique de l'EPS à l'école primaire",
+      "scope": "SUGGESTED",
+      "source_key": null,
+      "objectives": [
+        {
+          "key": "spec.enseignement-primaire.eps.o1",
+          "text_ar": "معرفة أهداف التربية البدنية بالابتدائي: النمو الحركي، الصحة، التنشئة الاجتماعية",
+          "text_fr": "Connaître les finalités de l'EPS au primaire : développement moteur, santé, socialisation"
+        }
+      ]
+    },
+    {
+      "key": "spec.enseignement-primaire.eps.seance",
+      "parent_key": "spec.enseignement-primaire.eps",
+      "level": "TOPIC",
+      "title_ar": "بناء حصة التربية البدنية",
+      "title_fr": "Construire une séance d'EPS",
+      "scope": "SUGGESTED",
+      "source_key": null,
+      "objectives": [
+        {
+          "key": "spec.enseignement-primaire.eps.seance.o1",
+          "text_ar": "هيكلة الحصة: الإحماء، الجزء الرئيسي، العودة إلى الهدوء",
+          "text_fr": "Structurer la séance : échauffement, partie principale, retour au calme"
+        },
+        {
+          "key": "spec.enseignement-primaire.eps.seance.o2",
+          "text_ar": "استعمال الألعاب الحركية والجماعية حسب السن",
+          "text_fr": "Utiliser jeux moteurs et collectifs adaptés à l'âge"
+        }
+      ]
+    },
+    {
+      "key": "spec.enseignement-primaire.eps.securite-evaluation",
+      "parent_key": "spec.enseignement-primaire.eps",
+      "level": "TOPIC",
+      "title_ar": "السلامة والتقييم في التربية البدنية",
+      "title_fr": "Sécurité et évaluation en EPS",
+      "scope": "SUGGESTED",
+      "source_key": null,
+      "objectives": [
+        {
+          "key": "spec.enseignement-primaire.eps.securite-evaluation.o1",
+          "text_ar": "تأمين الفضاء والتجهيزات والوقاية من الإصابات والتدخل الأولي",
+          "text_fr": "Sécuriser espace et matériel, prévenir les blessures, gestes de premiers secours"
+        },
+        {
+          "key": "spec.enseignement-primaire.eps.securite-evaluation.o2",
+          "text_ar": "تقييم التعلمات الحركية بشبكات ملاحظة",
+          "text_fr": "Évaluer les apprentissages moteurs par grilles d'observation"
+        },
+        {
+          "key": "spec.enseignement-primaire.eps.securite-evaluation.o3",
+          "text_ar": "دمج الأطفال ذوي الإعاقة أو الإعفاء الطبي الجزئي",
+          "text_fr": "Inclure les élèves handicapés ou partiellement dispensés"
+        }
+      ]
+    }
+  ],
+  "past_exams": [],
+  "tips_ar": [
+    "تابع البلاغات على الموقع الرسمي لوزارة التربية وصفحتها الرسمية فقط؛ الانتداب المباشر لا يتطلب أي دفع مالي، فاحذر من الصفحات والوسطاء الذين يطلبون مالا مقابل «التسجيل» أو «الأولوية».",
+    "إن كنت طالبا في الإجازة التطبيقية في التربية والتعليم: معدل التخرج قد يحدد ترتيبك وولاية تعيينك، فاعتنِ بالتربصات الميدانية وبالمعدل منذ السنة الأولى.",
+    "جهّز ملفك مسبقا: نسخ مطابقة للأصل من الإجازة وكشوف الأعداد والباكالوريا وبطاقة عدد 3 والشهادة الطبية، فآجال التسجيل عادة قصيرة.",
+    "استعد لسنة التربص: تدرّب على كتابة الجذاذات والتخطيط السنوي والتقييم بالمعايير وإدارة القسم متعدد المستويات، فهي محاور زيارة التفقد قبل الترسيم.",
+    "أتقن العربية والفرنسية كتابة ونطقا: أخطاء اللغة أمام التلاميذ والمتفقد تُحتسب عليك.",
+    "إن كنت حاملا لإجازة في التربية البدنية: تابع بلاغات وزارة الشباب والرياضة في ماي–جوان؛ في 2026 أغلقت الترشحات يوم 29 جوان قبل شهر من فتح المناظرة بالملفات.",
+    "إن كانت إجازتك في اختصاص تدريسي آخر (رياضيات، عربية، فيزياء...) فراقب أيضا مناظرة انتداب أساتذة التعليم الثانوي التي عادت سنة 2026 (1,630 خطة ونحو 66 ألف مترشح).",
+    "فعّل التنبيهات في ملفك على المنصة (الشهادة، الاختصاص، تاريخ الولادة) ليصلك إشعار عند صدور بلاغ يطابق ملفك، وتذكير قبل انتهاء الآجال.",
+    "ميزانية 2027 تقشفية وتحصر الانتداب في القطاعات ذات الأولوية: لا تبنِ خطتك على انتداب مضمون وتابع قانون المالية 2027."
+  ],
+  "tips_fr": [
+    "Ne suivez que le site et la page officiels du ministère de l'Éducation ; le recrutement direct est gratuit : méfiez-vous des pages ou intermédiaires qui demandent de l'argent pour une « inscription » ou une « priorité ».",
+    "Étudiant en licence appliquée en éducation et enseignement : la moyenne de la licence peut déterminer votre rang et votre gouvernorat d'affectation ; soignez stages pratiques et moyenne dès la 1re année.",
+    "Préparez votre dossier à l'avance (copies conformes de la licence, relevés, bac, bulletin n°3, certificat médical) : les délais d'inscription sont généralement courts.",
+    "Préparez l'année de stage : fiches de préparation, progression annuelle, évaluation critériée et gestion de la classe multi-niveaux sont les axes de l'inspection avant titularisation.",
+    "Maîtrisez l'arabe et le français à l'écrit comme à l'oral : les fautes devant les élèves et l'inspecteur pèsent.",
+    "Licence en éducation physique : surveillez les avis du ministère de la Jeunesse et des Sports en mai-juin ; en 2026 les candidatures ont été closes le 29 juin, un mois avant le concours sur dossiers.",
+    "Licence dans une discipline enseignée (maths, arabe, physique…) : surveillez aussi le concours des professeurs du secondaire, rouvert en 2026 (1 630 postes, ~66 000 candidats).",
+    "Activez les alertes de votre profil (diplôme, spécialité, date de naissance) pour être notifié dès qu'un avis correspond à votre profil et recevoir un rappel avant la clôture.",
+    "Le budget 2027 est restrictif et limite les recrutements aux secteurs prioritaires : ne comptez pas sur un recrutement garanti et suivez la loi de finances 2027."
+  ],
+  "research_notes": "LIMITE MÉTHODOLOGIQUE MAJEURE : pendant cette passe, le quota WebSearch partagé était épuisé dès la première requête et WebFetch était bloqué par le proxy du conteneur pour tous les domaines tentés (education.gov.tn, edunet.tn, lapresse.tn, allafrica.com, leconomistemaghrebin.com, orientini.com, legislation.tn, mosaiquefm.net, ar.wikipedia.org). AUCUNE page n'a été lue directement. Les seuls faits non purement suggérés viennent du résumé de recherche du même jour (docs/research/01-market-raw.md : « Primary: no concours found (direct hiring of licence appliquée holders + regularisation of substitutes) », LF 2026 : 2 601 licence appliquée, 1 066 enseignants EPS, ~18 079 recrutements Éducation) et de content/competitions/_openings.json (concours MJS sur dossiers : 940 professeurs d'EPS des écoles primaires + 4 instituteurs principaux d'EPS, clôture 29/06/2026, concours 29/07/2026). C'est pourquoi TOUS les faits portent needs_verification=true (aucun fait officiel confirmé). À VÉRIFIER EN PRIORITÉ : (1) existence, intitulé exact et calendrier de l'avis de recrutement des diplômés de la licence appliquée en éducation et enseignement pour 2025-2026 (plateforme d'inscription, critères de classement, affectation), et si les 2 601 « licence appliquée » de la LF 2026 concernent bien cette licence ; (2) grade de recrutement (أستاذ مدارس ابتدائية ?) et statut particulier du corps enseignant du primaire (rattachement, grades معلم / معلم أول / أستاذ مدارس ابتدائية / أستاذ أول…), durée du stage et modalités de titularisation ; (3) existence d'une limite d'âge ; (4) statut actuel de la licence (ouverture de nouvelles promotions, établissements, test/entretien d'admission via l'orientation universitaire) ; (5) régularisation des enseignants suppléants (النواب) : accords ministère/syndicat, nombre et calendrier des vagues 2023-2026 — non modélisée comme poste car il ne s'agit pas d'un concours ouvert au public ; (6) concours MJS 2026 : arrêté d'ouverture, spécialités exactes, limite d'âge, critères de notation du dossier, existence éventuelle d'un entretien, résultats, ainsi que le poste « instituteur principal d'EPS » (4 postes, diplôme non précisé, non modélisé séparément) ; (7) historique du concours CAPEP (dernière session, épreuves) — aucune donnée fiable trouvée, donc aucune édition antérieure à 2026 n'a été créée et past_exams est vide. Aucune donnée sur le nombre de candidats. Les épreuves physiques sont vides (aucune n'est connue). Les « subjects » sont rattachés à la phase de stage/inspection et ne correspondent à AUCUNE épreuve écrite officielle : ce sont des axes de préparation suggérés. Les blueprints sont APPROXIMATED (simulations d'entraînement aux connaissances pédagogiques et didactiques, utiles aussi en cas de retour d'un concours écrit comme pour le secondaire en 2026). Le syllabus spécifique (spec.enseignement-primaire.*) est entièrement SUGGESTED ; les références juridiques citées (loi d'orientation n° 2002-80, statut général loi n° 83-112, code de la protection de l'enfant 1995) proviennent de la mémoire de l'équipe et doivent être vérifiées au JORT. Champ additionnel position_slugs sur les éditions (lu par le seed : apps/api/src/db/seed/competitions.ts) pour que les alertes de profil ne ciblent que le poste concerné (licence appliquée vs EPS) ; vide = tous les postes. Sources s8/s9 (portails officiels) listées comme points de vérification, non consultées, aucun fait n'en est tiré."
+}

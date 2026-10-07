@@ -108,3 +108,14 @@ export function isRealIsoDate(value: string): boolean {
 }
 
 export const UUID_RE = /^[0-9a-f]{8}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{12}$/i;
+
+/** Waits for `job` at most `ms` (the job keeps running in the background). The job must handle its own errors. */
+export async function waitAtMost(job: Promise<unknown>, ms: number): Promise<void> {
+  let timer: NodeJS.Timeout | undefined;
+  const timeout = new Promise<void>((resolve) => {
+    timer = setTimeout(resolve, ms);
+    timer.unref?.();
+  });
+  await Promise.race([job.then(() => undefined, () => undefined), timeout]);
+  if (timer) clearTimeout(timer);
+}

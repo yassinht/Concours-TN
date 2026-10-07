@@ -1,0 +1,3227 @@
+{
+ "family": {
+  "slug": "douane",
+  "field": "CUSTOMS",
+  "organization": {
+   "slug": "douane-tunisienne",
+   "name_ar": "الديوانة التونسية (الإدارة العامة للديوانة)",
+   "name_fr": "Douane tunisienne (Direction générale des douanes)",
+   "ministry_fr": "Ministère des Finances",
+   "website": "https://www.douane.gov.tn"
+  },
+  "name_ar": "مناظرات الانتداب بالديوانة التونسية (ملازمون ورقباء)",
+  "name_fr": "Concours de recrutement de la Douane tunisienne (sous-lieutenants et sergents)",
+  "description_ar": "مناظرات خارجية لانتداب أعوان الديوانة التونسية، وهي سلك شبه عسكري تابع لوزارة المالية (الإدارة العامة للديوانة). حسب ملخص البحث الداخلي للفريق، نشرت الديوانة بلاغا رسميا (ملف PDF مؤرخ في 7 أوت 2025 على douane.gov.tn) لمناظرة انتداب 100 ملازم من حاملي الإجازة أو الأستاذية (إعلامية 8، قانون 14، اقتصاد وتصرف 42، محاسبة ومالية 30، تربية بدنية 2، لغة إنجليزية 4) بشروط: أعزب، 27 سنة على الأكثر، طول 1.70 م للذكور و1.65 م للإناث، وكان الاختبار الكتابي في شكل أسئلة متعددة الاختيارات ونُشرت نتائجه في جويلية 2026 (لابراس). كما فُتحت بقرار مؤرخ في 28 نوفمبر 2025 مناظرة لانتداب 250 رقيبا بتسجيل عن بعد عبر concours.douane.gov.tn إلى غاية 31 ديسمبر 2025 واختبارات بداية من 16 فيفري 2026 (ويبدو). تنبيه: تعذّر فتح أي صفحة مباشرة أثناء هذا البحث، لذلك تبقى كل المعطيات في حاجة إلى تثبت من البلاغ الرسمي، وبقية التفاصيل (المواد، الضوارب، الاختبارات الرياضية، الوثائق، شروط الرقباء) مقترحة بالقياس على الأسلاك المشابهة.",
+  "description_fr": "Concours externes de recrutement de la Douane tunisienne, corps paramilitaire relevant du ministère des Finances (Direction générale des douanes). D'après le résumé de recherche de l'équipe, la Douane a publié un avis officiel (PDF daté du 07/08/2025 sur douane.gov.tn) pour le recrutement de 100 sous-lieutenants titulaires d'une licence ou maîtrise (informatique 8, droit 14, économie/gestion 42, comptabilité/finance 30, éducation physique 2, anglais 4) : célibataire, 27 ans au plus, taille 1,70 m (H) / 1,65 m (F) ; l'écrit était un QCM et ses résultats ont été publiés en juillet 2026 (La Presse). Un concours de 250 sergents a été ouvert par arrêté du 28/11/2025, inscription en ligne sur concours.douane.gov.tn jusqu'au 31/12/2025, épreuves à partir du 16/02/2026 (Webdo). Attention : aucune page n'a pu être ouverte directement lors de cette recherche ; toutes les données restent à vérifier sur l'avis officiel, et le reste (matières, coefficients, épreuves sportives, pièces, conditions des sergents) est SUGGÉRÉ par analogie avec des corps comparables.",
+  "frequency": "ANNUAL",
+  "frequency_confidence": "LOW",
+  "popularity": 4,
+  "keywords": [
+   "ديوانة",
+   "الديوانة التونسية",
+   "مناظرة الديوانة",
+   "انتداب الديوانة",
+   "ملازم ديوانة",
+   "رقيب ديوانة",
+   "عون ديوانة",
+   "أعوان الديوانة",
+   "الإدارة العامة للديوانة",
+   "مناظرة خارجية ديوانة 2025",
+   "مناظرة الديوانة 2026",
+   "douane",
+   "douane tunisienne",
+   "concours douane",
+   "concours douane 2026",
+   "recrutement douane",
+   "sous-lieutenant douane",
+   "sergent douane",
+   "officier des douanes",
+   "agent des douanes",
+   "concours.douane.gov.tn",
+   "customs Tunisia",
+   "QCM douane"
+  ]
+ },
+ "sources": [
+  {
+   "key": "s1",
+   "title": "Avis de concours externe pour le recrutement de sous-lieutenants des douanes – session 2025 (PDF, douane.gov.tn, fichier daté du 07/08/2025)",
+   "url": "https://www.douane.gov.tn/wp-content/uploads/2025/08/2025-08-07_concours_sous-lieutenant-2025.pdf",
+   "publisher": "Direction générale des douanes (Douane tunisienne)",
+   "source_type": "OFFICIAL",
+   "publication_date": "2025-08-07",
+   "retrieved_at": "2026-10-07",
+   "confidence": "HIGH",
+   "notes": "Avis officiel (source primaire). PAGE NON OUVERTE dans cette passe : WebFetch renvoie EGRESS_BLOCKED pour ce domaine et le quota WebSearch était épuisé. URL et faits repris du résumé de recherche consigné le même jour par l'équipe (docs/research/01-market-raw.md, section Douane). Titre reconstitué à partir de l'URL. Faits attribués à ce PDF par le résumé : 100 postes (informatique 8, droit 14, économie/gestion 42, comptabilité/finance 30, éducation physique 2, anglais 4), licence ou maîtrise, célibataire, 27 ans au plus, taille 1,70 m (H) / 1,65 m (F). Date de publication déduite du nom du fichier. À relire intégralement : dates d'inscription, date de référence de l'âge, épreuves, coefficients, pièces du dossier."
+  },
+  {
+   "key": "s2",
+   "title": "Tunisie : la Douane lance une campagne de recrutement d'envergure (Webdo)",
+   "url": "https://www.webdo.tn/fr/actualite/national/tunisie-la-douane-lance-une-campagne-de-recrutement-denvergure/388785/",
+   "publisher": "Webdo",
+   "source_type": "SECONDARY",
+   "publication_date": null,
+   "retrieved_at": "2026-10-07",
+   "confidence": "MEDIUM",
+   "notes": "Article de presse relayant l'avis du concours de 250 sergents. PAGE NON OUVERTE dans cette passe : WebFetch renvoie EGRESS_BLOCKED pour ce domaine et le quota WebSearch était épuisé. URL et faits repris du résumé de recherche consigné le même jour par l'équipe (docs/research/01-market-raw.md, section Douane). Titre reconstitué à partir de l'URL. Faits repris : arrêté du 28/11/2025, date limite d'inscription 31/12/2025, épreuves à partir du 16/02/2026, inscription via concours.douane.gov.tn. Date de publication inconnue (probablement décembre 2025)."
+  },
+  {
+   "key": "s3",
+   "title": "Concours de la Douane : les résultats de l'épreuve écrite publiés (La Presse, 21/07/2026)",
+   "url": "https://www.lapresse.tn/2026/07/21/concours-de-la-douane-les-resultats-de-lepreuve-ecrite-publies/",
+   "publisher": "La Presse de Tunisie",
+   "source_type": "SECONDARY",
+   "publication_date": "2026-07-21",
+   "retrieved_at": "2026-10-07",
+   "confidence": "MEDIUM",
+   "notes": "Selon le résumé : l'écrit du concours des « lieutenants » de la douane est un QCM et ses résultats ont été publiés en juillet 2026. PAGE NON OUVERTE dans cette passe : WebFetch renvoie EGRESS_BLOCKED pour ce domaine et le quota WebSearch était épuisé. URL et faits repris du résumé de recherche consigné le même jour par l'équipe (docs/research/01-market-raw.md, section Douane). Titre reconstitué à partir de l'URL. AMBIGUÏTÉ : rattaché ici par hypothèse au concours des 100 sous-lieutenants (session 2025) ; il pourrait s'agir d'un autre concours d'officiers."
+  },
+  {
+   "key": "s4",
+   "title": "Plateforme d'inscription aux concours de la Douane tunisienne (concours.douane.gov.tn)",
+   "url": "https://concours.douane.gov.tn/",
+   "publisher": "Direction générale des douanes (Douane tunisienne)",
+   "source_type": "OFFICIAL",
+   "publication_date": null,
+   "retrieved_at": "2026-10-07",
+   "confidence": "MEDIUM",
+   "notes": "Plateforme officielle d'inscription citée pour le concours des sergents 2025 (via s2). WebFetch : EGRESS_BLOCKED, contenu non consulté. Son usage pour le concours des sous-lieutenants est probable mais non confirmé."
+  },
+  {
+   "key": "s5",
+   "title": "Site officiel de la Douane tunisienne (douane.gov.tn)",
+   "url": "https://www.douane.gov.tn/",
+   "publisher": "Direction générale des douanes (Douane tunisienne)",
+   "source_type": "OFFICIAL",
+   "publication_date": null,
+   "retrieved_at": "2026-10-07",
+   "confidence": "MEDIUM",
+   "notes": "Site institutionnel (domaine qui héberge l'avis s1). WebFetch : EGRESS_BLOCKED, non consulté. Sert de référence pour l'organisme, les avis (بلاغات) et les résultats."
+  },
+  {
+   "key": "s6",
+   "title": "Loi de finances 2026 : répartition des recrutements par ministère (AllAfrica, 30/10/2025)",
+   "url": "https://fr.allafrica.com/stories/202510300467.html",
+   "publisher": "AllAfrica (reprise de presse tunisienne)",
+   "source_type": "SECONDARY",
+   "publication_date": "2025-10-30",
+   "retrieved_at": "2026-10-07",
+   "confidence": "MEDIUM",
+   "notes": "Selon le résumé de l'équipe : 1 754 recrutements prévus au ministère des Finances en 2026 (part de la Douane non précisée). PAGE NON OUVERTE dans cette passe : WebFetch renvoie EGRESS_BLOCKED pour ce domaine et le quota WebSearch était épuisé. URL et faits repris du résumé de recherche consigné le même jour par l'équipe (docs/research/01-market-raw.md, section Douane). Titre reconstitué à partir de l'URL. Utilisé uniquement comme indice pour les sessions 2026 attendues."
+  }
+ ],
+ "editions": [
+  {
+   "year": 2025,
+   "session_label": "مناظرة خارجية لانتداب 100 ملازم ديوانة من حاملي الإجازة (ملف البلاغ مؤرخ في 7 أوت 2025؛ نتائج الكتابي نُشرت في جويلية 2026 حسب لابراس، ربطها بهذه الدورة للتثبت) / Concours externe : 100 sous-lieutenants des douanes (avis daté du 07/08/2025 ; résultats de l'écrit publiés en juillet 2026 selon La Presse — rattachement à vérifier)",
+   "status": "EXAM_DONE",
+   "registration_open": null,
+   "registration_deadline": null,
+   "exam_date": null,
+   "positions_count": 100,
+   "candidates_count": null,
+   "source_key": "s1",
+   "confidence": "MEDIUM",
+   "needs_verification": true
+  },
+  {
+   "year": 2025,
+   "session_label": "مناظرة خارجية لانتداب 250 رقيب ديوانة (قرار 28 نوفمبر 2025، التسجيل عبر concours.douane.gov.tn إلى غاية 31 ديسمبر 2025، الاختبارات بداية من 16 فيفري 2026) / Concours externe : 250 sergents des douanes (arrêté du 28/11/2025, inscription sur concours.douane.gov.tn jusqu'au 31/12/2025, épreuves à partir du 16/02/2026)",
+   "status": "EXAM_DONE",
+   "registration_open": null,
+   "registration_deadline": "2025-12-31",
+   "exam_date": "2026-02-16",
+   "positions_count": 250,
+   "candidates_count": null,
+   "source_key": "s2",
+   "confidence": "MEDIUM",
+   "needs_verification": true
+  },
+  {
+   "year": 2026,
+   "session_label": "[مقترح] دورة 2026 لانتداب ملازمين: متوقعة بالقياس على دورة 2025 (بلاغ أوت 2025)؛ لم يتسنّ الاطلاع على أي بلاغ إلى غاية 7 أكتوبر 2026 / [Suggestion] Session 2026 sous-lieutenants : attendue par analogie avec 2025 (avis d'août 2025) ; aucun avis n'a pu être consulté au 07/10/2026",
+   "status": "EXPECTED",
+   "registration_open": null,
+   "registration_deadline": null,
+   "exam_date": null,
+   "positions_count": null,
+   "candidates_count": null,
+   "source_key": null,
+   "confidence": "LOW",
+   "needs_verification": true
+  },
+  {
+   "year": 2026,
+   "session_label": "[مقترح] دورة 2026 لانتداب رقباء: قد تُفتح حوالي نوفمبر–ديسمبر 2026 بالقياس على دورة 2025؛ قانون المالية 2026 يتضمن 1754 انتدابا لوزارة المالية دون تحديد حصة الديوانة / [Suggestion] Session 2026 sergents : ouverture possible vers novembre–décembre 2026 par analogie avec 2025 ; la LF 2026 prévoit 1 754 recrutements aux Finances, part de la Douane non précisée",
+   "status": "EXPECTED",
+   "registration_open": null,
+   "registration_deadline": null,
+   "exam_date": null,
+   "positions_count": null,
+   "candidates_count": null,
+   "source_key": "s6",
+   "confidence": "LOW",
+   "needs_verification": true
+  }
+ ],
+ "positions": [
+  {
+   "slug": "sous-lieutenant-economie-gestion",
+   "title_ar": "ملازم ديوانة — اختصاص اقتصاد وتصرف",
+   "title_fr": "Sous-lieutenant des douanes — Économie et gestion",
+   "diploma_level": "LICENCE",
+   "eligibility": {
+    "min_age": null,
+    "max_age": 27,
+    "genders": [
+     "M",
+     "F"
+    ],
+    "nationality": "TN",
+    "diplomas": [
+     "LICENCE"
+    ],
+    "specialties": [
+     "اقتصاد",
+     "علوم اقتصادية",
+     "تصرف",
+     "علوم التصرف",
+     "Économie",
+     "Sciences économiques",
+     "Gestion",
+     "Sciences de gestion",
+     "Management"
+    ],
+    "min_height_cm_male": 170,
+    "min_height_cm_female": 165,
+    "marital_status": "SINGLE",
+    "other_ar": [
+     "عدد الخطط المفتوحة لهذا الاختصاص في دورة 2025: 42 من جملة 100 (حسب ملخص البلاغ)",
+     "شهادة الإجازة أو الأستاذية (أو شهادة معادلة) في الاختصاص المطلوب — القائمة الدقيقة للشهادات المقبولة واردة في البلاغ الرسمي (للتثبت)؛ يُرجّح قبول حاملي الماجستير بشرط السن",
+     "ألا يتجاوز سن المترشح 27 سنة (تاريخ احتساب السن غير مؤكد: غرة جانفي من سنة المناظرة أو تاريخ غلق الترشحات)",
+     "أن يكون المترشح أعزب/عزباء (يُرجّح اشتراط البقاء كذلك طيلة فترة التكوين — للتثبت)",
+     "طول القامة 1.70 م على الأقل للذكور و1.65 م على الأقل للإناث",
+     "[مقترح] الجنسية التونسية والتمتع بالحقوق المدنية وحسن السيرة والأخلاق (بطاقة عدد 3 نقية)",
+     "[مقترح] حدة بصر دنيا وسلامة بدنية تثبتها الفحوص الطبية (القيمة الدقيقة غير معروفة)",
+     "[مقترح] تسوية الوضعية إزاء الخدمة الوطنية للذكور، والالتزام بالعمل بكامل تراب الجمهورية وفق النظام شبه العسكري للديوانة",
+     "قائمة الاختصاصات أعلاه تقريبية لأغراض المطابقة الآلية؛ المرجع هو قائمة الشهادات المقبولة في البلاغ"
+    ],
+    "other_fr": [
+     "Postes ouverts pour cette spécialité en 2025 : 42 sur 100 (selon le résumé de l'avis)",
+     "Licence ou maîtrise (ou diplôme équivalent) dans la spécialité demandée — la liste exacte des diplômes admis figure dans l'avis officiel (à vérifier) ; les titulaires d'un master sont probablement admis sous réserve de l'âge",
+     "Âge maximal 27 ans (date de référence non confirmée : 1er janvier de l'année du concours ou date de clôture des inscriptions)",
+     "Être célibataire (probablement exigé aussi pendant toute la formation — à vérifier)",
+     "Taille minimale : 1,70 m pour les hommes, 1,65 m pour les femmes",
+     "[Suggestion] Nationalité tunisienne, jouissance des droits civiques, bonne conduite et moralité (bulletin n° 3 vierge)",
+     "[Suggestion] Acuité visuelle minimale et aptitude physique constatées par visite médicale (valeur exacte inconnue)",
+     "[Suggestion] Situation régulière vis-à-vis du service national (hommes) et engagement à servir sur tout le territoire selon le statut paramilitaire de la douane",
+     "La liste de spécialités ci-dessus est approximative (pour la correspondance automatique) ; seule la liste des diplômes admis de l'avis fait foi"
+    ],
+    "source_key": "s1",
+    "confidence": "MEDIUM",
+    "needs_verification": true,
+    "source_quote": null
+   },
+   "phases": [
+    {
+     "order": 1,
+     "kind": "FILE_REVIEW",
+     "name_ar": "التسجيل عن بعد ودراسة الملفات",
+     "name_fr": "Inscription en ligne et examen des dossiers",
+     "is_eliminatory": true,
+     "duration_minutes": null,
+     "description_ar": "التسجيل عبر المنصة الإلكترونية للمناظرات (concours.douane.gov.tn، وهي المنصة المذكورة لمناظرة الرقباء 2025 ويُرجّح اعتمادها لمناظرة الملازمين أيضا — للتثبت) ثم التثبت من استيفاء الشروط (السن، الشهادة والاختصاص، الحالة المدنية). لم يتأكد وجود انتقاء أولي حسب المعدلات.",
+     "description_fr": "Inscription sur la plateforme des concours (concours.douane.gov.tn, citée pour les sergents 2025 et probablement utilisée aussi pour les sous-lieutenants — à vérifier), puis contrôle des conditions (âge, diplôme et spécialité, état civil). Existence d'une présélection sur moyennes non confirmée.",
+     "source_key": "s4",
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "order": 2,
+     "kind": "WRITTEN",
+     "name_ar": "الاختبار الكتابي (أسئلة متعددة الاختيارات)",
+     "name_fr": "Épreuve écrite (QCM)",
+     "is_eliminatory": true,
+     "duration_minutes": null,
+     "description_ar": "اختبار كتابي في شكل أسئلة متعددة الاختيارات حسب الصحافة، ونُشرت نتائجه في جويلية 2026 (لابراس، 21 جويلية 2026). المدة والضوارب وتوزيع الأسئلة بين الثقافة العامة واللغات ومادة الاختصاص غير منشورة في المصادر المتاحة؛ التوزيع المقترح في المواد أدناه تقديري.",
+     "description_fr": "Épreuve écrite sous forme de QCM selon la presse ; résultats publiés en juillet 2026 (La Presse, 21/07/2026). Durée, coefficients et répartition entre culture générale, langues et spécialité non publiés dans les sources disponibles ; la répartition proposée dans les matières ci-dessous est une estimation.",
+     "source_key": "s3",
+     "confidence": "MEDIUM",
+     "needs_verification": true
+    },
+    {
+     "order": 3,
+     "kind": "PHYSICAL",
+     "name_ar": "الاختبارات الرياضية",
+     "name_fr": "Épreuves sportives",
+     "is_eliminatory": true,
+     "duration_minutes": null,
+     "description_ar": "مرحلة رياضية مذكورة ضمن مراحل مناظرة الملازمين في ملخص البحث (مع الشفاهي والفحص الطبي). قائمة التمارين وسلم التنقيط والأزمنة الدنيا غير معروفة، وترتيب المراحل 3 إلى 5 غير مؤكد.",
+     "description_fr": "Phase sportive citée parmi les étapes du concours des sous-lieutenants dans le résumé de recherche (avec l'oral et la visite médicale). Liste des épreuves, barème et temps minimaux inconnus ; l'ordre des phases 3 à 5 n'est pas confirmé.",
+     "source_key": "s1",
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "order": 4,
+     "kind": "MEDICAL",
+     "name_ar": "الفحص الطبي",
+     "name_fr": "Visite médicale",
+     "is_eliminatory": true,
+     "duration_minutes": null,
+     "description_ar": "فحص طبي للتأكد من القدرة البدنية والصحية (الطول، حدة البصر، السلامة من الأمراض). التفاصيل والمعايير غير منشورة في المصادر المتاحة.",
+     "description_fr": "Visite médicale d'aptitude (taille, acuité visuelle, absence de pathologies). Critères détaillés non publiés dans les sources disponibles.",
+     "source_key": "s1",
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "order": 5,
+     "kind": "ORAL",
+     "name_ar": "الاختبار الشفاهي",
+     "name_fr": "Épreuve orale",
+     "is_eliminatory": true,
+     "duration_minutes": null,
+     "description_ar": "محادثة أمام لجنة. المحتوى مقترح: ثقافة عامة، أسئلة في مادة الاختصاص، معرفة مهام الديوانة، دوافع الترشح والقدرة على التعبير.",
+     "description_fr": "Entretien devant un jury. Contenu suggéré : culture générale, questions de spécialité, connaissance des missions de la douane, motivation et expression.",
+     "source_key": "s1",
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "order": 6,
+     "kind": "TRAINING",
+     "name_ar": "التكوين الأساسي",
+     "name_fr": "Formation de base",
+     "is_eliminatory": false,
+     "duration_minutes": null,
+     "description_ar": "[مقترح] يخضع الناجحون نهائيا إلى تكوين أساسي (عسكري ومهني ديواني) قبل مباشرة العمل برتبة ملازم. المدة والمكان ونظام التكوين (داخلي، التزام بالعمل لمدة دنيا) غير معروفة.",
+     "description_fr": "[Suggestion] Les admis définitifs suivent une formation de base (militaire et professionnelle douanière) avant la prise de fonctions au grade de sous-lieutenant. Durée, lieu et régime (internat, engagement de servir) inconnus.",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    }
+   ],
+   "subjects": [
+    {
+     "phase_order": 2,
+     "domain": "CULTURE_GENERALE",
+     "specialty_key": null,
+     "name_ar": "ثقافة عامة (تونس، المؤسسات، الاقتصاد الوطني، الأحداث الجارية، العلاقات الدولية)",
+     "name_fr": "Culture générale (Tunisie, institutions, économie nationale, actualité, relations internationales)",
+     "coefficient": null,
+     "duration_minutes": null,
+     "question_count": null,
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "phase_order": 2,
+     "domain": "ARABIC",
+     "specialty_key": null,
+     "name_ar": "اللغة العربية (فهم، نحو، معجم)",
+     "name_fr": "Langue arabe (compréhension, grammaire, lexique)",
+     "coefficient": null,
+     "duration_minutes": null,
+     "question_count": null,
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "phase_order": 2,
+     "domain": "FRENCH",
+     "specialty_key": null,
+     "name_ar": "اللغة الفرنسية (قواعد، معجم، فهم)",
+     "name_fr": "Langue française (grammaire, vocabulaire, compréhension)",
+     "coefficient": null,
+     "duration_minutes": null,
+     "question_count": null,
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "phase_order": 2,
+     "domain": "ENGLISH",
+     "specialty_key": null,
+     "name_ar": "اللغة الإنجليزية (مستوى عام)",
+     "name_fr": "Anglais (niveau général)",
+     "coefficient": null,
+     "duration_minutes": null,
+     "question_count": null,
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "phase_order": 2,
+     "domain": "LOGIC",
+     "specialty_key": null,
+     "name_ar": "منطق وتفكير (متتاليات، قياس، تحليل)",
+     "name_fr": "Logique et raisonnement (suites, syllogismes, analyse)",
+     "coefficient": null,
+     "duration_minutes": null,
+     "question_count": null,
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "phase_order": 2,
+     "domain": "SPECIALTY",
+     "specialty_key": "spec.douane",
+     "name_ar": "مبادئ التشريع الديواني والتجارة الدولية (مجلة الديوانة، الأنظمة الديوانية، القيمة والمنشأ، Incoterms، مكافحة التهريب)",
+     "name_fr": "Notions de législation douanière et de commerce international (code des douanes, régimes douaniers, valeur et origine, Incoterms, lutte contre la contrebande)",
+     "coefficient": null,
+     "duration_minutes": null,
+     "question_count": null,
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "phase_order": 2,
+     "domain": "SPECIALTY",
+     "specialty_key": "spec.banque-gestion",
+     "name_ar": "مادة الاختصاص: اقتصاد وتصرف (اقتصاد جزئي وكلي، تصرف المؤسسات، مبادئ المحاسبة)",
+     "name_fr": "Spécialité : économie et gestion (micro- et macroéconomie, gestion des entreprises, bases de comptabilité)",
+     "coefficient": null,
+     "duration_minutes": null,
+     "question_count": null,
+     "source_key": "s1",
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "phase_order": 2,
+     "domain": "NUMERICAL",
+     "specialty_key": null,
+     "name_ar": "رياضيات مالية وإحصاء أساسي",
+     "name_fr": "Mathématiques financières et statistiques de base",
+     "coefficient": null,
+     "duration_minutes": null,
+     "question_count": null,
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "phase_order": 5,
+     "domain": "CULTURE_GENERALE",
+     "specialty_key": null,
+     "name_ar": "الشفاهي: ثقافة عامة ودوافع الترشح والقدرة على التعبير",
+     "name_fr": "Oral : culture générale, motivation et expression",
+     "coefficient": null,
+     "duration_minutes": null,
+     "question_count": null,
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "phase_order": 5,
+     "domain": "SPECIALTY",
+     "specialty_key": "spec.douane.institution",
+     "name_ar": "الشفاهي: الديوانة التونسية (المهام، التنظيم، الرتب، أخلاقيات المهنة)",
+     "name_fr": "Oral : la Douane tunisienne (missions, organisation, grades, déontologie)",
+     "coefficient": null,
+     "duration_minutes": null,
+     "question_count": null,
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    }
+   ],
+   "physical_tests": [
+    {
+     "name_ar": "قيس الطول وحدة البصر",
+     "name_fr": "Mesure de la taille et contrôle de la vue",
+     "details_ar": "طول أدنى 1.70 م للذكور و1.65 م للإناث (حسب ملخص البلاغ). حدة البصر الدنيا غير معروفة؛ تشترط الأسلاك المشابهة عادة 15/20 للعينين دون إصلاح (مقترح).",
+     "details_fr": "Taille minimale 1,70 m (H) / 1,65 m (F) selon le résumé de l'avis. Acuité visuelle minimale inconnue ; les corps comparables exigent souvent 15/20 pour les deux yeux sans correction (suggestion).",
+     "source_key": "s1",
+     "confidence": "MEDIUM",
+     "needs_verification": true
+    },
+    {
+     "name_ar": "جري سرعة",
+     "name_fr": "Course de vitesse",
+     "details_ar": "[مقترح] مسافة قصيرة (بين 60 و100 م) بالقياس على مناظرات الأسلاك شبه العسكرية؛ الزمن الأدنى وسلم التنقيط غير معروفين.",
+     "details_fr": "[Suggestion] Sprint court (60 à 100 m) par analogie avec les corps paramilitaires ; temps minimal et barème inconnus.",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "name_ar": "جري تحمل",
+     "name_fr": "Course d'endurance",
+     "details_ar": "[مقترح] مسافة متوسطة أو طويلة (من 1000 إلى 3000 م حسب الجنس) بالقياس؛ الأزمنة الدنيا غير معروفة.",
+     "details_fr": "[Suggestion] Demi-fond/fond (1 000 à 3 000 m selon le sexe) par analogie ; temps minimaux inconnus.",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "name_ar": "تمارين القوة والرشاقة",
+     "name_fr": "Épreuves de force et de détente",
+     "details_ar": "[مقترح] عقلة أو انبطاح مائل، ثني الجذع، قفز طولي أو عمودي؛ القائمة والعدد الأدنى غير معروفين.",
+     "details_fr": "[Suggestion] Tractions ou pompes, abdominaux, saut en longueur ou détente verticale ; liste et minima inconnus.",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    }
+   ],
+   "required_documents": [
+    {
+     "text_ar": "التسجيل عن بعد عبر المنصة المحددة في البلاغ الرسمي (concours.douane.gov.tn) وطباعة وصل أو استمارة الترشح",
+     "text_fr": "Inscription en ligne sur la plateforme indiquée dans l'avis officiel (concours.douane.gov.tn) et impression du récépissé ou du formulaire de candidature",
+     "source_key": "s4",
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "text_ar": "نسخة من بطاقة التعريف الوطنية",
+     "text_fr": "Copie de la carte d'identité nationale",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "text_ar": "نسخة مطابقة للأصل من الشهادة العلمية المطلوبة وكشوفات الأعداد",
+     "text_fr": "Copie conforme du diplôme requis et des relevés de notes",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "text_ar": "مضمون ولادة حديث",
+     "text_fr": "Extrait de naissance récent",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "text_ar": "شهادة عزوبة أو وثيقة تثبت الحالة المدنية (شرط العزوبية)",
+     "text_fr": "Attestation de célibat ou justificatif d'état civil (condition de célibat)",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "text_ar": "بطاقة السوابق العدلية (البطاقة عدد 3) — غالبا في مرحلة لاحقة",
+     "text_fr": "Bulletin n° 3 (casier judiciaire) — souvent demandé à un stade ultérieur",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "text_ar": "وثيقة تثبت الوضعية إزاء الخدمة الوطنية (للذكور)",
+     "text_fr": "Justificatif de la situation vis-à-vis du service national (hommes)",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "text_ar": "صور شمسية حديثة",
+     "text_fr": "Photos d'identité récentes",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    }
+   ],
+   "blueprint": {
+    "total_minutes": 120,
+    "fidelity": "APPROXIMATED",
+    "sections": [
+     {
+      "domain": "CULTURE_GENERALE",
+      "specialty_key": null,
+      "count": 20,
+      "minutes": 20
+     },
+     {
+      "domain": "ARABIC",
+      "specialty_key": null,
+      "count": 8,
+      "minutes": 10
+     },
+     {
+      "domain": "FRENCH",
+      "specialty_key": null,
+      "count": 8,
+      "minutes": 10
+     },
+     {
+      "domain": "ENGLISH",
+      "specialty_key": null,
+      "count": 6,
+      "minutes": 8
+     },
+     {
+      "domain": "LOGIC",
+      "specialty_key": null,
+      "count": 8,
+      "minutes": 12
+     },
+     {
+      "domain": "SPECIALTY",
+      "specialty_key": "spec.douane",
+      "count": 10,
+      "minutes": 15
+     },
+     {
+      "domain": "SPECIALTY",
+      "specialty_key": "spec.banque-gestion",
+      "count": 24,
+      "minutes": 35
+     },
+     {
+      "domain": "NUMERICAL",
+      "specialty_key": null,
+      "count": 6,
+      "minutes": 10
+     }
+    ]
+   }
+  },
+  {
+   "slug": "sous-lieutenant-comptabilite-finance",
+   "title_ar": "ملازم ديوانة — اختصاص محاسبة ومالية",
+   "title_fr": "Sous-lieutenant des douanes — Comptabilité et finance",
+   "diploma_level": "LICENCE",
+   "eligibility": {
+    "min_age": null,
+    "max_age": 27,
+    "genders": [
+     "M",
+     "F"
+    ],
+    "nationality": "TN",
+    "diplomas": [
+     "LICENCE"
+    ],
+    "specialties": [
+     "محاسبة",
+     "مالية",
+     "Comptabilité",
+     "Études comptables",
+     "Finance",
+     "Finances"
+    ],
+    "min_height_cm_male": 170,
+    "min_height_cm_female": 165,
+    "marital_status": "SINGLE",
+    "other_ar": [
+     "عدد الخطط المفتوحة لهذا الاختصاص في دورة 2025: 30 من جملة 100 (حسب ملخص البلاغ)",
+     "شهادة الإجازة أو الأستاذية (أو شهادة معادلة) في الاختصاص المطلوب — القائمة الدقيقة للشهادات المقبولة واردة في البلاغ الرسمي (للتثبت)؛ يُرجّح قبول حاملي الماجستير بشرط السن",
+     "ألا يتجاوز سن المترشح 27 سنة (تاريخ احتساب السن غير مؤكد: غرة جانفي من سنة المناظرة أو تاريخ غلق الترشحات)",
+     "أن يكون المترشح أعزب/عزباء (يُرجّح اشتراط البقاء كذلك طيلة فترة التكوين — للتثبت)",
+     "طول القامة 1.70 م على الأقل للذكور و1.65 م على الأقل للإناث",
+     "[مقترح] الجنسية التونسية والتمتع بالحقوق المدنية وحسن السيرة والأخلاق (بطاقة عدد 3 نقية)",
+     "[مقترح] حدة بصر دنيا وسلامة بدنية تثبتها الفحوص الطبية (القيمة الدقيقة غير معروفة)",
+     "[مقترح] تسوية الوضعية إزاء الخدمة الوطنية للذكور، والالتزام بالعمل بكامل تراب الجمهورية وفق النظام شبه العسكري للديوانة",
+     "قائمة الاختصاصات أعلاه تقريبية لأغراض المطابقة الآلية؛ المرجع هو قائمة الشهادات المقبولة في البلاغ"
+    ],
+    "other_fr": [
+     "Postes ouverts pour cette spécialité en 2025 : 30 sur 100 (selon le résumé de l'avis)",
+     "Licence ou maîtrise (ou diplôme équivalent) dans la spécialité demandée — la liste exacte des diplômes admis figure dans l'avis officiel (à vérifier) ; les titulaires d'un master sont probablement admis sous réserve de l'âge",
+     "Âge maximal 27 ans (date de référence non confirmée : 1er janvier de l'année du concours ou date de clôture des inscriptions)",
+     "Être célibataire (probablement exigé aussi pendant toute la formation — à vérifier)",
+     "Taille minimale : 1,70 m pour les hommes, 1,65 m pour les femmes",
+     "[Suggestion] Nationalité tunisienne, jouissance des droits civiques, bonne conduite et moralité (bulletin n° 3 vierge)",
+     "[Suggestion] Acuité visuelle minimale et aptitude physique constatées par visite médicale (valeur exacte inconnue)",
+     "[Suggestion] Situation régulière vis-à-vis du service national (hommes) et engagement à servir sur tout le territoire selon le statut paramilitaire de la douane",
+     "La liste de spécialités ci-dessus est approximative (pour la correspondance automatique) ; seule la liste des diplômes admis de l'avis fait foi"
+    ],
+    "source_key": "s1",
+    "confidence": "MEDIUM",
+    "needs_verification": true,
+    "source_quote": null
+   },
+   "phases": [
+    {
+     "order": 1,
+     "kind": "FILE_REVIEW",
+     "name_ar": "التسجيل عن بعد ودراسة الملفات",
+     "name_fr": "Inscription en ligne et examen des dossiers",
+     "is_eliminatory": true,
+     "duration_minutes": null,
+     "description_ar": "التسجيل عبر المنصة الإلكترونية للمناظرات (concours.douane.gov.tn، وهي المنصة المذكورة لمناظرة الرقباء 2025 ويُرجّح اعتمادها لمناظرة الملازمين أيضا — للتثبت) ثم التثبت من استيفاء الشروط (السن، الشهادة والاختصاص، الحالة المدنية). لم يتأكد وجود انتقاء أولي حسب المعدلات.",
+     "description_fr": "Inscription sur la plateforme des concours (concours.douane.gov.tn, citée pour les sergents 2025 et probablement utilisée aussi pour les sous-lieutenants — à vérifier), puis contrôle des conditions (âge, diplôme et spécialité, état civil). Existence d'une présélection sur moyennes non confirmée.",
+     "source_key": "s4",
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "order": 2,
+     "kind": "WRITTEN",
+     "name_ar": "الاختبار الكتابي (أسئلة متعددة الاختيارات)",
+     "name_fr": "Épreuve écrite (QCM)",
+     "is_eliminatory": true,
+     "duration_minutes": null,
+     "description_ar": "اختبار كتابي في شكل أسئلة متعددة الاختيارات حسب الصحافة، ونُشرت نتائجه في جويلية 2026 (لابراس، 21 جويلية 2026). المدة والضوارب وتوزيع الأسئلة بين الثقافة العامة واللغات ومادة الاختصاص غير منشورة في المصادر المتاحة؛ التوزيع المقترح في المواد أدناه تقديري.",
+     "description_fr": "Épreuve écrite sous forme de QCM selon la presse ; résultats publiés en juillet 2026 (La Presse, 21/07/2026). Durée, coefficients et répartition entre culture générale, langues et spécialité non publiés dans les sources disponibles ; la répartition proposée dans les matières ci-dessous est une estimation.",
+     "source_key": "s3",
+     "confidence": "MEDIUM",
+     "needs_verification": true
+    },
+    {
+     "order": 3,
+     "kind": "PHYSICAL",
+     "name_ar": "الاختبارات الرياضية",
+     "name_fr": "Épreuves sportives",
+     "is_eliminatory": true,
+     "duration_minutes": null,
+     "description_ar": "مرحلة رياضية مذكورة ضمن مراحل مناظرة الملازمين في ملخص البحث (مع الشفاهي والفحص الطبي). قائمة التمارين وسلم التنقيط والأزمنة الدنيا غير معروفة، وترتيب المراحل 3 إلى 5 غير مؤكد.",
+     "description_fr": "Phase sportive citée parmi les étapes du concours des sous-lieutenants dans le résumé de recherche (avec l'oral et la visite médicale). Liste des épreuves, barème et temps minimaux inconnus ; l'ordre des phases 3 à 5 n'est pas confirmé.",
+     "source_key": "s1",
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "order": 4,
+     "kind": "MEDICAL",
+     "name_ar": "الفحص الطبي",
+     "name_fr": "Visite médicale",
+     "is_eliminatory": true,
+     "duration_minutes": null,
+     "description_ar": "فحص طبي للتأكد من القدرة البدنية والصحية (الطول، حدة البصر، السلامة من الأمراض). التفاصيل والمعايير غير منشورة في المصادر المتاحة.",
+     "description_fr": "Visite médicale d'aptitude (taille, acuité visuelle, absence de pathologies). Critères détaillés non publiés dans les sources disponibles.",
+     "source_key": "s1",
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "order": 5,
+     "kind": "ORAL",
+     "name_ar": "الاختبار الشفاهي",
+     "name_fr": "Épreuve orale",
+     "is_eliminatory": true,
+     "duration_minutes": null,
+     "description_ar": "محادثة أمام لجنة. المحتوى مقترح: ثقافة عامة، أسئلة في مادة الاختصاص، معرفة مهام الديوانة، دوافع الترشح والقدرة على التعبير.",
+     "description_fr": "Entretien devant un jury. Contenu suggéré : culture générale, questions de spécialité, connaissance des missions de la douane, motivation et expression.",
+     "source_key": "s1",
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "order": 6,
+     "kind": "TRAINING",
+     "name_ar": "التكوين الأساسي",
+     "name_fr": "Formation de base",
+     "is_eliminatory": false,
+     "duration_minutes": null,
+     "description_ar": "[مقترح] يخضع الناجحون نهائيا إلى تكوين أساسي (عسكري ومهني ديواني) قبل مباشرة العمل برتبة ملازم. المدة والمكان ونظام التكوين (داخلي، التزام بالعمل لمدة دنيا) غير معروفة.",
+     "description_fr": "[Suggestion] Les admis définitifs suivent une formation de base (militaire et professionnelle douanière) avant la prise de fonctions au grade de sous-lieutenant. Durée, lieu et régime (internat, engagement de servir) inconnus.",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    }
+   ],
+   "subjects": [
+    {
+     "phase_order": 2,
+     "domain": "CULTURE_GENERALE",
+     "specialty_key": null,
+     "name_ar": "ثقافة عامة (تونس، المؤسسات، الاقتصاد الوطني، الأحداث الجارية، العلاقات الدولية)",
+     "name_fr": "Culture générale (Tunisie, institutions, économie nationale, actualité, relations internationales)",
+     "coefficient": null,
+     "duration_minutes": null,
+     "question_count": null,
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "phase_order": 2,
+     "domain": "ARABIC",
+     "specialty_key": null,
+     "name_ar": "اللغة العربية (فهم، نحو، معجم)",
+     "name_fr": "Langue arabe (compréhension, grammaire, lexique)",
+     "coefficient": null,
+     "duration_minutes": null,
+     "question_count": null,
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "phase_order": 2,
+     "domain": "FRENCH",
+     "specialty_key": null,
+     "name_ar": "اللغة الفرنسية (قواعد، معجم، فهم)",
+     "name_fr": "Langue française (grammaire, vocabulaire, compréhension)",
+     "coefficient": null,
+     "duration_minutes": null,
+     "question_count": null,
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "phase_order": 2,
+     "domain": "ENGLISH",
+     "specialty_key": null,
+     "name_ar": "اللغة الإنجليزية (مستوى عام)",
+     "name_fr": "Anglais (niveau général)",
+     "coefficient": null,
+     "duration_minutes": null,
+     "question_count": null,
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "phase_order": 2,
+     "domain": "LOGIC",
+     "specialty_key": null,
+     "name_ar": "منطق وتفكير (متتاليات، قياس، تحليل)",
+     "name_fr": "Logique et raisonnement (suites, syllogismes, analyse)",
+     "coefficient": null,
+     "duration_minutes": null,
+     "question_count": null,
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "phase_order": 2,
+     "domain": "SPECIALTY",
+     "specialty_key": "spec.douane",
+     "name_ar": "مبادئ التشريع الديواني والتجارة الدولية (مجلة الديوانة، الأنظمة الديوانية، القيمة والمنشأ، Incoterms، مكافحة التهريب)",
+     "name_fr": "Notions de législation douanière et de commerce international (code des douanes, régimes douaniers, valeur et origine, Incoterms, lutte contre la contrebande)",
+     "coefficient": null,
+     "duration_minutes": null,
+     "question_count": null,
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "phase_order": 2,
+     "domain": "SPECIALTY",
+     "specialty_key": "spec.banque-gestion",
+     "name_ar": "مادة الاختصاص: محاسبة ومالية (محاسبة عامة، محاسبة تحليلية، تحليل مالي)",
+     "name_fr": "Spécialité : comptabilité et finance (comptabilité générale, comptabilité analytique, analyse financière)",
+     "coefficient": null,
+     "duration_minutes": null,
+     "question_count": null,
+     "source_key": "s1",
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "phase_order": 2,
+     "domain": "SPECIALTY",
+     "specialty_key": "spec.fiscalite",
+     "name_ar": "الجباية والمالية العمومية (الأداء على القيمة المضافة، الضريبة على الشركات، الميزانية)",
+     "name_fr": "Fiscalité et finances publiques (TVA, impôt sur les sociétés, budget de l'État)",
+     "coefficient": null,
+     "duration_minutes": null,
+     "question_count": null,
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "phase_order": 5,
+     "domain": "CULTURE_GENERALE",
+     "specialty_key": null,
+     "name_ar": "الشفاهي: ثقافة عامة ودوافع الترشح والقدرة على التعبير",
+     "name_fr": "Oral : culture générale, motivation et expression",
+     "coefficient": null,
+     "duration_minutes": null,
+     "question_count": null,
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "phase_order": 5,
+     "domain": "SPECIALTY",
+     "specialty_key": "spec.douane.institution",
+     "name_ar": "الشفاهي: الديوانة التونسية (المهام، التنظيم، الرتب، أخلاقيات المهنة)",
+     "name_fr": "Oral : la Douane tunisienne (missions, organisation, grades, déontologie)",
+     "coefficient": null,
+     "duration_minutes": null,
+     "question_count": null,
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    }
+   ],
+   "physical_tests": [
+    {
+     "name_ar": "قيس الطول وحدة البصر",
+     "name_fr": "Mesure de la taille et contrôle de la vue",
+     "details_ar": "طول أدنى 1.70 م للذكور و1.65 م للإناث (حسب ملخص البلاغ). حدة البصر الدنيا غير معروفة؛ تشترط الأسلاك المشابهة عادة 15/20 للعينين دون إصلاح (مقترح).",
+     "details_fr": "Taille minimale 1,70 m (H) / 1,65 m (F) selon le résumé de l'avis. Acuité visuelle minimale inconnue ; les corps comparables exigent souvent 15/20 pour les deux yeux sans correction (suggestion).",
+     "source_key": "s1",
+     "confidence": "MEDIUM",
+     "needs_verification": true
+    },
+    {
+     "name_ar": "جري سرعة",
+     "name_fr": "Course de vitesse",
+     "details_ar": "[مقترح] مسافة قصيرة (بين 60 و100 م) بالقياس على مناظرات الأسلاك شبه العسكرية؛ الزمن الأدنى وسلم التنقيط غير معروفين.",
+     "details_fr": "[Suggestion] Sprint court (60 à 100 m) par analogie avec les corps paramilitaires ; temps minimal et barème inconnus.",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "name_ar": "جري تحمل",
+     "name_fr": "Course d'endurance",
+     "details_ar": "[مقترح] مسافة متوسطة أو طويلة (من 1000 إلى 3000 م حسب الجنس) بالقياس؛ الأزمنة الدنيا غير معروفة.",
+     "details_fr": "[Suggestion] Demi-fond/fond (1 000 à 3 000 m selon le sexe) par analogie ; temps minimaux inconnus.",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "name_ar": "تمارين القوة والرشاقة",
+     "name_fr": "Épreuves de force et de détente",
+     "details_ar": "[مقترح] عقلة أو انبطاح مائل، ثني الجذع، قفز طولي أو عمودي؛ القائمة والعدد الأدنى غير معروفين.",
+     "details_fr": "[Suggestion] Tractions ou pompes, abdominaux, saut en longueur ou détente verticale ; liste et minima inconnus.",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    }
+   ],
+   "required_documents": [
+    {
+     "text_ar": "التسجيل عن بعد عبر المنصة المحددة في البلاغ الرسمي (concours.douane.gov.tn) وطباعة وصل أو استمارة الترشح",
+     "text_fr": "Inscription en ligne sur la plateforme indiquée dans l'avis officiel (concours.douane.gov.tn) et impression du récépissé ou du formulaire de candidature",
+     "source_key": "s4",
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "text_ar": "نسخة من بطاقة التعريف الوطنية",
+     "text_fr": "Copie de la carte d'identité nationale",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "text_ar": "نسخة مطابقة للأصل من الشهادة العلمية المطلوبة وكشوفات الأعداد",
+     "text_fr": "Copie conforme du diplôme requis et des relevés de notes",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "text_ar": "مضمون ولادة حديث",
+     "text_fr": "Extrait de naissance récent",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "text_ar": "شهادة عزوبة أو وثيقة تثبت الحالة المدنية (شرط العزوبية)",
+     "text_fr": "Attestation de célibat ou justificatif d'état civil (condition de célibat)",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "text_ar": "بطاقة السوابق العدلية (البطاقة عدد 3) — غالبا في مرحلة لاحقة",
+     "text_fr": "Bulletin n° 3 (casier judiciaire) — souvent demandé à un stade ultérieur",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "text_ar": "وثيقة تثبت الوضعية إزاء الخدمة الوطنية (للذكور)",
+     "text_fr": "Justificatif de la situation vis-à-vis du service national (hommes)",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "text_ar": "صور شمسية حديثة",
+     "text_fr": "Photos d'identité récentes",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    }
+   ],
+   "blueprint": {
+    "total_minutes": 120,
+    "fidelity": "APPROXIMATED",
+    "sections": [
+     {
+      "domain": "CULTURE_GENERALE",
+      "specialty_key": null,
+      "count": 20,
+      "minutes": 20
+     },
+     {
+      "domain": "ARABIC",
+      "specialty_key": null,
+      "count": 8,
+      "minutes": 10
+     },
+     {
+      "domain": "FRENCH",
+      "specialty_key": null,
+      "count": 8,
+      "minutes": 10
+     },
+     {
+      "domain": "ENGLISH",
+      "specialty_key": null,
+      "count": 6,
+      "minutes": 8
+     },
+     {
+      "domain": "LOGIC",
+      "specialty_key": null,
+      "count": 8,
+      "minutes": 12
+     },
+     {
+      "domain": "SPECIALTY",
+      "specialty_key": "spec.douane",
+      "count": 10,
+      "minutes": 15
+     },
+     {
+      "domain": "SPECIALTY",
+      "specialty_key": "spec.banque-gestion",
+      "count": 18,
+      "minutes": 25
+     },
+     {
+      "domain": "SPECIALTY",
+      "specialty_key": "spec.fiscalite",
+      "count": 14,
+      "minutes": 20
+     }
+    ]
+   }
+  },
+  {
+   "slug": "sous-lieutenant-droit",
+   "title_ar": "ملازم ديوانة — اختصاص قانون",
+   "title_fr": "Sous-lieutenant des douanes — Droit",
+   "diploma_level": "LICENCE",
+   "eligibility": {
+    "min_age": null,
+    "max_age": 27,
+    "genders": [
+     "M",
+     "F"
+    ],
+    "nationality": "TN",
+    "diplomas": [
+     "LICENCE"
+    ],
+    "specialties": [
+     "قانون",
+     "حقوق",
+     "علوم قانونية",
+     "Droit",
+     "Sciences juridiques"
+    ],
+    "min_height_cm_male": 170,
+    "min_height_cm_female": 165,
+    "marital_status": "SINGLE",
+    "other_ar": [
+     "عدد الخطط المفتوحة لهذا الاختصاص في دورة 2025: 14 من جملة 100 (حسب ملخص البلاغ)",
+     "شهادة الإجازة أو الأستاذية (أو شهادة معادلة) في الاختصاص المطلوب — القائمة الدقيقة للشهادات المقبولة واردة في البلاغ الرسمي (للتثبت)؛ يُرجّح قبول حاملي الماجستير بشرط السن",
+     "ألا يتجاوز سن المترشح 27 سنة (تاريخ احتساب السن غير مؤكد: غرة جانفي من سنة المناظرة أو تاريخ غلق الترشحات)",
+     "أن يكون المترشح أعزب/عزباء (يُرجّح اشتراط البقاء كذلك طيلة فترة التكوين — للتثبت)",
+     "طول القامة 1.70 م على الأقل للذكور و1.65 م على الأقل للإناث",
+     "[مقترح] الجنسية التونسية والتمتع بالحقوق المدنية وحسن السيرة والأخلاق (بطاقة عدد 3 نقية)",
+     "[مقترح] حدة بصر دنيا وسلامة بدنية تثبتها الفحوص الطبية (القيمة الدقيقة غير معروفة)",
+     "[مقترح] تسوية الوضعية إزاء الخدمة الوطنية للذكور، والالتزام بالعمل بكامل تراب الجمهورية وفق النظام شبه العسكري للديوانة",
+     "قائمة الاختصاصات أعلاه تقريبية لأغراض المطابقة الآلية؛ المرجع هو قائمة الشهادات المقبولة في البلاغ"
+    ],
+    "other_fr": [
+     "Postes ouverts pour cette spécialité en 2025 : 14 sur 100 (selon le résumé de l'avis)",
+     "Licence ou maîtrise (ou diplôme équivalent) dans la spécialité demandée — la liste exacte des diplômes admis figure dans l'avis officiel (à vérifier) ; les titulaires d'un master sont probablement admis sous réserve de l'âge",
+     "Âge maximal 27 ans (date de référence non confirmée : 1er janvier de l'année du concours ou date de clôture des inscriptions)",
+     "Être célibataire (probablement exigé aussi pendant toute la formation — à vérifier)",
+     "Taille minimale : 1,70 m pour les hommes, 1,65 m pour les femmes",
+     "[Suggestion] Nationalité tunisienne, jouissance des droits civiques, bonne conduite et moralité (bulletin n° 3 vierge)",
+     "[Suggestion] Acuité visuelle minimale et aptitude physique constatées par visite médicale (valeur exacte inconnue)",
+     "[Suggestion] Situation régulière vis-à-vis du service national (hommes) et engagement à servir sur tout le territoire selon le statut paramilitaire de la douane",
+     "La liste de spécialités ci-dessus est approximative (pour la correspondance automatique) ; seule la liste des diplômes admis de l'avis fait foi"
+    ],
+    "source_key": "s1",
+    "confidence": "MEDIUM",
+    "needs_verification": true,
+    "source_quote": null
+   },
+   "phases": [
+    {
+     "order": 1,
+     "kind": "FILE_REVIEW",
+     "name_ar": "التسجيل عن بعد ودراسة الملفات",
+     "name_fr": "Inscription en ligne et examen des dossiers",
+     "is_eliminatory": true,
+     "duration_minutes": null,
+     "description_ar": "التسجيل عبر المنصة الإلكترونية للمناظرات (concours.douane.gov.tn، وهي المنصة المذكورة لمناظرة الرقباء 2025 ويُرجّح اعتمادها لمناظرة الملازمين أيضا — للتثبت) ثم التثبت من استيفاء الشروط (السن، الشهادة والاختصاص، الحالة المدنية). لم يتأكد وجود انتقاء أولي حسب المعدلات.",
+     "description_fr": "Inscription sur la plateforme des concours (concours.douane.gov.tn, citée pour les sergents 2025 et probablement utilisée aussi pour les sous-lieutenants — à vérifier), puis contrôle des conditions (âge, diplôme et spécialité, état civil). Existence d'une présélection sur moyennes non confirmée.",
+     "source_key": "s4",
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "order": 2,
+     "kind": "WRITTEN",
+     "name_ar": "الاختبار الكتابي (أسئلة متعددة الاختيارات)",
+     "name_fr": "Épreuve écrite (QCM)",
+     "is_eliminatory": true,
+     "duration_minutes": null,
+     "description_ar": "اختبار كتابي في شكل أسئلة متعددة الاختيارات حسب الصحافة، ونُشرت نتائجه في جويلية 2026 (لابراس، 21 جويلية 2026). المدة والضوارب وتوزيع الأسئلة بين الثقافة العامة واللغات ومادة الاختصاص غير منشورة في المصادر المتاحة؛ التوزيع المقترح في المواد أدناه تقديري.",
+     "description_fr": "Épreuve écrite sous forme de QCM selon la presse ; résultats publiés en juillet 2026 (La Presse, 21/07/2026). Durée, coefficients et répartition entre culture générale, langues et spécialité non publiés dans les sources disponibles ; la répartition proposée dans les matières ci-dessous est une estimation.",
+     "source_key": "s3",
+     "confidence": "MEDIUM",
+     "needs_verification": true
+    },
+    {
+     "order": 3,
+     "kind": "PHYSICAL",
+     "name_ar": "الاختبارات الرياضية",
+     "name_fr": "Épreuves sportives",
+     "is_eliminatory": true,
+     "duration_minutes": null,
+     "description_ar": "مرحلة رياضية مذكورة ضمن مراحل مناظرة الملازمين في ملخص البحث (مع الشفاهي والفحص الطبي). قائمة التمارين وسلم التنقيط والأزمنة الدنيا غير معروفة، وترتيب المراحل 3 إلى 5 غير مؤكد.",
+     "description_fr": "Phase sportive citée parmi les étapes du concours des sous-lieutenants dans le résumé de recherche (avec l'oral et la visite médicale). Liste des épreuves, barème et temps minimaux inconnus ; l'ordre des phases 3 à 5 n'est pas confirmé.",
+     "source_key": "s1",
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "order": 4,
+     "kind": "MEDICAL",
+     "name_ar": "الفحص الطبي",
+     "name_fr": "Visite médicale",
+     "is_eliminatory": true,
+     "duration_minutes": null,
+     "description_ar": "فحص طبي للتأكد من القدرة البدنية والصحية (الطول، حدة البصر، السلامة من الأمراض). التفاصيل والمعايير غير منشورة في المصادر المتاحة.",
+     "description_fr": "Visite médicale d'aptitude (taille, acuité visuelle, absence de pathologies). Critères détaillés non publiés dans les sources disponibles.",
+     "source_key": "s1",
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "order": 5,
+     "kind": "ORAL",
+     "name_ar": "الاختبار الشفاهي",
+     "name_fr": "Épreuve orale",
+     "is_eliminatory": true,
+     "duration_minutes": null,
+     "description_ar": "محادثة أمام لجنة. المحتوى مقترح: ثقافة عامة، أسئلة في مادة الاختصاص، معرفة مهام الديوانة، دوافع الترشح والقدرة على التعبير.",
+     "description_fr": "Entretien devant un jury. Contenu suggéré : culture générale, questions de spécialité, connaissance des missions de la douane, motivation et expression.",
+     "source_key": "s1",
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "order": 6,
+     "kind": "TRAINING",
+     "name_ar": "التكوين الأساسي",
+     "name_fr": "Formation de base",
+     "is_eliminatory": false,
+     "duration_minutes": null,
+     "description_ar": "[مقترح] يخضع الناجحون نهائيا إلى تكوين أساسي (عسكري ومهني ديواني) قبل مباشرة العمل برتبة ملازم. المدة والمكان ونظام التكوين (داخلي، التزام بالعمل لمدة دنيا) غير معروفة.",
+     "description_fr": "[Suggestion] Les admis définitifs suivent une formation de base (militaire et professionnelle douanière) avant la prise de fonctions au grade de sous-lieutenant. Durée, lieu et régime (internat, engagement de servir) inconnus.",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    }
+   ],
+   "subjects": [
+    {
+     "phase_order": 2,
+     "domain": "CULTURE_GENERALE",
+     "specialty_key": null,
+     "name_ar": "ثقافة عامة (تونس، المؤسسات، الاقتصاد الوطني، الأحداث الجارية، العلاقات الدولية)",
+     "name_fr": "Culture générale (Tunisie, institutions, économie nationale, actualité, relations internationales)",
+     "coefficient": null,
+     "duration_minutes": null,
+     "question_count": null,
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "phase_order": 2,
+     "domain": "ARABIC",
+     "specialty_key": null,
+     "name_ar": "اللغة العربية (فهم، نحو، معجم)",
+     "name_fr": "Langue arabe (compréhension, grammaire, lexique)",
+     "coefficient": null,
+     "duration_minutes": null,
+     "question_count": null,
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "phase_order": 2,
+     "domain": "FRENCH",
+     "specialty_key": null,
+     "name_ar": "اللغة الفرنسية (قواعد، معجم، فهم)",
+     "name_fr": "Langue française (grammaire, vocabulaire, compréhension)",
+     "coefficient": null,
+     "duration_minutes": null,
+     "question_count": null,
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "phase_order": 2,
+     "domain": "ENGLISH",
+     "specialty_key": null,
+     "name_ar": "اللغة الإنجليزية (مستوى عام)",
+     "name_fr": "Anglais (niveau général)",
+     "coefficient": null,
+     "duration_minutes": null,
+     "question_count": null,
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "phase_order": 2,
+     "domain": "LOGIC",
+     "specialty_key": null,
+     "name_ar": "منطق وتفكير (متتاليات، قياس، تحليل)",
+     "name_fr": "Logique et raisonnement (suites, syllogismes, analyse)",
+     "coefficient": null,
+     "duration_minutes": null,
+     "question_count": null,
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "phase_order": 2,
+     "domain": "SPECIALTY",
+     "specialty_key": "spec.douane",
+     "name_ar": "مبادئ التشريع الديواني والتجارة الدولية (مجلة الديوانة، الأنظمة الديوانية، القيمة والمنشأ، Incoterms، مكافحة التهريب)",
+     "name_fr": "Notions de législation douanière et de commerce international (code des douanes, régimes douaniers, valeur et origine, Incoterms, lutte contre la contrebande)",
+     "coefficient": null,
+     "duration_minutes": null,
+     "question_count": null,
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "phase_order": 2,
+     "domain": "SPECIALTY",
+     "specialty_key": "spec.droit-administratif",
+     "name_ar": "مادة الاختصاص: القانون الإداري",
+     "name_fr": "Spécialité : droit administratif",
+     "coefficient": null,
+     "duration_minutes": null,
+     "question_count": null,
+     "source_key": "s1",
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "phase_order": 2,
+     "domain": "SPECIALTY",
+     "specialty_key": "spec.droit-public",
+     "name_ar": "القانون الدستوري والمؤسسات السياسية",
+     "name_fr": "Droit constitutionnel et institutions politiques",
+     "coefficient": null,
+     "duration_minutes": null,
+     "question_count": null,
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "phase_order": 2,
+     "domain": "SPECIALTY",
+     "specialty_key": "spec.douane.droit-prive-penal",
+     "name_ar": "القانون الجزائي والإجراءات الجزائية والقانون التجاري (أساسيات مفيدة للنزاعات الديوانية)",
+     "name_fr": "Droit pénal, procédure pénale et droit commercial (bases utiles au contentieux douanier)",
+     "coefficient": null,
+     "duration_minutes": null,
+     "question_count": null,
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "phase_order": 5,
+     "domain": "CULTURE_GENERALE",
+     "specialty_key": null,
+     "name_ar": "الشفاهي: ثقافة عامة ودوافع الترشح والقدرة على التعبير",
+     "name_fr": "Oral : culture générale, motivation et expression",
+     "coefficient": null,
+     "duration_minutes": null,
+     "question_count": null,
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "phase_order": 5,
+     "domain": "SPECIALTY",
+     "specialty_key": "spec.douane.institution",
+     "name_ar": "الشفاهي: الديوانة التونسية (المهام، التنظيم، الرتب، أخلاقيات المهنة)",
+     "name_fr": "Oral : la Douane tunisienne (missions, organisation, grades, déontologie)",
+     "coefficient": null,
+     "duration_minutes": null,
+     "question_count": null,
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    }
+   ],
+   "physical_tests": [
+    {
+     "name_ar": "قيس الطول وحدة البصر",
+     "name_fr": "Mesure de la taille et contrôle de la vue",
+     "details_ar": "طول أدنى 1.70 م للذكور و1.65 م للإناث (حسب ملخص البلاغ). حدة البصر الدنيا غير معروفة؛ تشترط الأسلاك المشابهة عادة 15/20 للعينين دون إصلاح (مقترح).",
+     "details_fr": "Taille minimale 1,70 m (H) / 1,65 m (F) selon le résumé de l'avis. Acuité visuelle minimale inconnue ; les corps comparables exigent souvent 15/20 pour les deux yeux sans correction (suggestion).",
+     "source_key": "s1",
+     "confidence": "MEDIUM",
+     "needs_verification": true
+    },
+    {
+     "name_ar": "جري سرعة",
+     "name_fr": "Course de vitesse",
+     "details_ar": "[مقترح] مسافة قصيرة (بين 60 و100 م) بالقياس على مناظرات الأسلاك شبه العسكرية؛ الزمن الأدنى وسلم التنقيط غير معروفين.",
+     "details_fr": "[Suggestion] Sprint court (60 à 100 m) par analogie avec les corps paramilitaires ; temps minimal et barème inconnus.",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "name_ar": "جري تحمل",
+     "name_fr": "Course d'endurance",
+     "details_ar": "[مقترح] مسافة متوسطة أو طويلة (من 1000 إلى 3000 م حسب الجنس) بالقياس؛ الأزمنة الدنيا غير معروفة.",
+     "details_fr": "[Suggestion] Demi-fond/fond (1 000 à 3 000 m selon le sexe) par analogie ; temps minimaux inconnus.",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "name_ar": "تمارين القوة والرشاقة",
+     "name_fr": "Épreuves de force et de détente",
+     "details_ar": "[مقترح] عقلة أو انبطاح مائل، ثني الجذع، قفز طولي أو عمودي؛ القائمة والعدد الأدنى غير معروفين.",
+     "details_fr": "[Suggestion] Tractions ou pompes, abdominaux, saut en longueur ou détente verticale ; liste et minima inconnus.",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    }
+   ],
+   "required_documents": [
+    {
+     "text_ar": "التسجيل عن بعد عبر المنصة المحددة في البلاغ الرسمي (concours.douane.gov.tn) وطباعة وصل أو استمارة الترشح",
+     "text_fr": "Inscription en ligne sur la plateforme indiquée dans l'avis officiel (concours.douane.gov.tn) et impression du récépissé ou du formulaire de candidature",
+     "source_key": "s4",
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "text_ar": "نسخة من بطاقة التعريف الوطنية",
+     "text_fr": "Copie de la carte d'identité nationale",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "text_ar": "نسخة مطابقة للأصل من الشهادة العلمية المطلوبة وكشوفات الأعداد",
+     "text_fr": "Copie conforme du diplôme requis et des relevés de notes",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "text_ar": "مضمون ولادة حديث",
+     "text_fr": "Extrait de naissance récent",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "text_ar": "شهادة عزوبة أو وثيقة تثبت الحالة المدنية (شرط العزوبية)",
+     "text_fr": "Attestation de célibat ou justificatif d'état civil (condition de célibat)",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "text_ar": "بطاقة السوابق العدلية (البطاقة عدد 3) — غالبا في مرحلة لاحقة",
+     "text_fr": "Bulletin n° 3 (casier judiciaire) — souvent demandé à un stade ultérieur",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "text_ar": "وثيقة تثبت الوضعية إزاء الخدمة الوطنية (للذكور)",
+     "text_fr": "Justificatif de la situation vis-à-vis du service national (hommes)",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "text_ar": "صور شمسية حديثة",
+     "text_fr": "Photos d'identité récentes",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    }
+   ],
+   "blueprint": {
+    "total_minutes": 120,
+    "fidelity": "APPROXIMATED",
+    "sections": [
+     {
+      "domain": "CULTURE_GENERALE",
+      "specialty_key": null,
+      "count": 20,
+      "minutes": 20
+     },
+     {
+      "domain": "ARABIC",
+      "specialty_key": null,
+      "count": 8,
+      "minutes": 10
+     },
+     {
+      "domain": "FRENCH",
+      "specialty_key": null,
+      "count": 8,
+      "minutes": 10
+     },
+     {
+      "domain": "ENGLISH",
+      "specialty_key": null,
+      "count": 6,
+      "minutes": 8
+     },
+     {
+      "domain": "LOGIC",
+      "specialty_key": null,
+      "count": 8,
+      "minutes": 12
+     },
+     {
+      "domain": "SPECIALTY",
+      "specialty_key": "spec.douane",
+      "count": 10,
+      "minutes": 15
+     },
+     {
+      "domain": "SPECIALTY",
+      "specialty_key": "spec.droit-administratif",
+      "count": 16,
+      "minutes": 25
+     },
+     {
+      "domain": "SPECIALTY",
+      "specialty_key": "spec.droit-public",
+      "count": 12,
+      "minutes": 20
+     }
+    ]
+   }
+  },
+  {
+   "slug": "sous-lieutenant-informatique",
+   "title_ar": "ملازم ديوانة — اختصاص إعلامية",
+   "title_fr": "Sous-lieutenant des douanes — Informatique",
+   "diploma_level": "LICENCE",
+   "eligibility": {
+    "min_age": null,
+    "max_age": 27,
+    "genders": [
+     "M",
+     "F"
+    ],
+    "nationality": "TN",
+    "diplomas": [
+     "LICENCE"
+    ],
+    "specialties": [
+     "إعلامية",
+     "علوم الإعلامية",
+     "Informatique",
+     "Sciences de l'informatique",
+     "Computer science"
+    ],
+    "min_height_cm_male": 170,
+    "min_height_cm_female": 165,
+    "marital_status": "SINGLE",
+    "other_ar": [
+     "عدد الخطط المفتوحة لهذا الاختصاص في دورة 2025: 8 من جملة 100 (حسب ملخص البلاغ)",
+     "شهادة الإجازة أو الأستاذية (أو شهادة معادلة) في الاختصاص المطلوب — القائمة الدقيقة للشهادات المقبولة واردة في البلاغ الرسمي (للتثبت)؛ يُرجّح قبول حاملي الماجستير بشرط السن",
+     "ألا يتجاوز سن المترشح 27 سنة (تاريخ احتساب السن غير مؤكد: غرة جانفي من سنة المناظرة أو تاريخ غلق الترشحات)",
+     "أن يكون المترشح أعزب/عزباء (يُرجّح اشتراط البقاء كذلك طيلة فترة التكوين — للتثبت)",
+     "طول القامة 1.70 م على الأقل للذكور و1.65 م على الأقل للإناث",
+     "[مقترح] الجنسية التونسية والتمتع بالحقوق المدنية وحسن السيرة والأخلاق (بطاقة عدد 3 نقية)",
+     "[مقترح] حدة بصر دنيا وسلامة بدنية تثبتها الفحوص الطبية (القيمة الدقيقة غير معروفة)",
+     "[مقترح] تسوية الوضعية إزاء الخدمة الوطنية للذكور، والالتزام بالعمل بكامل تراب الجمهورية وفق النظام شبه العسكري للديوانة",
+     "قائمة الاختصاصات أعلاه تقريبية لأغراض المطابقة الآلية؛ المرجع هو قائمة الشهادات المقبولة في البلاغ"
+    ],
+    "other_fr": [
+     "Postes ouverts pour cette spécialité en 2025 : 8 sur 100 (selon le résumé de l'avis)",
+     "Licence ou maîtrise (ou diplôme équivalent) dans la spécialité demandée — la liste exacte des diplômes admis figure dans l'avis officiel (à vérifier) ; les titulaires d'un master sont probablement admis sous réserve de l'âge",
+     "Âge maximal 27 ans (date de référence non confirmée : 1er janvier de l'année du concours ou date de clôture des inscriptions)",
+     "Être célibataire (probablement exigé aussi pendant toute la formation — à vérifier)",
+     "Taille minimale : 1,70 m pour les hommes, 1,65 m pour les femmes",
+     "[Suggestion] Nationalité tunisienne, jouissance des droits civiques, bonne conduite et moralité (bulletin n° 3 vierge)",
+     "[Suggestion] Acuité visuelle minimale et aptitude physique constatées par visite médicale (valeur exacte inconnue)",
+     "[Suggestion] Situation régulière vis-à-vis du service national (hommes) et engagement à servir sur tout le territoire selon le statut paramilitaire de la douane",
+     "La liste de spécialités ci-dessus est approximative (pour la correspondance automatique) ; seule la liste des diplômes admis de l'avis fait foi"
+    ],
+    "source_key": "s1",
+    "confidence": "MEDIUM",
+    "needs_verification": true,
+    "source_quote": null
+   },
+   "phases": [
+    {
+     "order": 1,
+     "kind": "FILE_REVIEW",
+     "name_ar": "التسجيل عن بعد ودراسة الملفات",
+     "name_fr": "Inscription en ligne et examen des dossiers",
+     "is_eliminatory": true,
+     "duration_minutes": null,
+     "description_ar": "التسجيل عبر المنصة الإلكترونية للمناظرات (concours.douane.gov.tn، وهي المنصة المذكورة لمناظرة الرقباء 2025 ويُرجّح اعتمادها لمناظرة الملازمين أيضا — للتثبت) ثم التثبت من استيفاء الشروط (السن، الشهادة والاختصاص، الحالة المدنية). لم يتأكد وجود انتقاء أولي حسب المعدلات.",
+     "description_fr": "Inscription sur la plateforme des concours (concours.douane.gov.tn, citée pour les sergents 2025 et probablement utilisée aussi pour les sous-lieutenants — à vérifier), puis contrôle des conditions (âge, diplôme et spécialité, état civil). Existence d'une présélection sur moyennes non confirmée.",
+     "source_key": "s4",
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "order": 2,
+     "kind": "WRITTEN",
+     "name_ar": "الاختبار الكتابي (أسئلة متعددة الاختيارات)",
+     "name_fr": "Épreuve écrite (QCM)",
+     "is_eliminatory": true,
+     "duration_minutes": null,
+     "description_ar": "اختبار كتابي في شكل أسئلة متعددة الاختيارات حسب الصحافة، ونُشرت نتائجه في جويلية 2026 (لابراس، 21 جويلية 2026). المدة والضوارب وتوزيع الأسئلة بين الثقافة العامة واللغات ومادة الاختصاص غير منشورة في المصادر المتاحة؛ التوزيع المقترح في المواد أدناه تقديري.",
+     "description_fr": "Épreuve écrite sous forme de QCM selon la presse ; résultats publiés en juillet 2026 (La Presse, 21/07/2026). Durée, coefficients et répartition entre culture générale, langues et spécialité non publiés dans les sources disponibles ; la répartition proposée dans les matières ci-dessous est une estimation.",
+     "source_key": "s3",
+     "confidence": "MEDIUM",
+     "needs_verification": true
+    },
+    {
+     "order": 3,
+     "kind": "PHYSICAL",
+     "name_ar": "الاختبارات الرياضية",
+     "name_fr": "Épreuves sportives",
+     "is_eliminatory": true,
+     "duration_minutes": null,
+     "description_ar": "مرحلة رياضية مذكورة ضمن مراحل مناظرة الملازمين في ملخص البحث (مع الشفاهي والفحص الطبي). قائمة التمارين وسلم التنقيط والأزمنة الدنيا غير معروفة، وترتيب المراحل 3 إلى 5 غير مؤكد.",
+     "description_fr": "Phase sportive citée parmi les étapes du concours des sous-lieutenants dans le résumé de recherche (avec l'oral et la visite médicale). Liste des épreuves, barème et temps minimaux inconnus ; l'ordre des phases 3 à 5 n'est pas confirmé.",
+     "source_key": "s1",
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "order": 4,
+     "kind": "MEDICAL",
+     "name_ar": "الفحص الطبي",
+     "name_fr": "Visite médicale",
+     "is_eliminatory": true,
+     "duration_minutes": null,
+     "description_ar": "فحص طبي للتأكد من القدرة البدنية والصحية (الطول، حدة البصر، السلامة من الأمراض). التفاصيل والمعايير غير منشورة في المصادر المتاحة.",
+     "description_fr": "Visite médicale d'aptitude (taille, acuité visuelle, absence de pathologies). Critères détaillés non publiés dans les sources disponibles.",
+     "source_key": "s1",
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "order": 5,
+     "kind": "ORAL",
+     "name_ar": "الاختبار الشفاهي",
+     "name_fr": "Épreuve orale",
+     "is_eliminatory": true,
+     "duration_minutes": null,
+     "description_ar": "محادثة أمام لجنة. المحتوى مقترح: ثقافة عامة، أسئلة في مادة الاختصاص، معرفة مهام الديوانة، دوافع الترشح والقدرة على التعبير.",
+     "description_fr": "Entretien devant un jury. Contenu suggéré : culture générale, questions de spécialité, connaissance des missions de la douane, motivation et expression.",
+     "source_key": "s1",
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "order": 6,
+     "kind": "TRAINING",
+     "name_ar": "التكوين الأساسي",
+     "name_fr": "Formation de base",
+     "is_eliminatory": false,
+     "duration_minutes": null,
+     "description_ar": "[مقترح] يخضع الناجحون نهائيا إلى تكوين أساسي (عسكري ومهني ديواني) قبل مباشرة العمل برتبة ملازم. المدة والمكان ونظام التكوين (داخلي، التزام بالعمل لمدة دنيا) غير معروفة.",
+     "description_fr": "[Suggestion] Les admis définitifs suivent une formation de base (militaire et professionnelle douanière) avant la prise de fonctions au grade de sous-lieutenant. Durée, lieu et régime (internat, engagement de servir) inconnus.",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    }
+   ],
+   "subjects": [
+    {
+     "phase_order": 2,
+     "domain": "CULTURE_GENERALE",
+     "specialty_key": null,
+     "name_ar": "ثقافة عامة (تونس، المؤسسات، الاقتصاد الوطني، الأحداث الجارية، العلاقات الدولية)",
+     "name_fr": "Culture générale (Tunisie, institutions, économie nationale, actualité, relations internationales)",
+     "coefficient": null,
+     "duration_minutes": null,
+     "question_count": null,
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "phase_order": 2,
+     "domain": "ARABIC",
+     "specialty_key": null,
+     "name_ar": "اللغة العربية (فهم، نحو، معجم)",
+     "name_fr": "Langue arabe (compréhension, grammaire, lexique)",
+     "coefficient": null,
+     "duration_minutes": null,
+     "question_count": null,
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "phase_order": 2,
+     "domain": "FRENCH",
+     "specialty_key": null,
+     "name_ar": "اللغة الفرنسية (قواعد، معجم، فهم)",
+     "name_fr": "Langue française (grammaire, vocabulaire, compréhension)",
+     "coefficient": null,
+     "duration_minutes": null,
+     "question_count": null,
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "phase_order": 2,
+     "domain": "ENGLISH",
+     "specialty_key": null,
+     "name_ar": "اللغة الإنجليزية (مستوى عام)",
+     "name_fr": "Anglais (niveau général)",
+     "coefficient": null,
+     "duration_minutes": null,
+     "question_count": null,
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "phase_order": 2,
+     "domain": "LOGIC",
+     "specialty_key": null,
+     "name_ar": "منطق وتفكير (متتاليات، قياس، تحليل)",
+     "name_fr": "Logique et raisonnement (suites, syllogismes, analyse)",
+     "coefficient": null,
+     "duration_minutes": null,
+     "question_count": null,
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "phase_order": 2,
+     "domain": "SPECIALTY",
+     "specialty_key": "spec.douane",
+     "name_ar": "مبادئ التشريع الديواني والتجارة الدولية (مجلة الديوانة، الأنظمة الديوانية، القيمة والمنشأ، Incoterms، مكافحة التهريب)",
+     "name_fr": "Notions de législation douanière et de commerce international (code des douanes, régimes douaniers, valeur et origine, Incoterms, lutte contre la contrebande)",
+     "coefficient": null,
+     "duration_minutes": null,
+     "question_count": null,
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "phase_order": 2,
+     "domain": "SPECIALTY",
+     "specialty_key": "spec.informatique",
+     "name_ar": "مادة الاختصاص: الإعلامية (خوارزميات وبرمجة، قواعد بيانات، شبكات، أنظمة، سلامة المعلومات)",
+     "name_fr": "Spécialité : informatique (algorithmique et programmation, bases de données, réseaux, systèmes, sécurité)",
+     "coefficient": null,
+     "duration_minutes": null,
+     "question_count": null,
+     "source_key": "s1",
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "phase_order": 5,
+     "domain": "CULTURE_GENERALE",
+     "specialty_key": null,
+     "name_ar": "الشفاهي: ثقافة عامة ودوافع الترشح والقدرة على التعبير",
+     "name_fr": "Oral : culture générale, motivation et expression",
+     "coefficient": null,
+     "duration_minutes": null,
+     "question_count": null,
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "phase_order": 5,
+     "domain": "SPECIALTY",
+     "specialty_key": "spec.douane.institution",
+     "name_ar": "الشفاهي: الديوانة التونسية (المهام، التنظيم، الرتب، أخلاقيات المهنة)",
+     "name_fr": "Oral : la Douane tunisienne (missions, organisation, grades, déontologie)",
+     "coefficient": null,
+     "duration_minutes": null,
+     "question_count": null,
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    }
+   ],
+   "physical_tests": [
+    {
+     "name_ar": "قيس الطول وحدة البصر",
+     "name_fr": "Mesure de la taille et contrôle de la vue",
+     "details_ar": "طول أدنى 1.70 م للذكور و1.65 م للإناث (حسب ملخص البلاغ). حدة البصر الدنيا غير معروفة؛ تشترط الأسلاك المشابهة عادة 15/20 للعينين دون إصلاح (مقترح).",
+     "details_fr": "Taille minimale 1,70 m (H) / 1,65 m (F) selon le résumé de l'avis. Acuité visuelle minimale inconnue ; les corps comparables exigent souvent 15/20 pour les deux yeux sans correction (suggestion).",
+     "source_key": "s1",
+     "confidence": "MEDIUM",
+     "needs_verification": true
+    },
+    {
+     "name_ar": "جري سرعة",
+     "name_fr": "Course de vitesse",
+     "details_ar": "[مقترح] مسافة قصيرة (بين 60 و100 م) بالقياس على مناظرات الأسلاك شبه العسكرية؛ الزمن الأدنى وسلم التنقيط غير معروفين.",
+     "details_fr": "[Suggestion] Sprint court (60 à 100 m) par analogie avec les corps paramilitaires ; temps minimal et barème inconnus.",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "name_ar": "جري تحمل",
+     "name_fr": "Course d'endurance",
+     "details_ar": "[مقترح] مسافة متوسطة أو طويلة (من 1000 إلى 3000 م حسب الجنس) بالقياس؛ الأزمنة الدنيا غير معروفة.",
+     "details_fr": "[Suggestion] Demi-fond/fond (1 000 à 3 000 m selon le sexe) par analogie ; temps minimaux inconnus.",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "name_ar": "تمارين القوة والرشاقة",
+     "name_fr": "Épreuves de force et de détente",
+     "details_ar": "[مقترح] عقلة أو انبطاح مائل، ثني الجذع، قفز طولي أو عمودي؛ القائمة والعدد الأدنى غير معروفين.",
+     "details_fr": "[Suggestion] Tractions ou pompes, abdominaux, saut en longueur ou détente verticale ; liste et minima inconnus.",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    }
+   ],
+   "required_documents": [
+    {
+     "text_ar": "التسجيل عن بعد عبر المنصة المحددة في البلاغ الرسمي (concours.douane.gov.tn) وطباعة وصل أو استمارة الترشح",
+     "text_fr": "Inscription en ligne sur la plateforme indiquée dans l'avis officiel (concours.douane.gov.tn) et impression du récépissé ou du formulaire de candidature",
+     "source_key": "s4",
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "text_ar": "نسخة من بطاقة التعريف الوطنية",
+     "text_fr": "Copie de la carte d'identité nationale",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "text_ar": "نسخة مطابقة للأصل من الشهادة العلمية المطلوبة وكشوفات الأعداد",
+     "text_fr": "Copie conforme du diplôme requis et des relevés de notes",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "text_ar": "مضمون ولادة حديث",
+     "text_fr": "Extrait de naissance récent",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "text_ar": "شهادة عزوبة أو وثيقة تثبت الحالة المدنية (شرط العزوبية)",
+     "text_fr": "Attestation de célibat ou justificatif d'état civil (condition de célibat)",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "text_ar": "بطاقة السوابق العدلية (البطاقة عدد 3) — غالبا في مرحلة لاحقة",
+     "text_fr": "Bulletin n° 3 (casier judiciaire) — souvent demandé à un stade ultérieur",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "text_ar": "وثيقة تثبت الوضعية إزاء الخدمة الوطنية (للذكور)",
+     "text_fr": "Justificatif de la situation vis-à-vis du service national (hommes)",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "text_ar": "صور شمسية حديثة",
+     "text_fr": "Photos d'identité récentes",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    }
+   ],
+   "blueprint": {
+    "total_minutes": 120,
+    "fidelity": "APPROXIMATED",
+    "sections": [
+     {
+      "domain": "CULTURE_GENERALE",
+      "specialty_key": null,
+      "count": 20,
+      "minutes": 20
+     },
+     {
+      "domain": "ARABIC",
+      "specialty_key": null,
+      "count": 8,
+      "minutes": 10
+     },
+     {
+      "domain": "FRENCH",
+      "specialty_key": null,
+      "count": 8,
+      "minutes": 10
+     },
+     {
+      "domain": "ENGLISH",
+      "specialty_key": null,
+      "count": 6,
+      "minutes": 8
+     },
+     {
+      "domain": "LOGIC",
+      "specialty_key": null,
+      "count": 8,
+      "minutes": 12
+     },
+     {
+      "domain": "SPECIALTY",
+      "specialty_key": "spec.douane",
+      "count": 10,
+      "minutes": 15
+     },
+     {
+      "domain": "SPECIALTY",
+      "specialty_key": "spec.informatique",
+      "count": 30,
+      "minutes": 45
+     }
+    ]
+   }
+  },
+  {
+   "slug": "sous-lieutenant-anglais",
+   "title_ar": "ملازم ديوانة — اختصاص لغة إنجليزية",
+   "title_fr": "Sous-lieutenant des douanes — Anglais",
+   "diploma_level": "LICENCE",
+   "eligibility": {
+    "min_age": null,
+    "max_age": 27,
+    "genders": [
+     "M",
+     "F"
+    ],
+    "nationality": "TN",
+    "diplomas": [
+     "LICENCE"
+    ],
+    "specialties": [
+     "إنجليزية",
+     "انقليزية",
+     "لغة وآداب وحضارة إنجليزية",
+     "Anglais",
+     "English"
+    ],
+    "min_height_cm_male": 170,
+    "min_height_cm_female": 165,
+    "marital_status": "SINGLE",
+    "other_ar": [
+     "عدد الخطط المفتوحة لهذا الاختصاص في دورة 2025: 4 من جملة 100 (حسب ملخص البلاغ)",
+     "شهادة الإجازة أو الأستاذية (أو شهادة معادلة) في الاختصاص المطلوب — القائمة الدقيقة للشهادات المقبولة واردة في البلاغ الرسمي (للتثبت)؛ يُرجّح قبول حاملي الماجستير بشرط السن",
+     "ألا يتجاوز سن المترشح 27 سنة (تاريخ احتساب السن غير مؤكد: غرة جانفي من سنة المناظرة أو تاريخ غلق الترشحات)",
+     "أن يكون المترشح أعزب/عزباء (يُرجّح اشتراط البقاء كذلك طيلة فترة التكوين — للتثبت)",
+     "طول القامة 1.70 م على الأقل للذكور و1.65 م على الأقل للإناث",
+     "[مقترح] الجنسية التونسية والتمتع بالحقوق المدنية وحسن السيرة والأخلاق (بطاقة عدد 3 نقية)",
+     "[مقترح] حدة بصر دنيا وسلامة بدنية تثبتها الفحوص الطبية (القيمة الدقيقة غير معروفة)",
+     "[مقترح] تسوية الوضعية إزاء الخدمة الوطنية للذكور، والالتزام بالعمل بكامل تراب الجمهورية وفق النظام شبه العسكري للديوانة",
+     "قائمة الاختصاصات أعلاه تقريبية لأغراض المطابقة الآلية؛ المرجع هو قائمة الشهادات المقبولة في البلاغ"
+    ],
+    "other_fr": [
+     "Postes ouverts pour cette spécialité en 2025 : 4 sur 100 (selon le résumé de l'avis)",
+     "Licence ou maîtrise (ou diplôme équivalent) dans la spécialité demandée — la liste exacte des diplômes admis figure dans l'avis officiel (à vérifier) ; les titulaires d'un master sont probablement admis sous réserve de l'âge",
+     "Âge maximal 27 ans (date de référence non confirmée : 1er janvier de l'année du concours ou date de clôture des inscriptions)",
+     "Être célibataire (probablement exigé aussi pendant toute la formation — à vérifier)",
+     "Taille minimale : 1,70 m pour les hommes, 1,65 m pour les femmes",
+     "[Suggestion] Nationalité tunisienne, jouissance des droits civiques, bonne conduite et moralité (bulletin n° 3 vierge)",
+     "[Suggestion] Acuité visuelle minimale et aptitude physique constatées par visite médicale (valeur exacte inconnue)",
+     "[Suggestion] Situation régulière vis-à-vis du service national (hommes) et engagement à servir sur tout le territoire selon le statut paramilitaire de la douane",
+     "La liste de spécialités ci-dessus est approximative (pour la correspondance automatique) ; seule la liste des diplômes admis de l'avis fait foi"
+    ],
+    "source_key": "s1",
+    "confidence": "MEDIUM",
+    "needs_verification": true,
+    "source_quote": null
+   },
+   "phases": [
+    {
+     "order": 1,
+     "kind": "FILE_REVIEW",
+     "name_ar": "التسجيل عن بعد ودراسة الملفات",
+     "name_fr": "Inscription en ligne et examen des dossiers",
+     "is_eliminatory": true,
+     "duration_minutes": null,
+     "description_ar": "التسجيل عبر المنصة الإلكترونية للمناظرات (concours.douane.gov.tn، وهي المنصة المذكورة لمناظرة الرقباء 2025 ويُرجّح اعتمادها لمناظرة الملازمين أيضا — للتثبت) ثم التثبت من استيفاء الشروط (السن، الشهادة والاختصاص، الحالة المدنية). لم يتأكد وجود انتقاء أولي حسب المعدلات.",
+     "description_fr": "Inscription sur la plateforme des concours (concours.douane.gov.tn, citée pour les sergents 2025 et probablement utilisée aussi pour les sous-lieutenants — à vérifier), puis contrôle des conditions (âge, diplôme et spécialité, état civil). Existence d'une présélection sur moyennes non confirmée.",
+     "source_key": "s4",
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "order": 2,
+     "kind": "WRITTEN",
+     "name_ar": "الاختبار الكتابي (أسئلة متعددة الاختيارات)",
+     "name_fr": "Épreuve écrite (QCM)",
+     "is_eliminatory": true,
+     "duration_minutes": null,
+     "description_ar": "اختبار كتابي في شكل أسئلة متعددة الاختيارات حسب الصحافة، ونُشرت نتائجه في جويلية 2026 (لابراس، 21 جويلية 2026). المدة والضوارب وتوزيع الأسئلة بين الثقافة العامة واللغات ومادة الاختصاص غير منشورة في المصادر المتاحة؛ التوزيع المقترح في المواد أدناه تقديري.",
+     "description_fr": "Épreuve écrite sous forme de QCM selon la presse ; résultats publiés en juillet 2026 (La Presse, 21/07/2026). Durée, coefficients et répartition entre culture générale, langues et spécialité non publiés dans les sources disponibles ; la répartition proposée dans les matières ci-dessous est une estimation.",
+     "source_key": "s3",
+     "confidence": "MEDIUM",
+     "needs_verification": true
+    },
+    {
+     "order": 3,
+     "kind": "PHYSICAL",
+     "name_ar": "الاختبارات الرياضية",
+     "name_fr": "Épreuves sportives",
+     "is_eliminatory": true,
+     "duration_minutes": null,
+     "description_ar": "مرحلة رياضية مذكورة ضمن مراحل مناظرة الملازمين في ملخص البحث (مع الشفاهي والفحص الطبي). قائمة التمارين وسلم التنقيط والأزمنة الدنيا غير معروفة، وترتيب المراحل 3 إلى 5 غير مؤكد.",
+     "description_fr": "Phase sportive citée parmi les étapes du concours des sous-lieutenants dans le résumé de recherche (avec l'oral et la visite médicale). Liste des épreuves, barème et temps minimaux inconnus ; l'ordre des phases 3 à 5 n'est pas confirmé.",
+     "source_key": "s1",
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "order": 4,
+     "kind": "MEDICAL",
+     "name_ar": "الفحص الطبي",
+     "name_fr": "Visite médicale",
+     "is_eliminatory": true,
+     "duration_minutes": null,
+     "description_ar": "فحص طبي للتأكد من القدرة البدنية والصحية (الطول، حدة البصر، السلامة من الأمراض). التفاصيل والمعايير غير منشورة في المصادر المتاحة.",
+     "description_fr": "Visite médicale d'aptitude (taille, acuité visuelle, absence de pathologies). Critères détaillés non publiés dans les sources disponibles.",
+     "source_key": "s1",
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "order": 5,
+     "kind": "ORAL",
+     "name_ar": "الاختبار الشفاهي",
+     "name_fr": "Épreuve orale",
+     "is_eliminatory": true,
+     "duration_minutes": null,
+     "description_ar": "محادثة أمام لجنة. المحتوى مقترح: ثقافة عامة، أسئلة في مادة الاختصاص، معرفة مهام الديوانة، دوافع الترشح والقدرة على التعبير.",
+     "description_fr": "Entretien devant un jury. Contenu suggéré : culture générale, questions de spécialité, connaissance des missions de la douane, motivation et expression.",
+     "source_key": "s1",
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "order": 6,
+     "kind": "TRAINING",
+     "name_ar": "التكوين الأساسي",
+     "name_fr": "Formation de base",
+     "is_eliminatory": false,
+     "duration_minutes": null,
+     "description_ar": "[مقترح] يخضع الناجحون نهائيا إلى تكوين أساسي (عسكري ومهني ديواني) قبل مباشرة العمل برتبة ملازم. المدة والمكان ونظام التكوين (داخلي، التزام بالعمل لمدة دنيا) غير معروفة.",
+     "description_fr": "[Suggestion] Les admis définitifs suivent une formation de base (militaire et professionnelle douanière) avant la prise de fonctions au grade de sous-lieutenant. Durée, lieu et régime (internat, engagement de servir) inconnus.",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    }
+   ],
+   "subjects": [
+    {
+     "phase_order": 2,
+     "domain": "CULTURE_GENERALE",
+     "specialty_key": null,
+     "name_ar": "ثقافة عامة (تونس، المؤسسات، الاقتصاد الوطني، الأحداث الجارية، العلاقات الدولية)",
+     "name_fr": "Culture générale (Tunisie, institutions, économie nationale, actualité, relations internationales)",
+     "coefficient": null,
+     "duration_minutes": null,
+     "question_count": null,
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "phase_order": 2,
+     "domain": "ARABIC",
+     "specialty_key": null,
+     "name_ar": "اللغة العربية (فهم، نحو، معجم)",
+     "name_fr": "Langue arabe (compréhension, grammaire, lexique)",
+     "coefficient": null,
+     "duration_minutes": null,
+     "question_count": null,
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "phase_order": 2,
+     "domain": "FRENCH",
+     "specialty_key": null,
+     "name_ar": "اللغة الفرنسية (قواعد، معجم، فهم)",
+     "name_fr": "Langue française (grammaire, vocabulaire, compréhension)",
+     "coefficient": null,
+     "duration_minutes": null,
+     "question_count": null,
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "phase_order": 2,
+     "domain": "LOGIC",
+     "specialty_key": null,
+     "name_ar": "منطق وتفكير (متتاليات، قياس، تحليل)",
+     "name_fr": "Logique et raisonnement (suites, syllogismes, analyse)",
+     "coefficient": null,
+     "duration_minutes": null,
+     "question_count": null,
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "phase_order": 2,
+     "domain": "SPECIALTY",
+     "specialty_key": "spec.douane",
+     "name_ar": "مبادئ التشريع الديواني والتجارة الدولية (مجلة الديوانة، الأنظمة الديوانية، القيمة والمنشأ، Incoterms، مكافحة التهريب)",
+     "name_fr": "Notions de législation douanière et de commerce international (code des douanes, régimes douaniers, valeur et origine, Incoterms, lutte contre la contrebande)",
+     "coefficient": null,
+     "duration_minutes": null,
+     "question_count": null,
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "phase_order": 2,
+     "domain": "ENGLISH",
+     "specialty_key": null,
+     "name_ar": "مادة الاختصاص: اللغة الإنجليزية (قواعد، معجم، فهم، ترجمة، إنجليزية تجارية وديوانية)",
+     "name_fr": "Spécialité : anglais (grammaire, vocabulaire, compréhension, traduction, anglais commercial et douanier)",
+     "coefficient": null,
+     "duration_minutes": null,
+     "question_count": null,
+     "source_key": "s1",
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "phase_order": 5,
+     "domain": "CULTURE_GENERALE",
+     "specialty_key": null,
+     "name_ar": "الشفاهي: ثقافة عامة ودوافع الترشح والقدرة على التعبير",
+     "name_fr": "Oral : culture générale, motivation et expression",
+     "coefficient": null,
+     "duration_minutes": null,
+     "question_count": null,
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "phase_order": 5,
+     "domain": "SPECIALTY",
+     "specialty_key": "spec.douane.institution",
+     "name_ar": "الشفاهي: الديوانة التونسية (المهام، التنظيم، الرتب، أخلاقيات المهنة)",
+     "name_fr": "Oral : la Douane tunisienne (missions, organisation, grades, déontologie)",
+     "coefficient": null,
+     "duration_minutes": null,
+     "question_count": null,
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    }
+   ],
+   "physical_tests": [
+    {
+     "name_ar": "قيس الطول وحدة البصر",
+     "name_fr": "Mesure de la taille et contrôle de la vue",
+     "details_ar": "طول أدنى 1.70 م للذكور و1.65 م للإناث (حسب ملخص البلاغ). حدة البصر الدنيا غير معروفة؛ تشترط الأسلاك المشابهة عادة 15/20 للعينين دون إصلاح (مقترح).",
+     "details_fr": "Taille minimale 1,70 m (H) / 1,65 m (F) selon le résumé de l'avis. Acuité visuelle minimale inconnue ; les corps comparables exigent souvent 15/20 pour les deux yeux sans correction (suggestion).",
+     "source_key": "s1",
+     "confidence": "MEDIUM",
+     "needs_verification": true
+    },
+    {
+     "name_ar": "جري سرعة",
+     "name_fr": "Course de vitesse",
+     "details_ar": "[مقترح] مسافة قصيرة (بين 60 و100 م) بالقياس على مناظرات الأسلاك شبه العسكرية؛ الزمن الأدنى وسلم التنقيط غير معروفين.",
+     "details_fr": "[Suggestion] Sprint court (60 à 100 m) par analogie avec les corps paramilitaires ; temps minimal et barème inconnus.",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "name_ar": "جري تحمل",
+     "name_fr": "Course d'endurance",
+     "details_ar": "[مقترح] مسافة متوسطة أو طويلة (من 1000 إلى 3000 م حسب الجنس) بالقياس؛ الأزمنة الدنيا غير معروفة.",
+     "details_fr": "[Suggestion] Demi-fond/fond (1 000 à 3 000 m selon le sexe) par analogie ; temps minimaux inconnus.",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "name_ar": "تمارين القوة والرشاقة",
+     "name_fr": "Épreuves de force et de détente",
+     "details_ar": "[مقترح] عقلة أو انبطاح مائل، ثني الجذع، قفز طولي أو عمودي؛ القائمة والعدد الأدنى غير معروفين.",
+     "details_fr": "[Suggestion] Tractions ou pompes, abdominaux, saut en longueur ou détente verticale ; liste et minima inconnus.",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    }
+   ],
+   "required_documents": [
+    {
+     "text_ar": "التسجيل عن بعد عبر المنصة المحددة في البلاغ الرسمي (concours.douane.gov.tn) وطباعة وصل أو استمارة الترشح",
+     "text_fr": "Inscription en ligne sur la plateforme indiquée dans l'avis officiel (concours.douane.gov.tn) et impression du récépissé ou du formulaire de candidature",
+     "source_key": "s4",
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "text_ar": "نسخة من بطاقة التعريف الوطنية",
+     "text_fr": "Copie de la carte d'identité nationale",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "text_ar": "نسخة مطابقة للأصل من الشهادة العلمية المطلوبة وكشوفات الأعداد",
+     "text_fr": "Copie conforme du diplôme requis et des relevés de notes",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "text_ar": "مضمون ولادة حديث",
+     "text_fr": "Extrait de naissance récent",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "text_ar": "شهادة عزوبة أو وثيقة تثبت الحالة المدنية (شرط العزوبية)",
+     "text_fr": "Attestation de célibat ou justificatif d'état civil (condition de célibat)",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "text_ar": "بطاقة السوابق العدلية (البطاقة عدد 3) — غالبا في مرحلة لاحقة",
+     "text_fr": "Bulletin n° 3 (casier judiciaire) — souvent demandé à un stade ultérieur",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "text_ar": "وثيقة تثبت الوضعية إزاء الخدمة الوطنية (للذكور)",
+     "text_fr": "Justificatif de la situation vis-à-vis du service national (hommes)",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "text_ar": "صور شمسية حديثة",
+     "text_fr": "Photos d'identité récentes",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    }
+   ],
+   "blueprint": {
+    "total_minutes": 120,
+    "fidelity": "APPROXIMATED",
+    "sections": [
+     {
+      "domain": "CULTURE_GENERALE",
+      "specialty_key": null,
+      "count": 20,
+      "minutes": 20
+     },
+     {
+      "domain": "ARABIC",
+      "specialty_key": null,
+      "count": 8,
+      "minutes": 10
+     },
+     {
+      "domain": "FRENCH",
+      "specialty_key": null,
+      "count": 8,
+      "minutes": 10
+     },
+     {
+      "domain": "LOGIC",
+      "specialty_key": null,
+      "count": 8,
+      "minutes": 12
+     },
+     {
+      "domain": "SPECIALTY",
+      "specialty_key": "spec.douane",
+      "count": 10,
+      "minutes": 15
+     },
+     {
+      "domain": "ENGLISH",
+      "specialty_key": null,
+      "count": 36,
+      "minutes": 53
+     }
+    ]
+   }
+  },
+  {
+   "slug": "sous-lieutenant-education-physique",
+   "title_ar": "ملازم ديوانة — اختصاص تربية بدنية",
+   "title_fr": "Sous-lieutenant des douanes — Éducation physique",
+   "diploma_level": "LICENCE",
+   "eligibility": {
+    "min_age": null,
+    "max_age": 27,
+    "genders": [
+     "M",
+     "F"
+    ],
+    "nationality": "TN",
+    "diplomas": [
+     "LICENCE"
+    ],
+    "specialties": [
+     "تربية بدنية",
+     "علوم وتقنيات الأنشطة البدنية والرياضية",
+     "Éducation physique",
+     "Sciences et techniques des activités physiques et sportives",
+     "STAPS"
+    ],
+    "min_height_cm_male": 170,
+    "min_height_cm_female": 165,
+    "marital_status": "SINGLE",
+    "other_ar": [
+     "عدد الخطط المفتوحة لهذا الاختصاص في دورة 2025: 2 من جملة 100 (حسب ملخص البلاغ)",
+     "شهادة الإجازة أو الأستاذية (أو شهادة معادلة) في الاختصاص المطلوب — القائمة الدقيقة للشهادات المقبولة واردة في البلاغ الرسمي (للتثبت)؛ يُرجّح قبول حاملي الماجستير بشرط السن",
+     "ألا يتجاوز سن المترشح 27 سنة (تاريخ احتساب السن غير مؤكد: غرة جانفي من سنة المناظرة أو تاريخ غلق الترشحات)",
+     "أن يكون المترشح أعزب/عزباء (يُرجّح اشتراط البقاء كذلك طيلة فترة التكوين — للتثبت)",
+     "طول القامة 1.70 م على الأقل للذكور و1.65 م على الأقل للإناث",
+     "[مقترح] الجنسية التونسية والتمتع بالحقوق المدنية وحسن السيرة والأخلاق (بطاقة عدد 3 نقية)",
+     "[مقترح] حدة بصر دنيا وسلامة بدنية تثبتها الفحوص الطبية (القيمة الدقيقة غير معروفة)",
+     "[مقترح] تسوية الوضعية إزاء الخدمة الوطنية للذكور، والالتزام بالعمل بكامل تراب الجمهورية وفق النظام شبه العسكري للديوانة",
+     "قائمة الاختصاصات أعلاه تقريبية لأغراض المطابقة الآلية؛ المرجع هو قائمة الشهادات المقبولة في البلاغ"
+    ],
+    "other_fr": [
+     "Postes ouverts pour cette spécialité en 2025 : 2 sur 100 (selon le résumé de l'avis)",
+     "Licence ou maîtrise (ou diplôme équivalent) dans la spécialité demandée — la liste exacte des diplômes admis figure dans l'avis officiel (à vérifier) ; les titulaires d'un master sont probablement admis sous réserve de l'âge",
+     "Âge maximal 27 ans (date de référence non confirmée : 1er janvier de l'année du concours ou date de clôture des inscriptions)",
+     "Être célibataire (probablement exigé aussi pendant toute la formation — à vérifier)",
+     "Taille minimale : 1,70 m pour les hommes, 1,65 m pour les femmes",
+     "[Suggestion] Nationalité tunisienne, jouissance des droits civiques, bonne conduite et moralité (bulletin n° 3 vierge)",
+     "[Suggestion] Acuité visuelle minimale et aptitude physique constatées par visite médicale (valeur exacte inconnue)",
+     "[Suggestion] Situation régulière vis-à-vis du service national (hommes) et engagement à servir sur tout le territoire selon le statut paramilitaire de la douane",
+     "La liste de spécialités ci-dessus est approximative (pour la correspondance automatique) ; seule la liste des diplômes admis de l'avis fait foi"
+    ],
+    "source_key": "s1",
+    "confidence": "MEDIUM",
+    "needs_verification": true,
+    "source_quote": null
+   },
+   "phases": [
+    {
+     "order": 1,
+     "kind": "FILE_REVIEW",
+     "name_ar": "التسجيل عن بعد ودراسة الملفات",
+     "name_fr": "Inscription en ligne et examen des dossiers",
+     "is_eliminatory": true,
+     "duration_minutes": null,
+     "description_ar": "التسجيل عبر المنصة الإلكترونية للمناظرات (concours.douane.gov.tn، وهي المنصة المذكورة لمناظرة الرقباء 2025 ويُرجّح اعتمادها لمناظرة الملازمين أيضا — للتثبت) ثم التثبت من استيفاء الشروط (السن، الشهادة والاختصاص، الحالة المدنية). لم يتأكد وجود انتقاء أولي حسب المعدلات.",
+     "description_fr": "Inscription sur la plateforme des concours (concours.douane.gov.tn, citée pour les sergents 2025 et probablement utilisée aussi pour les sous-lieutenants — à vérifier), puis contrôle des conditions (âge, diplôme et spécialité, état civil). Existence d'une présélection sur moyennes non confirmée.",
+     "source_key": "s4",
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "order": 2,
+     "kind": "WRITTEN",
+     "name_ar": "الاختبار الكتابي (أسئلة متعددة الاختيارات)",
+     "name_fr": "Épreuve écrite (QCM)",
+     "is_eliminatory": true,
+     "duration_minutes": null,
+     "description_ar": "اختبار كتابي في شكل أسئلة متعددة الاختيارات حسب الصحافة، ونُشرت نتائجه في جويلية 2026 (لابراس، 21 جويلية 2026). المدة والضوارب وتوزيع الأسئلة بين الثقافة العامة واللغات ومادة الاختصاص غير منشورة في المصادر المتاحة؛ التوزيع المقترح في المواد أدناه تقديري.",
+     "description_fr": "Épreuve écrite sous forme de QCM selon la presse ; résultats publiés en juillet 2026 (La Presse, 21/07/2026). Durée, coefficients et répartition entre culture générale, langues et spécialité non publiés dans les sources disponibles ; la répartition proposée dans les matières ci-dessous est une estimation.",
+     "source_key": "s3",
+     "confidence": "MEDIUM",
+     "needs_verification": true
+    },
+    {
+     "order": 3,
+     "kind": "PHYSICAL",
+     "name_ar": "الاختبارات الرياضية",
+     "name_fr": "Épreuves sportives",
+     "is_eliminatory": true,
+     "duration_minutes": null,
+     "description_ar": "مرحلة رياضية مذكورة ضمن مراحل مناظرة الملازمين في ملخص البحث (مع الشفاهي والفحص الطبي). قائمة التمارين وسلم التنقيط والأزمنة الدنيا غير معروفة، وترتيب المراحل 3 إلى 5 غير مؤكد.",
+     "description_fr": "Phase sportive citée parmi les étapes du concours des sous-lieutenants dans le résumé de recherche (avec l'oral et la visite médicale). Liste des épreuves, barème et temps minimaux inconnus ; l'ordre des phases 3 à 5 n'est pas confirmé.",
+     "source_key": "s1",
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "order": 4,
+     "kind": "MEDICAL",
+     "name_ar": "الفحص الطبي",
+     "name_fr": "Visite médicale",
+     "is_eliminatory": true,
+     "duration_minutes": null,
+     "description_ar": "فحص طبي للتأكد من القدرة البدنية والصحية (الطول، حدة البصر، السلامة من الأمراض). التفاصيل والمعايير غير منشورة في المصادر المتاحة.",
+     "description_fr": "Visite médicale d'aptitude (taille, acuité visuelle, absence de pathologies). Critères détaillés non publiés dans les sources disponibles.",
+     "source_key": "s1",
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "order": 5,
+     "kind": "ORAL",
+     "name_ar": "الاختبار الشفاهي",
+     "name_fr": "Épreuve orale",
+     "is_eliminatory": true,
+     "duration_minutes": null,
+     "description_ar": "محادثة أمام لجنة. المحتوى مقترح: ثقافة عامة، أسئلة في مادة الاختصاص، معرفة مهام الديوانة، دوافع الترشح والقدرة على التعبير.",
+     "description_fr": "Entretien devant un jury. Contenu suggéré : culture générale, questions de spécialité, connaissance des missions de la douane, motivation et expression.",
+     "source_key": "s1",
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "order": 6,
+     "kind": "TRAINING",
+     "name_ar": "التكوين الأساسي",
+     "name_fr": "Formation de base",
+     "is_eliminatory": false,
+     "duration_minutes": null,
+     "description_ar": "[مقترح] يخضع الناجحون نهائيا إلى تكوين أساسي (عسكري ومهني ديواني) قبل مباشرة العمل برتبة ملازم. المدة والمكان ونظام التكوين (داخلي، التزام بالعمل لمدة دنيا) غير معروفة.",
+     "description_fr": "[Suggestion] Les admis définitifs suivent une formation de base (militaire et professionnelle douanière) avant la prise de fonctions au grade de sous-lieutenant. Durée, lieu et régime (internat, engagement de servir) inconnus.",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    }
+   ],
+   "subjects": [
+    {
+     "phase_order": 2,
+     "domain": "CULTURE_GENERALE",
+     "specialty_key": null,
+     "name_ar": "ثقافة عامة (تونس، المؤسسات، الاقتصاد الوطني، الأحداث الجارية، العلاقات الدولية)",
+     "name_fr": "Culture générale (Tunisie, institutions, économie nationale, actualité, relations internationales)",
+     "coefficient": null,
+     "duration_minutes": null,
+     "question_count": null,
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "phase_order": 2,
+     "domain": "ARABIC",
+     "specialty_key": null,
+     "name_ar": "اللغة العربية (فهم، نحو، معجم)",
+     "name_fr": "Langue arabe (compréhension, grammaire, lexique)",
+     "coefficient": null,
+     "duration_minutes": null,
+     "question_count": null,
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "phase_order": 2,
+     "domain": "FRENCH",
+     "specialty_key": null,
+     "name_ar": "اللغة الفرنسية (قواعد، معجم، فهم)",
+     "name_fr": "Langue française (grammaire, vocabulaire, compréhension)",
+     "coefficient": null,
+     "duration_minutes": null,
+     "question_count": null,
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "phase_order": 2,
+     "domain": "ENGLISH",
+     "specialty_key": null,
+     "name_ar": "اللغة الإنجليزية (مستوى عام)",
+     "name_fr": "Anglais (niveau général)",
+     "coefficient": null,
+     "duration_minutes": null,
+     "question_count": null,
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "phase_order": 2,
+     "domain": "LOGIC",
+     "specialty_key": null,
+     "name_ar": "منطق وتفكير (متتاليات، قياس، تحليل)",
+     "name_fr": "Logique et raisonnement (suites, syllogismes, analyse)",
+     "coefficient": null,
+     "duration_minutes": null,
+     "question_count": null,
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "phase_order": 2,
+     "domain": "SPECIALTY",
+     "specialty_key": "spec.douane",
+     "name_ar": "مبادئ التشريع الديواني والتجارة الدولية (مجلة الديوانة، الأنظمة الديوانية، القيمة والمنشأ، Incoterms، مكافحة التهريب)",
+     "name_fr": "Notions de législation douanière et de commerce international (code des douanes, régimes douaniers, valeur et origine, Incoterms, lutte contre la contrebande)",
+     "coefficient": null,
+     "duration_minutes": null,
+     "question_count": null,
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "phase_order": 2,
+     "domain": "SPECIALTY",
+     "specialty_key": "spec.douane.eps",
+     "name_ar": "مادة الاختصاص: علوم وتقنيات الأنشطة البدنية والرياضية (فيزيولوجيا الجهد، التدريب، الإعداد البدني)",
+     "name_fr": "Spécialité : sciences et techniques des activités physiques et sportives (physiologie de l'effort, entraînement, préparation physique)",
+     "coefficient": null,
+     "duration_minutes": null,
+     "question_count": null,
+     "source_key": "s1",
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "phase_order": 2,
+     "domain": "SPECIALTY",
+     "specialty_key": "spec.pedagogie",
+     "name_ar": "علوم التربية وتعليمية التربية البدنية",
+     "name_fr": "Sciences de l'éducation et didactique de l'EPS",
+     "coefficient": null,
+     "duration_minutes": null,
+     "question_count": null,
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "phase_order": 2,
+     "domain": "SPECIALTY",
+     "specialty_key": "spec.secourisme",
+     "name_ar": "الإسعافات الأولية والوقاية من الحوادث الرياضية",
+     "name_fr": "Secourisme et prévention des accidents sportifs",
+     "coefficient": null,
+     "duration_minutes": null,
+     "question_count": null,
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "phase_order": 5,
+     "domain": "CULTURE_GENERALE",
+     "specialty_key": null,
+     "name_ar": "الشفاهي: ثقافة عامة ودوافع الترشح والقدرة على التعبير",
+     "name_fr": "Oral : culture générale, motivation et expression",
+     "coefficient": null,
+     "duration_minutes": null,
+     "question_count": null,
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "phase_order": 5,
+     "domain": "SPECIALTY",
+     "specialty_key": "spec.douane.institution",
+     "name_ar": "الشفاهي: الديوانة التونسية (المهام، التنظيم، الرتب، أخلاقيات المهنة)",
+     "name_fr": "Oral : la Douane tunisienne (missions, organisation, grades, déontologie)",
+     "coefficient": null,
+     "duration_minutes": null,
+     "question_count": null,
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    }
+   ],
+   "physical_tests": [
+    {
+     "name_ar": "قيس الطول وحدة البصر",
+     "name_fr": "Mesure de la taille et contrôle de la vue",
+     "details_ar": "طول أدنى 1.70 م للذكور و1.65 م للإناث (حسب ملخص البلاغ). حدة البصر الدنيا غير معروفة؛ تشترط الأسلاك المشابهة عادة 15/20 للعينين دون إصلاح (مقترح).",
+     "details_fr": "Taille minimale 1,70 m (H) / 1,65 m (F) selon le résumé de l'avis. Acuité visuelle minimale inconnue ; les corps comparables exigent souvent 15/20 pour les deux yeux sans correction (suggestion).",
+     "source_key": "s1",
+     "confidence": "MEDIUM",
+     "needs_verification": true
+    },
+    {
+     "name_ar": "جري سرعة",
+     "name_fr": "Course de vitesse",
+     "details_ar": "[مقترح] مسافة قصيرة (بين 60 و100 م) بالقياس على مناظرات الأسلاك شبه العسكرية؛ الزمن الأدنى وسلم التنقيط غير معروفين.",
+     "details_fr": "[Suggestion] Sprint court (60 à 100 m) par analogie avec les corps paramilitaires ; temps minimal et barème inconnus.",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "name_ar": "جري تحمل",
+     "name_fr": "Course d'endurance",
+     "details_ar": "[مقترح] مسافة متوسطة أو طويلة (من 1000 إلى 3000 م حسب الجنس) بالقياس؛ الأزمنة الدنيا غير معروفة.",
+     "details_fr": "[Suggestion] Demi-fond/fond (1 000 à 3 000 m selon le sexe) par analogie ; temps minimaux inconnus.",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "name_ar": "تمارين القوة والرشاقة",
+     "name_fr": "Épreuves de force et de détente",
+     "details_ar": "[مقترح] عقلة أو انبطاح مائل، ثني الجذع، قفز طولي أو عمودي؛ القائمة والعدد الأدنى غير معروفين.",
+     "details_fr": "[Suggestion] Tractions ou pompes, abdominaux, saut en longueur ou détente verticale ; liste et minima inconnus.",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "name_ar": "اختبار تطبيقي في الاختصاص الرياضي",
+     "name_fr": "Épreuve pratique de spécialité sportive",
+     "details_ar": "[مقترح] قد يخضع مترشحو اختصاص التربية البدنية إلى اختبار تطبيقي إضافي (تأطير حصة إعداد بدني، تقنيات رياضية)؛ غير مؤكد.",
+     "details_fr": "[Suggestion] Les candidats en éducation physique pourraient passer une épreuve pratique supplémentaire (encadrement d'une séance de préparation physique, techniques sportives) ; non confirmé.",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    }
+   ],
+   "required_documents": [
+    {
+     "text_ar": "التسجيل عن بعد عبر المنصة المحددة في البلاغ الرسمي (concours.douane.gov.tn) وطباعة وصل أو استمارة الترشح",
+     "text_fr": "Inscription en ligne sur la plateforme indiquée dans l'avis officiel (concours.douane.gov.tn) et impression du récépissé ou du formulaire de candidature",
+     "source_key": "s4",
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "text_ar": "نسخة من بطاقة التعريف الوطنية",
+     "text_fr": "Copie de la carte d'identité nationale",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "text_ar": "نسخة مطابقة للأصل من الشهادة العلمية المطلوبة وكشوفات الأعداد",
+     "text_fr": "Copie conforme du diplôme requis et des relevés de notes",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "text_ar": "مضمون ولادة حديث",
+     "text_fr": "Extrait de naissance récent",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "text_ar": "شهادة عزوبة أو وثيقة تثبت الحالة المدنية (شرط العزوبية)",
+     "text_fr": "Attestation de célibat ou justificatif d'état civil (condition de célibat)",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "text_ar": "بطاقة السوابق العدلية (البطاقة عدد 3) — غالبا في مرحلة لاحقة",
+     "text_fr": "Bulletin n° 3 (casier judiciaire) — souvent demandé à un stade ultérieur",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "text_ar": "وثيقة تثبت الوضعية إزاء الخدمة الوطنية (للذكور)",
+     "text_fr": "Justificatif de la situation vis-à-vis du service national (hommes)",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "text_ar": "صور شمسية حديثة",
+     "text_fr": "Photos d'identité récentes",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    }
+   ],
+   "blueprint": {
+    "total_minutes": 120,
+    "fidelity": "APPROXIMATED",
+    "sections": [
+     {
+      "domain": "CULTURE_GENERALE",
+      "specialty_key": null,
+      "count": 20,
+      "minutes": 20
+     },
+     {
+      "domain": "ARABIC",
+      "specialty_key": null,
+      "count": 8,
+      "minutes": 10
+     },
+     {
+      "domain": "FRENCH",
+      "specialty_key": null,
+      "count": 8,
+      "minutes": 10
+     },
+     {
+      "domain": "ENGLISH",
+      "specialty_key": null,
+      "count": 6,
+      "minutes": 8
+     },
+     {
+      "domain": "LOGIC",
+      "specialty_key": null,
+      "count": 8,
+      "minutes": 12
+     },
+     {
+      "domain": "SPECIALTY",
+      "specialty_key": "spec.douane",
+      "count": 10,
+      "minutes": 15
+     },
+     {
+      "domain": "SPECIALTY",
+      "specialty_key": "spec.pedagogie",
+      "count": 16,
+      "minutes": 25
+     },
+     {
+      "domain": "SPECIALTY",
+      "specialty_key": "spec.secourisme",
+      "count": 12,
+      "minutes": 20
+     }
+    ]
+   }
+  },
+  {
+   "slug": "sergent",
+   "title_ar": "رقيب ديوانة",
+   "title_fr": "Sergent des douanes",
+   "diploma_level": "SECONDARY",
+   "eligibility": {
+    "min_age": null,
+    "max_age": null,
+    "genders": [
+     "M",
+     "F"
+    ],
+    "nationality": "TN",
+    "diplomas": [
+     "SECONDARY"
+    ],
+    "specialties": [],
+    "min_height_cm_male": null,
+    "min_height_cm_female": null,
+    "marital_status": null,
+    "other_ar": [
+     "مستوى التعليم الثانوي حسب ملخص البحث؛ لم يُحسم إن كان المطلوب إتمام السنة الرابعة ثانوي أو النجاح في الباكالوريا (للتثبت)",
+     "250 خطة في دورة 2025 (قرار مؤرخ في 28 نوفمبر 2025)، والتسجيل عن بعد عبر concours.douane.gov.tn إلى غاية 31 ديسمبر 2025",
+     "شروط السن والطول والبصر والحالة المدنية غير متوفرة في المصادر المتاحة، لذلك تُركت فارغة حتى لا يُقصى أي مترشح خطأً",
+     "[مقترح] بالقياس على الأسلاك المشابهة: حد أقصى للسن بين 25 و30 سنة، طول أدنى في حدود 1.70 م للذكور و1.65 م للإناث، حدة بصر في حدود 15/20 — للتثبت",
+     "[مقترح] فتح المناظرة للذكور والإناث غير مؤكد",
+     "[مقترح] الجنسية التونسية، حسن السيرة، تسوية الوضعية إزاء الخدمة الوطنية للذكور، والقدرة البدنية على العمل بكامل تراب الجمهورية"
+    ],
+    "other_fr": [
+     "Niveau d'enseignement secondaire selon le résumé de recherche ; non tranché s'il s'agit de la 4e année secondaire achevée ou du baccalauréat (à vérifier)",
+     "250 postes pour la session 2025 (arrêté du 28/11/2025), inscription en ligne sur concours.douane.gov.tn jusqu'au 31/12/2025",
+     "Conditions d'âge, de taille, de vue et d'état civil absentes des sources disponibles : laissées vides pour ne pas exclure à tort un candidat",
+     "[Suggestion] Par analogie avec les corps comparables : âge maximal entre 25 et 30 ans, taille minimale autour de 1,70 m (H) / 1,65 m (F), acuité visuelle autour de 15/20 — à vérifier",
+     "[Suggestion] Ouverture aux femmes non confirmée",
+     "[Suggestion] Nationalité tunisienne, bonne moralité, situation régulière vis-à-vis du service national (hommes), aptitude à servir sur tout le territoire"
+    ],
+    "source_key": "s2",
+    "confidence": "LOW",
+    "needs_verification": true,
+    "source_quote": null
+   },
+   "phases": [
+    {
+     "order": 1,
+     "kind": "FILE_REVIEW",
+     "name_ar": "التسجيل عن بعد ودراسة الملفات",
+     "name_fr": "Inscription en ligne et examen des dossiers",
+     "is_eliminatory": true,
+     "duration_minutes": null,
+     "description_ar": "فُتحت المناظرة بقرار مؤرخ في 28 نوفمبر 2025، والتسجيل عن بعد عبر concours.douane.gov.tn إلى غاية 31 ديسمبر 2025، ثم التثبت من استيفاء الشروط.",
+     "description_fr": "Concours ouvert par arrêté du 28/11/2025 ; inscription en ligne sur concours.douane.gov.tn jusqu'au 31/12/2025, puis contrôle des conditions.",
+     "source_key": "s2",
+     "confidence": "MEDIUM",
+     "needs_verification": true
+    },
+    {
+     "order": 2,
+     "kind": "WRITTEN",
+     "name_ar": "الاختبار الكتابي",
+     "name_fr": "Épreuve écrite",
+     "is_eliminatory": true,
+     "duration_minutes": null,
+     "description_ar": "انطلقت الاختبارات بداية من 16 فيفري 2026 حسب الصحافة، ولم يتضح من الملخص المتاح إن كانت أول مرحلة هي الكتابي أم الفحص الطبي/الرياضي. محتوى الكتابي غير منشور؛ يُقترح بالقياس على الأسلاك المشابهة: ثقافة عامة، لغة عربية وفرنسية، رياضيات ومنطق، ومبادئ حول الديوانة.",
+     "description_fr": "Épreuves à partir du 16/02/2026 selon la presse ; le résumé disponible ne précise pas si la première étape est l'écrit ou la visite médicale/sportive. Contenu de l'écrit non publié ; suggéré par analogie : culture générale, arabe et français, mathématiques et logique, notions sur la douane.",
+     "source_key": "s2",
+     "confidence": "MEDIUM",
+     "needs_verification": true
+    },
+    {
+     "order": 3,
+     "kind": "PHYSICAL",
+     "name_ar": "الاختبارات الرياضية",
+     "name_fr": "Épreuves sportives",
+     "is_eliminatory": true,
+     "duration_minutes": null,
+     "description_ar": "[مقترح] مرحلة رياضية مرجّحة بالنظر إلى الطابع شبه العسكري للسلك؛ التمارين وسلم التنقيط غير معروفين.",
+     "description_fr": "[Suggestion] Phase sportive probable vu le caractère paramilitaire du corps ; épreuves et barème inconnus.",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "order": 4,
+     "kind": "MEDICAL",
+     "name_ar": "الفحص الطبي",
+     "name_fr": "Visite médicale",
+     "is_eliminatory": true,
+     "duration_minutes": null,
+     "description_ar": "[مقترح] فحص طبي للتأكد من القدرة البدنية (الطول، حدة البصر، السلامة من الأمراض).",
+     "description_fr": "[Suggestion] Visite médicale d'aptitude (taille, acuité visuelle, absence de pathologies).",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "order": 5,
+     "kind": "ORAL",
+     "name_ar": "الاختبار الشفاهي",
+     "name_fr": "Épreuve orale",
+     "is_eliminatory": true,
+     "duration_minutes": null,
+     "description_ar": "[مقترح] محادثة أمام لجنة حول الثقافة العامة ودوافع الترشح ومعرفة دور الديوانة.",
+     "description_fr": "[Suggestion] Entretien devant un jury : culture générale, motivation, connaissance du rôle de la douane.",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "order": 6,
+     "kind": "TRAINING",
+     "name_ar": "التكوين الأساسي",
+     "name_fr": "Formation de base",
+     "is_eliminatory": false,
+     "duration_minutes": null,
+     "description_ar": "[مقترح] تكوين أساسي عسكري ومهني قبل مباشرة العمل برتبة رقيب؛ المدة والمكان غير معروفين.",
+     "description_fr": "[Suggestion] Formation de base militaire et professionnelle avant la prise de fonctions au grade de sergent ; durée et lieu inconnus.",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    }
+   ],
+   "subjects": [
+    {
+     "phase_order": 2,
+     "domain": "CULTURE_GENERALE",
+     "specialty_key": null,
+     "name_ar": "ثقافة عامة (تحرير موضوع أو أسئلة متعددة الاختيارات)",
+     "name_fr": "Culture générale (rédaction ou QCM)",
+     "coefficient": null,
+     "duration_minutes": null,
+     "question_count": null,
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "phase_order": 2,
+     "domain": "ARABIC",
+     "specialty_key": null,
+     "name_ar": "اللغة العربية",
+     "name_fr": "Langue arabe",
+     "coefficient": null,
+     "duration_minutes": null,
+     "question_count": null,
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "phase_order": 2,
+     "domain": "FRENCH",
+     "specialty_key": null,
+     "name_ar": "اللغة الفرنسية",
+     "name_fr": "Langue française",
+     "coefficient": null,
+     "duration_minutes": null,
+     "question_count": null,
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "phase_order": 2,
+     "domain": "NUMERICAL",
+     "specialty_key": null,
+     "name_ar": "رياضيات أساسية (حساب، نسب مائوية، تناسب، مسائل)",
+     "name_fr": "Mathématiques de base (calcul, pourcentages, proportionnalité, problèmes)",
+     "coefficient": null,
+     "duration_minutes": null,
+     "question_count": null,
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "phase_order": 2,
+     "domain": "LOGIC",
+     "specialty_key": null,
+     "name_ar": "منطق وتفكير",
+     "name_fr": "Logique et raisonnement",
+     "coefficient": null,
+     "duration_minutes": null,
+     "question_count": null,
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "phase_order": 2,
+     "domain": "SPECIALTY",
+     "specialty_key": "spec.douane",
+     "name_ar": "مبادئ عامة حول الديوانة والتجارة الخارجية ومكافحة التهريب",
+     "name_fr": "Notions générales sur la douane, le commerce extérieur et la lutte contre la contrebande",
+     "coefficient": null,
+     "duration_minutes": null,
+     "question_count": null,
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "phase_order": 5,
+     "domain": "CULTURE_GENERALE",
+     "specialty_key": null,
+     "name_ar": "الشفاهي: ثقافة عامة ودوافع الترشح",
+     "name_fr": "Oral : culture générale et motivation",
+     "coefficient": null,
+     "duration_minutes": null,
+     "question_count": null,
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "phase_order": 5,
+     "domain": "SPECIALTY",
+     "specialty_key": "spec.douane.institution",
+     "name_ar": "الشفاهي: الديوانة التونسية (المهام، الرتب، الانضباط وأخلاقيات المهنة)",
+     "name_fr": "Oral : la Douane tunisienne (missions, grades, discipline et déontologie)",
+     "coefficient": null,
+     "duration_minutes": null,
+     "question_count": null,
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    }
+   ],
+   "physical_tests": [
+    {
+     "name_ar": "قيس الطول وحدة البصر",
+     "name_fr": "Mesure de la taille et contrôle de la vue",
+     "details_ar": "[مقترح] الحدود الدنيا غير منشورة في المصادر المتاحة لمناظرة الرقباء؛ بالقياس على الملازمين: 1.70 م للذكور و1.65 م للإناث.",
+     "details_fr": "[Suggestion] Minima non publiés dans les sources disponibles pour les sergents ; par analogie avec les sous-lieutenants : 1,70 m (H) / 1,65 m (F).",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "name_ar": "جري سرعة",
+     "name_fr": "Course de vitesse",
+     "details_ar": "[مقترح] مسافة قصيرة (60 إلى 100 م)؛ الزمن الأدنى غير معروف.",
+     "details_fr": "[Suggestion] Sprint court (60 à 100 m) ; temps minimal inconnu.",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "name_ar": "جري تحمل",
+     "name_fr": "Course d'endurance",
+     "details_ar": "[مقترح] من 1000 إلى 3000 م حسب الجنس؛ الأزمنة الدنيا غير معروفة.",
+     "details_fr": "[Suggestion] 1 000 à 3 000 m selon le sexe ; temps minimaux inconnus.",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "name_ar": "تمارين القوة والرشاقة",
+     "name_fr": "Épreuves de force et de détente",
+     "details_ar": "[مقترح] عقلة أو انبطاح مائل، ثني الجذع، قفز؛ القائمة والعدد الأدنى غير معروفين.",
+     "details_fr": "[Suggestion] Tractions ou pompes, abdominaux, saut ; liste et minima inconnus.",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    }
+   ],
+   "required_documents": [
+    {
+     "text_ar": "التسجيل عن بعد عبر المنصة المحددة في البلاغ الرسمي (concours.douane.gov.tn) وطباعة وصل أو استمارة الترشح",
+     "text_fr": "Inscription en ligne sur la plateforme indiquée dans l'avis officiel (concours.douane.gov.tn) et impression du récépissé ou du formulaire de candidature",
+     "source_key": "s2",
+     "confidence": "MEDIUM",
+     "needs_verification": true
+    },
+    {
+     "text_ar": "نسخة من بطاقة التعريف الوطنية",
+     "text_fr": "Copie de la carte d'identité nationale",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "text_ar": "نسخة من آخر شهادة دراسية أو ما يثبت المستوى التعليمي المطلوب",
+     "text_fr": "Copie du dernier diplôme ou d'un justificatif du niveau d'études requis",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "text_ar": "مضمون ولادة حديث",
+     "text_fr": "Extrait de naissance récent",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "text_ar": "بطاقة السوابق العدلية (البطاقة عدد 3) — غالبا في مرحلة لاحقة",
+     "text_fr": "Bulletin n° 3 (casier judiciaire) — souvent demandé à un stade ultérieur",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "text_ar": "وثيقة تثبت الوضعية إزاء الخدمة الوطنية (للذكور)",
+     "text_fr": "Justificatif de la situation vis-à-vis du service national (hommes)",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "text_ar": "صور شمسية حديثة",
+     "text_fr": "Photos d'identité récentes",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    }
+   ],
+   "blueprint": {
+    "total_minutes": 90,
+    "fidelity": "APPROXIMATED",
+    "sections": [
+     {
+      "domain": "CULTURE_GENERALE",
+      "specialty_key": null,
+      "count": 25,
+      "minutes": 25
+     },
+     {
+      "domain": "ARABIC",
+      "specialty_key": null,
+      "count": 12,
+      "minutes": 15
+     },
+     {
+      "domain": "FRENCH",
+      "specialty_key": null,
+      "count": 10,
+      "minutes": 12
+     },
+     {
+      "domain": "LOGIC",
+      "specialty_key": null,
+      "count": 10,
+      "minutes": 15
+     },
+     {
+      "domain": "NUMERICAL",
+      "specialty_key": null,
+      "count": 8,
+      "minutes": 12
+     },
+     {
+      "domain": "SPECIALTY",
+      "specialty_key": "spec.douane",
+      "count": 10,
+      "minutes": 11
+     }
+    ]
+   }
+  }
+ ],
+ "specialty_syllabus": [
+  {
+   "key": "spec.douane.institution",
+   "parent_key": null,
+   "level": "UNIT",
+   "title_ar": "الديوانة التونسية: المهام والتنظيم والنظام الأساسي وأخلاقيات المهنة",
+   "title_fr": "La Douane tunisienne : missions, organisation, statut et déontologie",
+   "scope": "SUGGESTED",
+   "source_key": null,
+   "objectives": [
+    {
+     "key": "spec.douane.institution.o1",
+     "text_ar": "التعرف على موقع الديوانة ضمن وزارة المالية وطابعها شبه العسكري",
+     "text_fr": "Situer la douane au sein du ministère des Finances et comprendre son caractère paramilitaire"
+    }
+   ]
+  },
+  {
+   "key": "spec.douane.institution.missions-organisation",
+   "parent_key": "spec.douane.institution",
+   "level": "TOPIC",
+   "title_ar": "مهام الديوانة وتنظيمها",
+   "title_fr": "Missions et organisation de la douane",
+   "scope": "SUGGESTED",
+   "source_key": null,
+   "objectives": [
+    {
+     "key": "spec.douane.institution.missions-organisation.o1",
+     "text_ar": "التمييز بين المهام الجبائية (استخلاص المعاليم والأداءات) والاقتصادية (حماية الاقتصاد الوطني وتسهيل التجارة) والأمنية (مكافحة التهريب والاتجار غير المشروع)",
+     "text_fr": "Distinguer les missions fiscales (perception des droits et taxes), économiques (protection de l'économie, facilitation des échanges) et sécuritaires (lutte contre la contrebande et les trafics)"
+    },
+    {
+     "key": "spec.douane.institution.missions-organisation.o2",
+     "text_ar": "معرفة البنية العامة: الإدارة العامة، الإدارات الجهوية، المكاتب الديوانية والفرق الديوانية (التفاصيل للتثبت)",
+     "text_fr": "Connaître l'organisation générale : direction générale, directions régionales, bureaux et brigades des douanes (détails à vérifier)"
+    }
+   ]
+  },
+  {
+   "key": "spec.douane.institution.statut-grades",
+   "parent_key": "spec.douane.institution",
+   "level": "TOPIC",
+   "title_ar": "النظام الأساسي لأعوان الديوانة والرتب",
+   "title_fr": "Statut des agents des douanes et grades",
+   "scope": "SUGGESTED",
+   "source_key": null,
+   "objectives": [
+    {
+     "key": "spec.douane.institution.statut-grades.o1",
+     "text_ar": "معرفة الإطار القانوني للنظام الأساسي العام لأعوان الديوانة (يُرجّح القانون عدد 46 لسنة 1995 المؤرخ في 15 ماي 1995 — للتثبت في الرائد الرسمي)",
+     "text_fr": "Connaître le cadre légal du statut général des agents des douanes (probablement la loi n° 95-46 du 15 mai 1995 — à vérifier au JORT)"
+    },
+    {
+     "key": "spec.douane.institution.statut-grades.o2",
+     "text_ar": "ترتيب الرتب الكبرى: ضباط (منها ملازم)، ضباط صف (منها رقيب)، أعوان — التسميات الدقيقة للتثبت",
+     "text_fr": "Ordonner les grandes catégories de grades : officiers (dont sous-lieutenant), sous-officiers (dont sergent), agents — appellations exactes à vérifier"
+    }
+   ]
+  },
+  {
+   "key": "spec.douane.institution.deontologie",
+   "parent_key": "spec.douane.institution",
+   "level": "TOPIC",
+   "title_ar": "أخلاقيات المهنة والانضباط",
+   "title_fr": "Déontologie et discipline",
+   "scope": "SUGGESTED",
+   "source_key": null,
+   "objectives": [
+    {
+     "key": "spec.douane.institution.deontologie.o1",
+     "text_ar": "فهم مبادئ النزاهة ومكافحة الفساد والسر المهني والحياد في العمل الديواني",
+     "text_fr": "Comprendre l'intégrité, la lutte contre la corruption, le secret professionnel et la neutralité dans le service douanier"
+    },
+    {
+     "key": "spec.douane.institution.deontologie.o2",
+     "text_ar": "تحليل وضعيات مهنية (مسافر، متعامل اقتصادي، محاولة إرشاء) واختيار السلوك المناسب",
+     "text_fr": "Analyser des situations professionnelles (voyageur, opérateur économique, tentative de corruption) et choisir la conduite adaptée"
+    }
+   ]
+  },
+  {
+   "key": "spec.douane.droit-prive-penal",
+   "parent_key": null,
+   "level": "UNIT",
+   "title_ar": "القانون الجزائي والإجراءات الجزائية والقانون التجاري (مسار القانون)",
+   "title_fr": "Droit pénal, procédure pénale et droit commercial (filière droit)",
+   "scope": "SUGGESTED",
+   "source_key": null,
+   "objectives": [
+    {
+     "key": "spec.douane.droit-prive-penal.o1",
+     "text_ar": "إتقان الأساسيات القانونية المفيدة لمعاينة المخالفات الديوانية والنزاعات",
+     "text_fr": "Maîtriser les bases juridiques utiles à la constatation des infractions douanières et au contentieux"
+    }
+   ]
+  },
+  {
+   "key": "spec.douane.droit-prive-penal.penal",
+   "parent_key": "spec.douane.droit-prive-penal",
+   "level": "TOPIC",
+   "title_ar": "القانون الجزائي العام والإجراءات الجزائية",
+   "title_fr": "Droit pénal général et procédure pénale",
+   "scope": "SUGGESTED",
+   "source_key": null,
+   "objectives": [
+    {
+     "key": "spec.douane.droit-prive-penal.penal.o1",
+     "text_ar": "تعريف الجريمة وأركانها والمسؤولية الجزائية والعقوبات",
+     "text_fr": "Définir l'infraction, ses éléments, la responsabilité pénale et les peines"
+    },
+    {
+     "key": "spec.douane.droit-prive-penal.penal.o2",
+     "text_ar": "معرفة مراحل الدعوى العمومية ودور المحاضر في إثبات المخالفات",
+     "text_fr": "Connaître les étapes de l'action publique et la valeur des procès-verbaux dans la preuve des infractions"
+    }
+   ]
+  },
+  {
+   "key": "spec.douane.droit-prive-penal.commercial",
+   "parent_key": "spec.douane.droit-prive-penal",
+   "level": "TOPIC",
+   "title_ar": "القانون التجاري وقانون الالتزامات",
+   "title_fr": "Droit commercial et droit des obligations",
+   "scope": "SUGGESTED",
+   "source_key": null,
+   "objectives": [
+    {
+     "key": "spec.douane.droit-prive-penal.commercial.o1",
+     "text_ar": "معرفة التاجر والأعمال التجارية والشركات التجارية الأساسية",
+     "text_fr": "Connaître le commerçant, les actes de commerce et les principales sociétés commerciales"
+    },
+    {
+     "key": "spec.douane.droit-prive-penal.commercial.o2",
+     "text_ar": "فهم مبادئ العقد والمسؤولية المدنية",
+     "text_fr": "Comprendre les principes du contrat et de la responsabilité civile"
+    }
+   ]
+  },
+  {
+   "key": "spec.douane.eps",
+   "parent_key": null,
+   "level": "UNIT",
+   "title_ar": "علوم وتقنيات الأنشطة البدنية والرياضية (مسار التربية البدنية)",
+   "title_fr": "Sciences et techniques des activités physiques et sportives (filière éducation physique)",
+   "scope": "SUGGESTED",
+   "source_key": null,
+   "objectives": [
+    {
+     "key": "spec.douane.eps.o1",
+     "text_ar": "التمكن من المعارف العلمية والتطبيقية اللازمة لتأطير الإعداد البدني لأعوان سلك شبه عسكري",
+     "text_fr": "Maîtriser les savoirs nécessaires à l'encadrement de la préparation physique d'agents d'un corps paramilitaire"
+    }
+   ]
+  },
+  {
+   "key": "spec.douane.eps.physiologie",
+   "parent_key": "spec.douane.eps",
+   "level": "TOPIC",
+   "title_ar": "فيزيولوجيا الجهد والتشريح الوظيفي",
+   "title_fr": "Physiologie de l'effort et anatomie fonctionnelle",
+   "scope": "SUGGESTED",
+   "source_key": null,
+   "objectives": [
+    {
+     "key": "spec.douane.eps.physiologie.o1",
+     "text_ar": "شرح أنظمة الطاقة (هوائي/لاهوائي) وتكيّف الجسم مع التمرين",
+     "text_fr": "Expliquer les filières énergétiques (aérobie/anaérobie) et les adaptations à l'entraînement"
+    }
+   ]
+  },
+  {
+   "key": "spec.douane.eps.entrainement",
+   "parent_key": "spec.douane.eps",
+   "level": "TOPIC",
+   "title_ar": "نظرية التدريب والإعداد البدني",
+   "title_fr": "Théorie de l'entraînement et préparation physique",
+   "scope": "SUGGESTED",
+   "source_key": null,
+   "objectives": [
+    {
+     "key": "spec.douane.eps.entrainement.o1",
+     "text_ar": "تخطيط حصة وبرنامج إعداد بدني (التحمل، السرعة، القوة، المرونة) مع احترام مبادئ التدرج والسلامة",
+     "text_fr": "Planifier une séance et un cycle de préparation physique (endurance, vitesse, force, souplesse) en respectant progressivité et sécurité"
+    },
+    {
+     "key": "spec.douane.eps.entrainement.o2",
+     "text_ar": "تقييم اللياقة البدنية عبر اختبارات معيارية",
+     "text_fr": "Évaluer la condition physique par des tests standardisés"
+    }
+   ]
+  }
+ ],
+ "past_exams": [],
+ "tips_ar": [
+  "تابع البلاغات على الموقع الرسمي للديوانة (douane.gov.tn) ومنصة المناظرات (concours.douane.gov.tn) والصفحة الرسمية للديوانة التونسية، وسجّل فقط عبر المنصة المذكورة في البلاغ.",
+  "احذر من الصفحات التي تطلب مالا مقابل «التسجيل» أو «ضمان النجاح»: المناظرات الرسمية لا تمر عبر وسطاء.",
+  "تثبّت من شرط السن بدقة (27 سنة على الأكثر للملازمين حسب بلاغ 2025) ومن تاريخ احتسابه في البلاغ قبل التسجيل.",
+  "شرط العزوبية للملازمين قد يشمل فترة التكوين: لا تغيّر حالتك المدنية قبل التثبت من النص الرسمي.",
+  "الطول وحدة البصر شرطان مقصيان: قِس طولك وافحص بصرك مبكرا قبل الاستثمار في التحضير.",
+  "الكتابي في شكل أسئلة متعددة الاختيارات: تدرّب على إدارة الوقت (حوالي دقيقة لكل سؤال) وعلى مواد الاختصاص التي تمثل أكبر عدد من الخطط (اقتصاد وتصرف، محاسبة ومالية).",
+  "راجع أساسيات الديوانة: مهامها، الأنظمة الديوانية، القيمة لدى الديوانة، قواعد المنشأ، Incoterms، ومكافحة التهريب — مفيدة في الكتابي والشفاهي.",
+  "ابدأ التحضير البدني (جري تحمل وسرعة، تمارين قوة) منذ صدور البلاغ، فالمدة بين الكتابي والاختبارات الرياضية قد تكون قصيرة.",
+  "حضّر وثائقك مسبقا (الشهادة وكشوفات الأعداد، بطاقة التعريف، مضمون الولادة، البطاقة عدد 3) لأن استخراج بعضها يستغرق وقتا.",
+  "لا تنتظر آخر يوم للتسجيل: المنصات تشهد ضغطا كبيرا قبيل غلق الترشحات (31 ديسمبر في دورة الرقباء 2025).",
+  "للشفاهي: حضّر تقديما قصيرا لنفسك ولدوافعك، وتابع الأحداث الوطنية والاقتصادية، وكن مستعدا لأسئلة حول النزاهة وأخلاقيات المهنة."
+ ],
+ "tips_fr": [
+  "Suivez les avis sur le site officiel de la Douane (douane.gov.tn), la plateforme des concours (concours.douane.gov.tn) et la page officielle de la Douane tunisienne ; inscrivez-vous uniquement via la plateforme citée dans l'avis.",
+  "Méfiez-vous des pages qui demandent de l'argent pour « l'inscription » ou une « réussite garantie » : les concours officiels ne passent pas par des intermédiaires.",
+  "Vérifiez précisément la condition d'âge (27 ans au plus pour les sous-lieutenants selon l'avis 2025) et sa date de référence avant de vous inscrire.",
+  "La condition de célibat des sous-lieutenants peut s'étendre à la formation : ne changez pas d'état civil avant d'avoir vérifié le texte officiel.",
+  "Taille et acuité visuelle sont éliminatoires : mesurez-vous et faites contrôler votre vue avant d'investir dans la préparation.",
+  "L'écrit est un QCM : entraînez-vous à gérer le temps (environ une minute par question) et travaillez en priorité les spécialités qui concentrent le plus de postes (économie/gestion, comptabilité/finance).",
+  "Révisez les bases douanières : missions, régimes douaniers, valeur en douane, règles d'origine, Incoterms, lutte contre la contrebande — utiles à l'écrit comme à l'oral.",
+  "Commencez la préparation physique (endurance, vitesse, renforcement) dès la parution de l'avis : le délai entre l'écrit et les épreuves sportives peut être court.",
+  "Préparez vos pièces à l'avance (diplôme et relevés, CIN, extrait de naissance, bulletin n° 3) : certaines demandent du délai.",
+  "N'attendez pas le dernier jour : les plateformes sont saturées juste avant la clôture (31 décembre pour les sergents 2025).",
+  "Pour l'oral : préparez une courte présentation de vous-même et de votre motivation, suivez l'actualité nationale et économique, et attendez-vous à des questions sur l'intégrité et la déontologie."
+ ],
+ "research_notes": "LIMITE MÉTHODOLOGIQUE MAJEURE : lors de cette passe, le quota WebSearch partagé était épuisé dès la première requête (aucune recherche exécutée) et WebFetch renvoie EGRESS_BLOCKED pour tous les domaines utiles testés (www.douane.gov.tn, concours.douane.gov.tn, webdo.tn, lapresse.tn, tuniscope.com, legislation.tn). AUCUNE page n'a été lue directement. Les faits non suggérés proviennent du résumé de recherche consigné le même jour par l'équipe (docs/research/01-market-raw.md, section « Douane », et docs/01-market-research.md) qui cite les URL s1–s3 et s6 ; c'est pourquoi TOUS les faits portent needs_verification=true (aucun fait « officiel » publiable en l'état) et aucun source_quote n'est fourni. À VÉRIFIER EN PRIORITÉ sur l'avis PDF s1 : (1) intitulé exact (sous-lieutenants), dates d'ouverture et de clôture des inscriptions, plateforme, date de l'écrit ; (2) conditions : licence/maîtrise et liste exacte des diplômes par spécialité (informatique 8, droit 14, économie/gestion 42, comptabilité/finance 30, éducation physique 2, anglais 4), âge ≤ 27 ans et date de référence, célibat (et sa durée), taille 1,70/1,65 m, acuité visuelle, ouverture aux femmes (déduite de la taille féminine) ; (3) nature, durée et coefficients des épreuves, ordre des phases (écrit QCM → sport / médical / oral : ordre non confirmé), barèmes sportifs, pièces du dossier, durée et lieu de la formation. AMBIGUÏTÉ s3 : La Presse (21/07/2026) parle de l'écrit des « lieutenants » ; rattaché ici par hypothèse au concours des 100 sous-lieutenants 2025 — il peut s'agir d'un autre concours d'officiers (ex. lieutenants titulaires d'un master/diplôme d'ingénieur), dont l'existence n'est pas confirmée. SERGENTS (s2) : seuls sont repris 250 postes, arrêté du 28/11/2025, clôture 31/12/2025, épreuves à partir du 16/02/2026, inscription via concours.douane.gov.tn ; le niveau « secondaire » vient du tableau de synthèse interne (4e année secondaire ou bac ? à trancher). Âge, taille, vue, état civil et ouverture aux femmes inconnus : volontairement laissés à null dans eligibility pour que le moteur d'alertes (packages/shared/src/eligibility.ts) n'exclue personne à tort ; les valeurs plausibles figurent seulement en texte [Suggestion]. Statut EXAM_DONE supposé pour les deux sessions 2025 ; résultats finaux et nombre de candidats non trouvés. INSPECTEURS / CONTRÔLEURS : aucune trace d'un concours externe d'« inspecteurs » ou de « contrôleurs » des douanes n'a pu être consultée ; la douane étant un corps paramilitaire à grades militaires, ces appellations relèvent peut-être d'anciens statuts ou de concours internes — à vérifier. Aucun concours d'agents/caporaux (أعوان/عرفاء ديوانة) récent n'a été identifié non plus. ÉDITIONS 2023–2024 : non documentées (aucune source accessible). SESSIONS 2026 : marquées EXPECTED par simple analogie (sous-lieutenants : avis en août 2025 ; sergents : arrêté fin novembre 2025) ; aucun avis 2026 n'a pu être consulté au 07/10/2026 ; la LF 2026 (s6, résumé) prévoit 1 754 recrutements aux Finances sans préciser la part de la Douane. RÉFÉRENCES JURIDIQUES non vérifiées citées dans le syllabus : statut général des agents des douanes (probablement loi n° 95-46 du 15/05/1995) et code des douanes (probablement promulgué par la loi n° 2008-34 du 02/06/2008) — à confirmer au JORT (iort.gov.tn / legislation.tn). SUGGESTIONS ÉDITORIALES (needs_verification=true, confidence LOW) : matières de l'écrit et de l'oral, épreuves sportives (sprint, endurance, force) sans barème, pièces du dossier, formation de base, blueprints (APPROXIMATED : tronc commun 75 min + bloc de spécialité 45 min pour les sous-lieutenants ; 90 min pour les sergents). Les sous-lieutenants sont éclatés en 6 positions par spécialité pour permettre des blueprints et des alertes ciblées (eligibility.specialties = mots-clés FR/AR approximatifs pour la correspondance automatique ; la liste officielle des diplômes fait foi). ANNALES : aucune annale officielle ou communautaire n'a pu être consultée (past_exams vide) ; le résumé interne signale des demandes de QCM douane sur les forums (tunisia-sat) sans lien vérifié. Prochaine passe recommandée (avec accès web) : lire s1 en entier, la page des résultats sur douane.gov.tn, l'arrêté du 28/11/2025 au JORT, et la page Facebook officielle de la Douane tunisienne."
+}

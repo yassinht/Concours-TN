@@ -1,0 +1,2092 @@
+{
+  "family": {
+    "slug": "steg",
+    "field": "PUBLIC_COMPANY",
+    "organization": {
+      "slug": "steg",
+      "name_ar": "الشركة التونسية للكهرباء والغاز (الستاغ)",
+      "name_fr": "Société Tunisienne de l'Électricité et du Gaz (STEG)",
+      "ministry_fr": "Ministère de l'Industrie, des Mines et de l'Énergie (tutelle)",
+      "website": "https://www.steg.com.tn"
+    },
+    "name_ar": "مناظرات انتداب أعوان وإطارات الشركة التونسية للكهرباء والغاز",
+    "name_fr": "Concours de recrutement de la STEG (agents, techniciens, cadres, ingénieurs)",
+    "description_ar": "مناظرات خارجية تنظمها الشركة التونسية للكهرباء والغاز (الستاغ) لانتداب أعوان تنفيذ (تنظيف، حراسة، أعوان تقنيون)، وتقنيين، وإطارات ومهندسين. حسب الصحافة (لابراس، 8 ماي 2026) فتحت الستاغ مناظرات خارجية بالملفات والاختبارات لانتداب 494 عونا: 194 عون تنظيف و300 عون حراسة، وآخر أجل للتسجيل 27 ماي 2026. كما يشير سجل البحث الداخلي إلى مناظرة إطارات أُجريت اختباراتها الكتابية في فيفري 2026. تنبيه: لم تُفتح أي صفحة رسمية أثناء هذا البحث؛ البرامج والضوارب وشروط السن غير منشورة لدينا، وكل المعطيات تحتاج إلى تثبت من البلاغات الرسمية للستاغ.",
+    "description_fr": "Concours externes organisés par la Société Tunisienne de l'Électricité et du Gaz (STEG) pour recruter des agents d'exécution (nettoyage, surveillance, agents techniques), des techniciens, des cadres et des ingénieurs. Selon la presse (La Presse, 08/05/2026), la STEG a ouvert des concours externes sur dossiers et épreuves pour 494 agents : 194 agents de nettoyage et 300 agents de surveillance, inscriptions jusqu'au 27/05/2026. Le journal de recherche interne signale aussi un concours de cadres dont l'écrit a eu lieu en février 2026. Attention : aucune page officielle n'a pu être ouverte pendant cette recherche ; programmes, coefficients et limites d'âge ne sont pas connus, et toutes les données sont à vérifier sur les avis officiels de la STEG.",
+    "frequency": "IRREGULAR",
+    "frequency_confidence": "LOW",
+    "popularity": 4,
+    "keywords": [
+      "STEG",
+      "الستاغ",
+      "الشركة التونسية للكهرباء والغاز",
+      "Société Tunisienne de l'Électricité et du Gaz",
+      "concours STEG",
+      "recrutement STEG",
+      "recrutement STEG 2026",
+      "مناظرة الستاغ",
+      "انتداب الستاغ",
+      "agent de nettoyage",
+      "عون تنظيف",
+      "agent de surveillance",
+      "gardiennage",
+      "عون حراسة",
+      "électricien",
+      "كهربائي",
+      "technicien supérieur",
+      "تقني سامي",
+      "cadre",
+      "إطار",
+      "ingénieur",
+      "مهندس",
+      "électricité",
+      "كهرباء",
+      "gaz naturel",
+      "غاز طبيعي",
+      "énergie",
+      "طاقة",
+      "entreprise publique",
+      "منشأة عمومية"
+    ]
+  },
+  "sources": [
+    {
+      "key": "s1",
+      "title": "La STEG lance un concours pour le recrutement de 494 agents (La Presse de Tunisie, 08/05/2026)",
+      "url": "https://www.lapresse.tn/2026/05/08/la-steg-lance-un-concours-pour-le-recrutement-de-494-agents/",
+      "publisher": "La Presse de Tunisie",
+      "source_type": "SECONDARY",
+      "publication_date": "2026-05-08",
+      "retrieved_at": "2026-10-07",
+      "confidence": "MEDIUM",
+      "notes": "PAGE NON OUVERTE dans cette passe : WebFetch renvoie EGRESS_BLOCKED pour lapresse.tn et le quota WebSearch partagé était épuisé. URL et faits repris du journal de recherche consigné le même jour par l'équipe (docs/research/01-market-raw.md, section « Public companies ») et de content/competitions/_openings.json. Titre reconstitué à partir de l'URL ; date déduite de l'URL. Faits attribués : concours externes sur dossiers et épreuves, 494 agents (194 agents de nettoyage, 300 agents de surveillance), date limite d'inscription 27/05/2026. Le journal associe aussi à cette ligne un concours de cadres dont l'écrit a eu lieu en février 2026 — rattachement à cet article non confirmé."
+    },
+    {
+      "key": "s2",
+      "title": "Site officiel de la STEG (steg.com.tn)",
+      "url": "https://www.steg.com.tn",
+      "publisher": "Société Tunisienne de l'Électricité et du Gaz (STEG)",
+      "source_type": "OFFICIAL",
+      "publication_date": null,
+      "retrieved_at": "2026-10-07",
+      "confidence": "LOW",
+      "notes": "Site institutionnel de l'organisme. WebFetch : EGRESS_BLOCKED, contenu non consulté. Cité uniquement comme lieu de vérification des avis de recrutement, des résultats et des conditions ; aucun fait de ce fichier n'en provient. Le sous-domaine recrutement.steg.com.tn n'existe pas (DNS ENOTFOUND) : l'adresse exacte de la plateforme d'inscription reste à identifier."
+    },
+    {
+      "key": "s3",
+      "title": "Portail national des concours de la fonction publique (concours.gov.tn)",
+      "url": "https://www.concours.gov.tn",
+      "publisher": "Présidence du gouvernement",
+      "source_type": "OFFICIAL",
+      "publication_date": null,
+      "retrieved_at": "2026-10-07",
+      "confidence": "LOW",
+      "notes": "WebFetch : EGRESS_BLOCKED, non consulté. Cité comme lieu de vérification ; on ignore si les concours de la STEG (entreprise publique) y sont publiés. Aucun fait de ce fichier n'en provient."
+    }
+  ],
+  "editions": [
+    {
+      "year": 2026,
+      "session_label": "مناظرات خارجية بالملفات والاختبارات لانتداب 494 عونا (194 عون تنظيف و300 عون حراسة) — آخر أجل للتسجيل 27 ماي 2026 / Concours externes sur dossiers et épreuves : 494 agents (194 agents de nettoyage, 300 agents de surveillance) — clôture des inscriptions le 27/05/2026",
+      "status": "CLOSED",
+      "registration_open": null,
+      "registration_deadline": "2026-05-27",
+      "exam_date": null,
+      "positions_count": 494,
+      "candidates_count": null,
+      "source_key": "s1",
+      "confidence": "MEDIUM",
+      "needs_verification": true
+    },
+    {
+      "year": 2026,
+      "session_label": "مناظرة انتداب إطارات — الاختبارات الكتابية في فيفري 2026 (التاريخ الدقيق والأصناف وعدد الخطط غير معروفة) / Concours de recrutement de cadres — épreuves écrites en février 2026 (date exacte, grades et nombre de postes inconnus)",
+      "status": "EXAM_DONE",
+      "registration_open": null,
+      "registration_deadline": null,
+      "exam_date": null,
+      "positions_count": null,
+      "candidates_count": null,
+      "source_key": "s1",
+      "confidence": "LOW",
+      "needs_verification": true
+    }
+  ],
+  "positions": [
+    {
+      "slug": "agent-nettoyage",
+      "title_ar": "عون تنظيف",
+      "title_fr": "Agent de nettoyage",
+      "diploma_level": "PRIMARY",
+      "eligibility": {
+        "min_age": 18,
+        "max_age": null,
+        "genders": [
+          "M",
+          "F"
+        ],
+        "nationality": "TN",
+        "diplomas": [
+          "PRIMARY"
+        ],
+        "specialties": [],
+        "min_height_cm_male": null,
+        "min_height_cm_female": null,
+        "marital_status": null,
+        "other_ar": [
+          "دورة 2026: 194 خطة عون تنظيف ضمن مناظرات «بالملفات والاختبارات» (آخر أجل للتسجيل 27 ماي 2026) حسب لابراس — للتثبت من البلاغ الرسمي",
+          "المستوى الدراسي الأدنى غير منشور لدينا (اعتُمد مستوى التعليم الابتدائي كفرضية شاملة)",
+          "السن الدنيا 18 سنة والسن القصوى وتاريخ احتسابها غير معروفة",
+          "فرضية للتثبت: قد تكون الأولوية للعمال الذين كانوا يشتغلون بالمناولة لدى الستاغ في إطار منع المناولة (تنقيح مجلة الشغل سنة 2025)",
+          "الجنسية التونسية، التمتع بالحقوق المدنية، نقاوة السوابق العدلية والقدرة البدنية: شروط مقترحة بالقياس"
+        ],
+        "other_fr": [
+          "Session 2026 : 194 postes d'agents de nettoyage, concours « sur dossiers et épreuves » (inscriptions jusqu'au 27/05/2026) selon La Presse — à vérifier sur l'avis officiel",
+          "Niveau d'instruction minimal non connu (niveau primaire retenu comme hypothèse inclusive)",
+          "Âge minimum 18 ans supposé ; âge maximum et date de référence inconnus",
+          "Hypothèse à vérifier : priorité possible aux travailleurs anciennement sous-traités à la STEG, dans le cadre de l'interdiction de la sous-traitance de main-d'œuvre (révision du Code du travail, 2025)",
+          "Nationalité tunisienne, droits civiques, casier judiciaire vierge et aptitude physique : conditions suggérées par analogie"
+        ],
+        "source_key": "s1",
+        "confidence": "LOW",
+        "needs_verification": true,
+        "source_quote": null
+      },
+      "phases": [
+        {
+          "order": 1,
+          "kind": "FILE_REVIEW",
+          "name_ar": "التسجيل ودراسة الملفات (انتقاء أولي)",
+          "name_fr": "Inscription et étude des dossiers (présélection)",
+          "is_eliminatory": true,
+          "duration_minutes": null,
+          "description_ar": "حسب الصحافة (لابراس، 8 ماي 2026) أعلنت الستاغ عن مناظرات خارجية «بالملفات والاختبارات» لانتداب 494 عونا (194 عون تنظيف و300 عون حراسة) مع آخر أجل للتسجيل يوم 27 ماي 2026. يعني ذلك أن دراسة الملفات تسبق الاختبارات. مقاييس الانتقاء (السن، الوضعية الاجتماعية، الخبرة أو الأقدمية في العمل) ومنصة التسجيل غير منشورة لدينا — للتثبت من البلاغ الرسمي.",
+          "description_fr": "Selon la presse (La Presse, 08/05/2026), la STEG a lancé des concours externes « sur dossiers et épreuves » pour 494 agents (194 agents de nettoyage, 300 agents de surveillance), inscriptions jusqu'au 27/05/2026. L'étude des dossiers précède donc les épreuves. Critères de présélection (âge, situation sociale, expérience/ancienneté) et plateforme d'inscription non connus — à vérifier sur l'avis officiel.",
+          "source_key": "s1",
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "order": 2,
+          "kind": "WRITTEN",
+          "name_ar": "الاختبار (كتابي مبسط أو تطبيقي)",
+          "name_fr": "Épreuve (écrite simple ou pratique)",
+          "is_eliminatory": true,
+          "duration_minutes": null,
+          "description_ar": "الصحافة تذكر «اختبارات» دون تحديد طبيعتها. يُرجّح اختبار مبسط (قراءة وكتابة وحساب، قواعد النظافة والسلامة) أو اختبار تطبيقي — مقترح، للتثبت.",
+          "description_fr": "La presse mentionne des « épreuves » sans en préciser la nature. Probablement une épreuve simple (lecture, écriture, calcul, règles d'hygiène et de sécurité) ou une épreuve pratique — suggestion, à vérifier.",
+          "source_key": "s1",
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "order": 3,
+          "kind": "INTERVIEW",
+          "name_ar": "المقابلة الشفاهية",
+          "name_fr": "Entretien / épreuve orale",
+          "is_eliminatory": true,
+          "duration_minutes": null,
+          "description_ar": "مقابلة مع لجنة لتقييم الحوافز والسلوك والقدرة على التواصل ومعرفة المؤسسة. التركيز على الانضباط واحترام قواعد السلامة داخل المنشآت الكهربائية. المدة والضارب غير معروفين — مقترح.",
+          "description_fr": "Entretien avec un jury : motivation, comportement, communication, connaissance de l'entreprise. Accent sur la ponctualité et le respect des consignes de sécurité dans les installations électriques. Durée et coefficient inconnus — suggestion.",
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "order": 4,
+          "kind": "MEDICAL",
+          "name_ar": "الفحص الطبي للقدرة على العمل",
+          "name_fr": "Visite médicale d'aptitude",
+          "is_eliminatory": true,
+          "duration_minutes": null,
+          "description_ar": "فحص طبي للتأكد من القدرة البدنية على العمل بالمنصب (خاصة للمهن الميدانية والتقنية) قبل الانتداب النهائي — مقترح بالقياس على المنشآت العمومية.",
+          "description_fr": "Visite médicale d'aptitude au poste (surtout pour les métiers de terrain et techniques) avant l'embauche définitive — suggestion par analogie avec les entreprises publiques.",
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "order": 5,
+          "kind": "TRAINING",
+          "name_ar": "فترة التجربة والتكوين عند الانتداب",
+          "name_fr": "Période d'essai et formation d'intégration",
+          "is_eliminatory": true,
+          "duration_minutes": null,
+          "description_ar": "يُرجّح أن يخضع المنتدبون لفترة تجربة وتكوين أولي (السلامة، إجراءات العمل) قبل الترسيم. المدة والشروط يحددها النظام الأساسي لأعوان الستاغ — مقترح، للتثبت.",
+          "description_fr": "Les recrues passeraient une période d'essai et une formation d'intégration (sécurité, procédures) avant titularisation. Durée et modalités fixées par le statut du personnel de la STEG — suggestion, à vérifier.",
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        }
+      ],
+      "subjects": [
+        {
+          "phase_order": 2,
+          "domain": "ARABIC",
+          "specialty_key": null,
+          "name_ar": "اللغة العربية (فهم نص وتحرير قصير)",
+          "name_fr": "Langue arabe (compréhension et rédaction courte)",
+          "coefficient": null,
+          "duration_minutes": null,
+          "question_count": null,
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "phase_order": 2,
+          "domain": "NUMERICAL",
+          "specialty_key": null,
+          "name_ar": "الحساب والعمليات العددية",
+          "name_fr": "Calcul et aptitude numérique",
+          "coefficient": null,
+          "duration_minutes": null,
+          "question_count": null,
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "phase_order": 2,
+          "domain": "CULTURE_GENERALE",
+          "specialty_key": null,
+          "name_ar": "الثقافة العامة",
+          "name_fr": "Culture générale",
+          "coefficient": null,
+          "duration_minutes": null,
+          "question_count": null,
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "phase_order": 2,
+          "domain": "SPECIALTY",
+          "specialty_key": "spec.steg.hygiene-proprete",
+          "name_ar": "النظافة والصحة والسلامة المهنية",
+          "name_fr": "Propreté, hygiène et sécurité au travail",
+          "coefficient": null,
+          "duration_minutes": null,
+          "question_count": null,
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "phase_order": 2,
+          "domain": "SPECIALTY",
+          "specialty_key": "spec.secourisme",
+          "name_ar": "الإسعافات الأولية والوقاية من الحرائق",
+          "name_fr": "Secourisme et prévention incendie",
+          "coefficient": null,
+          "duration_minutes": null,
+          "question_count": null,
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        }
+      ],
+      "physical_tests": [],
+      "required_documents": [
+        {
+          "text_ar": "مطبوعة التسجيل (أو وصل التسجيل عن بعد) ممضاة",
+          "text_fr": "Fiche/accusé d'inscription (en ligne) signé",
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "text_ar": "نسخة من بطاقة التعريف الوطنية",
+          "text_fr": "Copie de la carte d'identité nationale (CIN)",
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "text_ar": "شهادة في المستوى الدراسي إن وُجدت",
+          "text_fr": "Attestation de niveau scolaire, le cas échéant",
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "text_ar": "بطاقة عدد 3 (السوابق العدلية) حديثة",
+          "text_fr": "Bulletin n° 3 (extrait du casier judiciaire) récent",
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "text_ar": "شهادة طبية في القدرة على العمل",
+          "text_fr": "Certificat médical d'aptitude au travail",
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "text_ar": "شهادة في الوضعية تجاه الخدمة الوطنية (للذكور) إن طُلبت",
+          "text_fr": "Attestation de situation vis-à-vis du service national (candidats masculins), si exigée",
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        }
+      ],
+      "blueprint": {
+        "total_minutes": 60,
+        "fidelity": "APPROXIMATED",
+        "sections": [
+          {
+            "domain": "ARABIC",
+            "specialty_key": null,
+            "count": 10,
+            "minutes": 15
+          },
+          {
+            "domain": "NUMERICAL",
+            "specialty_key": null,
+            "count": 10,
+            "minutes": 15
+          },
+          {
+            "domain": "CULTURE_GENERALE",
+            "specialty_key": null,
+            "count": 10,
+            "minutes": 10
+          },
+          {
+            "domain": "SPECIALTY",
+            "specialty_key": "spec.steg.hygiene-proprete",
+            "count": 10,
+            "minutes": 15
+          },
+          {
+            "domain": "SPECIALTY",
+            "specialty_key": "spec.secourisme",
+            "count": 5,
+            "minutes": 5
+          }
+        ]
+      }
+    },
+    {
+      "slug": "agent-surveillance",
+      "title_ar": "عون حراسة",
+      "title_fr": "Agent de surveillance (gardiennage)",
+      "diploma_level": "NINTH",
+      "eligibility": {
+        "min_age": 18,
+        "max_age": null,
+        "genders": [
+          "M",
+          "F"
+        ],
+        "nationality": "TN",
+        "diplomas": [
+          "NINTH"
+        ],
+        "specialties": [],
+        "min_height_cm_male": null,
+        "min_height_cm_female": null,
+        "marital_status": null,
+        "other_ar": [
+          "دورة 2026: 300 خطة عون حراسة ضمن مناظرات «بالملفات والاختبارات» (آخر أجل للتسجيل 27 ماي 2026) حسب لابراس — للتثبت",
+          "المستوى الدراسي المطلوب غير منشور لدينا (اعتُمد مستوى السنة التاسعة أساسي كفرضية)",
+          "لم يُعثر على ما يفيد أن المناظرة مخصصة للذكور فقط؛ للتثبت من البلاغ",
+          "نقاوة السوابق العدلية والقدرة البدنية والاستعداد للعمل الليلي وبنظام الحصص: شروط مرجحة",
+          "فرضية للتثبت: أولوية محتملة لأعوان الحراسة الذين كانوا يشتغلون بالمناولة لدى الستاغ (منع المناولة سنة 2025)"
+        ],
+        "other_fr": [
+          "Session 2026 : 300 postes d'agents de surveillance, concours « sur dossiers et épreuves » (inscriptions jusqu'au 27/05/2026) selon La Presse — à vérifier",
+          "Niveau d'instruction exigé non connu (9e année de base retenue comme hypothèse)",
+          "Rien n'indique un concours réservé aux hommes ; à vérifier dans l'avis",
+          "Casier judiciaire vierge, aptitude physique, disponibilité pour le travail de nuit et posté : conditions probables",
+          "Hypothèse à vérifier : priorité possible aux agents de gardiennage anciennement sous-traités à la STEG (interdiction de la sous-traitance, 2025)"
+        ],
+        "source_key": "s1",
+        "confidence": "LOW",
+        "needs_verification": true,
+        "source_quote": null
+      },
+      "phases": [
+        {
+          "order": 1,
+          "kind": "FILE_REVIEW",
+          "name_ar": "التسجيل ودراسة الملفات (انتقاء أولي)",
+          "name_fr": "Inscription et étude des dossiers (présélection)",
+          "is_eliminatory": true,
+          "duration_minutes": null,
+          "description_ar": "حسب الصحافة (لابراس، 8 ماي 2026) أعلنت الستاغ عن مناظرات خارجية «بالملفات والاختبارات» لانتداب 494 عونا (194 عون تنظيف و300 عون حراسة) مع آخر أجل للتسجيل يوم 27 ماي 2026. يعني ذلك أن دراسة الملفات تسبق الاختبارات. مقاييس الانتقاء (السن، الوضعية الاجتماعية، الخبرة أو الأقدمية في العمل) ومنصة التسجيل غير منشورة لدينا — للتثبت من البلاغ الرسمي.",
+          "description_fr": "Selon la presse (La Presse, 08/05/2026), la STEG a lancé des concours externes « sur dossiers et épreuves » pour 494 agents (194 agents de nettoyage, 300 agents de surveillance), inscriptions jusqu'au 27/05/2026. L'étude des dossiers précède donc les épreuves. Critères de présélection (âge, situation sociale, expérience/ancienneté) et plateforme d'inscription non connus — à vérifier sur l'avis officiel.",
+          "source_key": "s1",
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "order": 2,
+          "kind": "WRITTEN",
+          "name_ar": "الاختبار الكتابي أو التطبيقي",
+          "name_fr": "Épreuve écrite ou pratique",
+          "is_eliminatory": true,
+          "duration_minutes": null,
+          "description_ar": "طبيعة «الاختبارات» غير منشورة. يُرجّح اختبار مبسط بالعربية (ثقافة عامة، تحرير تقرير حادث قصير، قواعد الحراسة والسلامة والوقاية من الحرائق) — مقترح.",
+          "description_fr": "Nature des « épreuves » non publiée. Probablement une épreuve simple en arabe (culture générale, rédaction d'un court rapport d'incident, règles de gardiennage, de sécurité et de prévention incendie) — suggestion.",
+          "source_key": "s1",
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "order": 3,
+          "kind": "INTERVIEW",
+          "name_ar": "المقابلة الشفاهية",
+          "name_fr": "Entretien / épreuve orale",
+          "is_eliminatory": true,
+          "duration_minutes": null,
+          "description_ar": "مقابلة مع لجنة لتقييم الحوافز والسلوك والقدرة على التواصل ومعرفة المؤسسة. قد تشمل أسئلة وضعيات (تسلل، حريق، شخص غريب بالموقع). المدة والضارب غير معروفين — مقترح.",
+          "description_fr": "Entretien avec un jury : motivation, comportement, communication, connaissance de l'entreprise. Peut inclure des mises en situation (intrusion, départ de feu, personne étrangère sur le site). Durée et coefficient inconnus — suggestion.",
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "order": 4,
+          "kind": "MEDICAL",
+          "name_ar": "الفحص الطبي للقدرة على العمل",
+          "name_fr": "Visite médicale d'aptitude",
+          "is_eliminatory": true,
+          "duration_minutes": null,
+          "description_ar": "فحص طبي للتأكد من القدرة البدنية على العمل بالمنصب (خاصة للمهن الميدانية والتقنية) قبل الانتداب النهائي — مقترح بالقياس على المنشآت العمومية.",
+          "description_fr": "Visite médicale d'aptitude au poste (surtout pour les métiers de terrain et techniques) avant l'embauche définitive — suggestion par analogie avec les entreprises publiques.",
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "order": 5,
+          "kind": "TRAINING",
+          "name_ar": "فترة التجربة والتكوين عند الانتداب",
+          "name_fr": "Période d'essai et formation d'intégration",
+          "is_eliminatory": true,
+          "duration_minutes": null,
+          "description_ar": "يُرجّح أن يخضع المنتدبون لفترة تجربة وتكوين أولي (السلامة، إجراءات العمل) قبل الترسيم. المدة والشروط يحددها النظام الأساسي لأعوان الستاغ — مقترح، للتثبت.",
+          "description_fr": "Les recrues passeraient une période d'essai et une formation d'intégration (sécurité, procédures) avant titularisation. Durée et modalités fixées par le statut du personnel de la STEG — suggestion, à vérifier.",
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        }
+      ],
+      "subjects": [
+        {
+          "phase_order": 2,
+          "domain": "ARABIC",
+          "specialty_key": null,
+          "name_ar": "اللغة العربية (فهم نص وتحرير قصير)",
+          "name_fr": "Langue arabe (compréhension et rédaction courte)",
+          "coefficient": null,
+          "duration_minutes": null,
+          "question_count": null,
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "phase_order": 2,
+          "domain": "CULTURE_GENERALE",
+          "specialty_key": null,
+          "name_ar": "الثقافة العامة",
+          "name_fr": "Culture générale",
+          "coefficient": null,
+          "duration_minutes": null,
+          "question_count": null,
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "phase_order": 2,
+          "domain": "LOGIC",
+          "specialty_key": null,
+          "name_ar": "المنطق والاستدلال",
+          "name_fr": "Logique et raisonnement",
+          "coefficient": null,
+          "duration_minutes": null,
+          "question_count": null,
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "phase_order": 2,
+          "domain": "SPECIALTY",
+          "specialty_key": "spec.steg.securite-sites",
+          "name_ar": "حراسة المنشآت وتأمينها",
+          "name_fr": "Gardiennage et sécurité des installations",
+          "coefficient": null,
+          "duration_minutes": null,
+          "question_count": null,
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "phase_order": 2,
+          "domain": "SPECIALTY",
+          "specialty_key": "spec.secourisme",
+          "name_ar": "الإسعافات الأولية والوقاية من الحرائق",
+          "name_fr": "Secourisme et prévention incendie",
+          "coefficient": null,
+          "duration_minutes": null,
+          "question_count": null,
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "phase_order": 2,
+          "domain": "FRENCH",
+          "specialty_key": null,
+          "name_ar": "اللغة الفرنسية",
+          "name_fr": "Langue française",
+          "coefficient": null,
+          "duration_minutes": null,
+          "question_count": null,
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        }
+      ],
+      "physical_tests": [],
+      "required_documents": [
+        {
+          "text_ar": "مطبوعة التسجيل (أو وصل التسجيل عن بعد) ممضاة",
+          "text_fr": "Fiche/accusé d'inscription (en ligne) signé",
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "text_ar": "نسخة من بطاقة التعريف الوطنية",
+          "text_fr": "Copie de la carte d'identité nationale (CIN)",
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "text_ar": "شهادة في المستوى الدراسي (السنة التاسعة أساسي) إن طُلبت",
+          "text_fr": "Attestation de niveau scolaire (9e année de base), si exigée",
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "text_ar": "بطاقة عدد 3 (السوابق العدلية) حديثة",
+          "text_fr": "Bulletin n° 3 (extrait du casier judiciaire) récent",
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "text_ar": "شهادة طبية في القدرة على العمل",
+          "text_fr": "Certificat médical d'aptitude au travail",
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "text_ar": "شهادة في الوضعية تجاه الخدمة الوطنية (للذكور) إن طُلبت",
+          "text_fr": "Attestation de situation vis-à-vis du service national (candidats masculins), si exigée",
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        }
+      ],
+      "blueprint": {
+        "total_minutes": 75,
+        "fidelity": "APPROXIMATED",
+        "sections": [
+          {
+            "domain": "ARABIC",
+            "specialty_key": null,
+            "count": 10,
+            "minutes": 15
+          },
+          {
+            "domain": "CULTURE_GENERALE",
+            "specialty_key": null,
+            "count": 10,
+            "minutes": 10
+          },
+          {
+            "domain": "LOGIC",
+            "specialty_key": null,
+            "count": 10,
+            "minutes": 15
+          },
+          {
+            "domain": "SPECIALTY",
+            "specialty_key": "spec.steg.securite-sites",
+            "count": 10,
+            "minutes": 15
+          },
+          {
+            "domain": "SPECIALTY",
+            "specialty_key": "spec.secourisme",
+            "count": 10,
+            "minutes": 10
+          },
+          {
+            "domain": "FRENCH",
+            "specialty_key": null,
+            "count": 5,
+            "minutes": 10
+          }
+        ]
+      }
+    },
+    {
+      "slug": "agent-execution-technique",
+      "title_ar": "عون تنفيذ تقني (كهربائي شبكات، عون قيس وفوترة، عامل مختص)",
+      "title_fr": "Agent d'exécution technique (électricien de réseaux, releveur, ouvrier qualifié)",
+      "diploma_level": "SECONDARY",
+      "eligibility": {
+        "min_age": 18,
+        "max_age": null,
+        "genders": [
+          "M",
+          "F"
+        ],
+        "nationality": "TN",
+        "diplomas": [
+          "SECONDARY"
+        ],
+        "specialties": [
+          "كهرباء / Électricité (CAP, BTP)",
+          "كهرباء الشبكات / Électricité de réseaux",
+          "كهروميكانيك / Électromécanique",
+          "ميكانيك / Mécanique",
+          "سباكة وتركيب الغاز / Plomberie – installation gaz"
+        ],
+        "min_height_cm_male": null,
+        "min_height_cm_female": null,
+        "marital_status": null,
+        "other_ar": [
+          "لم يُعثر على دورة حديثة مؤكدة لهذا الصنف (2023-2026)؛ المنصب مقترح لأنه من الأصناف التقليدية للانتداب بالستاغ",
+          "يُرجّح اشتراط شهادة تكوين مهني (شهادة الكفاءة المهنية CAP أو شهادة المؤهل التقني المهني BTP) في الاختصاص",
+          "القدرة البدنية على العمل الميداني وفي المرتفعات، ورخصة سياقة أحيانا: شروط مرجحة",
+          "السن القصوى غير معروفة"
+        ],
+        "other_fr": [
+          "Aucune session récente confirmée (2023-2026) pour cette catégorie ; poste suggéré car catégorie classique de recrutement à la STEG",
+          "Diplôme de formation professionnelle probablement exigé (CAP ou BTP) dans la spécialité",
+          "Aptitude physique au travail de terrain et en hauteur, permis de conduire parfois : conditions probables",
+          "Âge maximum inconnu"
+        ],
+        "source_key": null,
+        "confidence": "LOW",
+        "needs_verification": true,
+        "source_quote": null
+      },
+      "phases": [
+        {
+          "order": 1,
+          "kind": "FILE_REVIEW",
+          "name_ar": "التسجيل عن بعد والتثبت من الشروط",
+          "name_fr": "Inscription en ligne et contrôle des conditions",
+          "is_eliminatory": true,
+          "duration_minutes": null,
+          "description_ar": "يتم التسجيل عادة عبر الموقع الرسمي للستاغ أو الرابط المذكور في البلاغ، ثم يتم التثبت من استيفاء شروط السن والشهادة والاختصاص. قد يُعتمد انتقاء أولي حسب المعدلات أو سنة التخرج — مقترح، للتثبت.",
+          "description_fr": "L'inscription se fait généralement sur le site officiel de la STEG ou via le lien indiqué dans l'avis, puis les conditions d'âge, de diplôme et de spécialité sont contrôlées. Une présélection sur moyennes ou année d'obtention du diplôme est possible — suggestion, à vérifier.",
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "order": 2,
+          "kind": "WRITTEN",
+          "name_ar": "الاختبار الكتابي في الاختصاص",
+          "name_fr": "Épreuve écrite de spécialité",
+          "is_eliminatory": true,
+          "duration_minutes": null,
+          "description_ar": "أسئلة في أساسيات الكهرباء والسلامة الكهربائية والحساب التطبيقي — مقترح.",
+          "description_fr": "Questions sur les bases de l'électricité, la sécurité électrique et le calcul appliqué — suggestion.",
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "order": 3,
+          "kind": "PHYSICAL",
+          "name_ar": "الاختبار التطبيقي والقدرة على العمل في المرتفعات",
+          "name_fr": "Épreuve pratique et aptitude au travail en hauteur",
+          "is_eliminatory": true,
+          "duration_minutes": null,
+          "description_ar": "بالنسبة لكهربائيي الشبكات قد يُطلب اختبار تطبيقي (تركيب، توصيل، قراءة مخطط) و/أو التثبت من القدرة على الصعود على الأعمدة — مقترح، للتثبت.",
+          "description_fr": "Pour les électriciens de réseaux, une épreuve pratique (montage, raccordement, lecture de schéma) et/ou une vérification de l'aptitude à monter sur poteau peuvent être demandées — suggestion, à vérifier.",
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "order": 4,
+          "kind": "INTERVIEW",
+          "name_ar": "المقابلة الشفاهية",
+          "name_fr": "Entretien / épreuve orale",
+          "is_eliminatory": true,
+          "duration_minutes": null,
+          "description_ar": "مقابلة مع لجنة لتقييم الحوافز والسلوك والقدرة على التواصل ومعرفة المؤسسة. أسئلة حول قواعد السلامة الكهربائية وخطوات العمل على الشبكة. المدة والضارب غير معروفين — مقترح.",
+          "description_fr": "Entretien avec un jury : motivation, comportement, communication, connaissance de l'entreprise. Questions sur les règles de sécurité électrique et les étapes d'intervention sur le réseau. Durée et coefficient inconnus — suggestion.",
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "order": 5,
+          "kind": "MEDICAL",
+          "name_ar": "الفحص الطبي للقدرة على العمل",
+          "name_fr": "Visite médicale d'aptitude",
+          "is_eliminatory": true,
+          "duration_minutes": null,
+          "description_ar": "فحص طبي للتأكد من القدرة البدنية على العمل بالمنصب (خاصة للمهن الميدانية والتقنية) قبل الانتداب النهائي — مقترح بالقياس على المنشآت العمومية.",
+          "description_fr": "Visite médicale d'aptitude au poste (surtout pour les métiers de terrain et techniques) avant l'embauche définitive — suggestion par analogie avec les entreprises publiques.",
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "order": 6,
+          "kind": "TRAINING",
+          "name_ar": "فترة التجربة والتكوين عند الانتداب",
+          "name_fr": "Période d'essai et formation d'intégration",
+          "is_eliminatory": true,
+          "duration_minutes": null,
+          "description_ar": "يُرجّح أن يخضع المنتدبون لفترة تجربة وتكوين أولي (السلامة، إجراءات العمل) قبل الترسيم. المدة والشروط يحددها النظام الأساسي لأعوان الستاغ — مقترح، للتثبت.",
+          "description_fr": "Les recrues passeraient une période d'essai et une formation d'intégration (sécurité, procédures) avant titularisation. Durée et modalités fixées par le statut du personnel de la STEG — suggestion, à vérifier.",
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        }
+      ],
+      "subjects": [
+        {
+          "phase_order": 2,
+          "domain": "SPECIALTY",
+          "specialty_key": "spec.electricite",
+          "name_ar": "الكهرباء والكهروتقنية",
+          "name_fr": "Électricité et électrotechnique",
+          "coefficient": null,
+          "duration_minutes": null,
+          "question_count": null,
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "phase_order": 2,
+          "domain": "NUMERICAL",
+          "specialty_key": null,
+          "name_ar": "الحساب والعمليات العددية",
+          "name_fr": "Calcul et aptitude numérique",
+          "coefficient": null,
+          "duration_minutes": null,
+          "question_count": null,
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "phase_order": 2,
+          "domain": "SPECIALTY",
+          "specialty_key": "spec.steg.clientele",
+          "name_ar": "قيس الاستهلاك والفوترة والعلاقة مع الحرفاء",
+          "name_fr": "Relève, facturation et relation clientèle",
+          "coefficient": null,
+          "duration_minutes": null,
+          "question_count": null,
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "phase_order": 2,
+          "domain": "SPECIALTY",
+          "specialty_key": "spec.secourisme",
+          "name_ar": "الإسعافات الأولية والوقاية من الحرائق",
+          "name_fr": "Secourisme et prévention incendie",
+          "coefficient": null,
+          "duration_minutes": null,
+          "question_count": null,
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "phase_order": 2,
+          "domain": "FRENCH",
+          "specialty_key": null,
+          "name_ar": "اللغة الفرنسية",
+          "name_fr": "Langue française",
+          "coefficient": null,
+          "duration_minutes": null,
+          "question_count": null,
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "phase_order": 2,
+          "domain": "LOGIC",
+          "specialty_key": null,
+          "name_ar": "المنطق والاستدلال",
+          "name_fr": "Logique et raisonnement",
+          "coefficient": null,
+          "duration_minutes": null,
+          "question_count": null,
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        }
+      ],
+      "physical_tests": [
+        {
+          "name_ar": "الصعود على الأعمدة والعمل في المرتفعات",
+          "name_fr": "Montée sur poteau / travail en hauteur",
+          "details_ar": "مقترح: التثبت من القدرة على الصعود على عمود كهربائي باستعمال معدات الوقاية (حزام، خوذة) وعدم الخوف من المرتفعات. لا توجد معايير منشورة.",
+          "details_fr": "Suggestion : vérification de l'aptitude à monter sur un poteau avec les équipements de protection (harnais, casque) et absence de vertige. Aucun barème publié.",
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        }
+      ],
+      "required_documents": [
+        {
+          "text_ar": "مطبوعة التسجيل (أو وصل التسجيل عن بعد) ممضاة",
+          "text_fr": "Fiche/accusé d'inscription (en ligne) signé",
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "text_ar": "نسخة من بطاقة التعريف الوطنية",
+          "text_fr": "Copie de la carte d'identité nationale (CIN)",
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "text_ar": "نسخة مطابقة للأصل من شهادة التكوين المهني (CAP/BTP)",
+          "text_fr": "Copie conforme du diplôme de formation professionnelle (CAP/BTP)",
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "text_ar": "بطاقة عدد 3 (السوابق العدلية) حديثة",
+          "text_fr": "Bulletin n° 3 (extrait du casier judiciaire) récent",
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "text_ar": "شهادة طبية في القدرة على العمل",
+          "text_fr": "Certificat médical d'aptitude au travail",
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "text_ar": "شهادة في الوضعية تجاه الخدمة الوطنية (للذكور) إن طُلبت",
+          "text_fr": "Attestation de situation vis-à-vis du service national (candidats masculins), si exigée",
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "text_ar": "نسخة من رخصة السياقة إن طُلبت",
+          "text_fr": "Copie du permis de conduire, si exigé",
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        }
+      ],
+      "blueprint": {
+        "total_minutes": 90,
+        "fidelity": "APPROXIMATED",
+        "sections": [
+          {
+            "domain": "SPECIALTY",
+            "specialty_key": "spec.electricite",
+            "count": 20,
+            "minutes": 40
+          },
+          {
+            "domain": "NUMERICAL",
+            "specialty_key": null,
+            "count": 10,
+            "minutes": 20
+          },
+          {
+            "domain": "SPECIALTY",
+            "specialty_key": "spec.steg.clientele",
+            "count": 5,
+            "minutes": 5
+          },
+          {
+            "domain": "SPECIALTY",
+            "specialty_key": "spec.secourisme",
+            "count": 5,
+            "minutes": 5
+          },
+          {
+            "domain": "FRENCH",
+            "specialty_key": null,
+            "count": 10,
+            "minutes": 10
+          },
+          {
+            "domain": "LOGIC",
+            "specialty_key": null,
+            "count": 5,
+            "minutes": 10
+          }
+        ]
+      }
+    },
+    {
+      "slug": "technicien-superieur",
+      "title_ar": "تقني سامي / عون تسيير",
+      "title_fr": "Technicien supérieur / agent de maîtrise",
+      "diploma_level": "BAC_PLUS_2",
+      "eligibility": {
+        "min_age": 18,
+        "max_age": null,
+        "genders": [
+          "M",
+          "F"
+        ],
+        "nationality": "TN",
+        "diplomas": [
+          "BAC_PLUS_2",
+          "LICENCE"
+        ],
+        "specialties": [
+          "هندسة كهربائية / Génie électrique",
+          "كهروتقنية / Électrotechnique",
+          "كهروميكانيك / Électromécanique",
+          "صيانة صناعية / Maintenance industrielle",
+          "هندسة مدنية / Génie civil",
+          "إعلامية صناعية / Informatique industrielle",
+          "قيس وتعديل / Instrumentation et régulation"
+        ],
+        "min_height_cm_male": null,
+        "min_height_cm_female": null,
+        "marital_status": null,
+        "other_ar": [
+          "لم يُعثر على دورة حديثة مؤكدة لهذا الصنف؛ الشهادات المرجحة: مؤهل التقني السامي (BTS) أو الإجازة التطبيقية",
+          "قائمة الاختصاصات وعدد الخطط تحدد في كل بلاغ",
+          "السن القصوى وتاريخ احتسابها غير معروفين"
+        ],
+        "other_fr": [
+          "Aucune session récente confirmée pour cette catégorie ; diplômes probables : BTS ou licence appliquée",
+          "Liste des spécialités et nombre de postes fixés par chaque avis",
+          "Âge maximum et date de référence inconnus"
+        ],
+        "source_key": null,
+        "confidence": "LOW",
+        "needs_verification": true,
+        "source_quote": null
+      },
+      "phases": [
+        {
+          "order": 1,
+          "kind": "FILE_REVIEW",
+          "name_ar": "التسجيل عن بعد والتثبت من الشروط",
+          "name_fr": "Inscription en ligne et contrôle des conditions",
+          "is_eliminatory": true,
+          "duration_minutes": null,
+          "description_ar": "يتم التسجيل عادة عبر الموقع الرسمي للستاغ أو الرابط المذكور في البلاغ، ثم يتم التثبت من استيفاء شروط السن والشهادة والاختصاص. قد يُعتمد انتقاء أولي حسب المعدلات أو سنة التخرج — مقترح، للتثبت.",
+          "description_fr": "L'inscription se fait généralement sur le site officiel de la STEG ou via le lien indiqué dans l'avis, puis les conditions d'âge, de diplôme et de spécialité sont contrôlées. Une présélection sur moyennes ou année d'obtention du diplôme est possible — suggestion, à vérifier.",
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "order": 2,
+          "kind": "WRITTEN",
+          "name_ar": "الاختبار الكتابي",
+          "name_fr": "Épreuve(s) écrite(s)",
+          "is_eliminatory": true,
+          "duration_minutes": null,
+          "description_ar": "يُرجّح اختبار في الاختصاص (كهرباء، كهروتقنية...) مع لغة وثقافة عامة أو معلومات حول المؤسسة، في شكل أسئلة متعددة الاختيارات و/أو تمارين — مقترح.",
+          "description_fr": "Probablement une épreuve de spécialité (électricité, électrotechnique…) avec langue et culture générale ou connaissance de l'entreprise, sous forme de QCM et/ou d'exercices — suggestion.",
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "order": 3,
+          "kind": "ORAL",
+          "name_ar": "المقابلة الشفاهية",
+          "name_fr": "Entretien / épreuve orale",
+          "is_eliminatory": true,
+          "duration_minutes": null,
+          "description_ar": "مقابلة مع لجنة لتقييم الحوافز والسلوك والقدرة على التواصل ومعرفة المؤسسة. أسئلة تقنية حول الاختصاص والسلامة. المدة والضارب غير معروفين — مقترح.",
+          "description_fr": "Entretien avec un jury : motivation, comportement, communication, connaissance de l'entreprise. Questions techniques sur la spécialité et la sécurité. Durée et coefficient inconnus — suggestion.",
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "order": 4,
+          "kind": "MEDICAL",
+          "name_ar": "الفحص الطبي للقدرة على العمل",
+          "name_fr": "Visite médicale d'aptitude",
+          "is_eliminatory": true,
+          "duration_minutes": null,
+          "description_ar": "فحص طبي للتأكد من القدرة البدنية على العمل بالمنصب (خاصة للمهن الميدانية والتقنية) قبل الانتداب النهائي — مقترح بالقياس على المنشآت العمومية.",
+          "description_fr": "Visite médicale d'aptitude au poste (surtout pour les métiers de terrain et techniques) avant l'embauche définitive — suggestion par analogie avec les entreprises publiques.",
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "order": 5,
+          "kind": "TRAINING",
+          "name_ar": "فترة التجربة والتكوين عند الانتداب",
+          "name_fr": "Période d'essai et formation d'intégration",
+          "is_eliminatory": true,
+          "duration_minutes": null,
+          "description_ar": "يُرجّح أن يخضع المنتدبون لفترة تجربة وتكوين أولي (السلامة، إجراءات العمل) قبل الترسيم. المدة والشروط يحددها النظام الأساسي لأعوان الستاغ — مقترح، للتثبت.",
+          "description_fr": "Les recrues passeraient une période d'essai et une formation d'intégration (sécurité, procédures) avant titularisation. Durée et modalités fixées par le statut du personnel de la STEG — suggestion, à vérifier.",
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        }
+      ],
+      "subjects": [
+        {
+          "phase_order": 2,
+          "domain": "SPECIALTY",
+          "specialty_key": "spec.electricite",
+          "name_ar": "الكهرباء والكهروتقنية",
+          "name_fr": "Électricité et électrotechnique",
+          "coefficient": null,
+          "duration_minutes": null,
+          "question_count": null,
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "phase_order": 2,
+          "domain": "NUMERICAL",
+          "specialty_key": null,
+          "name_ar": "الحساب والعمليات العددية",
+          "name_fr": "Calcul et aptitude numérique",
+          "coefficient": null,
+          "duration_minutes": null,
+          "question_count": null,
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "phase_order": 2,
+          "domain": "SPECIALTY",
+          "specialty_key": "spec.steg.entreprise-energie",
+          "name_ar": "الستاغ وقطاع الطاقة في تونس",
+          "name_fr": "La STEG et le secteur énergétique tunisien",
+          "coefficient": null,
+          "duration_minutes": null,
+          "question_count": null,
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "phase_order": 2,
+          "domain": "FRENCH",
+          "specialty_key": null,
+          "name_ar": "اللغة الفرنسية",
+          "name_fr": "Langue française",
+          "coefficient": null,
+          "duration_minutes": null,
+          "question_count": null,
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "phase_order": 2,
+          "domain": "LOGIC",
+          "specialty_key": null,
+          "name_ar": "المنطق والاستدلال",
+          "name_fr": "Logique et raisonnement",
+          "coefficient": null,
+          "duration_minutes": null,
+          "question_count": null,
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        }
+      ],
+      "physical_tests": [],
+      "required_documents": [
+        {
+          "text_ar": "مطبوعة التسجيل (أو وصل التسجيل عن بعد) ممضاة",
+          "text_fr": "Fiche/accusé d'inscription (en ligne) signé",
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "text_ar": "نسخة من بطاقة التعريف الوطنية",
+          "text_fr": "Copie de la carte d'identité nationale (CIN)",
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "text_ar": "نسخة مطابقة للأصل من الشهادة وكشوف الأعداد",
+          "text_fr": "Copie conforme du diplôme et des relevés de notes",
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "text_ar": "بطاقة عدد 3 (السوابق العدلية) حديثة",
+          "text_fr": "Bulletin n° 3 (extrait du casier judiciaire) récent",
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "text_ar": "شهادة طبية في القدرة على العمل",
+          "text_fr": "Certificat médical d'aptitude au travail",
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "text_ar": "شهادة في الوضعية تجاه الخدمة الوطنية (للذكور) إن طُلبت",
+          "text_fr": "Attestation de situation vis-à-vis du service national (candidats masculins), si exigée",
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "text_ar": "شهادة معادلة للشهادات الأجنبية",
+          "text_fr": "Attestation d'équivalence pour les diplômes étrangers",
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        }
+      ],
+      "blueprint": {
+        "total_minutes": 120,
+        "fidelity": "APPROXIMATED",
+        "sections": [
+          {
+            "domain": "SPECIALTY",
+            "specialty_key": "spec.electricite",
+            "count": 25,
+            "minutes": 50
+          },
+          {
+            "domain": "NUMERICAL",
+            "specialty_key": null,
+            "count": 10,
+            "minutes": 20
+          },
+          {
+            "domain": "SPECIALTY",
+            "specialty_key": "spec.steg.entreprise-energie",
+            "count": 10,
+            "minutes": 15
+          },
+          {
+            "domain": "FRENCH",
+            "specialty_key": null,
+            "count": 10,
+            "minutes": 15
+          },
+          {
+            "domain": "LOGIC",
+            "specialty_key": null,
+            "count": 10,
+            "minutes": 20
+          }
+        ]
+      }
+    },
+    {
+      "slug": "cadre-gestion",
+      "title_ar": "إطار (تصرف، مالية، محاسبة، قانون، موارد بشرية، إعلامية)",
+      "title_fr": "Cadre (gestion, finance, comptabilité, droit, ressources humaines, informatique)",
+      "diploma_level": "LICENCE",
+      "eligibility": {
+        "min_age": 18,
+        "max_age": null,
+        "genders": [
+          "M",
+          "F"
+        ],
+        "nationality": "TN",
+        "diplomas": [
+          "LICENCE",
+          "MASTER"
+        ],
+        "specialties": [
+          "تصرف / Gestion",
+          "مالية / Finance",
+          "محاسبة / Comptabilité",
+          "قانون / Droit",
+          "موارد بشرية / Ressources humaines",
+          "إعلامية / Informatique",
+          "تجارة وتسويق / Commerce et marketing"
+        ],
+        "min_height_cm_male": null,
+        "min_height_cm_female": null,
+        "marital_status": null,
+        "other_ar": [
+          "حسب سجل البحث الداخلي (المصدر s1) أُجريت الاختبارات الكتابية لمناظرة إطارات بالستاغ في فيفري 2026؛ الأصناف والشهادات وعدد الخطط غير معروفة",
+          "الشهادات المرجحة: الإجازة أو الماجستير حسب الرتبة",
+          "السن القصوى وتاريخ احتسابها غير معروفين"
+        ],
+        "other_fr": [
+          "Selon le journal de recherche interne (source s1), un concours de cadres de la STEG a eu ses épreuves écrites en février 2026 ; grades, diplômes et nombre de postes inconnus",
+          "Diplômes probables : licence ou mastère selon le grade",
+          "Âge maximum et date de référence inconnus"
+        ],
+        "source_key": "s1",
+        "confidence": "LOW",
+        "needs_verification": true,
+        "source_quote": null
+      },
+      "phases": [
+        {
+          "order": 1,
+          "kind": "FILE_REVIEW",
+          "name_ar": "التسجيل عن بعد والتثبت من الشروط",
+          "name_fr": "Inscription en ligne et contrôle des conditions",
+          "is_eliminatory": true,
+          "duration_minutes": null,
+          "description_ar": "يتم التسجيل عادة عبر الموقع الرسمي للستاغ أو الرابط المذكور في البلاغ، ثم يتم التثبت من استيفاء شروط السن والشهادة والاختصاص. قد يُعتمد انتقاء أولي حسب المعدلات أو سنة التخرج — مقترح، للتثبت.",
+          "description_fr": "L'inscription se fait généralement sur le site officiel de la STEG ou via le lien indiqué dans l'avis, puis les conditions d'âge, de diplôme et de spécialité sont contrôlées. Une présélection sur moyennes ou année d'obtention du diplôme est possible — suggestion, à vérifier.",
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "order": 2,
+          "kind": "WRITTEN",
+          "name_ar": "الاختبارات الكتابية",
+          "name_fr": "Épreuves écrites",
+          "is_eliminatory": true,
+          "duration_minutes": null,
+          "description_ar": "سجل البحث يشير إلى اختبارات كتابية لمناظرة إطارات في فيفري 2026. المحتوى المرجح: اختبار في الاختصاص + لغات/ثقافة عامة — مقترح، للتثبت.",
+          "description_fr": "Le journal de recherche signale des épreuves écrites d'un concours de cadres en février 2026. Contenu probable : épreuve de spécialité + langues/culture générale — suggestion, à vérifier.",
+          "source_key": "s1",
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "order": 3,
+          "kind": "ORAL",
+          "name_ar": "المقابلة الشفاهية",
+          "name_fr": "Entretien / épreuve orale",
+          "is_eliminatory": true,
+          "duration_minutes": null,
+          "description_ar": "مقابلة مع لجنة لتقييم الحوافز والسلوك والقدرة على التواصل ومعرفة المؤسسة. مناقشة المسار والمشروع المهني ومعرفة رهانات الستاغ (التوازن المالي، الانتقال الطاقي). المدة والضارب غير معروفين — مقترح.",
+          "description_fr": "Entretien avec un jury : motivation, comportement, communication, connaissance de l'entreprise. Discussion du parcours et du projet professionnel, connaissance des enjeux de la STEG (équilibre financier, transition énergétique). Durée et coefficient inconnus — suggestion.",
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "order": 4,
+          "kind": "MEDICAL",
+          "name_ar": "الفحص الطبي للقدرة على العمل",
+          "name_fr": "Visite médicale d'aptitude",
+          "is_eliminatory": true,
+          "duration_minutes": null,
+          "description_ar": "فحص طبي للتأكد من القدرة البدنية على العمل بالمنصب (خاصة للمهن الميدانية والتقنية) قبل الانتداب النهائي — مقترح بالقياس على المنشآت العمومية.",
+          "description_fr": "Visite médicale d'aptitude au poste (surtout pour les métiers de terrain et techniques) avant l'embauche définitive — suggestion par analogie avec les entreprises publiques.",
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "order": 5,
+          "kind": "TRAINING",
+          "name_ar": "فترة التجربة والتكوين عند الانتداب",
+          "name_fr": "Période d'essai et formation d'intégration",
+          "is_eliminatory": true,
+          "duration_minutes": null,
+          "description_ar": "يُرجّح أن يخضع المنتدبون لفترة تجربة وتكوين أولي (السلامة، إجراءات العمل) قبل الترسيم. المدة والشروط يحددها النظام الأساسي لأعوان الستاغ — مقترح، للتثبت.",
+          "description_fr": "Les recrues passeraient une période d'essai et une formation d'intégration (sécurité, procédures) avant titularisation. Durée et modalités fixées par le statut du personnel de la STEG — suggestion, à vérifier.",
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        }
+      ],
+      "subjects": [
+        {
+          "phase_order": 2,
+          "domain": "SPECIALTY",
+          "specialty_key": "spec.banque-gestion",
+          "name_ar": "الاقتصاد والتصرف والمحاسبة",
+          "name_fr": "Économie, gestion et comptabilité",
+          "coefficient": null,
+          "duration_minutes": null,
+          "question_count": null,
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "phase_order": 2,
+          "domain": "SPECIALTY",
+          "specialty_key": "spec.redaction-administrative",
+          "name_ar": "التحرير الإداري",
+          "name_fr": "Rédaction administrative",
+          "coefficient": null,
+          "duration_minutes": null,
+          "question_count": null,
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "phase_order": 2,
+          "domain": "SPECIALTY",
+          "specialty_key": "spec.steg.entreprise-energie",
+          "name_ar": "الستاغ وقطاع الطاقة في تونس",
+          "name_fr": "La STEG et le secteur énergétique tunisien",
+          "coefficient": null,
+          "duration_minutes": null,
+          "question_count": null,
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "phase_order": 2,
+          "domain": "FRENCH",
+          "specialty_key": null,
+          "name_ar": "اللغة الفرنسية",
+          "name_fr": "Langue française",
+          "coefficient": null,
+          "duration_minutes": null,
+          "question_count": null,
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "phase_order": 2,
+          "domain": "ENGLISH",
+          "specialty_key": null,
+          "name_ar": "اللغة الإنجليزية (تقنية)",
+          "name_fr": "Anglais (technique)",
+          "coefficient": null,
+          "duration_minutes": null,
+          "question_count": null,
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "phase_order": 2,
+          "domain": "CULTURE_GENERALE",
+          "specialty_key": null,
+          "name_ar": "الثقافة العامة",
+          "name_fr": "Culture générale",
+          "coefficient": null,
+          "duration_minutes": null,
+          "question_count": null,
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        }
+      ],
+      "physical_tests": [],
+      "required_documents": [
+        {
+          "text_ar": "مطبوعة التسجيل (أو وصل التسجيل عن بعد) ممضاة",
+          "text_fr": "Fiche/accusé d'inscription (en ligne) signé",
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "text_ar": "نسخة من بطاقة التعريف الوطنية",
+          "text_fr": "Copie de la carte d'identité nationale (CIN)",
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "text_ar": "نسخة مطابقة للأصل من الشهادة وكشوف الأعداد لكل سنوات الدراسة",
+          "text_fr": "Copie conforme du diplôme et des relevés de notes de toutes les années",
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "text_ar": "بطاقة عدد 3 (السوابق العدلية) حديثة",
+          "text_fr": "Bulletin n° 3 (extrait du casier judiciaire) récent",
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "text_ar": "شهادة طبية في القدرة على العمل",
+          "text_fr": "Certificat médical d'aptitude au travail",
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "text_ar": "شهادة في الوضعية تجاه الخدمة الوطنية (للذكور) إن طُلبت",
+          "text_fr": "Attestation de situation vis-à-vis du service national (candidats masculins), si exigée",
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "text_ar": "شهادة معادلة للشهادات الأجنبية",
+          "text_fr": "Attestation d'équivalence pour les diplômes étrangers",
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "text_ar": "سيرة ذاتية",
+          "text_fr": "Curriculum vitae",
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        }
+      ],
+      "blueprint": {
+        "total_minutes": 150,
+        "fidelity": "APPROXIMATED",
+        "sections": [
+          {
+            "domain": "SPECIALTY",
+            "specialty_key": "spec.banque-gestion",
+            "count": 25,
+            "minutes": 50
+          },
+          {
+            "domain": "SPECIALTY",
+            "specialty_key": "spec.redaction-administrative",
+            "count": 5,
+            "minutes": 25
+          },
+          {
+            "domain": "SPECIALTY",
+            "specialty_key": "spec.steg.entreprise-energie",
+            "count": 10,
+            "minutes": 15
+          },
+          {
+            "domain": "FRENCH",
+            "specialty_key": null,
+            "count": 10,
+            "minutes": 20
+          },
+          {
+            "domain": "ENGLISH",
+            "specialty_key": null,
+            "count": 10,
+            "minutes": 20
+          },
+          {
+            "domain": "CULTURE_GENERALE",
+            "specialty_key": null,
+            "count": 10,
+            "minutes": 20
+          }
+        ]
+      }
+    },
+    {
+      "slug": "ingenieur",
+      "title_ar": "مهندس",
+      "title_fr": "Ingénieur",
+      "diploma_level": "ENGINEER",
+      "eligibility": {
+        "min_age": 18,
+        "max_age": null,
+        "genders": [
+          "M",
+          "F"
+        ],
+        "nationality": "TN",
+        "diplomas": [
+          "ENGINEER"
+        ],
+        "specialties": [
+          "هندسة كهربائية / Génie électrique",
+          "هندسة طاقية / Génie énergétique",
+          "هندسة ميكانيكية / Génie mécanique",
+          "هندسة مدنية / Génie civil",
+          "هندسة كيميائية وطرائق / Génie chimique et des procédés",
+          "إعلامية / Informatique",
+          "اتصالات / Télécommunications",
+          "هندسة صناعية / Génie industriel"
+        ],
+        "min_height_cm_male": null,
+        "min_height_cm_female": null,
+        "marital_status": null,
+        "other_ar": [
+          "شهادة مهندس وطني أو ما يعادلها؛ الاختصاصات وعدد الخطط تحدد في كل بلاغ",
+          "من المحتمل أن يكون المهندسون ضمن مناظرة «الإطارات» التي أُجريت كتابياتها في فيفري 2026 حسب سجل البحث — غير مؤكد",
+          "السن القصوى وتاريخ احتسابها غير معروفين"
+        ],
+        "other_fr": [
+          "Diplôme national d'ingénieur ou équivalent ; spécialités et nombre de postes fixés par chaque avis",
+          "Les ingénieurs faisaient possiblement partie du concours « cadres » dont l'écrit a eu lieu en février 2026 selon le journal de recherche — non confirmé",
+          "Âge maximum et date de référence inconnus"
+        ],
+        "source_key": null,
+        "confidence": "LOW",
+        "needs_verification": true,
+        "source_quote": null
+      },
+      "phases": [
+        {
+          "order": 1,
+          "kind": "FILE_REVIEW",
+          "name_ar": "التسجيل عن بعد والتثبت من الشروط",
+          "name_fr": "Inscription en ligne et contrôle des conditions",
+          "is_eliminatory": true,
+          "duration_minutes": null,
+          "description_ar": "يتم التسجيل عادة عبر الموقع الرسمي للستاغ أو الرابط المذكور في البلاغ، ثم يتم التثبت من استيفاء شروط السن والشهادة والاختصاص. قد يُعتمد انتقاء أولي حسب المعدلات أو سنة التخرج — مقترح، للتثبت.",
+          "description_fr": "L'inscription se fait généralement sur le site officiel de la STEG ou via le lien indiqué dans l'avis, puis les conditions d'âge, de diplôme et de spécialité sont contrôlées. Une présélection sur moyennes ou année d'obtention du diplôme est possible — suggestion, à vérifier.",
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "order": 2,
+          "kind": "WRITTEN",
+          "name_ar": "الاختبارات الكتابية",
+          "name_fr": "Épreuves écrites",
+          "is_eliminatory": true,
+          "duration_minutes": null,
+          "description_ar": "يُرجّح اختبار في الاختصاص الهندسي (تمارين ومسائل و/أو أسئلة متعددة الاختيارات) مع لغات — مقترح، للتثبت.",
+          "description_fr": "Probablement une épreuve de spécialité d'ingénieur (exercices, problèmes et/ou QCM) avec langues — suggestion, à vérifier.",
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "order": 3,
+          "kind": "ORAL",
+          "name_ar": "المقابلة الشفاهية",
+          "name_fr": "Entretien / épreuve orale",
+          "is_eliminatory": true,
+          "duration_minutes": null,
+          "description_ar": "مقابلة مع لجنة لتقييم الحوافز والسلوك والقدرة على التواصل ومعرفة المؤسسة. أسئلة تقنية حول مشروع ختم الدروس والمنظومة الكهربائية والانتقال الطاقي، وقد تكون جزئيا بالفرنسية. المدة والضارب غير معروفين — مقترح.",
+          "description_fr": "Entretien avec un jury : motivation, comportement, communication, connaissance de l'entreprise. Questions techniques sur le projet de fin d'études, le système électrique et la transition énergétique, éventuellement en partie en français. Durée et coefficient inconnus — suggestion.",
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "order": 4,
+          "kind": "MEDICAL",
+          "name_ar": "الفحص الطبي للقدرة على العمل",
+          "name_fr": "Visite médicale d'aptitude",
+          "is_eliminatory": true,
+          "duration_minutes": null,
+          "description_ar": "فحص طبي للتأكد من القدرة البدنية على العمل بالمنصب (خاصة للمهن الميدانية والتقنية) قبل الانتداب النهائي — مقترح بالقياس على المنشآت العمومية.",
+          "description_fr": "Visite médicale d'aptitude au poste (surtout pour les métiers de terrain et techniques) avant l'embauche définitive — suggestion par analogie avec les entreprises publiques.",
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "order": 5,
+          "kind": "TRAINING",
+          "name_ar": "فترة التجربة والتكوين عند الانتداب",
+          "name_fr": "Période d'essai et formation d'intégration",
+          "is_eliminatory": true,
+          "duration_minutes": null,
+          "description_ar": "يُرجّح أن يخضع المنتدبون لفترة تجربة وتكوين أولي (السلامة، إجراءات العمل) قبل الترسيم. المدة والشروط يحددها النظام الأساسي لأعوان الستاغ — مقترح، للتثبت.",
+          "description_fr": "Les recrues passeraient une période d'essai et une formation d'intégration (sécurité, procédures) avant titularisation. Durée et modalités fixées par le statut du personnel de la STEG — suggestion, à vérifier.",
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        }
+      ],
+      "subjects": [
+        {
+          "phase_order": 2,
+          "domain": "SPECIALTY",
+          "specialty_key": "spec.electricite",
+          "name_ar": "الكهرباء والكهروتقنية",
+          "name_fr": "Électricité et électrotechnique",
+          "coefficient": null,
+          "duration_minutes": null,
+          "question_count": null,
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "phase_order": 2,
+          "domain": "SPECIALTY",
+          "specialty_key": "spec.steg.energetique",
+          "name_ar": "الطاقيات والآلات الحرارية",
+          "name_fr": "Énergétique et machines thermiques",
+          "coefficient": null,
+          "duration_minutes": null,
+          "question_count": null,
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "phase_order": 2,
+          "domain": "SPECIALTY",
+          "specialty_key": "spec.steg.entreprise-energie",
+          "name_ar": "الستاغ وقطاع الطاقة في تونس",
+          "name_fr": "La STEG et le secteur énergétique tunisien",
+          "coefficient": null,
+          "duration_minutes": null,
+          "question_count": null,
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "phase_order": 2,
+          "domain": "SPECIALTY",
+          "specialty_key": "spec.steg.gaz",
+          "name_ar": "الغاز الطبيعي: الشبكات والسلامة",
+          "name_fr": "Gaz naturel : réseaux et sécurité",
+          "coefficient": null,
+          "duration_minutes": null,
+          "question_count": null,
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "phase_order": 2,
+          "domain": "NUMERICAL",
+          "specialty_key": null,
+          "name_ar": "الحساب والعمليات العددية",
+          "name_fr": "Calcul et aptitude numérique",
+          "coefficient": null,
+          "duration_minutes": null,
+          "question_count": null,
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "phase_order": 2,
+          "domain": "LOGIC",
+          "specialty_key": null,
+          "name_ar": "المنطق والاستدلال",
+          "name_fr": "Logique et raisonnement",
+          "coefficient": null,
+          "duration_minutes": null,
+          "question_count": null,
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "phase_order": 2,
+          "domain": "FRENCH",
+          "specialty_key": null,
+          "name_ar": "اللغة الفرنسية",
+          "name_fr": "Langue française",
+          "coefficient": null,
+          "duration_minutes": null,
+          "question_count": null,
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "phase_order": 2,
+          "domain": "ENGLISH",
+          "specialty_key": null,
+          "name_ar": "اللغة الإنجليزية (تقنية)",
+          "name_fr": "Anglais (technique)",
+          "coefficient": null,
+          "duration_minutes": null,
+          "question_count": null,
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        }
+      ],
+      "physical_tests": [],
+      "required_documents": [
+        {
+          "text_ar": "مطبوعة التسجيل (أو وصل التسجيل عن بعد) ممضاة",
+          "text_fr": "Fiche/accusé d'inscription (en ligne) signé",
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "text_ar": "نسخة من بطاقة التعريف الوطنية",
+          "text_fr": "Copie de la carte d'identité nationale (CIN)",
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "text_ar": "نسخة مطابقة للأصل من شهادة المهندس وكشوف الأعداد",
+          "text_fr": "Copie conforme du diplôme d'ingénieur et des relevés de notes",
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "text_ar": "بطاقة عدد 3 (السوابق العدلية) حديثة",
+          "text_fr": "Bulletin n° 3 (extrait du casier judiciaire) récent",
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "text_ar": "شهادة طبية في القدرة على العمل",
+          "text_fr": "Certificat médical d'aptitude au travail",
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "text_ar": "شهادة في الوضعية تجاه الخدمة الوطنية (للذكور) إن طُلبت",
+          "text_fr": "Attestation de situation vis-à-vis du service national (candidats masculins), si exigée",
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "text_ar": "شهادة معادلة للشهادات الأجنبية",
+          "text_fr": "Attestation d'équivalence pour les diplômes étrangers",
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "text_ar": "سيرة ذاتية",
+          "text_fr": "Curriculum vitae",
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        }
+      ],
+      "blueprint": {
+        "total_minutes": 180,
+        "fidelity": "APPROXIMATED",
+        "sections": [
+          {
+            "domain": "SPECIALTY",
+            "specialty_key": "spec.electricite",
+            "count": 20,
+            "minutes": 50
+          },
+          {
+            "domain": "SPECIALTY",
+            "specialty_key": "spec.steg.energetique",
+            "count": 10,
+            "minutes": 25
+          },
+          {
+            "domain": "SPECIALTY",
+            "specialty_key": "spec.steg.entreprise-energie",
+            "count": 10,
+            "minutes": 15
+          },
+          {
+            "domain": "SPECIALTY",
+            "specialty_key": "spec.steg.gaz",
+            "count": 5,
+            "minutes": 10
+          },
+          {
+            "domain": "NUMERICAL",
+            "specialty_key": null,
+            "count": 10,
+            "minutes": 20
+          },
+          {
+            "domain": "LOGIC",
+            "specialty_key": null,
+            "count": 10,
+            "minutes": 20
+          },
+          {
+            "domain": "FRENCH",
+            "specialty_key": null,
+            "count": 10,
+            "minutes": 20
+          },
+          {
+            "domain": "ENGLISH",
+            "specialty_key": null,
+            "count": 10,
+            "minutes": 20
+          }
+        ]
+      }
+    }
+  ],
+  "specialty_syllabus": [
+    {
+      "key": "spec.steg.entreprise-energie",
+      "parent_key": null,
+      "level": "UNIT",
+      "title_ar": "الستاغ وقطاع الطاقة في تونس",
+      "title_fr": "La STEG et le secteur énergétique tunisien",
+      "scope": "SUGGESTED",
+      "source_key": null,
+      "objectives": [
+        {
+          "key": "spec.steg.entreprise-energie.o1",
+          "text_ar": "معرفة الصفة القانونية للستاغ (مؤسسة عمومية ذات صبغة صناعية وتجارية أُحدثت سنة 1962)، سلطة الإشراف ومهامها: إنتاج الكهرباء ونقلها وتوزيعها، ونقل الغاز الطبيعي وتوزيعه",
+          "text_fr": "Connaître le statut de la STEG (établissement public à caractère industriel et commercial créé en 1962), sa tutelle et ses missions : production, transport et distribution de l'électricité ; transport et distribution du gaz naturel"
+        },
+        {
+          "key": "spec.steg.entreprise-energie.o2",
+          "text_ar": "معرفة التنظيم العام للمؤسسة: الإدارات المركزية، أقاليم التوزيع، مراكز الإنتاج وشبكة النقل",
+          "text_fr": "Connaître l'organisation générale : directions centrales, districts de distribution, centrales de production et réseau de transport"
+        },
+        {
+          "key": "spec.steg.entreprise-energie.o3",
+          "text_ar": "فهم رهانات القطاع: تزايد الطلب، ذروة الاستهلاك الصيفية، تبعية إنتاج الكهرباء للغاز الطبيعي، الوضعية المالية والمستحقات غير المستخلصة",
+          "text_fr": "Comprendre les enjeux du secteur : croissance de la demande, pointe estivale, dépendance de la production électrique au gaz naturel, situation financière et impayés"
+        }
+      ]
+    },
+    {
+      "key": "spec.steg.entreprise-energie.chaine-electrique",
+      "parent_key": "spec.steg.entreprise-energie",
+      "level": "TOPIC",
+      "title_ar": "سلسلة الكهرباء: من الإنتاج إلى العداد",
+      "title_fr": "La chaîne électrique : de la production au compteur",
+      "scope": "SUGGESTED",
+      "source_key": null,
+      "objectives": [
+        {
+          "key": "spec.steg.entreprise-energie.chaine-electrique.o1",
+          "text_ar": "التمييز بين أنواع محطات الإنتاج: البخارية، التوربينات الغازية، الدورة المركبة، الطاقات المتجددة",
+          "text_fr": "Distinguer les types de centrales : à vapeur, turbines à gaz, cycle combiné, renouvelables"
+        },
+        {
+          "key": "spec.steg.entreprise-energie.chaine-electrique.o2",
+          "text_ar": "فهم مستويات الجهد (جهد عال جدا، متوسط، منخفض) ودور محطات التحويل",
+          "text_fr": "Comprendre les niveaux de tension (HTB, HTA, BT) et le rôle des postes de transformation"
+        },
+        {
+          "key": "spec.steg.entreprise-energie.chaine-electrique.o3",
+          "text_ar": "فهم دور مركز القيادة الوطني في توازن الإنتاج والاستهلاك والربط الكهربائي مع البلدان المجاورة",
+          "text_fr": "Comprendre le rôle du dispatching national dans l'équilibre production–consommation et les interconnexions avec les pays voisins"
+        }
+      ]
+    },
+    {
+      "key": "spec.steg.entreprise-energie.transition",
+      "parent_key": "spec.steg.entreprise-energie",
+      "level": "TOPIC",
+      "title_ar": "الانتقال الطاقي والطاقات المتجددة",
+      "title_fr": "Transition énergétique et énergies renouvelables",
+      "scope": "SUGGESTED",
+      "source_key": null,
+      "objectives": [
+        {
+          "key": "spec.steg.entreprise-energie.transition.o1",
+          "text_ar": "معرفة أنواع الطاقات المتجددة (شمسية فولطاضوئية، رياح) ومبادئ الإنتاج الذاتي",
+          "text_fr": "Connaître les filières renouvelables (solaire photovoltaïque, éolien) et les principes de l'autoproduction"
+        },
+        {
+          "key": "spec.steg.entreprise-energie.transition.o2",
+          "text_ar": "فهم أهداف المخطط الشمسي التونسي ومشاريع الربط الكهربائي (مثل مشروع إلمد تونس–إيطاليا) — أرقام للتثبت",
+          "text_fr": "Comprendre les objectifs du plan solaire tunisien et les projets d'interconnexion (ex. projet ELMED Tunisie–Italie) — chiffres à vérifier"
+        },
+        {
+          "key": "spec.steg.entreprise-energie.transition.o3",
+          "text_ar": "معرفة مبادئ النجاعة الطاقية ودور الوكالة الوطنية للتحكم في الطاقة",
+          "text_fr": "Connaître les principes de l'efficacité énergétique et le rôle de l'Agence nationale pour la maîtrise de l'énergie (ANME)"
+        }
+      ]
+    },
+    {
+      "key": "spec.steg.clientele",
+      "parent_key": null,
+      "level": "UNIT",
+      "title_ar": "قيس الاستهلاك والفوترة والعلاقة مع الحرفاء",
+      "title_fr": "Relève, facturation et relation clientèle",
+      "scope": "SUGGESTED",
+      "source_key": null,
+      "objectives": [
+        {
+          "key": "spec.steg.clientele.o1",
+          "text_ar": "قراءة مؤشرات عداد الكهرباء (كيلوواط ساعة) وعداد الغاز (متر مكعب) واحتساب الاستهلاك بين قراءتين",
+          "text_fr": "Lire les index d'un compteur électrique (kWh) et gaz (m³) et calculer la consommation entre deux relèves"
+        },
+        {
+          "key": "spec.steg.clientele.o2",
+          "text_ar": "احتساب فاتورة مبسطة: استهلاك حسب الشرائح × التعريفة + الأداءات والمعاليم + الأداء على القيمة المضافة",
+          "text_fr": "Calculer une facture simplifiée : consommation par tranches × tarif + redevances et taxes + TVA"
+        },
+        {
+          "key": "spec.steg.clientele.o3",
+          "text_ar": "معرفة إجراءات الاشتراك والربط وفك الربط واستخلاص الديون وحقوق الحريف",
+          "text_fr": "Connaître les procédures d'abonnement, de branchement, de coupure, de recouvrement et les droits du client"
+        },
+        {
+          "key": "spec.steg.clientele.o4",
+          "text_ar": "حسن استقبال الحريف والتواصل معه ومعالجة الشكايات",
+          "text_fr": "Accueillir le client, communiquer et traiter les réclamations"
+        }
+      ]
+    },
+    {
+      "key": "spec.steg.gaz",
+      "parent_key": null,
+      "level": "UNIT",
+      "title_ar": "الغاز الطبيعي: الشبكات والسلامة",
+      "title_fr": "Gaz naturel : réseaux et sécurité",
+      "scope": "SUGGESTED",
+      "source_key": null,
+      "objectives": [
+        {
+          "key": "spec.steg.gaz.o1",
+          "text_ar": "معرفة خصائص الغاز الطبيعي (الميثان، أخف من الهواء، حدود الانفجار، إضافة الرائحة) والفرق بينه وبين غاز البترول المسيل",
+          "text_fr": "Connaître les propriétés du gaz naturel (méthane, plus léger que l'air, limites d'explosivité, odorisation) et la différence avec le GPL"
+        },
+        {
+          "key": "spec.steg.gaz.o2",
+          "text_ar": "فهم بنية شبكات نقل الغاز وتوزيعه (الضغط العالي والمتوسط والمنخفض، محطات تخفيض الضغط)",
+          "text_fr": "Comprendre la structure des réseaux de transport et de distribution du gaz (haute, moyenne, basse pression ; postes de détente)"
+        },
+        {
+          "key": "spec.steg.gaz.o3",
+          "text_ar": "معرفة مصادر تزويد تونس بالغاز الطبيعي (الإنتاج الوطني وأنبوب الغاز العابر الجزائر–إيطاليا) — أرقام للتثبت",
+          "text_fr": "Connaître les sources d'approvisionnement de la Tunisie en gaz naturel (production nationale et gazoduc transméditerranéen Algérie–Italie) — chiffres à vérifier"
+        },
+        {
+          "key": "spec.steg.gaz.o4",
+          "text_ar": "السلوك الواجب اتباعه عند تسرب الغاز: عدم إشعال أي شرارة، التهوئة، غلق الصمام، إخلاء المكان وطلب التدخل",
+          "text_fr": "Conduite à tenir en cas de fuite de gaz : aucune flamme ni étincelle, aérer, fermer la vanne, évacuer et appeler les secours"
+        }
+      ]
+    },
+    {
+      "key": "spec.steg.energetique",
+      "parent_key": null,
+      "level": "UNIT",
+      "title_ar": "الطاقيات والآلات الحرارية",
+      "title_fr": "Énergétique et machines thermiques",
+      "scope": "SUGGESTED",
+      "source_key": null,
+      "objectives": [
+        {
+          "key": "spec.steg.energetique.o1",
+          "text_ar": "تطبيق مبادئ الديناميكا الحرارية على دورات رانكين وبرايتون والدورة المركبة واحتساب المردود",
+          "text_fr": "Appliquer la thermodynamique aux cycles de Rankine, de Brayton et au cycle combiné et calculer un rendement"
+        },
+        {
+          "key": "spec.steg.energetique.o2",
+          "text_ar": "فهم اشتغال التوربينات والمولدات والمحولات في محطات الإنتاج",
+          "text_fr": "Comprendre le fonctionnement des turbines, alternateurs et transformateurs des centrales"
+        },
+        {
+          "key": "spec.steg.energetique.o3",
+          "text_ar": "معرفة أسس الصيانة الوقائية والتصحيحية ومؤشرات الموثوقية",
+          "text_fr": "Connaître les bases de la maintenance préventive et corrective et les indicateurs de fiabilité"
+        }
+      ]
+    },
+    {
+      "key": "spec.steg.securite-sites",
+      "parent_key": null,
+      "level": "UNIT",
+      "title_ar": "حراسة المنشآت وتأمينها",
+      "title_fr": "Gardiennage et sécurité des installations",
+      "scope": "SUGGESTED",
+      "source_key": null,
+      "objectives": [
+        {
+          "key": "spec.steg.securite-sites.o1",
+          "text_ar": "مراقبة الدخول والخروج للأشخاص والعربات وتسجيلها",
+          "text_fr": "Contrôler et enregistrer les entrées et sorties des personnes et des véhicules"
+        },
+        {
+          "key": "spec.steg.securite-sites.o2",
+          "text_ar": "القيام بالدوريات وتحرير تقرير حادث أو محضر في دفتر المداومة",
+          "text_fr": "Effectuer des rondes et rédiger un rapport d'incident ou une consigne sur la main courante"
+        },
+        {
+          "key": "spec.steg.securite-sites.o3",
+          "text_ar": "التصرف عند التسلل أو الحريق أو الحادث الكهربائي: الإنذار، عدم الاقتراب من التجهيزات تحت الجهد، إعلام الأمن والحماية المدنية",
+          "text_fr": "Réagir à une intrusion, un incendie ou un accident électrique : alerter, ne pas approcher les équipements sous tension, prévenir la police et la protection civile"
+        },
+        {
+          "key": "spec.steg.securite-sites.o4",
+          "text_ar": "معرفة حدود صلاحيات عون الحراسة واحترام الحقوق والحريات",
+          "text_fr": "Connaître les limites des prérogatives d'un agent de surveillance et respecter les droits et libertés"
+        }
+      ]
+    },
+    {
+      "key": "spec.steg.hygiene-proprete",
+      "parent_key": null,
+      "level": "UNIT",
+      "title_ar": "النظافة والصحة والسلامة المهنية",
+      "title_fr": "Propreté, hygiène et sécurité au travail",
+      "scope": "SUGGESTED",
+      "source_key": null,
+      "objectives": [
+        {
+          "key": "spec.steg.hygiene-proprete.o1",
+          "text_ar": "استعمال مواد التنظيف وجرعاتها وقراءة رموز الخطر على العبوات",
+          "text_fr": "Utiliser les produits de nettoyage et leurs dosages, lire les pictogrammes de danger des emballages"
+        },
+        {
+          "key": "spec.steg.hygiene-proprete.o2",
+          "text_ar": "ارتداء معدات الوقاية الفردية وفرز النفايات",
+          "text_fr": "Porter les équipements de protection individuelle et trier les déchets"
+        },
+        {
+          "key": "spec.steg.hygiene-proprete.o3",
+          "text_ar": "احترام قواعد السلامة في المحلات التقنية: عدم لمس التجهيزات الكهربائية، احترام المناطق الممنوعة والإشارات",
+          "text_fr": "Respecter les règles de sécurité dans les locaux techniques : ne pas toucher aux équipements électriques, respecter les zones interdites et la signalisation"
+        }
+      ]
+    }
+  ],
+  "past_exams": [],
+  "tips_ar": [
+    "تابع بلاغات الانتداب على الموقع الرسمي للستاغ (www.steg.com.tn) وقنواتها الرسمية فقط، واحذر الإعلانات المزيفة وكل من يطلب مالا مقابل «حجز» خطة.",
+    "آجال التسجيل قصيرة (حوالي ثلاثة أسابيع بين الإعلان وآخر أجل في دورة الأعوان 2026 حسب الصحافة): جهّز مسبقا نسخة بطاقة التعريف والشهادة وكشوف الأعداد وبطاقة عدد 3 حديثة.",
+    "تحقق في البلاغ من السن القصوى وتاريخ احتسابها ومن قائمة الاختصاصات المقبولة ومعادلة الشهادات الأجنبية قبل التسجيل.",
+    "للمناصب التقنية: راجع أساسيات الكهرباء (قانون أوم، القدرة الفعلية والردية والظاهرية، معامل القدرة، التيار ثلاثي الطور، المحولات، الحماية من الصعق، عزل الدارة قبل التدخل).",
+    "تدرّب على قراءة مؤشرات العداد واحتساب فاتورة مبسطة حسب الشرائح، فهي مهارة أساسية في المؤسسة.",
+    "اعرف المؤسسة: مهام الستاغ، سلسلة الإنتاج والنقل والتوزيع، الغاز الطبيعي، الطاقات المتجددة؛ أسئلة متكررة في المقابلة.",
+    "لأعوان الحراسة: تدرّب على تحرير تقرير حادث قصير وواضح بالعربية وعلى ردود الفعل عند الحريق أو التسلل.",
+    "للإطارات والمهندسين: حضّر عرضا قصيرا (دقيقتان) عن مسارك ومشروعك المهني وصلته بالانتقال الطاقي، وراجع المصطلحات التقنية بالفرنسية والإنجليزية."
+  ],
+  "tips_fr": [
+    "Suivez les avis de recrutement uniquement sur le site officiel de la STEG (www.steg.com.tn) et ses canaux officiels ; méfiez-vous des fausses annonces et de toute demande d'argent pour « réserver » un poste.",
+    "Les délais d'inscription sont courts (environ trois semaines entre l'annonce et la clôture pour la session agents 2026, selon la presse) : préparez à l'avance copie de la CIN, diplôme, relevés de notes et bulletin n° 3 récent.",
+    "Vérifiez dans l'avis l'âge maximum et sa date de référence, la liste des spécialités acceptées et l'équivalence des diplômes étrangers avant de vous inscrire.",
+    "Postes techniques : révisez les bases de l'électricité (loi d'Ohm, puissances active/réactive/apparente, facteur de puissance, triphasé, transformateurs, protection contre les contacts, consignation avant intervention).",
+    "Entraînez-vous à lire des index de compteur et à calculer une facture simplifiée par tranches : c'est une compétence de base dans l'entreprise.",
+    "Connaissez l'entreprise : missions de la STEG, chaîne production–transport–distribution, gaz naturel, renouvelables ; questions fréquentes à l'entretien.",
+    "Agents de surveillance : entraînez-vous à rédiger un court rapport d'incident clair en arabe et aux réflexes face à un incendie ou une intrusion.",
+    "Cadres et ingénieurs : préparez une présentation de deux minutes de votre parcours et de votre projet professionnel en lien avec la transition énergétique, et révisez le vocabulaire technique en français et en anglais."
+  ],
+  "research_notes": "LIMITE MÉTHODOLOGIQUE MAJEURE (2026-10-07) : le quota WebSearch partagé était épuisé dès la première requête de cette passe (« 200 WebSearch calls per turn ») et WebFetch est refusé par le proxy (EGRESS_BLOCKED) pour tous les domaines testés (www.lapresse.tn, www.steg.com.tn, www.concours.gov.tn, www.tunisienumerique.com, www.orientini.com, www.legislation.tn, fr.wikipedia.org) ; recrutement.steg.com.tn ne résout pas (ENOTFOUND). AUCUNE page n'a été lue directement. Les seuls faits non suggérés proviennent du journal de recherche consigné le même jour par l'équipe (docs/research/01-market-raw.md, section « Public companies ») et de content/competitions/_openings.json, qui citent l'URL s1. C'est pourquoi TOUS les faits portent needs_verification=true et aucun source_quote n'est fourni. FAITS PRESSE À CONFIRMER SUR L'AVIS OFFICIEL : (1) Session 2026 agents (s1) — concours externes « sur dossiers et épreuves », 494 postes = 194 agents de nettoyage + 300 agents de surveillance, clôture des inscriptions le 27/05/2026 ; INCONNUS : date d'ouverture des inscriptions, plateforme, niveau d'instruction exigé, limites d'âge, répartition régionale, nature des épreuves, date des épreuves, résultats, nombre de candidats. Statut « CLOSED » déduit de la date limite dépassée ; l'état réel (épreuves passées, résultats publiés) est inconnu. (2) Concours de cadres — le journal de recherche indique « cadres concours (written Feb 2026) » dans la même ligne que s1 ; rattachement à l'article s1, date exacte, grades, spécialités, nombre de postes et inclusion ou non des ingénieurs NON CONFIRMÉS. SUGGESTIONS ÉDITORIALES (source_key=null ou LOW) : postes « agent d'exécution technique », « technicien supérieur » et « ingénieur » proposés car catégories classiques de recrutement à la STEG, sans session 2023-2026 confirmée ; niveaux de diplôme retenus comme hypothèses inclusives (primaire pour nettoyage, 9e année pour surveillance, CAP/BTP pour agents techniques, BTS/licence appliquée pour techniciens, licence/mastère pour cadres, ingénieur) ; min_age=18 supposé, max_age laissé à null faute de donnée ; genders M/F faute d'indication contraire (à vérifier surtout pour la surveillance) ; toutes les phases (présélection sur dossier, écrit, épreuve pratique/aptitude en hauteur pour les électriciens, entretien, visite médicale, période d'essai) ; toutes les matières (coefficients, durées et nombres de questions inconnus) ; liste des pièces à fournir ; blueprints tous APPROXIMATED. Hypothèse de contexte à vérifier : le recrutement de 2026 d'agents de nettoyage et de surveillance pourrait être lié à l'interdiction de la sous-traitance de main-d'œuvre (révision du Code du travail de 2025, loi n° 2025-9 du 21 mai 2025 selon nos connaissances — référence JORT à confirmer), avec une éventuelle priorité aux anciens travailleurs sous-traités ; rien ne le confirme pour la STEG. SYLLABUS : toutes les unités spec.steg.* sont SUGGESTED (aucun programme officiel trouvé). Les éléments de culture d'entreprise (STEG créée en 1962, EPIC sous tutelle du ministère de l'Industrie, des Mines et de l'Énergie ; gazoduc transméditerranéen ; projet ELMED ; plan solaire tunisien) viennent de connaissances générales, non vérifiées dans cette passe : dates, chiffres et objectifs à confirmer avant publication. Aucune ANNALE (officielle ou communautaire) trouvée ; past_exams vide. Aucune épreuve physique ni barème connus. À FAIRE PAR L'ÉQUIPE ADMIN : retrouver l'avis officiel 2026 sur steg.com.tn (ou sa page Facebook officielle) et relever niveau d'instruction, âge, documents, nature et date des épreuves, répartition par gouvernorat ; identifier l'avis du concours de cadres (écrit février 2026) et la liste des grades/spécialités ; vérifier si la STEG publie aussi sur concours.gov.tn ; chercher des sessions 2023-2025 (ingénieurs, techniciens, agents) ; rechercher des annales communautaires (groupes Facebook de candidats) ; relever le nombre de candidats si publié."
+}

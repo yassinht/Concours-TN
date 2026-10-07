@@ -1,0 +1,1333 @@
+{
+ "family": {
+  "slug": "prisons-reeducation",
+  "field": "SECURITY",
+  "organization": {
+   "slug": "cgpr",
+   "name_ar": "الهيئة العامة للسجون والإصلاح",
+   "name_fr": "Comité général des prisons et de la rééducation (CGPR)",
+   "ministry_fr": "Ministère de la Justice",
+   "website": "https://www.justice.gov.tn"
+  },
+  "name_ar": "مناظرات الانتداب بسلك أعوان السجون والإصلاح (عرفاء وضباط)",
+  "name_fr": "Concours de recrutement du corps des agents des prisons et de la rééducation (caporaux et officiers)",
+  "description_ar": "مناظرات خارجية تنظمها وزارة العدل لفائدة الهيئة العامة للسجون والإصلاح لانتداب أعوان (رتبة عريف) وضباط يعملون في السجون ومراكز إصلاح الأطفال الجانحين: حراسة المودعين وتأمين نقلهم وحفظ الأمن والانضباط داخل الوحدات السجنية والمساهمة في برامج الإصلاح وإعادة الإدماج. حسب ملخص إعلان منشور على موقع أوريونتيني، فُتحت مناظرة لانتداب عرفاء بعنوان دورة 2025 بشرط إتمام السنة الرابعة من التعليم الثانوي وسن بين 20 و24 سنة، وكان آخر أجل للترشح 21 نوفمبر 2025 والاختبار يوم 29 مارس 2026. وحسب موزاييك أف أم تتضمن انتدابات وزارة العدل لسنة 2026 (1216 انتدابا) ما بين 446 و467 خطة تقريبا لفائدة السجون والإصلاح. تنبيه: هذه المعطيات منقولة عن ملخصات مواقع ثانوية ولم تتم مطابقتها مع البلاغ الرسمي، وبقية التفاصيل (المواد، الضوارب، الاختبارات البدنية، الوثائق، مناظرة الضباط) مقترحة بالقياس على مناظرات قوات الأمن الداخلي وتحتاج إلى تثبت.",
+  "description_fr": "Concours externes organisés par le ministère de la Justice au profit du Comité général des prisons et de la rééducation (CGPR) pour recruter des agents (grade de caporal / عريف) et des officiers affectés aux prisons et aux centres de rééducation des mineurs délinquants : garde et escorte des détenus, sécurité et discipline des établissements, participation aux programmes de réhabilitation et de réinsertion. D'après le résumé d'une annonce relayée par Orientini, un concours de caporaux (session 2025) exigeait la 4e année secondaire achevée et un âge de 20 à 24 ans, avec une date limite au 21/11/2025 et une épreuve le 29/03/2026. Selon Mosaïque FM, les 1 216 recrutements prévus en 2026 par le ministère de la Justice comprennent environ 446 à 467 postes pour les prisons et la rééducation. Attention : ces données proviennent de résumés de sites secondaires non recoupés avec l'avis officiel ; le reste (matières, coefficients, épreuves physiques, pièces, concours d'officiers) est SUGGÉRÉ par analogie avec les concours des forces de sécurité intérieure et doit être vérifié.",
+  "frequency": "ANNUAL",
+  "frequency_confidence": "LOW",
+  "popularity": 3,
+  "keywords": [
+   "السجون والإصلاح",
+   "الهيئة العامة للسجون والإصلاح",
+   "مناظرة السجون والإصلاح",
+   "مناظرة السجون",
+   "عرفاء السجون والإصلاح",
+   "عريف سجون وإصلاح",
+   "عون سجون وإصلاح",
+   "أعوان السجون",
+   "حارس سجن",
+   "ضابط سجون",
+   "ملازم سجون وإصلاح",
+   "وزارة العدل",
+   "انتدابات وزارة العدل",
+   "مراكز إصلاح الأطفال الجانحين",
+   "إعادة الإدماج",
+   "prisons et rééducation",
+   "CGPR",
+   "Comité général des prisons et de la rééducation",
+   "concours prisons Tunisie",
+   "caporal prisons",
+   "agent pénitentiaire",
+   "surveillant de prison",
+   "gardien de prison",
+   "officier pénitentiaire",
+   "administration pénitentiaire",
+   "concours ministère de la Justice",
+   "rééducation des mineurs"
+  ]
+ },
+ "sources": [
+  {
+   "key": "s1",
+   "title": "Annonce Orientini n° 16400 – concours de recrutement de caporaux des prisons et de la rééducation (session 2025) [titre reconstitué]",
+   "url": "https://orientini.com/FR/Annonces_Orientation_Formation_Emploi/16400/",
+   "publisher": "Orientini (portail d'annonces orientation / emploi)",
+   "source_type": "SECONDARY",
+   "publication_date": null,
+   "retrieved_at": "2026-10-07",
+   "confidence": "MEDIUM",
+   "notes": "Relais d'annonce du concours des caporaux (عرفاء) des prisons et de la rééducation, session 2025. PAGE NON OUVERTE dans cette passe : WebFetch refusé par le proxy du conteneur (EGRESS_BLOCKED pour orientini.com) et quota WebSearch épuisé dès la première requête. Les faits repris (4e année secondaire, 20–24 ans, date limite 21/11/2025, épreuve le 29/03/2026) proviennent du résumé de recherche consigné le même jour par l'équipe dans docs/research/01-market-raw.md (section « Prisons et rééducation »). Publication probable en octobre–novembre 2025 (identifiant proche de l'annonce police n° 16507 de novembre 2025). Titre exact, nombre de postes, genre admis, taille, plateforme et pièces à relire sur la page puis à recouper avec l'avis officiel."
+  },
+  {
+   "key": "s2",
+   "title": "وزارة العدل: 1216 انتدابا جديدا سنة 2026 بينها 100 قاض (موزاييك أف أم)",
+   "url": "https://www.mosaiquefm.net/mobile/ar/تونس-وطنية/1477524/وزارة-العدل-1216-انتدابا-جديدا-سنة-2026-بينها-100-قاض",
+   "publisher": "Mosaïque FM",
+   "source_type": "SECONDARY",
+   "publication_date": null,
+   "retrieved_at": "2026-10-07",
+   "confidence": "MEDIUM",
+   "notes": "Article relayant les recrutements 2026 du ministère de la Justice (1 216 au total, dont 100 juges). Le résumé d'équipe (docs/research/01-market-raw.md) en retient « ~446–467 » postes pour les prisons et la rééducation : la fourchette traduit une incertitude de lecture (deux chiffres différents selon les résumés), le chiffre exact et sa ventilation par grade sont à relire sur l'article. Page non ouverte (EGRESS_BLOCKED pour mosaiquefm.net). Titre repris de l'URL. Date probable : automne 2025 (discussion du budget 2026)."
+  },
+  {
+   "key": "s3",
+   "title": "Ministère de l'Intérieur – actualité n° 30310 (concours des caporaux de la Garde nationale : écrit en arabe, culture générale + QCM)",
+   "url": "https://www.interieur.gov.tn/actualite/30310/",
+   "publisher": "Ministère de l'Intérieur",
+   "source_type": "OFFICIAL",
+   "publication_date": null,
+   "retrieved_at": "2026-10-07",
+   "confidence": "LOW",
+   "notes": "Concerne la GARDE NATIONALE, pas les prisons. Utilisé UNIQUEMENT par analogie (même grade de caporal, même niveau 4e année secondaire, même tranche d'âge 20–24 ans) pour suggérer le format probable de l'écrit (sujet de culture générale + QCM, en arabe). URL repérée dans docs/research/01-market-raw.md ; page non ouverte ici. Ne prouve rien sur le concours des prisons."
+  }
+ ],
+ "editions": [
+  {
+   "year": 2025,
+   "session_label": "مناظرة خارجية لانتداب عرفاء سجون وإصلاح – دورة 2025 (آخر أجل للترشح 21 نوفمبر 2025، الاختبار 29 مارس 2026؛ عدد الخطط غير معروف) / Concours externe de recrutement de caporaux des prisons et de la rééducation – session 2025 (date limite 21/11/2025, épreuve le 29/03/2026 ; nombre de postes inconnu)",
+   "status": "EXAM_DONE",
+   "registration_open": null,
+   "registration_deadline": "2025-11-21",
+   "exam_date": "2026-03-29",
+   "positions_count": null,
+   "candidates_count": null,
+   "source_key": "s1",
+   "confidence": "MEDIUM",
+   "needs_verification": true
+  },
+  {
+   "year": 2026,
+   "session_label": "دورة متوقعة بعنوان 2026 (غير معلنة إلى غاية 07/10/2026): نحو 446–467 انتدابا مبرمجا لفائدة السجون والإصلاح ضمن 1216 انتدابا لوزارة العدل (كل الرتب، الرقم الدقيق غير مؤكد) / Session 2026 attendue (non annoncée au 07/10/2026) : environ 446–467 recrutements prévus pour les prisons et la rééducation sur 1 216 au ministère de la Justice (tous grades confondus, chiffre exact non confirmé)",
+   "status": "EXPECTED",
+   "registration_open": null,
+   "registration_deadline": null,
+   "exam_date": null,
+   "positions_count": null,
+   "candidates_count": null,
+   "source_key": "s2",
+   "confidence": "LOW",
+   "needs_verification": true
+  }
+ ],
+ "positions": [
+  {
+   "slug": "caporal",
+   "title_ar": "عريف سجون وإصلاح (عون سجون وإصلاح)",
+   "title_fr": "Caporal des prisons et de la rééducation (agent / surveillant pénitentiaire)",
+   "diploma_level": "SECONDARY",
+   "eligibility": {
+    "min_age": 20,
+    "max_age": 24,
+    "genders": [
+     "M",
+     "F"
+    ],
+    "nationality": "TN",
+    "diplomas": [
+     "SECONDARY"
+    ],
+    "specialties": [],
+    "min_height_cm_male": null,
+    "min_height_cm_female": null,
+    "marital_status": null,
+    "other_ar": [
+     "إتمام السنة الرابعة من التعليم الثانوي (مستوى الباكالوريا) حسب ملخص إعلان دورة 2025 — لم يتأكد إن كان النجاح في الباكالوريا مشترطا (يرجح لا، كما في مناظرات العرفاء بوزارة الداخلية)",
+     "السن بين 20 و24 سنة حسب ملخص إعلان دورة 2025 — تاريخ احتساب السن (يرجح غرة جانفي من سنة المناظرة) وإمكانية التمديد لمن أدى الخدمة العسكرية غير مؤكدين",
+     "[مقترح] المناظرة مفتوحة للذكور والإناث (توجد وحدات سجنية خاصة بالنساء) — يجب التثبت في كل بلاغ لأن بعض الدورات قد تخص جنسا واحدا أو تحدد حصة لكل جنس",
+     "[مقترح] شرط أدنى لطول القامة وحدة البصر محتمل بالقياس على أسلاك الأمن (مثلا 1.70 م للذكور و1.65 م للإناث، و15/20) — غير مؤكد إطلاقا للسجون والإصلاح لذلك تُرك فارغا في الحقول المهيكلة",
+     "[مقترح] الجنسية التونسية والتمتع بالحقوق المدنية وحسن السيرة والأخلاق (بطاقة عدد 3 خالية من السوابق)",
+     "[مقترح] الكفاءة البدنية والصحية للعمل بنظام الحصص ليلا ونهارا وقبول التعيين في أي وحدة سجنية بكامل تراب الجمهورية",
+     "[مقترح] القبول النهائي مشروط بنتيجة البحث الإداري وبالنجاح في التكوين الأساسي"
+    ],
+    "other_fr": [
+     "Avoir achevé la 4e année de l'enseignement secondaire (niveau bac) selon le résumé de l'annonce 2025 — non confirmé si la réussite au bac est exigée (probablement non, comme pour les caporaux du ministère de l'Intérieur)",
+     "Âge de 20 à 24 ans selon le résumé de l'annonce 2025 — date de référence (probablement le 1er janvier de l'année du concours) et éventuel report pour service militaire non confirmés",
+     "[Suggestion] Concours ouvert aux hommes et aux femmes (il existe des établissements pour femmes) — à vérifier à chaque avis, certaines sessions pouvant être réservées à un sexe ou fixer un quota",
+     "[Suggestion] Une taille minimale et une acuité visuelle sont possibles par analogie avec les corps de sécurité (ex. 1,70 m H / 1,65 m F, 15/20) — rien de confirmé pour les prisons, donc champs structurés laissés vides",
+     "[Suggestion] Nationalité tunisienne, jouissance des droits civiques, bonne conduite et moralité (bulletin n° 3 vierge)",
+     "[Suggestion] Aptitude physique et médicale au travail posté de jour comme de nuit et acceptation d'une affectation dans tout établissement du territoire",
+     "[Suggestion] Admission définitive subordonnée à l'enquête administrative et à la réussite de la formation de base"
+    ],
+    "source_key": "s1",
+    "confidence": "MEDIUM",
+    "needs_verification": true,
+    "source_quote": null
+   },
+   "phases": [
+    {
+     "order": 1,
+     "kind": "WRITTEN",
+     "name_ar": "المرحلة الأولى: الاختبار الكتابي",
+     "name_fr": "Phase 1 : épreuve écrite",
+     "is_eliminatory": true,
+     "duration_minutes": null,
+     "description_ar": "اختبار كتابي مبرمج يوم 29 مارس 2026 لدورة 2025 (حسب ملخص إعلان أوريونتيني). محتواه غير منشور في المصادر المتاحة؛ يرجح بالقياس على مناظرات العرفاء بوزارة الداخلية أن يكون باللغة العربية ويتضمن تحرير موضوع في الثقافة العامة و/أو أسئلة متعددة الاختيارات (ثقافة عامة، لغة، منطق، حقوق الإنسان ومعارف حول المؤسسة السجنية). المدة والضوارب غير معروفة.",
+     "description_fr": "Écrit programmé le 29/03/2026 pour la session 2025 (selon le résumé de l'annonce Orientini). Contenu non publié dans les sources disponibles ; par analogie avec les concours de caporaux du ministère de l'Intérieur, probablement en arabe avec un sujet de culture générale et/ou un QCM (culture générale, langue, logique, droits de l'homme, notions sur l'institution pénitentiaire). Durée et coefficients inconnus.",
+     "source_key": "s1",
+     "confidence": "MEDIUM",
+     "needs_verification": true
+    },
+    {
+     "order": 2,
+     "kind": "MEDICAL",
+     "name_ar": "الفحص الطبي وقيس الطول والبصر",
+     "name_fr": "Visite médicale, taille et acuité visuelle",
+     "is_eliminatory": true,
+     "duration_minutes": null,
+     "description_ar": "[مقترح] فحص طبي إقصائي للناجحين في الكتابي (اللياقة العامة، البصر، الطول والوزن، السلامة من الأمراض المزمنة والإدمان) وقد تطلب تحاليل تكميلية.",
+     "description_fr": "[Suggestion] Visite médicale éliminatoire pour les admissibles (aptitude générale, vision, taille et poids, absence de maladie chronique ou d'addiction), avec examens complémentaires possibles.",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "order": 3,
+     "kind": "PHYSICAL",
+     "name_ar": "الاختبارات الرياضية",
+     "name_fr": "Épreuves sportives",
+     "is_eliminatory": true,
+     "duration_minutes": null,
+     "description_ar": "[مقترح] اختبارات بدنية إقصائية بالقياس على قوات الأمن (جري سرعة، جري تحمل، قفز، تمارين قوة). لا يوجد سلم تنقيط منشور.",
+     "description_fr": "[Suggestion] Épreuves physiques éliminatoires par analogie avec les forces de sécurité (vitesse, endurance, saut, renforcement). Aucun barème publié.",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "order": 4,
+     "kind": "PSYCHOTECH",
+     "name_ar": "الاختبار النفسي التقني",
+     "name_fr": "Test psychotechnique",
+     "is_eliminatory": true,
+     "duration_minutes": null,
+     "description_ar": "[مقترح] اختبار نفسي تقني (انتباه، تركيز، استدلال، ثبات انفعالي) وقد يتبعه حوار مع أخصائي نفساني، نظرا لطبيعة العمل مع المودعين والضغط المهني.",
+     "description_fr": "[Suggestion] Test psychotechnique (attention, concentration, raisonnement, stabilité émotionnelle), éventuellement suivi d'un entretien avec un psychologue, vu le contact permanent avec les détenus et le stress du métier.",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "order": 5,
+     "kind": "ORAL",
+     "name_ar": "المقابلة الشفاهية أمام اللجنة",
+     "name_fr": "Entretien oral devant le jury",
+     "is_eliminatory": true,
+     "duration_minutes": null,
+     "description_ar": "[مقترح] مقابلة حول الدوافع والسلوك والقدرة على التصرف في مواقف داخل السجن (شجار بين مودعين، محاولة إدخال ممنوعات، رشوة) ومعرفة حقوق السجين.",
+     "description_fr": "[Suggestion] Entretien sur la motivation, le comportement et la conduite à tenir dans des situations carcérales (bagarre entre détenus, tentative d'introduction d'objets interdits, tentative de corruption) et sur les droits du détenu.",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "order": 6,
+     "kind": "FILE_REVIEW",
+     "name_ar": "البحث الإداري ودراسة الملف",
+     "name_fr": "Enquête administrative et examen du dossier",
+     "is_eliminatory": true,
+     "duration_minutes": null,
+     "description_ar": "[مقترح] بحث إداري حول سيرة المترشح وسوابقه ومطابقة الوثائق مع الشروط قبل القبول النهائي.",
+     "description_fr": "[Suggestion] Enquête administrative sur la moralité et les antécédents du candidat et contrôle des pièces avant l'admission définitive.",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "order": 7,
+     "kind": "TRAINING",
+     "name_ar": "التكوين الأساسي",
+     "name_fr": "Formation de base",
+     "is_eliminatory": true,
+     "duration_minutes": null,
+     "description_ar": "[مقترح] تكوين أساسي بالمدرسة الوطنية للسجون والإصلاح (يرجح ببرج العامري — للتثبت) يشمل التدريب البدني والقانوني والمهني؛ المدة غير مؤكدة (يرجح بضعة أشهر). يشترط النجاح فيه للتسمية في الرتبة.",
+     "description_fr": "[Suggestion] Formation de base à l'École nationale des prisons et de la rééducation (probablement à Borj El Amri — à vérifier) : instruction physique, juridique et professionnelle ; durée non confirmée (probablement quelques mois). La réussite conditionne la nomination dans le grade.",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    }
+   ],
+   "subjects": [
+    {
+     "phase_order": 1,
+     "domain": "CULTURE_GENERALE",
+     "specialty_key": null,
+     "name_ar": "تحرير موضوع في الثقافة العامة (بالعربية)",
+     "name_fr": "Rédaction d'un sujet de culture générale (en arabe)",
+     "coefficient": null,
+     "duration_minutes": null,
+     "question_count": null,
+     "source_key": "s3",
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "phase_order": 1,
+     "domain": "CULTURE_GENERALE",
+     "specialty_key": null,
+     "name_ar": "أسئلة متعددة الاختيارات في الثقافة العامة (تونس، المؤسسات، الأحداث الجارية، الثقافة العلمية)",
+     "name_fr": "QCM de culture générale (Tunisie, institutions, actualité, culture scientifique)",
+     "coefficient": null,
+     "duration_minutes": null,
+     "question_count": null,
+     "source_key": "s3",
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "phase_order": 1,
+     "domain": "ARABIC",
+     "specialty_key": null,
+     "name_ar": "اللغة العربية: قواعد، رسم، فهم نص",
+     "name_fr": "Langue arabe : grammaire, orthographe, compréhension",
+     "coefficient": null,
+     "duration_minutes": null,
+     "question_count": null,
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "phase_order": 1,
+     "domain": "FRENCH",
+     "specialty_key": null,
+     "name_ar": "اللغة الفرنسية: قواعد ومفردات",
+     "name_fr": "Langue française : grammaire et vocabulaire",
+     "coefficient": null,
+     "duration_minutes": null,
+     "question_count": null,
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "phase_order": 1,
+     "domain": "LOGIC",
+     "specialty_key": null,
+     "name_ar": "المنطق والاستدلال (متتاليات، تماثلات)",
+     "name_fr": "Logique et raisonnement (suites, analogies)",
+     "coefficient": null,
+     "duration_minutes": null,
+     "question_count": null,
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "phase_order": 1,
+     "domain": "NUMERICAL",
+     "specialty_key": null,
+     "name_ar": "الحساب الذهني والنسب المائوية",
+     "name_fr": "Calcul et pourcentages",
+     "coefficient": null,
+     "duration_minutes": null,
+     "question_count": null,
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "phase_order": 1,
+     "domain": "SPECIALTY",
+     "specialty_key": "spec.securite-droits",
+     "name_ar": "حقوق الإنسان والحريات وأخلاقيات العمل الأمني ومبادئ الإجراءات الجزائية",
+     "name_fr": "Droits de l'homme, libertés, déontologie sécuritaire et notions de procédure pénale",
+     "coefficient": null,
+     "duration_minutes": null,
+     "question_count": null,
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "phase_order": 1,
+     "domain": "SPECIALTY",
+     "specialty_key": "spec.prisons-reeducation.institution",
+     "name_ar": "الهيئة العامة للسجون والإصلاح: المهام والتنظيم والرتب",
+     "name_fr": "Le CGPR : missions, organisation, grades",
+     "coefficient": null,
+     "duration_minutes": null,
+     "question_count": null,
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "phase_order": 1,
+     "domain": "SPECIALTY",
+     "specialty_key": "spec.prisons-reeducation.cadre-juridique",
+     "name_ar": "نظام السجون وتنفيذ العقوبات وحقوق المودعين وواجباتهم",
+     "name_fr": "Régime des prisons, exécution des peines, droits et obligations des détenus",
+     "coefficient": null,
+     "duration_minutes": null,
+     "question_count": null,
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "phase_order": 4,
+     "domain": "PSYCHOTECH",
+     "specialty_key": null,
+     "name_ar": "اختبارات نفسية تقنية (انتباه، ترميز، حكم ظرفي)",
+     "name_fr": "Tests psychotechniques (attention, codage, jugement situationnel)",
+     "coefficient": null,
+     "duration_minutes": null,
+     "question_count": null,
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "phase_order": 5,
+     "domain": "CULTURE_GENERALE",
+     "specialty_key": null,
+     "name_ar": "المقابلة الشفاهية: التقديم الذاتي والدوافع والثقافة العامة",
+     "name_fr": "Entretien oral : présentation, motivation, culture générale",
+     "coefficient": null,
+     "duration_minutes": null,
+     "question_count": null,
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "phase_order": 5,
+     "domain": "SPECIALTY",
+     "specialty_key": "spec.prisons-reeducation.metier",
+     "name_ar": "مواقف مهنية داخل الوحدة السجنية (الأمن، المعاملة الإنسانية، الإدماج)",
+     "name_fr": "Mises en situation professionnelles (sécurité, traitement humain, réinsertion)",
+     "coefficient": null,
+     "duration_minutes": null,
+     "question_count": null,
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    }
+   ],
+   "physical_tests": [
+    {
+     "name_ar": "جري السرعة",
+     "name_fr": "Course de vitesse",
+     "details_ar": "[مقترح] 80 م أو 100 م بالقياس على مناظرات قوات الأمن الداخلي. لا يوجد سلم تنقيط منشور للسجون والإصلاح.",
+     "details_fr": "[Suggestion] 80 m ou 100 m par analogie avec les concours des forces de sécurité intérieure. Aucun barème publié pour les prisons.",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "name_ar": "جري التحمل",
+     "name_fr": "Course d'endurance",
+     "details_ar": "[مقترح] نحو 1000 م للذكور و600 إلى 800 م للإناث (أرقام تدريبية وليست رسمية).",
+     "details_fr": "[Suggestion] Environ 1000 m pour les hommes et 600 à 800 m pour les femmes (repères d'entraînement, non officiels).",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "name_ar": "القفز",
+     "name_fr": "Saut",
+     "details_ar": "[مقترح] قفز طولي أو عالي حسب ما يحدده البلاغ أو لجنة الاختبار.",
+     "details_fr": "[Suggestion] Saut en longueur ou en hauteur selon l'avis ou le jury.",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "name_ar": "تمارين القوة",
+     "name_fr": "Renforcement musculaire",
+     "details_ar": "[مقترح] الجذب على العقلة (ذكور) و/أو الانبطاح المائل (الدفع) وتمارين البطن خلال مدة محددة.",
+     "details_fr": "[Suggestion] Tractions à la barre (hommes) et/ou pompes et abdominaux en temps limité.",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    }
+   ],
+   "required_documents": [
+    {
+     "text_ar": "[مقترح] مطلب ترشح باسم السيد وزير العدل أو استمارة الترشح المستخرجة من منصة التسجيل المذكورة في البلاغ، ممضاة من المترشح",
+     "text_fr": "[Suggestion] Demande de candidature adressée au ministre de la Justice ou formulaire imprimé depuis la plateforme indiquée dans l'avis, signé par le candidat",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "text_ar": "[مقترح] نسخة من بطاقة التعريف الوطنية",
+     "text_fr": "[Suggestion] Copie de la carte d'identité nationale",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "text_ar": "[مقترح] ما يثبت إتمام السنة الرابعة من التعليم الثانوي (بطاقة أعداد أو شهادة حضور) أو نسخة من شهادة الباكالوريا",
+     "text_fr": "[Suggestion] Justificatif d'achèvement de la 4e année secondaire (bulletin de notes ou attestation de scolarité) ou copie du diplôme du baccalauréat",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "text_ar": "[مقترح] بطاقة عدد 3 لم يمض على تاريخ تسليمها 3 أشهر أو وصل في طلبها",
+     "text_fr": "[Suggestion] Bulletin n° 3 de moins de 3 mois ou récépissé de la demande",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "text_ar": "[مقترح] مضمون ولادة",
+     "text_fr": "[Suggestion] Extrait de naissance",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "text_ar": "[مقترح] شهادة طبية تثبت السلامة من الأمراض",
+     "text_fr": "[Suggestion] Certificat médical d'aptitude",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "text_ar": "[مقترح] صور شمسية حديثة وظروف خالصة معلوم البريد تحمل عنوان المترشح",
+     "text_fr": "[Suggestion] Photos d'identité récentes et enveloppes timbrées libellées à l'adresse du candidat",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "text_ar": "[مقترح] شهادة في الوضعية تجاه الخدمة الوطنية (للذكور، عند الاقتضاء أو للانتفاع بتمديد السن)",
+     "text_fr": "[Suggestion] Attestation de situation vis-à-vis du service national (hommes, le cas échéant ou pour bénéficier d'un report d'âge)",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    }
+   ],
+   "blueprint": {
+    "total_minutes": 100,
+    "fidelity": "APPROXIMATED",
+    "sections": [
+     {
+      "domain": "CULTURE_GENERALE",
+      "specialty_key": null,
+      "count": 25,
+      "minutes": 25
+     },
+     {
+      "domain": "ARABIC",
+      "specialty_key": null,
+      "count": 10,
+      "minutes": 12
+     },
+     {
+      "domain": "FRENCH",
+      "specialty_key": null,
+      "count": 8,
+      "minutes": 10
+     },
+     {
+      "domain": "LOGIC",
+      "specialty_key": null,
+      "count": 10,
+      "minutes": 12
+     },
+     {
+      "domain": "NUMERICAL",
+      "specialty_key": null,
+      "count": 5,
+      "minutes": 8
+     },
+     {
+      "domain": "SPECIALTY",
+      "specialty_key": "spec.securite-droits",
+      "count": 8,
+      "minutes": 10
+     },
+     {
+      "domain": "SPECIALTY",
+      "specialty_key": "spec.prisons-reeducation.cadre-juridique",
+      "count": 6,
+      "minutes": 7
+     },
+     {
+      "domain": "SPECIALTY",
+      "specialty_key": "spec.prisons-reeducation.institution",
+      "count": 4,
+      "minutes": 4
+     },
+     {
+      "domain": "PSYCHOTECH",
+      "specialty_key": null,
+      "count": 10,
+      "minutes": 12
+     }
+    ]
+   }
+  },
+  {
+   "slug": "officier",
+   "title_ar": "ضابط سجون وإصلاح (ملازم / ملازم أول)",
+   "title_fr": "Officier des prisons et de la rééducation (sous-lieutenant / lieutenant)",
+   "diploma_level": "LICENCE",
+   "eligibility": {
+    "min_age": null,
+    "max_age": null,
+    "genders": [
+     "M",
+     "F"
+    ],
+    "nationality": "TN",
+    "diplomas": [
+     "LICENCE",
+     "MASTER"
+    ],
+    "specialties": [
+     "droit / الحقوق",
+     "psychologie / علم النفس",
+     "sociologie / علم الاجتماع",
+     "travail social / الخدمة الاجتماعية",
+     "sciences de l'éducation / علوم التربية",
+     "sciences et techniques des activités physiques et sportives / علوم وتقنيات الأنشطة البدنية والرياضية",
+     "informatique / الإعلامية"
+    ],
+    "min_height_cm_male": null,
+    "min_height_cm_female": null,
+    "marital_status": null,
+    "other_ar": [
+     "[مقترح] شهادة الإجازة (رتبة ملازم) أو الماجستير (رتبة ملازم أول) في الاختصاصات المحددة بالبلاغ؛ الاختصاصات المدرجة أعلاه تقديرية بالنظر إلى مهام الإصلاح والإحاطة النفسية والاجتماعية بالمودعين",
+     "[مقترح] حد أقصى للسن غير معروف (يرجح بين 28 و30 سنة بالقياس على مناظرات الضباط الأخرى) — تُرك فارغا في الحقول المهيكلة إلى حين صدور البلاغ",
+     "[مقترح] شروط الطول والبصر واللياقة البدنية مماثلة على الأرجح لمناظرة العرفاء",
+     "[مقترح] الجنسية التونسية والحقوق المدنية وحسن السيرة والقبول بعد البحث الإداري"
+    ],
+    "other_fr": [
+     "[Suggestion] Licence (grade de sous-lieutenant) ou master (grade de lieutenant) dans les spécialités fixées par l'avis ; la liste ci-dessus est une estimation tenant compte des missions de rééducation et d'encadrement psychosocial des détenus",
+     "[Suggestion] Âge maximal inconnu (probablement 28 à 30 ans par analogie avec d'autres concours d'officiers) — champs structurés laissés vides en attendant l'avis",
+     "[Suggestion] Conditions de taille, de vision et d'aptitude physique probablement identiques à celles des caporaux",
+     "[Suggestion] Nationalité tunisienne, droits civiques, bonne moralité et admission après enquête administrative"
+    ],
+    "source_key": null,
+    "confidence": "LOW",
+    "needs_verification": true,
+    "source_quote": null
+   },
+   "phases": [
+    {
+     "order": 1,
+     "kind": "FILE_REVIEW",
+     "name_ar": "دراسة الملفات والانتقاء الأولي",
+     "name_fr": "Étude des dossiers et présélection",
+     "is_eliminatory": true,
+     "duration_minutes": null,
+     "description_ar": "[مقترح] فرز أولي للملفات حسب الشهادة والاختصاص والسن وربما معدل سنوات الدراسة.",
+     "description_fr": "[Suggestion] Présélection sur dossier selon le diplôme, la spécialité, l'âge et éventuellement les moyennes universitaires.",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "order": 2,
+     "kind": "WRITTEN",
+     "name_ar": "الاختبارات الكتابية",
+     "name_fr": "Épreuves écrites",
+     "is_eliminatory": true,
+     "duration_minutes": null,
+     "description_ar": "[مقترح] موضوع في الثقافة العامة أو في تحليل قضية مجتمعية، واختبار في المعارف القانونية والسجنية، وأسئلة متعددة الاختيارات (لغات، منطق). لم يعثر على بلاغ رسمي حديث لمناظرة الضباط.",
+     "description_fr": "[Suggestion] Dissertation de culture générale ou analyse d'une question de société, épreuve de connaissances juridiques et pénitentiaires, QCM (langues, logique). Aucun avis officiel récent trouvé pour les officiers.",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "order": 3,
+     "kind": "MEDICAL",
+     "name_ar": "الفحوص الطبية",
+     "name_fr": "Visite médicale",
+     "is_eliminatory": true,
+     "duration_minutes": null,
+     "description_ar": "[مقترح] فحص طبي إقصائي (اللياقة العامة، البصر، الطول).",
+     "description_fr": "[Suggestion] Visite médicale éliminatoire (aptitude générale, vision, taille).",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "order": 4,
+     "kind": "PHYSICAL",
+     "name_ar": "الاختبارات الرياضية",
+     "name_fr": "Épreuves sportives",
+     "is_eliminatory": true,
+     "duration_minutes": null,
+     "description_ar": "[مقترح] اختبارات بدنية إقصائية مماثلة لاختبارات العرفاء.",
+     "description_fr": "[Suggestion] Épreuves physiques éliminatoires similaires à celles des caporaux.",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "order": 5,
+     "kind": "PSYCHOTECH",
+     "name_ar": "الاختبار النفسي التقني",
+     "name_fr": "Test psychotechnique",
+     "is_eliminatory": true,
+     "duration_minutes": null,
+     "description_ar": "[مقترح] اختبار نفسي تقني وقد يتبعه تقييم نفسي معمق لقدرات القيادة والتحكم في الضغط.",
+     "description_fr": "[Suggestion] Test psychotechnique, éventuellement suivi d'une évaluation psychologique approfondie (leadership, gestion du stress).",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "order": 6,
+     "kind": "ORAL",
+     "name_ar": "الاختبار الشفاهي أمام اللجنة",
+     "name_fr": "Épreuve orale devant le jury",
+     "is_eliminatory": true,
+     "duration_minutes": null,
+     "description_ar": "[مقترح] مقابلة حول الدوافع والقيادة وإدارة الأزمات داخل المؤسسة السجنية (عصيان، إضراب جوع، فرار) والمعايير الدولية لمعاملة السجناء.",
+     "description_fr": "[Suggestion] Entretien sur la motivation, le commandement et la gestion de crise en milieu carcéral (mutinerie, grève de la faim, évasion) et les normes internationales de traitement des détenus.",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "order": 7,
+     "kind": "TRAINING",
+     "name_ar": "التكوين الأساسي للضباط",
+     "name_fr": "Formation de base des officiers",
+     "is_eliminatory": true,
+     "duration_minutes": null,
+     "description_ar": "[مقترح] تكوين أساسي بالمدرسة الوطنية للسجون والإصلاح (للتثبت) قبل التعيين؛ المدة غير مؤكدة (يرجح نحو سنة).",
+     "description_fr": "[Suggestion] Formation de base à l'École nationale des prisons et de la rééducation (à vérifier) avant affectation ; durée non confirmée (probablement environ un an).",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    }
+   ],
+   "subjects": [
+    {
+     "phase_order": 2,
+     "domain": "CULTURE_GENERALE",
+     "specialty_key": null,
+     "name_ar": "موضوع في الثقافة العامة أو تحليل قضية مجتمعية (الجريمة، الإدمان، إعادة الإدماج)",
+     "name_fr": "Dissertation de culture générale ou analyse d'une question de société (délinquance, addictions, réinsertion)",
+     "coefficient": null,
+     "duration_minutes": null,
+     "question_count": null,
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "phase_order": 2,
+     "domain": "SPECIALTY",
+     "specialty_key": "spec.prisons-reeducation.cadre-juridique",
+     "name_ar": "التشريع السجني وتنفيذ العقوبات وبدائلها وقضاء الأطفال",
+     "name_fr": "Législation pénitentiaire, exécution et alternatives aux peines, justice des mineurs",
+     "coefficient": null,
+     "duration_minutes": null,
+     "question_count": null,
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "phase_order": 2,
+     "domain": "SPECIALTY",
+     "specialty_key": "spec.prisons-reeducation.normes-internationales",
+     "name_ar": "المعايير الدولية لمعاملة السجناء ومنع التعذيب",
+     "name_fr": "Normes internationales de traitement des détenus et prévention de la torture",
+     "coefficient": null,
+     "duration_minutes": null,
+     "question_count": null,
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "phase_order": 2,
+     "domain": "SPECIALTY",
+     "specialty_key": "spec.securite-droits",
+     "name_ar": "حقوق الإنسان والحريات ومبادئ الإجراءات الجزائية",
+     "name_fr": "Droits de l'homme, libertés et notions de procédure pénale",
+     "coefficient": null,
+     "duration_minutes": null,
+     "question_count": null,
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "phase_order": 2,
+     "domain": "SPECIALTY",
+     "specialty_key": "spec.droit-administratif",
+     "name_ar": "القانون الإداري (الوظيفة العمومية، القرار الإداري، المسؤولية)",
+     "name_fr": "Droit administratif (fonction publique, acte administratif, responsabilité)",
+     "coefficient": null,
+     "duration_minutes": null,
+     "question_count": null,
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "phase_order": 2,
+     "domain": "SPECIALTY",
+     "specialty_key": "spec.droit-public",
+     "name_ar": "القانون الدستوري والمؤسسات",
+     "name_fr": "Droit constitutionnel et institutions",
+     "coefficient": null,
+     "duration_minutes": null,
+     "question_count": null,
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "phase_order": 2,
+     "domain": "SPECIALTY",
+     "specialty_key": "spec.redaction-administrative",
+     "name_ar": "التحرير الإداري (تقرير، محضر، مراسلة)",
+     "name_fr": "Rédaction administrative (rapport, procès-verbal, correspondance)",
+     "coefficient": null,
+     "duration_minutes": null,
+     "question_count": null,
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "phase_order": 2,
+     "domain": "ARABIC",
+     "specialty_key": null,
+     "name_ar": "اللغة العربية",
+     "name_fr": "Langue arabe",
+     "coefficient": null,
+     "duration_minutes": null,
+     "question_count": null,
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "phase_order": 2,
+     "domain": "FRENCH",
+     "specialty_key": null,
+     "name_ar": "اللغة الفرنسية",
+     "name_fr": "Langue française",
+     "coefficient": null,
+     "duration_minutes": null,
+     "question_count": null,
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "phase_order": 2,
+     "domain": "LOGIC",
+     "specialty_key": null,
+     "name_ar": "المنطق والاستدلال",
+     "name_fr": "Logique et raisonnement",
+     "coefficient": null,
+     "duration_minutes": null,
+     "question_count": null,
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "phase_order": 5,
+     "domain": "PSYCHOTECH",
+     "specialty_key": null,
+     "name_ar": "اختبارات نفسية تقنية",
+     "name_fr": "Tests psychotechniques",
+     "coefficient": null,
+     "duration_minutes": null,
+     "question_count": null,
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "phase_order": 6,
+     "domain": "SPECIALTY",
+     "specialty_key": "spec.prisons-reeducation.metier",
+     "name_ar": "إدارة وحدة سجنية ومواقف القيادة وإدارة الأزمات",
+     "name_fr": "Gestion d'une unité pénitentiaire, commandement et gestion de crise",
+     "coefficient": null,
+     "duration_minutes": null,
+     "question_count": null,
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    }
+   ],
+   "physical_tests": [
+    {
+     "name_ar": "جري السرعة",
+     "name_fr": "Course de vitesse",
+     "details_ar": "[مقترح] 80 م أو 100 م. لا يوجد سلم تنقيط منشور.",
+     "details_fr": "[Suggestion] 80 m ou 100 m. Aucun barème publié.",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "name_ar": "جري التحمل",
+     "name_fr": "Course d'endurance",
+     "details_ar": "[مقترح] نحو 1000 م للذكور و600 إلى 800 م للإناث (أرقام تدريبية).",
+     "details_fr": "[Suggestion] Environ 1000 m (H) et 600 à 800 m (F) (repères d'entraînement).",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "name_ar": "تمارين القوة",
+     "name_fr": "Renforcement musculaire",
+     "details_ar": "[مقترح] جذب على العقلة أو دفع وتمارين البطن.",
+     "details_fr": "[Suggestion] Tractions ou pompes et abdominaux.",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    }
+   ],
+   "required_documents": [
+    {
+     "text_ar": "[مقترح] مطلب ترشح أو استمارة مستخرجة من منصة التسجيل، ممضاة",
+     "text_fr": "[Suggestion] Demande de candidature ou formulaire imprimé depuis la plateforme d'inscription, signé",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "text_ar": "[مقترح] نسخة من بطاقة التعريف الوطنية",
+     "text_fr": "[Suggestion] Copie de la carte d'identité nationale",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "text_ar": "[مقترح] نسخة مطابقة للأصل من الشهادة العلمية (إجازة أو ماجستير) وكشوف الأعداد، وشهادة معادلة للشهائد الأجنبية",
+     "text_fr": "[Suggestion] Copie certifiée conforme du diplôme (licence ou master) et des relevés de notes, avec équivalence pour les diplômes étrangers",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "text_ar": "[مقترح] نسخة من شهادة الباكالوريا",
+     "text_fr": "[Suggestion] Copie du diplôme du baccalauréat",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "text_ar": "[مقترح] بطاقة عدد 3 لم يمض عليها 3 أشهر أو وصل في طلبها",
+     "text_fr": "[Suggestion] Bulletin n° 3 de moins de 3 mois ou récépissé",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "text_ar": "[مقترح] مضمون ولادة وشهادة طبية وصور شمسية وظروف خالصة معلوم البريد",
+     "text_fr": "[Suggestion] Extrait de naissance, certificat médical, photos d'identité et enveloppes timbrées",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    }
+   ],
+   "blueprint": {
+    "total_minutes": 140,
+    "fidelity": "APPROXIMATED",
+    "sections": [
+     {
+      "domain": "CULTURE_GENERALE",
+      "specialty_key": null,
+      "count": 20,
+      "minutes": 25
+     },
+     {
+      "domain": "ARABIC",
+      "specialty_key": null,
+      "count": 10,
+      "minutes": 12
+     },
+     {
+      "domain": "FRENCH",
+      "specialty_key": null,
+      "count": 10,
+      "minutes": 12
+     },
+     {
+      "domain": "LOGIC",
+      "specialty_key": null,
+      "count": 10,
+      "minutes": 12
+     },
+     {
+      "domain": "SPECIALTY",
+      "specialty_key": "spec.prisons-reeducation.cadre-juridique",
+      "count": 12,
+      "minutes": 15
+     },
+     {
+      "domain": "SPECIALTY",
+      "specialty_key": "spec.prisons-reeducation.normes-internationales",
+      "count": 8,
+      "minutes": 10
+     },
+     {
+      "domain": "SPECIALTY",
+      "specialty_key": "spec.securite-droits",
+      "count": 10,
+      "minutes": 12
+     },
+     {
+      "domain": "SPECIALTY",
+      "specialty_key": "spec.droit-administratif",
+      "count": 10,
+      "minutes": 12
+     },
+     {
+      "domain": "SPECIALTY",
+      "specialty_key": "spec.droit-public",
+      "count": 8,
+      "minutes": 10
+     },
+     {
+      "domain": "SPECIALTY",
+      "specialty_key": "spec.redaction-administrative",
+      "count": 5,
+      "minutes": 8
+     },
+     {
+      "domain": "PSYCHOTECH",
+      "specialty_key": null,
+      "count": 10,
+      "minutes": 12
+     }
+    ]
+   }
+  }
+ ],
+ "specialty_syllabus": [
+  {
+   "key": "spec.prisons-reeducation.institution",
+   "parent_key": null,
+   "level": "UNIT",
+   "title_ar": "الهيئة العامة للسجون والإصلاح: المهام والتنظيم والرتب",
+   "title_fr": "Le Comité général des prisons et de la rééducation : missions, organisation, grades",
+   "scope": "SUGGESTED",
+   "source_key": null,
+   "objectives": [
+    {
+     "key": "spec.prisons-reeducation.institution.o1",
+     "text_ar": "معرفة إلحاق الهيئة بوزارة العدل (منذ 2001 حسب المعطيات المتداولة — للتثبت) ومهمتيها: الحراسة والإصلاح",
+     "text_fr": "Savoir que le CGPR relève du ministère de la Justice (depuis 2001 selon les données courantes — à vérifier) et connaître sa double mission : garde et rééducation"
+    }
+   ]
+  },
+  {
+   "key": "spec.prisons-reeducation.institution.organisation",
+   "parent_key": "spec.prisons-reeducation.institution",
+   "level": "TOPIC",
+   "title_ar": "أصناف الوحدات السجنية ومراكز إصلاح الأطفال الجانحين",
+   "title_fr": "Types d'établissements pénitentiaires et centres de rééducation des mineurs",
+   "scope": "SUGGESTED",
+   "source_key": null,
+   "objectives": [
+    {
+     "key": "spec.prisons-reeducation.institution.organisation.o1",
+     "text_ar": "التمييز بين سجون الإيقاف وسجون تنفيذ العقوبات والسجون شبه المفتوحة (للتثبت في نص القانون)",
+     "text_fr": "Distinguer prisons de détention préventive, prisons d'exécution des peines et prisons semi-ouvertes (à vérifier dans la loi)"
+    },
+    {
+     "key": "spec.prisons-reeducation.institution.organisation.o2",
+     "text_ar": "معرفة دور مراكز إصلاح الأطفال الجانحين ومبدأ فصل الأطفال عن الرشد والنساء عن الرجال",
+     "text_fr": "Connaître le rôle des centres de rééducation des mineurs et le principe de séparation mineurs/majeurs et femmes/hommes"
+    },
+    {
+     "key": "spec.prisons-reeducation.institution.organisation.o3",
+     "text_ar": "معرفة دور المدرسة الوطنية للسجون والإصلاح في تكوين الأعوان والإطارات (المقر والتسمية للتثبت)",
+     "text_fr": "Connaître le rôle de l'École nationale des prisons et de la rééducation dans la formation (siège et intitulé à vérifier)"
+    }
+   ]
+  },
+  {
+   "key": "spec.prisons-reeducation.institution.statut-grades",
+   "parent_key": "spec.prisons-reeducation.institution",
+   "level": "TOPIC",
+   "title_ar": "النظام الأساسي لأعوان السجون والإصلاح والرتب",
+   "title_fr": "Statut des agents des prisons et de la rééducation et grades",
+   "scope": "SUGGESTED",
+   "source_key": null,
+   "objectives": [
+    {
+     "key": "spec.prisons-reeducation.institution.statut-grades.o1",
+     "text_ar": "معرفة النص القانوني المنظم للسلك (يرجح القانون عدد 51 لسنة 2001 المؤرخ في 3 ماي 2001 المتعلق بأعوان السجون والإصلاح والنظام الأساسي الخاص الصادر بأمر — للتثبت في الرائد الرسمي)",
+     "text_fr": "Connaître le texte régissant le corps (probablement la loi n° 2001-51 du 3 mai 2001 relative aux agents des prisons et de la rééducation et son statut particulier fixé par décret — à vérifier au JORT)"
+    },
+    {
+     "key": "spec.prisons-reeducation.institution.statut-grades.o2",
+     "text_ar": "ترتيب الرتب من عريف إلى الرتب العليا للضباط (السلم المقترح بالقياس على قوات الأمن الداخلي — للتثبت)",
+     "text_fr": "Ordonner les grades du caporal aux officiers supérieurs (échelle suggérée par analogie avec les forces de sécurité intérieure — à vérifier)"
+    },
+    {
+     "key": "spec.prisons-reeducation.institution.statut-grades.o3",
+     "text_ar": "معرفة الواجبات المهنية: الانضباط، السر المهني، الحياد، منع الإضراب وممارسة العمل النقابي في حدود القانون (للتثبت)",
+     "text_fr": "Connaître les obligations professionnelles : discipline, secret professionnel, neutralité, encadrement du droit syndical et de grève (à vérifier)"
+    }
+   ]
+  },
+  {
+   "key": "spec.prisons-reeducation.cadre-juridique",
+   "parent_key": null,
+   "level": "UNIT",
+   "title_ar": "الإطار القانوني للسجون وتنفيذ العقوبات",
+   "title_fr": "Cadre juridique des prisons et de l'exécution des peines",
+   "scope": "SUGGESTED",
+   "source_key": null,
+   "objectives": [
+    {
+     "key": "spec.prisons-reeducation.cadre-juridique.o1",
+     "text_ar": "فهم القواعد الأساسية التي تحكم الإيداع والإفراج وحقوق المودع وواجباته",
+     "text_fr": "Comprendre les règles de base de l'incarcération, de la libération et des droits et obligations du détenu"
+    }
+   ]
+  },
+  {
+   "key": "spec.prisons-reeducation.cadre-juridique.loi-prisons",
+   "parent_key": "spec.prisons-reeducation.cadre-juridique",
+   "level": "TOPIC",
+   "title_ar": "القانون المتعلق بنظام السجون",
+   "title_fr": "Loi relative à l'organisation des prisons",
+   "scope": "SUGGESTED",
+   "source_key": null,
+   "objectives": [
+    {
+     "key": "spec.prisons-reeducation.cadre-juridique.loi-prisons.o1",
+     "text_ar": "معرفة القانون عدد 52 لسنة 2001 المؤرخ في 14 ماي 2001 المتعلق بنظام السجون (للتثبت في التاريخ والرقم)",
+     "text_fr": "Connaître la loi n° 2001-52 du 14 mai 2001 relative à l'organisation des prisons (numéro et date à vérifier)"
+    },
+    {
+     "key": "spec.prisons-reeducation.cadre-juridique.loi-prisons.o2",
+     "text_ar": "تعداد حقوق المودع: الرعاية الصحية، الزيارة، المراسلة، التعليم، العمل، تقديم الشكاوى، المعاملة الإنسانية",
+     "text_fr": "Énumérer les droits du détenu : soins, visites, correspondance, instruction, travail, plaintes, traitement humain"
+    },
+    {
+     "key": "spec.prisons-reeducation.cadre-juridique.loi-prisons.o3",
+     "text_ar": "معرفة التأديب داخل السجن والضمانات المرتبطة به وإجراءات الإيداع (بطاقة إيداع، سند قانوني)",
+     "text_fr": "Connaître le régime disciplinaire et ses garanties, et les formalités d'écrou (mandat de dépôt, titre légal de détention)"
+    }
+   ]
+  },
+  {
+   "key": "spec.prisons-reeducation.cadre-juridique.execution-peines",
+   "parent_key": "spec.prisons-reeducation.cadre-juridique",
+   "level": "TOPIC",
+   "title_ar": "تنفيذ العقوبات وبدائلها",
+   "title_fr": "Exécution des peines et alternatives",
+   "scope": "SUGGESTED",
+   "source_key": null,
+   "objectives": [
+    {
+     "key": "spec.prisons-reeducation.cadre-juridique.execution-peines.o1",
+     "text_ar": "معرفة دور قاضي تنفيذ العقوبات (أُحدث بالقانون عدد 77 لسنة 2000 — للتثبت)",
+     "text_fr": "Connaître le rôle du juge d'exécution des peines (créé par la loi n° 2000-77 — à vérifier)"
+    },
+    {
+     "key": "spec.prisons-reeducation.cadre-juridique.execution-peines.o2",
+     "text_ar": "التمييز بين السراح الشرطي والعفو وإيقاف التنفيذ",
+     "text_fr": "Distinguer libération conditionnelle, grâce et sursis"
+    },
+    {
+     "key": "spec.prisons-reeducation.cadre-juridique.execution-peines.o3",
+     "text_ar": "معرفة العقوبات البديلة: العمل لفائدة المصلحة العامة (القانون عدد 89 لسنة 1999 — للتثبت) والمراقبة الإلكترونية (للتثبت)",
+     "text_fr": "Connaître les peines alternatives : travail d'intérêt général (loi n° 99-89 — à vérifier) et surveillance électronique (à vérifier)"
+    }
+   ]
+  },
+  {
+   "key": "spec.prisons-reeducation.cadre-juridique.mineurs",
+   "parent_key": "spec.prisons-reeducation.cadre-juridique",
+   "level": "TOPIC",
+   "title_ar": "الأطفال الجانحون ومجلة حماية الطفل",
+   "title_fr": "Mineurs délinquants et Code de la protection de l'enfant",
+   "scope": "SUGGESTED",
+   "source_key": null,
+   "objectives": [
+    {
+     "key": "spec.prisons-reeducation.cadre-juridique.mineurs.o1",
+     "text_ar": "معرفة مبادئ مجلة حماية الطفل (1995): المصلحة الفضلى للطفل وأولوية التدابير التربوية على الإيداع",
+     "text_fr": "Connaître les principes du Code de la protection de l'enfant (1995) : intérêt supérieur de l'enfant et primauté des mesures éducatives sur l'enfermement"
+    },
+    {
+     "key": "spec.prisons-reeducation.cadre-juridique.mineurs.o2",
+     "text_ar": "معرفة دور قاضي الأطفال ومراكز الإصلاح",
+     "text_fr": "Connaître le rôle du juge des enfants et des centres de rééducation"
+    }
+   ]
+  },
+  {
+   "key": "spec.prisons-reeducation.normes-internationales",
+   "parent_key": null,
+   "level": "UNIT",
+   "title_ar": "المعايير الدولية لمعاملة السجناء",
+   "title_fr": "Normes internationales de traitement des détenus",
+   "scope": "SUGGESTED",
+   "source_key": null,
+   "objectives": [
+    {
+     "key": "spec.prisons-reeducation.normes-internationales.o1",
+     "text_ar": "ربط الممارسة اليومية في السجن بالمعايير الأممية وبالتزامات تونس الدولية",
+     "text_fr": "Relier la pratique carcérale quotidienne aux normes onusiennes et aux engagements internationaux de la Tunisie"
+    }
+   ]
+  },
+  {
+   "key": "spec.prisons-reeducation.normes-internationales.regles-onu",
+   "parent_key": "spec.prisons-reeducation.normes-internationales",
+   "level": "TOPIC",
+   "title_ar": "قواعد الأمم المتحدة (قواعد نيلسون مانديلا، قواعد بانكوك، قواعد بيجين)",
+   "title_fr": "Règles des Nations unies (Règles Nelson Mandela, Règles de Bangkok, Règles de Beijing)",
+   "scope": "SUGGESTED",
+   "source_key": null,
+   "objectives": [
+    {
+     "key": "spec.prisons-reeducation.normes-internationales.regles-onu.o1",
+     "text_ar": "معرفة قواعد الأمم المتحدة النموذجية الدنيا لمعاملة السجناء المنقحة سنة 2015 (قواعد نيلسون مانديلا) ومبادئها: الكرامة، عدم التمييز، حظر الحبس الانفرادي المطول",
+     "text_fr": "Connaître l'Ensemble de règles minima révisé en 2015 (Règles Nelson Mandela) : dignité, non-discrimination, interdiction de l'isolement prolongé"
+    },
+    {
+     "key": "spec.prisons-reeducation.normes-internationales.regles-onu.o2",
+     "text_ar": "معرفة قواعد بانكوك (2010) الخاصة بالسجينات وقواعد بيجين (1985) لقضاء الأحداث",
+     "text_fr": "Connaître les Règles de Bangkok (2010) sur les femmes détenues et les Règles de Beijing (1985) sur la justice des mineurs"
+    }
+   ]
+  },
+  {
+   "key": "spec.prisons-reeducation.normes-internationales.prevention-torture",
+   "parent_key": "spec.prisons-reeducation.normes-internationales",
+   "level": "TOPIC",
+   "title_ar": "منع التعذيب والرقابة على أماكن الاحتجاز",
+   "title_fr": "Prévention de la torture et contrôle des lieux de privation de liberté",
+   "scope": "SUGGESTED",
+   "source_key": null,
+   "objectives": [
+    {
+     "key": "spec.prisons-reeducation.normes-internationales.prevention-torture.o1",
+     "text_ar": "معرفة اتفاقية مناهضة التعذيب وبروتوكولها الاختياري وصفة الهيئة الوطنية للوقاية من التعذيب (القانون الأساسي عدد 43 لسنة 2013 — للتثبت)",
+     "text_fr": "Connaître la Convention contre la torture, son protocole facultatif et l'Instance nationale pour la prévention de la torture (loi organique n° 2013-43 — à vérifier)"
+    },
+    {
+     "key": "spec.prisons-reeducation.normes-internationales.prevention-torture.o2",
+     "text_ar": "معرفة واجب العون في رفض أي أمر بالتعذيب أو المعاملة المهينة والتبليغ عنه",
+     "text_fr": "Savoir que l'agent doit refuser et signaler tout ordre de torture ou de traitement dégradant"
+    }
+   ]
+  },
+  {
+   "key": "spec.prisons-reeducation.metier",
+   "parent_key": null,
+   "level": "UNIT",
+   "title_ar": "مهنة عون السجون والإصلاح: الأمن والإصلاح والأخلاقيات",
+   "title_fr": "Le métier d'agent pénitentiaire : sécurité, réhabilitation, déontologie",
+   "scope": "SUGGESTED",
+   "source_key": null,
+   "objectives": [
+    {
+     "key": "spec.prisons-reeducation.metier.o1",
+     "text_ar": "فهم التوازن بين حفظ الأمن داخل الوحدة السجنية واحترام كرامة المودع وتأهيله",
+     "text_fr": "Comprendre l'équilibre entre sécurité de l'établissement, dignité et réhabilitation du détenu"
+    }
+   ]
+  },
+  {
+   "key": "spec.prisons-reeducation.metier.securite",
+   "parent_key": "spec.prisons-reeducation.metier",
+   "level": "TOPIC",
+   "title_ar": "الأمن داخل الوحدة السجنية",
+   "title_fr": "Sécurité en établissement pénitentiaire",
+   "scope": "SUGGESTED",
+   "source_key": null,
+   "objectives": [
+    {
+     "key": "spec.prisons-reeducation.metier.securite.o1",
+     "text_ar": "معرفة إجراءات التفتيش والتعداد وحراسة الأجنحة ومراقبة الزيارات ومنع إدخال الممنوعات",
+     "text_fr": "Connaître fouille, comptage, surveillance des quartiers, contrôle des parloirs et lutte contre l'introduction d'objets interdits"
+    },
+    {
+     "key": "spec.prisons-reeducation.metier.securite.o2",
+     "text_ar": "معرفة قواعد نقل المودعين وحراستهم خارج السجن (المحاكم، المستشفيات) والتدرج في استعمال القوة",
+     "text_fr": "Connaître l'escorte des détenus hors établissement (tribunaux, hôpitaux) et la gradation de l'usage de la force"
+    },
+    {
+     "key": "spec.prisons-reeducation.metier.securite.o3",
+     "text_ar": "التصرف الأولي في الحوادث: شجار، محاولة انتحار، حريق، محاولة فرار",
+     "text_fr": "Réagir en première intention à un incident : rixe, tentative de suicide, incendie, tentative d'évasion"
+    }
+   ]
+  },
+  {
+   "key": "spec.prisons-reeducation.metier.rehabilitation",
+   "parent_key": "spec.prisons-reeducation.metier",
+   "level": "TOPIC",
+   "title_ar": "الإصلاح وإعادة الإدماج",
+   "title_fr": "Réhabilitation et réinsertion",
+   "scope": "SUGGESTED",
+   "source_key": null,
+   "objectives": [
+    {
+     "key": "spec.prisons-reeducation.metier.rehabilitation.o1",
+     "text_ar": "معرفة برامج التعليم والتكوين المهني والأنشطة الثقافية والرياضية داخل السجون",
+     "text_fr": "Connaître les programmes d'enseignement, de formation professionnelle et d'activités culturelles et sportives en prison"
+    },
+    {
+     "key": "spec.prisons-reeducation.metier.rehabilitation.o2",
+     "text_ar": "فهم دور الإحاطة النفسية والاجتماعية ومكافحة الإدمان والوقاية من التطرف داخل السجن",
+     "text_fr": "Comprendre le rôle de l'accompagnement psychosocial, de la lutte contre les addictions et de la prévention de la radicalisation en détention"
+    }
+   ]
+  },
+  {
+   "key": "spec.prisons-reeducation.metier.deontologie-communication",
+   "parent_key": "spec.prisons-reeducation.metier",
+   "level": "TOPIC",
+   "title_ar": "أخلاقيات المهنة والتواصل مع المودعين",
+   "title_fr": "Déontologie et communication avec les détenus",
+   "scope": "SUGGESTED",
+   "source_key": null,
+   "objectives": [
+    {
+     "key": "spec.prisons-reeducation.metier.deontologie-communication.o1",
+     "text_ar": "التعامل مع المودعين بحياد واحترام ودون تمييز، ورفض الرشوة والمحاباة",
+     "text_fr": "Traiter les détenus avec neutralité, respect et sans discrimination ; refuser corruption et favoritisme"
+    },
+    {
+     "key": "spec.prisons-reeducation.metier.deontologie-communication.o2",
+     "text_ar": "تقنيات التواصل وتهدئة النزاعات وكتابة التقارير الدقيقة عن الحوادث",
+     "text_fr": "Techniques de communication, de désescalade et de rédaction de rapports d'incident précis"
+    }
+   ]
+  }
+ ],
+ "past_exams": [],
+ "tips_ar": [
+  "تابع البلاغات الرسمية لوزارة العدل والهيئة العامة للسجون والإصلاح (الموقع والصفحات الرسمية) ولا تعتمد إلا رابط التسجيل المذكور في البلاغ؛ احذر الصفحات التي تطلب أموالا مقابل التسجيل أو \"ضمان النجاح\".",
+  "حسب دورة 2025، صدر الإعلان في الخريف (آخر أجل 21 نوفمبر) وأجري الاختبار في أواخر مارس: جهّز وثائقك مسبقا (خاصة بطاقة عدد 3) وابدأ المراجعة منذ سبتمبر.",
+  "ما يقارب 450 انتدابا مبرمجا لفائدة السجون والإصلاح في 2026 (رقم يحتاج إلى تثبت): ترقّب بلاغ الدورة القادمة وفعّل التنبيهات على التطبيق.",
+  "تدرّب على تحرير موضوع ثقافة عامة بالعربية في 45 دقيقة (مقدمة، محوران أو ثلاثة، خاتمة) حول مواضيع مثل الجريمة والإدمان والعنف وإعادة الإدماج وحقوق الإنسان.",
+  "راجع أهم ما في القانون المتعلق بنظام السجون وحقوق المودع وقواعد نيلسون مانديلا: هي مادة طبيعية للأسئلة وللمقابلة الشفاهية.",
+  "ابدأ التحضير البدني 3 أشهر على الأقل قبل الاختبار: جري تحمل 3 مرات أسبوعيا، سرعة، دفع وجذب وتمارين بطن.",
+  "في المقابلة الشفاهية أظهر الهدوء والانضباط والقدرة على التصرف في المواقف الصعبة دون عنف، واحترام كرامة المودع، ورفضك القاطع لأي رشوة.",
+  "البنية متقاربة مع مناظرات حافظ أمن وعرفاء الحرس والحماية المدنية: التحضير المشترك يسمح لك بالترشح لعدة مناظرات في السنة نفسها.",
+  "كن مستعدا للتعيين في أي ولاية والعمل بنظام الحصص ليلا ونهارا وخلال الأعياد."
+ ],
+ "tips_fr": [
+  "Suivez les avis officiels du ministère de la Justice et du CGPR (site et pages officielles) et n'utilisez que le lien d'inscription indiqué dans l'avis ; méfiez-vous des pages qui demandent de l'argent pour « l'inscription » ou une « réussite garantie ».",
+  "D'après la session 2025, l'avis paraît à l'automne (date limite au 21 novembre) et l'écrit a lieu fin mars : préparez vos pièces à l'avance (surtout le bulletin n° 3) et commencez à réviser dès septembre.",
+  "Environ 450 recrutements sont prévus pour les prisons et la rééducation en 2026 (chiffre à vérifier) : surveillez l'avis de la prochaine session et activez les alertes de l'application.",
+  "Entraînez-vous à rédiger en arabe un sujet de culture générale en 45 minutes (introduction, deux ou trois axes, conclusion) sur la délinquance, les addictions, la violence, la réinsertion ou les droits de l'homme.",
+  "Révisez l'essentiel de la loi relative à l'organisation des prisons, les droits du détenu et les Règles Nelson Mandela : ce sont des sujets naturels pour le QCM et l'oral.",
+  "Commencez la préparation physique au moins 3 mois avant : endurance 3 fois par semaine, vitesse, pompes, tractions et abdominaux.",
+  "À l'oral, montrez calme, discipline et capacité à gérer des situations difficiles sans violence, respect de la dignité du détenu et refus catégorique de toute corruption.",
+  "La structure est proche des concours de gardien de la paix, de caporal de la Garde nationale et de la protection civile : une préparation commune permet de se présenter à plusieurs concours la même année.",
+  "Soyez prêt à être affecté dans n'importe quel gouvernorat et à travailler en horaires postés, de nuit et les jours fériés."
+ ],
+ "research_notes": "LIMITE MÉTHODOLOGIQUE MAJEURE : lors de cette passe (2026-10-07), le quota WebSearch partagé était épuisé dès la première requête (« 200 WebSearch calls per turn » atteint par les autres agents) et WebFetch est refusé par le proxy du conteneur (EGRESS_BLOCKED) pour tous les domaines essayés : orientini.com, mosaiquefm.net, justice.gov.tn, concours.gov.tn, ar.wikipedia.org, tap.info.tn, kedma.tn, legislation.tn, babnet.net. AUCUNE page n'a donc été lue directement et aucun avis officiel des prisons n'a pu être consulté. Les seuls faits non suggérés viennent du résumé de recherche consigné le même jour dans docs/research/01-market-raw.md (section « Prisons et rééducation »), qui cite Orientini (s1) et Mosaïque FM (s2). C'est pourquoi TOUS les faits portent needs_verification=true et aucun source_quote n'est renseigné. Le fichier content/competitions/_openings.json (64 annonces au 07/10/2026) ne contient aucune annonce prisons ouverte.\n\nCE QUI EST REPRIS DES RÉSUMÉS (confiance MEDIUM, à recouper) : (1) concours de caporaux (عرفاء) des prisons et de la rééducation, session 2025 : 4e année secondaire, 20–24 ans, date limite 21/11/2025, épreuve le 29/03/2026 (s1) ; (2) 2026 : environ 446–467 postes pour les prisons dans les 1 216 recrutements du ministère de la Justice (s2 ; fourchette = incertitude de lecture des résumés).\n\nÀ VÉRIFIER EN PRIORITÉ sur l'avis officiel (justice.gov.tn, page Facebook officielle du CGPR, concours.gov.tn, JORT) : (a) intitulé exact, nombre de postes et répartition hommes/femmes de la session 2025 ; date d'ouverture des inscriptions ; plateforme d'inscription (en ligne ou dépôt/envoi recommandé) ; (b) date de référence de l'âge, report d'âge pour service militaire, exigence ou non du bac ; (c) existence de conditions de taille / acuité visuelle / état civil (laissées à null dans les champs structurés pour ne pas exclure à tort des candidats dans le matching) ; (d) tenue effective de l'écrit du 29/03/2026, résultats, phases suivantes et leur ordre, nombre de candidats (jamais trouvé) ; (e) chiffre exact 2026 (446 ou 467 ?) et ventilation caporaux / sous-officiers / officiers ; (f) existence, conditions (diplôme, âge maximal, spécialités) et calendrier d'un concours d'officiers (ملازم / ملازم أول) — la position « officier » est entièrement SUGGÉRÉE ; un éventuel concours de sergents (رقباء) n'a pas été modélisé faute de données.\n\nSUGGESTIONS ÉDITORIALES (confiance LOW, source_key null ou analogie s3) : contenu de l'écrit (culture générale + QCM en arabe, par analogie avec la Garde nationale s3), toutes les phases 2 à 7, toutes les épreuves physiques (aucun barème public), toutes les pièces du dossier, les deux blueprints (fidelity APPROXIMATED), la liste des spécialités des officiers et tout le specialty_syllabus (scope SUGGESTED). Références juridiques citées de mémoire et à vérifier au JORT : loi n° 2001-51 du 3 mai 2001 (agents des prisons et de la rééducation), loi n° 2001-52 du 14 mai 2001 (organisation des prisons), statut particulier du corps (décret, numéro non confirmé), loi n° 2000-77 (juge d'exécution des peines), loi n° 99-89 (travail d'intérêt général), Code de la protection de l'enfant (1995), loi organique n° 2013-43 (INPT) ; rattachement du CGPR au ministère de la Justice depuis 2001 ; École nationale des prisons et de la rééducation (Borj El Amri ?) et durée de la formation de base ; échelle des grades. Site officiel propre au CGPR non confirmé : website = justice.gov.tn par défaut.\n\nANNALES : aucune annale officielle ni communautaire vérifiable repérée (past_exams vide). À rechercher : groupes Facebook de candidats « مناظرة السجون والإصلاح », sujets de culture générale des sessions 2023–2026.\n\nPOUR LE MATCHING / NOTIFICATIONS : seuls diploma_level=SECONDARY, âge 20–24 et nationalité TN sont renseignés pour les caporaux ; genres [M,F] est une hypothèse (à confirmer à chaque avis) ; pour les officiers, âge et taille sont null (pas de filtre) et diplômes LICENCE/MASTER."
+}

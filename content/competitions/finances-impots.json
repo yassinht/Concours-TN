@@ -1,0 +1,1089 @@
+{
+ "family": {
+  "slug": "finances-impots",
+  "field": "ADMINISTRATION",
+  "organization": {
+   "slug": "ministere-finances",
+   "name_ar": "وزارة المالية",
+   "name_fr": "Ministère des Finances",
+   "ministry_fr": "Ministère des Finances",
+   "website": "https://www.finances.gov.tn"
+  },
+  "name_ar": "مناظرات انتداب أعوان المصالح المالية بوزارة المالية (متفقدو ومراقبو المصالح المالية: الأداءات، المحاسبة العمومية والاستخلاص)",
+  "name_fr": "Concours de recrutement des agents des services financiers du ministère des Finances (inspecteurs et contrôleurs : impôts, comptabilité publique et recouvrement)",
+  "description_ar": "مناظرات خارجية تنظمها وزارة المالية لانتداب أعوان المصالح المالية الذين يُعيَّنون أساسا في مصالح الأداءات (مراكز مراقبة الأداءات) وفي مصالح المحاسبة العمومية والاستخلاص (القباضات المالية). حسب الصحافة (توانسكوب) فُتحت سنة 2026 مناظرة خارجية بالاختبارات لانتداب 434 متفقد مصالح مالية لفائدة حاملي الإجازة، مع التسجيل من 20 أوت إلى 10 سبتمبر 2026 وانطلاق الاختبارات يوم 5 أكتوبر 2026، وهي جزء من 1754 انتدابا مبرمجا لوزارة المالية في قانون المالية لسنة 2026. تنبيه: لم يتسنّ فتح البلاغ الرسمي أثناء هذا البحث، لذلك تبقى كل المعطيات في حاجة إلى تثبت، وبقية التفاصيل (الاختصاصات، المواد، الضوارب، المراحل، الوثائق، رتبة المراقب) مقترحة. ملاحظة: مراقبو المصاريف العمومية وأعضاء هيئة الرقابة العامة للمالية يُنتدبون عادة عبر المدرسة الوطنية للإدارة (للتثبت)، وأملاك الدولة تتبع وزارة مستقلة (وزارة أملاك الدولة والشؤون العقارية) وليست ضمن هذه العائلة.",
+  "description_fr": "Concours externes organisés par le ministère des Finances pour recruter des agents des services financiers, affectés principalement aux services des impôts (centres de contrôle des impôts) et à la comptabilité publique et au recouvrement (recettes des finances). Selon la presse (Tuniscope), un concours externe sur épreuves pour le recrutement de 434 inspecteurs des services financiers, ouvert aux titulaires d'une licence, a été lancé en 2026 : inscriptions du 20 août au 10 septembre 2026, épreuves à partir du 5 octobre 2026 ; il s'inscrit dans les 1 754 recrutements prévus pour le ministère des Finances par la loi de finances 2026. Attention : l'avis officiel n'a pas pu être consulté lors de cette recherche ; toutes les données restent à vérifier, et le reste (spécialités, matières, coefficients, phases, pièces, grade de contrôleur) est SUGGÉRÉ. Remarque : les contrôleurs des dépenses publiques et le Contrôle général des finances recrutent en principe via l'ENA (à vérifier), et les Domaines de l'État relèvent d'un ministère distinct (Domaines de l'État et Affaires foncières), hors de cette famille.",
+  "frequency": "IRREGULAR",
+  "frequency_confidence": "LOW",
+  "popularity": 4,
+  "keywords": [
+   "وزارة المالية",
+   "مناظرة وزارة المالية",
+   "مناظرة وزارة المالية 2026",
+   "متفقد مصالح مالية",
+   "متفقدي المصالح المالية",
+   "مراقب مصالح مالية",
+   "مراقب الأداءات",
+   "مراقبي الأداءات",
+   "متفقد الأداءات",
+   "الأداءات",
+   "الجباية",
+   "مراقبة الأداءات",
+   "القباضة المالية",
+   "قابض مالية",
+   "المحاسبة العمومية",
+   "الاستخلاص",
+   "انتداب 434 متفقد",
+   "ministère des finances",
+   "concours ministère des finances",
+   "concours finances 2026",
+   "inspecteur des services financiers",
+   "inspecteurs des services financiers",
+   "contrôleur des services financiers",
+   "contrôleur des impôts",
+   "inspecteur des impôts",
+   "impôts",
+   "fiscalité",
+   "recette des finances",
+   "receveur des finances",
+   "comptabilité publique",
+   "recouvrement",
+   "434 inspecteurs",
+   "DGI",
+   "DGCPR",
+   "finances.gov.tn"
+  ]
+ },
+ "sources": [
+  {
+   "key": "s1",
+   "title": "Une grande opportunité d'emploi en Tunisie : le ministère des Finances recrute 434 agents (Tuniscope)",
+   "url": "https://www.tuniscope.com/article/435593/actualites/societe/une-grande-opportunite-d-emploi-en-tunisie-le-ministere-des-finances-recrute-434-agents-183813",
+   "publisher": "Tuniscope",
+   "source_type": "SECONDARY",
+   "publication_date": null,
+   "retrieved_at": "2026-10-07",
+   "confidence": "MEDIUM",
+   "notes": "PAGE NON OUVERTE dans cette passe : le quota WebSearch partagé était épuisé et WebFetch renvoie EGRESS_BLOCKED pour ce domaine. URL et faits repris des notes de recherche consignées le même jour par l'équipe (docs/research/01-market-raw.md, section « Administration & ENA »). Titre reconstitué à partir de l'URL. Faits repris : 434 inspecteurs des services financiers, inscriptions du 20/08 au 10/09/2026, épreuves à partir du 05/10/2026. Date de publication inconnue (probablement août 2026). À relire : référence de l'arrêté d'ouverture, conditions, épreuves, plateforme."
+  },
+  {
+   "key": "s2",
+   "title": "Ministère tunisien des Finances : concours externe sur épreuves pour le recrutement de 434 inspecteurs des services financiers au titre de 2026 (Tuniscope)",
+   "url": "https://www.tuniscope.com/article/438554/actualites/tunisie/ministere-tunisien-des-finances-341412",
+   "publisher": "Tuniscope",
+   "source_type": "SECONDARY",
+   "publication_date": null,
+   "retrieved_at": "2026-10-07",
+   "confidence": "MEDIUM",
+   "notes": "PAGE NON OUVERTE dans cette passe : le quota WebSearch partagé était épuisé et WebFetch renvoie EGRESS_BLOCKED pour ce domaine. URL et faits repris des notes de recherche consignées le même jour par l'équipe (content/competitions/_openings.json, entrée « 434 inspecteurs des services financiers »). Titre reconstitué à partir de l'URL et de l'intitulé arabe consigné : « مناظرة خارجية بالاختبارات لانتداب 434 متفقد مصالح مالية بعنوان سنة 2026 ». Faits repris : concours externe sur épreuves, 434 postes, niveau licence, date limite 10/09/2026, examen le 05/10/2026. Limites d'âge non relevées."
+  },
+  {
+   "key": "s3",
+   "title": "Loi de finances 2026 : répartition des recrutements par ministère (AllAfrica, 30/10/2025)",
+   "url": "https://fr.allafrica.com/stories/202510300467.html",
+   "publisher": "AllAfrica (reprise de presse tunisienne)",
+   "source_type": "SECONDARY",
+   "publication_date": "2025-10-30",
+   "retrieved_at": "2026-10-07",
+   "confidence": "MEDIUM",
+   "notes": "PAGE NON OUVERTE dans cette passe : le quota WebSearch partagé était épuisé et WebFetch renvoie EGRESS_BLOCKED pour ce domaine. URL et faits repris des notes de recherche consignées le même jour par l'équipe (docs/research/01-market-raw.md, section 1). Titre reconstitué. Fait repris : 1 754 recrutements prévus au ministère des Finances en 2026 (toutes directions confondues, y compris la Douane ; part des services financiers non précisée)."
+  },
+  {
+   "key": "s4",
+   "title": "Tunisie – Sécurité nationale : recrutements et achats d'hélicoptères pour 2026 (Webdo)",
+   "url": "https://www.webdo.tn/fr/actualite/national/tunisie-securite-nationale-recrutements-et-achats-dhelicopteres-pour-2026/386885/",
+   "publisher": "Webdo",
+   "source_type": "SECONDARY",
+   "publication_date": null,
+   "retrieved_at": "2026-10-07",
+   "confidence": "MEDIUM",
+   "notes": "PAGE NON OUVERTE dans cette passe : le quota WebSearch partagé était épuisé et WebFetch renvoie EGRESS_BLOCKED pour ce domaine. URL et faits repris des notes de recherche consignées le même jour par l'équipe (docs/research/01-market-raw.md, section 1). Titre reconstitué à partir de l'URL. Cité par l'équipe avec s3 pour la répartition des recrutements 2026 par ministère (Finances : 1 754). Corroboration seulement."
+  },
+  {
+   "key": "s5",
+   "title": "Site officiel du ministère des Finances (finances.gov.tn)",
+   "url": "https://www.finances.gov.tn/",
+   "publisher": "Ministère des Finances",
+   "source_type": "OFFICIAL",
+   "publication_date": null,
+   "retrieved_at": "2026-10-07",
+   "confidence": "MEDIUM",
+   "notes": "Site institutionnel où paraissent en principe les avis (بلاغات) et résultats des concours du ministère. WebFetch : EGRESS_BLOCKED, contenu non consulté. Référence pour l'organisme uniquement."
+  },
+  {
+   "key": "s6",
+   "title": "Portail national des concours de la fonction publique (concours.gov.tn)",
+   "url": "https://www.concours.gov.tn/",
+   "publisher": "Présidence du gouvernement",
+   "source_type": "OFFICIAL",
+   "publication_date": null,
+   "retrieved_at": "2026-10-07",
+   "confidence": "LOW",
+   "notes": "Portail officiel des concours. WebFetch : EGRESS_BLOCKED, contenu non consulté. Son usage pour l'inscription au concours des 434 inspecteurs (2026) n'est PAS confirmé (le ministère peut utiliser sa propre plateforme). Éditeur à vérifier."
+  }
+ ],
+ "editions": [
+  {
+   "year": 2026,
+   "session_label": "مناظرة خارجية بالاختبارات لانتداب 434 متفقد مصالح مالية بعنوان سنة 2026 / Concours externe sur épreuves : 434 inspecteurs des services financiers (2026)",
+   "status": "EXAM_DONE",
+   "registration_open": "2026-08-20",
+   "registration_deadline": "2026-09-10",
+   "exam_date": "2026-10-05",
+   "positions_count": 434,
+   "candidates_count": null,
+   "position_slugs": [
+    "inspecteur-services-financiers"
+   ],
+   "source_key": "s1",
+   "confidence": "MEDIUM",
+   "needs_verification": true
+  },
+  {
+   "year": 2024,
+   "session_label": "مناظرة لانتداب متفقدي مصالح مالية – دورة 2024 (196 خطة حسب ملاحظة داخلية دون مصدر) / Concours inspecteurs des services financiers – session 2024 (196 postes selon une note interne non sourcée)",
+   "status": "EXAM_DONE",
+   "registration_open": null,
+   "registration_deadline": null,
+   "exam_date": null,
+   "positions_count": 196,
+   "candidates_count": null,
+   "position_slugs": [
+    "inspecteur-services-financiers"
+   ],
+   "source_key": null,
+   "confidence": "LOW",
+   "needs_verification": true
+  }
+ ],
+ "positions": [
+  {
+   "slug": "inspecteur-services-financiers",
+   "title_ar": "متفقد مصالح مالية (الأداءات / المحاسبة العمومية والاستخلاص)",
+   "title_fr": "Inspecteur des services financiers (impôts / comptabilité publique et recouvrement)",
+   "diploma_level": "LICENCE",
+   "eligibility": {
+    "min_age": null,
+    "max_age": null,
+    "genders": [
+     "M",
+     "F"
+    ],
+    "nationality": "TN",
+    "diplomas": [
+     "LICENCE"
+    ],
+    "specialties": [],
+    "min_height_cm_male": null,
+    "min_height_cm_female": null,
+    "marital_status": null,
+    "other_ar": [
+     "عدد الخطط في دورة 2026: 434 (حسب الصحافة؛ التوزيع حسب الاختصاص أو حسب الإدارة العامة غير معروف)",
+     "شهادة الإجازة على الأقل أو شهادة معادلة (حسب ملخص البلاغ؛ يُرجّح قبول حاملي الأستاذية والماجستير)",
+     "[مقترح] الاختصاصات المرجّحة: الحقوق (خاصة القانون العام والجبائي)، العلوم الاقتصادية، التصرف، المحاسبة، المالية، الجباية — والقائمة الرسمية واردة في قرار فتح المناظرة؛ لم تُعتمد كشرط آلي",
+     "[مقترح] حدّ أقصى للسن مرجّح (في حدود 40 سنة عادة في مناظرات الوظيفة العمومية، مع إمكانية الترفيع بمدة الخدمات المدنية أو الخدمة الوطنية) — غير مؤكد، لذلك لم يُعتمد كشرط آلي",
+     "[مقترح] الجنسية التونسية، التمتع بالحقوق المدنية، حسن السيرة (بطاقة عدد 3 نقية)، والقدرة البدنية على مباشرة الوظيفة في أي جهة من تراب الجمهورية",
+     "[مقترح] تسوية الوضعية إزاء الخدمة الوطنية بالنسبة للذكور"
+    ],
+    "other_fr": [
+     "Postes ouverts en 2026 : 434 (selon la presse ; répartition par spécialité ou par direction générale inconnue)",
+     "Licence au minimum ou diplôme équivalent (selon le résumé de l'avis ; maîtrise et master probablement admis)",
+     "[Suggestion] Spécialités probables : droit (notamment public et fiscal), sciences économiques, gestion, comptabilité, finance, fiscalité — la liste officielle figure dans l'arrêté d'ouverture ; non appliquée comme filtre automatique",
+     "[Suggestion] Âge maximal probable (souvent 40 ans dans les concours de la fonction publique, avec report possible pour services civils ou service national) — non confirmé, donc non appliqué comme filtre automatique",
+     "[Suggestion] Nationalité tunisienne, jouissance des droits civiques, bonne moralité (bulletin n° 3 vierge) et aptitude physique à servir sur tout le territoire",
+     "[Suggestion] Situation régulière vis-à-vis du service national (hommes)"
+    ],
+    "source_key": "s2",
+    "confidence": "LOW",
+    "needs_verification": true,
+    "source_quote": null
+   },
+   "phases": [
+    {
+     "order": 1,
+     "kind": "FILE_REVIEW",
+     "name_ar": "التسجيل عن بعد والتثبت من الشروط",
+     "name_fr": "Inscription en ligne et contrôle des conditions",
+     "is_eliminatory": true,
+     "duration_minutes": null,
+     "description_ar": "التسجيل عن بعد من 20 أوت إلى 10 سبتمبر 2026 حسب الصحافة، عبر المنصة التي يحددها البلاغ (منصة وزارة المالية أو البوابة الوطنية للمناظرات — غير مؤكد)، ثم التثبت من الشهادة والشروط. وجود انتقاء أولي حسب المعدلات غير مؤكد.",
+     "description_fr": "Inscription en ligne du 20 août au 10 septembre 2026 selon la presse, sur la plateforme indiquée dans l'avis (plateforme du ministère ou portail national des concours — non confirmé), puis contrôle du diplôme et des conditions. Présélection sur moyennes non confirmée.",
+     "source_key": "s1",
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "order": 2,
+     "kind": "WRITTEN",
+     "name_ar": "الاختبارات الكتابية (القبول الأولي)",
+     "name_fr": "Épreuves écrites d'admissibilité",
+     "is_eliminatory": true,
+     "duration_minutes": null,
+     "description_ar": "مناظرة «بالاختبارات» انطلقت اختباراتها يوم 5 أكتوبر 2026 حسب الصحافة. عدد الاختبارات وطبيعتها (تحرير/أسئلة متعددة الاختيارات) ومدتها وضواربها غير معروفة؛ يُرجّح أن تشمل مادة اختصاص (جباية/محاسبة/قانون) وثقافة عامة ولغة.",
+     "description_fr": "Concours « sur épreuves » dont les épreuves ont débuté le 5 octobre 2026 selon la presse. Nombre, forme (rédaction/QCM), durée et coefficients inconnus ; probablement une épreuve de spécialité (fiscalité/comptabilité/droit), de la culture générale et une langue.",
+     "source_key": "s1",
+     "confidence": "MEDIUM",
+     "needs_verification": true
+    },
+    {
+     "order": 3,
+     "kind": "ORAL",
+     "name_ar": "الاختبار الشفاهي (القبول النهائي)",
+     "name_fr": "Épreuve orale d'admission",
+     "is_eliminatory": true,
+     "duration_minutes": null,
+     "description_ar": "[مقترح] محادثة مع لجنة المناظرة للمقبولين في الكتابي حول الثقافة العامة والمعلومات المهنية، كما هو معمول به في عدد من مناظرات الصنف «أ». وجودها غير مؤكد.",
+     "description_fr": "[Suggestion] Entretien avec le jury pour les admissibles (culture générale et connaissances professionnelles), comme dans de nombreux concours de catégorie A. Existence non confirmée.",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "order": 4,
+     "kind": "MEDICAL",
+     "name_ar": "استكمال ملف الانتداب والفحص الطبي",
+     "name_fr": "Constitution du dossier de nomination et visite médicale",
+     "is_eliminatory": true,
+     "duration_minutes": null,
+     "description_ar": "[مقترح] تقديم الوثائق الإدارية الأصلية وشهادة طبية في القدرة البدنية والذهنية قبل التسمية.",
+     "description_fr": "[Suggestion] Dépôt des pièces administratives originales et d'un certificat médical d'aptitude physique et mentale avant la nomination.",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "order": 5,
+     "kind": "TRAINING",
+     "name_ar": "التكوين الأساسي والتربص",
+     "name_fr": "Formation initiale et stage",
+     "is_eliminatory": false,
+     "duration_minutes": null,
+     "description_ar": "[مقترح] تكوين أساسي في مهن الجباية والمحاسبة العمومية (ربما بالمدرسة الوطنية للمالية) ثم تربص بالمصالح الجهوية قبل الترسيم. المدة والمكان غير معروفين.",
+     "description_fr": "[Suggestion] Formation initiale aux métiers de la fiscalité et de la comptabilité publique (peut-être à l'École nationale des finances), puis stage en services régionaux avant titularisation. Durée et lieu inconnus.",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    }
+   ],
+   "subjects": [
+    {
+     "phase_order": 2,
+     "domain": "SPECIALTY",
+     "specialty_key": "spec.fiscalite",
+     "name_ar": "الجباية والمالية العمومية (الضريبة على الدخل، الضريبة على الشركات، الأداء على القيمة المضافة، معاليم التسجيل، قانون المالية)",
+     "name_fr": "Fiscalité et finances publiques (IRPP, IS, TVA, droits d'enregistrement, loi de finances)",
+     "coefficient": null,
+     "duration_minutes": null,
+     "question_count": null,
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "phase_order": 2,
+     "domain": "SPECIALTY",
+     "specialty_key": "spec.finances-impots.procedures-fiscales",
+     "name_ar": "الإجراءات الجبائية والمراقبة الجبائية والنزاعات (مجلة الحقوق والإجراءات الجبائية)",
+     "name_fr": "Procédures fiscales, contrôle fiscal et contentieux (Code des droits et procédures fiscaux)",
+     "coefficient": null,
+     "duration_minutes": null,
+     "question_count": null,
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "phase_order": 2,
+     "domain": "SPECIALTY",
+     "specialty_key": "spec.banque-gestion",
+     "name_ar": "المحاسبة العامة والمالية والاقتصاد",
+     "name_fr": "Comptabilité générale et financière, économie",
+     "coefficient": null,
+     "duration_minutes": null,
+     "question_count": null,
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "phase_order": 2,
+     "domain": "SPECIALTY",
+     "specialty_key": "spec.finances-impots.comptabilite-publique",
+     "name_ar": "المحاسبة العمومية والميزانية والاستخلاص",
+     "name_fr": "Comptabilité publique, budget et recouvrement",
+     "coefficient": null,
+     "duration_minutes": null,
+     "question_count": null,
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "phase_order": 2,
+     "domain": "SPECIALTY",
+     "specialty_key": "spec.droit-administratif",
+     "name_ar": "القانون الإداري",
+     "name_fr": "Droit administratif",
+     "coefficient": null,
+     "duration_minutes": null,
+     "question_count": null,
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "phase_order": 2,
+     "domain": "CULTURE_GENERALE",
+     "specialty_key": null,
+     "name_ar": "ثقافة عامة (الاقتصاد التونسي، المؤسسات، الأحداث الجارية)",
+     "name_fr": "Culture générale (économie tunisienne, institutions, actualité)",
+     "coefficient": null,
+     "duration_minutes": null,
+     "question_count": null,
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "phase_order": 2,
+     "domain": "FRENCH",
+     "specialty_key": null,
+     "name_ar": "اللغة الفرنسية",
+     "name_fr": "Langue française",
+     "coefficient": null,
+     "duration_minutes": null,
+     "question_count": null,
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "phase_order": 3,
+     "domain": "CULTURE_GENERALE",
+     "specialty_key": null,
+     "name_ar": "محادثة مع اللجنة (ثقافة عامة ومعلومات مهنية)",
+     "name_fr": "Entretien avec le jury (culture générale et connaissances professionnelles)",
+     "coefficient": null,
+     "duration_minutes": null,
+     "question_count": null,
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    }
+   ],
+   "physical_tests": [],
+   "required_documents": [
+    {
+     "text_ar": "مطبوعة الترشح المستخرجة من منصة التسجيل عن بعد (وصل التسجيل) ممضاة",
+     "text_fr": "Fiche de candidature imprimée depuis la plateforme d'inscription en ligne (récépissé), signée",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "text_ar": "نسخة من بطاقة التعريف الوطنية",
+     "text_fr": "Copie de la carte d'identité nationale",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "text_ar": "نسخة مطابقة للأصل من الشهادة العلمية المطلوبة (وقرار المعادلة بالنسبة للشهائد الأجنبية)",
+     "text_fr": "Copie certifiée conforme du diplôme requis (et arrêté d'équivalence pour les diplômes étrangers)",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "text_ar": "كشوفات الأعداد لسنوات الدراسة (في صورة اعتماد الانتقاء الأولي حسب المعدلات)",
+     "text_fr": "Relevés de notes des années d'études (si une présélection sur moyennes est prévue)",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "text_ar": "مضمون من دفتر الولادة",
+     "text_fr": "Extrait de naissance",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "text_ar": "بطاقة عدد 3 (السجل العدلي) — عادة عند الانتداب",
+     "text_fr": "Bulletin n° 3 (casier judiciaire) — généralement à la nomination",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "text_ar": "شهادة طبية تثبت القدرة البدنية والذهنية — عادة عند الانتداب",
+     "text_fr": "Certificat médical d'aptitude physique et mentale — généralement à la nomination",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "text_ar": "وثيقة تثبت الوضعية إزاء الخدمة الوطنية (للذكور)",
+     "text_fr": "Justificatif de la situation vis-à-vis du service national (hommes)",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    }
+   ],
+   "blueprint": {
+    "total_minutes": 150,
+    "fidelity": "APPROXIMATED",
+    "sections": [
+     {
+      "domain": "SPECIALTY",
+      "specialty_key": "spec.fiscalite",
+      "count": 20,
+      "minutes": 30
+     },
+     {
+      "domain": "SPECIALTY",
+      "specialty_key": "spec.finances-impots.procedures-fiscales",
+      "count": 10,
+      "minutes": 15
+     },
+     {
+      "domain": "SPECIALTY",
+      "specialty_key": "spec.banque-gestion",
+      "count": 15,
+      "minutes": 25
+     },
+     {
+      "domain": "SPECIALTY",
+      "specialty_key": "spec.finances-impots.comptabilite-publique",
+      "count": 10,
+      "minutes": 15
+     },
+     {
+      "domain": "SPECIALTY",
+      "specialty_key": "spec.droit-administratif",
+      "count": 8,
+      "minutes": 10
+     },
+     {
+      "domain": "SPECIALTY",
+      "specialty_key": "spec.finances-impots.institution",
+      "count": 5,
+      "minutes": 5
+     },
+     {
+      "domain": "CULTURE_GENERALE",
+      "specialty_key": null,
+      "count": 15,
+      "minutes": 20
+     },
+     {
+      "domain": "NUMERICAL",
+      "specialty_key": null,
+      "count": 8,
+      "minutes": 12
+     },
+     {
+      "domain": "FRENCH",
+      "specialty_key": null,
+      "count": 8,
+      "minutes": 10
+     },
+     {
+      "domain": "ARABIC",
+      "specialty_key": null,
+      "count": 6,
+      "minutes": 8
+     }
+    ]
+   }
+  },
+  {
+   "slug": "controleur-services-financiers",
+   "title_ar": "مراقب مصالح مالية (مراقب الأداءات / المحاسبة العمومية) — رتبة مقترحة للتثبت",
+   "title_fr": "Contrôleur des services financiers (contrôleur des impôts / comptabilité publique) — grade suggéré, à vérifier",
+   "diploma_level": "BAC",
+   "eligibility": {
+    "min_age": null,
+    "max_age": null,
+    "genders": [
+     "M",
+     "F"
+    ],
+    "nationality": "TN",
+    "diplomas": [
+     "BAC"
+    ],
+    "specialties": [],
+    "min_height_cm_male": null,
+    "min_height_cm_female": null,
+    "marital_status": null,
+    "other_ar": [
+     "[مقترح] رتبة مراقب مصالح مالية (مراقب الأداءات سابقا) ضمن سلك أعوان المصالح المالية: وجود الرتبة مرجّح لكن الصنف والمستوى الدراسي المطلوب (باكالوريا أو باكالوريا + سنتين) غير مؤكدين",
+     "لم يُعثر خلال هذا البحث على مناظرة خارجية حديثة (2023–2026) لهذه الرتبة؛ قد تُسدّ الخطط أساسا بالترقية الداخلية",
+     "[مقترح] حدّ أقصى للسن مرجّح (في حدود 40 سنة عادة) — غير مؤكد، لذلك لم يُعتمد كشرط آلي",
+     "[مقترح] الجنسية التونسية، التمتع بالحقوق المدنية، حسن السيرة، القدرة البدنية، وتسوية الوضعية إزاء الخدمة الوطنية للذكور"
+    ],
+    "other_fr": [
+     "[Suggestion] Grade de contrôleur des services financiers (ex-contrôleur des impôts) au sein du corps des agents des services financiers : existence probable, mais catégorie et diplôme exigé (bac ou bac+2) non confirmés",
+     "Aucun concours externe récent (2023–2026) trouvé pour ce grade lors de cette recherche ; les postes sont peut-être pourvus surtout par promotion interne",
+     "[Suggestion] Âge maximal probable (souvent 40 ans) — non confirmé, donc non appliqué comme filtre automatique",
+     "[Suggestion] Nationalité tunisienne, droits civiques, bonne moralité, aptitude physique, situation régulière vis-à-vis du service national (hommes)"
+    ],
+    "source_key": null,
+    "confidence": "LOW",
+    "needs_verification": true,
+    "source_quote": null
+   },
+   "phases": [
+    {
+     "order": 1,
+     "kind": "FILE_REVIEW",
+     "name_ar": "التسجيل عن بعد والتثبت من الشروط",
+     "name_fr": "Inscription en ligne et contrôle des conditions",
+     "is_eliminatory": true,
+     "duration_minutes": null,
+     "description_ar": "[مقترح] التسجيل عبر المنصة التي يحددها بلاغ وزارة المالية ثم التثبت من الشهادة والشروط.",
+     "description_fr": "[Suggestion] Inscription sur la plateforme indiquée par l'avis du ministère des Finances, puis contrôle du diplôme et des conditions.",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "order": 2,
+     "kind": "WRITTEN",
+     "name_ar": "الاختبارات الكتابية",
+     "name_fr": "Épreuves écrites",
+     "is_eliminatory": true,
+     "duration_minutes": null,
+     "description_ar": "[مقترح] اختبارات كتابية في مبادئ الجباية والمحاسبة العمومية والتحرير الإداري والثقافة العامة واللغات.",
+     "description_fr": "[Suggestion] Épreuves écrites portant sur les notions de fiscalité, la comptabilité publique, la rédaction administrative, la culture générale et les langues.",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "order": 3,
+     "kind": "MEDICAL",
+     "name_ar": "استكمال ملف الانتداب والفحص الطبي",
+     "name_fr": "Dossier de nomination et visite médicale",
+     "is_eliminatory": true,
+     "duration_minutes": null,
+     "description_ar": "[مقترح] تقديم الوثائق الأصلية وشهادة طبية قبل التسمية.",
+     "description_fr": "[Suggestion] Dépôt des pièces originales et d'un certificat médical avant la nomination.",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "order": 4,
+     "kind": "TRAINING",
+     "name_ar": "التكوين الأساسي والتربص",
+     "name_fr": "Formation initiale et stage",
+     "is_eliminatory": false,
+     "duration_minutes": null,
+     "description_ar": "[مقترح] تكوين أساسي ثم تربص بمراكز مراقبة الأداءات أو القباضات المالية.",
+     "description_fr": "[Suggestion] Formation initiale puis stage dans un centre de contrôle des impôts ou une recette des finances.",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    }
+   ],
+   "subjects": [
+    {
+     "phase_order": 2,
+     "domain": "SPECIALTY",
+     "specialty_key": "spec.fiscalite",
+     "name_ar": "مبادئ الجباية (الأداء على القيمة المضافة، الخصم من المورد، الضريبة على الدخل)",
+     "name_fr": "Notions de fiscalité (TVA, retenue à la source, IRPP)",
+     "coefficient": null,
+     "duration_minutes": null,
+     "question_count": null,
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "phase_order": 2,
+     "domain": "SPECIALTY",
+     "specialty_key": "spec.finances-impots.comptabilite-publique",
+     "name_ar": "مبادئ المحاسبة العمومية والاستخلاص",
+     "name_fr": "Notions de comptabilité publique et de recouvrement",
+     "coefficient": null,
+     "duration_minutes": null,
+     "question_count": null,
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "phase_order": 2,
+     "domain": "SPECIALTY",
+     "specialty_key": "spec.redaction-administrative",
+     "name_ar": "التحرير الإداري",
+     "name_fr": "Rédaction administrative",
+     "coefficient": null,
+     "duration_minutes": null,
+     "question_count": null,
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "phase_order": 2,
+     "domain": "CULTURE_GENERALE",
+     "specialty_key": null,
+     "name_ar": "ثقافة عامة",
+     "name_fr": "Culture générale",
+     "coefficient": null,
+     "duration_minutes": null,
+     "question_count": null,
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "phase_order": 2,
+     "domain": "ARABIC",
+     "specialty_key": null,
+     "name_ar": "اللغة العربية",
+     "name_fr": "Langue arabe",
+     "coefficient": null,
+     "duration_minutes": null,
+     "question_count": null,
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "phase_order": 2,
+     "domain": "FRENCH",
+     "specialty_key": null,
+     "name_ar": "اللغة الفرنسية",
+     "name_fr": "Langue française",
+     "coefficient": null,
+     "duration_minutes": null,
+     "question_count": null,
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "phase_order": 2,
+     "domain": "NUMERICAL",
+     "specialty_key": null,
+     "name_ar": "الحساب والنسب المائوية",
+     "name_fr": "Calcul et pourcentages",
+     "coefficient": null,
+     "duration_minutes": null,
+     "question_count": null,
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    }
+   ],
+   "physical_tests": [],
+   "required_documents": [
+    {
+     "text_ar": "مطبوعة الترشح المستخرجة من منصة التسجيل عن بعد (وصل التسجيل) ممضاة",
+     "text_fr": "Fiche de candidature imprimée depuis la plateforme d'inscription en ligne (récépissé), signée",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "text_ar": "نسخة من بطاقة التعريف الوطنية",
+     "text_fr": "Copie de la carte d'identité nationale",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "text_ar": "نسخة مطابقة للأصل من الشهادة العلمية المطلوبة (وقرار المعادلة بالنسبة للشهائد الأجنبية)",
+     "text_fr": "Copie certifiée conforme du diplôme requis (et arrêté d'équivalence pour les diplômes étrangers)",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "text_ar": "مضمون من دفتر الولادة",
+     "text_fr": "Extrait de naissance",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "text_ar": "بطاقة عدد 3 (السجل العدلي) — عادة عند الانتداب",
+     "text_fr": "Bulletin n° 3 (casier judiciaire) — généralement à la nomination",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "text_ar": "شهادة طبية تثبت القدرة البدنية والذهنية — عادة عند الانتداب",
+     "text_fr": "Certificat médical d'aptitude physique et mentale — généralement à la nomination",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "text_ar": "وثيقة تثبت الوضعية إزاء الخدمة الوطنية (للذكور)",
+     "text_fr": "Justificatif de la situation vis-à-vis du service national (hommes)",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    }
+   ],
+   "blueprint": {
+    "total_minutes": 120,
+    "fidelity": "APPROXIMATED",
+    "sections": [
+     {
+      "domain": "SPECIALTY",
+      "specialty_key": "spec.fiscalite",
+      "count": 12,
+      "minutes": 18
+     },
+     {
+      "domain": "SPECIALTY",
+      "specialty_key": "spec.finances-impots.comptabilite-publique",
+      "count": 8,
+      "minutes": 12
+     },
+     {
+      "domain": "SPECIALTY",
+      "specialty_key": "spec.banque-gestion",
+      "count": 8,
+      "minutes": 12
+     },
+     {
+      "domain": "SPECIALTY",
+      "specialty_key": "spec.finances-impots.institution",
+      "count": 5,
+      "minutes": 5
+     },
+     {
+      "domain": "SPECIALTY",
+      "specialty_key": "spec.redaction-administrative",
+      "count": 6,
+      "minutes": 10
+     },
+     {
+      "domain": "CULTURE_GENERALE",
+      "specialty_key": null,
+      "count": 15,
+      "minutes": 18
+     },
+     {
+      "domain": "ARABIC",
+      "specialty_key": null,
+      "count": 8,
+      "minutes": 10
+     },
+     {
+      "domain": "FRENCH",
+      "specialty_key": null,
+      "count": 8,
+      "minutes": 10
+     },
+     {
+      "domain": "NUMERICAL",
+      "specialty_key": null,
+      "count": 10,
+      "minutes": 15
+     },
+     {
+      "domain": "LOGIC",
+      "specialty_key": null,
+      "count": 6,
+      "minutes": 10
+     }
+    ]
+   }
+  }
+ ],
+ "specialty_syllabus": [
+  {
+   "key": "spec.finances-impots.institution",
+   "parent_key": null,
+   "level": "UNIT",
+   "title_ar": "وزارة المالية: التنظيم والمهام وأخلاقيات عون المصالح المالية",
+   "title_fr": "Le ministère des Finances : organisation, missions et déontologie de l'agent des services financiers",
+   "scope": "SUGGESTED",
+   "source_key": null,
+   "objectives": [
+    {
+     "key": "spec.finances-impots.institution.o1",
+     "text_ar": "تحديد موقع المصالح المالية (الأداءات، المحاسبة العمومية والاستخلاص) ضمن وزارة المالية",
+     "text_fr": "Situer les services financiers (impôts, comptabilité publique et recouvrement) au sein du ministère des Finances"
+    }
+   ]
+  },
+  {
+   "key": "spec.finances-impots.institution.organisation",
+   "parent_key": "spec.finances-impots.institution",
+   "level": "TOPIC",
+   "title_ar": "تنظيم وزارة المالية ومصالحها الجهوية",
+   "title_fr": "Organisation du ministère des Finances et de ses services régionaux",
+   "scope": "SUGGESTED",
+   "source_key": null,
+   "objectives": [
+    {
+     "key": "spec.finances-impots.institution.organisation.o1",
+     "text_ar": "التعرف على الإدارات العامة الكبرى (الأداءات، المحاسبة العمومية والاستخلاص، الديوانة...) ومهامها — التسميات الدقيقة للتثبت",
+     "text_fr": "Connaître les grandes directions générales (impôts, comptabilité publique et recouvrement, douane...) et leurs missions — intitulés exacts à vérifier"
+    },
+    {
+     "key": "spec.finances-impots.institution.organisation.o2",
+     "text_ar": "التمييز بين مركز مراقبة الأداءات والقباضة المالية ودور كل منهما",
+     "text_fr": "Distinguer le centre de contrôle des impôts et la recette des finances et leurs rôles respectifs"
+    },
+    {
+     "key": "spec.finances-impots.institution.organisation.o3",
+     "text_ar": "معرفة أن مراقبة المصاريف العمومية والرقابة العامة للمالية هياكل رقابية لها طرق انتداب خاصة (للتثبت)",
+     "text_fr": "Savoir que le contrôle des dépenses publiques et le Contrôle général des finances sont des corps de contrôle à recrutement spécifique (à vérifier)"
+    }
+   ]
+  },
+  {
+   "key": "spec.finances-impots.institution.deontologie",
+   "parent_key": "spec.finances-impots.institution",
+   "level": "TOPIC",
+   "title_ar": "النظام الأساسي العام للوظيفة العمومية وأخلاقيات العون",
+   "title_fr": "Statut général de la fonction publique et déontologie de l'agent",
+   "scope": "SUGGESTED",
+   "source_key": null,
+   "objectives": [
+    {
+     "key": "spec.finances-impots.institution.deontologie.o1",
+     "text_ar": "معرفة الحقوق والواجبات الأساسية للعون العمومي (القانون عدد 112 لسنة 1983)",
+     "text_fr": "Connaître les droits et obligations de l'agent public (loi n° 83-112 du 12 décembre 1983)"
+    },
+    {
+     "key": "spec.finances-impots.institution.deontologie.o2",
+     "text_ar": "فهم السر المهني وواجب الحياد والنزاهة في التعامل مع المطالبين بالأداء",
+     "text_fr": "Comprendre le secret professionnel et les devoirs de neutralité et de probité envers les contribuables"
+    }
+   ]
+  },
+  {
+   "key": "spec.finances-impots.procedures-fiscales",
+   "parent_key": null,
+   "level": "UNIT",
+   "title_ar": "الإجراءات الجبائية: الالتزامات، المراقبة، النزاعات والاستخلاص",
+   "title_fr": "Procédures fiscales : obligations, contrôle, contentieux et recouvrement",
+   "scope": "SUGGESTED",
+   "source_key": null,
+   "objectives": [
+    {
+     "key": "spec.finances-impots.procedures-fiscales.o1",
+     "text_ar": "التحكم في المراحل الإجرائية من التصريح إلى الاستخلاص",
+     "text_fr": "Maîtriser la chaîne procédurale de la déclaration au recouvrement"
+    }
+   ]
+  },
+  {
+   "key": "spec.finances-impots.procedures-fiscales.obligations",
+   "parent_key": "spec.finances-impots.procedures-fiscales",
+   "level": "TOPIC",
+   "title_ar": "الالتزامات الجبائية للمطالبين بالأداء",
+   "title_fr": "Obligations fiscales des contribuables",
+   "scope": "SUGGESTED",
+   "source_key": null,
+   "objectives": [
+    {
+     "key": "spec.finances-impots.procedures-fiscales.obligations.o1",
+     "text_ar": "التمييز بين النظام الحقيقي والنظام التقديري وما يترتب عنهما من التزامات",
+     "text_fr": "Distinguer régime réel et régime forfaitaire et leurs obligations"
+    },
+    {
+     "key": "spec.finances-impots.procedures-fiscales.obligations.o2",
+     "text_ar": "معرفة التزامات التصريح والخصم من المورد ومسك المحاسبة والمعرف الجبائي",
+     "text_fr": "Connaître les obligations de déclaration, de retenue à la source, de tenue de comptabilité et l'identifiant fiscal"
+    }
+   ]
+  },
+  {
+   "key": "spec.finances-impots.procedures-fiscales.controle",
+   "parent_key": "spec.finances-impots.procedures-fiscales",
+   "level": "TOPIC",
+   "title_ar": "المراقبة الجبائية وضمانات المطالب بالأداء",
+   "title_fr": "Contrôle fiscal et garanties du contribuable",
+   "scope": "SUGGESTED",
+   "source_key": null,
+   "objectives": [
+    {
+     "key": "spec.finances-impots.procedures-fiscales.controle.o1",
+     "text_ar": "التمييز بين المراقبة الأولية والمراقبة المعمقة للوضعية الجبائية (مجلة الحقوق والإجراءات الجبائية، القانون عدد 82 لسنة 2000)",
+     "text_fr": "Distinguer vérification préliminaire et vérification approfondie (Code des droits et procédures fiscaux, loi n° 2000-82)"
+    },
+    {
+     "key": "spec.finances-impots.procedures-fiscales.controle.o2",
+     "text_ar": "معرفة حق الاطلاع والتوظيف الإجباري وضمانات المطالب بالأداء أثناء المراقبة",
+     "text_fr": "Connaître le droit de communication, la taxation d'office et les garanties du contribuable pendant le contrôle"
+    }
+   ]
+  },
+  {
+   "key": "spec.finances-impots.procedures-fiscales.contentieux-recouvrement",
+   "parent_key": "spec.finances-impots.procedures-fiscales",
+   "level": "TOPIC",
+   "title_ar": "النزاع الجبائي واستخلاص الدين الجبائي",
+   "title_fr": "Contentieux fiscal et recouvrement de la dette fiscale",
+   "scope": "SUGGESTED",
+   "source_key": null,
+   "objectives": [
+    {
+     "key": "spec.finances-impots.procedures-fiscales.contentieux-recouvrement.o1",
+     "text_ar": "معرفة مراحل نزاع الأصل (الاعتراض على قرار التوظيف أمام القضاء) وآجال التقادم بصفة عامة",
+     "text_fr": "Connaître les étapes du contentieux d'assiette (recours contre l'arrêté de taxation) et la logique de la prescription"
+    },
+    {
+     "key": "spec.finances-impots.procedures-fiscales.contentieux-recouvrement.o2",
+     "text_ar": "فهم إجراءات الاستخلاص الجبري والخطايا والعقوبات الجبائية",
+     "text_fr": "Comprendre le recouvrement forcé, les pénalités et les sanctions fiscales"
+    }
+   ]
+  },
+  {
+   "key": "spec.finances-impots.procedures-fiscales.liquidation",
+   "parent_key": "spec.finances-impots.procedures-fiscales",
+   "level": "TOPIC",
+   "title_ar": "تطبيقات عملية في احتساب الأداءات",
+   "title_fr": "Exercices pratiques de liquidation des impôts",
+   "scope": "SUGGESTED",
+   "source_key": null,
+   "objectives": [
+    {
+     "key": "spec.finances-impots.procedures-fiscales.liquidation.o1",
+     "text_ar": "احتساب الأداء على القيمة المضافة المستوجب (المقبوض والقابل للطرح) والخصم من المورد",
+     "text_fr": "Calculer la TVA due (collectée et déductible) et les retenues à la source"
+    },
+    {
+     "key": "spec.finances-impots.procedures-fiscales.liquidation.o2",
+     "text_ar": "تطبيق جدول الضريبة على دخل الأشخاص الطبيعيين حسب قانون المالية الساري",
+     "text_fr": "Appliquer le barème de l'IRPP selon la loi de finances en vigueur"
+    }
+   ]
+  },
+  {
+   "key": "spec.finances-impots.comptabilite-publique",
+   "parent_key": null,
+   "level": "UNIT",
+   "title_ar": "المحاسبة العمومية والميزانية والاستخلاص",
+   "title_fr": "Comptabilité publique, budget et recouvrement",
+   "scope": "SUGGESTED",
+   "source_key": null,
+   "objectives": [
+    {
+     "key": "spec.finances-impots.comptabilite-publique.o1",
+     "text_ar": "فهم قواعد تنفيذ الميزانية ودور المحاسب العمومي",
+     "text_fr": "Comprendre les règles d'exécution du budget et le rôle du comptable public"
+    }
+   ]
+  },
+  {
+   "key": "spec.finances-impots.comptabilite-publique.principes",
+   "parent_key": "spec.finances-impots.comptabilite-publique",
+   "level": "TOPIC",
+   "title_ar": "مبادئ المحاسبة العمومية وأعوانها",
+   "title_fr": "Principes et acteurs de la comptabilité publique",
+   "scope": "SUGGESTED",
+   "source_key": null,
+   "objectives": [
+    {
+     "key": "spec.finances-impots.comptabilite-publique.principes.o1",
+     "text_ar": "شرح مبدأ الفصل بين الآمر بالصرف والمحاسب العمومي ومسؤولية المحاسب (مجلة المحاسبة العمومية، القانون عدد 81 لسنة 1973)",
+     "text_fr": "Expliquer la séparation ordonnateur/comptable et la responsabilité du comptable (Code de la comptabilité publique, loi n° 73-81)"
+    },
+    {
+     "key": "spec.finances-impots.comptabilite-publique.principes.o2",
+     "text_ar": "التعرف على دور القابض المالي وأمين المال",
+     "text_fr": "Identifier le rôle du receveur des finances et du trésorier"
+    }
+   ]
+  },
+  {
+   "key": "spec.finances-impots.comptabilite-publique.budget",
+   "parent_key": "spec.finances-impots.comptabilite-publique",
+   "level": "TOPIC",
+   "title_ar": "القانون الأساسي للميزانية وقانون المالية",
+   "title_fr": "Loi organique du budget et loi de finances",
+   "scope": "SUGGESTED",
+   "source_key": null,
+   "objectives": [
+    {
+     "key": "spec.finances-impots.comptabilite-publique.budget.o1",
+     "text_ar": "معرفة مبادئ الميزانية والتصرف حسب المهمات والبرامج (القانون الأساسي للميزانية عدد 15 لسنة 2019)",
+     "text_fr": "Connaître les principes budgétaires et la gestion par missions et programmes (LOB n° 2019-15)"
+    },
+    {
+     "key": "spec.finances-impots.comptabilite-publique.budget.o2",
+     "text_ar": "فهم مسار إعداد قانون المالية والمصادقة عليه وتنفيذه",
+     "text_fr": "Comprendre le cycle de préparation, d'adoption et d'exécution de la loi de finances"
+    }
+   ]
+  },
+  {
+   "key": "spec.finances-impots.comptabilite-publique.recettes",
+   "parent_key": "spec.finances-impots.comptabilite-publique",
+   "level": "TOPIC",
+   "title_ar": "تحصيل المداخيل العمومية واستخلاص الديون",
+   "title_fr": "Recettes publiques et recouvrement des créances",
+   "scope": "SUGGESTED",
+   "source_key": null,
+   "objectives": [
+    {
+     "key": "spec.finances-impots.comptabilite-publique.recettes.o1",
+     "text_ar": "التمييز بين المداخيل الجبائية وغير الجبائية وسندات الاستخلاص (جداول، قرارات توظيف...)",
+     "text_fr": "Distinguer recettes fiscales et non fiscales et les titres de perception (rôles, arrêtés de taxation...)"
+    },
+    {
+     "key": "spec.finances-impots.comptabilite-publique.recettes.o2",
+     "text_ar": "معرفة إجراءات الاستخلاص بالتراضي والاستخلاص الجبري لدى القباضات المالية",
+     "text_fr": "Connaître le recouvrement amiable et forcé dans les recettes des finances"
+    }
+   ]
+  },
+  {
+   "key": "spec.finances-impots.comptabilite-publique.depenses",
+   "parent_key": "spec.finances-impots.comptabilite-publique",
+   "level": "TOPIC",
+   "title_ar": "تنفيذ النفقات العمومية ومراقبتها",
+   "title_fr": "Exécution et contrôle des dépenses publiques",
+   "scope": "SUGGESTED",
+   "source_key": null,
+   "objectives": [
+    {
+     "key": "spec.finances-impots.comptabilite-publique.depenses.o1",
+     "text_ar": "ترتيب مراحل النفقة: الالتزام، التصفية، الإذن بالدفع، الدفع",
+     "text_fr": "Ordonner les phases de la dépense : engagement, liquidation, ordonnancement, paiement"
+    },
+    {
+     "key": "spec.finances-impots.comptabilite-publique.depenses.o2",
+     "text_ar": "التعرف على الرقابة المسبقة على المصاريف العمومية والرقابة اللاحقة (دائرة المحاسبات)",
+     "text_fr": "Identifier le contrôle préalable des dépenses publiques et le contrôle a posteriori (Cour des comptes)"
+    }
+   ]
+  }
+ ],
+ "past_exams": [],
+ "tips_ar": [
+  "تابع بلاغات موقع وزارة المالية (finances.gov.tn) والبوابة الوطنية للمناظرات والرائد الرسمي، وفعّل تنبيهات المنصة: مناظرات المالية غير منتظمة وآجال التسجيل قصيرة (حوالي 3 أسابيع في 2026).",
+  "اقرأ قرار فتح المناظرة كاملا: هو المرجع الوحيد للاختصاصات المقبولة وحدّ السن والمواد والضوارب والوثائق.",
+  "راجع الجباية بالأرقام المحيّنة لقانون المالية الأخير (نسب الأداء على القيمة المضافة، جدول الضريبة على الدخل، الخصم من المورد) لأن النسب تتغير سنويا.",
+  "تدرّب على تمارين تطبيقية: احتساب الأداء على القيمة المضافة والضريبة على الدخل، وقيود المحاسبة العامة والموازنة.",
+  "أتقن المصطلحات الجبائية والمحاسبية بالعربية والفرنسية معا، لأن النصوص الجبائية والوثائق المهنية تُستعمل باللغتين.",
+  "إذا كان هدفك مراقبة المصاريف العمومية أو الرقابة العامة للمالية فالطريق عادة هو مناظرة المدرسة الوطنية للإدارة (للتثبت).",
+  "احذر الصفحات التي تطلب مقابلا ماليا للتسجيل أو تبيع «مواضيع رسمية»: التسجيل في مناظرات الدولة يتم عبر الرابط الوارد في البلاغ الرسمي فقط."
+ ],
+ "tips_fr": [
+  "Suivez les avis du site du ministère des Finances (finances.gov.tn), du portail national des concours et du JORT, et activez les alertes de la plateforme : les concours des Finances sont irréguliers et les délais d'inscription courts (environ 3 semaines en 2026).",
+  "Lisez intégralement l'arrêté d'ouverture : c'est la seule référence pour les spécialités admises, la limite d'âge, les matières, les coefficients et les pièces.",
+  "Révisez la fiscalité avec les chiffres à jour de la dernière loi de finances (taux de TVA, barème de l'IRPP, retenues à la source) : ils changent chaque année.",
+  "Entraînez-vous sur des exercices pratiques : liquidation de la TVA et de l'IRPP, écritures de comptabilité générale et bilan.",
+  "Maîtrisez la terminologie fiscale et comptable en arabe ET en français : les textes et documents professionnels circulent dans les deux langues.",
+  "Si vous visez le contrôle des dépenses publiques ou le Contrôle général des finances, la voie habituelle est le concours de l'ENA (à vérifier).",
+  "Méfiez-vous des pages qui font payer une « inscription » ou vendent des « sujets officiels » : l'inscription aux concours de l'État se fait uniquement via le lien de l'avis officiel."
+ ],
+ "research_notes": "LIMITE MÉTHODOLOGIQUE MAJEURE : lors de cette passe, le quota WebSearch partagé était épuisé dès la première requête (aucune recherche exécutée) et WebFetch renvoie EGRESS_BLOCKED pour tous les domaines testés (tuniscope.com, finances.gov.tn, concours.gov.tn, lapresse.tn, fr.wikipedia.org, legislation.tn, iort.gov.tn). AUCUNE page n'a été lue directement. Les faits non suggérés proviennent des notes de recherche consignées le même jour par l'équipe : docs/research/01-market-raw.md (434 inspecteurs des services financiers, inscriptions 20/08–10/09/2026, épreuves à partir du 05/10/2026, source s1 ; 1 754 recrutements Finances dans la LF 2026, s3/s4) et content/competitions/_openings.json (intitulé « مناظرة خارجية بالاختبارات لانتداب 434 متفقد مصالح مالية بعنوان سنة 2026 », niveau licence, s2). TOUS les faits portent donc needs_verification=true et aucun source_quote n'est fourni. ÉDITION 2024 (196 postes) : chiffre repris de docs/01-market-research.md (tableau des familles) SANS URL source ; intitulé, dates et statut inconnus — à confirmer ou supprimer. STATUT 2026 : EXAM_DONE posé car les épreuves ont débuté le 05/10/2026 ; si elles s'étalent sur plusieurs jours ou ont été reportées, repasser en CLOSED. Nombre de candidats non trouvé. À VÉRIFIER EN PRIORITÉ (arrêté d'ouverture au JORT / avis du ministère) : (1) référence et date de l'arrêté, plateforme d'inscription (concours.gov.tn ou plateforme du ministère) ; (2) conditions : diplômes et spécialités admis, limite d'âge et date de référence, éventuelle présélection sur dossier ; (3) épreuves écrites (nombre, forme rédaction/QCM, durées, coefficients), existence d'un oral, programme officiel éventuel ; (4) répartition des 434 postes par spécialité/direction (DGI vs comptabilité publique) et par région ; (5) pièces du dossier ; (6) durée et lieu de la formation initiale (École nationale des finances ? — non vérifié). POSITION « contrôleur des services financiers » : entièrement SUGGÉRÉE (grade probable du corps des services financiers, ex-« contrôleur des impôts / مراقب الأداءات ») ; aucun concours externe 2023–2026 trouvé ; diplôme (bac ou bac+2) inconnu — fixé à BAC pour ne pas exclure à tort des candidats lors des alertes. Hiérarchie suggérée du corps (non vérifiée) : contrôleur → inspecteur → inspecteur central → inspecteur en chef → inspecteur général des services financiers ; le statut particulier du corps (décret) n'a pas été consulté. PÉRIMÈTRE : contrôle des dépenses publiques (corps rattaché, semble-t-il, à la Présidence du gouvernement) et Contrôle général des finances recrutent en principe via l'ENA ou par concours internes — non traités comme positions ici (voir la famille « ena ») ; les Domaines de l'État relèvent du ministère des Domaines de l'État et des Affaires foncières, hors de cette famille ; la Douane a sa propre famille (« douane »). Les 16 techniciens (analyse chimique, génie civil) du ministère des Finances 2026 relevés dans _openings.json sont rattachés à une autre famille. Les éditions 2026 et 2024 sont liées à la seule position inspecteur (position_slugs) pour que les alertes ne ciblent pas les profils de niveau bac. CHOIX POUR LE MATCHING : aucune limite d'âge ni liste de spécialités n'est appliquée comme filtre automatique (valeurs inconnues) afin d'éviter d'exclure des candidats éligibles ; les conditions probables figurent dans other_ar/other_fr avec la mention [Suggestion]. Matières, blueprints (APPROXIMATED) et syllabus spec.finances-impots.* (scope SUGGESTED) sont des estimations éditoriales fondées sur les métiers des impôts et de la comptabilité publique ; les références légales citées dans les objectifs (loi 83-112, loi 2000-82 CDPF, loi 73-81 Code de la comptabilité publique, LOB 2019-15) sont des connaissances générales à recouper. Aucune annale (officielle ou communautaire) n'a pu être recherchée : past_exams vide."
+}

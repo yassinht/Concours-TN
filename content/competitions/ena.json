@@ -1,0 +1,1038 @@
+{
+ "family": {
+  "slug": "ena",
+  "field": "ADMINISTRATION",
+  "organization": {
+   "slug": "ena-tunis",
+   "name_ar": "المدرسة الوطنية للإدارة (تونس)",
+   "name_fr": "École nationale d'administration (ENA Tunis)",
+   "ministry_fr": "Présidence du gouvernement (tutelle à vérifier)",
+   "website": "https://www.ena.tn"
+  },
+  "name_ar": "مناظرة الدخول إلى المرحلة العليا بالمدرسة الوطنية للإدارة",
+  "name_fr": "Concours d'entrée au cycle supérieur de l'École nationale d'administration (ENA Tunis)",
+  "description_ar": "المدرسة الوطنية للإدارة بتونس هي المؤسسة العمومية المكلفة بتكوين الإطارات العليا للإدارة التونسية. تنظم سنويا مناظرة للدخول إلى المرحلة العليا (تكوين أساسي يفضي إلى الانتداب في خطة إطار سام بالإدارة). حسب ملخص البحث الداخلي للفريق، تشير الصفحة الرسمية للمدرسة (ena.tn) إلى 50 مقعدا في دورة 2025 وإلى إجراء الاختبارات الكتابية يومي 4 و5 أكتوبر 2025. تنبيه: تعذّر فتح موقع المدرسة أو الرائد الرسمي أثناء هذا البحث، لذلك فإن كل المعطيات الأخرى (شروط الترشح، المواد، الضوارب، المراحل، الرتبة عند التخرج) مقترحة وتحتاج إلى تثبت من قرار فتح المناظرة المنشور بالرائد الرسمي ومن موقع المدرسة. لم يتم العثور على أي دليل على وجود مناظرة حالية للمرحلة المتوسطة.",
+  "description_fr": "L'École nationale d'administration (ENA Tunis) forme les cadres supérieurs de l'administration tunisienne. Elle organise un concours d'entrée au cycle supérieur (formation initiale débouchant sur un recrutement comme cadre supérieur de l'État). Selon le résumé de recherche de l'équipe, la page officielle de l'école (ena.tn) annonçait 50 places pour la session 2025 et des épreuves écrites les 4 et 5 octobre 2025. Attention : le site de l'ENA et le JORT n'ont pas pu être consultés directement lors de cette recherche ; toutes les autres informations (conditions, matières, coefficients, phases, grade de sortie) sont des SUGGESTIONS à vérifier dans l'arrêté d'ouverture publié au JORT et sur ena.tn. Aucune preuve d'un concours actuel pour un cycle moyen n'a été trouvée.",
+  "frequency": "ANNUAL",
+  "frequency_confidence": "LOW",
+  "popularity": 3,
+  "keywords": [
+   "ENA",
+   "ENA Tunis",
+   "École nationale d'administration",
+   "المدرسة الوطنية للإدارة",
+   "cycle supérieur",
+   "المرحلة العليا",
+   "concours d'entrée",
+   "مناظرة الدخول",
+   "concours externe",
+   "مناظرة خارجية",
+   "concours interne",
+   "مناظرة داخلية",
+   "conseiller des services publics",
+   "مستشار المصالح العمومية",
+   "administration publique",
+   "الإدارة العمومية",
+   "fonction publique",
+   "الوظيفة العمومية",
+   "cadre supérieur",
+   "إطار سام",
+   "master",
+   "ماجستير",
+   "droit public",
+   "القانون العام",
+   "sciences politiques",
+   "العلوم السياسية",
+   "économie",
+   "اقتصاد",
+   "gestion",
+   "تصرف",
+   "finances publiques",
+   "المالية العمومية"
+  ]
+ },
+ "sources": [
+  {
+   "key": "s1",
+   "title": "Le concours d'entrée au cycle supérieur — École nationale d'administration (page officielle ena.tn)",
+   "url": "https://www.ena.tn/fr/concours/cycle-superieur/le-concours-dentree-au-cycle-superieur/",
+   "publisher": "École nationale d'administration (ENA Tunis)",
+   "source_type": "OFFICIAL",
+   "publication_date": null,
+   "retrieved_at": "2026-10-07",
+   "confidence": "MEDIUM",
+   "notes": "Page officielle de l'ENA (source primaire). PAGE NON OUVERTE dans cette passe : WebFetch renvoie EGRESS_BLOCKED pour www.ena.tn et le quota WebSearch partagé était épuisé. URL et faits repris du résumé de recherche consigné le même jour par l'équipe (docs/research/01-market-raw.md, section « Administration & ENA »), lui-même fondé sur un résumé de moteur de recherche. Titre reconstitué à partir de l'URL. Faits attribués à cette page : 50 places ; épreuves écrites les 4-5 octobre 2025. À relire intégralement : conditions de candidature (diplôme, âge, externe/interne), épreuves, coefficients, durées, calendrier, pièces du dossier."
+  }
+ ],
+ "editions": [
+  {
+   "year": 2025,
+   "session_label": "مناظرة الدخول إلى المرحلة العليا بالمدرسة الوطنية للإدارة – دورة 2025: 50 مقعدا، الاختبارات الكتابية يومي 4 و5 أكتوبر 2025 (حسب ملخص الصفحة الرسمية، للتثبت) / Concours d'entrée au cycle supérieur de l'ENA – session 2025 : 50 places, écrits les 4 et 5 octobre 2025 (selon le résumé de la page officielle, à vérifier)",
+   "status": "EXAM_DONE",
+   "registration_open": null,
+   "registration_deadline": null,
+   "exam_date": "2025-10-04",
+   "positions_count": 50,
+   "candidates_count": null,
+   "source_key": "s1",
+   "confidence": "MEDIUM",
+   "needs_verification": true
+  },
+  {
+   "year": 2026,
+   "session_label": "[مقترح] دورة 2026: متوقعة بالقياس على دورة 2025 (كتابي في بداية أكتوبر)؛ لم يتسنّ الاطلاع على أي قرار فتح أو بلاغ إلى غاية 7 أكتوبر 2026 / [Suggestion] Session 2026 : attendue par analogie avec 2025 (écrits début octobre) ; aucun arrêté d'ouverture ni avis n'a pu être consulté au 07/10/2026",
+   "status": "EXPECTED",
+   "registration_open": null,
+   "registration_deadline": null,
+   "exam_date": null,
+   "positions_count": null,
+   "candidates_count": null,
+   "source_key": null,
+   "confidence": "LOW",
+   "needs_verification": true
+  }
+ ],
+ "positions": [
+  {
+   "slug": "cycle-superieur-externe",
+   "title_ar": "المرحلة العليا – مناظرة خارجية (طالب بالمرحلة العليا للمدرسة الوطنية للإدارة)",
+   "title_fr": "Cycle supérieur – concours externe (élève du cycle supérieur de l'ENA)",
+   "diploma_level": "MASTER",
+   "eligibility": {
+    "min_age": null,
+    "max_age": null,
+    "genders": [
+     "M",
+     "F"
+    ],
+    "nationality": "TN",
+    "diplomas": [
+     "MASTER",
+     "ENGINEER"
+    ],
+    "specialties": [
+     "قانون",
+     "علوم قانونية",
+     "قانون عام",
+     "علوم سياسية",
+     "اقتصاد",
+     "علوم اقتصادية",
+     "تصرف",
+     "علوم التصرف",
+     "مالية",
+     "Droit",
+     "Sciences juridiques",
+     "Droit public",
+     "Sciences politiques",
+     "Économie",
+     "Sciences économiques",
+     "Gestion",
+     "Sciences de gestion",
+     "Finance",
+     "Administration publique"
+    ],
+    "min_height_cm_male": null,
+    "min_height_cm_female": null,
+    "marital_status": null,
+    "other_ar": [
+     "[مقترح] شهادة الماجستير أو شهادة معادلة (أو الأستاذية في الأنظمة القديمة) — المستوى والاختصاصات المقبولة للتثبت في قرار فتح المناظرة",
+     "[مقترح] حدود السن غير مؤكدة: قد يضبط قرار فتح المناظرة سنا قصوى خاصة؛ وإلا تنطبق الشروط العامة للقانون الأساسي العام للوظيفة العمومية",
+     "[مقترح] الجنسية التونسية، التمتع بالحقوق المدنية، حسن السيرة (بطاقة عدد 3 نقية)، القدرة البدنية",
+     "[مقترح] الالتزام بالعمل لفائدة الدولة لمدة معينة بعد التخرج (المدة للتثبت)",
+     "قائمة الاختصاصات أعلاه تقريبية لأغراض المطابقة الآلية؛ المرجع هو قائمة الشهادات المقبولة في القرار الرسمي"
+    ],
+    "other_fr": [
+     "[Suggestion] Master ou diplôme équivalent (ou maîtrise de l'ancien régime) — niveau et spécialités admis à vérifier dans l'arrêté d'ouverture",
+     "[Suggestion] Limites d'âge non confirmées : l'arrêté d'ouverture peut fixer un plafond spécifique ; à défaut, conditions générales du statut général de la fonction publique",
+     "[Suggestion] Nationalité tunisienne, jouissance des droits civiques, bonne moralité (bulletin n° 3 vierge), aptitude physique",
+     "[Suggestion] Engagement de servir l'État pendant une durée déterminée après la sortie (durée à vérifier)",
+     "La liste de spécialités ci-dessus est approximative (pour la correspondance automatique avec le profil) ; seule la liste des diplômes de l'arrêté fait foi"
+    ],
+    "source_key": null,
+    "confidence": "LOW",
+    "needs_verification": true,
+    "source_quote": null
+   },
+   "phases": [
+    {
+     "order": 1,
+     "kind": "FILE_REVIEW",
+     "name_ar": "الترشح عن بعد ودراسة الملفات",
+     "name_fr": "Inscription en ligne et examen de recevabilité des dossiers",
+     "is_eliminatory": true,
+     "duration_minutes": null,
+     "description_ar": "[مقترح] التسجيل عبر موقع المدرسة (ena.tn) أو المنصة التي يحددها البلاغ ثم إيداع/إرسال الملف في الآجال؛ تُقصى الملفات غير المستوفية للشروط.",
+     "description_fr": "[Suggestion] Inscription sur le site de l'ENA (ena.tn) ou la plateforme indiquée par l'avis, puis dépôt/envoi du dossier dans les délais ; les dossiers non conformes sont écartés.",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "order": 2,
+     "kind": "WRITTEN",
+     "name_ar": "الاختبارات الكتابية للقبول الأولي",
+     "name_fr": "Épreuves écrites d'admissibilité",
+     "is_eliminatory": true,
+     "duration_minutes": null,
+     "description_ar": "اختبارات كتابية جرت يومي 4 و5 أكتوبر في دورة 2025 (حسب ملخص الصفحة الرسمية). [مقترح] تتمثل عادة في مقال في الثقافة العامة واختبار في مادة اختصاص (قانون عام أو اقتصاد أو مالية عمومية أو تصرف) واختبار في لغة أجنبية؛ الطبيعة الدقيقة للاختبارات ومدتها وضواربها غير مؤكدة.",
+     "description_fr": "Épreuves écrites tenues les 4 et 5 octobre lors de la session 2025 (selon le résumé de la page officielle). [Suggestion] Elles comprennent habituellement une dissertation de culture générale, une épreuve de spécialité (droit public, économie, finances publiques ou gestion) et une épreuve de langue étrangère ; Nature exacte, durées et coefficients non confirmés.",
+     "source_key": "s1",
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "order": 3,
+     "kind": "ORAL",
+     "name_ar": "الاختبارات الشفاهية للقبول النهائي",
+     "name_fr": "Épreuves orales d'admission",
+     "is_eliminatory": true,
+     "duration_minutes": null,
+     "description_ar": "[مقترح] حوار مع لجنة المناظرة حول موضوع عام و/أو الدوافع والمعارف الإدارية، مع اختبار شفاهي محتمل في لغة أجنبية. للتثبت.",
+     "description_fr": "[Suggestion] Entretien avec le jury (sujet de culture générale et/ou motivation et connaissances administratives), avec possiblement une épreuve orale de langue étrangère. À vérifier.",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "order": 4,
+     "kind": "TRAINING",
+     "name_ar": "التكوين بالمرحلة العليا",
+     "name_fr": "Scolarité au cycle supérieur",
+     "is_eliminatory": false,
+     "duration_minutes": null,
+     "description_ar": "[مقترح] تكوين نظري وتربصات تطبيقية بالإدارات (المدة غير مؤكدة، في حدود سنتين)، مع منحة أو أجر حسب وضعية الطالب، والتزام بالعمل لفائدة الدولة لمدة يحددها النص، ثم التعيين حسب ترتيب التخرج. الرتبة عند التخرج غير مؤكدة (يُذكر عادة مستشار المصالح العمومية).",
+     "description_fr": "[Suggestion] Enseignements et stages en administration (durée non confirmée, de l'ordre de deux ans), avec bourse ou maintien de la rémunération selon le statut de l'élève, engagement de servir l'État pendant une durée fixée par les textes, puis affectation selon le classement de sortie. Grade de sortie non confirmé (souvent cité : conseiller des services publics).",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    }
+   ],
+   "subjects": [
+    {
+     "phase_order": 2,
+     "domain": "CULTURE_GENERALE",
+     "specialty_key": null,
+     "name_ar": "مقال في الثقافة العامة (قضايا سياسية واقتصادية واجتماعية وثقافية، تونس والعالم) – المدة والضارب للتثبت",
+     "name_fr": "Dissertation de culture générale (questions politiques, économiques, sociales et culturelles ; Tunisie et monde) – durée et coefficient à vérifier",
+     "coefficient": null,
+     "duration_minutes": null,
+     "question_count": null,
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "phase_order": 2,
+     "domain": "SPECIALTY",
+     "specialty_key": "spec.droit-administratif",
+     "name_ar": "القانون الإداري (التنظيم الإداري، القرار الإداري، العقود، المسؤولية، الوظيفة العمومية) – مادة اختيارية محتملة",
+     "name_fr": "Droit administratif (organisation administrative, acte administratif, contrats, responsabilité, fonction publique) – option probable",
+     "coefficient": null,
+     "duration_minutes": null,
+     "question_count": null,
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "phase_order": 2,
+     "domain": "SPECIALTY",
+     "specialty_key": "spec.droit-public",
+     "name_ar": "القانون الدستوري والمؤسسات السياسية (دستور 2022) – مادة اختيارية محتملة",
+     "name_fr": "Droit constitutionnel et institutions politiques (Constitution de 2022) – option probable",
+     "coefficient": null,
+     "duration_minutes": null,
+     "question_count": null,
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "phase_order": 2,
+     "domain": "SPECIALTY",
+     "specialty_key": "spec.ena.economie-politiques-publiques",
+     "name_ar": "الاقتصاد العام والسياسات العمومية والاقتصاد التونسي – مادة اختيارية محتملة",
+     "name_fr": "Économie générale, politiques publiques et économie tunisienne – option probable",
+     "coefficient": null,
+     "duration_minutes": null,
+     "question_count": null,
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "phase_order": 2,
+     "domain": "SPECIALTY",
+     "specialty_key": "spec.fiscalite",
+     "name_ar": "المالية العمومية والجباية (الميزانية، القانون الأساسي للميزانية) – مادة اختيارية محتملة",
+     "name_fr": "Finances publiques et fiscalité (budget, loi organique du budget) – option probable",
+     "coefficient": null,
+     "duration_minutes": null,
+     "question_count": null,
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "phase_order": 2,
+     "domain": "SPECIALTY",
+     "specialty_key": "spec.ena.management-public",
+     "name_ar": "التصرف العمومي والتصرف في الموارد البشرية بالإدارة – مادة اختيارية محتملة",
+     "name_fr": "Management public et gestion des ressources humaines publiques – option probable",
+     "coefficient": null,
+     "duration_minutes": null,
+     "question_count": null,
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "phase_order": 2,
+     "domain": "FRENCH",
+     "specialty_key": null,
+     "name_ar": "اللغة الفرنسية (تلخيص/تحرير أو ترجمة) – اختبار لغة أجنبية محتمل",
+     "name_fr": "Langue française (résumé/expression ou traduction) – épreuve de langue étrangère probable",
+     "coefficient": null,
+     "duration_minutes": null,
+     "question_count": null,
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "phase_order": 2,
+     "domain": "ENGLISH",
+     "specialty_key": null,
+     "name_ar": "اللغة الإنجليزية – اختيار محتمل كلغة أجنبية",
+     "name_fr": "Langue anglaise – choix possible comme langue étrangère",
+     "coefficient": null,
+     "duration_minutes": null,
+     "question_count": null,
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "phase_order": 2,
+     "domain": "ARABIC",
+     "specialty_key": null,
+     "name_ar": "اللغة العربية (جودة التحرير؛ لغة تحرير الاختبارات للتثبت)",
+     "name_fr": "Langue arabe (qualité de la rédaction ; langue de composition des épreuves à vérifier)",
+     "coefficient": null,
+     "duration_minutes": null,
+     "question_count": null,
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "phase_order": 3,
+     "domain": "CULTURE_GENERALE",
+     "specialty_key": null,
+     "name_ar": "حوار مع اللجنة (ثقافة عامة، دوافع، معرفة الإدارة التونسية)",
+     "name_fr": "Entretien avec le jury (culture générale, motivation, connaissance de l'administration tunisienne)",
+     "coefficient": null,
+     "duration_minutes": null,
+     "question_count": null,
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "phase_order": 3,
+     "domain": "ENGLISH",
+     "specialty_key": null,
+     "name_ar": "اختبار شفاهي في لغة أجنبية (محتمل)",
+     "name_fr": "Oral de langue étrangère (possible)",
+     "coefficient": null,
+     "duration_minutes": null,
+     "question_count": null,
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    }
+   ],
+   "physical_tests": [],
+   "required_documents": [
+    {
+     "text_ar": "مطلب ترشح أو استمارة التسجيل عن بعد ممضاة (للتثبت من الصيغة في البلاغ)",
+     "text_fr": "Demande de candidature ou fiche d'inscription en ligne signée (forme exacte à vérifier dans l'avis)",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "text_ar": "نسخة من بطاقة التعريف الوطنية",
+     "text_fr": "Copie de la carte d'identité nationale",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "text_ar": "نسخة مطابقة للأصل من الشهادة العلمية المطلوبة وكشوف الأعداد، وقرار معادلة بالنسبة للشهادات الأجنبية",
+     "text_fr": "Copie certifiée conforme du diplôme exigé et des relevés de notes, plus l'attestation d'équivalence pour les diplômes étrangers",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "text_ar": "بطاقة عدد 3 (السجل العدلي) لا يتجاوز تاريخها 3 أشهر",
+     "text_fr": "Bulletin n° 3 (extrait du casier judiciaire) de moins de 3 mois",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "text_ar": "شهادة طبية تثبت القدرة البدنية والذهنية",
+     "text_fr": "Certificat médical d'aptitude physique et mentale",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "text_ar": "وثيقة تثبت الوضعية إزاء الخدمة الوطنية (للذكور)",
+     "text_fr": "Document justifiant la situation vis-à-vis du service national (hommes)",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "text_ar": "صور شمسية حديثة",
+     "text_fr": "Photos d'identité récentes",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    }
+   ],
+   "blueprint": {
+    "total_minutes": 150,
+    "fidelity": "APPROXIMATED",
+    "sections": [
+     {
+      "domain": "CULTURE_GENERALE",
+      "specialty_key": null,
+      "count": 25,
+      "minutes": 30
+     },
+     {
+      "domain": "SPECIALTY",
+      "specialty_key": "spec.droit-administratif",
+      "count": 15,
+      "minutes": 20
+     },
+     {
+      "domain": "SPECIALTY",
+      "specialty_key": "spec.droit-public",
+      "count": 10,
+      "minutes": 15
+     },
+     {
+      "domain": "SPECIALTY",
+      "specialty_key": "spec.ena.economie-politiques-publiques",
+      "count": 12,
+      "minutes": 18
+     },
+     {
+      "domain": "SPECIALTY",
+      "specialty_key": "spec.fiscalite",
+      "count": 8,
+      "minutes": 12
+     },
+     {
+      "domain": "SPECIALTY",
+      "specialty_key": "spec.ena.management-public",
+      "count": 8,
+      "minutes": 12
+     },
+     {
+      "domain": "SPECIALTY",
+      "specialty_key": "spec.redaction-administrative",
+      "count": 8,
+      "minutes": 13
+     },
+     {
+      "domain": "ARABIC",
+      "specialty_key": null,
+      "count": 8,
+      "minutes": 10
+     },
+     {
+      "domain": "FRENCH",
+      "specialty_key": null,
+      "count": 8,
+      "minutes": 10
+     },
+     {
+      "domain": "ENGLISH",
+      "specialty_key": null,
+      "count": 8,
+      "minutes": 10
+     }
+    ]
+   }
+  },
+  {
+   "slug": "cycle-superieur-interne",
+   "title_ar": "المرحلة العليا – مناظرة داخلية (للأعوان العموميين المرسمين) [وجودها وشروطها للتثبت]",
+   "title_fr": "Cycle supérieur – concours interne (agents publics titulaires) [existence et conditions à vérifier]",
+   "diploma_level": "LICENCE",
+   "eligibility": {
+    "min_age": null,
+    "max_age": null,
+    "genders": [
+     "M",
+     "F"
+    ],
+    "nationality": "TN",
+    "diplomas": [
+     "LICENCE",
+     "MASTER",
+     "ENGINEER"
+    ],
+    "specialties": [],
+    "min_height_cm_male": null,
+    "min_height_cm_female": null,
+    "marital_status": null,
+    "other_ar": [
+     "[مقترح] أن يكون المترشح موظفا مرسما بالإدارة العمومية (صنف أ) ومتحصلا على شهادة جامعية (إجازة أو أستاذية على الأقل)",
+     "[مقترح] أقدمية دنيا في الوظيفة العمومية (عدد السنوات غير مؤكد) وموافقة الإدارة الأصلية",
+     "[مقترح] حدود السن، إن وُجدت، تُضبط بقرار فتح المناظرة",
+     "مطابقة الملف الشخصي: هذه المناظرة لا تهم إلا الأعوان العموميين المرسمين"
+    ],
+    "other_fr": [
+     "[Suggestion] Être fonctionnaire titulaire de l'administration publique (catégorie A) et titulaire d'un diplôme universitaire (au moins licence ou maîtrise)",
+     "[Suggestion] Ancienneté minimale dans la fonction publique (nombre d'années non confirmé) et accord de l'administration d'origine",
+     "[Suggestion] Limites d'âge éventuelles fixées par l'arrêté d'ouverture",
+     "Correspondance de profil : ce concours ne concerne que les agents publics titulaires"
+    ],
+    "source_key": null,
+    "confidence": "LOW",
+    "needs_verification": true,
+    "source_quote": null
+   },
+   "phases": [
+    {
+     "order": 1,
+     "kind": "FILE_REVIEW",
+     "name_ar": "الترشح عن بعد ودراسة الملفات",
+     "name_fr": "Inscription en ligne et examen de recevabilité des dossiers",
+     "is_eliminatory": true,
+     "duration_minutes": null,
+     "description_ar": "[مقترح] التسجيل عبر موقع المدرسة (ena.tn) أو المنصة التي يحددها البلاغ ثم إيداع/إرسال الملف في الآجال؛ تُقصى الملفات غير المستوفية للشروط. بالنسبة للمناظرة الداخلية يمر الترشح عادة عبر الإدارة الأصلية للموظف.",
+     "description_fr": "[Suggestion] Inscription sur le site de l'ENA (ena.tn) ou la plateforme indiquée par l'avis, puis dépôt/envoi du dossier dans les délais ; les dossiers non conformes sont écartés. Pour le concours interne, la candidature transite généralement par l'administration d'origine du fonctionnaire.",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "order": 2,
+     "kind": "WRITTEN",
+     "name_ar": "الاختبارات الكتابية للقبول الأولي",
+     "name_fr": "Épreuves écrites d'admissibilité",
+     "is_eliminatory": true,
+     "duration_minutes": null,
+     "description_ar": "اختبارات كتابية جرت يومي 4 و5 أكتوبر في دورة 2025 (حسب ملخص الصفحة الرسمية). [مقترح] تتمثل عادة في مقال في الثقافة العامة واختبار في مادة اختصاص (قانون عام أو اقتصاد أو مالية عمومية أو تصرف) واختبار في لغة أجنبية؛ وقد تتضمن المناظرة الداخلية مذكرة/تقريرا إداريا انطلاقا من ملف. الطبيعة الدقيقة للاختبارات ومدتها وضواربها غير مؤكدة.",
+     "description_fr": "Épreuves écrites tenues les 4 et 5 octobre lors de la session 2025 (selon le résumé de la page officielle). [Suggestion] Elles comprennent habituellement une dissertation de culture générale, une épreuve de spécialité (droit public, économie, finances publiques ou gestion) et une épreuve de langue étrangère ; le concours interne peut comporter une note administrative sur dossier. Nature exacte, durées et coefficients non confirmés.",
+     "source_key": "s1",
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "order": 3,
+     "kind": "ORAL",
+     "name_ar": "الاختبارات الشفاهية للقبول النهائي",
+     "name_fr": "Épreuves orales d'admission",
+     "is_eliminatory": true,
+     "duration_minutes": null,
+     "description_ar": "[مقترح] حوار مع لجنة المناظرة حول موضوع عام و/أو الدوافع والمعارف الإدارية، مع اختبار شفاهي محتمل في لغة أجنبية. للتثبت.",
+     "description_fr": "[Suggestion] Entretien avec le jury (sujet de culture générale et/ou motivation et connaissances administratives), avec possiblement une épreuve orale de langue étrangère. À vérifier.",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "order": 4,
+     "kind": "TRAINING",
+     "name_ar": "التكوين بالمرحلة العليا",
+     "name_fr": "Scolarité au cycle supérieur",
+     "is_eliminatory": false,
+     "duration_minutes": null,
+     "description_ar": "[مقترح] تكوين نظري وتربصات تطبيقية بالإدارات (المدة غير مؤكدة، في حدود سنتين)، مع منحة أو أجر حسب وضعية الطالب، والتزام بالعمل لفائدة الدولة لمدة يحددها النص، ثم التعيين حسب ترتيب التخرج. الرتبة عند التخرج غير مؤكدة (يُذكر عادة مستشار المصالح العمومية).",
+     "description_fr": "[Suggestion] Enseignements et stages en administration (durée non confirmée, de l'ordre de deux ans), avec bourse ou maintien de la rémunération selon le statut de l'élève, engagement de servir l'État pendant une durée fixée par les textes, puis affectation selon le classement de sortie. Grade de sortie non confirmé (souvent cité : conseiller des services publics).",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    }
+   ],
+   "subjects": [
+    {
+     "phase_order": 2,
+     "domain": "CULTURE_GENERALE",
+     "specialty_key": null,
+     "name_ar": "مقال في الثقافة العامة (قضايا سياسية واقتصادية واجتماعية وثقافية، تونس والعالم) – المدة والضارب للتثبت",
+     "name_fr": "Dissertation de culture générale (questions politiques, économiques, sociales et culturelles ; Tunisie et monde) – durée et coefficient à vérifier",
+     "coefficient": null,
+     "duration_minutes": null,
+     "question_count": null,
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "phase_order": 2,
+     "domain": "SPECIALTY",
+     "specialty_key": "spec.redaction-administrative",
+     "name_ar": "مذكرة أو تقرير إداري انطلاقا من ملف وثائقي (محتمل في المناظرة الداخلية)",
+     "name_fr": "Note ou rapport administratif sur dossier documentaire (probable pour le concours interne)",
+     "coefficient": null,
+     "duration_minutes": null,
+     "question_count": null,
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "phase_order": 2,
+     "domain": "SPECIALTY",
+     "specialty_key": "spec.droit-administratif",
+     "name_ar": "القانون الإداري (التنظيم الإداري، القرار الإداري، العقود، المسؤولية، الوظيفة العمومية) – مادة اختيارية محتملة",
+     "name_fr": "Droit administratif (organisation administrative, acte administratif, contrats, responsabilité, fonction publique) – option probable",
+     "coefficient": null,
+     "duration_minutes": null,
+     "question_count": null,
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "phase_order": 2,
+     "domain": "SPECIALTY",
+     "specialty_key": "spec.droit-public",
+     "name_ar": "القانون الدستوري والمؤسسات السياسية (دستور 2022) – مادة اختيارية محتملة",
+     "name_fr": "Droit constitutionnel et institutions politiques (Constitution de 2022) – option probable",
+     "coefficient": null,
+     "duration_minutes": null,
+     "question_count": null,
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "phase_order": 2,
+     "domain": "SPECIALTY",
+     "specialty_key": "spec.ena.economie-politiques-publiques",
+     "name_ar": "الاقتصاد العام والسياسات العمومية والاقتصاد التونسي – مادة اختيارية محتملة",
+     "name_fr": "Économie générale, politiques publiques et économie tunisienne – option probable",
+     "coefficient": null,
+     "duration_minutes": null,
+     "question_count": null,
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "phase_order": 2,
+     "domain": "SPECIALTY",
+     "specialty_key": "spec.fiscalite",
+     "name_ar": "المالية العمومية والجباية (الميزانية، القانون الأساسي للميزانية) – مادة اختيارية محتملة",
+     "name_fr": "Finances publiques et fiscalité (budget, loi organique du budget) – option probable",
+     "coefficient": null,
+     "duration_minutes": null,
+     "question_count": null,
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "phase_order": 2,
+     "domain": "SPECIALTY",
+     "specialty_key": "spec.ena.management-public",
+     "name_ar": "التصرف العمومي والتصرف في الموارد البشرية بالإدارة – مادة اختيارية محتملة",
+     "name_fr": "Management public et gestion des ressources humaines publiques – option probable",
+     "coefficient": null,
+     "duration_minutes": null,
+     "question_count": null,
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "phase_order": 2,
+     "domain": "FRENCH",
+     "specialty_key": null,
+     "name_ar": "اللغة الفرنسية (تلخيص/تحرير أو ترجمة) – اختبار لغة أجنبية محتمل",
+     "name_fr": "Langue française (résumé/expression ou traduction) – épreuve de langue étrangère probable",
+     "coefficient": null,
+     "duration_minutes": null,
+     "question_count": null,
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "phase_order": 2,
+     "domain": "ENGLISH",
+     "specialty_key": null,
+     "name_ar": "اللغة الإنجليزية – اختيار محتمل كلغة أجنبية",
+     "name_fr": "Langue anglaise – choix possible comme langue étrangère",
+     "coefficient": null,
+     "duration_minutes": null,
+     "question_count": null,
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "phase_order": 2,
+     "domain": "ARABIC",
+     "specialty_key": null,
+     "name_ar": "اللغة العربية (جودة التحرير؛ لغة تحرير الاختبارات للتثبت)",
+     "name_fr": "Langue arabe (qualité de la rédaction ; langue de composition des épreuves à vérifier)",
+     "coefficient": null,
+     "duration_minutes": null,
+     "question_count": null,
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "phase_order": 3,
+     "domain": "CULTURE_GENERALE",
+     "specialty_key": null,
+     "name_ar": "حوار مع اللجنة (ثقافة عامة، دوافع، معرفة الإدارة التونسية)",
+     "name_fr": "Entretien avec le jury (culture générale, motivation, connaissance de l'administration tunisienne)",
+     "coefficient": null,
+     "duration_minutes": null,
+     "question_count": null,
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "phase_order": 3,
+     "domain": "ENGLISH",
+     "specialty_key": null,
+     "name_ar": "اختبار شفاهي في لغة أجنبية (محتمل)",
+     "name_fr": "Oral de langue étrangère (possible)",
+     "coefficient": null,
+     "duration_minutes": null,
+     "question_count": null,
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    }
+   ],
+   "physical_tests": [],
+   "required_documents": [
+    {
+     "text_ar": "مطلب ترشح أو استمارة التسجيل عن بعد ممضاة (للتثبت من الصيغة في البلاغ)",
+     "text_fr": "Demande de candidature ou fiche d'inscription en ligne signée (forme exacte à vérifier dans l'avis)",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "text_ar": "نسخة من بطاقة التعريف الوطنية",
+     "text_fr": "Copie de la carte d'identité nationale",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "text_ar": "نسخة مطابقة للأصل من الشهادة العلمية المطلوبة وكشوف الأعداد، وقرار معادلة بالنسبة للشهادات الأجنبية",
+     "text_fr": "Copie certifiée conforme du diplôme exigé et des relevés de notes, plus l'attestation d'équivalence pour les diplômes étrangers",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "text_ar": "بطاقة عدد 3 (السجل العدلي) لا يتجاوز تاريخها 3 أشهر",
+     "text_fr": "Bulletin n° 3 (extrait du casier judiciaire) de moins de 3 mois",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "text_ar": "شهادة طبية تثبت القدرة البدنية والذهنية",
+     "text_fr": "Certificat médical d'aptitude physique et mentale",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "text_ar": "وثيقة تثبت الوضعية إزاء الخدمة الوطنية (للذكور)",
+     "text_fr": "Document justifiant la situation vis-à-vis du service national (hommes)",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "text_ar": "صور شمسية حديثة",
+     "text_fr": "Photos d'identité récentes",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "text_ar": "قرار الترسيم أو شهادة في الأقدمية والرتبة الحالية مسلمة من الإدارة الأصلية",
+     "text_fr": "Arrêté de titularisation ou attestation de grade et d'ancienneté délivrée par l'administration d'origine",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "text_ar": "موافقة الرئيس الإداري على الترشح",
+     "text_fr": "Autorisation du supérieur hiérarchique / avis favorable de l'administration d'origine",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    }
+   ],
+   "blueprint": {
+    "total_minutes": 120,
+    "fidelity": "APPROXIMATED",
+    "sections": [
+     {
+      "domain": "CULTURE_GENERALE",
+      "specialty_key": null,
+      "count": 20,
+      "minutes": 25
+     },
+     {
+      "domain": "SPECIALTY",
+      "specialty_key": "spec.droit-administratif",
+      "count": 15,
+      "minutes": 20
+     },
+     {
+      "domain": "SPECIALTY",
+      "specialty_key": "spec.redaction-administrative",
+      "count": 10,
+      "minutes": 15
+     },
+     {
+      "domain": "SPECIALTY",
+      "specialty_key": "spec.ena.management-public",
+      "count": 12,
+      "minutes": 18
+     },
+     {
+      "domain": "SPECIALTY",
+      "specialty_key": "spec.fiscalite",
+      "count": 8,
+      "minutes": 12
+     },
+     {
+      "domain": "SPECIALTY",
+      "specialty_key": "spec.droit-public",
+      "count": 6,
+      "minutes": 8
+     },
+     {
+      "domain": "SPECIALTY",
+      "specialty_key": "spec.ena.economie-politiques-publiques",
+      "count": 6,
+      "minutes": 8
+     },
+     {
+      "domain": "FRENCH",
+      "specialty_key": null,
+      "count": 6,
+      "minutes": 7
+     },
+     {
+      "domain": "ENGLISH",
+      "specialty_key": null,
+      "count": 6,
+      "minutes": 7
+     }
+    ]
+   }
+  }
+ ],
+ "specialty_syllabus": [
+  {
+   "key": "spec.ena.economie-politiques-publiques",
+   "parent_key": null,
+   "level": "UNIT",
+   "title_ar": "الاقتصاد العام والسياسات العمومية",
+   "title_fr": "Économie générale et politiques publiques",
+   "scope": "SUGGESTED",
+   "source_key": null,
+   "objectives": [
+    {
+     "key": "spec.ena.economie-politiques-publiques.o1",
+     "text_ar": "فهم المفاهيم الاقتصادية الأساسية وتطبيقها على الواقع التونسي",
+     "text_fr": "Comprendre les notions économiques de base et les appliquer à la réalité tunisienne"
+    },
+    {
+     "key": "spec.ena.economie-politiques-publiques.o2",
+     "text_ar": "تحليل سياسة عمومية من التصور إلى التقييم",
+     "text_fr": "Analyser une politique publique de sa conception à son évaluation"
+    }
+   ]
+  },
+  {
+   "key": "spec.ena.economie-politiques-publiques.macro",
+   "parent_key": "spec.ena.economie-politiques-publiques",
+   "level": "TOPIC",
+   "title_ar": "مفاهيم الاقتصاد الكلي",
+   "title_fr": "Notions de macroéconomie",
+   "scope": "SUGGESTED",
+   "source_key": null,
+   "objectives": [
+    {
+     "key": "spec.ena.economie-politiques-publiques.macro.o1",
+     "text_ar": "تعريف الناتج الداخلي الخام والنمو والتضخم والبطالة وميزان الدفوعات",
+     "text_fr": "Définir PIB, croissance, inflation, chômage et balance des paiements"
+    },
+    {
+     "key": "spec.ena.economie-politiques-publiques.macro.o2",
+     "text_ar": "التمييز بين السياسة النقدية (البنك المركزي) والسياسة الميزانية",
+     "text_fr": "Distinguer politique monétaire (banque centrale) et politique budgétaire"
+    }
+   ]
+  },
+  {
+   "key": "spec.ena.economie-politiques-publiques.tunisie",
+   "parent_key": "spec.ena.economie-politiques-publiques",
+   "level": "TOPIC",
+   "title_ar": "الاقتصاد التونسي",
+   "title_fr": "L'économie tunisienne",
+   "scope": "SUGGESTED",
+   "source_key": null,
+   "objectives": [
+    {
+     "key": "spec.ena.economie-politiques-publiques.tunisie.o1",
+     "text_ar": "وصف هيكل الاقتصاد التونسي وقطاعاته الرئيسية وأهم مؤشراته الحديثة",
+     "text_fr": "Décrire la structure de l'économie tunisienne, ses principaux secteurs et ses indicateurs récents"
+    },
+    {
+     "key": "spec.ena.economie-politiques-publiques.tunisie.o2",
+     "text_ar": "شرح رهانات المديونية والتشغيل والتنمية الجهوية ومخطط التنمية",
+     "text_fr": "Expliquer les enjeux de la dette, de l'emploi, du développement régional et du plan de développement"
+    }
+   ]
+  },
+  {
+   "key": "spec.ena.economie-politiques-publiques.politiques",
+   "parent_key": "spec.ena.economie-politiques-publiques",
+   "level": "TOPIC",
+   "title_ar": "السياسات العمومية وتقييمها",
+   "title_fr": "Politiques publiques et évaluation",
+   "scope": "SUGGESTED",
+   "source_key": null,
+   "objectives": [
+    {
+     "key": "spec.ena.economie-politiques-publiques.politiques.o1",
+     "text_ar": "تحديد مراحل دورة السياسة العمومية وأطرافها",
+     "text_fr": "Identifier les étapes du cycle d'une politique publique et ses acteurs"
+    },
+    {
+     "key": "spec.ena.economie-politiques-publiques.politiques.o2",
+     "text_ar": "اقتراح مؤشرات لتقييم نجاعة سياسة عمومية (اجتماعية، جهوية، رقمية...)",
+     "text_fr": "Proposer des indicateurs d'évaluation d'une politique publique (sociale, régionale, numérique...)"
+    }
+   ]
+  },
+  {
+   "key": "spec.ena.management-public",
+   "parent_key": null,
+   "level": "UNIT",
+   "title_ar": "التصرف العمومي وتحديث الإدارة",
+   "title_fr": "Management public et modernisation de l'administration",
+   "scope": "SUGGESTED",
+   "source_key": null,
+   "objectives": [
+    {
+     "key": "spec.ena.management-public.o1",
+     "text_ar": "فهم مبادئ التصرف العمومي الحديث وتطبيقها على الإدارة التونسية",
+     "text_fr": "Comprendre les principes du management public moderne et les appliquer à l'administration tunisienne"
+    }
+   ]
+  },
+  {
+   "key": "spec.ena.management-public.grh",
+   "parent_key": "spec.ena.management-public",
+   "level": "TOPIC",
+   "title_ar": "التصرف في الموارد البشرية بالإدارة",
+   "title_fr": "Gestion des ressources humaines publiques",
+   "scope": "SUGGESTED",
+   "source_key": null,
+   "objectives": [
+    {
+     "key": "spec.ena.management-public.grh.o1",
+     "text_ar": "شرح المسار المهني للموظف وفق القانون الأساسي العام للوظيفة العمومية (الانتداب، الترسيم، الترقية، التأديب)",
+     "text_fr": "Expliquer la carrière du fonctionnaire selon le statut général de la fonction publique (recrutement, titularisation, avancement, discipline)"
+    },
+    {
+     "key": "spec.ena.management-public.grh.o2",
+     "text_ar": "التعرف على أدوات التقييم والتكوين المستمر والتصرف التقديري في الكفاءات",
+     "text_fr": "Connaître les outils d'évaluation, de formation continue et de gestion prévisionnelle des compétences"
+    }
+   ]
+  },
+  {
+   "key": "spec.ena.management-public.gbo",
+   "parent_key": "spec.ena.management-public",
+   "level": "TOPIC",
+   "title_ar": "التصرف في الميزانية حسب الأهداف",
+   "title_fr": "Gestion budgétaire par objectifs (GBO)",
+   "scope": "SUGGESTED",
+   "source_key": null,
+   "objectives": [
+    {
+     "key": "spec.ena.management-public.gbo.o1",
+     "text_ar": "شرح منطق البرامج والأهداف ومؤشرات الأداء في القانون الأساسي للميزانية",
+     "text_fr": "Expliquer la logique programmes / objectifs / indicateurs de performance de la loi organique du budget"
+    },
+    {
+     "key": "spec.ena.management-public.gbo.o2",
+     "text_ar": "التمييز بين أدوار رئيس البرنامج وهياكل الرقابة",
+     "text_fr": "Distinguer les rôles du responsable de programme et des organes de contrôle"
+    }
+   ]
+  },
+  {
+   "key": "spec.ena.management-public.modernisation",
+   "parent_key": "spec.ena.management-public",
+   "level": "TOPIC",
+   "title_ar": "تحديث الإدارة والحوكمة والإدارة الرقمية",
+   "title_fr": "Modernisation administrative, gouvernance et e-administration",
+   "scope": "SUGGESTED",
+   "source_key": null,
+   "objectives": [
+    {
+     "key": "spec.ena.management-public.modernisation.o1",
+     "text_ar": "التعرف على مبادئ الحوكمة الرشيدة والشفافية والنفاذ إلى المعلومة ومكافحة الفساد",
+     "text_fr": "Connaître les principes de bonne gouvernance, transparence, accès à l'information et lutte contre la corruption"
+    },
+    {
+     "key": "spec.ena.management-public.modernisation.o2",
+     "text_ar": "تحليل مشروع رقمنة خدمة إدارية من زاوية المرتفق",
+     "text_fr": "Analyser un projet de digitalisation d'un service administratif du point de vue de l'usager"
+    }
+   ]
+  }
+ ],
+ "past_exams": [],
+ "tips_ar": [
+  "تابع موقع المدرسة الوطنية للإدارة (ena.tn) والرائد الرسمي منذ الصيف: في دورة 2025 أُجريت الاختبارات الكتابية في بداية أكتوبر، لذا يُرجّح أن يُفتح الترشح قبل ذلك ببضعة أسابيع (للتثبت).",
+  "اقرأ قرار فتح المناظرة كاملا: هو المرجع الوحيد للشروط والمواد والضوارب والآجال.",
+  "تدرّب على كتابة مقال في الثقافة العامة في وقت محدود (مقدمة، إشكالية، تصميم من جزأين أو ثلاثة، خاتمة) بالعربية وبالفرنسية.",
+  "راجع أساسيات القانون الإداري والقانون الدستوري (دستور 2022) والمالية العمومية والقانون الأساسي العام للوظيفة العمومية.",
+  "تابع المستجدات الاقتصادية والاجتماعية: قانون المالية، مخطط التنمية، المؤشرات الاقتصادية الرسمية، والعلاقات الدولية لتونس.",
+  "حضّر الحوار الشفاهي: تقديم نفسك ودوافعك في دقيقتين، ومعرفة تنظيم الدولة والإدارة التونسية، والقدرة على الدفاع عن رأي متوازن.",
+  "عدد المقاعد محدود (50 في دورة 2025 حسب الملخص)، فالمنافسة قوية: ابدأ التحضير مبكرا وبطريقة منتظمة."
+ ],
+ "tips_fr": [
+  "Surveillez le site de l'ENA (ena.tn) et le JORT dès l'été : en 2025 les écrits ont eu lieu début octobre, l'inscription s'ouvre donc probablement quelques semaines avant (à vérifier).",
+  "Lisez intégralement l'arrêté d'ouverture : c'est la seule référence pour les conditions, les matières, les coefficients et les délais.",
+  "Entraînez-vous à la dissertation de culture générale en temps limité (introduction, problématique, plan en deux ou trois parties, conclusion), en arabe et en français.",
+  "Révisez les bases du droit administratif, du droit constitutionnel (Constitution de 2022), des finances publiques et du statut général de la fonction publique.",
+  "Suivez l'actualité économique et sociale : loi de finances, plan de développement, indicateurs économiques officiels, relations internationales de la Tunisie.",
+  "Préparez l'oral : présentation et motivation en deux minutes, connaissance de l'organisation de l'État et de l'administration, capacité à défendre une position nuancée.",
+  "Le nombre de places est réduit (50 en 2025 selon le résumé) et la concurrence forte : commencez tôt et révisez régulièrement."
+ ],
+ "research_notes": "LIMITE MÉTHODOLOGIQUE MAJEURE : lors de cette passe, le quota WebSearch partagé était épuisé dès la première requête (aucune recherche exécutée) et WebFetch renvoie EGRESS_BLOCKED pour tous les domaines testés (www.ena.tn, www.ena.nat.tn, www.concours.gov.tn, www.iort.gov.tn, www.legislation.tn, www.lapresse.tn, www.tuniscope.com, fr/ar.wikipedia.org). AUCUNE page n'a été lue directement. Les seuls faits rattachés à une source (s1, page officielle ena.tn) proviennent du résumé de recherche consigné le même jour par l'équipe (docs/research/01-market-raw.md, section « Administration & ENA ») : 50 places et écrits les 4-5 octobre 2025 pour le cycle supérieur. C'est pourquoi TOUS les faits portent needs_verification=true (aucun fait publiable comme officiel en l'état) et aucun source_quote n'est fourni. TOUT LE RESTE EST SUGGÉRÉ (connaissances générales de l'équipe, non confirmées) : (1) existence et conditions d'un concours INTERNE au cycle supérieur (position « cycle-superieur-interne » : à supprimer si l'ENA n'en organise plus) ; (2) diplôme exigé pour l'externe (master/équivalent supposé ; licence non admise ?) et liste des spécialités, limites d'âge (aucune valeur retenue : max_age=null), date de référence de l'âge ; (3) nature, durées, coefficients et options des épreuves écrites (dissertation de culture générale, épreuve de spécialité au choix, langue étrangère) et des oraux (entretien, langue) — le blueprint est donc APPROXIMATED ; (4) durée et contenu de la scolarité (≈ 2 ans supposés), bourse, durée de l'engagement de servir l'État, grade de sortie (conseiller des services publics supposé), existence d'options/sections (administration générale, économique et financière... non confirmées) ; (5) pièces du dossier et plateforme d'inscription ; (6) tutelle (Présidence du gouvernement supposée). CYCLE MOYEN : aucune preuve d'un concours actuel d'entrée au cycle moyen n'a été trouvée ; il n'est donc pas modélisé comme position (à confirmer sur ena.tn, rubrique concours). ÉDITIONS : 2025 = EXAM_DONE (résultats non consultés, nombre de candidats inconnu) ; 2023, 2024 et 2026 non documentées (2026 marquée EXPECTED). Annales : aucune URL d'annales officielles ou communautaires n'a pu être consultée (past_exams vide) ; vérifier si ena.tn publie les sujets. À VÉRIFIER EN PRIORITÉ : l'arrêté (Chef du gouvernement) portant ouverture du concours d'entrée au cycle supérieur au titre de 2025 et 2026 au JORT (iort.gov.tn), et le décret fixant le régime du concours et des études au cycle supérieur de l'ENA, sources uniques des coefficients et du programme. Pour la notification des candidats par profil : les champs diplomas/specialties sont volontairement larges et approximatifs ; le concours interne ne doit être proposé qu'aux profils déclarés fonctionnaires titulaires."
+}

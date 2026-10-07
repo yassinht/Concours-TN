@@ -1,0 +1,1932 @@
+{
+  "family": {
+    "slug": "sncft",
+    "field": "PUBLIC_COMPANY",
+    "organization": {
+      "slug": "sncft",
+      "name_ar": "الشركة الوطنية للسكك الحديدية التونسية",
+      "name_fr": "Société Nationale des Chemins de Fer Tunisiens (SNCFT)",
+      "ministry_fr": "Ministère du Transport",
+      "website": "https://www.sncft.com.tn"
+    },
+    "name_ar": "مناظرات انتداب أعوان وإطارات الشركة الوطنية للسكك الحديدية التونسية",
+    "name_fr": "Concours de recrutement de la SNCFT (agents et cadres)",
+    "description_ar": "تنظم الشركة الوطنية للسكك الحديدية التونسية (SNCFT)، وهي منشأة عمومية تحت إشراف وزارة النقل تستغل شبكة السكك الحديدية لنقل المسافرين والبضائع، مناظرات خارجية غير منتظمة لانتداب أعوان تنفيذ وأعوان تحكم وإطارات في اختصاصات سياقة القطارات والاستغلال (الحركة والمناورة)، صيانة المعدات المتحركة، السكة والمنشآت والإشارات، الأنشطة التجارية والإدارة. حسب جريدة لابراس (مقال بتاريخ 27 ديسمبر 2025) أعلنت الشركة عن انتداب 575 عونا جديدا عن طريق المناظرة، وحسب سجل البحث الداخلي للفريق تمتد هذه العملية بين ديسمبر 2025 وجانفي 2026. تنبيه: لم يتسنّ فتح أي صفحة (رسمية أو صحفية) أثناء هذا البحث؛ قائمة الرتب والشروط والاختبارات والضوارب المذكورة هنا مقترحة وتحتاج إلى تثبت من البلاغ الرسمي للشركة قبل نشرها كمعطيات رسمية.",
+    "description_fr": "La Société Nationale des Chemins de Fer Tunisiens (SNCFT), entreprise publique sous la tutelle du ministère du Transport qui exploite le réseau ferroviaire (voyageurs et marchandises), organise de manière irrégulière des concours externes pour recruter des agents d'exécution, des agents de maîtrise et des cadres : conduite des trains, exploitation (circulation, manœuvre), maintenance du matériel roulant, voie, ouvrages et signalisation, activité commerciale et administration. Selon La Presse (article du 27 décembre 2025), la SNCFT a annoncé le recrutement de 575 nouveaux agents par voie de concours ; d'après le journal de recherche interne de l'équipe, l'opération s'étale de décembre 2025 à janvier 2026. Avertissement : aucune page (officielle ou de presse) n'a pu être ouverte lors de cette recherche ; la liste des grades, les conditions, les épreuves et les coefficients présentés ici sont des suggestions à vérifier sur l'avis officiel de la SNCFT avant toute publication comme faits officiels.",
+    "frequency": "IRREGULAR",
+    "frequency_confidence": "LOW",
+    "popularity": 3,
+    "keywords": [
+      "SNCFT",
+      "الشركة الوطنية للسكك الحديدية التونسية",
+      "السكك الحديدية",
+      "سكك حديدية",
+      "قطار",
+      "سائق قطار",
+      "مناظرة SNCFT",
+      "انتداب SNCFT",
+      "chemins de fer",
+      "chemin de fer",
+      "train",
+      "conducteur de train",
+      "concours SNCFT",
+      "recrutement SNCFT",
+      "transport ferroviaire",
+      "ferroviaire",
+      "575 agents",
+      "entreprise publique",
+      "مؤسسة عمومية",
+      "صيانة القطارات",
+      "maintenance ferroviaire"
+    ]
+  },
+  "sources": [
+    {
+      "key": "s1",
+      "title": "SNCFT : recrutement de 575 nouveaux agents par voie de concours (La Presse de Tunisie, 27/12/2025)",
+      "url": "https://www.lapresse.tn/2025/12/27/sncft-recrutement-de-575-nouveaux-agents-par-voie-de-concours/",
+      "publisher": "La Presse de Tunisie",
+      "source_type": "SECONDARY",
+      "publication_date": "2025-12-27",
+      "retrieved_at": "2026-10-07",
+      "confidence": "MEDIUM",
+      "notes": "PAGE NON OUVERTE dans cette passe : WebFetch renvoie EGRESS_BLOCKED pour www.lapresse.tn et le quota WebSearch partagé était épuisé dès la première requête. URL et fait repris du journal de recherche consigné par l'équipe (docs/research/01-market-raw.md, tableau « Public companies » : « SNCFT | 575 (Dec 2025–Jan 2026) »). Titre reconstitué à partir de l'URL ; date de publication déduite de l'URL. Seuls faits attribués : 575 nouveaux agents, recrutement par voie de concours, période décembre 2025 – janvier 2026. À relire : répartition par grade et spécialité, conditions d'âge et de diplôme, plateforme et dates d'inscription, nature des épreuves."
+    }
+  ],
+  "editions": [
+    {
+      "year": 2026,
+      "session_label": "الشركة الوطنية للسكك الحديدية التونسية: انتداب 575 عونا جديدا عن طريق المناظرة (إعلان نهاية ديسمبر 2025، الفترة ديسمبر 2025 – جانفي 2026 حسب سجل البحث؛ الآجال الدقيقة غير مؤكدة) / SNCFT : recrutement de 575 nouveaux agents par voie de concours (annonce fin décembre 2025, période décembre 2025 – janvier 2026 selon le journal de recherche ; dates exactes non confirmées)",
+      "status": "CLOSED",
+      "registration_open": null,
+      "registration_deadline": null,
+      "exam_date": null,
+      "positions_count": 575,
+      "candidates_count": null,
+      "source_key": "s1",
+      "confidence": "MEDIUM",
+      "needs_verification": true
+    }
+  ],
+  "positions": [
+    {
+      "slug": "agent-execution",
+      "title_ar": "عون تنفيذ (الاستغلال والصيانة: عامل مختص، عون مناورة، عون سكة)",
+      "title_fr": "Agent d'exécution (exploitation et maintenance : ouvrier spécialisé, agent de manœuvre, agent de voie)",
+      "diploma_level": "NINTH",
+      "eligibility": {
+        "min_age": 18,
+        "max_age": null,
+        "genders": [
+          "M",
+          "F"
+        ],
+        "nationality": "TN",
+        "diplomas": [
+          "NINTH"
+        ],
+        "specialties": [],
+        "min_height_cm_male": null,
+        "min_height_cm_female": null,
+        "marital_status": null,
+        "other_ar": [
+          "المستوى الدراسي المقترح: السنة التاسعة أساسي على الأقل مع شهادة تكوين مهني (شهادة الكفاءة المهنية CAP أو شهادة مؤهل تقني مهني BTP) في اختصاص له صلة (ميكانيك عامة، ميكانيك محركات الديزل، كهرباء، لحام، صيانة صناعية، أشغال عمومية) — غير مؤكد",
+          "قد تُشترط القدرة على العمل الليلي وبنظام المناوبة وفي مختلف جهات الشبكة — مقترح",
+          "الجنسية التونسية، التمتع بالحقوق المدنية ونقاوة السوابق العدلية (بطاقة عدد 3): شروط مقترحة بالقياس على الانتدابات في المنشآت العمومية",
+          "حد السن الأقصى غير معروف (كثيرا ما يكون بين 30 و40 سنة في مناظرات المنشآت العمومية) — للتثبت من بلاغ الشركة وتاريخ احتساب السن",
+          "القدرة البدنية والصحية على العمل (فحص طبي من طرف طب الشغل بالشركة) — مقترح",
+          "وضعية قانونية إزاء الخدمة الوطنية بالنسبة للذكور — مقترح، للتثبت"
+        ],
+        "other_fr": [
+          "Niveau suggéré : au moins la 9e année de base avec un diplôme de formation professionnelle (CAP ou BTP) dans une spécialité liée (mécanique générale, mécanique diesel, électricité, soudure, maintenance industrielle, travaux publics) — non confirmé",
+          "Disponibilité pour le travail de nuit, en roulement et sur l'ensemble du réseau possiblement exigée — suggestion",
+          "Nationalité tunisienne, jouissance des droits civiques et casier judiciaire vierge (bulletin n° 3) : conditions suggérées par analogie avec les recrutements des entreprises publiques",
+          "Âge maximum inconnu (souvent entre 30 et 40 ans dans les concours des entreprises publiques) — à vérifier dans l'avis de la SNCFT, ainsi que la date de référence pour le calcul de l'âge",
+          "Aptitude physique et médicale au poste (visite de médecine du travail de la société) — suggestion",
+          "Situation régulière vis-à-vis du service national pour les candidats de sexe masculin — suggestion, à vérifier"
+        ],
+        "source_key": null,
+        "confidence": "LOW",
+        "needs_verification": true,
+        "source_quote": null
+      },
+      "phases": [
+        {
+          "order": 1,
+          "kind": "FILE_REVIEW",
+          "name_ar": "الترشح والانتقاء الأولي بالملفات",
+          "name_fr": "Candidature et présélection sur dossier",
+          "is_eliminatory": true,
+          "duration_minutes": null,
+          "description_ar": "حسب الصحافة (لابراس، ديسمبر 2025) يتم انتداب الأعوان الجدد «عن طريق المناظرة». طريقة الترشح غير مؤكدة: يُرجّح التسجيل عن بعد عبر موقع الشركة (www.sncft.com.tn) أو عبر بلاغ يحدد طريقة إرسال الملفات، ثم التثبت من الشروط (السن، الشهادة، الاختصاص) وانتقاء أولي محتمل حسب المعدلات أو سنة التخرج — مقترح، للتثبت.",
+          "description_fr": "Selon la presse (La Presse, décembre 2025), les nouveaux agents sont recrutés « par voie de concours ». Le mode de candidature n'est pas confirmé : inscription probablement en ligne sur le site de la société (www.sncft.com.tn) ou envoi d'un dossier selon l'avis, puis contrôle des conditions (âge, diplôme, spécialité) et présélection possible selon les moyennes ou l'année d'obtention du diplôme — suggestion, à vérifier.",
+          "source_key": "s1",
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "order": 2,
+          "kind": "WRITTEN",
+          "name_ar": "الاختبار الكتابي",
+          "name_fr": "Épreuve(s) écrite(s)",
+          "is_eliminatory": true,
+          "duration_minutes": null,
+          "description_ar": "طبيعة الاختبار الكتابي غير منشورة: يُرجّح أن يتضمن أسئلة متعددة الاختيارات و/أو أسئلة قصيرة في الثقافة العامة واللغات والرياضيات الأساسية والاختصاص التقني. قد تكون المناظرة بالنسبة لأعوان التنفيذ بالملفات فقط أو مع اختبار تطبيقي في الورشة. مقترح، للتثبت من البلاغ الرسمي.",
+          "description_fr": "La nature de l'écrit n'est pas publiée : probablement un QCM et/ou des questions courtes de culture générale, langues, mathématiques de base et spécialité technique. Pour les agents d'exécution, le concours peut être sur dossier seulement ou comporter une épreuve pratique en atelier. Suggestion, à vérifier dans l'avis officiel.",
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "order": 3,
+          "kind": "ORAL",
+          "name_ar": "اختبار تطبيقي و/أو مقابلة",
+          "name_fr": "Épreuve pratique et/ou entretien",
+          "is_eliminatory": true,
+          "duration_minutes": null,
+          "description_ar": "اختبار تطبيقي في الاختصاص (قراءة رسم، استعمال أدوات القيس، عمليات صيانة بسيطة) و/أو مقابلة — مقترح، غير مؤكد.",
+          "description_fr": "Épreuve pratique de spécialité (lecture de plan, instruments de mesure, opérations de maintenance simples) et/ou entretien — suggestion, non confirmée.",
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "order": 4,
+          "kind": "MEDICAL",
+          "name_ar": "الفحص الطبي",
+          "name_fr": "Visite médicale d'aptitude",
+          "is_eliminatory": true,
+          "duration_minutes": null,
+          "description_ar": "فحص طبي للتأكد من القدرة على العمل واستكمال ملف الانتداب (بطاقة عدد 3، شهادات...) — مقترح بالقياس على الانتدابات في المنشآت العمومية، غير مؤكد.",
+          "description_fr": "Visite médicale d'aptitude et constitution du dossier d'embauche (bulletin n° 3, attestations…) — suggestion par analogie avec les recrutements des entreprises publiques, non confirmée.",
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "order": 5,
+          "kind": "TRAINING",
+          "name_ar": "تكوين أساسي وفترة تربص",
+          "name_fr": "Formation initiale et période d'essai",
+          "is_eliminatory": true,
+          "duration_minutes": null,
+          "description_ar": "تكوين أولي في قواعد السلامة الحديدية وفي الاختصاص ثم فترة تجربة قبل الترسيم — مقترح.",
+          "description_fr": "Formation initiale aux règles de sécurité ferroviaire et à la spécialité, puis période d'essai avant titularisation — suggestion.",
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        }
+      ],
+      "subjects": [
+        {
+          "phase_order": 2,
+          "domain": "CULTURE_GENERALE",
+          "specialty_key": null,
+          "name_ar": "ثقافة عامة (تونس، النقل، السلامة)",
+          "name_fr": "Culture générale (Tunisie, transport, sécurité)",
+          "coefficient": null,
+          "duration_minutes": null,
+          "question_count": null,
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "phase_order": 2,
+          "domain": "ARABIC",
+          "specialty_key": null,
+          "name_ar": "اللغة العربية (فهم نص، تحرير بسيط)",
+          "name_fr": "Langue arabe (compréhension, rédaction simple)",
+          "coefficient": null,
+          "duration_minutes": null,
+          "question_count": null,
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "phase_order": 2,
+          "domain": "FRENCH",
+          "specialty_key": null,
+          "name_ar": "اللغة الفرنسية (المصطلحات التقنية الأساسية)",
+          "name_fr": "Langue française (vocabulaire technique de base)",
+          "coefficient": null,
+          "duration_minutes": null,
+          "question_count": null,
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "phase_order": 2,
+          "domain": "NUMERICAL",
+          "specialty_key": null,
+          "name_ar": "رياضيات أساسية (حساب، نسب، قيس، مساحات وأحجام)",
+          "name_fr": "Mathématiques de base (calcul, proportions, mesures, aires et volumes)",
+          "coefficient": null,
+          "duration_minutes": null,
+          "question_count": null,
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "phase_order": 2,
+          "domain": "LOGIC",
+          "specialty_key": null,
+          "name_ar": "استدلال منطقي",
+          "name_fr": "Raisonnement logique",
+          "coefficient": null,
+          "duration_minutes": null,
+          "question_count": null,
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "phase_order": 2,
+          "domain": "SPECIALTY",
+          "specialty_key": "spec.sncft.mecanique",
+          "name_ar": "ميكانيك عامة وصيانة المعدات",
+          "name_fr": "Mécanique générale et maintenance du matériel",
+          "coefficient": null,
+          "duration_minutes": null,
+          "question_count": null,
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "phase_order": 2,
+          "domain": "SPECIALTY",
+          "specialty_key": "spec.electricite",
+          "name_ar": "كهرباء أساسية",
+          "name_fr": "Électricité de base",
+          "coefficient": null,
+          "duration_minutes": null,
+          "question_count": null,
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "phase_order": 2,
+          "domain": "SPECIALTY",
+          "specialty_key": "spec.sncft.securite-ferroviaire",
+          "name_ar": "قواعد السلامة الحديدية والسلامة المهنية",
+          "name_fr": "Règles de sécurité ferroviaire et sécurité au travail",
+          "coefficient": null,
+          "duration_minutes": null,
+          "question_count": null,
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        }
+      ],
+      "physical_tests": [],
+      "required_documents": [
+        {
+          "text_ar": "مطلب ترشح أو استمارة التسجيل عن بعد (نسخة مطبوعة وممضاة إن طُلبت)",
+          "text_fr": "Demande de candidature ou formulaire d'inscription en ligne (copie imprimée et signée si demandée)",
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "text_ar": "نسخة من بطاقة التعريف الوطنية",
+          "text_fr": "Copie de la carte d'identité nationale",
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "text_ar": "نسخ من الشهادات العلمية أو المهنية وكشوف الأعداد (مع معادلة الشهادة إن كانت أجنبية)",
+          "text_fr": "Copies des diplômes scolaires ou professionnels et des relevés de notes (avec équivalence pour un diplôme étranger)",
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "text_ar": "بطاقة عدد 3 (السوابق العدلية) حديثة",
+          "text_fr": "Bulletin n° 3 (extrait de casier judiciaire) récent",
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "text_ar": "شهادة طبية تثبت القدرة على العمل (أو الفحص لدى طب الشغل بالشركة بعد النجاح)",
+          "text_fr": "Certificat médical d'aptitude (ou visite de médecine du travail de la société après admission)",
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "text_ar": "وثيقة تثبت الوضعية إزاء الخدمة الوطنية بالنسبة للذكور",
+          "text_fr": "Justificatif de situation vis-à-vis du service national (candidats masculins)",
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "text_ar": "صور شمسية حديثة",
+          "text_fr": "Photos d'identité récentes",
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "text_ar": "نسخة من شهادة الكفاءة المهنية أو شهادة المؤهل التقني المهني إن وُجدت",
+          "text_fr": "Copie du CAP ou du BTP le cas échéant",
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        }
+      ],
+      "blueprint": {
+        "total_minutes": 90,
+        "fidelity": "APPROXIMATED",
+        "sections": [
+          {
+            "domain": "CULTURE_GENERALE",
+            "specialty_key": null,
+            "count": 10,
+            "minutes": 10
+          },
+          {
+            "domain": "ARABIC",
+            "specialty_key": null,
+            "count": 10,
+            "minutes": 10
+          },
+          {
+            "domain": "FRENCH",
+            "specialty_key": null,
+            "count": 8,
+            "minutes": 8
+          },
+          {
+            "domain": "NUMERICAL",
+            "specialty_key": null,
+            "count": 12,
+            "minutes": 20
+          },
+          {
+            "domain": "LOGIC",
+            "specialty_key": null,
+            "count": 10,
+            "minutes": 12
+          },
+          {
+            "domain": "SPECIALTY",
+            "specialty_key": "spec.sncft.mecanique",
+            "count": 10,
+            "minutes": 15
+          },
+          {
+            "domain": "SPECIALTY",
+            "specialty_key": "spec.electricite",
+            "count": 5,
+            "minutes": 8
+          },
+          {
+            "domain": "SPECIALTY",
+            "specialty_key": "spec.sncft.securite-ferroviaire",
+            "count": 5,
+            "minutes": 7
+          }
+        ]
+      }
+    },
+    {
+      "slug": "conducteur-train",
+      "title_ar": "سائق قطار / مساعد سائق (أعوان السياقة)",
+      "title_fr": "Conducteur de train / aide-conducteur (agents de conduite)",
+      "diploma_level": "SECONDARY",
+      "eligibility": {
+        "min_age": 18,
+        "max_age": null,
+        "genders": [
+          "M",
+          "F"
+        ],
+        "nationality": "TN",
+        "diplomas": [
+          "SECONDARY"
+        ],
+        "specialties": [],
+        "min_height_cm_male": null,
+        "min_height_cm_female": null,
+        "marital_status": null,
+        "other_ar": [
+          "المستوى الدراسي المقترح: التعليم الثانوي مع شهادة مؤهل تقني مهني (BTP) أو باكالوريا في اختصاص تقني (ميكانيك، كهرباء، كهروميكانيك) — غير مؤكد",
+          "النجاح في الاختبارات النفسية-التقنية وفي فحص طبي خاص بمناصب السلامة (البصر، الألوان، السمع) — مقترح بالقياس على الممارسات في السكك الحديدية",
+          "قبول العمل بنظام المناوبة (ليلا وأيام العطل) وفي مختلف الخطوط — مقترح",
+          "الجنسية التونسية، التمتع بالحقوق المدنية ونقاوة السوابق العدلية (بطاقة عدد 3): شروط مقترحة بالقياس على الانتدابات في المنشآت العمومية",
+          "حد السن الأقصى غير معروف (كثيرا ما يكون بين 30 و40 سنة في مناظرات المنشآت العمومية) — للتثبت من بلاغ الشركة وتاريخ احتساب السن",
+          "القدرة البدنية والصحية على العمل (فحص طبي من طرف طب الشغل بالشركة) — مقترح",
+          "وضعية قانونية إزاء الخدمة الوطنية بالنسبة للذكور — مقترح، للتثبت"
+        ],
+        "other_fr": [
+          "Niveau suggéré : enseignement secondaire avec BTP, ou baccalauréat technique (mécanique, électricité, électromécanique) — non confirmé",
+          "Réussite aux tests psychotechniques et à une visite médicale de poste de sécurité (vision, couleurs, audition) — suggestion fondée sur les pratiques ferroviaires",
+          "Acceptation du travail en roulement (nuits, jours fériés) et sur différentes lignes — suggestion",
+          "Nationalité tunisienne, jouissance des droits civiques et casier judiciaire vierge (bulletin n° 3) : conditions suggérées par analogie avec les recrutements des entreprises publiques",
+          "Âge maximum inconnu (souvent entre 30 et 40 ans dans les concours des entreprises publiques) — à vérifier dans l'avis de la SNCFT, ainsi que la date de référence pour le calcul de l'âge",
+          "Aptitude physique et médicale au poste (visite de médecine du travail de la société) — suggestion",
+          "Situation régulière vis-à-vis du service national pour les candidats de sexe masculin — suggestion, à vérifier"
+        ],
+        "source_key": null,
+        "confidence": "LOW",
+        "needs_verification": true,
+        "source_quote": null
+      },
+      "phases": [
+        {
+          "order": 1,
+          "kind": "FILE_REVIEW",
+          "name_ar": "الترشح والانتقاء الأولي بالملفات",
+          "name_fr": "Candidature et présélection sur dossier",
+          "is_eliminatory": true,
+          "duration_minutes": null,
+          "description_ar": "حسب الصحافة (لابراس، ديسمبر 2025) يتم انتداب الأعوان الجدد «عن طريق المناظرة». طريقة الترشح غير مؤكدة: يُرجّح التسجيل عن بعد عبر موقع الشركة (www.sncft.com.tn) أو عبر بلاغ يحدد طريقة إرسال الملفات، ثم التثبت من الشروط (السن، الشهادة، الاختصاص) وانتقاء أولي محتمل حسب المعدلات أو سنة التخرج — مقترح، للتثبت.",
+          "description_fr": "Selon la presse (La Presse, décembre 2025), les nouveaux agents sont recrutés « par voie de concours ». Le mode de candidature n'est pas confirmé : inscription probablement en ligne sur le site de la société (www.sncft.com.tn) ou envoi d'un dossier selon l'avis, puis contrôle des conditions (âge, diplôme, spécialité) et présélection possible selon les moyennes ou l'année d'obtention du diplôme — suggestion, à vérifier.",
+          "source_key": "s1",
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "order": 2,
+          "kind": "WRITTEN",
+          "name_ar": "الاختبار الكتابي",
+          "name_fr": "Épreuve(s) écrite(s)",
+          "is_eliminatory": true,
+          "duration_minutes": null,
+          "description_ar": "طبيعة الاختبار الكتابي غير منشورة: يُرجّح أن يتضمن أسئلة متعددة الاختيارات و/أو أسئلة قصيرة في الثقافة العامة واللغات والرياضيات الأساسية والاختصاص التقني. مقترح، للتثبت من البلاغ الرسمي.",
+          "description_fr": "La nature de l'écrit n'est pas publiée : probablement un QCM et/ou des questions courtes de culture générale, langues, mathématiques de base et spécialité technique. Suggestion, à vérifier dans l'avis officiel.",
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "order": 3,
+          "kind": "PSYCHOTECH",
+          "name_ar": "الاختبارات النفسية-التقنية",
+          "name_fr": "Tests psychotechniques",
+          "is_eliminatory": true,
+          "duration_minutes": null,
+          "description_ar": "اختبارات الانتباه والتركيز وسرعة رد الفعل والذاكرة والتوجه في الفضاء والاستدلال، وهي معتادة لمناصب السياقة في شبكات السكك الحديدية — مقترح، غير مؤكد بالنسبة لمناظرات الشركة الوطنية للسكك الحديدية التونسية.",
+          "description_fr": "Tests d'attention, de concentration, de temps de réaction, de mémoire, d'orientation spatiale et de raisonnement, habituels pour les postes de conduite dans les réseaux ferroviaires — suggestion, non confirmée pour les concours SNCFT.",
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "order": 4,
+          "kind": "INTERVIEW",
+          "name_ar": "الاختبار الشفاهي / مقابلة مع لجنة",
+          "name_fr": "Épreuve orale / entretien avec un jury",
+          "is_eliminatory": true,
+          "duration_minutes": null,
+          "description_ar": "مقابلة لتقييم الحوافز والانضباط ومعرفة الشركة وقواعد السلامة والمعلومات التقنية الأساسية في الاختصاص. المدة والضارب غير معروفين — مقترح بالقياس على مناظرات المنشآت العمومية.",
+          "description_fr": "Entretien évaluant la motivation, la rigueur, la connaissance de la société, des règles de sécurité et les bases techniques de la spécialité. Durée et coefficient inconnus — suggestion par analogie avec les concours des entreprises publiques.",
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "order": 5,
+          "kind": "MEDICAL",
+          "name_ar": "الفحص الطبي",
+          "name_fr": "Visite médicale d'aptitude",
+          "is_eliminatory": true,
+          "duration_minutes": null,
+          "description_ar": "فحص طبي معمّق خاص بالمناصب المرتبطة بسلامة حركة القطارات (حدة البصر، التمييز بين الألوان، السمع، القلب، عدم تعاطي المواد المخدرة) — مقترح بالقياس على المعايير المعمول بها في السكك الحديدية، غير مؤكد في تونس.",
+          "description_fr": "Visite médicale approfondie propre aux postes de sécurité ferroviaire (acuité visuelle, vision des couleurs, audition, cardiologie, absence de consommation de stupéfiants) — suggestion fondée sur les pratiques ferroviaires usuelles, non confirmée pour la Tunisie.",
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "order": 6,
+          "kind": "TRAINING",
+          "name_ar": "تكوين أساسي وتأهيل للسياقة",
+          "name_fr": "Formation initiale et habilitation à la conduite",
+          "is_eliminatory": true,
+          "duration_minutes": null,
+          "description_ar": "تكوين طويل نسبيا في مركز التكوين التابع للشركة (قواعد الحركة والإشارات، تكنولوجيا القاطرات، السياقة على الخط مرفوقا بسائق مؤطر) ثم تقييم للحصول على الإذن بالسياقة — مقترح، المدة غير معروفة.",
+          "description_fr": "Formation relativement longue au centre de formation de la société (règlement de circulation et signalisation, technologie des locomotives, conduite en ligne accompagnée d'un conducteur tuteur) puis évaluation pour l'habilitation à la conduite — suggestion, durée inconnue.",
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        }
+      ],
+      "subjects": [
+        {
+          "phase_order": 2,
+          "domain": "CULTURE_GENERALE",
+          "specialty_key": null,
+          "name_ar": "ثقافة عامة (تونس، النقل الحديدي)",
+          "name_fr": "Culture générale (Tunisie, transport ferroviaire)",
+          "coefficient": null,
+          "duration_minutes": null,
+          "question_count": null,
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "phase_order": 2,
+          "domain": "FRENCH",
+          "specialty_key": null,
+          "name_ar": "اللغة الفرنسية (فهم التعليمات التقنية)",
+          "name_fr": "Langue française (compréhension de consignes techniques)",
+          "coefficient": null,
+          "duration_minutes": null,
+          "question_count": null,
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "phase_order": 2,
+          "domain": "NUMERICAL",
+          "specialty_key": null,
+          "name_ar": "رياضيات وفيزياء أساسية (سرعة، مسافة، زمن)",
+          "name_fr": "Mathématiques et physique de base (vitesse, distance, temps)",
+          "coefficient": null,
+          "duration_minutes": null,
+          "question_count": null,
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "phase_order": 2,
+          "domain": "SPECIALTY",
+          "specialty_key": "spec.sncft.mecanique",
+          "name_ar": "ميكانيك ومحركات الديزل وأنظمة الكبح",
+          "name_fr": "Mécanique, moteurs diesel et systèmes de freinage",
+          "coefficient": null,
+          "duration_minutes": null,
+          "question_count": null,
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "phase_order": 2,
+          "domain": "SPECIALTY",
+          "specialty_key": "spec.electricite",
+          "name_ar": "كهرباء وكهروتقنية أساسية",
+          "name_fr": "Électricité et électrotechnique de base",
+          "coefficient": null,
+          "duration_minutes": null,
+          "question_count": null,
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "phase_order": 2,
+          "domain": "SPECIALTY",
+          "specialty_key": "spec.sncft.securite-ferroviaire",
+          "name_ar": "قواعد السلامة الحديدية والإشارات",
+          "name_fr": "Sécurité ferroviaire et signalisation",
+          "coefficient": null,
+          "duration_minutes": null,
+          "question_count": null,
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "phase_order": 3,
+          "domain": "PSYCHOTECH",
+          "specialty_key": null,
+          "name_ar": "اختبارات نفسية-تقنية (انتباه، ذاكرة، سرعة رد الفعل)",
+          "name_fr": "Tests psychotechniques (attention, mémoire, réactivité)",
+          "coefficient": null,
+          "duration_minutes": null,
+          "question_count": null,
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "phase_order": 3,
+          "domain": "LOGIC",
+          "specialty_key": null,
+          "name_ar": "استدلال منطقي ومتتاليات",
+          "name_fr": "Raisonnement logique et suites",
+          "coefficient": null,
+          "duration_minutes": null,
+          "question_count": null,
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        }
+      ],
+      "physical_tests": [],
+      "required_documents": [
+        {
+          "text_ar": "مطلب ترشح أو استمارة التسجيل عن بعد (نسخة مطبوعة وممضاة إن طُلبت)",
+          "text_fr": "Demande de candidature ou formulaire d'inscription en ligne (copie imprimée et signée si demandée)",
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "text_ar": "نسخة من بطاقة التعريف الوطنية",
+          "text_fr": "Copie de la carte d'identité nationale",
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "text_ar": "نسخ من الشهادات العلمية أو المهنية وكشوف الأعداد (مع معادلة الشهادة إن كانت أجنبية)",
+          "text_fr": "Copies des diplômes scolaires ou professionnels et des relevés de notes (avec équivalence pour un diplôme étranger)",
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "text_ar": "بطاقة عدد 3 (السوابق العدلية) حديثة",
+          "text_fr": "Bulletin n° 3 (extrait de casier judiciaire) récent",
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "text_ar": "شهادة طبية تثبت القدرة على العمل (أو الفحص لدى طب الشغل بالشركة بعد النجاح)",
+          "text_fr": "Certificat médical d'aptitude (ou visite de médecine du travail de la société après admission)",
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "text_ar": "وثيقة تثبت الوضعية إزاء الخدمة الوطنية بالنسبة للذكور",
+          "text_fr": "Justificatif de situation vis-à-vis du service national (candidats masculins)",
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "text_ar": "صور شمسية حديثة",
+          "text_fr": "Photos d'identité récentes",
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "text_ar": "نسخة من شهادة المؤهل التقني المهني أو شهادة الباكالوريا",
+          "text_fr": "Copie du BTP ou du diplôme du baccalauréat",
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        }
+      ],
+      "blueprint": {
+        "total_minutes": 120,
+        "fidelity": "APPROXIMATED",
+        "sections": [
+          {
+            "domain": "PSYCHOTECH",
+            "specialty_key": null,
+            "count": 25,
+            "minutes": 30
+          },
+          {
+            "domain": "LOGIC",
+            "specialty_key": null,
+            "count": 12,
+            "minutes": 15
+          },
+          {
+            "domain": "NUMERICAL",
+            "specialty_key": null,
+            "count": 10,
+            "minutes": 15
+          },
+          {
+            "domain": "FRENCH",
+            "specialty_key": null,
+            "count": 10,
+            "minutes": 10
+          },
+          {
+            "domain": "CULTURE_GENERALE",
+            "specialty_key": null,
+            "count": 10,
+            "minutes": 10
+          },
+          {
+            "domain": "SPECIALTY",
+            "specialty_key": "spec.sncft.securite-ferroviaire",
+            "count": 12,
+            "minutes": 15
+          },
+          {
+            "domain": "SPECIALTY",
+            "specialty_key": "spec.sncft.mecanique",
+            "count": 10,
+            "minutes": 15
+          },
+          {
+            "domain": "SPECIALTY",
+            "specialty_key": "spec.electricite",
+            "count": 6,
+            "minutes": 10
+          }
+        ]
+      }
+    },
+    {
+      "slug": "agent-commercial",
+      "title_ar": "عون تجاري (بيع التذاكر، الاستقبال، المراقبة على متن القطارات)",
+      "title_fr": "Agent commercial (vente de billets, accueil, contrôle à bord des trains)",
+      "diploma_level": "BAC",
+      "eligibility": {
+        "min_age": 18,
+        "max_age": null,
+        "genders": [
+          "M",
+          "F"
+        ],
+        "nationality": "TN",
+        "diplomas": [
+          "BAC"
+        ],
+        "specialties": [],
+        "min_height_cm_male": null,
+        "min_height_cm_female": null,
+        "marital_status": null,
+        "other_ar": [
+          "المستوى الدراسي المقترح: الباكالوريا (وقد يُقبل مستوى جامعي في التجارة أو التصرف أو السياحة) — غير مؤكد",
+          "إتقان العربية والفرنسية ومستوى مقبول في الأنقليزية للتعامل مع المسافرين — مقترح",
+          "الجنسية التونسية، التمتع بالحقوق المدنية ونقاوة السوابق العدلية (بطاقة عدد 3): شروط مقترحة بالقياس على الانتدابات في المنشآت العمومية",
+          "حد السن الأقصى غير معروف (كثيرا ما يكون بين 30 و40 سنة في مناظرات المنشآت العمومية) — للتثبت من بلاغ الشركة وتاريخ احتساب السن",
+          "القدرة البدنية والصحية على العمل (فحص طبي من طرف طب الشغل بالشركة) — مقترح",
+          "وضعية قانونية إزاء الخدمة الوطنية بالنسبة للذكور — مقترح، للتثبت"
+        ],
+        "other_fr": [
+          "Niveau suggéré : baccalauréat (un niveau universitaire en commerce, gestion ou tourisme pourrait être accepté) — non confirmé",
+          "Maîtrise de l'arabe et du français et un niveau correct en anglais pour l'accueil des voyageurs — suggestion",
+          "Nationalité tunisienne, jouissance des droits civiques et casier judiciaire vierge (bulletin n° 3) : conditions suggérées par analogie avec les recrutements des entreprises publiques",
+          "Âge maximum inconnu (souvent entre 30 et 40 ans dans les concours des entreprises publiques) — à vérifier dans l'avis de la SNCFT, ainsi que la date de référence pour le calcul de l'âge",
+          "Aptitude physique et médicale au poste (visite de médecine du travail de la société) — suggestion",
+          "Situation régulière vis-à-vis du service national pour les candidats de sexe masculin — suggestion, à vérifier"
+        ],
+        "source_key": null,
+        "confidence": "LOW",
+        "needs_verification": true,
+        "source_quote": null
+      },
+      "phases": [
+        {
+          "order": 1,
+          "kind": "FILE_REVIEW",
+          "name_ar": "الترشح والانتقاء الأولي بالملفات",
+          "name_fr": "Candidature et présélection sur dossier",
+          "is_eliminatory": true,
+          "duration_minutes": null,
+          "description_ar": "حسب الصحافة (لابراس، ديسمبر 2025) يتم انتداب الأعوان الجدد «عن طريق المناظرة». طريقة الترشح غير مؤكدة: يُرجّح التسجيل عن بعد عبر موقع الشركة (www.sncft.com.tn) أو عبر بلاغ يحدد طريقة إرسال الملفات، ثم التثبت من الشروط (السن، الشهادة، الاختصاص) وانتقاء أولي محتمل حسب المعدلات أو سنة التخرج — مقترح، للتثبت.",
+          "description_fr": "Selon la presse (La Presse, décembre 2025), les nouveaux agents sont recrutés « par voie de concours ». Le mode de candidature n'est pas confirmé : inscription probablement en ligne sur le site de la société (www.sncft.com.tn) ou envoi d'un dossier selon l'avis, puis contrôle des conditions (âge, diplôme, spécialité) et présélection possible selon les moyennes ou l'année d'obtention du diplôme — suggestion, à vérifier.",
+          "source_key": "s1",
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "order": 2,
+          "kind": "WRITTEN",
+          "name_ar": "الاختبار الكتابي",
+          "name_fr": "Épreuve(s) écrite(s)",
+          "is_eliminatory": true,
+          "duration_minutes": null,
+          "description_ar": "طبيعة الاختبار الكتابي غير منشورة: يُرجّح أن يتضمن أسئلة متعددة الاختيارات و/أو أسئلة قصيرة في الثقافة العامة واللغات والرياضيات الأساسية والاختصاص التقني. مقترح، للتثبت من البلاغ الرسمي.",
+          "description_fr": "La nature de l'écrit n'est pas publiée : probablement un QCM et/ou des questions courtes de culture générale, langues, mathématiques de base et spécialité technique. Suggestion, à vérifier dans l'avis officiel.",
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "order": 3,
+          "kind": "ORAL",
+          "name_ar": "الاختبار الشفاهي / مقابلة مع لجنة",
+          "name_fr": "Épreuve orale / entretien avec un jury",
+          "is_eliminatory": true,
+          "duration_minutes": null,
+          "description_ar": "مقابلة لتقييم الحوافز والانضباط ومعرفة الشركة وقواعد السلامة والمعلومات التقنية الأساسية في الاختصاص. المدة والضارب غير معروفين — مقترح بالقياس على مناظرات المنشآت العمومية.",
+          "description_fr": "Entretien évaluant la motivation, la rigueur, la connaissance de la société, des règles de sécurité et les bases techniques de la spécialité. Durée et coefficient inconnus — suggestion par analogie avec les concours des entreprises publiques.",
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "order": 4,
+          "kind": "MEDICAL",
+          "name_ar": "الفحص الطبي",
+          "name_fr": "Visite médicale d'aptitude",
+          "is_eliminatory": true,
+          "duration_minutes": null,
+          "description_ar": "فحص طبي للتأكد من القدرة على العمل واستكمال ملف الانتداب (بطاقة عدد 3، شهادات...) — مقترح بالقياس على الانتدابات في المنشآت العمومية، غير مؤكد.",
+          "description_fr": "Visite médicale d'aptitude et constitution du dossier d'embauche (bulletin n° 3, attestations…) — suggestion par analogie avec les recrutements des entreprises publiques, non confirmée.",
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "order": 5,
+          "kind": "TRAINING",
+          "name_ar": "تكوين أساسي وفترة تربص",
+          "name_fr": "Formation initiale et période d'essai",
+          "is_eliminatory": true,
+          "duration_minutes": null,
+          "description_ar": "تكوين في التعريفات ونظام بيع التذاكر وقواعد نقل المسافرين وقواعد السلامة — مقترح.",
+          "description_fr": "Formation à la tarification, au système de billetterie, à la réglementation voyageurs et aux règles de sécurité — suggestion.",
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        }
+      ],
+      "subjects": [
+        {
+          "phase_order": 2,
+          "domain": "CULTURE_GENERALE",
+          "specialty_key": null,
+          "name_ar": "ثقافة عامة (تونس، جغرافية الشبكة، الأحداث الجارية)",
+          "name_fr": "Culture générale (Tunisie, géographie du réseau, actualité)",
+          "coefficient": null,
+          "duration_minutes": null,
+          "question_count": null,
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "phase_order": 2,
+          "domain": "ARABIC",
+          "specialty_key": null,
+          "name_ar": "اللغة العربية",
+          "name_fr": "Langue arabe",
+          "coefficient": null,
+          "duration_minutes": null,
+          "question_count": null,
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "phase_order": 2,
+          "domain": "FRENCH",
+          "specialty_key": null,
+          "name_ar": "اللغة الفرنسية",
+          "name_fr": "Langue française",
+          "coefficient": null,
+          "duration_minutes": null,
+          "question_count": null,
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "phase_order": 2,
+          "domain": "ENGLISH",
+          "specialty_key": null,
+          "name_ar": "اللغة الأنقليزية (تواصل مع المسافرين)",
+          "name_fr": "Langue anglaise (communication avec les voyageurs)",
+          "coefficient": null,
+          "duration_minutes": null,
+          "question_count": null,
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "phase_order": 2,
+          "domain": "NUMERICAL",
+          "specialty_key": null,
+          "name_ar": "حساب تجاري (نسب، تخفيضات، إرجاع الصرف، جداول التوقيت)",
+          "name_fr": "Calcul commercial (pourcentages, réductions, rendu de monnaie, horaires)",
+          "coefficient": null,
+          "duration_minutes": null,
+          "question_count": null,
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "phase_order": 2,
+          "domain": "LOGIC",
+          "specialty_key": null,
+          "name_ar": "استدلال منطقي",
+          "name_fr": "Raisonnement logique",
+          "coefficient": null,
+          "duration_minutes": null,
+          "question_count": null,
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "phase_order": 2,
+          "domain": "SPECIALTY",
+          "specialty_key": "spec.sncft.commercial-transport",
+          "name_ar": "الاستقبال والعمل التجاري في النقل",
+          "name_fr": "Accueil et action commerciale dans le transport",
+          "coefficient": null,
+          "duration_minutes": null,
+          "question_count": null,
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        }
+      ],
+      "physical_tests": [],
+      "required_documents": [
+        {
+          "text_ar": "مطلب ترشح أو استمارة التسجيل عن بعد (نسخة مطبوعة وممضاة إن طُلبت)",
+          "text_fr": "Demande de candidature ou formulaire d'inscription en ligne (copie imprimée et signée si demandée)",
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "text_ar": "نسخة من بطاقة التعريف الوطنية",
+          "text_fr": "Copie de la carte d'identité nationale",
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "text_ar": "نسخ من الشهادات العلمية أو المهنية وكشوف الأعداد (مع معادلة الشهادة إن كانت أجنبية)",
+          "text_fr": "Copies des diplômes scolaires ou professionnels et des relevés de notes (avec équivalence pour un diplôme étranger)",
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "text_ar": "بطاقة عدد 3 (السوابق العدلية) حديثة",
+          "text_fr": "Bulletin n° 3 (extrait de casier judiciaire) récent",
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "text_ar": "شهادة طبية تثبت القدرة على العمل (أو الفحص لدى طب الشغل بالشركة بعد النجاح)",
+          "text_fr": "Certificat médical d'aptitude (ou visite de médecine du travail de la société après admission)",
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "text_ar": "وثيقة تثبت الوضعية إزاء الخدمة الوطنية بالنسبة للذكور",
+          "text_fr": "Justificatif de situation vis-à-vis du service national (candidats masculins)",
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "text_ar": "صور شمسية حديثة",
+          "text_fr": "Photos d'identité récentes",
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "text_ar": "نسخة من شهادة الباكالوريا وكشف أعدادها",
+          "text_fr": "Copie du diplôme et du relevé de notes du baccalauréat",
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        }
+      ],
+      "blueprint": {
+        "total_minutes": 90,
+        "fidelity": "APPROXIMATED",
+        "sections": [
+          {
+            "domain": "CULTURE_GENERALE",
+            "specialty_key": null,
+            "count": 12,
+            "minutes": 12
+          },
+          {
+            "domain": "ARABIC",
+            "specialty_key": null,
+            "count": 10,
+            "minutes": 10
+          },
+          {
+            "domain": "FRENCH",
+            "specialty_key": null,
+            "count": 10,
+            "minutes": 10
+          },
+          {
+            "domain": "ENGLISH",
+            "specialty_key": null,
+            "count": 8,
+            "minutes": 8
+          },
+          {
+            "domain": "NUMERICAL",
+            "specialty_key": null,
+            "count": 12,
+            "minutes": 18
+          },
+          {
+            "domain": "LOGIC",
+            "specialty_key": null,
+            "count": 10,
+            "minutes": 12
+          },
+          {
+            "domain": "SPECIALTY",
+            "specialty_key": "spec.sncft.commercial-transport",
+            "count": 15,
+            "minutes": 20
+          }
+        ]
+      }
+    },
+    {
+      "slug": "technicien-maitrise",
+      "title_ar": "تقني / عون تحكم (صيانة المعدات المتحركة، السكة، الإشارات والكهرباء، الإعلامية)",
+      "title_fr": "Technicien / agent de maîtrise (maintenance du matériel roulant, voie, signalisation et électricité, informatique)",
+      "diploma_level": "BAC_PLUS_2",
+      "eligibility": {
+        "min_age": 18,
+        "max_age": null,
+        "genders": [
+          "M",
+          "F"
+        ],
+        "nationality": "TN",
+        "diplomas": [
+          "BAC_PLUS_2"
+        ],
+        "specialties": [],
+        "min_height_cm_male": null,
+        "min_height_cm_female": null,
+        "marital_status": null,
+        "other_ar": [
+          "المستوى الدراسي المقترح: شهادة تقني سام (BTS) أو إجازة تطبيقية في الميكانيك أو الكهروميكانيك أو الكهرباء أو الإلكترونيك أو الإعلامية الصناعية أو الهندسة المدنية — غير مؤكد",
+          "قائمة الاختصاصات المطلوبة تحدد في البلاغ؛ يجب أن تتطابق تسمية الشهادة مع القائمة — مقترح",
+          "الجنسية التونسية، التمتع بالحقوق المدنية ونقاوة السوابق العدلية (بطاقة عدد 3): شروط مقترحة بالقياس على الانتدابات في المنشآت العمومية",
+          "حد السن الأقصى غير معروف (كثيرا ما يكون بين 30 و40 سنة في مناظرات المنشآت العمومية) — للتثبت من بلاغ الشركة وتاريخ احتساب السن",
+          "القدرة البدنية والصحية على العمل (فحص طبي من طرف طب الشغل بالشركة) — مقترح",
+          "وضعية قانونية إزاء الخدمة الوطنية بالنسبة للذكور — مقترح، للتثبت"
+        ],
+        "other_fr": [
+          "Niveau suggéré : BTS ou licence appliquée en mécanique, électromécanique, électricité, électronique, informatique industrielle ou génie civil — non confirmé",
+          "La liste des spécialités est fixée par l'avis ; l'intitulé du diplôme doit correspondre à la liste — suggestion",
+          "Nationalité tunisienne, jouissance des droits civiques et casier judiciaire vierge (bulletin n° 3) : conditions suggérées par analogie avec les recrutements des entreprises publiques",
+          "Âge maximum inconnu (souvent entre 30 et 40 ans dans les concours des entreprises publiques) — à vérifier dans l'avis de la SNCFT, ainsi que la date de référence pour le calcul de l'âge",
+          "Aptitude physique et médicale au poste (visite de médecine du travail de la société) — suggestion",
+          "Situation régulière vis-à-vis du service national pour les candidats de sexe masculin — suggestion, à vérifier"
+        ],
+        "source_key": null,
+        "confidence": "LOW",
+        "needs_verification": true,
+        "source_quote": null
+      },
+      "phases": [
+        {
+          "order": 1,
+          "kind": "FILE_REVIEW",
+          "name_ar": "الترشح والانتقاء الأولي بالملفات",
+          "name_fr": "Candidature et présélection sur dossier",
+          "is_eliminatory": true,
+          "duration_minutes": null,
+          "description_ar": "حسب الصحافة (لابراس، ديسمبر 2025) يتم انتداب الأعوان الجدد «عن طريق المناظرة». طريقة الترشح غير مؤكدة: يُرجّح التسجيل عن بعد عبر موقع الشركة (www.sncft.com.tn) أو عبر بلاغ يحدد طريقة إرسال الملفات، ثم التثبت من الشروط (السن، الشهادة، الاختصاص) وانتقاء أولي محتمل حسب المعدلات أو سنة التخرج — مقترح، للتثبت.",
+          "description_fr": "Selon la presse (La Presse, décembre 2025), les nouveaux agents sont recrutés « par voie de concours ». Le mode de candidature n'est pas confirmé : inscription probablement en ligne sur le site de la société (www.sncft.com.tn) ou envoi d'un dossier selon l'avis, puis contrôle des conditions (âge, diplôme, spécialité) et présélection possible selon les moyennes ou l'année d'obtention du diplôme — suggestion, à vérifier.",
+          "source_key": "s1",
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "order": 2,
+          "kind": "WRITTEN",
+          "name_ar": "الاختبار الكتابي",
+          "name_fr": "Épreuve(s) écrite(s)",
+          "is_eliminatory": true,
+          "duration_minutes": null,
+          "description_ar": "طبيعة الاختبار الكتابي غير منشورة: يُرجّح أن يتضمن أسئلة متعددة الاختيارات و/أو أسئلة قصيرة في الثقافة العامة واللغات والرياضيات الأساسية والاختصاص التقني. مقترح، للتثبت من البلاغ الرسمي.",
+          "description_fr": "La nature de l'écrit n'est pas publiée : probablement un QCM et/ou des questions courtes de culture générale, langues, mathématiques de base et spécialité technique. Suggestion, à vérifier dans l'avis officiel.",
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "order": 3,
+          "kind": "ORAL",
+          "name_ar": "الاختبار الشفاهي / مقابلة مع لجنة",
+          "name_fr": "Épreuve orale / entretien avec un jury",
+          "is_eliminatory": true,
+          "duration_minutes": null,
+          "description_ar": "مقابلة لتقييم الحوافز والانضباط ومعرفة الشركة وقواعد السلامة والمعلومات التقنية الأساسية في الاختصاص. المدة والضارب غير معروفين — مقترح بالقياس على مناظرات المنشآت العمومية.",
+          "description_fr": "Entretien évaluant la motivation, la rigueur, la connaissance de la société, des règles de sécurité et les bases techniques de la spécialité. Durée et coefficient inconnus — suggestion par analogie avec les concours des entreprises publiques.",
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "order": 4,
+          "kind": "MEDICAL",
+          "name_ar": "الفحص الطبي",
+          "name_fr": "Visite médicale d'aptitude",
+          "is_eliminatory": true,
+          "duration_minutes": null,
+          "description_ar": "فحص طبي للتأكد من القدرة على العمل واستكمال ملف الانتداب (بطاقة عدد 3، شهادات...) — مقترح بالقياس على الانتدابات في المنشآت العمومية، غير مؤكد.",
+          "description_fr": "Visite médicale d'aptitude et constitution du dossier d'embauche (bulletin n° 3, attestations…) — suggestion par analogie avec les recrutements des entreprises publiques, non confirmée.",
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "order": 5,
+          "kind": "TRAINING",
+          "name_ar": "تكوين أساسي وفترة تربص",
+          "name_fr": "Formation initiale et période d'essai",
+          "is_eliminatory": true,
+          "duration_minutes": null,
+          "description_ar": "تكوين في معدات الشركة (قاطرات وعربات، سكة، أنظمة الإشارات) وقواعد السلامة الحديدية ثم فترة تجربة — مقترح.",
+          "description_fr": "Formation aux équipements de la société (locomotives et voitures, voie, systèmes de signalisation) et aux règles de sécurité ferroviaire, puis période d'essai — suggestion.",
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        }
+      ],
+      "subjects": [
+        {
+          "phase_order": 2,
+          "domain": "FRENCH",
+          "specialty_key": null,
+          "name_ar": "اللغة الفرنسية التقنية",
+          "name_fr": "Français technique",
+          "coefficient": null,
+          "duration_minutes": null,
+          "question_count": null,
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "phase_order": 2,
+          "domain": "CULTURE_GENERALE",
+          "specialty_key": null,
+          "name_ar": "ثقافة عامة",
+          "name_fr": "Culture générale",
+          "coefficient": null,
+          "duration_minutes": null,
+          "question_count": null,
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "phase_order": 2,
+          "domain": "NUMERICAL",
+          "specialty_key": null,
+          "name_ar": "رياضيات تطبيقية",
+          "name_fr": "Mathématiques appliquées",
+          "coefficient": null,
+          "duration_minutes": null,
+          "question_count": null,
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "phase_order": 2,
+          "domain": "LOGIC",
+          "specialty_key": null,
+          "name_ar": "استدلال منطقي",
+          "name_fr": "Raisonnement logique",
+          "coefficient": null,
+          "duration_minutes": null,
+          "question_count": null,
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "phase_order": 2,
+          "domain": "SPECIALTY",
+          "specialty_key": "spec.electricite",
+          "name_ar": "كهرباء وكهروتقنية",
+          "name_fr": "Électricité et électrotechnique",
+          "coefficient": null,
+          "duration_minutes": null,
+          "question_count": null,
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "phase_order": 2,
+          "domain": "SPECIALTY",
+          "specialty_key": "spec.sncft.mecanique",
+          "name_ar": "ميكانيك وصيانة المعدات المتحركة",
+          "name_fr": "Mécanique et maintenance du matériel roulant",
+          "coefficient": null,
+          "duration_minutes": null,
+          "question_count": null,
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "phase_order": 2,
+          "domain": "SPECIALTY",
+          "specialty_key": "spec.sncft.voie",
+          "name_ar": "السكة والمنشآت والإشارات",
+          "name_fr": "Voie, ouvrages et signalisation",
+          "coefficient": null,
+          "duration_minutes": null,
+          "question_count": null,
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "phase_order": 2,
+          "domain": "SPECIALTY",
+          "specialty_key": "spec.informatique",
+          "name_ar": "الإعلامية (للاختصاصات المعنية)",
+          "name_fr": "Informatique (pour les spécialités concernées)",
+          "coefficient": null,
+          "duration_minutes": null,
+          "question_count": null,
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        }
+      ],
+      "physical_tests": [],
+      "required_documents": [
+        {
+          "text_ar": "مطلب ترشح أو استمارة التسجيل عن بعد (نسخة مطبوعة وممضاة إن طُلبت)",
+          "text_fr": "Demande de candidature ou formulaire d'inscription en ligne (copie imprimée et signée si demandée)",
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "text_ar": "نسخة من بطاقة التعريف الوطنية",
+          "text_fr": "Copie de la carte d'identité nationale",
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "text_ar": "نسخ من الشهادات العلمية أو المهنية وكشوف الأعداد (مع معادلة الشهادة إن كانت أجنبية)",
+          "text_fr": "Copies des diplômes scolaires ou professionnels et des relevés de notes (avec équivalence pour un diplôme étranger)",
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "text_ar": "بطاقة عدد 3 (السوابق العدلية) حديثة",
+          "text_fr": "Bulletin n° 3 (extrait de casier judiciaire) récent",
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "text_ar": "شهادة طبية تثبت القدرة على العمل (أو الفحص لدى طب الشغل بالشركة بعد النجاح)",
+          "text_fr": "Certificat médical d'aptitude (ou visite de médecine du travail de la société après admission)",
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "text_ar": "وثيقة تثبت الوضعية إزاء الخدمة الوطنية بالنسبة للذكور",
+          "text_fr": "Justificatif de situation vis-à-vis du service national (candidats masculins)",
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "text_ar": "صور شمسية حديثة",
+          "text_fr": "Photos d'identité récentes",
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "text_ar": "نسخة من شهادة التقني السامي أو الإجازة التطبيقية مع كشوف الأعداد",
+          "text_fr": "Copie du BTS ou de la licence appliquée avec relevés de notes",
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        }
+      ],
+      "blueprint": {
+        "total_minutes": 120,
+        "fidelity": "APPROXIMATED",
+        "sections": [
+          {
+            "domain": "FRENCH",
+            "specialty_key": null,
+            "count": 10,
+            "minutes": 10
+          },
+          {
+            "domain": "CULTURE_GENERALE",
+            "specialty_key": null,
+            "count": 10,
+            "minutes": 10
+          },
+          {
+            "domain": "NUMERICAL",
+            "specialty_key": null,
+            "count": 10,
+            "minutes": 15
+          },
+          {
+            "domain": "LOGIC",
+            "specialty_key": null,
+            "count": 10,
+            "minutes": 10
+          },
+          {
+            "domain": "SPECIALTY",
+            "specialty_key": "spec.electricite",
+            "count": 15,
+            "minutes": 25
+          },
+          {
+            "domain": "SPECIALTY",
+            "specialty_key": "spec.sncft.mecanique",
+            "count": 15,
+            "minutes": 25
+          },
+          {
+            "domain": "SPECIALTY",
+            "specialty_key": "spec.sncft.voie",
+            "count": 8,
+            "minutes": 15
+          },
+          {
+            "domain": "SPECIALTY",
+            "specialty_key": "spec.informatique",
+            "count": 6,
+            "minutes": 10
+          }
+        ]
+      }
+    },
+    {
+      "slug": "ingenieur-cadre",
+      "title_ar": "مهندس / إطار (هندسة حديدية، صيانة، إشارات، إعلامية، تصرف)",
+      "title_fr": "Ingénieur / cadre (génie ferroviaire, maintenance, signalisation, informatique, gestion)",
+      "diploma_level": "ENGINEER",
+      "eligibility": {
+        "min_age": 18,
+        "max_age": null,
+        "genders": [
+          "M",
+          "F"
+        ],
+        "nationality": "TN",
+        "diplomas": [
+          "MASTER",
+          "ENGINEER",
+          "DOCTORATE"
+        ],
+        "specialties": [],
+        "min_height_cm_male": null,
+        "min_height_cm_female": null,
+        "marital_status": null,
+        "other_ar": [
+          "الشهادة المقترحة: شهادة مهندس وطني (ميكانيك، كهروميكانيك، كهرباء، هندسة مدنية، إعلامية، اتصالات) أو ماجستير في الاختصاصات المطلوبة (بما فيها التصرف والمالية والقانون بالنسبة لإطارات الإدارة) — غير مؤكد",
+          "الجنسية التونسية، التمتع بالحقوق المدنية ونقاوة السوابق العدلية (بطاقة عدد 3): شروط مقترحة بالقياس على الانتدابات في المنشآت العمومية",
+          "حد السن الأقصى غير معروف (كثيرا ما يكون بين 30 و40 سنة في مناظرات المنشآت العمومية) — للتثبت من بلاغ الشركة وتاريخ احتساب السن",
+          "القدرة البدنية والصحية على العمل (فحص طبي من طرف طب الشغل بالشركة) — مقترح",
+          "وضعية قانونية إزاء الخدمة الوطنية بالنسبة للذكور — مقترح، للتثبت"
+        ],
+        "other_fr": [
+          "Diplôme suggéré : diplôme national d'ingénieur (mécanique, électromécanique, électricité, génie civil, informatique, télécommunications) ou mastère dans les spécialités demandées (y compris gestion, finance, droit pour les cadres administratifs) — non confirmé",
+          "Nationalité tunisienne, jouissance des droits civiques et casier judiciaire vierge (bulletin n° 3) : conditions suggérées par analogie avec les recrutements des entreprises publiques",
+          "Âge maximum inconnu (souvent entre 30 et 40 ans dans les concours des entreprises publiques) — à vérifier dans l'avis de la SNCFT, ainsi que la date de référence pour le calcul de l'âge",
+          "Aptitude physique et médicale au poste (visite de médecine du travail de la société) — suggestion",
+          "Situation régulière vis-à-vis du service national pour les candidats de sexe masculin — suggestion, à vérifier"
+        ],
+        "source_key": null,
+        "confidence": "LOW",
+        "needs_verification": true,
+        "source_quote": null
+      },
+      "phases": [
+        {
+          "order": 1,
+          "kind": "FILE_REVIEW",
+          "name_ar": "الترشح والانتقاء الأولي بالملفات",
+          "name_fr": "Candidature et présélection sur dossier",
+          "is_eliminatory": true,
+          "duration_minutes": null,
+          "description_ar": "حسب الصحافة (لابراس، ديسمبر 2025) يتم انتداب الأعوان الجدد «عن طريق المناظرة». طريقة الترشح غير مؤكدة: يُرجّح التسجيل عن بعد عبر موقع الشركة (www.sncft.com.tn) أو عبر بلاغ يحدد طريقة إرسال الملفات، ثم التثبت من الشروط (السن، الشهادة، الاختصاص) وانتقاء أولي محتمل حسب المعدلات أو سنة التخرج — مقترح، للتثبت.",
+          "description_fr": "Selon la presse (La Presse, décembre 2025), les nouveaux agents sont recrutés « par voie de concours ». Le mode de candidature n'est pas confirmé : inscription probablement en ligne sur le site de la société (www.sncft.com.tn) ou envoi d'un dossier selon l'avis, puis contrôle des conditions (âge, diplôme, spécialité) et présélection possible selon les moyennes ou l'année d'obtention du diplôme — suggestion, à vérifier.",
+          "source_key": "s1",
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "order": 2,
+          "kind": "WRITTEN",
+          "name_ar": "الاختبار الكتابي",
+          "name_fr": "Épreuve(s) écrite(s)",
+          "is_eliminatory": true,
+          "duration_minutes": null,
+          "description_ar": "طبيعة الاختبار الكتابي غير منشورة: يُرجّح أن يتضمن أسئلة متعددة الاختيارات و/أو أسئلة قصيرة في الثقافة العامة واللغات والرياضيات الأساسية والاختصاص التقني. مقترح، للتثبت من البلاغ الرسمي.",
+          "description_fr": "La nature de l'écrit n'est pas publiée : probablement un QCM et/ou des questions courtes de culture générale, langues, mathématiques de base et spécialité technique. Suggestion, à vérifier dans l'avis officiel.",
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "order": 3,
+          "kind": "ORAL",
+          "name_ar": "الاختبار الشفاهي / مقابلة مع لجنة",
+          "name_fr": "Épreuve orale / entretien avec un jury",
+          "is_eliminatory": true,
+          "duration_minutes": null,
+          "description_ar": "مقابلة لتقييم الحوافز والانضباط ومعرفة الشركة وقواعد السلامة والمعلومات التقنية الأساسية في الاختصاص. المدة والضارب غير معروفين — مقترح بالقياس على مناظرات المنشآت العمومية.",
+          "description_fr": "Entretien évaluant la motivation, la rigueur, la connaissance de la société, des règles de sécurité et les bases techniques de la spécialité. Durée et coefficient inconnus — suggestion par analogie avec les concours des entreprises publiques.",
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "order": 4,
+          "kind": "MEDICAL",
+          "name_ar": "الفحص الطبي",
+          "name_fr": "Visite médicale d'aptitude",
+          "is_eliminatory": true,
+          "duration_minutes": null,
+          "description_ar": "فحص طبي للتأكد من القدرة على العمل واستكمال ملف الانتداب (بطاقة عدد 3، شهادات...) — مقترح بالقياس على الانتدابات في المنشآت العمومية، غير مؤكد.",
+          "description_fr": "Visite médicale d'aptitude et constitution du dossier d'embauche (bulletin n° 3, attestations…) — suggestion par analogie avec les recrutements des entreprises publiques, non confirmée.",
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "order": 5,
+          "kind": "TRAINING",
+          "name_ar": "فترة إدماج وتكوين",
+          "name_fr": "Intégration et formation",
+          "is_eliminatory": true,
+          "duration_minutes": null,
+          "description_ar": "فترة إدماج وتكوين داخل الشركة (التعرف على الشبكة والمعدات وقواعد السلامة والتنظيم) — مقترح.",
+          "description_fr": "Période d'intégration et de formation interne (réseau, matériel, règles de sécurité, organisation) — suggestion.",
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        }
+      ],
+      "subjects": [
+        {
+          "phase_order": 2,
+          "domain": "CULTURE_GENERALE",
+          "specialty_key": null,
+          "name_ar": "ثقافة عامة واقتصادية (النقل، المنشآت العمومية)",
+          "name_fr": "Culture générale et économique (transport, entreprises publiques)",
+          "coefficient": null,
+          "duration_minutes": null,
+          "question_count": null,
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "phase_order": 2,
+          "domain": "FRENCH",
+          "specialty_key": null,
+          "name_ar": "اللغة الفرنسية (تحرير وتلخيص)",
+          "name_fr": "Langue française (rédaction, synthèse)",
+          "coefficient": null,
+          "duration_minutes": null,
+          "question_count": null,
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "phase_order": 2,
+          "domain": "ENGLISH",
+          "specialty_key": null,
+          "name_ar": "اللغة الأنقليزية التقنية",
+          "name_fr": "Anglais technique",
+          "coefficient": null,
+          "duration_minutes": null,
+          "question_count": null,
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "phase_order": 2,
+          "domain": "LOGIC",
+          "specialty_key": null,
+          "name_ar": "استدلال منطقي",
+          "name_fr": "Raisonnement logique",
+          "coefficient": null,
+          "duration_minutes": null,
+          "question_count": null,
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "phase_order": 2,
+          "domain": "SPECIALTY",
+          "specialty_key": "spec.sncft.ferroviaire",
+          "name_ar": "منظومة السكك الحديدية والاستغلال",
+          "name_fr": "Système ferroviaire et exploitation",
+          "coefficient": null,
+          "duration_minutes": null,
+          "question_count": null,
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "phase_order": 2,
+          "domain": "SPECIALTY",
+          "specialty_key": "spec.sncft.securite-ferroviaire",
+          "name_ar": "السلامة الحديدية والإشارات",
+          "name_fr": "Sécurité ferroviaire et signalisation",
+          "coefficient": null,
+          "duration_minutes": null,
+          "question_count": null,
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "phase_order": 2,
+          "domain": "SPECIALTY",
+          "specialty_key": "spec.electricite",
+          "name_ar": "كهرباء وكهروتقنية (للاختصاصات المعنية)",
+          "name_fr": "Électricité et électrotechnique (spécialités concernées)",
+          "coefficient": null,
+          "duration_minutes": null,
+          "question_count": null,
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "phase_order": 2,
+          "domain": "SPECIALTY",
+          "specialty_key": "spec.sncft.mecanique",
+          "name_ar": "ميكانيك وصيانة (للاختصاصات المعنية)",
+          "name_fr": "Mécanique et maintenance (spécialités concernées)",
+          "coefficient": null,
+          "duration_minutes": null,
+          "question_count": null,
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "phase_order": 2,
+          "domain": "SPECIALTY",
+          "specialty_key": "spec.redaction-administrative",
+          "name_ar": "التحرير الإداري",
+          "name_fr": "Rédaction administrative",
+          "coefficient": null,
+          "duration_minutes": null,
+          "question_count": null,
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        }
+      ],
+      "physical_tests": [],
+      "required_documents": [
+        {
+          "text_ar": "مطلب ترشح أو استمارة التسجيل عن بعد (نسخة مطبوعة وممضاة إن طُلبت)",
+          "text_fr": "Demande de candidature ou formulaire d'inscription en ligne (copie imprimée et signée si demandée)",
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "text_ar": "نسخة من بطاقة التعريف الوطنية",
+          "text_fr": "Copie de la carte d'identité nationale",
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "text_ar": "نسخ من الشهادات العلمية أو المهنية وكشوف الأعداد (مع معادلة الشهادة إن كانت أجنبية)",
+          "text_fr": "Copies des diplômes scolaires ou professionnels et des relevés de notes (avec équivalence pour un diplôme étranger)",
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "text_ar": "بطاقة عدد 3 (السوابق العدلية) حديثة",
+          "text_fr": "Bulletin n° 3 (extrait de casier judiciaire) récent",
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "text_ar": "شهادة طبية تثبت القدرة على العمل (أو الفحص لدى طب الشغل بالشركة بعد النجاح)",
+          "text_fr": "Certificat médical d'aptitude (ou visite de médecine du travail de la société après admission)",
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "text_ar": "وثيقة تثبت الوضعية إزاء الخدمة الوطنية بالنسبة للذكور",
+          "text_fr": "Justificatif de situation vis-à-vis du service national (candidats masculins)",
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "text_ar": "صور شمسية حديثة",
+          "text_fr": "Photos d'identité récentes",
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "text_ar": "نسخة من الشهادة الجامعية (مهندس / ماجستير) مع كشوف الأعداد ومعادلة الشهادة الأجنبية",
+          "text_fr": "Copie du diplôme universitaire (ingénieur / mastère) avec relevés de notes et équivalence pour un diplôme étranger",
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "text_ar": "سيرة ذاتية (إن طُلبت)",
+          "text_fr": "Curriculum vitae (si demandé)",
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        }
+      ],
+      "blueprint": {
+        "total_minutes": 150,
+        "fidelity": "APPROXIMATED",
+        "sections": [
+          {
+            "domain": "CULTURE_GENERALE",
+            "specialty_key": null,
+            "count": 12,
+            "minutes": 15
+          },
+          {
+            "domain": "FRENCH",
+            "specialty_key": null,
+            "count": 10,
+            "minutes": 15
+          },
+          {
+            "domain": "ENGLISH",
+            "specialty_key": null,
+            "count": 10,
+            "minutes": 15
+          },
+          {
+            "domain": "LOGIC",
+            "specialty_key": null,
+            "count": 10,
+            "minutes": 15
+          },
+          {
+            "domain": "SPECIALTY",
+            "specialty_key": "spec.sncft.ferroviaire",
+            "count": 15,
+            "minutes": 20
+          },
+          {
+            "domain": "SPECIALTY",
+            "specialty_key": "spec.sncft.securite-ferroviaire",
+            "count": 10,
+            "minutes": 15
+          },
+          {
+            "domain": "SPECIALTY",
+            "specialty_key": "spec.electricite",
+            "count": 12,
+            "minutes": 20
+          },
+          {
+            "domain": "SPECIALTY",
+            "specialty_key": "spec.sncft.mecanique",
+            "count": 12,
+            "minutes": 20
+          },
+          {
+            "domain": "SPECIALTY",
+            "specialty_key": "spec.redaction-administrative",
+            "count": 8,
+            "minutes": 15
+          }
+        ]
+      }
+    }
+  ],
+  "specialty_syllabus": [
+    {
+      "key": "spec.sncft.ferroviaire",
+      "parent_key": null,
+      "level": "UNIT",
+      "title_ar": "منظومة السكك الحديدية والشركة الوطنية للسكك الحديدية التونسية",
+      "title_fr": "Le système ferroviaire et la SNCFT",
+      "scope": "SUGGESTED",
+      "source_key": null,
+      "objectives": [
+        {
+          "key": "spec.sncft.ferroviaire.o1",
+          "text_ar": "التعرف على الشركة الوطنية للسكك الحديدية التونسية: صبغتها القانونية (منشأة عمومية)، سلطة الإشراف، مهامها وأنشطتها (المسافرون، البضائع، الضواحي)",
+          "text_fr": "Connaître la SNCFT : statut (entreprise publique), tutelle, missions et activités (voyageurs, marchandises, banlieue)"
+        },
+        {
+          "key": "spec.sncft.ferroviaire.o2",
+          "text_ar": "معرفة الخطوط الرئيسية للشبكة والمدن التي تربطها والفرق بين السكة العادية (1435 مم) والسكة المترية (1000 مم)",
+          "text_fr": "Connaître les grandes lignes du réseau, les villes desservies et la différence entre voie normale (1 435 mm) et voie métrique (1 000 mm)"
+        },
+        {
+          "key": "spec.sncft.ferroviaire.o3",
+          "text_ar": "فهم أهمية النقل الحديدي للبضائع ولا سيما الفسفاط والمواد الأولية في الاقتصاد التونسي",
+          "text_fr": "Comprendre le rôle du fret ferroviaire, notamment des phosphates et des matières premières, dans l'économie tunisienne"
+        },
+        {
+          "key": "spec.sncft.ferroviaire.o4",
+          "text_ar": "التعرف على مكونات المنظومة: المعدات المتحركة (قاطرات، عربات، قطارات ذاتية الدفع)، البنية التحتية، المحطات، مراكز التحكم في الحركة",
+          "text_fr": "Identifier les composantes du système : matériel roulant (locomotives, voitures, wagons, autorails), infrastructure, gares, postes de commande de la circulation"
+        },
+        {
+          "key": "spec.sncft.ferroviaire.o5",
+          "text_ar": "الإلمام بالرهانات الحالية للقطاع: تجديد الأسطول، الشبكة الحديدية السريعة لتونس الكبرى، السلامة، جودة الخدمات",
+          "text_fr": "Connaître les enjeux actuels du secteur : renouvellement du parc, réseau ferroviaire rapide du Grand Tunis, sécurité, qualité de service"
+        }
+      ]
+    },
+    {
+      "key": "spec.sncft.securite-ferroviaire",
+      "parent_key": null,
+      "level": "UNIT",
+      "title_ar": "السلامة الحديدية والإشارات وقواعد الحركة",
+      "title_fr": "Sécurité ferroviaire, signalisation et règles de circulation",
+      "scope": "SUGGESTED",
+      "source_key": null,
+      "objectives": [
+        {
+          "key": "spec.sncft.securite-ferroviaire.o1",
+          "text_ar": "فهم مبادئ تأمين حركة القطارات: الفصل بين القطارات (نظام الكتل / cantonnement)، الإذن بالسير، السرعات المحددة",
+          "text_fr": "Comprendre les principes de sécurité de la circulation : espacement des trains (cantonnement), autorisation de départ, limitations de vitesse"
+        },
+        {
+          "key": "spec.sncft.securite-ferroviaire.o2",
+          "text_ar": "التعرف على أنواع الإشارات (ضوئية، يدوية، صوتية) ومعانيها العامة والتصرف أمام إشارة مغلقة",
+          "text_fr": "Reconnaître les types de signaux (lumineux, à main, sonores), leur signification générale et la conduite à tenir devant un signal fermé"
+        },
+        {
+          "key": "spec.sncft.securite-ferroviaire.o3",
+          "text_ar": "معرفة مخاطر المعابر وقواعد السلامة عندها ووسائل الوقاية (الحواجز، الإشارات الصوتية والضوئية)",
+          "text_fr": "Connaître les risques et règles de sécurité aux passages à niveau et leurs équipements (barrières, signalisation sonore et lumineuse)"
+        },
+        {
+          "key": "spec.sncft.securite-ferroviaire.o4",
+          "text_ar": "تطبيق قواعد السلامة المهنية عند العمل على السكة أو قربها (معدات الوقاية الفردية، الحماية من الخطر الكهربائي، الإعلام والتنسيق)",
+          "text_fr": "Appliquer les règles de sécurité au travail sur ou près des voies (EPI, risque électrique, annonce et coordination)"
+        },
+        {
+          "key": "spec.sncft.securite-ferroviaire.o5",
+          "text_ar": "معرفة التصرف في حالات الطوارئ: الحوادث، الحرائق، إجلاء المسافرين، إبلاغ مركز التحكم",
+          "text_fr": "Savoir réagir en situation d'urgence : incident, incendie, évacuation des voyageurs, alerte du poste de commande"
+        }
+      ]
+    },
+    {
+      "key": "spec.sncft.mecanique",
+      "parent_key": null,
+      "level": "UNIT",
+      "title_ar": "الميكانيك وصيانة المعدات المتحركة",
+      "title_fr": "Mécanique et maintenance du matériel roulant",
+      "scope": "SUGGESTED",
+      "source_key": null,
+      "objectives": [
+        {
+          "key": "spec.sncft.mecanique.o1",
+          "text_ar": "مبادئ الميكانيك العامة: القوى، العزم، الحركة، نقل الحركة (مسننات، أحزمة، محاور)",
+          "text_fr": "Bases de mécanique générale : forces, couples, mouvement, transmission (engrenages, courroies, essieux)"
+        },
+        {
+          "key": "spec.sncft.mecanique.o2",
+          "text_ar": "مبدأ اشتغال محرك الديزل والجر الديزل-الكهربائي في القاطرات",
+          "text_fr": "Principe de fonctionnement du moteur diesel et de la traction diesel-électrique des locomotives"
+        },
+        {
+          "key": "spec.sncft.mecanique.o3",
+          "text_ar": "أنظمة الكبح الهوائي (الضغط، الأنابيب، الصمامات) ومراقبتها",
+          "text_fr": "Systèmes de freinage pneumatique (pression, conduite générale, distributeurs) et leur contrôle"
+        },
+        {
+          "key": "spec.sncft.mecanique.o4",
+          "text_ar": "الصيانة الوقائية والإصلاحية: التشحيم، المراقبة، تشخيص الأعطال، أدوات القيس (القدم القنوية، الميكرومتر)",
+          "text_fr": "Maintenance préventive et corrective : graissage, contrôles, diagnostic de pannes, instruments de mesure (pied à coulisse, micromètre)"
+        },
+        {
+          "key": "spec.sncft.mecanique.o5",
+          "text_ar": "قراءة رسم تقني بسيط وفهم مخطط تركيب",
+          "text_fr": "Lire un dessin technique simple et comprendre un plan d'ensemble"
+        }
+      ]
+    },
+    {
+      "key": "spec.sncft.voie",
+      "parent_key": null,
+      "level": "UNIT",
+      "title_ar": "السكة والمنشآت الفنية",
+      "title_fr": "Voie ferrée et ouvrages d'art",
+      "scope": "SUGGESTED",
+      "source_key": null,
+      "objectives": [
+        {
+          "key": "spec.sncft.voie.o1",
+          "text_ar": "التعرف على مكونات السكة: القضبان، العوارض، الحصى (البالاست)، وسائل الربط، المحولات",
+          "text_fr": "Identifier les composants de la voie : rails, traverses, ballast, attaches, appareils de voie (aiguillages)"
+        },
+        {
+          "key": "spec.sncft.voie.o2",
+          "text_ar": "فهم مبادئ صيانة السكة: الضبط الهندسي (العرض، الاستواء)، استبدال العناصر، المراقبة الدورية",
+          "text_fr": "Comprendre l'entretien de la voie : géométrie (écartement, nivellement), remplacement des éléments, surveillance périodique"
+        },
+        {
+          "key": "spec.sncft.voie.o3",
+          "text_ar": "التعرف على المنشآت الفنية (جسور، أنفاق، قنوات صرف المياه) ومخاطر الفيضانات والانجراف",
+          "text_fr": "Connaître les ouvrages d'art (ponts, tunnels, ouvrages hydrauliques) et les risques d'inondation et d'érosion"
+        },
+        {
+          "key": "spec.sncft.voie.o4",
+          "text_ar": "قواعد تنظيم الأشغال على السكة وحماية ورشات العمل",
+          "text_fr": "Règles d'organisation des travaux sur la voie et de protection des chantiers"
+        }
+      ]
+    },
+    {
+      "key": "spec.sncft.commercial-transport",
+      "parent_key": null,
+      "level": "UNIT",
+      "title_ar": "الاستقبال والعمل التجاري في النقل بالسكك الحديدية",
+      "title_fr": "Accueil et action commerciale dans le transport ferroviaire",
+      "scope": "SUGGESTED",
+      "source_key": null,
+      "objectives": [
+        {
+          "key": "spec.sncft.commercial-transport.o1",
+          "text_ar": "تقنيات استقبال المسافرين والتواصل معهم والتعامل مع الشكاوى والحالات الصعبة",
+          "text_fr": "Techniques d'accueil et de communication avec les voyageurs, gestion des réclamations et des situations difficiles"
+        },
+        {
+          "key": "spec.sncft.commercial-transport.o2",
+          "text_ar": "فهم التعريفات وأصناف التذاكر والاشتراكات والتخفيضات وحساب ثمن رحلة",
+          "text_fr": "Comprendre la tarification, les types de billets, abonnements et réductions, et calculer le prix d'un trajet"
+        },
+        {
+          "key": "spec.sncft.commercial-transport.o3",
+          "text_ar": "قراءة جداول توقيت القطارات وحساب مدة الرحلة والمراسلات",
+          "text_fr": "Lire les horaires des trains, calculer la durée d'un trajet et les correspondances"
+        },
+        {
+          "key": "spec.sncft.commercial-transport.o4",
+          "text_ar": "مسك الصندوق: المقابيض، إرجاع الصرف، المطابقة اليومية",
+          "text_fr": "Tenue de caisse : encaissements, rendu de monnaie, rapprochement journalier"
+        },
+        {
+          "key": "spec.sncft.commercial-transport.o5",
+          "text_ar": "حقوق المسافرين وواجباتهم وقواعد المراقبة على متن القطارات والسلامة في المحطات",
+          "text_fr": "Droits et obligations des voyageurs, règles du contrôle à bord et sécurité en gare"
+        }
+      ]
+    }
+  ],
+  "past_exams": [],
+  "tips_ar": [
+    "تابع بلاغات الانتداب على الموقع الرسمي للشركة الوطنية للسكك الحديدية التونسية (www.sncft.com.tn) وصفحتها الرسمية، ولا تعتمد إلا على البلاغ الرسمي لمعرفة الرتب والشروط والآجال.",
+    "احذر من الصفحات والمجموعات التي تطلب أموالا مقابل «ضمان» الانتداب بالشركة: الترشح للمناظرات العمومية مجاني ولا يمر عبر وسطاء.",
+    "تأكد من أن تسمية شهادتك واختصاصك تطابق حرفيا القائمة الواردة في البلاغ قبل التسجيل، وجهّز نسخا رقمية من وثائقك مسبقا.",
+    "بالنسبة لمناصب السياقة: تدرّب على الاختبارات النفسية-التقنية (الانتباه، الذاكرة، سرعة رد الفعل) واطمئن مبكرا على حدة بصرك وتمييزك للألوان.",
+    "راجع أساسيات الرياضيات (نسب، سرعة/مسافة/زمن، قيس) وقواعد الميكانيك والكهرباء حسب اختصاصك، فهي قاعدة مشتركة لأغلب المناظرات التقنية.",
+    "تعرّف على الشركة قبل المقابلة: خطوطها الرئيسية، نقل الفسفاط، خطوط الضواحي، ورهانات السلامة وجودة الخدمات.",
+    "استعد للعمل بنظام المناوبة وفي مختلف الجهات، فهذه الاستعدادية كثيرا ما تُطرح في المقابلة."
+  ],
+  "tips_fr": [
+    "Suivez les avis de recrutement sur le site officiel de la SNCFT (www.sncft.com.tn) et sa page officielle ; seul l'avis officiel fait foi pour les grades, conditions et délais.",
+    "Méfiez-vous des pages et groupes qui demandent de l'argent pour « garantir » une embauche à la SNCFT : la candidature aux concours publics est gratuite et ne passe par aucun intermédiaire.",
+    "Vérifiez que l'intitulé exact de votre diplôme et de votre spécialité figure dans la liste de l'avis avant de vous inscrire, et préparez à l'avance des copies numériques de vos documents.",
+    "Pour les postes de conduite : entraînez-vous aux tests psychotechniques (attention, mémoire, réactivité) et faites contrôler tôt votre vision et votre perception des couleurs.",
+    "Révisez les bases de mathématiques (pourcentages, vitesse/distance/temps, mesures) et les fondamentaux de mécanique et d'électricité selon votre spécialité : c'est le socle commun de la plupart des concours techniques.",
+    "Renseignez-vous sur la société avant l'entretien : grandes lignes, transport des phosphates, lignes de banlieue, enjeux de sécurité et de qualité de service.",
+    "Préparez-vous à travailler en roulement et dans différentes régions : cette disponibilité est souvent abordée à l'entretien."
+  ],
+  "research_notes": "LIMITE MÉTHODOLOGIQUE MAJEURE : lors de cette passe (2026-10-07), le quota WebSearch partagé était épuisé dès la première requête (aucune recherche exécutée, ni en arabe ni en français) et WebFetch renvoie EGRESS_BLOCKED pour tous les domaines testés (www.lapresse.tn, www.sncft.com.tn, www.concours.gov.tn, www.transport.tn, www.legislation.tn, www.tuniscope.com, www.mosaiquefm.net, fr.wikipedia.org). AUCUNE page n'a été lue directement. Le seul fait sourcé provient du journal de recherche interne (docs/research/01-market-raw.md, tableau « Public companies ») qui cite l'article de La Presse s1 : « SNCFT | 575 (Dec 2025–Jan 2026) ». C'est pourquoi TOUS les faits portent needs_verification=true, aucun source_quote n'est fourni et aucune source OFFICIELLE n'est citée. FAIT PRESSE À CONFIRMER : recrutement de 575 nouveaux agents par voie de concours, annoncé fin décembre 2025 (s1), période décembre 2025 – janvier 2026 ; l'année de rattachement de l'édition (2026 ici) est une hypothèse (le concours pourrait être intitulé « au titre de 2025 ») ; statut CLOSED supposé (la période d'inscription est passée au 07/10/2026) — dates d'inscription, date des épreuves, résultats, nombre de candidats et répartition des 575 postes par grade/spécialité INCONNUS. ENTIÈREMENT SUGGÉRÉ (scope SUGGESTED / confidence LOW) : (1) la liste des 5 positions (agent d'exécution, conducteur de train, agent commercial, technicien/agent de maîtrise, ingénieur/cadre) reprend la structure habituelle des catégories du personnel des entreprises publiques (exécution, maîtrise, cadres) et les métiers ferroviaires ; les intitulés réels des grades SNCFT et leur statut particulier ne sont pas vérifiés ; (2) niveaux de diplôme (9e année + CAP/BTP, secondaire/BTP, bac, BTS/licence appliquée, ingénieur/mastère) — volontairement fixés au niveau plausible le plus bas pour ne pas exclure à tort des candidats lors du matching de profil ; max_age laissé à null et specialties laissées vides pour la même raison (listes détaillées seulement dans other_ar/other_fr) ; (3) phases (dossier, écrit, psychotechnique pour la conduite, entretien, visite médicale, formation) : aucune n'est confirmée, sauf l'existence d'un « concours » selon s1 ; le concours des agents d'exécution pourrait être uniquement sur dossier ; (4) aucune matière, coefficient, durée ou barème n'a été trouvé : toutes les matières sont des suggestions et tous les blueprints sont APPROXIMATED ; (5) aucune épreuve physique connue (physical_tests vides) ; (6) pièces du dossier : liste type des recrutements publics, non confirmée ; (7) specialty_syllabus spec.sncft.* (ferroviaire, sécurité-ferroviaire, mécanique, voie, commercial-transport) rédigé par l'équipe — objectifs pédagogiques, pas un programme officiel ; les données techniques citées (écartements 1 435 mm / 1 000 mm, fret de phosphates) sont des connaissances générales à recouper. Aucune annale (officielle ou communautaire) n'a été trouvée (past_exams vide). À VÉRIFIER EN PRIORITÉ : l'avis officiel du concours SNCFT 2025/2026 (site www.sncft.com.tn, éventuel relais sur concours.gov.tn, presse : La Presse, Tunisie Numérique, Mosaïque FM) pour la répartition des 575 postes, les conditions d'âge et de diplôme, la plateforme d'inscription, les épreuves et coefficients ; les éditions antérieures 2023–2024 (non recherchées faute de quota) ; l'existence de tests psychotechniques et de normes médicales spécifiques aux agents de conduite ; le centre de formation ferroviaire de la SNCFT et la durée de formation des conducteurs."
+}

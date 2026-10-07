@@ -1,0 +1,1907 @@
+{
+  "family": {
+    "slug": "tunisie-telecom",
+    "field": "PUBLIC_COMPANY",
+    "organization": {
+      "slug": "tunisie-telecom",
+      "name_ar": "اتصالات تونس",
+      "name_fr": "Tunisie Telecom",
+      "ministry_fr": "Ministère des Technologies de la Communication (tutelle)",
+      "website": "https://www.tunisietelecom.tn"
+    },
+    "name_ar": "مناظرات انتداب مهندسين وتقنيين وإطارات وأعوان باتصالات تونس",
+    "name_fr": "Concours de recrutement de Tunisie Telecom (ingénieurs, techniciens, cadres, agents)",
+    "description_ar": "اتصالات تونس هي المشغل التاريخي للاتصالات في تونس (الهاتف القار والجوال والأنترنات)، وتنتدب عادة عبر مناظرات خارجية بالملفات و/أو بالاختبارات مهندسين وتقنيين سامين وإطارات ومستشاري حرفاء وأعوانا تقنيين. تنبيه: لم يتسن خلال هذا البحث الاطلاع على أي بلاغ رسمي أو مقال صحفي حول دورة 2023-2026، لذلك فإن الخطط والشروط والمراحل والمواد المعروضة هنا مقترحات تحضيرية بالقياس على المنشآت العمومية، وتحتاج كلها إلى تثبت من البلاغات الرسمية لاتصالات تونس.",
+    "description_fr": "Tunisie Telecom est l'opérateur historique des télécommunications en Tunisie (fixe, mobile, internet). Elle recrute généralement par concours externes sur dossiers et/ou épreuves des ingénieurs, techniciens supérieurs, cadres, conseillers clientèle et agents techniques. Attention : aucun avis officiel ni article de presse sur une session 2023-2026 n'a pu être consulté pendant cette recherche ; les postes, conditions, phases et matières présentés ici sont des propositions de préparation établies par analogie avec les entreprises publiques et doivent tous être vérifiés sur les avis officiels de Tunisie Telecom.",
+    "frequency": "IRREGULAR",
+    "frequency_confidence": "LOW",
+    "popularity": 3,
+    "keywords": [
+      "Tunisie Telecom",
+      "اتصالات تونس",
+      "TT",
+      "concours Tunisie Telecom",
+      "recrutement Tunisie Telecom",
+      "recrutement Tunisie Telecom 2026",
+      "مناظرة اتصالات تونس",
+      "انتداب اتصالات تونس",
+      "opérateur télécom",
+      "مشغل اتصالات",
+      "télécommunications",
+      "اتصالات",
+      "ingénieur télécom",
+      "مهندس اتصالات",
+      "ingénieur réseaux",
+      "مهندس شبكات",
+      "technicien supérieur",
+      "تقني سامي",
+      "cadre",
+      "إطار",
+      "conseiller clientèle",
+      "مستشار حرفاء",
+      "centre d'appels",
+      "مركز نداء",
+      "agent technique",
+      "عون تقني",
+      "fibre optique",
+      "ألياف بصرية",
+      "5G",
+      "الجيل الخامس",
+      "entreprise publique",
+      "منشأة عمومية",
+      "Ministère des Technologies de la Communication",
+      "وزارة تكنولوجيات الاتصال"
+    ]
+  },
+  "sources": [
+    {
+      "key": "s1",
+      "title": "Site officiel de Tunisie Telecom (tunisietelecom.tn)",
+      "url": "https://www.tunisietelecom.tn",
+      "publisher": "Tunisie Telecom",
+      "source_type": "OFFICIAL",
+      "publication_date": null,
+      "retrieved_at": "2026-10-07",
+      "confidence": "LOW",
+      "notes": "Site institutionnel de l'opérateur. WebFetch le 2026-10-07 : EGRESS_BLOCKED (www.tunisietelecom.tn bloqué par le proxy), contenu NON consulté. Cité uniquement comme lieu de vérification des avis de recrutement (rubrique carrières/recrutement), des résultats et des conditions ; aucun fait de ce fichier n'en provient."
+    },
+    {
+      "key": "s2",
+      "title": "Portail national des concours (concours.gov.tn)",
+      "url": "https://www.concours.gov.tn",
+      "publisher": "Présidence du gouvernement",
+      "source_type": "OFFICIAL",
+      "publication_date": null,
+      "retrieved_at": "2026-10-07",
+      "confidence": "LOW",
+      "notes": "WebFetch le 2026-10-07 : EGRESS_BLOCKED, non consulté. Cité comme lieu de vérification ; on ignore si les concours de Tunisie Telecom (société anonyme à participation publique) y sont publiés. Aucun fait de ce fichier n'en provient."
+    },
+    {
+      "key": "s3",
+      "title": "Portail national de la législation (legislation.tn)",
+      "url": "https://www.legislation.tn",
+      "publisher": "Imprimerie Officielle de la République Tunisienne / Présidence du gouvernement",
+      "source_type": "OFFICIAL",
+      "publication_date": null,
+      "retrieved_at": "2026-10-07",
+      "confidence": "LOW",
+      "notes": "WebFetch le 2026-10-07 : EGRESS_BLOCKED, non consulté. Lieu de vérification des textes cités à titre indicatif dans ce fichier (Code des télécommunications, loi n° 2001-1 ; statut général de la fonction publique, loi n° 83-112 ; révision du Code du travail de 2025). Aucun fait de ce fichier n'en provient."
+    }
+  ],
+  "editions": [],
+  "positions": [
+    {
+      "slug": "ingenieur",
+      "title_ar": "مهندس (اتصالات، شبكات، إعلامية)",
+      "title_fr": "Ingénieur (télécommunications, réseaux, informatique)",
+      "diploma_level": "ENGINEER",
+      "eligibility": {
+        "min_age": 18,
+        "max_age": null,
+        "genders": [
+          "M",
+          "F"
+        ],
+        "nationality": "TN",
+        "diplomas": [
+          "ENGINEER"
+        ],
+        "specialties": [
+          "Télécommunications",
+          "Réseaux et systèmes",
+          "Informatique / génie logiciel",
+          "Électronique / génie électrique",
+          "Sécurité informatique"
+        ],
+        "min_height_cm_male": null,
+        "min_height_cm_female": null,
+        "marital_status": null,
+        "other_ar": [
+          "تنبيه: لم يُطّلع على أي بلاغ رسمي لمناظرة اتصالات تونس خلال الفترة 2023-2026 أثناء هذا البحث؛ كل الشروط أدناه مقترحة بالقياس على المنشآت العمومية التونسية ويجب التثبت منها في البلاغ الرسمي",
+          "الجنسية التونسية والتمتع بالحقوق المدنية وحسن السيرة (بطاقة عدد 3 خالية من السوابق) — مقترح",
+          "وضعية قانونية إزاء الخدمة الوطنية بالنسبة إلى المترشحين الذكور — مقترح",
+          "السن القصوى غير معروفة: على سبيل الاستئناس يحدد النظام الأساسي العام للوظيفة العمومية (القانون عدد 112 لسنة 1983) سقفا بـ40 سنة، لكن اتصالات تونس شركة خفية الاسم تخضع لنظامها الأساسي الخاص بأعوانها — للتثبت",
+          "القدرة البدنية والذهنية على العمل تُثبت بفحص طبي قبل الانتداب — مقترح",
+          "شهادة مهندس وطنية أو ما يعادلها في الاتصالات أو الشبكات أو الإعلامية أو الإلكترونيات — الاختصاصات الدقيقة المقبولة يحددها البلاغ (مقترح)",
+          "قد تُعتمد شروط على سنة التخرج أو على المعدل في الانتقاء الأولي — مقترح، للتثبت"
+        ],
+        "other_fr": [
+          "Attention : aucun avis officiel de concours Tunisie Telecom 2023-2026 n'a pu être consulté pendant cette recherche ; toutes les conditions ci-dessous sont suggérées par analogie avec les entreprises publiques tunisiennes et doivent être vérifiées sur l'avis officiel",
+          "Nationalité tunisienne, jouissance des droits civiques et bonne moralité (bulletin n° 3 vierge) — suggestion",
+          "Situation régulière vis-à-vis du service national pour les candidats de sexe masculin — suggestion",
+          "Âge maximum inconnu : à titre indicatif, le statut général de la fonction publique (loi n° 83-112 du 12 décembre 1983) retient 40 ans, mais Tunisie Telecom, société anonyme, applique son propre statut du personnel — à vérifier",
+          "Aptitude physique et mentale attestée par une visite médicale avant l'embauche — suggestion",
+          "Diplôme national d'ingénieur (ou équivalent) en télécommunications, réseaux, informatique ou électronique — les spécialités exactes sont fixées par l'avis (suggestion)",
+          "La présélection pourrait tenir compte de l'année d'obtention du diplôme ou de la moyenne — suggestion, à vérifier"
+        ],
+        "source_key": null,
+        "confidence": "LOW",
+        "needs_verification": true,
+        "source_quote": null
+      },
+      "phases": [
+        {
+          "order": 1,
+          "kind": "FILE_REVIEW",
+          "name_ar": "التسجيل ودراسة الملفات (انتقاء أولي)",
+          "name_fr": "Inscription et étude des dossiers (présélection)",
+          "is_eliminatory": true,
+          "duration_minutes": null,
+          "description_ar": "يُرجّح أن يتم التسجيل عن بعد عبر الموقع الرسمي لاتصالات تونس أو منصة مخصصة يحددها البلاغ، ثم انتقاء أولي على أساس الملف (الشهادة، المعدلات، سنة التخرج، الاختصاص). بالنسبة إلى المهندسين قد يُعتمد مجموع نقاط يحتسب معدلات سنوات الدراسة وسنة التخرج. منصة التسجيل ومقاييس الانتقاء غير معروفة — مقترح، للتثبت من البلاغ الرسمي.",
+          "description_fr": "L'inscription se ferait en ligne via le site officiel de Tunisie Telecom ou une plateforme indiquée dans l'avis, suivie d'une présélection sur dossier (diplôme, moyennes, année d'obtention, spécialité). Pour les ingénieurs, un score combinant les moyennes et l'année d'obtention pourrait être utilisé. Plateforme et critères de présélection inconnus — suggestion, à vérifier sur l'avis officiel.",
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "order": 2,
+          "kind": "WRITTEN",
+          "name_ar": "الاختبارات الكتابية",
+          "name_fr": "Épreuves écrites",
+          "is_eliminatory": true,
+          "duration_minutes": null,
+          "description_ar": "اختبار تقني في الاختصاص (شبكات IP، الإرسال، الشبكات الخلوية، الألياف البصرية، الإعلامية) مع اختبار في اللغات (الفرنسية والأنقليزية التقنية) وربما ثقافة عامة حول قطاع الاتصالات. الضوارب والمدة غير منشورة لدينا — مقترح.",
+          "description_fr": "Épreuve technique de spécialité (réseaux IP, transmission, réseaux mobiles, fibre optique, informatique), complétée par des épreuves de langues (français et anglais techniques) et éventuellement de culture générale sur le secteur des télécommunications. Coefficients et durées non connus — suggestion.",
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "order": 3,
+          "kind": "INTERVIEW",
+          "name_ar": "المقابلة الشفاهية مع لجنة",
+          "name_fr": "Entretien oral devant un jury",
+          "is_eliminatory": true,
+          "duration_minutes": null,
+          "description_ar": "مقابلة مع لجنة تقنية لتقييم المعارف في الاختصاص، القدرة على التحليل، مشاريع التخرج والتربصات، الحوافز ومعرفة المؤسسة — مقترح.",
+          "description_fr": "Entretien avec un jury technique : connaissances de spécialité, capacité d'analyse, projet de fin d'études et stages, motivation et connaissance de l'entreprise — suggestion.",
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "order": 4,
+          "kind": "MEDICAL",
+          "name_ar": "الفحص الطبي للقدرة على العمل",
+          "name_fr": "Visite médicale d'aptitude",
+          "is_eliminatory": true,
+          "duration_minutes": null,
+          "description_ar": "فحص طبي للتأكد من القدرة على العمل بالخطة قبل الانتداب النهائي — مقترح بالقياس على المنشآت العمومية.",
+          "description_fr": "Visite médicale d'aptitude au poste avant l'embauche définitive — suggestion par analogie avec les entreprises publiques.",
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "order": 5,
+          "kind": "TRAINING",
+          "name_ar": "فترة التجربة والتكوين عند الانتداب",
+          "name_fr": "Période d'essai et formation d'intégration",
+          "is_eliminatory": true,
+          "duration_minutes": null,
+          "description_ar": "يُرجّح أن يخضع المنتدبون لفترة تجربة وتكوين إدماجي (التعريف بالمؤسسة وخدماتها، إجراءات العمل، السلامة) قبل الترسيم، وفق النظام الأساسي لأعوان اتصالات تونس — مقترح، للتثبت.",
+          "description_fr": "Les recrues passeraient une période d'essai et une formation d'intégration (entreprise et services, procédures, sécurité) avant titularisation, selon le statut du personnel de Tunisie Telecom — suggestion, à vérifier.",
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        }
+      ],
+      "subjects": [
+        {
+          "phase_order": 2,
+          "domain": "SPECIALTY",
+          "specialty_key": "spec.tunisie-telecom.reseaux",
+          "name_ar": "الشبكات والاتصالات (الإرسال، شبكات IP، الشبكات الخلوية، النفاذ القار والألياف البصرية)",
+          "name_fr": "Réseaux et télécommunications (transmission, réseaux IP, réseaux mobiles, accès fixe et fibre optique)",
+          "coefficient": null,
+          "duration_minutes": null,
+          "question_count": null,
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "phase_order": 2,
+          "domain": "SPECIALTY",
+          "specialty_key": "spec.informatique",
+          "name_ar": "الإعلامية (أنظمة، قواعد بيانات، برمجة، أمن المعلومات)",
+          "name_fr": "Informatique (systèmes, bases de données, programmation, sécurité)",
+          "coefficient": null,
+          "duration_minutes": null,
+          "question_count": null,
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "phase_order": 2,
+          "domain": "SPECIALTY",
+          "specialty_key": "spec.tunisie-telecom.secteur",
+          "name_ar": "اتصالات تونس وقطاع الاتصالات في تونس",
+          "name_fr": "Tunisie Telecom et le secteur des télécommunications en Tunisie",
+          "coefficient": null,
+          "duration_minutes": null,
+          "question_count": null,
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "phase_order": 2,
+          "domain": "ENGLISH",
+          "specialty_key": null,
+          "name_ar": "اللغة الأنقليزية (تقنية)",
+          "name_fr": "Anglais (technique)",
+          "coefficient": null,
+          "duration_minutes": null,
+          "question_count": null,
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "phase_order": 2,
+          "domain": "FRENCH",
+          "specialty_key": null,
+          "name_ar": "اللغة الفرنسية",
+          "name_fr": "Français",
+          "coefficient": null,
+          "duration_minutes": null,
+          "question_count": null,
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "phase_order": 2,
+          "domain": "LOGIC",
+          "specialty_key": null,
+          "name_ar": "المنطق والاستدلال",
+          "name_fr": "Logique et raisonnement",
+          "coefficient": null,
+          "duration_minutes": null,
+          "question_count": null,
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        }
+      ],
+      "physical_tests": [],
+      "required_documents": [
+        {
+          "text_ar": "مطبوعة التسجيل عن بعد (أو وصل التسجيل) ممضاة",
+          "text_fr": "Fiche/accusé d'inscription en ligne signé",
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "text_ar": "نسخة من بطاقة التعريف الوطنية",
+          "text_fr": "Copie de la carte d'identité nationale (CIN)",
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "text_ar": "نسخة مطابقة للأصل من الشهادة العلمية المطلوبة (مع شهادة معادلة بالنسبة إلى الشهائد الأجنبية)",
+          "text_fr": "Copie certifiée conforme du diplôme exigé (avec attestation d'équivalence pour les diplômes étrangers)",
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "text_ar": "نسخ من كشوف الأعداد لكل سنوات الدراسة الجامعية",
+          "text_fr": "Copies des relevés de notes de toutes les années d'études supérieures",
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "text_ar": "سيرة ذاتية مفصلة",
+          "text_fr": "Curriculum vitae détaillé",
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "text_ar": "بطاقة عدد 3 (السجل العدلي) لا يتجاوز تاريخها 3 أشهر — تُطلب عادة عند الانتداب",
+          "text_fr": "Bulletin n° 3 (extrait du casier judiciaire) de moins de 3 mois — généralement exigé au moment du recrutement",
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "text_ar": "وثيقة تثبت الوضعية إزاء الخدمة الوطنية (للذكور)",
+          "text_fr": "Justificatif de la situation vis-à-vis du service national (candidats masculins)",
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "text_ar": "شهادة تسجيل بمكتب التشغيل (إن طلبها البلاغ)",
+          "text_fr": "Attestation d'inscription au bureau de l'emploi (si l'avis l'exige)",
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "text_ar": "صورتان شمسيتان حديثتان",
+          "text_fr": "Deux photos d'identité récentes",
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        }
+      ],
+      "blueprint": {
+        "total_minutes": 160,
+        "fidelity": "APPROXIMATED",
+        "sections": [
+          {
+            "domain": "SPECIALTY",
+            "specialty_key": "spec.tunisie-telecom.reseaux",
+            "count": 30,
+            "minutes": 60
+          },
+          {
+            "domain": "SPECIALTY",
+            "specialty_key": "spec.informatique",
+            "count": 10,
+            "minutes": 20
+          },
+          {
+            "domain": "SPECIALTY",
+            "specialty_key": "spec.tunisie-telecom.secteur",
+            "count": 10,
+            "minutes": 10
+          },
+          {
+            "domain": "ENGLISH",
+            "specialty_key": null,
+            "count": 10,
+            "minutes": 20
+          },
+          {
+            "domain": "FRENCH",
+            "specialty_key": null,
+            "count": 10,
+            "minutes": 20
+          },
+          {
+            "domain": "LOGIC",
+            "specialty_key": null,
+            "count": 10,
+            "minutes": 20
+          },
+          {
+            "domain": "NUMERICAL",
+            "specialty_key": null,
+            "count": 5,
+            "minutes": 10
+          }
+        ]
+      }
+    },
+    {
+      "slug": "technicien-superieur",
+      "title_ar": "تقني سامي (اتصالات، شبكات، إلكترونيك، إعلامية)",
+      "title_fr": "Technicien supérieur (télécommunications, réseaux, électronique, informatique)",
+      "diploma_level": "BAC_PLUS_2",
+      "eligibility": {
+        "min_age": 18,
+        "max_age": null,
+        "genders": [
+          "M",
+          "F"
+        ],
+        "nationality": "TN",
+        "diplomas": [
+          "BAC_PLUS_2",
+          "LICENCE"
+        ],
+        "specialties": [
+          "Télécommunications",
+          "Réseaux informatiques",
+          "Électronique",
+          "Électrotechnique / génie électrique",
+          "Informatique"
+        ],
+        "min_height_cm_male": null,
+        "min_height_cm_female": null,
+        "marital_status": null,
+        "other_ar": [
+          "تنبيه: لم يُطّلع على أي بلاغ رسمي لمناظرة اتصالات تونس خلال الفترة 2023-2026 أثناء هذا البحث؛ كل الشروط أدناه مقترحة بالقياس على المنشآت العمومية التونسية ويجب التثبت منها في البلاغ الرسمي",
+          "الجنسية التونسية والتمتع بالحقوق المدنية وحسن السيرة (بطاقة عدد 3 خالية من السوابق) — مقترح",
+          "وضعية قانونية إزاء الخدمة الوطنية بالنسبة إلى المترشحين الذكور — مقترح",
+          "السن القصوى غير معروفة: على سبيل الاستئناس يحدد النظام الأساسي العام للوظيفة العمومية (القانون عدد 112 لسنة 1983) سقفا بـ40 سنة، لكن اتصالات تونس شركة خفية الاسم تخضع لنظامها الأساسي الخاص بأعوانها — للتثبت",
+          "القدرة البدنية والذهنية على العمل تُثبت بفحص طبي قبل الانتداب — مقترح",
+          "شهادة تقني سام أو إجازة تطبيقية في الاتصالات أو الشبكات أو الإلكترونيك أو الإعلامية (مستوى الشهادة الدقيق يحدده البلاغ) — مقترح"
+        ],
+        "other_fr": [
+          "Attention : aucun avis officiel de concours Tunisie Telecom 2023-2026 n'a pu être consulté pendant cette recherche ; toutes les conditions ci-dessous sont suggérées par analogie avec les entreprises publiques tunisiennes et doivent être vérifiées sur l'avis officiel",
+          "Nationalité tunisienne, jouissance des droits civiques et bonne moralité (bulletin n° 3 vierge) — suggestion",
+          "Situation régulière vis-à-vis du service national pour les candidats de sexe masculin — suggestion",
+          "Âge maximum inconnu : à titre indicatif, le statut général de la fonction publique (loi n° 83-112 du 12 décembre 1983) retient 40 ans, mais Tunisie Telecom, société anonyme, applique son propre statut du personnel — à vérifier",
+          "Aptitude physique et mentale attestée par une visite médicale avant l'embauche — suggestion",
+          "BTS / diplôme de technicien supérieur ou licence appliquée en télécommunications, réseaux, électronique ou informatique (le niveau exact est fixé par l'avis) — suggestion"
+        ],
+        "source_key": null,
+        "confidence": "LOW",
+        "needs_verification": true,
+        "source_quote": null
+      },
+      "phases": [
+        {
+          "order": 1,
+          "kind": "FILE_REVIEW",
+          "name_ar": "التسجيل ودراسة الملفات (انتقاء أولي)",
+          "name_fr": "Inscription et étude des dossiers (présélection)",
+          "is_eliminatory": true,
+          "duration_minutes": null,
+          "description_ar": "يُرجّح أن يتم التسجيل عن بعد عبر الموقع الرسمي لاتصالات تونس أو منصة مخصصة يحددها البلاغ، ثم انتقاء أولي على أساس الملف (الشهادة، المعدلات، سنة التخرج، الاختصاص). منصة التسجيل ومقاييس الانتقاء غير معروفة — مقترح، للتثبت من البلاغ الرسمي.",
+          "description_fr": "L'inscription se ferait en ligne via le site officiel de Tunisie Telecom ou une plateforme indiquée dans l'avis, suivie d'une présélection sur dossier (diplôme, moyennes, année d'obtention, spécialité). Plateforme et critères de présélection inconnus — suggestion, à vérifier sur l'avis officiel.",
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "order": 2,
+          "kind": "WRITTEN",
+          "name_ar": "الاختبارات الكتابية",
+          "name_fr": "Épreuves écrites",
+          "is_eliminatory": true,
+          "duration_minutes": null,
+          "description_ar": "اختبار تقني في الاختصاص (أساسيات الشبكات والإرسال، تركيب وصيانة التجهيزات، الألياف البصرية، الكهرباء الأساسية) مع اختبار في الفرنسية والحساب. الضوارب والمدة غير منشورة لدينا — مقترح.",
+          "description_fr": "Épreuve technique de spécialité (bases des réseaux et de la transmission, installation et maintenance des équipements, fibre optique, électricité de base), complétée par du français et du calcul. Coefficients et durées non connus — suggestion.",
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "order": 3,
+          "kind": "INTERVIEW",
+          "name_ar": "المقابلة الشفاهية مع لجنة",
+          "name_fr": "Entretien oral devant un jury",
+          "is_eliminatory": true,
+          "duration_minutes": null,
+          "description_ar": "مقابلة لتقييم المعارف التطبيقية والتربصات والقدرة على العمل الميداني وضمن فريق — مقترح.",
+          "description_fr": "Entretien sur les connaissances pratiques, les stages et l'aptitude au travail de terrain et en équipe — suggestion.",
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "order": 4,
+          "kind": "MEDICAL",
+          "name_ar": "الفحص الطبي للقدرة على العمل",
+          "name_fr": "Visite médicale d'aptitude",
+          "is_eliminatory": true,
+          "duration_minutes": null,
+          "description_ar": "فحص طبي للتأكد من القدرة على العمل بالخطة قبل الانتداب النهائي — مقترح بالقياس على المنشآت العمومية.",
+          "description_fr": "Visite médicale d'aptitude au poste avant l'embauche définitive — suggestion par analogie avec les entreprises publiques.",
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "order": 5,
+          "kind": "TRAINING",
+          "name_ar": "فترة التجربة والتكوين عند الانتداب",
+          "name_fr": "Période d'essai et formation d'intégration",
+          "is_eliminatory": true,
+          "duration_minutes": null,
+          "description_ar": "يُرجّح أن يخضع المنتدبون لفترة تجربة وتكوين إدماجي (التعريف بالمؤسسة وخدماتها، إجراءات العمل، السلامة) قبل الترسيم، وفق النظام الأساسي لأعوان اتصالات تونس — مقترح، للتثبت.",
+          "description_fr": "Les recrues passeraient une période d'essai et une formation d'intégration (entreprise et services, procédures, sécurité) avant titularisation, selon le statut du personnel de Tunisie Telecom — suggestion, à vérifier.",
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        }
+      ],
+      "subjects": [
+        {
+          "phase_order": 2,
+          "domain": "SPECIALTY",
+          "specialty_key": "spec.tunisie-telecom.reseaux",
+          "name_ar": "الشبكات والاتصالات (أساسيات)",
+          "name_fr": "Réseaux et télécommunications (fondamentaux)",
+          "coefficient": null,
+          "duration_minutes": null,
+          "question_count": null,
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "phase_order": 2,
+          "domain": "SPECIALTY",
+          "specialty_key": "spec.tunisie-telecom.terrain",
+          "name_ar": "تركيب وصيانة الشبكات ميدانيا (النحاس والألياف البصرية)",
+          "name_fr": "Installation et maintenance des réseaux sur le terrain (cuivre et fibre)",
+          "coefficient": null,
+          "duration_minutes": null,
+          "question_count": null,
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "phase_order": 2,
+          "domain": "SPECIALTY",
+          "specialty_key": "spec.electricite",
+          "name_ar": "الكهرباء والإلكترونيك الأساسية",
+          "name_fr": "Électricité et électronique de base",
+          "coefficient": null,
+          "duration_minutes": null,
+          "question_count": null,
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "phase_order": 2,
+          "domain": "NUMERICAL",
+          "specialty_key": null,
+          "name_ar": "الحساب والاستدلال العددي",
+          "name_fr": "Calcul et raisonnement numérique",
+          "coefficient": null,
+          "duration_minutes": null,
+          "question_count": null,
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "phase_order": 2,
+          "domain": "FRENCH",
+          "specialty_key": null,
+          "name_ar": "اللغة الفرنسية",
+          "name_fr": "Français",
+          "coefficient": null,
+          "duration_minutes": null,
+          "question_count": null,
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        }
+      ],
+      "physical_tests": [],
+      "required_documents": [
+        {
+          "text_ar": "مطبوعة التسجيل عن بعد (أو وصل التسجيل) ممضاة",
+          "text_fr": "Fiche/accusé d'inscription en ligne signé",
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "text_ar": "نسخة من بطاقة التعريف الوطنية",
+          "text_fr": "Copie de la carte d'identité nationale (CIN)",
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "text_ar": "نسخة مطابقة للأصل من الشهادة العلمية المطلوبة (مع شهادة معادلة بالنسبة إلى الشهائد الأجنبية)",
+          "text_fr": "Copie certifiée conforme du diplôme exigé (avec attestation d'équivalence pour les diplômes étrangers)",
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "text_ar": "نسخ من كشوف الأعداد لكل سنوات الدراسة الجامعية",
+          "text_fr": "Copies des relevés de notes de toutes les années d'études supérieures",
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "text_ar": "سيرة ذاتية مفصلة",
+          "text_fr": "Curriculum vitae détaillé",
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "text_ar": "بطاقة عدد 3 (السجل العدلي) لا يتجاوز تاريخها 3 أشهر — تُطلب عادة عند الانتداب",
+          "text_fr": "Bulletin n° 3 (extrait du casier judiciaire) de moins de 3 mois — généralement exigé au moment du recrutement",
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "text_ar": "وثيقة تثبت الوضعية إزاء الخدمة الوطنية (للذكور)",
+          "text_fr": "Justificatif de la situation vis-à-vis du service national (candidats masculins)",
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "text_ar": "شهادة تسجيل بمكتب التشغيل (إن طلبها البلاغ)",
+          "text_fr": "Attestation d'inscription au bureau de l'emploi (si l'avis l'exige)",
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "text_ar": "صورتان شمسيتان حديثتان",
+          "text_fr": "Deux photos d'identité récentes",
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        }
+      ],
+      "blueprint": {
+        "total_minutes": 120,
+        "fidelity": "APPROXIMATED",
+        "sections": [
+          {
+            "domain": "SPECIALTY",
+            "specialty_key": "spec.tunisie-telecom.reseaux",
+            "count": 20,
+            "minutes": 40
+          },
+          {
+            "domain": "SPECIALTY",
+            "specialty_key": "spec.tunisie-telecom.terrain",
+            "count": 10,
+            "minutes": 20
+          },
+          {
+            "domain": "SPECIALTY",
+            "specialty_key": "spec.electricite",
+            "count": 10,
+            "minutes": 15
+          },
+          {
+            "domain": "NUMERICAL",
+            "specialty_key": null,
+            "count": 10,
+            "minutes": 15
+          },
+          {
+            "domain": "FRENCH",
+            "specialty_key": null,
+            "count": 10,
+            "minutes": 15
+          },
+          {
+            "domain": "LOGIC",
+            "specialty_key": null,
+            "count": 5,
+            "minutes": 10
+          },
+          {
+            "domain": "SPECIALTY",
+            "specialty_key": "spec.tunisie-telecom.secteur",
+            "count": 5,
+            "minutes": 5
+          }
+        ]
+      }
+    },
+    {
+      "slug": "cadre-gestion-commercial",
+      "title_ar": "إطار (تصرف، تسويق وتجارة، مالية ومحاسبة، قانون، موارد بشرية)",
+      "title_fr": "Cadre (gestion, marketing-commerce, finance-comptabilité, droit, ressources humaines)",
+      "diploma_level": "LICENCE",
+      "eligibility": {
+        "min_age": 18,
+        "max_age": null,
+        "genders": [
+          "M",
+          "F"
+        ],
+        "nationality": "TN",
+        "diplomas": [
+          "LICENCE",
+          "MASTER"
+        ],
+        "specialties": [
+          "Gestion",
+          "Marketing / commerce",
+          "Finance / comptabilité",
+          "Droit",
+          "Gestion des ressources humaines",
+          "Économie"
+        ],
+        "min_height_cm_male": null,
+        "min_height_cm_female": null,
+        "marital_status": null,
+        "other_ar": [
+          "تنبيه: لم يُطّلع على أي بلاغ رسمي لمناظرة اتصالات تونس خلال الفترة 2023-2026 أثناء هذا البحث؛ كل الشروط أدناه مقترحة بالقياس على المنشآت العمومية التونسية ويجب التثبت منها في البلاغ الرسمي",
+          "الجنسية التونسية والتمتع بالحقوق المدنية وحسن السيرة (بطاقة عدد 3 خالية من السوابق) — مقترح",
+          "وضعية قانونية إزاء الخدمة الوطنية بالنسبة إلى المترشحين الذكور — مقترح",
+          "السن القصوى غير معروفة: على سبيل الاستئناس يحدد النظام الأساسي العام للوظيفة العمومية (القانون عدد 112 لسنة 1983) سقفا بـ40 سنة، لكن اتصالات تونس شركة خفية الاسم تخضع لنظامها الأساسي الخاص بأعوانها — للتثبت",
+          "القدرة البدنية والذهنية على العمل تُثبت بفحص طبي قبل الانتداب — مقترح",
+          "إجازة أو ماجستير في التصرف أو التسويق أو المالية والمحاسبة أو القانون أو الموارد البشرية أو الاقتصاد — مقترح"
+        ],
+        "other_fr": [
+          "Attention : aucun avis officiel de concours Tunisie Telecom 2023-2026 n'a pu être consulté pendant cette recherche ; toutes les conditions ci-dessous sont suggérées par analogie avec les entreprises publiques tunisiennes et doivent être vérifiées sur l'avis officiel",
+          "Nationalité tunisienne, jouissance des droits civiques et bonne moralité (bulletin n° 3 vierge) — suggestion",
+          "Situation régulière vis-à-vis du service national pour les candidats de sexe masculin — suggestion",
+          "Âge maximum inconnu : à titre indicatif, le statut général de la fonction publique (loi n° 83-112 du 12 décembre 1983) retient 40 ans, mais Tunisie Telecom, société anonyme, applique son propre statut du personnel — à vérifier",
+          "Aptitude physique et mentale attestée par une visite médicale avant l'embauche — suggestion",
+          "Licence ou mastère en gestion, marketing, finance-comptabilité, droit, GRH ou économie — suggestion"
+        ],
+        "source_key": null,
+        "confidence": "LOW",
+        "needs_verification": true,
+        "source_quote": null
+      },
+      "phases": [
+        {
+          "order": 1,
+          "kind": "FILE_REVIEW",
+          "name_ar": "التسجيل ودراسة الملفات (انتقاء أولي)",
+          "name_fr": "Inscription et étude des dossiers (présélection)",
+          "is_eliminatory": true,
+          "duration_minutes": null,
+          "description_ar": "يُرجّح أن يتم التسجيل عن بعد عبر الموقع الرسمي لاتصالات تونس أو منصة مخصصة يحددها البلاغ، ثم انتقاء أولي على أساس الملف (الشهادة، المعدلات، سنة التخرج، الاختصاص). منصة التسجيل ومقاييس الانتقاء غير معروفة — مقترح، للتثبت من البلاغ الرسمي.",
+          "description_fr": "L'inscription se ferait en ligne via le site officiel de Tunisie Telecom ou une plateforme indiquée dans l'avis, suivie d'une présélection sur dossier (diplôme, moyennes, année d'obtention, spécialité). Plateforme et critères de présélection inconnus — suggestion, à vérifier sur l'avis officiel.",
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "order": 2,
+          "kind": "WRITTEN",
+          "name_ar": "الاختبارات الكتابية",
+          "name_fr": "Épreuves écrites",
+          "is_eliminatory": true,
+          "duration_minutes": null,
+          "description_ar": "اختبار في الاختصاص (تصرف ومحاسبة ومالية، تسويق، أو قانون حسب الخطة) مع اختبار في الثقافة العامة وفي اللغات (الفرنسية والأنقليزية) وتحرير. الضوارب والمدة غير منشورة لدينا — مقترح.",
+          "description_fr": "Épreuve de spécialité (gestion-comptabilité-finance, marketing ou droit selon le poste), complétée par de la culture générale, des langues (français, anglais) et une épreuve de rédaction. Coefficients et durées non connus — suggestion.",
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "order": 3,
+          "kind": "INTERVIEW",
+          "name_ar": "المقابلة الشفاهية مع لجنة",
+          "name_fr": "Entretien oral devant un jury",
+          "is_eliminatory": true,
+          "duration_minutes": null,
+          "description_ar": "مقابلة لتقييم المعارف في الاختصاص والقدرة على التحليل والتواصل ومعرفة سوق الاتصالات — مقترح.",
+          "description_fr": "Entretien : connaissances de spécialité, analyse, communication et connaissance du marché des télécommunications — suggestion.",
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "order": 4,
+          "kind": "MEDICAL",
+          "name_ar": "الفحص الطبي للقدرة على العمل",
+          "name_fr": "Visite médicale d'aptitude",
+          "is_eliminatory": true,
+          "duration_minutes": null,
+          "description_ar": "فحص طبي للتأكد من القدرة على العمل بالخطة قبل الانتداب النهائي — مقترح بالقياس على المنشآت العمومية.",
+          "description_fr": "Visite médicale d'aptitude au poste avant l'embauche définitive — suggestion par analogie avec les entreprises publiques.",
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "order": 5,
+          "kind": "TRAINING",
+          "name_ar": "فترة التجربة والتكوين عند الانتداب",
+          "name_fr": "Période d'essai et formation d'intégration",
+          "is_eliminatory": true,
+          "duration_minutes": null,
+          "description_ar": "يُرجّح أن يخضع المنتدبون لفترة تجربة وتكوين إدماجي (التعريف بالمؤسسة وخدماتها، إجراءات العمل، السلامة) قبل الترسيم، وفق النظام الأساسي لأعوان اتصالات تونس — مقترح، للتثبت.",
+          "description_fr": "Les recrues passeraient une période d'essai et une formation d'intégration (entreprise et services, procédures, sécurité) avant titularisation, selon le statut du personnel de Tunisie Telecom — suggestion, à vérifier.",
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        }
+      ],
+      "subjects": [
+        {
+          "phase_order": 2,
+          "domain": "SPECIALTY",
+          "specialty_key": "spec.banque-gestion",
+          "name_ar": "الاقتصاد والتصرف والمحاسبة والمالية",
+          "name_fr": "Économie, gestion, comptabilité et finance",
+          "coefficient": null,
+          "duration_minutes": null,
+          "question_count": null,
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "phase_order": 2,
+          "domain": "SPECIALTY",
+          "specialty_key": "spec.tunisie-telecom.relation-client",
+          "name_ar": "التسويق والعلاقة مع الحريف في قطاع الاتصالات",
+          "name_fr": "Marketing et relation client dans les télécoms",
+          "coefficient": null,
+          "duration_minutes": null,
+          "question_count": null,
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "phase_order": 2,
+          "domain": "SPECIALTY",
+          "specialty_key": "spec.tunisie-telecom.secteur",
+          "name_ar": "اتصالات تونس وقطاع الاتصالات (الإطار القانوني والسوق)",
+          "name_fr": "Tunisie Telecom et le secteur (cadre juridique et marché)",
+          "coefficient": null,
+          "duration_minutes": null,
+          "question_count": null,
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "phase_order": 2,
+          "domain": "SPECIALTY",
+          "specialty_key": "spec.redaction-administrative",
+          "name_ar": "التحرير الإداري",
+          "name_fr": "Rédaction administrative",
+          "coefficient": null,
+          "duration_minutes": null,
+          "question_count": null,
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "phase_order": 2,
+          "domain": "CULTURE_GENERALE",
+          "specialty_key": null,
+          "name_ar": "الثقافة العامة",
+          "name_fr": "Culture générale",
+          "coefficient": null,
+          "duration_minutes": null,
+          "question_count": null,
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "phase_order": 2,
+          "domain": "FRENCH",
+          "specialty_key": null,
+          "name_ar": "اللغة الفرنسية",
+          "name_fr": "Français",
+          "coefficient": null,
+          "duration_minutes": null,
+          "question_count": null,
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "phase_order": 2,
+          "domain": "ENGLISH",
+          "specialty_key": null,
+          "name_ar": "اللغة الأنقليزية",
+          "name_fr": "Anglais",
+          "coefficient": null,
+          "duration_minutes": null,
+          "question_count": null,
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        }
+      ],
+      "physical_tests": [],
+      "required_documents": [
+        {
+          "text_ar": "مطبوعة التسجيل عن بعد (أو وصل التسجيل) ممضاة",
+          "text_fr": "Fiche/accusé d'inscription en ligne signé",
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "text_ar": "نسخة من بطاقة التعريف الوطنية",
+          "text_fr": "Copie de la carte d'identité nationale (CIN)",
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "text_ar": "نسخة مطابقة للأصل من الشهادة العلمية المطلوبة (مع شهادة معادلة بالنسبة إلى الشهائد الأجنبية)",
+          "text_fr": "Copie certifiée conforme du diplôme exigé (avec attestation d'équivalence pour les diplômes étrangers)",
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "text_ar": "نسخ من كشوف الأعداد لكل سنوات الدراسة الجامعية",
+          "text_fr": "Copies des relevés de notes de toutes les années d'études supérieures",
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "text_ar": "سيرة ذاتية مفصلة",
+          "text_fr": "Curriculum vitae détaillé",
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "text_ar": "بطاقة عدد 3 (السجل العدلي) لا يتجاوز تاريخها 3 أشهر — تُطلب عادة عند الانتداب",
+          "text_fr": "Bulletin n° 3 (extrait du casier judiciaire) de moins de 3 mois — généralement exigé au moment du recrutement",
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "text_ar": "وثيقة تثبت الوضعية إزاء الخدمة الوطنية (للذكور)",
+          "text_fr": "Justificatif de la situation vis-à-vis du service national (candidats masculins)",
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "text_ar": "شهادة تسجيل بمكتب التشغيل (إن طلبها البلاغ)",
+          "text_fr": "Attestation d'inscription au bureau de l'emploi (si l'avis l'exige)",
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "text_ar": "صورتان شمسيتان حديثتان",
+          "text_fr": "Deux photos d'identité récentes",
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        }
+      ],
+      "blueprint": {
+        "total_minutes": 150,
+        "fidelity": "APPROXIMATED",
+        "sections": [
+          {
+            "domain": "SPECIALTY",
+            "specialty_key": "spec.banque-gestion",
+            "count": 25,
+            "minutes": 45
+          },
+          {
+            "domain": "SPECIALTY",
+            "specialty_key": "spec.tunisie-telecom.relation-client",
+            "count": 10,
+            "minutes": 15
+          },
+          {
+            "domain": "SPECIALTY",
+            "specialty_key": "spec.tunisie-telecom.secteur",
+            "count": 10,
+            "minutes": 15
+          },
+          {
+            "domain": "SPECIALTY",
+            "specialty_key": "spec.redaction-administrative",
+            "count": 5,
+            "minutes": 20
+          },
+          {
+            "domain": "CULTURE_GENERALE",
+            "specialty_key": null,
+            "count": 10,
+            "minutes": 15
+          },
+          {
+            "domain": "FRENCH",
+            "specialty_key": null,
+            "count": 10,
+            "minutes": 20
+          },
+          {
+            "domain": "ENGLISH",
+            "specialty_key": null,
+            "count": 10,
+            "minutes": 20
+          }
+        ]
+      }
+    },
+    {
+      "slug": "conseiller-clientele",
+      "title_ar": "مستشار حرفاء / عون تجاري (فضاءات اتصالات تونس ومراكز النداء)",
+      "title_fr": "Conseiller clientèle / agent commercial (Espaces TT et centres d'appels)",
+      "diploma_level": "BAC",
+      "eligibility": {
+        "min_age": 18,
+        "max_age": null,
+        "genders": [
+          "M",
+          "F"
+        ],
+        "nationality": "TN",
+        "diplomas": [
+          "BAC",
+          "BAC_PLUS_2",
+          "LICENCE"
+        ],
+        "specialties": [
+          "Toutes spécialités (préférence commerce, gestion, langues, communication) — suggestion"
+        ],
+        "min_height_cm_male": null,
+        "min_height_cm_female": null,
+        "marital_status": null,
+        "other_ar": [
+          "تنبيه: لم يُطّلع على أي بلاغ رسمي لمناظرة اتصالات تونس خلال الفترة 2023-2026 أثناء هذا البحث؛ كل الشروط أدناه مقترحة بالقياس على المنشآت العمومية التونسية ويجب التثبت منها في البلاغ الرسمي",
+          "الجنسية التونسية والتمتع بالحقوق المدنية وحسن السيرة (بطاقة عدد 3 خالية من السوابق) — مقترح",
+          "وضعية قانونية إزاء الخدمة الوطنية بالنسبة إلى المترشحين الذكور — مقترح",
+          "السن القصوى غير معروفة: على سبيل الاستئناس يحدد النظام الأساسي العام للوظيفة العمومية (القانون عدد 112 لسنة 1983) سقفا بـ40 سنة، لكن اتصالات تونس شركة خفية الاسم تخضع لنظامها الأساسي الخاص بأعوانها — للتثبت",
+          "القدرة البدنية والذهنية على العمل تُثبت بفحص طبي قبل الانتداب — مقترح",
+          "شهادة الباكالوريا على الأقل، ويُرجّح تفضيل شهائد التجارة والتصرف واللغات والاتصال — مقترح",
+          "إتقان العربية والفرنسية شفويا، والأنقليزية ميزة إضافية — مقترح"
+        ],
+        "other_fr": [
+          "Attention : aucun avis officiel de concours Tunisie Telecom 2023-2026 n'a pu être consulté pendant cette recherche ; toutes les conditions ci-dessous sont suggérées par analogie avec les entreprises publiques tunisiennes et doivent être vérifiées sur l'avis officiel",
+          "Nationalité tunisienne, jouissance des droits civiques et bonne moralité (bulletin n° 3 vierge) — suggestion",
+          "Situation régulière vis-à-vis du service national pour les candidats de sexe masculin — suggestion",
+          "Âge maximum inconnu : à titre indicatif, le statut général de la fonction publique (loi n° 83-112 du 12 décembre 1983) retient 40 ans, mais Tunisie Telecom, société anonyme, applique son propre statut du personnel — à vérifier",
+          "Aptitude physique et mentale attestée par une visite médicale avant l'embauche — suggestion",
+          "Baccalauréat au minimum ; préférence probable pour les diplômes en commerce, gestion, langues ou communication — suggestion",
+          "Bonne maîtrise orale de l'arabe et du français, l'anglais étant un atout — suggestion"
+        ],
+        "source_key": null,
+        "confidence": "LOW",
+        "needs_verification": true,
+        "source_quote": null
+      },
+      "phases": [
+        {
+          "order": 1,
+          "kind": "FILE_REVIEW",
+          "name_ar": "التسجيل ودراسة الملفات (انتقاء أولي)",
+          "name_fr": "Inscription et étude des dossiers (présélection)",
+          "is_eliminatory": true,
+          "duration_minutes": null,
+          "description_ar": "يُرجّح أن يتم التسجيل عن بعد عبر الموقع الرسمي لاتصالات تونس أو منصة مخصصة يحددها البلاغ، ثم انتقاء أولي على أساس الملف (الشهادة، المعدلات، سنة التخرج، الاختصاص). منصة التسجيل ومقاييس الانتقاء غير معروفة — مقترح، للتثبت من البلاغ الرسمي.",
+          "description_fr": "L'inscription se ferait en ligne via le site officiel de Tunisie Telecom ou une plateforme indiquée dans l'avis, suivie d'une présélection sur dossier (diplôme, moyennes, année d'obtention, spécialité). Plateforme et critères de présélection inconnus — suggestion, à vérifier sur l'avis officiel.",
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "order": 2,
+          "kind": "WRITTEN",
+          "name_ar": "الاختبار الكتابي",
+          "name_fr": "Épreuve écrite",
+          "is_eliminatory": true,
+          "duration_minutes": null,
+          "description_ar": "اختبار كتابي في شكل أسئلة متعددة الاختيارات: اللغة الفرنسية والعربية، ثقافة عامة حول خدمات الاتصالات (الهاتف الجوال والقار، الأنترنات، الألياف البصرية)، الحساب، وحس تجاري. الضوارب والمدة غير منشورة لدينا — مقترح.",
+          "description_fr": "Épreuve écrite type QCM : français et arabe, culture générale sur les services télécoms (mobile, fixe, internet, fibre), calcul et sens commercial. Coefficients et durées non connus — suggestion.",
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "order": 3,
+          "kind": "INTERVIEW",
+          "name_ar": "المقابلة الشفاهية مع لجنة",
+          "name_fr": "Entretien oral devant un jury",
+          "is_eliminatory": true,
+          "duration_minutes": null,
+          "description_ar": "مقابلة قد تتضمن تمثيل أدوار (استقبال حريف، معالجة تشكّي، بيع عرض) لتقييم التواصل والهدوء والحس التجاري — مقترح.",
+          "description_fr": "Entretien pouvant inclure une mise en situation (accueil d'un client, traitement d'une réclamation, vente d'une offre) : communication, calme, sens commercial — suggestion.",
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "order": 4,
+          "kind": "MEDICAL",
+          "name_ar": "الفحص الطبي للقدرة على العمل",
+          "name_fr": "Visite médicale d'aptitude",
+          "is_eliminatory": true,
+          "duration_minutes": null,
+          "description_ar": "فحص طبي للتأكد من القدرة على العمل بالخطة قبل الانتداب النهائي — مقترح بالقياس على المنشآت العمومية.",
+          "description_fr": "Visite médicale d'aptitude au poste avant l'embauche définitive — suggestion par analogie avec les entreprises publiques.",
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "order": 5,
+          "kind": "TRAINING",
+          "name_ar": "فترة التجربة والتكوين عند الانتداب",
+          "name_fr": "Période d'essai et formation d'intégration",
+          "is_eliminatory": true,
+          "duration_minutes": null,
+          "description_ar": "يُرجّح أن يخضع المنتدبون لفترة تجربة وتكوين إدماجي (التعريف بالمؤسسة وخدماتها، إجراءات العمل، السلامة) قبل الترسيم، وفق النظام الأساسي لأعوان اتصالات تونس — مقترح، للتثبت.",
+          "description_fr": "Les recrues passeraient une période d'essai et une formation d'intégration (entreprise et services, procédures, sécurité) avant titularisation, selon le statut du personnel de Tunisie Telecom — suggestion, à vérifier.",
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        }
+      ],
+      "subjects": [
+        {
+          "phase_order": 2,
+          "domain": "FRENCH",
+          "specialty_key": null,
+          "name_ar": "اللغة الفرنسية (فهم وتواصل)",
+          "name_fr": "Français (compréhension et communication)",
+          "coefficient": null,
+          "duration_minutes": null,
+          "question_count": null,
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "phase_order": 2,
+          "domain": "ARABIC",
+          "specialty_key": null,
+          "name_ar": "اللغة العربية",
+          "name_fr": "Arabe",
+          "coefficient": null,
+          "duration_minutes": null,
+          "question_count": null,
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "phase_order": 2,
+          "domain": "SPECIALTY",
+          "specialty_key": "spec.tunisie-telecom.relation-client",
+          "name_ar": "العلاقة مع الحريف وتقنيات البيع وخدمات الاتصالات",
+          "name_fr": "Relation client, techniques de vente et services télécoms",
+          "coefficient": null,
+          "duration_minutes": null,
+          "question_count": null,
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "phase_order": 2,
+          "domain": "SPECIALTY",
+          "specialty_key": "spec.tunisie-telecom.secteur",
+          "name_ar": "اتصالات تونس وسوق الاتصالات",
+          "name_fr": "Tunisie Telecom et le marché des télécoms",
+          "coefficient": null,
+          "duration_minutes": null,
+          "question_count": null,
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "phase_order": 2,
+          "domain": "NUMERICAL",
+          "specialty_key": null,
+          "name_ar": "الحساب (نسب، تخفيضات، فواتير)",
+          "name_fr": "Calcul (pourcentages, remises, factures)",
+          "coefficient": null,
+          "duration_minutes": null,
+          "question_count": null,
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "phase_order": 2,
+          "domain": "CULTURE_GENERALE",
+          "specialty_key": null,
+          "name_ar": "الثقافة العامة",
+          "name_fr": "Culture générale",
+          "coefficient": null,
+          "duration_minutes": null,
+          "question_count": null,
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        }
+      ],
+      "physical_tests": [],
+      "required_documents": [
+        {
+          "text_ar": "مطبوعة التسجيل عن بعد (أو وصل التسجيل) ممضاة",
+          "text_fr": "Fiche/accusé d'inscription en ligne signé",
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "text_ar": "نسخة من بطاقة التعريف الوطنية",
+          "text_fr": "Copie de la carte d'identité nationale (CIN)",
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "text_ar": "نسخة مطابقة للأصل من الشهادة العلمية المطلوبة (مع شهادة معادلة بالنسبة إلى الشهائد الأجنبية)",
+          "text_fr": "Copie certifiée conforme du diplôme exigé (avec attestation d'équivalence pour les diplômes étrangers)",
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "text_ar": "سيرة ذاتية",
+          "text_fr": "Curriculum vitae",
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "text_ar": "بطاقة عدد 3 (السجل العدلي) لا يتجاوز تاريخها 3 أشهر — تُطلب عادة عند الانتداب",
+          "text_fr": "Bulletin n° 3 (extrait du casier judiciaire) de moins de 3 mois — généralement exigé au moment du recrutement",
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "text_ar": "وثيقة تثبت الوضعية إزاء الخدمة الوطنية (للذكور)",
+          "text_fr": "Justificatif de la situation vis-à-vis du service national (candidats masculins)",
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "text_ar": "شهادة تسجيل بمكتب التشغيل (إن طلبها البلاغ)",
+          "text_fr": "Attestation d'inscription au bureau de l'emploi (si l'avis l'exige)",
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "text_ar": "صورتان شمسيتان حديثتان",
+          "text_fr": "Deux photos d'identité récentes",
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        }
+      ],
+      "blueprint": {
+        "total_minutes": 90,
+        "fidelity": "APPROXIMATED",
+        "sections": [
+          {
+            "domain": "FRENCH",
+            "specialty_key": null,
+            "count": 15,
+            "minutes": 20
+          },
+          {
+            "domain": "ARABIC",
+            "specialty_key": null,
+            "count": 10,
+            "minutes": 15
+          },
+          {
+            "domain": "SPECIALTY",
+            "specialty_key": "spec.tunisie-telecom.relation-client",
+            "count": 15,
+            "minutes": 20
+          },
+          {
+            "domain": "SPECIALTY",
+            "specialty_key": "spec.tunisie-telecom.secteur",
+            "count": 5,
+            "minutes": 5
+          },
+          {
+            "domain": "NUMERICAL",
+            "specialty_key": null,
+            "count": 10,
+            "minutes": 15
+          },
+          {
+            "domain": "CULTURE_GENERALE",
+            "specialty_key": null,
+            "count": 10,
+            "minutes": 10
+          },
+          {
+            "domain": "ENGLISH",
+            "specialty_key": null,
+            "count": 5,
+            "minutes": 5
+          }
+        ]
+      }
+    },
+    {
+      "slug": "agent-technique-terrain",
+      "title_ar": "عون تقني ميداني (مد الخطوط والربط والتركيب)",
+      "title_fr": "Agent technique de terrain (lignes, raccordements, installation)",
+      "diploma_level": "SECONDARY",
+      "eligibility": {
+        "min_age": 18,
+        "max_age": null,
+        "genders": [
+          "M",
+          "F"
+        ],
+        "nationality": "TN",
+        "diplomas": [
+          "SECONDARY",
+          "BAC"
+        ],
+        "specialties": [
+          "Électricité / électronique",
+          "Câblage et réseaux",
+          "Mécanique générale — suggestion"
+        ],
+        "min_height_cm_male": null,
+        "min_height_cm_female": null,
+        "marital_status": null,
+        "other_ar": [
+          "تنبيه: لم يُطّلع على أي بلاغ رسمي لمناظرة اتصالات تونس خلال الفترة 2023-2026 أثناء هذا البحث؛ كل الشروط أدناه مقترحة بالقياس على المنشآت العمومية التونسية ويجب التثبت منها في البلاغ الرسمي",
+          "الجنسية التونسية والتمتع بالحقوق المدنية وحسن السيرة (بطاقة عدد 3 خالية من السوابق) — مقترح",
+          "وضعية قانونية إزاء الخدمة الوطنية بالنسبة إلى المترشحين الذكور — مقترح",
+          "السن القصوى غير معروفة: على سبيل الاستئناس يحدد النظام الأساسي العام للوظيفة العمومية (القانون عدد 112 لسنة 1983) سقفا بـ40 سنة، لكن اتصالات تونس شركة خفية الاسم تخضع لنظامها الأساسي الخاص بأعوانها — للتثبت",
+          "القدرة البدنية والذهنية على العمل تُثبت بفحص طبي قبل الانتداب — مقترح",
+          "مستوى التعليم الثانوي أو شهادة تكوين مهني (مؤهل تقني مهني أو شهادة كفاءة مهنية) في الكهرباء أو الإلكترونيك أو الكابلات — مقترح",
+          "رخصة السياقة قد تكون مطلوبة أو ميزة إضافية — مقترح",
+          "فرضية للتثبت: قد تشمل الانتدابات الميدانية إدماج عمال المناولة سابقا إثر تنقيح مجلة الشغل سنة 2025 (منع المناولة في اليد العاملة)"
+        ],
+        "other_fr": [
+          "Attention : aucun avis officiel de concours Tunisie Telecom 2023-2026 n'a pu être consulté pendant cette recherche ; toutes les conditions ci-dessous sont suggérées par analogie avec les entreprises publiques tunisiennes et doivent être vérifiées sur l'avis officiel",
+          "Nationalité tunisienne, jouissance des droits civiques et bonne moralité (bulletin n° 3 vierge) — suggestion",
+          "Situation régulière vis-à-vis du service national pour les candidats de sexe masculin — suggestion",
+          "Âge maximum inconnu : à titre indicatif, le statut général de la fonction publique (loi n° 83-112 du 12 décembre 1983) retient 40 ans, mais Tunisie Telecom, société anonyme, applique son propre statut du personnel — à vérifier",
+          "Aptitude physique et mentale attestée par une visite médicale avant l'embauche — suggestion",
+          "Niveau secondaire ou diplôme de la formation professionnelle (BTP ou CAP) en électricité, électronique ou câblage — suggestion",
+          "Le permis de conduire pourrait être exigé ou constituer un atout — suggestion",
+          "Hypothèse à vérifier : les recrutements de terrain pourraient inclure l'intégration d'anciens travailleurs sous-traités suite à la révision du Code du travail de 2025 (interdiction de la sous-traitance de main-d'œuvre)"
+        ],
+        "source_key": null,
+        "confidence": "LOW",
+        "needs_verification": true,
+        "source_quote": null
+      },
+      "phases": [
+        {
+          "order": 1,
+          "kind": "FILE_REVIEW",
+          "name_ar": "التسجيل ودراسة الملفات (انتقاء أولي)",
+          "name_fr": "Inscription et étude des dossiers (présélection)",
+          "is_eliminatory": true,
+          "duration_minutes": null,
+          "description_ar": "يُرجّح أن يتم التسجيل عن بعد عبر الموقع الرسمي لاتصالات تونس أو منصة مخصصة يحددها البلاغ، ثم انتقاء أولي على أساس الملف (الشهادة، المعدلات، سنة التخرج، الاختصاص). منصة التسجيل ومقاييس الانتقاء غير معروفة — مقترح، للتثبت من البلاغ الرسمي.",
+          "description_fr": "L'inscription se ferait en ligne via le site officiel de Tunisie Telecom ou une plateforme indiquée dans l'avis, suivie d'une présélection sur dossier (diplôme, moyennes, année d'obtention, spécialité). Plateforme et critères de présélection inconnus — suggestion, à vérifier sur l'avis officiel.",
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "order": 2,
+          "kind": "WRITTEN",
+          "name_ar": "الاختبار الكتابي و/أو التطبيقي",
+          "name_fr": "Épreuve écrite et/ou pratique",
+          "is_eliminatory": true,
+          "duration_minutes": null,
+          "description_ar": "اختبار مبسط كتابي و/أو تطبيقي: الكهرباء الأساسية، قراءة مخطط، الكابلات النحاسية والألياف البصرية، قواعد السلامة في الحظائر والعمل في المرتفعات. الضوارب والمدة غير منشورة لدينا — مقترح.",
+          "description_fr": "Épreuve simple écrite et/ou pratique : électricité de base, lecture de schéma, câbles cuivre et fibre optique, règles de sécurité sur chantier et travail en hauteur. Coefficients et durées non connus — suggestion.",
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "order": 3,
+          "kind": "INTERVIEW",
+          "name_ar": "المقابلة الشفاهية مع لجنة",
+          "name_fr": "Entretien oral devant un jury",
+          "is_eliminatory": true,
+          "duration_minutes": null,
+          "description_ar": "مقابلة لتقييم الخبرة الميدانية والانضباط واحترام قواعد السلامة — مقترح.",
+          "description_fr": "Entretien : expérience de terrain, ponctualité, respect des consignes de sécurité — suggestion.",
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "order": 4,
+          "kind": "MEDICAL",
+          "name_ar": "الفحص الطبي للقدرة على العمل",
+          "name_fr": "Visite médicale d'aptitude",
+          "is_eliminatory": true,
+          "duration_minutes": null,
+          "description_ar": "فحص طبي للتأكد من القدرة على العمل بالخطة قبل الانتداب النهائي مع التركيز على القدرة على العمل في المرتفعات وحمل المعدات — مقترح بالقياس على المنشآت العمومية.",
+          "description_fr": "Visite médicale d'aptitude au poste avant l'embauche définitive, avec attention particulière à l'aptitude au travail en hauteur et au port de charges — suggestion par analogie avec les entreprises publiques.",
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "order": 5,
+          "kind": "TRAINING",
+          "name_ar": "فترة التجربة والتكوين عند الانتداب",
+          "name_fr": "Période d'essai et formation d'intégration",
+          "is_eliminatory": true,
+          "duration_minutes": null,
+          "description_ar": "يُرجّح أن يخضع المنتدبون لفترة تجربة وتكوين إدماجي (التعريف بالمؤسسة وخدماتها، إجراءات العمل، السلامة) قبل الترسيم، وفق النظام الأساسي لأعوان اتصالات تونس — مقترح، للتثبت.",
+          "description_fr": "Les recrues passeraient une période d'essai et une formation d'intégration (entreprise et services, procédures, sécurité) avant titularisation, selon le statut du personnel de Tunisie Telecom — suggestion, à vérifier.",
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        }
+      ],
+      "subjects": [
+        {
+          "phase_order": 2,
+          "domain": "SPECIALTY",
+          "specialty_key": "spec.tunisie-telecom.terrain",
+          "name_ar": "تركيب وصيانة الشبكات ميدانيا والسلامة",
+          "name_fr": "Installation, maintenance terrain et sécurité",
+          "coefficient": null,
+          "duration_minutes": null,
+          "question_count": null,
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "phase_order": 2,
+          "domain": "SPECIALTY",
+          "specialty_key": "spec.electricite",
+          "name_ar": "الكهرباء الأساسية",
+          "name_fr": "Électricité de base",
+          "coefficient": null,
+          "duration_minutes": null,
+          "question_count": null,
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "phase_order": 2,
+          "domain": "NUMERICAL",
+          "specialty_key": null,
+          "name_ar": "الحساب",
+          "name_fr": "Calcul",
+          "coefficient": null,
+          "duration_minutes": null,
+          "question_count": null,
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "phase_order": 2,
+          "domain": "ARABIC",
+          "specialty_key": null,
+          "name_ar": "اللغة العربية (فهم تعليمات)",
+          "name_fr": "Arabe (compréhension de consignes)",
+          "coefficient": null,
+          "duration_minutes": null,
+          "question_count": null,
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "phase_order": 2,
+          "domain": "SPECIALTY",
+          "specialty_key": "spec.secourisme",
+          "name_ar": "الإسعافات الأولية والوقاية من الحرائق",
+          "name_fr": "Secourisme et prévention incendie",
+          "coefficient": null,
+          "duration_minutes": null,
+          "question_count": null,
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        }
+      ],
+      "physical_tests": [
+        {
+          "name_ar": "اختبار القدرة على العمل في المرتفعات (تسلق عمود أو سلم)",
+          "name_fr": "Test d'aptitude au travail en hauteur (montée sur poteau ou échelle)",
+          "details_ar": "اختبار تطبيقي محتمل لأعوان الخطوط للتأكد من القدرة على التسلق مع احترام معدات الحماية الفردية. الطبيعة والسلّم غير معروفين — مقترح بالقياس على مهن مد الخطوط، للتثبت.",
+          "details_fr": "Épreuve pratique possible pour les agents de lignes : aptitude à monter en sécurité avec équipements de protection individuelle. Nature et barème inconnus — suggestion par analogie avec les métiers de lignard, à vérifier.",
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        }
+      ],
+      "required_documents": [
+        {
+          "text_ar": "مطبوعة التسجيل عن بعد (أو وصل التسجيل) ممضاة",
+          "text_fr": "Fiche/accusé d'inscription en ligne signé",
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "text_ar": "نسخة من بطاقة التعريف الوطنية",
+          "text_fr": "Copie de la carte d'identité nationale (CIN)",
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "text_ar": "نسخة مطابقة للأصل من الشهادة العلمية المطلوبة (مع شهادة معادلة بالنسبة إلى الشهائد الأجنبية)",
+          "text_fr": "Copie certifiée conforme du diplôme exigé (avec attestation d'équivalence pour les diplômes étrangers)",
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "text_ar": "نسخة من رخصة السياقة (إن وُجدت أو طُلبت)",
+          "text_fr": "Copie du permis de conduire (le cas échéant ou si exigé)",
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "text_ar": "بطاقة عدد 3 (السجل العدلي) لا يتجاوز تاريخها 3 أشهر — تُطلب عادة عند الانتداب",
+          "text_fr": "Bulletin n° 3 (extrait du casier judiciaire) de moins de 3 mois — généralement exigé au moment du recrutement",
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "text_ar": "وثيقة تثبت الوضعية إزاء الخدمة الوطنية (للذكور)",
+          "text_fr": "Justificatif de la situation vis-à-vis du service national (candidats masculins)",
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "text_ar": "شهادة تسجيل بمكتب التشغيل (إن طلبها البلاغ)",
+          "text_fr": "Attestation d'inscription au bureau de l'emploi (si l'avis l'exige)",
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "text_ar": "صورتان شمسيتان حديثتان",
+          "text_fr": "Deux photos d'identité récentes",
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        }
+      ],
+      "blueprint": {
+        "total_minutes": 75,
+        "fidelity": "APPROXIMATED",
+        "sections": [
+          {
+            "domain": "SPECIALTY",
+            "specialty_key": "spec.tunisie-telecom.terrain",
+            "count": 15,
+            "minutes": 25
+          },
+          {
+            "domain": "SPECIALTY",
+            "specialty_key": "spec.electricite",
+            "count": 10,
+            "minutes": 15
+          },
+          {
+            "domain": "NUMERICAL",
+            "specialty_key": null,
+            "count": 10,
+            "minutes": 15
+          },
+          {
+            "domain": "ARABIC",
+            "specialty_key": null,
+            "count": 5,
+            "minutes": 10
+          },
+          {
+            "domain": "SPECIALTY",
+            "specialty_key": "spec.secourisme",
+            "count": 5,
+            "minutes": 5
+          },
+          {
+            "domain": "FRENCH",
+            "specialty_key": null,
+            "count": 5,
+            "minutes": 5
+          }
+        ]
+      }
+    }
+  ],
+  "specialty_syllabus": [
+    {
+      "key": "spec.tunisie-telecom.secteur",
+      "parent_key": null,
+      "level": "UNIT",
+      "title_ar": "اتصالات تونس وقطاع الاتصالات في تونس",
+      "title_fr": "Tunisie Telecom et le secteur des télécommunications en Tunisie",
+      "scope": "SUGGESTED",
+      "source_key": null,
+      "objectives": [
+        {
+          "key": "spec.tunisie-telecom.secteur.o1",
+          "text_ar": "معرفة الصفة القانونية لاتصالات تونس (المشغل التاريخي، شركة خفية الاسم ذات مساهمة عمومية أغلبية) وسلطة الإشراف (وزارة تكنولوجيات الاتصال) ومهامها",
+          "text_fr": "Connaître le statut de Tunisie Telecom (opérateur historique, société anonyme à participation publique majoritaire), sa tutelle (Ministère des Technologies de la Communication) et ses missions"
+        },
+        {
+          "key": "spec.tunisie-telecom.secteur.o2",
+          "text_ar": "معرفة الخدمات الكبرى: الهاتف القار والجوال، الأنترنات القارة (ADSL/VDSL والألياف البصرية) والجوالة (4G ثم 5G)، خدمات المؤسسات والربط الدولي",
+          "text_fr": "Connaître les grandes activités : téléphonie fixe et mobile, internet fixe (ADSL/VDSL, fibre) et mobile (4G puis 5G), services aux entreprises, connectivité internationale"
+        },
+        {
+          "key": "spec.tunisie-telecom.secteur.o3",
+          "text_ar": "فهم رهانات المؤسسة: المنافسة، نشر الألياف البصرية والجيل الخامس، التحول الرقمي وجودة الخدمة",
+          "text_fr": "Comprendre les enjeux : concurrence, déploiement de la fibre et de la 5G, transformation digitale, qualité de service"
+        }
+      ]
+    },
+    {
+      "key": "spec.tunisie-telecom.secteur.cadre-legal",
+      "parent_key": "spec.tunisie-telecom.secteur",
+      "level": "TOPIC",
+      "title_ar": "الإطار القانوني والتعديلي للاتصالات",
+      "title_fr": "Cadre juridique et régulation des télécommunications",
+      "scope": "SUGGESTED",
+      "source_key": null,
+      "objectives": [
+        {
+          "key": "spec.tunisie-telecom.secteur.cadre-legal.o1",
+          "text_ar": "معرفة مجلة الاتصالات (القانون عدد 1 لسنة 2001) ومبادئها الكبرى: التراخيص، المنافسة، الخدمة الشاملة",
+          "text_fr": "Connaître le Code des télécommunications (loi n° 2001-1) et ses grands principes : licences, concurrence, service universel"
+        },
+        {
+          "key": "spec.tunisie-telecom.secteur.cadre-legal.o2",
+          "text_ar": "معرفة دور الهيئة الوطنية للاتصالات (التعديل، فض النزاعات، مراقبة جودة الخدمة) وتصرف الدولة في الطيف الترددي",
+          "text_fr": "Connaître le rôle de l'Instance Nationale des Télécommunications (régulation, règlement des litiges, contrôle de la qualité de service) et la gestion du spectre"
+        },
+        {
+          "key": "spec.tunisie-telecom.secteur.cadre-legal.o3",
+          "text_ar": "معرفة مبادئ حماية المعطيات الشخصية (الهيئة الوطنية لحماية المعطيات الشخصية) وسرية المراسلات",
+          "text_fr": "Connaître les principes de protection des données personnelles (INPDP) et du secret des correspondances"
+        }
+      ]
+    },
+    {
+      "key": "spec.tunisie-telecom.secteur.marche",
+      "parent_key": "spec.tunisie-telecom.secteur",
+      "level": "TOPIC",
+      "title_ar": "سوق الاتصالات التونسية",
+      "title_fr": "Le marché tunisien des télécommunications",
+      "scope": "SUGGESTED",
+      "source_key": null,
+      "objectives": [
+        {
+          "key": "spec.tunisie-telecom.secteur.marche.o1",
+          "text_ar": "التعرف على المشغلين الرئيسيين (اتصالات تونس، أوريدو تونس، أورنج تونس) ومزودي خدمات الأنترنات",
+          "text_fr": "Identifier les principaux opérateurs (Tunisie Telecom, Ooredoo Tunisie, Orange Tunisie) et les fournisseurs d'accès internet"
+        },
+        {
+          "key": "spec.tunisie-telecom.secteur.marche.o2",
+          "text_ar": "فهم المؤشرات الأساسية: عدد المشتركين، نسبة النفاذ، حصص السوق، معدل الإيراد لكل مستعمل",
+          "text_fr": "Comprendre les indicateurs clés : abonnés, taux de pénétration, parts de marché, revenu moyen par utilisateur (ARPU)"
+        }
+      ]
+    },
+    {
+      "key": "spec.tunisie-telecom.reseaux",
+      "parent_key": null,
+      "level": "UNIT",
+      "title_ar": "الشبكات والاتصالات",
+      "title_fr": "Réseaux et télécommunications",
+      "scope": "SUGGESTED",
+      "source_key": null,
+      "objectives": [
+        {
+          "key": "spec.tunisie-telecom.reseaux.o1",
+          "text_ar": "التحكم في أساسيات الإشارة والإرسال وشبكات المعطيات والشبكات الخلوية والنفاذ القار",
+          "text_fr": "Maîtriser les bases du signal et de la transmission, des réseaux de données, des réseaux mobiles et de l'accès fixe"
+        }
+      ]
+    },
+    {
+      "key": "spec.tunisie-telecom.reseaux.transmission",
+      "parent_key": "spec.tunisie-telecom.reseaux",
+      "level": "TOPIC",
+      "title_ar": "الإشارة والإرسال",
+      "title_fr": "Signal et transmission",
+      "scope": "SUGGESTED",
+      "source_key": null,
+      "objectives": [
+        {
+          "key": "spec.tunisie-telecom.reseaux.transmission.o1",
+          "text_ar": "فهم مفاهيم الإشارة (التردد، عرض النطاق، الديسيبل، نسبة الإشارة إلى الضجيج) والتضمين التماثلي والرقمي",
+          "text_fr": "Comprendre le signal (fréquence, bande passante, décibel, rapport signal/bruit) et les modulations analogiques et numériques"
+        },
+        {
+          "key": "spec.tunisie-telecom.reseaux.transmission.o2",
+          "text_ar": "التمييز بين وسائط الإرسال: النحاس، الألياف البصرية (أحادية وتعددية النمط)، الحزم الهرتزية والأقمار الصناعية",
+          "text_fr": "Distinguer les supports : cuivre, fibre optique (monomode, multimode), faisceaux hertziens, satellite"
+        },
+        {
+          "key": "spec.tunisie-telecom.reseaux.transmission.o3",
+          "text_ar": "فهم التعدد (بالزمن، بالتردد، بطول الموجة) وحساب الإضعاف في وصلة",
+          "text_fr": "Comprendre le multiplexage (temporel, fréquentiel, en longueur d'onde) et calculer un bilan d'atténuation de liaison"
+        }
+      ]
+    },
+    {
+      "key": "spec.tunisie-telecom.reseaux.ip",
+      "parent_key": "spec.tunisie-telecom.reseaux",
+      "level": "TOPIC",
+      "title_ar": "شبكات المعطيات وبروتوكول IP",
+      "title_fr": "Réseaux de données et IP",
+      "scope": "SUGGESTED",
+      "source_key": null,
+      "objectives": [
+        {
+          "key": "spec.tunisie-telecom.reseaux.ip.o1",
+          "text_ar": "معرفة نموذجي OSI وTCP/IP ودور كل طبقة",
+          "text_fr": "Connaître les modèles OSI et TCP/IP et le rôle de chaque couche"
+        },
+        {
+          "key": "spec.tunisie-telecom.reseaux.ip.o2",
+          "text_ar": "التحكم في عنونة IPv4 وIPv6 وتقسيم الشبكات الفرعية وحساب الأقنعة",
+          "text_fr": "Maîtriser l'adressage IPv4/IPv6, le découpage en sous-réseaux et le calcul de masques"
+        },
+        {
+          "key": "spec.tunisie-telecom.reseaux.ip.o3",
+          "text_ar": "فهم التبديل والتوجيه (VLAN، التوجيه الثابت والديناميكي، MPLS) وخدمات DNS وDHCP",
+          "text_fr": "Comprendre la commutation et le routage (VLAN, routage statique et dynamique, MPLS) et les services DNS/DHCP"
+        },
+        {
+          "key": "spec.tunisie-telecom.reseaux.ip.o4",
+          "text_ar": "معرفة مبادئ الصوت عبر IP وجودة الخدمة",
+          "text_fr": "Connaître les principes de la voix sur IP et de la qualité de service (QoS)"
+        }
+      ]
+    },
+    {
+      "key": "spec.tunisie-telecom.reseaux.mobile",
+      "parent_key": "spec.tunisie-telecom.reseaux",
+      "level": "TOPIC",
+      "title_ar": "الشبكات الخلوية",
+      "title_fr": "Réseaux mobiles",
+      "scope": "SUGGESTED",
+      "source_key": null,
+      "objectives": [
+        {
+          "key": "spec.tunisie-telecom.reseaux.mobile.o1",
+          "text_ar": "فهم المفهوم الخلوي وإعادة استعمال الترددات والتسليم بين الخلايا",
+          "text_fr": "Comprendre le concept cellulaire, la réutilisation des fréquences et le handover"
+        },
+        {
+          "key": "spec.tunisie-telecom.reseaux.mobile.o2",
+          "text_ar": "معرفة بنية شبكات الجيل الثاني والثالث والرابع والخامس وأهم عناصرها",
+          "text_fr": "Connaître l'architecture des réseaux 2G, 3G, 4G et 5G et leurs principaux éléments"
+        }
+      ]
+    },
+    {
+      "key": "spec.tunisie-telecom.reseaux.acces-fixe",
+      "parent_key": "spec.tunisie-telecom.reseaux",
+      "level": "TOPIC",
+      "title_ar": "النفاذ القار والألياف البصرية",
+      "title_fr": "Accès fixe et fibre optique",
+      "scope": "SUGGESTED",
+      "source_key": null,
+      "objectives": [
+        {
+          "key": "spec.tunisie-telecom.reseaux.acces-fixe.o1",
+          "text_ar": "فهم الحلقة المحلية وتقنيات xDSL وحدودها (المسافة، سرعة التدفق)",
+          "text_fr": "Comprendre la boucle locale et les technologies xDSL et leurs limites (distance, débit)"
+        },
+        {
+          "key": "spec.tunisie-telecom.reseaux.acces-fixe.o2",
+          "text_ar": "معرفة بنية شبكات الألياف إلى المنزل (FTTH/GPON): OLT، الموزعات البصرية، ONT",
+          "text_fr": "Connaître l'architecture FTTH/GPON : OLT, coupleurs optiques, ONT"
+        }
+      ]
+    },
+    {
+      "key": "spec.tunisie-telecom.reseaux.securite",
+      "parent_key": "spec.tunisie-telecom.reseaux",
+      "level": "TOPIC",
+      "title_ar": "أمن الشبكات",
+      "title_fr": "Sécurité des réseaux",
+      "scope": "SUGGESTED",
+      "source_key": null,
+      "objectives": [
+        {
+          "key": "spec.tunisie-telecom.reseaux.securite.o1",
+          "text_ar": "معرفة التهديدات الشائعة (التصيد، الحرمان من الخدمة، البرمجيات الخبيثة) ووسائل الحماية (جدران الحماية، التشفير، الشبكات الافتراضية الخاصة)",
+          "text_fr": "Connaître les menaces courantes (hameçonnage, déni de service, logiciels malveillants) et les protections (pare-feu, chiffrement, VPN)"
+        }
+      ]
+    },
+    {
+      "key": "spec.tunisie-telecom.terrain",
+      "parent_key": null,
+      "level": "UNIT",
+      "title_ar": "التركيب والصيانة الميدانية",
+      "title_fr": "Installation et maintenance sur le terrain",
+      "scope": "SUGGESTED",
+      "source_key": null,
+      "objectives": [
+        {
+          "key": "spec.tunisie-telecom.terrain.o1",
+          "text_ar": "معرفة أنواع الكوابل (أزواج نحاسية، محورية، ألياف بصرية) والموصلات وتقنيات الربط عند الحريف",
+          "text_fr": "Connaître les types de câbles (paires cuivre, coaxial, fibre) et connecteurs, et les techniques de raccordement chez l'abonné"
+        },
+        {
+          "key": "spec.tunisie-telecom.terrain.o2",
+          "text_ar": "فهم مبادئ لحام الألياف البصرية والقياسات (مقياس القدرة البصرية، OTDR) وتشخيص الأعطاب الشائعة",
+          "text_fr": "Comprendre la soudure de fibre optique, les mesures (photomètre, réflectomètre OTDR) et le diagnostic des pannes courantes"
+        },
+        {
+          "key": "spec.tunisie-telecom.terrain.o3",
+          "text_ar": "احترام قواعد السلامة في الحظائر: العمل في المرتفعات، العمل في البالوعات والحفر، معدات الحماية الفردية، المخاطر الكهربائية",
+          "text_fr": "Respecter les règles de sécurité sur chantier : travail en hauteur, en chambre de tirage et tranchée, EPI, risques électriques"
+        }
+      ]
+    },
+    {
+      "key": "spec.tunisie-telecom.relation-client",
+      "parent_key": null,
+      "level": "UNIT",
+      "title_ar": "العلاقة مع الحريف وبيع خدمات الاتصالات",
+      "title_fr": "Relation client et vente des services télécoms",
+      "scope": "SUGGESTED",
+      "source_key": null,
+      "objectives": [
+        {
+          "key": "spec.tunisie-telecom.relation-client.o1",
+          "text_ar": "التحكم في تقنيات الاستقبال والإصغاء وإعادة الصياغة في الفضاء التجاري وعبر الهاتف",
+          "text_fr": "Maîtriser l'accueil, l'écoute active et la reformulation en agence et au téléphone"
+        },
+        {
+          "key": "spec.tunisie-telecom.relation-client.o2",
+          "text_ar": "معالجة التشكيات وفق إجراءات واضحة (التسجيل، التشخيص، المتابعة، الإغلاق) واحترام حقوق المستهلك",
+          "text_fr": "Traiter une réclamation selon une procédure claire (enregistrement, diagnostic, suivi, clôture) et respecter les droits du consommateur"
+        },
+        {
+          "key": "spec.tunisie-telecom.relation-client.o3",
+          "text_ar": "تقديم عرض ملائم لحاجيات الحريف (مسبق الدفع ولاحق الدفع، الأنترنات القارة والجوالة، الألياف) وتقنيات البيع الإضافي",
+          "text_fr": "Proposer une offre adaptée au besoin (prépayé/postpayé, internet fixe et mobile, fibre) et pratiquer la vente additionnelle"
+        },
+        {
+          "key": "spec.tunisie-telecom.relation-client.o4",
+          "text_ar": "فهم مؤشرات أداء مراكز النداء والفضاءات التجارية (نسبة الحل من أول اتصال، رضا الحريف، مدة الانتظار)",
+          "text_fr": "Comprendre les indicateurs de performance des centres d'appels et agences (résolution au premier contact, satisfaction, temps d'attente)"
+        }
+      ]
+    }
+  ],
+  "past_exams": [],
+  "tips_ar": [
+    "تابع بلاغات الانتداب على الموقع الرسمي لاتصالات تونس (www.tunisietelecom.tn) وعلى صفحاتها الرسمية، وتثبت دائما من البلاغ الرسمي قبل التسجيل؛ لا تدفع أي مبلغ لوسيط أو صفحة تعدك بخطة.",
+    "حضّر ملفا رقميا مسبقا (بطاقة التعريف، الشهادة، كشوف الأعداد، السيرة الذاتية، بطاقة عدد 3 حديثة) لأن آجال التسجيل في مناظرات المنشآت العمومية تكون عادة قصيرة.",
+    "اقرأ بتمعن قائمة الاختصاصات المقبولة والسن القصوى وتاريخ احتسابها ومعادلة الشهائد الأجنبية قبل التسجيل.",
+    "للمهندسين والتقنيين: راجع أساسيات الشبكات (نموذج OSI وTCP/IP، عنونة IP والشبكات الفرعية)، الإرسال، الألياف البصرية (FTTH/GPON) والشبكات الخلوية 4G/5G، وتدرّب على حساب الأقنعة والإضعاف.",
+    "تعرّف على المؤسسة: خدماتها وعروضها، رهاناتها (الألياف، الجيل الخامس، التحول الرقمي، المنافسة) والإطار القانوني للقطاع (مجلة الاتصالات، الهيئة الوطنية للاتصالات).",
+    "لمستشاري الحرفاء: تدرّب على تمثيل الأدوار (استقبال، معالجة تشكّي، بيع عرض) بالعربية والفرنسية، فالمقابلة قد تكون حاسمة.",
+    "اعتن بالفرنسية والأنقليزية التقنية: جزء كبير من الوثائق التقنية في قطاع الاتصالات بالفرنسية والأنقليزية."
+  ],
+  "tips_fr": [
+    "Suivez les avis de recrutement sur le site officiel de Tunisie Telecom (www.tunisietelecom.tn) et ses pages officielles, et vérifiez toujours l'avis officiel avant de vous inscrire ; ne payez jamais un intermédiaire ou une page qui promet un poste.",
+    "Préparez à l'avance un dossier numérique (CIN, diplôme, relevés de notes, CV, bulletin n° 3 récent) : les délais d'inscription des concours d'entreprises publiques sont généralement courts.",
+    "Vérifiez dans l'avis la liste des spécialités acceptées, l'âge maximum et sa date de référence, et l'équivalence des diplômes étrangers.",
+    "Ingénieurs et techniciens : révisez les fondamentaux réseaux (modèle OSI et TCP/IP, adressage IP et sous-réseaux), la transmission, la fibre optique (FTTH/GPON) et les réseaux mobiles 4G/5G ; entraînez-vous aux calculs de masques et de bilans d'atténuation.",
+    "Connaissez l'entreprise : services et offres, enjeux (fibre, 5G, transformation digitale, concurrence) et cadre juridique du secteur (Code des télécommunications, Instance Nationale des Télécommunications).",
+    "Conseillers clientèle : entraînez-vous aux mises en situation (accueil, réclamation, vente d'une offre) en arabe et en français ; l'entretien peut être décisif.",
+    "Soignez le français et l'anglais techniques : une grande partie de la documentation des équipementiers télécoms est en français et en anglais."
+  ],
+  "research_notes": "LIMITE MÉTHODOLOGIQUE MAJEURE (2026-10-07) : le quota WebSearch partagé était épuisé dès la première requête de cette passe (« 200 WebSearch calls per turn », requêtes FR « Tunisie Telecom concours recrutement 2025 » et AR « اتصالات تونس مناظرة خارجية لانتداب 2025 » non exécutées) et WebFetch est refusé par le proxy (EGRESS_BLOCKED) pour tous les domaines testés : www.tunisietelecom.tn, www.concours.gov.tn, www.legislation.tn, fr.wikipedia.org, en.wikipedia.org, www.businessnews.com.tn, www.mosaiquefm.net. AUCUNE page n'a été lue. Le journal de recherche de l'équipe (docs/research/01-market-raw.md, section « Not found / unverified ») classe déjà « Tunisie Telecom / La Poste 2026 » parmi les éléments non trouvés. CONSÉQUENCES : (1) aucune édition n'est enregistrée (editions = []) car aucune session 2023-2026 n'a pu être confirmée — ne pas créer d'alerte « concours ouvert » pour cette famille tant qu'un avis officiel n'est pas saisi par l'admin ; (2) TOUS les faits portent needs_verification=true, confidence=LOW, source_key=null, sans source_quote ; les sources s1-s3 sont des lieux de vérification officiels non consultés ; (3) aucune annale (past_exams = []). POSTES PROPOSÉS (suggestions éditoriales fondées sur les catégories de métiers habituelles d'un opérateur télécom public, non confirmées) : ingénieur, technicien supérieur, cadre gestion/commercial/juridique, conseiller clientèle/agent commercial, agent technique de terrain. Niveaux de diplôme retenus comme hypothèses inclusives. Âge minimum 18 ans supposé ; âge maximum laissé à null (la référence de 40 ans de la loi n° 83-112 sur la fonction publique est citée à titre indicatif seulement, Tunisie Telecom étant une société anonyme régie par son propre statut du personnel). Phases (présélection sur dossier, écrit, entretien, visite médicale, période d'essai), matières, durées et blueprints (tous APPROXIMATED) sont des suggestions ; aucun coefficient ni durée officielle connu. Le test d'aptitude au travail en hauteur pour l'agent de terrain est une hypothèse par analogie avec les métiers de lignard. CONNAISSANCES GÉNÉRALES NON VÉRIFIÉES DANS CETTE PASSE (utilisées dans la description et le syllabus, à confirmer) : statut d'opérateur historique et de société anonyme à participation publique majoritaire (l'État détiendrait environ 65 % et Emirates International Telecommunications 35 % depuis 2006) ; tutelle du Ministère des Technologies de la Communication ; Code des télécommunications promulgué par la loi n° 2001-1 du 15 janvier 2001 et rôle de l'Instance Nationale des Télécommunications ; existence de l'INPDP ; concurrents Ooredoo Tunisie et Orange Tunisie ; déploiement de la fibre et de la 5G. HYPOTHÈSES À VÉRIFIER : effet de la révision du Code du travail de 2025 (interdiction de la sous-traitance de main-d'œuvre — référence exacte de la loi à vérifier) sur d'éventuelles intégrations d'agents ; applicabilité aux entreprises publiques des dispositifs exceptionnels de recrutement des diplômés chômeurs de longue durée annoncés en 2025 ; existence d'une plateforme de candidature dédiée (URL inconnue). À FAIRE PAR L'ADMIN : rechercher les avis « مناظرة خارجية لانتداب ... باتصالات تونس » et « Tunisie Telecom concours externe recrutement » 2023-2026 sur le site officiel, la page Facebook officielle et la presse (Business News, Mosaïque FM, La Presse, TAP) ; saisir les éditions (dates, nombre de postes par grade, nombre de candidats), les conditions exactes (âge, spécialités), la plateforme, les épreuves avec coefficients et durées, et les pièces exigées ; récupérer d'éventuelles annales."
+}

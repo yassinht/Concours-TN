@@ -1,11 +1,12 @@
 import { Global, Module } from '@nestjs/common';
+import { GamificationController } from './gamification.controller';
 import { GamificationService } from './gamification.service';
 
-/** Gamification module — see docs/api-contract.md for its endpoints. */
+/** Gamification module — XP, streaks, badges, leaderboard (see docs/api-contract.md). */
 @Global()
 @Module({
   imports: [],
-  controllers: [],
+  controllers: [GamificationController],
   providers: [GamificationService],
   exports: [GamificationService],
 })

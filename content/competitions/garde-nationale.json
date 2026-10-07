@@ -1,0 +1,1738 @@
+{
+  "family": {
+    "slug": "garde-nationale",
+    "field": "SECURITY",
+    "organization": {
+      "slug": "garde-nationale",
+      "name_ar": "الإدارة العامة للحرس الوطني – سلك الحرس الوطني",
+      "name_fr": "Direction générale de la Garde nationale – Corps de la Garde nationale",
+      "ministry_fr": "Ministère de l'Intérieur",
+      "website": "https://www.interieur.gov.tn"
+    },
+    "name_ar": "مناظرات انتداب أعوان وإطارات سلك الحرس الوطني (عرفاء، رقباء فنيون، ملازمون أول)",
+    "name_fr": "Concours de recrutement de la Garde nationale (caporaux, sergents techniciens, lieutenants principaux)",
+    "description_ar": "مناظرات خارجية تنظمها وزارة الداخلية (الإدارة العامة للحرس الوطني) لانتداب أعوان وإطارات بسلك الحرس الوطني. الحرس الوطني أحد أسلاك قوات الأمن الداخلي، ويتدخل خاصة في المناطق الريفية وعلى الطرقات خارج المدن وعلى الحدود البرية والبحرية. أعلنت الوزارة برمجة نحو 1500 انتداب بالحرس الوطني سنة 2026. من المناظرات المرصودة في 2026: (1) عرفاء ذكور لفائدة الوحدات الحدودية المتقدمة، لمستوى السنة الرابعة ثانوي وسن 20 إلى 24 سنة، مع تسجيل من 5 إلى 24 أوت 2026 وفحوص طبية واختبار كتابي بداية من 26 أكتوبر 2026؛ (2) رقباء ذكور في اختصاصات صيانة العربات والمحركات، لمستوى السنة التاسعة أساسي وسن 20 إلى 22 سنة، مع اختبار كتابي بالعربية يوم 27 جويلية 2026. الكتابي للعرفاء يكون باللغة العربية (موضوع في الثقافة العامة وأسئلة متعددة الاختيارات)، تليه اختبارات طبية ورياضية ونفسية وشفاهية ثم تكوين أساسي. توجد أيضا مناظرات لضباط برتبة ملازم أول (دورة 2023). عدد الخطط لكل مناظرة وعدد المترشحين غير منشورين، وكل التفاصيل يجب التثبت منها في الإعلان الرسمي.",
+    "description_fr": "Concours externes organisés par le ministère de l'Intérieur (Direction générale de la Garde nationale) pour recruter des agents et des cadres de la Garde nationale. La Garde nationale est un corps des forces de sécurité intérieure qui intervient notamment en zones rurales, sur les routes interurbaines et aux frontières terrestres et maritimes. Le ministère a annoncé environ 1 500 recrutements pour la Garde nationale en 2026. Concours repérés en 2026 : (1) caporaux hommes pour les unités frontalières avancées, niveau 4e année secondaire, 20–24 ans, inscription du 05 au 24/08/2026, visite médicale et écrit à partir du 26/10/2026 ; (2) sergents hommes dans les spécialités maintenance des véhicules et moteurs, niveau 9e année de base, 20–22 ans, écrit en arabe le 27/07/2026. L'écrit des caporaux se déroule en arabe (sujet de culture générale + QCM). Il est suivi d'épreuves médicales, sportives, psychologiques et orales, puis d'une formation de base. Des concours d'officiers (lieutenants principaux, session 2023) existent aussi. Le nombre de postes par concours et le nombre de candidats ne sont pas publiés. Tous les détails sont à vérifier sur l'avis officiel.",
+    "frequency": "ANNUAL",
+    "frequency_confidence": "LOW",
+    "popularity": 5,
+    "keywords": [
+      "الحرس الوطني",
+      "مناظرة الحرس الوطني",
+      "عرفاء الحرس الوطني",
+      "عريف",
+      "رقيب",
+      "رقباء",
+      "ملازم أول",
+      "الوحدات الحدودية المتقدمة",
+      "حرس الحدود",
+      "الحرس البحري",
+      "صيانة العربات والمحركات",
+      "وزارة الداخلية",
+      "garde nationale",
+      "concours garde nationale",
+      "caporal garde nationale",
+      "sergent garde nationale",
+      "lieutenant garde nationale",
+      "unités frontalières",
+      "garde maritime",
+      "ministère de l'Intérieur",
+      "Tunisie"
+    ]
+  },
+  "sources": [
+    {
+      "key": "s1",
+      "title": "مناظرة خارجية بالاختبارات لانتداب عرفاء (ذكور) لفائدة الوحدات الحدودية المتقدمة بسلك الحرس الوطني بعنوان سنة 2026",
+      "url": "https://www.tuniscope.com/ar/article/437163/actu-arabe/arabe/m-interieur-503011",
+      "publisher": "Tuniscope",
+      "source_type": "SECONDARY",
+      "publication_date": null,
+      "retrieved_at": "2026-10-07",
+      "confidence": "MEDIUM",
+      "notes": "Relais presse de l'avis officiel (août 2026) : caporaux hommes, unités frontalières avancées, niveau 4e année secondaire, 20–24 ans, date limite 24/08/2026, épreuves à partir du 26/10/2026. Nombre de postes non indiqué dans le résumé. Contenu connu uniquement via les résumés du moteur de recherche collectés plus tôt dans ce même workflow (content/competitions/_openings.json, docs/research/01-market-raw.md). Page non ouverte : WebFetch bloqué par le proxy, budget WebSearch épuisé lors de cette passe."
+    },
+    {
+      "key": "s2",
+      "title": "Ministère de l'Intérieur : ouverture d'un concours pour le recrutement d'agents de la Garde nationale",
+      "url": "https://www.lapresse.tn/2026/07/28/ministere-de-linterieur-ouverture-dun-concours-pour-le-recrutement-dagents-de-la-garde-nationale/",
+      "publisher": "La Presse de Tunisie",
+      "source_type": "SECONDARY",
+      "publication_date": "2026-07-28",
+      "retrieved_at": "2026-10-07",
+      "confidence": "MEDIUM",
+      "notes": "Relais presse : agents (عرفاء) pour les unités frontalières, 4e année secondaire, 20–24 ans, inscription du 05 au 24/08/2026, visite médicale et épreuve écrite à partir du 26/10/2026. Concordant avec s1. Date tirée de l'URL. Contenu connu uniquement via les résumés du moteur de recherche collectés plus tôt dans ce même workflow (content/competitions/_openings.json, docs/research/01-market-raw.md). Page non ouverte : WebFetch bloqué par le proxy, budget WebSearch épuisé lors de cette passe."
+    },
+    {
+      "key": "s3",
+      "title": "Concours Garde nationale 2026 : inscriptions ouvertes dès maintenant (sergents – maintenance des véhicules et moteurs)",
+      "url": "https://www.tuniscope.com/article/432827/actualites/tunisie/concours-garde-nationale-2026-inscriptions-ouvertes-des-maintenant-450611",
+      "publisher": "Tuniscope",
+      "source_type": "SECONDARY",
+      "publication_date": null,
+      "retrieved_at": "2026-10-07",
+      "confidence": "LOW",
+      "notes": "Relais presse : sergents (رقباء) hommes, spécialités maintenance des véhicules et moteurs ; 9e année de base ; 20–22 ans ; taille ≥ 1,70 m ; acuité ≥ 15/20 ; écrit en langue arabe le 27/07/2026 puis visite médicale, épreuves physiques, oral et test psychologique. Source unique, dates d'inscription non relevées. Contenu connu uniquement via les résumés du moteur de recherche collectés plus tôt dans ce même workflow (content/competitions/_openings.json, docs/research/01-market-raw.md). Page non ouverte : WebFetch bloqué par le proxy, budget WebSearch épuisé lors de cette passe."
+    },
+    {
+      "key": "s4",
+      "title": "بلاغ وزارة الداخلية حول الاختبار الكتابي لمناظرة انتداب عرفاء بسلك الحرس الوطني (الصفحة 30310 – عنوان كامل غير مطلع عليه)",
+      "url": "https://www.interieur.gov.tn/actualite/30310/",
+      "publisher": "وزارة الداخلية / Ministère de l'Intérieur",
+      "source_type": "OFFICIAL",
+      "publication_date": null,
+      "retrieved_at": "2026-10-07",
+      "confidence": "MEDIUM",
+      "notes": "Page officielle citée par la recherche de marché : l'écrit des caporaux de la Garde nationale se déroule en langue arabe (rédaction d'un sujet de culture générale + QCM). Session exacte inconnue : d'après la numérotation des actualités du site (28568 = juillet 2022 ; 32533 = janvier 2025), probablement 2023. Contenu connu uniquement via les résumés du moteur de recherche collectés plus tôt dans ce même workflow (content/competitions/_openings.json, docs/research/01-market-raw.md). Page non ouverte : WebFetch bloqué par le proxy, budget WebSearch épuisé lors de cette passe."
+    },
+    {
+      "key": "s5",
+      "title": "مناظرة لانتداب ملازمين أول بسلك الحرس الوطني لسنة 2023",
+      "url": "https://www.orientini.com/AR/Annonces_Orientation_Formation_Emploi/14742/%D9%85%D9%86%D8%A7%D8%B8%D8%B1%D8%A9-%D9%84%D8%A7%D9%86%D8%AA%D8%AF%D8%A7%D8%A8-%D9%85%D9%84%D8%A7%D8%B2%D9%85%D9%8A%D9%86-%D8%A3%D9%88%D9%84-%D8%A8%D8%B3%D9%84%D9%83-%D8%A7%D9%84%D8%AD%D8%B1%D8%B3-%D8%A7%D9%84%D9%88%D8%B7%D9%86%D9%8A-%D9%84%D8%B3%D9%86%D8%A9-2023",
+      "publisher": "Orientini",
+      "source_type": "SECONDARY",
+      "publication_date": null,
+      "retrieved_at": "2026-10-07",
+      "confidence": "LOW",
+      "notes": "Seul le TITRE a été vu (référencé dans content/competitions/police-officier.json, source s28). Il atteste l'existence d'un concours de lieutenants principaux de la Garde nationale en 2023. Conditions, dates et épreuves inconnues."
+    },
+    {
+      "key": "s6",
+      "title": "Tunisie – Sécurité nationale : recrutements et achats d'hélicoptères pour 2026",
+      "url": "https://www.webdo.tn/fr/actualite/national/tunisie-securite-nationale-recrutements-et-achats-dhelicopteres-pour-2026/386885/",
+      "publisher": "Webdo",
+      "source_type": "SECONDARY",
+      "publication_date": null,
+      "retrieved_at": "2026-10-07",
+      "confidence": "MEDIUM",
+      "notes": "Discussion budgétaire 2026 : le ministre de l'Intérieur annonce 2 900 recrutements en 2026, dont 1 500 pour la Garde nationale (1 000 Sûreté, 400 Protection civile). Contenu connu uniquement via les résumés du moteur de recherche collectés plus tôt dans ce même workflow (content/competitions/_openings.json, docs/research/01-market-raw.md). Page non ouverte : WebFetch bloqué par le proxy, budget WebSearch épuisé lors de cette passe."
+    },
+    {
+      "key": "s7",
+      "title": "Tunisie : budget 2026 du ministère de l'Intérieur – recrutements (AllAfrica)",
+      "url": "https://fr.allafrica.com/stories/202510300467.html",
+      "publisher": "AllAfrica (reprise presse tunisienne)",
+      "source_type": "SECONDARY",
+      "publication_date": "2025-10-30",
+      "retrieved_at": "2026-10-07",
+      "confidence": "MEDIUM",
+      "notes": "Concordant avec s6 sur les recrutements 2026 du ministère de l'Intérieur. Date déduite de l'identifiant de l'article. Titre reconstitué. Contenu connu uniquement via les résumés du moteur de recherche collectés plus tôt dans ce même workflow (content/competitions/_openings.json, docs/research/01-market-raw.md). Page non ouverte : WebFetch bloqué par le proxy, budget WebSearch épuisé lors de cette passe."
+    },
+    {
+      "key": "s8",
+      "title": "أمر عدد 1166 لسنة 2006 مؤرخ في 13 أفريل 2006 يتعلق بضبط مراحل تكوين أعوان قوات الأمن الداخلي التابعة لوزارة الداخلية",
+      "url": "https://legislation-securite.tn/ar/latest-laws/%D8%A3%D9%85%D8%B1-%D8%B9%D8%AF%D8%AF-1166-%D9%84%D8%B3%D9%86%D8%A9-2006-%D9%85%D8%A4%D8%B1%D8%AE-%D9%81%D9%8A-13-%D8%A3%D9%81%D8%B1%D9%8A%D9%84-2006-%D9%8A%D8%AA%D8%B9%D9%84%D9%82-%D8%A8%D8%B6%D8%A8/",
+      "publisher": "Legislation-securite.tn (base juridique reproduisant le JORT)",
+      "source_type": "SECONDARY",
+      "publication_date": "2006-04-13",
+      "retrieved_at": "2026-10-07",
+      "confidence": "MEDIUM",
+      "notes": "Décret fixant les cycles de formation des agents des forces de sécurité intérieure (dont la Garde nationale). Non lu : durée de la formation de base à extraire. URL reprise de police-gardien-paix.json (s17)."
+    },
+    {
+      "key": "s9",
+      "title": "أمر عدد 240 لسنة 2023 مؤرخ في 16 مارس 2023 يتعلق بالمصادقة على مدونة سلوك قوات الأمن الداخلي التابعة لوزارة الداخلية",
+      "url": "https://legislation-securite.tn/ar/latest-laws/%D8%A3%D9%85%D9%80%D8%B1-%D8%B9%D8%AF%D8%AF-240-%D9%84%D8%B3%D9%86%D8%A9-2023-%D9%85%D8%A4%D8%B1%D8%AE-%D9%81%D9%8A-16-%D9%85%D8%A7%D8%B1%D8%B3-2023-%D9%8A%D8%AA%D8%B9%D9%84%D9%82-%D8%A8%D8%A7%D9%84/",
+      "publisher": "Legislation-securite.tn (base juridique reproduisant le JORT)",
+      "source_type": "SECONDARY",
+      "publication_date": "2023-03-16",
+      "retrieved_at": "2026-10-07",
+      "confidence": "MEDIUM",
+      "notes": "Code de conduite des forces de sécurité intérieure (s'applique aussi à la Garde nationale). Utile pour le syllabus déontologie et l'oral. Non lu intégralement. URL reprise de police-gardien-paix.json (s18)."
+    },
+    {
+      "key": "s10",
+      "title": "بوابة وزارة الداخلية التونسية – صنف الإعلانات / المناظرات",
+      "url": "https://www.interieur.gov.tn/filtre/categorie/8",
+      "publisher": "وزارة الداخلية / Ministère de l'Intérieur",
+      "source_type": "OFFICIAL",
+      "publication_date": null,
+      "retrieved_at": "2026-10-07",
+      "confidence": "MEDIUM",
+      "notes": "Rubrique officielle des annonces/concours du ministère, où paraissent les avis de la Garde nationale. À surveiller pour les nouvelles sessions. Inaccessible depuis le conteneur. URL reprise de police-officier.json (s29)."
+    },
+    {
+      "key": "s11",
+      "title": "سلك الأمن الوطني والشرطة الوطنية – شروط الانتداب (e-Interieur)",
+      "url": "https://services.interieur.gov.tn/wap/ar/docs/recrutement/02.html",
+      "publisher": "وزارة الداخلية – بوابة الخدمات e-Interieur",
+      "source_type": "OFFICIAL",
+      "publication_date": null,
+      "retrieved_at": "2026-10-07",
+      "confidence": "MEDIUM",
+      "notes": "Conditions de la SÛRETÉ NATIONALE (pas de la Garde nationale), utilisées uniquement PAR ANALOGIE : taille 1,70 m H / 1,65 m F, acuité 15/20 avant correction, aptitude de jour comme de nuit. URL reprise de police-gardien-paix.json (s5)."
+    },
+    {
+      "key": "s12",
+      "title": "Min. de l'Intérieur : ouverture d'un concours pour recruter des lieutenants principaux de la Sûreté nationale et de la Police nationale",
+      "url": "https://www.lapresse.tn/2026/07/10/min-de-linterieur-ouverture-dun-concours-pour-recruter-des-lieutenants-principaux-de-la-surete-nationale-et-de-la-police-nationale/",
+      "publisher": "La Presse de Tunisie",
+      "source_type": "SECONDARY",
+      "publication_date": "2026-07-10",
+      "retrieved_at": "2026-10-07",
+      "confidence": "MEDIUM",
+      "notes": "Concours de la SÛRETÉ NATIONALE (bac+5, 20–30 ans, inscription 10–29/07/2026), utilisé uniquement PAR ANALOGIE pour la position « lieutenant principal » de la Garde nationale, dont le format n'a pas été trouvé. Contenu connu uniquement via les résumés du moteur de recherche collectés plus tôt dans ce même workflow (content/competitions/_openings.json, docs/research/01-market-raw.md). Page non ouverte : WebFetch bloqué par le proxy, budget WebSearch épuisé lors de cette passe."
+    },
+    {
+      "key": "s13",
+      "title": "الانخراط بسلك الأمن الوطني والشرطة الوطنية (جميع الرتب) – بطاقة إجراء إداري",
+      "url": "http://www.sicad.gov.tn/Ar/_57_3_D1149",
+      "publisher": "SICAD – منظومة الإرشاد الإداري (Présidence du gouvernement)",
+      "source_type": "OFFICIAL",
+      "publication_date": null,
+      "retrieved_at": "2026-10-07",
+      "confidence": "LOW",
+      "notes": "Fiche de procédure de la SÛRETÉ NATIONALE (ancienne) utilisée PAR ANALOGIE pour la liste des pièces du dossier (demande au nom du ministre, copie CIN, copie du diplôme, photos, enveloppes timbrées) et la règle « sergent : 9e année de base, ≤ 22 ans ». URL reprise de police-gardien-paix.json (s7)."
+    }
+  ],
+  "editions": [
+    {
+      "year": 2023,
+      "session_label": "مناظرة انتداب ملازمين أول بسلك الحرس الوطني لسنة 2023 / Lieutenants principaux de la Garde nationale – session 2023",
+      "status": "EXAM_DONE",
+      "registration_open": null,
+      "registration_deadline": null,
+      "exam_date": null,
+      "positions_count": null,
+      "candidates_count": null,
+      "source_key": "s5",
+      "confidence": "LOW",
+      "needs_verification": true
+    },
+    {
+      "year": 2023,
+      "session_label": "دورة سابقة لمناظرة عرفاء الحرس الوطني (اختبار كتابي بالعربية) – السنة تقديرية / Session antérieure des caporaux (écrit en arabe) – année estimée",
+      "status": "EXAM_DONE",
+      "registration_open": null,
+      "registration_deadline": null,
+      "exam_date": null,
+      "positions_count": null,
+      "candidates_count": null,
+      "source_key": "s4",
+      "confidence": "LOW",
+      "needs_verification": true
+    },
+    {
+      "year": 2026,
+      "session_label": "رقباء (ذكور) – اختصاصات صيانة العربات والمحركات 2026 / Sergents (hommes) – maintenance des véhicules et moteurs 2026",
+      "status": "EXAM_DONE",
+      "registration_open": null,
+      "registration_deadline": null,
+      "exam_date": "2026-07-27",
+      "positions_count": null,
+      "candidates_count": null,
+      "source_key": "s3",
+      "confidence": "MEDIUM",
+      "needs_verification": true
+    },
+    {
+      "year": 2026,
+      "session_label": "عرفاء (ذكور) لفائدة الوحدات الحدودية المتقدمة 2026 / Caporaux (hommes) – unités frontalières avancées 2026",
+      "status": "CLOSED",
+      "registration_open": "2026-08-05",
+      "registration_deadline": "2026-08-24",
+      "exam_date": "2026-10-26",
+      "positions_count": null,
+      "candidates_count": null,
+      "source_key": "s2",
+      "confidence": "MEDIUM",
+      "needs_verification": false
+    },
+    {
+      "year": 2027,
+      "session_label": "دورة متوقعة لمناظرات الحرس الوطني (غير معلنة إلى غاية 07/10/2026) – تقدير / Prochaine session attendue (non annoncée au 07/10/2026) – estimation",
+      "status": "EXPECTED",
+      "registration_open": null,
+      "registration_deadline": null,
+      "exam_date": null,
+      "positions_count": null,
+      "candidates_count": null,
+      "source_key": null,
+      "confidence": "LOW",
+      "needs_verification": true
+    }
+  ],
+  "positions": [
+    {
+      "slug": "caporal-unites-frontalieres-hommes",
+      "title_ar": "عريف (ذكور) لفائدة الوحدات الحدودية المتقدمة بسلك الحرس الوطني",
+      "title_fr": "Caporal (hommes) – unités frontalières avancées de la Garde nationale",
+      "diploma_level": "SECONDARY",
+      "eligibility": {
+        "min_age": 20,
+        "max_age": 24,
+        "genders": [
+          "M"
+        ],
+        "nationality": "TN",
+        "diplomas": [
+          "SECONDARY"
+        ],
+        "specialties": [],
+        "min_height_cm_male": 170,
+        "min_height_cm_female": null,
+        "marital_status": null,
+        "other_ar": [
+          "مستوى السنة الرابعة من التعليم الثانوي (حسب الصحافة). يرجح أنه يشترط إتمامها دون اشتراط النجاح في الباكالوريا كما في مناظرات حفاظ الأمن، ويجب التثبت من النص الأصلي.",
+          "السن بين 20 و24 سنة (حسب الصحافة). تاريخ احتساب السن (غرة جانفي 2026 على الأرجح) والاستثناءات المرتبطة بالخدمة العسكرية غير مؤكدة.",
+          "مناظرة مخصصة للذكور ولفائدة الوحدات الحدودية المتقدمة، لذلك يجب الاستعداد للعمل في مناطق حدودية نائية.",
+          "طول القامة 1.70 م على الأقل: قيمة مستنتجة من مناظرة الرقباء 2026 ومن شروط أسلاك الأمن الداخلي، ولم نطلع عليها في إعلان العرفاء.",
+          "قوة إبصار لا تقل عن 15/20 للعينين قبل الإصلاح: شرط مستنتج بالمقارنة ويجب التثبت منه.",
+          "الجنسية التونسية، والتمتع بالحقوق المدنية وبحسن السيرة، والقدرة البدنية على العمل ليلا ونهارا بكامل تراب الجمهورية: شروط عامة لقوات الأمن الداخلي يجب التثبت منها في الإعلان."
+        ],
+        "other_fr": [
+          "Niveau 4e année de l'enseignement secondaire (selon la presse). Probablement 4e année achevée, sans exigence de réussite au bac comme pour les gardiens de la paix : à vérifier sur l'avis original.",
+          "Âge de 20 à 24 ans (selon la presse). Date de référence (probablement le 01/01/2026) et dérogations liées au service militaire non confirmées.",
+          "Concours réservé aux hommes, au profit des unités frontalières avancées : prévoir une affectation dans des zones frontalières isolées.",
+          "Taille minimale de 1,70 m : valeur déduite du concours des sergents 2026 et des conditions des forces de sécurité intérieure, non lue dans l'avis des caporaux.",
+          "Acuité visuelle d'au moins 15/20 pour les deux yeux avant correction : condition déduite par analogie, à vérifier.",
+          "Nationalité tunisienne, droits civiques, bonne conduite et aptitude à servir de jour comme de nuit sur tout le territoire : conditions générales des forces de sécurité intérieure, à vérifier dans l'avis."
+        ],
+        "source_key": "s1",
+        "confidence": "MEDIUM",
+        "needs_verification": true,
+        "source_quote": null
+      },
+      "phases": [
+        {
+          "order": 1,
+          "kind": "MEDICAL",
+          "name_ar": "الفحص الطبي الأولي والقيس",
+          "name_fr": "Visite médicale initiale et mesures",
+          "is_eliminatory": true,
+          "duration_minutes": null,
+          "description_ar": "حسب الصحافة تنطلق الفحوص الطبية والاختبار الكتابي بداية من 26/10/2026. الترتيب الدقيق بين الفحص الطبي والكتابي، وقيس الطول والبصر، يجب التثبت منها في الاستدعاء.",
+          "description_fr": "Selon la presse, la visite médicale et l'épreuve écrite débutent le 26/10/2026. L'ordre exact (médical puis écrit, ou l'inverse) et la mesure de la taille et de la vue sont à vérifier sur la convocation.",
+          "source_key": "s2",
+          "confidence": "MEDIUM",
+          "needs_verification": true
+        },
+        {
+          "order": 2,
+          "kind": "WRITTEN",
+          "name_ar": "اختبار كتابي باللغة العربية",
+          "name_fr": "Épreuve écrite en langue arabe",
+          "is_eliminatory": true,
+          "duration_minutes": null,
+          "description_ar": "في دورة سابقة لمناظرة العرفاء (بلاغ رسمي للوزارة) تمثل الكتابي في تحرير موضوع في الثقافة العامة والإجابة على أسئلة متعددة الاختيارات باللغة العربية. لم تنشر المدة ولا الضوارب ولا عدد الأسئلة، ويرجح أن يتبع إعلان 2026 نفس الصيغة.",
+          "description_fr": "Lors d'une session antérieure du concours des caporaux (communiqué officiel du ministère), l'écrit comportait la rédaction d'un sujet de culture générale et un QCM, en langue arabe. Durée, coefficients et nombre de questions non publiés. La session 2026 suit probablement le même format.",
+          "source_key": "s4",
+          "confidence": "MEDIUM",
+          "needs_verification": true
+        },
+        {
+          "order": 3,
+          "kind": "PHYSICAL",
+          "name_ar": "الاختبارات الرياضية",
+          "name_fr": "Épreuves sportives",
+          "is_eliminatory": true,
+          "duration_minutes": null,
+          "description_ar": "مرحلة متوقعة لأنها مذكورة في مناظرة الرقباء 2026 وفي كل مناظرات قوات الأمن الداخلي. المحتوى وسلم التنقيط غير منشورين.",
+          "description_fr": "Phase attendue, citée pour les sergents 2026 et présente dans tous les concours des forces de sécurité intérieure. Contenu et barème non publiés.",
+          "source_key": "s3",
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "order": 4,
+          "kind": "PSYCHOTECH",
+          "name_ar": "الاختبار النفسي-التقني",
+          "name_fr": "Test psychotechnique / psychologique",
+          "is_eliminatory": true,
+          "duration_minutes": null,
+          "description_ar": "اختبار نفسي-تقني أو نفساني متوقع بالمقارنة مع مناظرة الرقباء 2026 ومناظرات الأمن الوطني.",
+          "description_fr": "Test psychotechnique ou psychologique attendu, par analogie avec les sergents 2026 et les concours de la Sûreté nationale.",
+          "source_key": "s3",
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "order": 5,
+          "kind": "INTERVIEW",
+          "name_ar": "المثول أمام لجنة المناظرة",
+          "name_fr": "Entretien devant le jury",
+          "is_eliminatory": true,
+          "duration_minutes": null,
+          "description_ar": "اختبار شفاهي أو مقابلة أمام اللجنة (الدوافع، الشخصية، الاستعداد للعمل بالحدود). المرحلة مستنتجة بالمقارنة.",
+          "description_fr": "Oral ou entretien devant le jury (motivation, personnalité, disponibilité pour servir aux frontières). Phase déduite par analogie.",
+          "source_key": "s3",
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "order": 6,
+          "kind": "TRAINING",
+          "name_ar": "التكوين الأساسي",
+          "name_fr": "Formation de base",
+          "is_eliminatory": false,
+          "duration_minutes": null,
+          "description_ar": "يفتح النجاح باب التكوين الأساسي بإحدى مدارس الحرس الوطني قبل الانتداب النهائي. الأمر عدد 1166 لسنة 2006 يضبط مراحل تكوين أعوان قوات الأمن الداخلي. المدة والمدرسة غير مؤكدتين.",
+          "description_fr": "La réussite donne accès à une formation de base dans une école de la Garde nationale avant le recrutement définitif. Le décret n° 2006-1166 fixe les cycles de formation des forces de sécurité intérieure. Durée et école non confirmées.",
+          "source_key": "s8",
+          "confidence": "LOW",
+          "needs_verification": true
+        }
+      ],
+      "subjects": [
+        {
+          "phase_order": 2,
+          "domain": "CULTURE_GENERALE",
+          "specialty_key": null,
+          "name_ar": "تحرير موضوع في الثقافة العامة (باللغة العربية)",
+          "name_fr": "Rédaction d'un sujet de culture générale (en arabe)",
+          "coefficient": null,
+          "duration_minutes": null,
+          "question_count": null,
+          "source_key": "s4",
+          "confidence": "MEDIUM",
+          "needs_verification": true
+        },
+        {
+          "phase_order": 2,
+          "domain": "CULTURE_GENERALE",
+          "specialty_key": null,
+          "name_ar": "أسئلة متعددة الاختيارات باللغة العربية (المحتوى غير محدد رسميا)",
+          "name_fr": "QCM en langue arabe (contenu non précisé officiellement)",
+          "coefficient": null,
+          "duration_minutes": null,
+          "question_count": null,
+          "source_key": "s4",
+          "confidence": "MEDIUM",
+          "needs_verification": true
+        },
+        {
+          "phase_order": 2,
+          "domain": "ARABIC",
+          "specialty_key": null,
+          "name_ar": "اللغة العربية: التعبير الكتابي والقواعد (اقتراح)",
+          "name_fr": "Langue arabe : expression écrite et grammaire (suggestion)",
+          "coefficient": null,
+          "duration_minutes": null,
+          "question_count": null,
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "phase_order": 2,
+          "domain": "LOGIC",
+          "specialty_key": null,
+          "name_ar": "المنطق والاستدلال (محتوى محتمل للأسئلة متعددة الاختيارات – اقتراح)",
+          "name_fr": "Logique et raisonnement (contenu possible du QCM – suggestion)",
+          "coefficient": null,
+          "duration_minutes": null,
+          "question_count": null,
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "phase_order": 2,
+          "domain": "NUMERICAL",
+          "specialty_key": null,
+          "name_ar": "الحساب والمسائل البسيطة (اقتراح)",
+          "name_fr": "Calcul et problèmes simples (suggestion)",
+          "coefficient": null,
+          "duration_minutes": null,
+          "question_count": null,
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "phase_order": 2,
+          "domain": "SPECIALTY",
+          "specialty_key": "spec.securite-droits",
+          "name_ar": "حقوق الإنسان وأخلاقيات العمل الأمني (اقتراح)",
+          "name_fr": "Droits de l'homme et déontologie des forces de sécurité (suggestion)",
+          "coefficient": null,
+          "duration_minutes": null,
+          "question_count": null,
+          "source_key": "s9",
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "phase_order": 2,
+          "domain": "SPECIALTY",
+          "specialty_key": "spec.garde-nationale.institution",
+          "name_ar": "الحرس الوطني: التنظيم والمهام وأمن الحدود والطرقات (اقتراح)",
+          "name_fr": "Garde nationale : organisation, missions, sécurité des frontières et des routes (suggestion)",
+          "coefficient": null,
+          "duration_minutes": null,
+          "question_count": null,
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "phase_order": 4,
+          "domain": "PSYCHOTECH",
+          "specialty_key": null,
+          "name_ar": "اختبار نفسي-تقني",
+          "name_fr": "Test psychotechnique",
+          "coefficient": null,
+          "duration_minutes": null,
+          "question_count": null,
+          "source_key": "s3",
+          "confidence": "LOW",
+          "needs_verification": true
+        }
+      ],
+      "physical_tests": [
+        {
+          "name_ar": "الاختبار الرياضي (مرحلة مقصية)",
+          "name_fr": "Épreuve(s) sportive(s) (phase éliminatoire)",
+          "details_ar": "مرحلة رياضية مذكورة في مناظرة الرقباء 2026 ومعتمدة في كل مناظرات قوات الأمن الداخلي. لم ينشر أي إعلان قائمة التمارين ولا سلم التنقيط ولا الأزمنة الدنيا.",
+          "details_fr": "Phase sportive citée dans le concours des sergents 2026 et présente dans tous les concours des forces de sécurité intérieure. Aucun avis consulté ne publie la liste des épreuves, le barème ni les temps minimaux.",
+          "source_key": "s3",
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "name_ar": "قيس الطول وفحص البصر",
+          "name_fr": "Mesure de la taille et contrôle de la vue",
+          "details_ar": "1.70 م على الأقل للذكور وقوة إبصار 15/20 للعينين قبل الإصلاح بالنظارات (مذكوران لمناظرة الرقباء 2026، ومستنتجان بالمقارنة لبقية الرتب).",
+          "details_fr": "Taille minimale 1,70 m (hommes) et acuité visuelle de 15/20 pour les deux yeux avant correction (cités pour les sergents 2026, appliqués par analogie aux autres grades).",
+          "source_key": "s3",
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "name_ar": "تحضير مقترح: الجري لمسافات متوسطة وطويلة",
+          "name_fr": "Préparation suggérée : course de demi-fond / endurance",
+          "details_ar": "اقتراح تدريبي فقط وليس سلما رسميا: التدرب على جري 1000 إلى 3000 م بانتظام (3 حصص أسبوعيا على الأقل) مع تحسين الزمن تدريجيا.",
+          "details_fr": "Suggestion d'entraînement uniquement, pas un barème officiel : courir régulièrement 1 000 à 3 000 m (au moins 3 séances par semaine) en améliorant progressivement le temps.",
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "name_ar": "تحضير مقترح: السرعة",
+          "name_fr": "Préparation suggérée : vitesse",
+          "details_ar": "اقتراح تدريبي: عدو سريع على مسافة 60 إلى 100 م مع تمارين انطلاق.",
+          "details_fr": "Suggestion d'entraînement : sprints de 60 à 100 m et travail des départs.",
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "name_ar": "تحضير مقترح: القوة العضلية (العقلة، الدفع، عضلات البطن)",
+          "name_fr": "Préparation suggérée : force (tractions, pompes, abdominaux)",
+          "details_ar": "اقتراح تدريبي: تمارين العقلة والدفع على الأرض وعضلات البطن بشكل يومي تقريبا. التمارين الفعلية تحدد في الاستدعاء.",
+          "details_fr": "Suggestion d'entraînement : tractions, pompes et abdominaux presque quotidiennement. Les épreuves réelles sont fixées par la convocation.",
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        }
+      ],
+      "required_documents": [
+        {
+          "text_ar": "التسجيل عن بعد عبر المنصة المحددة في الإعلان الرسمي وطباعة استمارة الترشح وإمضاؤها",
+          "text_fr": "Inscription en ligne sur la plateforme indiquée dans l'avis officiel, puis impression et signature du formulaire de candidature",
+          "source_key": "s10",
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "text_ar": "مطلب ترشح باسم السيد وزير الداخلية",
+          "text_fr": "Demande de candidature adressée à M. le ministre de l'Intérieur",
+          "source_key": "s13",
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "text_ar": "نسخة من بطاقة التعريف الوطنية",
+          "text_fr": "Copie de la carte d'identité nationale (CIN)",
+          "source_key": "s13",
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "text_ar": "نسخة من شهادة مدرسية أو علمية تثبت مستوى السنة الرابعة من التعليم الثانوي",
+          "text_fr": "Copie d'une attestation scolaire ou d'un diplôme justifiant le niveau 4e année secondaire",
+          "source_key": "s13",
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "text_ar": "البطاقة عدد 3 (السوابق العدلية) حديثة (أقل من 3 أشهر عادة) أو وصل في طلبها",
+          "text_fr": "Bulletin n° 3 (casier judiciaire) récent (généralement moins de 3 mois) ou récépissé de demande",
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "text_ar": "وثيقة تثبت الوضعية إزاء الخدمة الوطنية (للذكور)",
+          "text_fr": "Justificatif de la situation vis-à-vis du service national (hommes)",
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "text_ar": "صور شمسية حديثة",
+          "text_fr": "Photos d'identité récentes",
+          "source_key": "s13",
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "text_ar": "ظروف خالصة معلوم البريد مضمونة الوصول تحمل عنوان المترشح (العدد يحدد في الإعلان)",
+          "text_fr": "Enveloppes timbrées (recommandé) libellées à l'adresse du candidat (nombre fixé par l'avis)",
+          "source_key": "s13",
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "text_ar": "وصل خلاص معلوم المشاركة إن نص عليه الإعلان (10 دنانير في مناظرات الأمن الوطني – غير مؤكد للحرس الوطني)",
+          "text_fr": "Reçu de paiement des frais de participation si l'avis les prévoit (10 DT pour les concours de la Sûreté nationale – non confirmé pour la Garde nationale)",
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        }
+      ],
+      "blueprint": {
+        "total_minutes": 100,
+        "fidelity": "APPROXIMATED",
+        "sections": [
+          {
+            "domain": "CULTURE_GENERALE",
+            "specialty_key": null,
+            "count": 30,
+            "minutes": 30
+          },
+          {
+            "domain": "ARABIC",
+            "specialty_key": null,
+            "count": 10,
+            "minutes": 12
+          },
+          {
+            "domain": "LOGIC",
+            "specialty_key": null,
+            "count": 10,
+            "minutes": 12
+          },
+          {
+            "domain": "NUMERICAL",
+            "specialty_key": null,
+            "count": 5,
+            "minutes": 8
+          },
+          {
+            "domain": "SPECIALTY",
+            "specialty_key": "spec.securite-droits",
+            "count": 10,
+            "minutes": 10
+          },
+          {
+            "domain": "SPECIALTY",
+            "specialty_key": "spec.garde-nationale.institution",
+            "count": 10,
+            "minutes": 10
+          },
+          {
+            "domain": "SPECIALTY",
+            "specialty_key": "spec.droit-public",
+            "count": 5,
+            "minutes": 6
+          },
+          {
+            "domain": "PSYCHOTECH",
+            "specialty_key": null,
+            "count": 10,
+            "minutes": 12
+          }
+        ]
+      }
+    },
+    {
+      "slug": "sergent-maintenance-vehicules-moteurs-hommes",
+      "title_ar": "رقيب (ذكور) بسلك الحرس الوطني – اختصاصات صيانة العربات والمحركات",
+      "title_fr": "Sergent (hommes) de la Garde nationale – spécialités maintenance des véhicules et moteurs",
+      "diploma_level": "NINTH",
+      "eligibility": {
+        "min_age": 20,
+        "max_age": 22,
+        "genders": [
+          "M"
+        ],
+        "nationality": "TN",
+        "diplomas": [
+          "NINTH"
+        ],
+        "specialties": [
+          "صيانة العربات والمحركات / Maintenance des véhicules et moteurs (liste exacte des spécialités à vérifier)"
+        ],
+        "min_height_cm_male": 170,
+        "min_height_cm_female": null,
+        "marital_status": null,
+        "other_ar": [
+          "مستوى السنة التاسعة من التعليم الأساسي على الأقل (حسب الصحافة).",
+          "يرجح اشتراط شهادة تكوين مهني في الاختصاص، مثل شهادة الكفاءة المهنية أو مؤهل التقني المهني في الميكانيك أو كهرباء السيارات (اقتراح يجب التثبت منه).",
+          "السن بين 20 و22 سنة (تاريخ الاحتساب غير مؤكد). هذا يتطابق مع القاعدة العامة لرتبة رقيب في أسلاك الأمن الداخلي.",
+          "طول القامة 1.70 م على الأقل.",
+          "قوة إبصار لا تقل عن 15/20 للعينين.",
+          "المناظرة مخصصة للذكور."
+        ],
+        "other_fr": [
+          "Niveau 9e année de l'enseignement de base au minimum (selon la presse).",
+          "Diplôme de formation professionnelle dans la spécialité probablement exigé, par exemple CAP ou BTP en mécanique ou électricité automobile (suggestion à vérifier).",
+          "Âge de 20 à 22 ans (date de référence non confirmée). Cela correspond à la règle générale du grade de sergent dans les forces de sécurité intérieure.",
+          "Taille minimale : 1,70 m.",
+          "Acuité visuelle d'au moins 15/20 pour les deux yeux.",
+          "Concours réservé aux hommes."
+        ],
+        "source_key": "s3",
+        "confidence": "MEDIUM",
+        "needs_verification": true,
+        "source_quote": null
+      },
+      "phases": [
+        {
+          "order": 1,
+          "kind": "WRITTEN",
+          "name_ar": "اختبار كتابي باللغة العربية (27 جويلية 2026)",
+          "name_fr": "Épreuve écrite en langue arabe (27/07/2026)",
+          "is_eliminatory": true,
+          "duration_minutes": null,
+          "description_ar": "اختبار كتابي باللغة العربية أجري يوم 27/07/2026 حسب الصحافة. المحتوى (ثقافة عامة أو اختبار تقني في الاختصاص) والمدة والضوارب غير منشورة.",
+          "description_fr": "Épreuve écrite en arabe tenue le 27/07/2026 selon la presse. Contenu (culture générale et/ou épreuve technique de spécialité), durée et coefficients non publiés.",
+          "source_key": "s3",
+          "confidence": "MEDIUM",
+          "needs_verification": true
+        },
+        {
+          "order": 2,
+          "kind": "MEDICAL",
+          "name_ar": "الفحوص الطبية",
+          "name_fr": "Visite médicale",
+          "is_eliminatory": true,
+          "duration_minutes": null,
+          "description_ar": "فحوص طبية للناجحين في الكتابي (الطول والبصر واللياقة الصحية).",
+          "description_fr": "Examens médicaux pour les admissibles (taille, vue, aptitude).",
+          "source_key": "s3",
+          "confidence": "MEDIUM",
+          "needs_verification": true
+        },
+        {
+          "order": 3,
+          "kind": "PHYSICAL",
+          "name_ar": "الاختبارات البدنية",
+          "name_fr": "Épreuves physiques",
+          "is_eliminatory": true,
+          "duration_minutes": null,
+          "description_ar": "اختبارات بدنية مقصية. المحتوى وسلم التنقيط غير منشورين.",
+          "description_fr": "Épreuves physiques éliminatoires. Contenu et barème non publiés.",
+          "source_key": "s3",
+          "confidence": "MEDIUM",
+          "needs_verification": true
+        },
+        {
+          "order": 4,
+          "kind": "ORAL",
+          "name_ar": "الاختبار الشفاهي",
+          "name_fr": "Épreuve orale",
+          "is_eliminatory": true,
+          "duration_minutes": null,
+          "description_ar": "اختبار شفاهي يرجح أن يشمل أسئلة تقنية في الاختصاص وأسئلة حول الدوافع.",
+          "description_fr": "Oral portant probablement sur la spécialité technique et la motivation.",
+          "source_key": "s3",
+          "confidence": "MEDIUM",
+          "needs_verification": true
+        },
+        {
+          "order": 5,
+          "kind": "PSYCHOTECH",
+          "name_ar": "الاختبار النفساني",
+          "name_fr": "Test psychologique",
+          "is_eliminatory": true,
+          "duration_minutes": null,
+          "description_ar": "اختبار نفساني أو نفسي-تقني.",
+          "description_fr": "Test psychologique / psychotechnique.",
+          "source_key": "s3",
+          "confidence": "MEDIUM",
+          "needs_verification": true
+        },
+        {
+          "order": 6,
+          "kind": "TRAINING",
+          "name_ar": "التكوين الأساسي",
+          "name_fr": "Formation de base",
+          "is_eliminatory": false,
+          "duration_minutes": null,
+          "description_ar": "تكوين أساسي قبل الانتداب النهائي (الأمر عدد 1166 لسنة 2006). المدة والمدرسة غير مؤكدتين.",
+          "description_fr": "Formation de base avant le recrutement définitif (décret n° 2006-1166). Durée et école non confirmées.",
+          "source_key": "s8",
+          "confidence": "LOW",
+          "needs_verification": true
+        }
+      ],
+      "subjects": [
+        {
+          "phase_order": 1,
+          "domain": "CULTURE_GENERALE",
+          "specialty_key": null,
+          "name_ar": "ثقافة عامة باللغة العربية (مرجح)",
+          "name_fr": "Culture générale en arabe (probable)",
+          "coefficient": null,
+          "duration_minutes": null,
+          "question_count": null,
+          "source_key": "s3",
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "phase_order": 1,
+          "domain": "ARABIC",
+          "specialty_key": null,
+          "name_ar": "اللغة العربية (لغة الاختبار)",
+          "name_fr": "Langue arabe (langue de l'épreuve)",
+          "coefficient": null,
+          "duration_minutes": null,
+          "question_count": null,
+          "source_key": "s3",
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "phase_order": 1,
+          "domain": "SPECIALTY",
+          "specialty_key": "spec.garde-nationale.mecanique-auto",
+          "name_ar": "اختبار تقني في صيانة العربات والمحركات (اقتراح)",
+          "name_fr": "Épreuve technique : maintenance des véhicules et moteurs (suggestion)",
+          "coefficient": null,
+          "duration_minutes": null,
+          "question_count": null,
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "phase_order": 1,
+          "domain": "SPECIALTY",
+          "specialty_key": "spec.electricite",
+          "name_ar": "أساسيات الكهرباء وكهرباء السيارات (اقتراح)",
+          "name_fr": "Bases d'électricité et électricité automobile (suggestion)",
+          "coefficient": null,
+          "duration_minutes": null,
+          "question_count": null,
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "phase_order": 1,
+          "domain": "NUMERICAL",
+          "specialty_key": null,
+          "name_ar": "الحساب والقياسات التقنية (اقتراح)",
+          "name_fr": "Calcul et mesures techniques (suggestion)",
+          "coefficient": null,
+          "duration_minutes": null,
+          "question_count": null,
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "phase_order": 4,
+          "domain": "SPECIALTY",
+          "specialty_key": "spec.garde-nationale.mecanique-auto",
+          "name_ar": "شفاهي في الاختصاص التقني (اقتراح)",
+          "name_fr": "Oral de spécialité technique (suggestion)",
+          "coefficient": null,
+          "duration_minutes": null,
+          "question_count": null,
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "phase_order": 5,
+          "domain": "PSYCHOTECH",
+          "specialty_key": null,
+          "name_ar": "اختبار نفسي-تقني، منه الاستدلال الميكانيكي (اقتراح)",
+          "name_fr": "Test psychotechnique, dont le raisonnement mécanique (suggestion)",
+          "coefficient": null,
+          "duration_minutes": null,
+          "question_count": null,
+          "source_key": "s3",
+          "confidence": "LOW",
+          "needs_verification": true
+        }
+      ],
+      "physical_tests": [
+        {
+          "name_ar": "الاختبار الرياضي (مرحلة مقصية)",
+          "name_fr": "Épreuve(s) sportive(s) (phase éliminatoire)",
+          "details_ar": "مرحلة رياضية مذكورة في مناظرة الرقباء 2026 ومعتمدة في كل مناظرات قوات الأمن الداخلي. لم ينشر أي إعلان قائمة التمارين ولا سلم التنقيط ولا الأزمنة الدنيا.",
+          "details_fr": "Phase sportive citée dans le concours des sergents 2026 et présente dans tous les concours des forces de sécurité intérieure. Aucun avis consulté ne publie la liste des épreuves, le barème ni les temps minimaux.",
+          "source_key": "s3",
+          "confidence": "MEDIUM",
+          "needs_verification": true
+        },
+        {
+          "name_ar": "قيس الطول وفحص البصر",
+          "name_fr": "Mesure de la taille et contrôle de la vue",
+          "details_ar": "1.70 م على الأقل للذكور وقوة إبصار 15/20 للعينين قبل الإصلاح بالنظارات (مذكوران لمناظرة الرقباء 2026، ومستنتجان بالمقارنة لبقية الرتب).",
+          "details_fr": "Taille minimale 1,70 m (hommes) et acuité visuelle de 15/20 pour les deux yeux avant correction (cités pour les sergents 2026, appliqués par analogie aux autres grades).",
+          "source_key": "s3",
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "name_ar": "تحضير مقترح: الجري لمسافات متوسطة وطويلة",
+          "name_fr": "Préparation suggérée : course de demi-fond / endurance",
+          "details_ar": "اقتراح تدريبي فقط وليس سلما رسميا: التدرب على جري 1000 إلى 3000 م بانتظام (3 حصص أسبوعيا على الأقل) مع تحسين الزمن تدريجيا.",
+          "details_fr": "Suggestion d'entraînement uniquement, pas un barème officiel : courir régulièrement 1 000 à 3 000 m (au moins 3 séances par semaine) en améliorant progressivement le temps.",
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "name_ar": "تحضير مقترح: السرعة",
+          "name_fr": "Préparation suggérée : vitesse",
+          "details_ar": "اقتراح تدريبي: عدو سريع على مسافة 60 إلى 100 م مع تمارين انطلاق.",
+          "details_fr": "Suggestion d'entraînement : sprints de 60 à 100 m et travail des départs.",
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "name_ar": "تحضير مقترح: القوة العضلية (العقلة، الدفع، عضلات البطن)",
+          "name_fr": "Préparation suggérée : force (tractions, pompes, abdominaux)",
+          "details_ar": "اقتراح تدريبي: تمارين العقلة والدفع على الأرض وعضلات البطن بشكل يومي تقريبا. التمارين الفعلية تحدد في الاستدعاء.",
+          "details_fr": "Suggestion d'entraînement : tractions, pompes et abdominaux presque quotidiennement. Les épreuves réelles sont fixées par la convocation.",
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        }
+      ],
+      "required_documents": [
+        {
+          "text_ar": "التسجيل عن بعد عبر المنصة المحددة في الإعلان الرسمي وطباعة استمارة الترشح وإمضاؤها",
+          "text_fr": "Inscription en ligne sur la plateforme indiquée dans l'avis officiel, puis impression et signature du formulaire de candidature",
+          "source_key": "s10",
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "text_ar": "مطلب ترشح باسم السيد وزير الداخلية",
+          "text_fr": "Demande de candidature adressée à M. le ministre de l'Intérieur",
+          "source_key": "s13",
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "text_ar": "نسخة من بطاقة التعريف الوطنية",
+          "text_fr": "Copie de la carte d'identité nationale (CIN)",
+          "source_key": "s13",
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "text_ar": "نسخة من شهادة مدرسية تثبت مستوى السنة التاسعة من التعليم الأساسي",
+          "text_fr": "Copie d'une attestation scolaire justifiant le niveau 9e année de base",
+          "source_key": "s13",
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "text_ar": "البطاقة عدد 3 (السوابق العدلية) حديثة (أقل من 3 أشهر عادة) أو وصل في طلبها",
+          "text_fr": "Bulletin n° 3 (casier judiciaire) récent (généralement moins de 3 mois) ou récépissé de demande",
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "text_ar": "وثيقة تثبت الوضعية إزاء الخدمة الوطنية (للذكور)",
+          "text_fr": "Justificatif de la situation vis-à-vis du service national (hommes)",
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "text_ar": "صور شمسية حديثة",
+          "text_fr": "Photos d'identité récentes",
+          "source_key": "s13",
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "text_ar": "ظروف خالصة معلوم البريد مضمونة الوصول تحمل عنوان المترشح (العدد يحدد في الإعلان)",
+          "text_fr": "Enveloppes timbrées (recommandé) libellées à l'adresse du candidat (nombre fixé par l'avis)",
+          "source_key": "s13",
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "text_ar": "وصل خلاص معلوم المشاركة إن نص عليه الإعلان (10 دنانير في مناظرات الأمن الوطني – غير مؤكد للحرس الوطني)",
+          "text_fr": "Reçu de paiement des frais de participation si l'avis les prévoit (10 DT pour les concours de la Sûreté nationale – non confirmé pour la Garde nationale)",
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "text_ar": "نسخة من شهادة التكوين المهني في الاختصاص، مثل شهادة الكفاءة المهنية أو مؤهل التقني المهني (إن كانت مطلوبة)",
+          "text_fr": "Copie du diplôme de formation professionnelle dans la spécialité, par exemple CAP ou BTP (s'il est exigé)",
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        }
+      ],
+      "blueprint": {
+        "total_minutes": 120,
+        "fidelity": "APPROXIMATED",
+        "sections": [
+          {
+            "domain": "CULTURE_GENERALE",
+            "specialty_key": null,
+            "count": 20,
+            "minutes": 20
+          },
+          {
+            "domain": "ARABIC",
+            "specialty_key": null,
+            "count": 10,
+            "minutes": 12
+          },
+          {
+            "domain": "NUMERICAL",
+            "specialty_key": null,
+            "count": 10,
+            "minutes": 15
+          },
+          {
+            "domain": "LOGIC",
+            "specialty_key": null,
+            "count": 5,
+            "minutes": 8
+          },
+          {
+            "domain": "SPECIALTY",
+            "specialty_key": "spec.garde-nationale.mecanique-auto",
+            "count": 20,
+            "minutes": 30
+          },
+          {
+            "domain": "SPECIALTY",
+            "specialty_key": "spec.electricite",
+            "count": 10,
+            "minutes": 15
+          },
+          {
+            "domain": "SPECIALTY",
+            "specialty_key": "spec.garde-nationale.institution",
+            "count": 5,
+            "minutes": 5
+          },
+          {
+            "domain": "SPECIALTY",
+            "specialty_key": "spec.securite-droits",
+            "count": 5,
+            "minutes": 5
+          },
+          {
+            "domain": "PSYCHOTECH",
+            "specialty_key": null,
+            "count": 10,
+            "minutes": 10
+          }
+        ]
+      }
+    },
+    {
+      "slug": "lieutenant-principal",
+      "title_ar": "ملازم أول بسلك الحرس الوطني (ضباط – انتداب مباشر)",
+      "title_fr": "Lieutenant principal (officier) de la Garde nationale – recrutement direct",
+      "diploma_level": "MASTER",
+      "eligibility": {
+        "min_age": 20,
+        "max_age": 30,
+        "genders": [
+          "M",
+          "F"
+        ],
+        "nationality": "TN",
+        "diplomas": [
+          "MASTER",
+          "ENGINEER"
+        ],
+        "specialties": [],
+        "min_height_cm_male": 170,
+        "min_height_cm_female": 165,
+        "marital_status": null,
+        "other_ar": [
+          "كل الشروط مستنتجة بالمقارنة مع مناظرة الملازمين الأول بسلك الأمن الوطني 2026 (شهادة باكالوريا + 5 سنوات أي ماجستير أو مهندس، والسن 20–30 سنة، والطول 1.70/1.65 م). لم نجد إعلانا خاصا بالحرس الوطني يحدد هذه الشروط.",
+          "وجود مناظرة لانتداب ملازمين أول بسلك الحرس الوطني سنة 2023 ثابت من عنوان إعلان فقط.",
+          "فتح المناظرة للإناث غير مؤكد في الحرس الوطني.",
+          "قائمة الاختصاصات المقبولة (قانون، إعلامية، هندسة…) تحدد بملحق الإعلان. القائمة غير معروفة."
+        ],
+        "other_fr": [
+          "Toutes les conditions sont déduites par analogie avec le concours de lieutenants principaux de la Sûreté nationale 2026 (bac+5, c'est-à-dire master ou ingénieur, 20–30 ans, taille 1,70/1,65 m). Aucun avis propre à la Garde nationale fixant ces conditions n'a été trouvé.",
+          "L'existence d'un concours de lieutenants principaux de la Garde nationale en 2023 n'est attestée que par le titre d'une annonce.",
+          "L'ouverture aux femmes n'est pas confirmée pour la Garde nationale.",
+          "La liste des spécialités admises (droit, informatique, ingénierie…) est fixée en annexe de l'avis. Elle est inconnue."
+        ],
+        "source_key": "s12",
+        "confidence": "LOW",
+        "needs_verification": true,
+        "source_quote": null
+      },
+      "phases": [
+        {
+          "order": 1,
+          "kind": "WRITTEN",
+          "name_ar": "اختبارات كتابية (معارف عامة واختصاص)",
+          "name_fr": "Épreuves écrites (culture générale et spécialité)",
+          "is_eliminatory": true,
+          "duration_minutes": null,
+          "description_ar": "بالمقارنة مع مناظرة الملازمين الأول بالأمن الوطني 2026: ثقافة عامة بالعربية والفرنسية، واختبار في الاختصاص، وتحليل وضعيات. صيغة الحرس الوطني غير مؤكدة.",
+          "description_fr": "Par analogie avec les lieutenants principaux de la Sûreté 2026 : culture générale en arabe et en français, épreuve de spécialité, analyse de situations. Format de la Garde nationale non confirmé.",
+          "source_key": "s12",
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "order": 2,
+          "kind": "MEDICAL",
+          "name_ar": "الفحوص الطبية",
+          "name_fr": "Visite médicale",
+          "is_eliminatory": true,
+          "duration_minutes": null,
+          "description_ar": "فحوص طبية والقيس (مستنتجة بالمقارنة).",
+          "description_fr": "Visite médicale et mesures (déduites par analogie).",
+          "source_key": "s12",
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "order": 3,
+          "kind": "PHYSICAL",
+          "name_ar": "الاختبارات الرياضية",
+          "name_fr": "Épreuves sportives",
+          "is_eliminatory": true,
+          "duration_minutes": null,
+          "description_ar": "اختبارات رياضية. المحتوى وسلم التنقيط غير منشورين.",
+          "description_fr": "Épreuves sportives. Contenu et barème non publiés.",
+          "source_key": "s12",
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "order": 4,
+          "kind": "PSYCHOTECH",
+          "name_ar": "الاختبار النفسي-التقني",
+          "name_fr": "Test psychotechnique",
+          "is_eliminatory": true,
+          "duration_minutes": null,
+          "description_ar": "اختبار نفسي-تقني ثم اختبارات نفسية معمقة (بالمقارنة).",
+          "description_fr": "Test psychotechnique puis examens psychologiques approfondis (par analogie).",
+          "source_key": "s12",
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "order": 5,
+          "kind": "ORAL",
+          "name_ar": "الاختبار الشفاهي في الاختصاص",
+          "name_fr": "Oral de spécialité",
+          "is_eliminatory": true,
+          "duration_minutes": null,
+          "description_ar": "اختبار شفاهي في مواد اختصاص الشهادة (بالمقارنة).",
+          "description_fr": "Oral sur les matières de la spécialité du diplôme (par analogie).",
+          "source_key": "s12",
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "order": 6,
+          "kind": "INTERVIEW",
+          "name_ar": "المثول أمام لجنة المناظرة",
+          "name_fr": "Passage devant le jury",
+          "is_eliminatory": true,
+          "duration_minutes": null,
+          "description_ar": "مقابلة حول الشخصية والدوافع والقدرة على القيادة.",
+          "description_fr": "Entretien sur la personnalité, la motivation et l'aptitude au commandement.",
+          "source_key": "s12",
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "order": 7,
+          "kind": "TRAINING",
+          "name_ar": "التكوين الأساسي للضباط",
+          "name_fr": "Formation de base des officiers",
+          "is_eliminatory": false,
+          "duration_minutes": null,
+          "description_ar": "تكوين أساسي قبل الانتداب (الأمر عدد 1166 لسنة 2006). المدة والمدرسة غير مؤكدتين.",
+          "description_fr": "Formation de base avant recrutement (décret n° 2006-1166). Durée et école non confirmées.",
+          "source_key": "s8",
+          "confidence": "LOW",
+          "needs_verification": true
+        }
+      ],
+      "subjects": [
+        {
+          "phase_order": 1,
+          "domain": "CULTURE_GENERALE",
+          "specialty_key": null,
+          "name_ar": "ثقافة عامة باللغة العربية",
+          "name_fr": "Culture générale en arabe",
+          "coefficient": null,
+          "duration_minutes": null,
+          "question_count": null,
+          "source_key": "s12",
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "phase_order": 1,
+          "domain": "CULTURE_GENERALE",
+          "specialty_key": null,
+          "name_ar": "ثقافة عامة باللغة الفرنسية",
+          "name_fr": "Culture générale en français",
+          "coefficient": null,
+          "duration_minutes": null,
+          "question_count": null,
+          "source_key": "s12",
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "phase_order": 1,
+          "domain": "FRENCH",
+          "specialty_key": null,
+          "name_ar": "اللغة الفرنسية (اقتراح)",
+          "name_fr": "Langue française (suggestion)",
+          "coefficient": null,
+          "duration_minutes": null,
+          "question_count": null,
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "phase_order": 1,
+          "domain": "SPECIALTY",
+          "specialty_key": null,
+          "name_ar": "اختبار في الاختصاص حسب الشهادة",
+          "name_fr": "Épreuve de spécialité selon le diplôme",
+          "coefficient": null,
+          "duration_minutes": null,
+          "question_count": null,
+          "source_key": "s12",
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "phase_order": 1,
+          "domain": "SPECIALTY",
+          "specialty_key": "spec.garde-nationale.analyse-situations",
+          "name_ar": "تحليل وضعيات مهنية (اقتراح)",
+          "name_fr": "Analyse de situations professionnelles (suggestion)",
+          "coefficient": null,
+          "duration_minutes": null,
+          "question_count": null,
+          "source_key": "s12",
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "phase_order": 1,
+          "domain": "SPECIALTY",
+          "specialty_key": "spec.droit-public",
+          "name_ar": "القانون الدستوري والمؤسسات (اقتراح لخريجي القانون)",
+          "name_fr": "Droit constitutionnel et institutions (suggestion pour les juristes)",
+          "coefficient": null,
+          "duration_minutes": null,
+          "question_count": null,
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "phase_order": 1,
+          "domain": "SPECIALTY",
+          "specialty_key": "spec.droit-administratif",
+          "name_ar": "القانون الإداري (اقتراح لخريجي القانون)",
+          "name_fr": "Droit administratif (suggestion pour les juristes)",
+          "coefficient": null,
+          "duration_minutes": null,
+          "question_count": null,
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "phase_order": 1,
+          "domain": "SPECIALTY",
+          "specialty_key": "spec.securite-droits",
+          "name_ar": "حقوق الإنسان وأخلاقيات العمل الأمني ومبادئ الإجراءات الجزائية (اقتراح)",
+          "name_fr": "Droits de l'homme, déontologie, notions de procédure pénale (suggestion)",
+          "coefficient": null,
+          "duration_minutes": null,
+          "question_count": null,
+          "source_key": "s9",
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "phase_order": 1,
+          "domain": "SPECIALTY",
+          "specialty_key": "spec.informatique",
+          "name_ar": "الإعلامية (اقتراح لخريجي الإعلامية والهندسة)",
+          "name_fr": "Informatique (suggestion pour informaticiens et ingénieurs)",
+          "coefficient": null,
+          "duration_minutes": null,
+          "question_count": null,
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "phase_order": 4,
+          "domain": "PSYCHOTECH",
+          "specialty_key": null,
+          "name_ar": "اختبار نفسي-تقني",
+          "name_fr": "Test psychotechnique",
+          "coefficient": null,
+          "duration_minutes": null,
+          "question_count": null,
+          "source_key": "s12",
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "phase_order": 5,
+          "domain": "SPECIALTY",
+          "specialty_key": null,
+          "name_ar": "شفاهي في الاختصاص",
+          "name_fr": "Oral de spécialité",
+          "coefficient": null,
+          "duration_minutes": null,
+          "question_count": null,
+          "source_key": "s12",
+          "confidence": "LOW",
+          "needs_verification": true
+        }
+      ],
+      "physical_tests": [
+        {
+          "name_ar": "الاختبار الرياضي (مرحلة مقصية)",
+          "name_fr": "Épreuves sportives (phase éliminatoire)",
+          "details_ar": "مستنتج بالمقارنة. لا يوجد سلم تنقيط منشور.",
+          "details_fr": "Déduite par analogie. Aucun barème publié.",
+          "source_key": "s12",
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "name_ar": "قيس الطول وفحص البصر",
+          "name_fr": "Mesure de la taille et contrôle de la vue",
+          "details_ar": "1.70 م للذكور و1.65 م للإناث، وقوة إبصار 15/20 قبل الإصلاح (بالمقارنة مع شروط الأمن الوطني).",
+          "details_fr": "1,70 m (hommes) et 1,65 m (femmes), acuité de 15/20 avant correction (par analogie avec la Sûreté nationale).",
+          "source_key": "s11",
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "name_ar": "تحضير مقترح: التحمل والقوة",
+          "name_fr": "Préparation suggérée : endurance et force",
+          "details_ar": "اقتراح تدريبي: جري 2000 إلى 3000 م، وعدو سريع، وعقلة، ودفع، وعضلات البطن، بانتظام وقبل الإعلان بأشهر.",
+          "details_fr": "Suggestion : 2 000 à 3 000 m de course, sprints, tractions, pompes et abdominaux, de façon régulière et plusieurs mois avant l'avis.",
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        }
+      ],
+      "required_documents": [
+        {
+          "text_ar": "التسجيل عن بعد عبر المنصة المحددة في الإعلان الرسمي وطباعة استمارة الترشح وإمضاؤها",
+          "text_fr": "Inscription en ligne sur la plateforme indiquée dans l'avis officiel, puis impression et signature du formulaire de candidature",
+          "source_key": "s10",
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "text_ar": "مطلب ترشح باسم السيد وزير الداخلية",
+          "text_fr": "Demande de candidature adressée à M. le ministre de l'Intérieur",
+          "source_key": "s13",
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "text_ar": "نسخة من بطاقة التعريف الوطنية",
+          "text_fr": "Copie de la carte d'identité nationale (CIN)",
+          "source_key": "s13",
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "text_ar": "نسخة من الشهادة الجامعية (ماجستير أو مهندس) وكشوف الأعداد، مع شهادة معادلة للشهادات الأجنبية",
+          "text_fr": "Copie du diplôme universitaire (master ou ingénieur) et des relevés de notes, avec l'équivalence pour les diplômes étrangers",
+          "source_key": "s13",
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "text_ar": "البطاقة عدد 3 (السوابق العدلية) حديثة (أقل من 3 أشهر عادة) أو وصل في طلبها",
+          "text_fr": "Bulletin n° 3 (casier judiciaire) récent (généralement moins de 3 mois) ou récépissé de demande",
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "text_ar": "وثيقة تثبت الوضعية إزاء الخدمة الوطنية (للذكور)",
+          "text_fr": "Justificatif de la situation vis-à-vis du service national (hommes)",
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "text_ar": "صور شمسية حديثة",
+          "text_fr": "Photos d'identité récentes",
+          "source_key": "s13",
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "text_ar": "ظروف خالصة معلوم البريد مضمونة الوصول تحمل عنوان المترشح (العدد يحدد في الإعلان)",
+          "text_fr": "Enveloppes timbrées (recommandé) libellées à l'adresse du candidat (nombre fixé par l'avis)",
+          "source_key": "s13",
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "text_ar": "وصل خلاص معلوم المشاركة إن نص عليه الإعلان (10 دنانير في مناظرات الأمن الوطني – غير مؤكد للحرس الوطني)",
+          "text_fr": "Reçu de paiement des frais de participation si l'avis les prévoit (10 DT pour les concours de la Sûreté nationale – non confirmé pour la Garde nationale)",
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        }
+      ],
+      "blueprint": {
+        "total_minutes": 150,
+        "fidelity": "APPROXIMATED",
+        "sections": [
+          {
+            "domain": "CULTURE_GENERALE",
+            "specialty_key": null,
+            "count": 25,
+            "minutes": 30
+          },
+          {
+            "domain": "ARABIC",
+            "specialty_key": null,
+            "count": 10,
+            "minutes": 12
+          },
+          {
+            "domain": "FRENCH",
+            "specialty_key": null,
+            "count": 15,
+            "minutes": 18
+          },
+          {
+            "domain": "SPECIALTY",
+            "specialty_key": "spec.droit-public",
+            "count": 10,
+            "minutes": 15
+          },
+          {
+            "domain": "SPECIALTY",
+            "specialty_key": "spec.droit-administratif",
+            "count": 10,
+            "minutes": 15
+          },
+          {
+            "domain": "SPECIALTY",
+            "specialty_key": "spec.securite-droits",
+            "count": 10,
+            "minutes": 15
+          },
+          {
+            "domain": "SPECIALTY",
+            "specialty_key": "spec.garde-nationale.analyse-situations",
+            "count": 8,
+            "minutes": 20
+          },
+          {
+            "domain": "LOGIC",
+            "specialty_key": null,
+            "count": 10,
+            "minutes": 12
+          },
+          {
+            "domain": "PSYCHOTECH",
+            "specialty_key": null,
+            "count": 10,
+            "minutes": 13
+          }
+        ]
+      }
+    }
+  ],
+  "specialty_syllabus": [
+    {
+      "key": "spec.garde-nationale.institution",
+      "parent_key": null,
+      "level": "UNIT",
+      "title_ar": "الحرس الوطني: المؤسسة والمهام والإطار القانوني",
+      "title_fr": "Garde nationale : institution, missions et cadre juridique",
+      "scope": "SUGGESTED",
+      "source_key": null,
+      "objectives": [
+        {
+          "key": "spec.garde-nationale.institution.o1",
+          "text_ar": "فهم موقع الحرس الوطني ضمن قوات الأمن الداخلي التابعة لوزارة الداخلية ودور العون في الميدان",
+          "text_fr": "Situer la Garde nationale parmi les forces de sécurité intérieure du ministère de l'Intérieur et comprendre le rôle de l'agent sur le terrain"
+        }
+      ]
+    },
+    {
+      "key": "spec.garde-nationale.institution.organisation",
+      "parent_key": "spec.garde-nationale.institution",
+      "level": "TOPIC",
+      "title_ar": "تنظيم الحرس الوطني ومهامه",
+      "title_fr": "Organisation et missions de la Garde nationale",
+      "scope": "SUGGESTED",
+      "source_key": null,
+      "objectives": [
+        {
+          "key": "spec.garde-nationale.institution.organisation.o1",
+          "text_ar": "التمييز بين الحرس الوطني والأمن الوطني والحماية المدنية والجيش الوطني والديوانة ومجالات تدخل كل منها",
+          "text_fr": "Distinguer Garde nationale, Sûreté nationale, Protection civile, armée et douane, ainsi que leurs champs d'intervention"
+        },
+        {
+          "key": "spec.garde-nationale.institution.organisation.o2",
+          "text_ar": "معرفة المهام الكبرى للحرس الوطني: الأمن في المناطق الريفية وعلى الطرقات خارج المدن، وحراسة الحدود البرية والبحرية، والشرطة العدلية في مجال اختصاصه",
+          "text_fr": "Connaître les grandes missions : sécurité en zones rurales et sur les routes interurbaines, surveillance des frontières terrestres et maritimes, police judiciaire dans son ressort"
+        },
+        {
+          "key": "spec.garde-nationale.institution.organisation.o3",
+          "text_ar": "معرفة تدرج الرتب من عريف إلى رقيب ثم وكيل ثم ضابط (ملازم، ملازم أول، نقيب…) وطرق الترقية (للتثبت في النظام الأساسي الخاص)",
+          "text_fr": "Connaître la hiérarchie des grades, de caporal à sergent, adjudant puis officier (lieutenant, lieutenant principal, capitaine…), et les voies de promotion (à vérifier dans le statut particulier)"
+        }
+      ]
+    },
+    {
+      "key": "spec.garde-nationale.institution.statut-deontologie",
+      "parent_key": "spec.garde-nationale.institution",
+      "level": "TOPIC",
+      "title_ar": "القانون الأساسي العام لقوات الأمن الداخلي ومدونة السلوك",
+      "title_fr": "Statut général des forces de sécurité intérieure et code de conduite",
+      "scope": "SUGGESTED",
+      "source_key": "s9",
+      "objectives": [
+        {
+          "key": "spec.garde-nationale.institution.statut-deontologie.o1",
+          "text_ar": "معرفة أهم واجبات أعوان قوات الأمن الداخلي حسب القانون عدد 70 لسنة 1982 (الانضباط، الحياد، السر المهني، الاستعداد الدائم)",
+          "text_fr": "Connaître les principales obligations des agents selon la loi n° 82-70 du 6 août 1982 (discipline, neutralité, secret professionnel, disponibilité)"
+        },
+        {
+          "key": "spec.garde-nationale.institution.statut-deontologie.o2",
+          "text_ar": "معرفة مبادئ مدونة سلوك قوات الأمن الداخلي (الأمر عدد 240 لسنة 2023): احترام الكرامة الإنسانية، والتناسب في استعمال القوة، والنزاهة",
+          "text_fr": "Connaître les principes du code de conduite des forces de sécurité intérieure (décret n° 2023-240) : dignité humaine, proportionnalité de l'usage de la force, intégrité"
+        },
+        {
+          "key": "spec.garde-nationale.institution.statut-deontologie.o3",
+          "text_ar": "معرفة مراحل التكوين (الأمر عدد 1166 لسنة 2006) وحقوق المتربص وواجباته",
+          "text_fr": "Connaître les cycles de formation (décret n° 2006-1166) ainsi que les droits et devoirs de l'élève"
+        }
+      ]
+    },
+    {
+      "key": "spec.garde-nationale.institution.frontieres",
+      "parent_key": "spec.garde-nationale.institution",
+      "level": "TOPIC",
+      "title_ar": "أمن الحدود: المفاهيم الأساسية",
+      "title_fr": "Sécurité des frontières : notions de base",
+      "scope": "SUGGESTED",
+      "source_key": null,
+      "objectives": [
+        {
+          "key": "spec.garde-nationale.institution.frontieres.o1",
+          "text_ar": "فهم الظواهر الحدودية الكبرى (التهريب، الهجرة غير النظامية، الاتجار بالأشخاص، الإرهاب) وأثرها على الأمن الوطني",
+          "text_fr": "Comprendre les grands phénomènes frontaliers (contrebande, migration irrégulière, traite des personnes, terrorisme) et leur impact sur la sécurité nationale"
+        },
+        {
+          "key": "spec.garde-nationale.institution.frontieres.o2",
+          "text_ar": "معرفة الإطار العام لمكافحة الإرهاب (القانون الأساسي عدد 26 لسنة 2015 كما تم تنقيحه) والتنسيق مع الجيش والديوانة",
+          "text_fr": "Connaître le cadre général de la lutte antiterroriste (loi organique n° 2015-26 telle que modifiée) et la coordination avec l'armée et la douane"
+        },
+        {
+          "key": "spec.garde-nationale.institution.frontieres.o3",
+          "text_ar": "معرفة جغرافيا الحدود التونسية (الجزائر، ليبيا، السواحل) والولايات الحدودية",
+          "text_fr": "Connaître la géographie des frontières tunisiennes (Algérie, Libye, littoral) et les gouvernorats frontaliers"
+        }
+      ]
+    },
+    {
+      "key": "spec.garde-nationale.institution.circulation",
+      "parent_key": "spec.garde-nationale.institution",
+      "level": "TOPIC",
+      "title_ar": "السلامة المرورية ومجلة الطرقات",
+      "title_fr": "Sécurité routière et code de la route",
+      "scope": "SUGGESTED",
+      "source_key": null,
+      "objectives": [
+        {
+          "key": "spec.garde-nationale.institution.circulation.o1",
+          "text_ar": "معرفة المبادئ الأساسية لمجلة الطرقات (القانون عدد 71 لسنة 1999): الإشارات، والأولوية، والسرعة، والمخالفات الكبرى",
+          "text_fr": "Connaître les bases du code de la route (loi n° 99-71) : signalisation, priorités, vitesses, principales infractions"
+        },
+        {
+          "key": "spec.garde-nationale.institution.circulation.o2",
+          "text_ar": "معرفة دور وحدات المرور في الحوادث: تأمين المكان، والإسعاف، والمعاينة",
+          "text_fr": "Connaître le rôle des unités de la circulation lors d'un accident : sécurisation des lieux, secours, constat"
+        }
+      ]
+    },
+    {
+      "key": "spec.garde-nationale.mecanique-auto",
+      "parent_key": null,
+      "level": "UNIT",
+      "title_ar": "صيانة العربات والمحركات",
+      "title_fr": "Maintenance des véhicules et moteurs",
+      "scope": "SUGGESTED",
+      "source_key": "s3",
+      "objectives": [
+        {
+          "key": "spec.garde-nationale.mecanique-auto.o1",
+          "text_ar": "التحكم في المعارف التقنية الأساسية لصيانة أسطول عربات ودراجات نارية لوحدة أمنية",
+          "text_fr": "Maîtriser les bases techniques de l'entretien du parc de véhicules et de motos d'une unité de sécurité"
+        }
+      ]
+    },
+    {
+      "key": "spec.garde-nationale.mecanique-auto.moteurs",
+      "parent_key": "spec.garde-nationale.mecanique-auto",
+      "level": "TOPIC",
+      "title_ar": "المحركات الحرارية (بنزين وديزل)",
+      "title_fr": "Moteurs thermiques (essence et diesel)",
+      "scope": "SUGGESTED",
+      "source_key": null,
+      "objectives": [
+        {
+          "key": "spec.garde-nationale.mecanique-auto.moteurs.o1",
+          "text_ar": "شرح دورة المحرك رباعي الأشواط والفرق بين الاشتعال بالشرارة والاشتعال بالضغط",
+          "text_fr": "Expliquer le cycle à 4 temps et la différence entre allumage commandé et allumage par compression"
+        },
+        {
+          "key": "spec.garde-nationale.mecanique-auto.moteurs.o2",
+          "text_ar": "معرفة أنظمة التوزيع والتزييت والتبريد والحقن وأعطالها الشائعة",
+          "text_fr": "Connaître la distribution, la lubrification, le refroidissement, l'injection et leurs pannes courantes"
+        }
+      ]
+    },
+    {
+      "key": "spec.garde-nationale.mecanique-auto.transmission-liaison",
+      "parent_key": "spec.garde-nationale.mecanique-auto",
+      "level": "TOPIC",
+      "title_ar": "نقل الحركة والفرامل والتوجيه والتعليق",
+      "title_fr": "Transmission, freinage, direction, suspension",
+      "scope": "SUGGESTED",
+      "source_key": null,
+      "objectives": [
+        {
+          "key": "spec.garde-nationale.mecanique-auto.transmission-liaison.o1",
+          "text_ar": "معرفة دور القابض وعلبة السرعات والناقل والتفاضلي",
+          "text_fr": "Connaître le rôle de l'embrayage, de la boîte de vitesses, de la transmission et du différentiel"
+        },
+        {
+          "key": "spec.garde-nationale.mecanique-auto.transmission-liaison.o2",
+          "text_ar": "تشخيص أعطال الفرامل والتوجيه والتعليق والإطارات وطرق صيانتها",
+          "text_fr": "Diagnostiquer et entretenir le freinage, la direction, la suspension et les pneumatiques"
+        }
+      ]
+    },
+    {
+      "key": "spec.garde-nationale.mecanique-auto.electricite-auto",
+      "parent_key": "spec.garde-nationale.mecanique-auto",
+      "level": "TOPIC",
+      "title_ar": "كهرباء السيارات والتشخيص",
+      "title_fr": "Électricité automobile et diagnostic",
+      "scope": "SUGGESTED",
+      "source_key": null,
+      "objectives": [
+        {
+          "key": "spec.garde-nationale.mecanique-auto.electricite-auto.o1",
+          "text_ar": "معرفة البطارية والمشغل والمولد ودارات الإنارة وقراءة رسم كهربائي بسيط",
+          "text_fr": "Connaître la batterie, le démarreur, l'alternateur et les circuits d'éclairage, et lire un schéma électrique simple"
+        },
+        {
+          "key": "spec.garde-nationale.mecanique-auto.electricite-auto.o2",
+          "text_ar": "استعمال أجهزة القيس (المقياس المتعدد) وجهاز التشخيص الإلكتروني",
+          "text_fr": "Utiliser les appareils de mesure (multimètre) et la valise de diagnostic"
+        }
+      ]
+    },
+    {
+      "key": "spec.garde-nationale.mecanique-auto.atelier",
+      "parent_key": "spec.garde-nationale.mecanique-auto",
+      "level": "TOPIC",
+      "title_ar": "تنظيم الورشة والسلامة والصيانة الدورية",
+      "title_fr": "Atelier, sécurité et entretien périodique",
+      "scope": "SUGGESTED",
+      "source_key": null,
+      "objectives": [
+        {
+          "key": "spec.garde-nationale.mecanique-auto.atelier.o1",
+          "text_ar": "تطبيق قواعد الصحة والسلامة المهنية في الورشة وحسن استعمال المعدات",
+          "text_fr": "Appliquer les règles d'hygiène et de sécurité à l'atelier et bien utiliser l'outillage"
+        },
+        {
+          "key": "spec.garde-nationale.mecanique-auto.atelier.o2",
+          "text_ar": "تخطيط الصيانة الوقائية الدورية ومسك سجل صيانة العربات",
+          "text_fr": "Planifier l'entretien préventif périodique et tenir le carnet d'entretien des véhicules"
+        }
+      ]
+    },
+    {
+      "key": "spec.garde-nationale.analyse-situations",
+      "parent_key": null,
+      "level": "UNIT",
+      "title_ar": "تحليل الوضعيات المهنية (ضباط)",
+      "title_fr": "Analyse de situations professionnelles (officiers)",
+      "scope": "SUGGESTED",
+      "source_key": "s12",
+      "objectives": [
+        {
+          "key": "spec.garde-nationale.analyse-situations.o1",
+          "text_ar": "تحليل وضعية ميدانية واقتراح قرار قيادي يحترم القانون وحقوق الإنسان",
+          "text_fr": "Analyser une situation de terrain et proposer une décision de commandement respectueuse du droit et des droits de l'homme"
+        },
+        {
+          "key": "spec.garde-nationale.analyse-situations.o2",
+          "text_ar": "تحرير تقرير أو محضر إداري منظم وموجز",
+          "text_fr": "Rédiger un rapport ou un compte rendu administratif structuré et concis"
+        }
+      ]
+    }
+  ],
+  "past_exams": [],
+  "tips_ar": [
+    "تابع الإعلانات على موقع وزارة الداخلية (صنف الإعلانات والمناظرات) والصفحة الرسمية للإدارة العامة للحرس الوطني، وسجل فقط عبر المنصة المذكورة في الإعلان الرسمي.",
+    "احذر الصفحات التي تطلب مالا مقابل «التسجيل» أو «ضمان النجاح»، فالمناظرات الرسمية لا تمر عبر وسطاء.",
+    "الكتابي للعرفاء باللغة العربية: تدرب على تحرير موضوع في الثقافة العامة في 300 إلى 400 كلمة (مقدمة، جوهر في محورين، خاتمة) مع أسلوب سليم وخال من الأخطاء.",
+    "راجع تاريخ تونس وجغرافيتها، خاصة الولايات الحدودية والسواحل، والمؤسسات والدستور والأحداث الوطنية والدولية لآخر 12 شهرا.",
+    "تحقق من سنك بتاريخ الاحتساب المذكور في الإعلان، ومن طولك وبصرك قبل التسجيل، لأن هذه الشروط تقصي مباشرة.",
+    "ابدأ التحضير البدني قبل الإعلان بثلاثة أشهر على الأقل (تحمل، سرعة، عقلة، دفع)، لأن الفترة بين الكتابي والرياضي قد تكون قصيرة.",
+    "استخرج البطاقة عدد 3 مبكرا وجهز نسخ الوثائق والظروف مسبقا، وأرسل الملف بالبريد مضمون الوصول واحتفظ بالوصل.",
+    "بالنسبة للوحدات الحدودية، حضّر إجابة صادقة ومقنعة أمام اللجنة حول استعدادك للعمل في مناطق نائية وفي ظروف صعبة.",
+    "لمناظرة الرقباء الفنيين: راجع أساسيات الميكانيك وكهرباء السيارات وتدرب على أسئلة الاستدلال الميكانيكي."
+  ],
+  "tips_fr": [
+    "Suivez les avis sur le site du ministère de l'Intérieur (rubrique annonces/concours) et la page officielle de la Direction générale de la Garde nationale. Inscrivez-vous uniquement via la plateforme indiquée dans l'avis officiel.",
+    "Méfiez-vous des pages qui demandent de l'argent pour « l'inscription » ou une « réussite garantie » : les concours officiels ne passent pas par des intermédiaires.",
+    "L'écrit des caporaux est en arabe : entraînez-vous à rédiger un sujet de culture générale de 300 à 400 mots (introduction, développement en deux axes, conclusion) dans une langue correcte.",
+    "Révisez l'histoire et la géographie de la Tunisie (surtout les gouvernorats frontaliers et le littoral), les institutions et la Constitution, ainsi que l'actualité nationale et internationale des 12 derniers mois.",
+    "Vérifiez votre âge à la date de référence de l'avis, votre taille et votre vue avant de vous inscrire : ces conditions sont éliminatoires d'office.",
+    "Commencez la préparation physique au moins 3 mois avant l'avis (endurance, vitesse, tractions, pompes), car le délai entre l'écrit et le sport peut être court.",
+    "Demandez le bulletin n° 3 tôt et préparez les copies et enveloppes à l'avance. Envoyez le dossier en recommandé et gardez le reçu.",
+    "Pour les unités frontalières, préparez une réponse sincère et convaincante devant le jury sur votre disponibilité à servir en zone isolée et dans des conditions difficiles.",
+    "Pour les sergents techniciens : révisez les bases de la mécanique et de l'électricité automobile et entraînez-vous au raisonnement mécanique."
+  ],
+  "research_notes": "LIMITE MÉTHODOLOGIQUE (importante) : pendant cette passe, AUCUN accès web direct n'a été possible. Le budget WebSearch partagé du workflow était déjà épuisé dès la 1re requête, et WebFetch est bloqué par le proxy pour tous les domaines essayés (tuniscope.com, lapresse.tn, interieur.gov.tn, concours.gov.tn, orientini.com, ar.wikipedia.org). Le fichier repose donc uniquement sur la recherche faite plus tôt dans ce même workflow, d'après des résumés du moteur de recherche (content/competitions/_openings.json ; docs/research/01-market-raw.md ; sources des familles police-*). Aucun texte officiel n'a été lu en entier. Tous les source_quote sont à null, faute de citation verbatim. Les URL citées sont celles qui figurent dans ces fichiers.\n\nFAIT RETENU COMME SOLIDE (needs_verification=false, MEDIUM) : uniquement l'édition 2026 des caporaux (hommes) pour les unités frontalières avancées. Deux relais presse indépendants et concordants (s1 Tuniscope, s2 La Presse) donnent l'inscription du 05 au 24/08/2026 et la visite médicale + l'écrit à partir du 26/10/2026. Au 07/10/2026, l'inscription est close et les épreuves n'ont pas encore commencé (statut CLOSED).\n\nÀ VÉRIFIER (needs_verification=true) : (a) nombre de postes de chaque concours : inconnu. Le chiffre de 1 500 recrutements à la Garde nationale en 2026 (s6, s7) est un objectif budgétaire global, pas un nombre de postes par concours. Le nombre de candidats n'est publié pour aucune session. (b) Caporaux 2026 : niveau exact (4e année secondaire « achevée » ?), date de référence de l'âge, dérogation pour service militaire, taille (1,70 m déduite), vue (15/20 déduite), frais, liste des pièces, plateforme d'inscription (URL inconnue), ordre médical/écrit. (c) Format de l'écrit des caporaux (arabe : rédaction de culture générale + QCM) : vient d'un communiqué officiel d'une session ANTÉRIEURE (interieur.gov.tn/actualite/30310, s4). Son année est estimée à 2023 d'après la numérotation des actualités du site. (d) Sergents 2026 (s3, source unique, confiance LOW dans _openings.json) : 9e année de base, 20–22 ans, 1,70 m, 15/20, écrit en arabe le 27/07/2026, puis médical, physique, oral et test psychologique. Dates d'inscription et nombre de postes inconnus. L'exigence d'un CAP/BTP dans la spécialité est une SUGGESTION. (e) Lieutenants principaux : seul le TITRE d'une annonce 2023 a été vu (s5). Toute la position (bac+5, 20–30 ans, 1,70/1,65 m, ouverture aux femmes, phases) est construite PAR ANALOGIE avec le concours des lieutenants principaux de la Sûreté nationale 2026 (s12). Confiance LOW. (f) Aucun barème sportif public. Les épreuves listées dans physical_tests (demi-fond, sprint, tractions…) sont des suggestions d'entraînement, pas des épreuves officielles. (g) Pièces du dossier : listes construites par analogie avec la Sûreté nationale (s13, fiche SICAD). (h) Durée et lieu de la formation de base : non trouvés (consulter le décret 2006-1166, s8). (i) Coefficients, durées et nombre de questions : non publiés, donc tous les blueprints sont APPROXIMATED. La rédaction de culture générale n'est pas modélisée en questions. (j) L'édition 2027 EXPECTED est une estimation éditoriale (rythme annuel supposé + objectif de 1 500 recrutements). (k) Les objectifs du syllabus qui citent des textes (loi n° 82-70 sur le statut général des forces de sécurité intérieure, loi organique n° 2015-26 sur le terrorisme, loi n° 99-71 sur le code de la route) viennent de connaissances générales, sans source consultée. À vérifier sur legislation.tn / iort.gov.tn.\n\nÀ RECHERCHER EN PRIORITÉ par l'équipe admin : (1) l'avis officiel des caporaux 2026 sur interieur.gov.tn (rubrique s10) ou sur la page officielle de la Garde nationale (nombre de postes, pièces, plateforme, frais) ; (2) l'avis des sergents 2026 (spécialités exactes, dates d'inscription) ; (3) le statut particulier du corps de la Garde nationale (décret d'avril 2006 de la même série que le 2006-1160 de la Sûreté ; numéro exact à vérifier sur iort.gov.tn) pour les grades et les conditions par grade ; (4) d'autres types de recrutement possibles : caporaux en session mixte (H/F), sergents dans d'autres spécialités (informatique, transmissions, santé…), sous-lieutenants (licence). Les unités spécialisées (garde maritime, unité spéciale USGN, brigades d'intervention) semblent recruter surtout en interne parmi les agents en poste, ce qui reste une hypothèse non vérifiée. (5) annales : aucune annale officielle ou communautaire de la Garde nationale n'a été identifiée, d'où past_exams vide.\n\nNE PAS CONFONDRE : caporal de la Garde nationale (عريف, 4e année secondaire, 20–24 ans), gardien de la paix de la Sûreté nationale (حافظ أمن, famille police-gardien-paix) et caporal de la Protection civile (autre famille). Ne pas confondre non plus le sergent de la Garde nationale (رقيب, 9e année de base, 20–22 ans) avec le sergent de la Sûreté nationale. Les avocats et magistrats sont hors périmètre."
+}

@@ -1,0 +1,1780 @@
+{
+ "family": {
+  "slug": "sante-residanat",
+  "field": "HEALTH",
+  "organization": {
+   "slug": "ministere-sante",
+   "name_ar": "وزارة الصحة",
+   "name_fr": "Ministère de la Santé",
+   "ministry_fr": "Ministère de la Santé",
+   "website": "http://www.santetunisie.rns.tn"
+  },
+  "name_ar": "مناظرة الإقامة في الطب والصيدلة وطب الأسنان",
+  "name_fr": "Concours national de résidanat (médecine, pharmacie, médecine dentaire)",
+  "description_ar": "مناظرة وطنية تفتح باب التكوين في الاختصاص (الإقامة / Résidanat) أمام طلبة الطب الذين أنهوا المرحلة الثانية من الدراسات الطبية وأمام خريجي كليات الطب. حسب ما هو متداول، تُنظَّم المناظرة سنويا بالتنسيق بين وزارة الصحة ووزارة التعليم العالي والبحث العلمي عبر كليات الطب (تونس، سوسة، المنستير، صفاقس)، في شكل اختبارات كتابية موحدة (أسئلة متعددة الاختيارات وحالات سريرية) حول برنامج محدد بقائمة مواضيع. يُرتَّب الناجحون حسب الجدارة ثم يختارون الاختصاص ومكان التكوين حسب رتبتهم، وتدوم الإقامة عادة من 3 إلى 5 سنوات حسب الاختصاص وتُتوَّج بشهادة طبيب مختص. توجد مناظرتان مماثلتان للإقامة في الصيدلة وفي طب الأسنان. تنبيه: لم يتسنَّ الاطلاع على أي نص رسمي (قرار فتح، بلاغ، الرائد الرسمي) أثناء هذا البحث؛ كل التفاصيل (الشروط، شكل الاختبارات، الرزنامة، عدد الخطط) مقترحة من فريق التحرير وتحتاج إلى تثبت قبل اعتمادها.",
+  "description_fr": "Concours national donnant accès à la formation de spécialité (résidanat) aux étudiants en médecine ayant achevé le 2e cycle des études médicales et aux diplômés des facultés de médecine. Selon les usages connus, il est organisé chaque année conjointement par le ministère de la Santé et le ministère de l'Enseignement supérieur et de la Recherche scientifique, via les facultés de médecine (Tunis, Sousse, Monastir, Sfax), sous forme d'épreuves écrites communes (QCM et cas cliniques) portant sur un programme défini par une liste de thèmes. Les lauréats sont classés par ordre de mérite puis choisissent leur spécialité et leur lieu de formation selon leur rang ; le résidanat dure généralement de 3 à 5 ans selon la spécialité et aboutit au diplôme de médecin spécialiste. Des concours analogues existent pour le résidanat en pharmacie et en médecine dentaire. Attention : aucun texte officiel (arrêté d'ouverture, avis, JORT) n'a pu être consulté lors de cette recherche ; tous les détails (conditions, format des épreuves, calendrier, nombre de postes) sont des SUGGESTIONS de l'équipe éditoriale à vérifier avant publication.",
+  "frequency": "ANNUAL",
+  "frequency_confidence": "LOW",
+  "popularity": 2,
+  "keywords": [
+   "résidanat",
+   "residanat",
+   "concours de résidanat",
+   "résident",
+   "résident en médecine",
+   "résidanat pharmacie",
+   "résidanat médecine dentaire",
+   "spécialité médicale",
+   "choix de spécialité",
+   "médecine de famille",
+   "QCM médecine",
+   "cas cliniques",
+   "internat",
+   "faculté de médecine",
+   "مناظرة الإقامة",
+   "الإقامة في الطب",
+   "مقيم",
+   "طبيب مقيم",
+   "الإقامة في الصيدلة",
+   "الإقامة في طب الأسنان",
+   "اختصاص طبي",
+   "طب العائلة",
+   "كلية الطب"
+  ]
+ },
+ "sources": [
+  {
+   "key": "s1",
+   "title": "Santé publique : 544 postes ouverts dont 434 médecins spécialistes (Webdo)",
+   "url": "https://www.webdo.tn/fr/actualite/national/sante-publique-544-postes-ouverts-dont-434-medecins-specialistes/403571/",
+   "publisher": "Webdo",
+   "source_type": "SECONDARY",
+   "publication_date": null,
+   "retrieved_at": "2026-10-07",
+   "confidence": "LOW",
+   "notes": "Contexte de carrière APRÈS le résidanat (recrutement de médecins spécialistes de la santé publique par concours sur titres et travaux, 2026), pas le concours de résidanat lui-même. PAGE NON OUVERTE dans cette passe (WebFetch : EGRESS_BLOCKED pour www.webdo.tn ; quota WebSearch épuisé) : le chiffre (544 postes dont 434 spécialistes ; épreuve sur titres à partir du 16/11/2026) provient du résumé consigné le même jour dans docs/research/01-market-raw.md et content/competitions/_openings.json. Titre reconstitué à partir de l'URL. Non utilisé comme source d'un fait de cette famille."
+  }
+ ],
+ "editions": [
+  {
+   "year": 2026,
+   "session_label": "الدورة السنوية 2026 (متوقعة، الرزنامة غير مؤكدة) / Session annuelle 2026 (attendue, calendrier non confirmé)",
+   "status": "EXPECTED",
+   "registration_open": null,
+   "registration_deadline": null,
+   "exam_date": null,
+   "positions_count": null,
+   "candidates_count": null,
+   "source_key": null,
+   "confidence": "LOW",
+   "needs_verification": true
+  }
+ ],
+ "positions": [
+  {
+   "slug": "resident-medecine",
+   "title_ar": "مقيم في الطب (طب العائلة والاختصاصات الطبية والجراحية والبيولوجية)",
+   "title_fr": "Résident en médecine (médecine de famille, spécialités médicales, chirurgicales et biologiques)",
+   "diploma_level": "MEDICINE",
+   "eligibility": {
+    "min_age": null,
+    "max_age": null,
+    "genders": [
+     "M",
+     "F"
+    ],
+    "nationality": "TN",
+    "diplomas": [
+     "MEDICINE"
+    ],
+    "specialties": [
+     "médecine",
+     "medicine",
+     "طب"
+    ],
+    "min_height_cm_male": null,
+    "min_height_cm_female": null,
+    "marital_status": null,
+    "other_ar": [
+     "[مقترح] طالب في الطب أتمّ بنجاح المرحلة الثانية من الدراسات الطبية أو بصدد التربص الداخلي (Interne)، أو متحصل على الدكتوراه في الطب، حسب ما يحدده قرار فتح المناظرة — المستوى الدقيق المطلوب غير مؤكد",
+     "[مقترح] لا يُعرف أي شرط للسن أو للطول أو للحالة المدنية: المناظرة مفتوحة للذكور والإناث",
+     "[مقترح] قد يكون عدد مرات المشاركة في المناظرة محدودا وقد يُشترط اجتيازها في أجل معين بعد إتمام الدراسة — للتثبت في النص الترتيبي",
+     "[مقترح] الجنسية التونسية للخطط الوطنية؛ يُرجَّح وجود خطط مخصصة للمترشحين الأجانب بشروط خاصة — للتثبت",
+     "[مقترح] التسجيل وجوبا في الآجال عبر المنصة أو الكلية المحددة في بلاغ فتح المناظرة"
+    ],
+    "other_fr": [
+     "[Suggestion] Étudiant en médecine ayant validé le 2e cycle des études médicales ou en cours d'internat, ou titulaire du doctorat en médecine, selon l'arrêté d'ouverture — niveau exact requis non confirmé",
+     "[Suggestion] Aucune condition d'âge, de taille ou de situation familiale connue : concours ouvert aux hommes et aux femmes",
+     "[Suggestion] Le nombre de participations au concours pourrait être limité, avec éventuellement un délai maximal après la fin des études — à vérifier dans le texte réglementaire",
+     "[Suggestion] Nationalité tunisienne pour les postes nationaux ; des postes réservés aux candidats étrangers, à conditions particulières, sont probables — à vérifier",
+     "[Suggestion] Inscription obligatoire dans les délais sur la plateforme ou auprès de la faculté désignée par l'avis d'ouverture"
+    ],
+    "source_key": null,
+    "confidence": "LOW",
+    "needs_verification": true,
+    "source_quote": null
+   },
+   "phases": [
+    {
+     "order": 1,
+     "kind": "WRITTEN",
+     "name_ar": "المرحلة الأولى: الاختبارات الكتابية الوطنية (أسئلة متعددة الاختيارات وحالات سريرية)",
+     "name_fr": "Phase 1 : épreuves écrites nationales (QCM et cas cliniques)",
+     "is_eliminatory": true,
+     "duration_minutes": null,
+     "description_ar": "[مقترح] اختبارات كتابية موحدة ومجهولة الهوية تُجرى في نفس اليوم بكل الكليات، حول برنامج الإقامة في الطب المحدد بقائمة مواضيع (أسئلة متعددة الاختيارات بإجابة أو عدة إجابات صحيحة وحالات سريرية متدرجة). ينتج عنها ترتيب وطني حسب الجدارة. عدد الاختبارات وعدد الأسئلة والمدة وطريقة التنقيط (خاصة احتساب الإجابات الجزئية أو الخاطئة) والضوارب غير مؤكدة.",
+     "description_fr": "[Suggestion] Épreuves écrites communes et anonymes, le même jour dans toutes les facultés, portant sur le programme du résidanat en médecine défini par une liste de thèmes (QCM à une ou plusieurs réponses justes et cas cliniques progressifs). Elles produisent un classement national par ordre de mérite. Nombre d'épreuves, nombre de questions, durée, barème (notamment traitement des réponses partiellement justes ou fausses) et coefficients non confirmés.",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "order": 2,
+     "kind": "FILE_REVIEW",
+     "name_ar": "المرحلة الثانية: الترتيب واختيار الاختصاص ومكان التكوين",
+     "name_fr": "Phase 2 : classement et choix de la spécialité et du lieu de formation",
+     "is_eliminatory": false,
+     "duration_minutes": null,
+     "description_ar": "[مقترح] بعد الإعلان عن النتائج، يختار المترشحون حسب رتبتهم الاختصاص والكلية/الجهة من بين الخطط المفتوحة لكل اختصاص (حضوريا أو عبر منصة إلكترونية). عدد الخطط لكل اختصاص يُضبط سنويا. قد تُخصص خطط للمترشحين الأجانب. للتثبت.",
+     "description_fr": "[Suggestion] Après la publication des résultats, les candidats choisissent, dans l'ordre de leur rang, la spécialité et la faculté/région parmi les postes ouverts pour chaque spécialité (séance présentielle ou plateforme en ligne). Le nombre de postes par spécialité est fixé chaque année ; des postes peuvent être réservés aux candidats étrangers. À vérifier.",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "order": 3,
+     "kind": "TRAINING",
+     "name_ar": "المرحلة الثالثة: الإقامة (التكوين في الاختصاص)",
+     "name_fr": "Phase 3 : résidanat (formation de spécialité)",
+     "is_eliminatory": false,
+     "duration_minutes": null,
+     "description_ar": "[مقترح] يباشر المقيم تكوينه في الاختصاص الذي اختاره بالمستشفيات الجامعية والجهوية عبر تربصات سداسية، بصفة مقيم يتقاضى منحة/أجرا. تدوم الإقامة عادة من 3 إلى 5 سنوات حسب الاختصاص (طب العائلة، الاختصاصات الطبية، الجراحية، البيولوجية) وتُختم بمذكرة واختبار نهاية الاختصاص للحصول على شهادة طبيب مختص. قد تترتب عنها التزامات بالعمل في القطاع العمومي. المدد والشروط للتثبت.",
+     "description_fr": "[Suggestion] Le résident se forme dans la spécialité choisie, dans les CHU et hôpitaux régionaux, par stages semestriels, avec un statut de résident rémunéré. Durée habituelle de 3 à 5 ans selon la spécialité (médecine de famille, spécialités médicales, chirurgicales, biologiques), validée par un mémoire et un examen de fin de spécialité donnant le diplôme de médecin spécialiste. Des obligations de service dans le secteur public peuvent s'y attacher. Durées et conditions à vérifier.",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    }
+   ],
+   "subjects": [
+    {
+     "phase_order": 1,
+     "domain": "SPECIALTY",
+     "specialty_key": "spec.sante-residanat.med.cardio-vasculaire",
+     "name_ar": "أمراض القلب والشرايين (ارتفاع ضغط الدم، المتلازمة التاجية الحادة، قصور القلب، الانصمام الرئوي)",
+     "name_fr": "Cardiologie et pathologie vasculaire (HTA, SCA, insuffisance cardiaque, maladie thrombo-embolique)",
+     "coefficient": null,
+     "duration_minutes": null,
+     "question_count": null,
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "phase_order": 1,
+     "domain": "SPECIALTY",
+     "specialty_key": "spec.sante-residanat.med.pneumologie",
+     "name_ar": "أمراض الرئة (الربو، الانسداد الرئوي المزمن، الالتهابات الرئوية، السل)",
+     "name_fr": "Pneumologie (asthme, BPCO, pneumonies, tuberculose)",
+     "coefficient": null,
+     "duration_minutes": null,
+     "question_count": null,
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "phase_order": 1,
+     "domain": "SPECIALTY",
+     "specialty_key": "spec.sante-residanat.med.gastro-hepatologie",
+     "name_ar": "أمراض الجهاز الهضمي والكبد",
+     "name_fr": "Gastro-entérologie et hépatologie",
+     "coefficient": null,
+     "duration_minutes": null,
+     "question_count": null,
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "phase_order": 1,
+     "domain": "SPECIALTY",
+     "specialty_key": "spec.sante-residanat.med.nephro-urologie",
+     "name_ar": "أمراض الكلى والمسالك البولية واضطرابات الماء والأملاح",
+     "name_fr": "Néphrologie, urologie et troubles hydro-électrolytiques",
+     "coefficient": null,
+     "duration_minutes": null,
+     "question_count": null,
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "phase_order": 1,
+     "domain": "SPECIALTY",
+     "specialty_key": "spec.sante-residanat.med.endocrinologie",
+     "name_ar": "الغدد الصماء والسكري",
+     "name_fr": "Endocrinologie, diabète et métabolisme",
+     "coefficient": null,
+     "duration_minutes": null,
+     "question_count": null,
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "phase_order": 1,
+     "domain": "SPECIALTY",
+     "specialty_key": "spec.sante-residanat.med.neurologie",
+     "name_ar": "أمراض الأعصاب",
+     "name_fr": "Neurologie",
+     "coefficient": null,
+     "duration_minutes": null,
+     "question_count": null,
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "phase_order": 1,
+     "domain": "SPECIALTY",
+     "specialty_key": "spec.sante-residanat.med.psychiatrie",
+     "name_ar": "الطب النفسي",
+     "name_fr": "Psychiatrie",
+     "coefficient": null,
+     "duration_minutes": null,
+     "question_count": null,
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "phase_order": 1,
+     "domain": "SPECIALTY",
+     "specialty_key": "spec.sante-residanat.med.infectiologie",
+     "name_ar": "الأمراض المعدية (بما فيها الأمراض المتوطنة في تونس)",
+     "name_fr": "Maladies infectieuses (dont pathologies endémiques en Tunisie)",
+     "coefficient": null,
+     "duration_minutes": null,
+     "question_count": null,
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "phase_order": 1,
+     "domain": "SPECIALTY",
+     "specialty_key": "spec.sante-residanat.med.hematologie-oncologie",
+     "name_ar": "أمراض الدم والأورام",
+     "name_fr": "Hématologie et oncologie",
+     "coefficient": null,
+     "duration_minutes": null,
+     "question_count": null,
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "phase_order": 1,
+     "domain": "SPECIALTY",
+     "specialty_key": "spec.sante-residanat.med.pediatrie",
+     "name_ar": "طب الأطفال",
+     "name_fr": "Pédiatrie",
+     "coefficient": null,
+     "duration_minutes": null,
+     "question_count": null,
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "phase_order": 1,
+     "domain": "SPECIALTY",
+     "specialty_key": "spec.sante-residanat.med.gyneco-obstetrique",
+     "name_ar": "أمراض النساء والتوليد",
+     "name_fr": "Gynécologie-obstétrique",
+     "coefficient": null,
+     "duration_minutes": null,
+     "question_count": null,
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "phase_order": 1,
+     "domain": "SPECIALTY",
+     "specialty_key": "spec.sante-residanat.med.chirurgie-urgences",
+     "name_ar": "الجراحة العامة والاستعجالي والإنعاش",
+     "name_fr": "Chirurgie générale, urgences et réanimation",
+     "coefficient": null,
+     "duration_minutes": null,
+     "question_count": null,
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "phase_order": 1,
+     "domain": "SPECIALTY",
+     "specialty_key": "spec.sante-residanat.med.appareil-locomoteur",
+     "name_ar": "الجهاز الحركي (أمراض المفاصل وجراحة العظام)",
+     "name_fr": "Appareil locomoteur (rhumatologie, orthopédie-traumatologie)",
+     "coefficient": null,
+     "duration_minutes": null,
+     "question_count": null,
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "phase_order": 1,
+     "domain": "SPECIALTY",
+     "specialty_key": "spec.sante-residanat.commun.pharmacologie-therapeutique",
+     "name_ar": "علم الأدوية والعلاج",
+     "name_fr": "Pharmacologie et thérapeutique",
+     "coefficient": null,
+     "duration_minutes": null,
+     "question_count": null,
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "phase_order": 1,
+     "domain": "SPECIALTY",
+     "specialty_key": "spec.sante-residanat.commun.sante-publique-epidemiologie",
+     "name_ar": "الصحة العمومية وعلم الأوبئة والأخلاقيات",
+     "name_fr": "Santé publique, épidémiologie et éthique",
+     "coefficient": null,
+     "duration_minutes": null,
+     "question_count": null,
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "phase_order": 1,
+     "domain": "SPECIALTY",
+     "specialty_key": "spec.sante-residanat.med",
+     "name_ar": "حالات سريرية متدرجة متعددة الاختصاصات",
+     "name_fr": "Cas cliniques progressifs transversaux",
+     "coefficient": null,
+     "duration_minutes": null,
+     "question_count": null,
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    }
+   ],
+   "physical_tests": [],
+   "required_documents": [
+    {
+     "text_ar": "استمارة الترشح المعمرة عن بعد عبر المنصة المحددة في بلاغ الفتح، مطبوعة وممضاة",
+     "text_fr": "Formulaire de candidature rempli en ligne sur la plateforme indiquée par l'avis d'ouverture, imprimé et signé",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "text_ar": "نسخة من بطاقة التعريف الوطنية (أو جواز السفر بالنسبة إلى المترشحين الأجانب)",
+     "text_fr": "Copie de la carte d'identité nationale (ou du passeport pour les candidats étrangers)",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "text_ar": "شهادة نجاح أو كشف أعداد يثبت إتمام المرحلة الثانية من الدراسات الطبية، أو شهادة ترسيم بالتربص الداخلي، أو نسخة من شهادة الدكتوراه في الطب",
+     "text_fr": "Attestation de réussite ou relevé de notes validant le 2e cycle des études médicales, attestation d'inscription en internat, ou copie du diplôme de docteur en médecine",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "text_ar": "صور شمسية حديثة",
+     "text_fr": "Photos d'identité récentes",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "text_ar": "وصل خلاص معاليم التسجيل إن وُجدت",
+     "text_fr": "Reçu de paiement des frais d'inscription, le cas échéant",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "text_ar": "بالنسبة إلى المترشحين الأجانب: مراسلة أو ترخيص من الجهة المعنية (سفارة أو هيكل التعاون)",
+     "text_fr": "Pour les candidats étrangers : lettre ou autorisation de l'organisme concerné (ambassade ou structure de coopération)",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "text_ar": "عند الالتحاق بالإقامة: شهادة طبية في القدرة على العمل",
+     "text_fr": "À l'affectation en résidanat : certificat médical d'aptitude",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    }
+   ],
+   "blueprint": {
+    "total_minutes": 180,
+    "fidelity": "APPROXIMATED",
+    "sections": [
+     {
+      "domain": "SPECIALTY",
+      "specialty_key": "spec.sante-residanat.med.cardio-vasculaire",
+      "count": 12,
+      "minutes": 15
+     },
+     {
+      "domain": "SPECIALTY",
+      "specialty_key": "spec.sante-residanat.med.pneumologie",
+      "count": 8,
+      "minutes": 10
+     },
+     {
+      "domain": "SPECIALTY",
+      "specialty_key": "spec.sante-residanat.med.gastro-hepatologie",
+      "count": 10,
+      "minutes": 12
+     },
+     {
+      "domain": "SPECIALTY",
+      "specialty_key": "spec.sante-residanat.med.nephro-urologie",
+      "count": 8,
+      "minutes": 10
+     },
+     {
+      "domain": "SPECIALTY",
+      "specialty_key": "spec.sante-residanat.med.endocrinologie",
+      "count": 8,
+      "minutes": 10
+     },
+     {
+      "domain": "SPECIALTY",
+      "specialty_key": "spec.sante-residanat.med.neurologie",
+      "count": 7,
+      "minutes": 9
+     },
+     {
+      "domain": "SPECIALTY",
+      "specialty_key": "spec.sante-residanat.med.psychiatrie",
+      "count": 5,
+      "minutes": 6
+     },
+     {
+      "domain": "SPECIALTY",
+      "specialty_key": "spec.sante-residanat.med.infectiologie",
+      "count": 9,
+      "minutes": 11
+     },
+     {
+      "domain": "SPECIALTY",
+      "specialty_key": "spec.sante-residanat.med.hematologie-oncologie",
+      "count": 7,
+      "minutes": 9
+     },
+     {
+      "domain": "SPECIALTY",
+      "specialty_key": "spec.sante-residanat.med.pediatrie",
+      "count": 10,
+      "minutes": 12
+     },
+     {
+      "domain": "SPECIALTY",
+      "specialty_key": "spec.sante-residanat.med.gyneco-obstetrique",
+      "count": 9,
+      "minutes": 11
+     },
+     {
+      "domain": "SPECIALTY",
+      "specialty_key": "spec.sante-residanat.med.chirurgie-urgences",
+      "count": 10,
+      "minutes": 12
+     },
+     {
+      "domain": "SPECIALTY",
+      "specialty_key": "spec.sante-residanat.med.appareil-locomoteur",
+      "count": 4,
+      "minutes": 5
+     },
+     {
+      "domain": "SPECIALTY",
+      "specialty_key": "spec.sante-residanat.commun.pharmacologie-therapeutique",
+      "count": 5,
+      "minutes": 6
+     },
+     {
+      "domain": "SPECIALTY",
+      "specialty_key": "spec.sante-residanat.commun.sante-publique-epidemiologie",
+      "count": 5,
+      "minutes": 6
+     },
+     {
+      "domain": "SPECIALTY",
+      "specialty_key": "spec.sante-residanat.med",
+      "count": 18,
+      "minutes": 36
+     }
+    ]
+   }
+  },
+  {
+   "slug": "resident-pharmacie",
+   "title_ar": "مقيم في الصيدلة (البيولوجيا الطبية، الصيدلة الاستشفائية...)",
+   "title_fr": "Résident en pharmacie (biologie médicale, pharmacie hospitalière...)",
+   "diploma_level": "MEDICINE",
+   "eligibility": {
+    "min_age": null,
+    "max_age": null,
+    "genders": [
+     "M",
+     "F"
+    ],
+    "nationality": "TN",
+    "diplomas": [
+     "MEDICINE"
+    ],
+    "specialties": [
+     "pharmacie",
+     "pharmacy",
+     "صيدلة"
+    ],
+    "min_height_cm_male": null,
+    "min_height_cm_female": null,
+    "marital_status": null,
+    "other_ar": [
+     "[مقترح] طالب في الصيدلة في السنة الأخيرة من الدراسة أو متحصل على شهادة الدكتوراه في الصيدلة، حسب ما يحدده قرار فتح المناظرة — للتثبت (يرجح أن كلية الصيدلة بالمنستير هي المعنية بالتنظيم)",
+     "[مقترح] لا يُعرف أي شرط للسن أو للطول أو للحالة المدنية: المناظرة مفتوحة للذكور والإناث",
+     "[مقترح] قد يكون عدد مرات المشاركة في المناظرة محدودا وقد يُشترط اجتيازها في أجل معين بعد إتمام الدراسة — للتثبت في النص الترتيبي",
+     "[مقترح] الجنسية التونسية للخطط الوطنية؛ يُرجَّح وجود خطط مخصصة للمترشحين الأجانب بشروط خاصة — للتثبت",
+     "[مقترح] التسجيل وجوبا في الآجال عبر المنصة أو الكلية المحددة في بلاغ فتح المناظرة"
+    ],
+    "other_fr": [
+     "[Suggestion] Étudiant en dernière année de pharmacie ou titulaire du diplôme de docteur en pharmacie, selon l'arrêté d'ouverture — à vérifier (organisation probablement rattachée à la Faculté de pharmacie de Monastir)",
+     "[Suggestion] Aucune condition d'âge, de taille ou de situation familiale connue : concours ouvert aux hommes et aux femmes",
+     "[Suggestion] Le nombre de participations au concours pourrait être limité, avec éventuellement un délai maximal après la fin des études — à vérifier dans le texte réglementaire",
+     "[Suggestion] Nationalité tunisienne pour les postes nationaux ; des postes réservés aux candidats étrangers, à conditions particulières, sont probables — à vérifier",
+     "[Suggestion] Inscription obligatoire dans les délais sur la plateforme ou auprès de la faculté désignée par l'avis d'ouverture"
+    ],
+    "source_key": null,
+    "confidence": "LOW",
+    "needs_verification": true,
+    "source_quote": null
+   },
+   "phases": [
+    {
+     "order": 1,
+     "kind": "WRITTEN",
+     "name_ar": "المرحلة الأولى: الاختبارات الكتابية الوطنية (أسئلة متعددة الاختيارات وحالات سريرية)",
+     "name_fr": "Phase 1 : épreuves écrites nationales (QCM et cas cliniques)",
+     "is_eliminatory": true,
+     "duration_minutes": null,
+     "description_ar": "[مقترح] اختبارات كتابية موحدة ومجهولة الهوية تُجرى في نفس اليوم بكل الكليات، حول برنامج الإقامة في الصيدلة المحدد بقائمة مواضيع (أسئلة متعددة الاختيارات بإجابة أو عدة إجابات صحيحة وحالات سريرية متدرجة). ينتج عنها ترتيب وطني حسب الجدارة. عدد الاختبارات وعدد الأسئلة والمدة وطريقة التنقيط (خاصة احتساب الإجابات الجزئية أو الخاطئة) والضوارب غير مؤكدة.",
+     "description_fr": "[Suggestion] Épreuves écrites communes et anonymes, le même jour dans toutes les facultés, portant sur le programme du résidanat en pharmacie défini par une liste de thèmes (QCM à une ou plusieurs réponses justes et cas cliniques progressifs). Elles produisent un classement national par ordre de mérite. Nombre d'épreuves, nombre de questions, durée, barème (notamment traitement des réponses partiellement justes ou fausses) et coefficients non confirmés.",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "order": 2,
+     "kind": "FILE_REVIEW",
+     "name_ar": "المرحلة الثانية: الترتيب واختيار الاختصاص ومكان التكوين",
+     "name_fr": "Phase 2 : classement et choix de la spécialité et du lieu de formation",
+     "is_eliminatory": false,
+     "duration_minutes": null,
+     "description_ar": "[مقترح] بعد الإعلان عن النتائج، يختار المترشحون حسب رتبتهم الاختصاص والكلية/الجهة من بين الخطط المفتوحة لكل اختصاص (حضوريا أو عبر منصة إلكترونية). عدد الخطط لكل اختصاص يُضبط سنويا. قد تُخصص خطط للمترشحين الأجانب. للتثبت.",
+     "description_fr": "[Suggestion] Après la publication des résultats, les candidats choisissent, dans l'ordre de leur rang, la spécialité et la faculté/région parmi les postes ouverts pour chaque spécialité (séance présentielle ou plateforme en ligne). Le nombre de postes par spécialité est fixé chaque année ; des postes peuvent être réservés aux candidats étrangers. À vérifier.",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "order": 3,
+     "kind": "TRAINING",
+     "name_ar": "المرحلة الثالثة: الإقامة (التكوين في الاختصاص)",
+     "name_fr": "Phase 3 : résidanat (formation de spécialité)",
+     "is_eliminatory": false,
+     "duration_minutes": null,
+     "description_ar": "[مقترح] تكوين في اختصاصات الصيدلة (البيولوجيا الطبية، الصيدلة الاستشفائية، علم السموم...) لمدة تقارب 4 سنوات بالمخابر والمستشفيات الجامعية، يُختم بشهادة صيدلي مختص. الاختصاصات والمدة للتثبت.",
+     "description_fr": "[Suggestion] Formation dans les spécialités pharmaceutiques (biologie médicale, pharmacie hospitalière, toxicologie...) d'environ 4 ans dans les laboratoires et hôpitaux universitaires, sanctionnée par un diplôme de pharmacien spécialiste. Spécialités et durée à vérifier.",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    }
+   ],
+   "subjects": [
+    {
+     "phase_order": 1,
+     "domain": "SPECIALTY",
+     "specialty_key": "spec.sante-residanat.pharma.pharmacologie-toxicologie",
+     "name_ar": "علم الأدوية والسموم",
+     "name_fr": "Pharmacologie et toxicologie",
+     "coefficient": null,
+     "duration_minutes": null,
+     "question_count": null,
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "phase_order": 1,
+     "domain": "SPECIALTY",
+     "specialty_key": "spec.sante-residanat.pharma.biologie-clinique",
+     "name_ar": "البيولوجيا السريرية (الكيمياء الحيوية، أمراض الدم، المناعة)",
+     "name_fr": "Biologie clinique (biochimie, hématologie, immunologie)",
+     "coefficient": null,
+     "duration_minutes": null,
+     "question_count": null,
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "phase_order": 1,
+     "domain": "SPECIALTY",
+     "specialty_key": "spec.sante-residanat.pharma.microbiologie-parasitologie",
+     "name_ar": "علم الجراثيم والفيروسات والطفيليات",
+     "name_fr": "Microbiologie, virologie et parasitologie",
+     "coefficient": null,
+     "duration_minutes": null,
+     "question_count": null,
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "phase_order": 1,
+     "domain": "SPECIALTY",
+     "specialty_key": "spec.sante-residanat.pharma.pharmacie-galenique-hospitaliere",
+     "name_ar": "الصيدلة الجالينيكية والاستشفائية",
+     "name_fr": "Pharmacie galénique et hospitalière",
+     "coefficient": null,
+     "duration_minutes": null,
+     "question_count": null,
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "phase_order": 1,
+     "domain": "SPECIALTY",
+     "specialty_key": "spec.sante-residanat.pharma.chimie-analytique-therapeutique",
+     "name_ar": "الكيمياء التحليلية والعلاجية",
+     "name_fr": "Chimie analytique et thérapeutique",
+     "coefficient": null,
+     "duration_minutes": null,
+     "question_count": null,
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "phase_order": 1,
+     "domain": "SPECIALTY",
+     "specialty_key": "spec.sante-residanat.commun.sante-publique-epidemiologie",
+     "name_ar": "الصحة العمومية وعلم الأوبئة والتشريع الصيدلي",
+     "name_fr": "Santé publique, épidémiologie et législation pharmaceutique",
+     "coefficient": null,
+     "duration_minutes": null,
+     "question_count": null,
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "phase_order": 1,
+     "domain": "SPECIALTY",
+     "specialty_key": "spec.sante-residanat.pharma",
+     "name_ar": "حالات تطبيقية (تفسير نتائج تحاليل، وصفات طبية)",
+     "name_fr": "Cas pratiques (interprétation de bilans, analyse d'ordonnances)",
+     "coefficient": null,
+     "duration_minutes": null,
+     "question_count": null,
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    }
+   ],
+   "physical_tests": [],
+   "required_documents": [
+    {
+     "text_ar": "استمارة الترشح المعمرة عن بعد عبر المنصة المحددة في بلاغ الفتح، مطبوعة وممضاة",
+     "text_fr": "Formulaire de candidature rempli en ligne sur la plateforme indiquée par l'avis d'ouverture, imprimé et signé",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "text_ar": "نسخة من بطاقة التعريف الوطنية (أو جواز السفر بالنسبة إلى المترشحين الأجانب)",
+     "text_fr": "Copie de la carte d'identité nationale (ou du passeport pour les candidats étrangers)",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "text_ar": "شهادة ترسيم في السنة الأخيرة من دراسة الصيدلة أو نسخة من شهادة الدكتوراه في الصيدلة",
+     "text_fr": "Attestation d'inscription en dernière année de pharmacie ou copie du diplôme de docteur en pharmacie",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "text_ar": "صور شمسية حديثة",
+     "text_fr": "Photos d'identité récentes",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "text_ar": "وصل خلاص معاليم التسجيل إن وُجدت",
+     "text_fr": "Reçu de paiement des frais d'inscription, le cas échéant",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "text_ar": "بالنسبة إلى المترشحين الأجانب: مراسلة أو ترخيص من الجهة المعنية (سفارة أو هيكل التعاون)",
+     "text_fr": "Pour les candidats étrangers : lettre ou autorisation de l'organisme concerné (ambassade ou structure de coopération)",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "text_ar": "عند الالتحاق بالإقامة: شهادة طبية في القدرة على العمل",
+     "text_fr": "À l'affectation en résidanat : certificat médical d'aptitude",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    }
+   ],
+   "blueprint": {
+    "total_minutes": 150,
+    "fidelity": "APPROXIMATED",
+    "sections": [
+     {
+      "domain": "SPECIALTY",
+      "specialty_key": "spec.sante-residanat.pharma.pharmacologie-toxicologie",
+      "count": 18,
+      "minutes": 25
+     },
+     {
+      "domain": "SPECIALTY",
+      "specialty_key": "spec.sante-residanat.pharma.biologie-clinique",
+      "count": 22,
+      "minutes": 30
+     },
+     {
+      "domain": "SPECIALTY",
+      "specialty_key": "spec.sante-residanat.pharma.microbiologie-parasitologie",
+      "count": 16,
+      "minutes": 22
+     },
+     {
+      "domain": "SPECIALTY",
+      "specialty_key": "spec.sante-residanat.pharma.pharmacie-galenique-hospitaliere",
+      "count": 12,
+      "minutes": 16
+     },
+     {
+      "domain": "SPECIALTY",
+      "specialty_key": "spec.sante-residanat.pharma.chimie-analytique-therapeutique",
+      "count": 12,
+      "minutes": 16
+     },
+     {
+      "domain": "SPECIALTY",
+      "specialty_key": "spec.sante-residanat.commun.sante-publique-epidemiologie",
+      "count": 6,
+      "minutes": 8
+     },
+     {
+      "domain": "SPECIALTY",
+      "specialty_key": "spec.sante-residanat.pharma",
+      "count": 14,
+      "minutes": 33
+     }
+    ]
+   }
+  },
+  {
+   "slug": "resident-medecine-dentaire",
+   "title_ar": "مقيم في طب الأسنان",
+   "title_fr": "Résident en médecine dentaire",
+   "diploma_level": "MEDICINE",
+   "eligibility": {
+    "min_age": null,
+    "max_age": null,
+    "genders": [
+     "M",
+     "F"
+    ],
+    "nationality": "TN",
+    "diplomas": [
+     "MEDICINE"
+    ],
+    "specialties": [
+     "dentaire",
+     "dental",
+     "أسنان"
+    ],
+    "min_height_cm_male": null,
+    "min_height_cm_female": null,
+    "marital_status": null,
+    "other_ar": [
+     "[مقترح] طالب في طب الأسنان في السنة الأخيرة من الدراسة أو متحصل على شهادة الدكتوراه في طب الأسنان، حسب ما يحدده قرار فتح المناظرة — للتثبت (يرجح أن كلية طب الأسنان بالمنستير هي المعنية بالتنظيم)",
+     "[مقترح] لا يُعرف أي شرط للسن أو للطول أو للحالة المدنية: المناظرة مفتوحة للذكور والإناث",
+     "[مقترح] قد يكون عدد مرات المشاركة في المناظرة محدودا وقد يُشترط اجتيازها في أجل معين بعد إتمام الدراسة — للتثبت في النص الترتيبي",
+     "[مقترح] الجنسية التونسية للخطط الوطنية؛ يُرجَّح وجود خطط مخصصة للمترشحين الأجانب بشروط خاصة — للتثبت",
+     "[مقترح] التسجيل وجوبا في الآجال عبر المنصة أو الكلية المحددة في بلاغ فتح المناظرة"
+    ],
+    "other_fr": [
+     "[Suggestion] Étudiant en dernière année de médecine dentaire ou titulaire du diplôme de docteur en médecine dentaire, selon l'arrêté d'ouverture — à vérifier (organisation probablement rattachée à la Faculté de médecine dentaire de Monastir)",
+     "[Suggestion] Aucune condition d'âge, de taille ou de situation familiale connue : concours ouvert aux hommes et aux femmes",
+     "[Suggestion] Le nombre de participations au concours pourrait être limité, avec éventuellement un délai maximal après la fin des études — à vérifier dans le texte réglementaire",
+     "[Suggestion] Nationalité tunisienne pour les postes nationaux ; des postes réservés aux candidats étrangers, à conditions particulières, sont probables — à vérifier",
+     "[Suggestion] Inscription obligatoire dans les délais sur la plateforme ou auprès de la faculté désignée par l'avis d'ouverture"
+    ],
+    "source_key": null,
+    "confidence": "LOW",
+    "needs_verification": true,
+    "source_quote": null
+   },
+   "phases": [
+    {
+     "order": 1,
+     "kind": "WRITTEN",
+     "name_ar": "المرحلة الأولى: الاختبارات الكتابية الوطنية (أسئلة متعددة الاختيارات وحالات سريرية)",
+     "name_fr": "Phase 1 : épreuves écrites nationales (QCM et cas cliniques)",
+     "is_eliminatory": true,
+     "duration_minutes": null,
+     "description_ar": "[مقترح] اختبارات كتابية موحدة ومجهولة الهوية تُجرى في نفس اليوم بكل الكليات، حول برنامج الإقامة في طب الأسنان المحدد بقائمة مواضيع (أسئلة متعددة الاختيارات بإجابة أو عدة إجابات صحيحة وحالات سريرية متدرجة). ينتج عنها ترتيب وطني حسب الجدارة. عدد الاختبارات وعدد الأسئلة والمدة وطريقة التنقيط (خاصة احتساب الإجابات الجزئية أو الخاطئة) والضوارب غير مؤكدة.",
+     "description_fr": "[Suggestion] Épreuves écrites communes et anonymes, le même jour dans toutes les facultés, portant sur le programme du résidanat en médecine dentaire défini par une liste de thèmes (QCM à une ou plusieurs réponses justes et cas cliniques progressifs). Elles produisent un classement national par ordre de mérite. Nombre d'épreuves, nombre de questions, durée, barème (notamment traitement des réponses partiellement justes ou fausses) et coefficients non confirmés.",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "order": 2,
+     "kind": "FILE_REVIEW",
+     "name_ar": "المرحلة الثانية: الترتيب واختيار الاختصاص ومكان التكوين",
+     "name_fr": "Phase 2 : classement et choix de la spécialité et du lieu de formation",
+     "is_eliminatory": false,
+     "duration_minutes": null,
+     "description_ar": "[مقترح] بعد الإعلان عن النتائج، يختار المترشحون حسب رتبتهم الاختصاص والكلية/الجهة من بين الخطط المفتوحة لكل اختصاص (حضوريا أو عبر منصة إلكترونية). عدد الخطط لكل اختصاص يُضبط سنويا. قد تُخصص خطط للمترشحين الأجانب. للتثبت.",
+     "description_fr": "[Suggestion] Après la publication des résultats, les candidats choisissent, dans l'ordre de leur rang, la spécialité et la faculté/région parmi les postes ouverts pour chaque spécialité (séance présentielle ou plateforme en ligne). Le nombre de postes par spécialité est fixé chaque année ; des postes peuvent être réservés aux candidats étrangers. À vérifier.",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "order": 3,
+     "kind": "TRAINING",
+     "name_ar": "المرحلة الثالثة: الإقامة (التكوين في الاختصاص)",
+     "name_fr": "Phase 3 : résidanat (formation de spécialité)",
+     "is_eliminatory": false,
+     "duration_minutes": null,
+     "description_ar": "[مقترح] تكوين في اختصاصات طب الأسنان (تقويم الأسنان، التركيبات، جراحة الفم، أمراض اللثة، طب الأسنان التحفظي، طب أسنان الأطفال...) لمدة تقارب 4 سنوات بالمستشفيات الجامعية، يُختم بشهادة طبيب أسنان مختص. الاختصاصات والمدة للتثبت.",
+     "description_fr": "[Suggestion] Formation dans les spécialités de médecine dentaire (orthopédie dento-faciale, prothèse, chirurgie buccale, parodontologie, odontologie conservatrice, odontologie pédiatrique...) d'environ 4 ans en milieu hospitalo-universitaire, sanctionnée par un diplôme de médecin dentiste spécialiste. Spécialités et durée à vérifier.",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    }
+   ],
+   "subjects": [
+    {
+     "phase_order": 1,
+     "domain": "SPECIALTY",
+     "specialty_key": "spec.sante-residanat.dent.odontologie-conservatrice-endodontie",
+     "name_ar": "طب الأسنان التحفظي وعلاج الجذور",
+     "name_fr": "Odontologie conservatrice et endodontie",
+     "coefficient": null,
+     "duration_minutes": null,
+     "question_count": null,
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "phase_order": 1,
+     "domain": "SPECIALTY",
+     "specialty_key": "spec.sante-residanat.dent.parodontologie",
+     "name_ar": "أمراض اللثة وما حول السن",
+     "name_fr": "Parodontologie",
+     "coefficient": null,
+     "duration_minutes": null,
+     "question_count": null,
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "phase_order": 1,
+     "domain": "SPECIALTY",
+     "specialty_key": "spec.sante-residanat.dent.prothese",
+     "name_ar": "التركيبات السنية",
+     "name_fr": "Prothèse (fixée, amovible, implantaire)",
+     "coefficient": null,
+     "duration_minutes": null,
+     "question_count": null,
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "phase_order": 1,
+     "domain": "SPECIALTY",
+     "specialty_key": "spec.sante-residanat.dent.orthopedie-dento-faciale-pedodontie",
+     "name_ar": "تقويم الأسنان وطب أسنان الأطفال",
+     "name_fr": "Orthopédie dento-faciale et odontologie pédiatrique",
+     "coefficient": null,
+     "duration_minutes": null,
+     "question_count": null,
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "phase_order": 1,
+     "domain": "SPECIALTY",
+     "specialty_key": "spec.sante-residanat.dent.chirurgie-pathologie-buccale",
+     "name_ar": "جراحة الفم وأمراض الفم",
+     "name_fr": "Chirurgie et pathologie buccale",
+     "coefficient": null,
+     "duration_minutes": null,
+     "question_count": null,
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "phase_order": 1,
+     "domain": "SPECIALTY",
+     "specialty_key": "spec.sante-residanat.dent.sciences-fondamentales-biomateriaux",
+     "name_ar": "العلوم الأساسية والمواد الحيوية",
+     "name_fr": "Sciences fondamentales et biomatériaux",
+     "coefficient": null,
+     "duration_minutes": null,
+     "question_count": null,
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "phase_order": 1,
+     "domain": "SPECIALTY",
+     "specialty_key": "spec.sante-residanat.commun.pharmacologie-therapeutique",
+     "name_ar": "علم الأدوية المطبق على طب الأسنان",
+     "name_fr": "Pharmacologie appliquée à la médecine dentaire",
+     "coefficient": null,
+     "duration_minutes": null,
+     "question_count": null,
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "phase_order": 1,
+     "domain": "SPECIALTY",
+     "specialty_key": "spec.sante-residanat.dent",
+     "name_ar": "حالات سريرية في طب الأسنان",
+     "name_fr": "Cas cliniques odontologiques",
+     "coefficient": null,
+     "duration_minutes": null,
+     "question_count": null,
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    }
+   ],
+   "physical_tests": [],
+   "required_documents": [
+    {
+     "text_ar": "استمارة الترشح المعمرة عن بعد عبر المنصة المحددة في بلاغ الفتح، مطبوعة وممضاة",
+     "text_fr": "Formulaire de candidature rempli en ligne sur la plateforme indiquée par l'avis d'ouverture, imprimé et signé",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "text_ar": "نسخة من بطاقة التعريف الوطنية (أو جواز السفر بالنسبة إلى المترشحين الأجانب)",
+     "text_fr": "Copie de la carte d'identité nationale (ou du passeport pour les candidats étrangers)",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "text_ar": "شهادة ترسيم في السنة الأخيرة من دراسة طب الأسنان أو نسخة من شهادة الدكتوراه في طب الأسنان",
+     "text_fr": "Attestation d'inscription en dernière année de médecine dentaire ou copie du diplôme de docteur en médecine dentaire",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "text_ar": "صور شمسية حديثة",
+     "text_fr": "Photos d'identité récentes",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "text_ar": "وصل خلاص معاليم التسجيل إن وُجدت",
+     "text_fr": "Reçu de paiement des frais d'inscription, le cas échéant",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "text_ar": "بالنسبة إلى المترشحين الأجانب: مراسلة أو ترخيص من الجهة المعنية (سفارة أو هيكل التعاون)",
+     "text_fr": "Pour les candidats étrangers : lettre ou autorisation de l'organisme concerné (ambassade ou structure de coopération)",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "text_ar": "عند الالتحاق بالإقامة: شهادة طبية في القدرة على العمل",
+     "text_fr": "À l'affectation en résidanat : certificat médical d'aptitude",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    }
+   ],
+   "blueprint": {
+    "total_minutes": 150,
+    "fidelity": "APPROXIMATED",
+    "sections": [
+     {
+      "domain": "SPECIALTY",
+      "specialty_key": "spec.sante-residanat.dent.odontologie-conservatrice-endodontie",
+      "count": 16,
+      "minutes": 20
+     },
+     {
+      "domain": "SPECIALTY",
+      "specialty_key": "spec.sante-residanat.dent.parodontologie",
+      "count": 14,
+      "minutes": 18
+     },
+     {
+      "domain": "SPECIALTY",
+      "specialty_key": "spec.sante-residanat.dent.prothese",
+      "count": 16,
+      "minutes": 20
+     },
+     {
+      "domain": "SPECIALTY",
+      "specialty_key": "spec.sante-residanat.dent.orthopedie-dento-faciale-pedodontie",
+      "count": 14,
+      "minutes": 18
+     },
+     {
+      "domain": "SPECIALTY",
+      "specialty_key": "spec.sante-residanat.dent.chirurgie-pathologie-buccale",
+      "count": 14,
+      "minutes": 18
+     },
+     {
+      "domain": "SPECIALTY",
+      "specialty_key": "spec.sante-residanat.dent.sciences-fondamentales-biomateriaux",
+      "count": 10,
+      "minutes": 12
+     },
+     {
+      "domain": "SPECIALTY",
+      "specialty_key": "spec.sante-residanat.commun.pharmacologie-therapeutique",
+      "count": 6,
+      "minutes": 8
+     },
+     {
+      "domain": "SPECIALTY",
+      "specialty_key": "spec.sante-residanat.dent",
+      "count": 12,
+      "minutes": 36
+     }
+    ]
+   }
+  }
+ ],
+ "specialty_syllabus": [
+  {
+   "key": "spec.sante-residanat.med",
+   "parent_key": null,
+   "level": "UNIT",
+   "title_ar": "برنامج الإقامة في الطب (المواضيع السريرية)",
+   "title_fr": "Programme du résidanat en médecine (thèmes cliniques)",
+   "scope": "SUGGESTED",
+   "source_key": null,
+   "objectives": [
+    {
+     "key": "spec.sante-residanat.med.o1",
+     "text_ar": "التعرف على قائمة المواضيع الرسمية لبرنامج المناظرة والمراجع المعتمدة في الكليات",
+     "text_fr": "Connaître la liste officielle des thèmes du concours et les référentiels utilisés par les facultés"
+    },
+    {
+     "key": "spec.sante-residanat.med.o2",
+     "text_ar": "حل حالات سريرية متدرجة: التشخيص، الفحوص التكميلية، العلاج، المراقبة",
+     "text_fr": "Résoudre des cas cliniques progressifs : diagnostic, examens complémentaires, traitement, surveillance"
+    }
+   ]
+  },
+  {
+   "key": "spec.sante-residanat.med.cardio-vasculaire",
+   "parent_key": "spec.sante-residanat.med",
+   "level": "TOPIC",
+   "title_ar": "أمراض القلب والشرايين",
+   "title_fr": "Cardiologie et pathologie vasculaire",
+   "scope": "SUGGESTED",
+   "source_key": null,
+   "objectives": [
+    {
+     "key": "spec.sante-residanat.med.cardio-vasculaire.o1",
+     "text_ar": "ارتفاع ضغط الدم، المتلازمات التاجية الحادة، قصور القلب، الالتهاب الشغافي",
+     "text_fr": "HTA, syndromes coronariens aigus, insuffisance cardiaque, endocardite infectieuse"
+    },
+    {
+     "key": "spec.sante-residanat.med.cardio-vasculaire.o2",
+     "text_ar": "الخثار الوريدي العميق والانصمام الرئوي، نقص التروية الحاد للأطراف، التوقف القلبي التنفسي",
+     "text_fr": "Thrombose veineuse profonde et embolie pulmonaire, ischémie aiguë des membres, arrêt cardio-circulatoire"
+    }
+   ]
+  },
+  {
+   "key": "spec.sante-residanat.med.pneumologie",
+   "parent_key": "spec.sante-residanat.med",
+   "level": "TOPIC",
+   "title_ar": "أمراض الرئة والجهاز التنفسي",
+   "title_fr": "Pneumologie",
+   "scope": "SUGGESTED",
+   "source_key": null,
+   "objectives": [
+    {
+     "key": "spec.sante-residanat.med.pneumologie.o1",
+     "text_ar": "الربو، الانسداد الرئوي المزمن، الالتهابات الرئوية الحادة",
+     "text_fr": "Asthme, BPCO, pneumonies aiguës communautaires"
+    },
+    {
+     "key": "spec.sante-residanat.med.pneumologie.o2",
+     "text_ar": "السل الرئوي (مرض متوطن)، سرطان القصبات والرئة، الانصباب الجنبي",
+     "text_fr": "Tuberculose pulmonaire (endémique), cancers broncho-pulmonaires, pleurésies"
+    }
+   ]
+  },
+  {
+   "key": "spec.sante-residanat.med.gastro-hepatologie",
+   "parent_key": "spec.sante-residanat.med",
+   "level": "TOPIC",
+   "title_ar": "أمراض الجهاز الهضمي والكبد",
+   "title_fr": "Gastro-entérologie et hépatologie",
+   "scope": "SUGGESTED",
+   "source_key": null,
+   "objectives": [
+    {
+     "key": "spec.sante-residanat.med.gastro-hepatologie.o1",
+     "text_ar": "النزيف الهضمي، القرحة المعدية الاثني عشرية، التهاب البنكرياس الحاد",
+     "text_fr": "Hémorragies digestives, ulcère gastroduodénal, pancréatite aiguë"
+    },
+    {
+     "key": "spec.sante-residanat.med.gastro-hepatologie.o2",
+     "text_ar": "التهابات الكبد الفيروسية، تشمع الكبد، اليرقان، سرطان القولون والمستقيم",
+     "text_fr": "Hépatites virales, cirrhose, ictères, cancer colorectal"
+    }
+   ]
+  },
+  {
+   "key": "spec.sante-residanat.med.nephro-urologie",
+   "parent_key": "spec.sante-residanat.med",
+   "level": "TOPIC",
+   "title_ar": "أمراض الكلى والمسالك البولية واضطرابات الماء والأملاح",
+   "title_fr": "Néphrologie, urologie et troubles hydro-électrolytiques",
+   "scope": "SUGGESTED",
+   "source_key": null,
+   "objectives": [
+    {
+     "key": "spec.sante-residanat.med.nephro-urologie.o1",
+     "text_ar": "القصور الكلوي الحاد والمزمن، الالتهابات البولية، الحصى البولية",
+     "text_fr": "Insuffisance rénale aiguë et chronique, infections urinaires, lithiase urinaire"
+    },
+    {
+     "key": "spec.sante-residanat.med.nephro-urologie.o2",
+     "text_ar": "اضطرابات الصوديوم والبوتاسيوم والتوازن الحمضي القاعدي، سرطان البروستات",
+     "text_fr": "Dysnatrémies, dyskaliémies, troubles acido-basiques, cancer de la prostate"
+    }
+   ]
+  },
+  {
+   "key": "spec.sante-residanat.med.endocrinologie",
+   "parent_key": "spec.sante-residanat.med",
+   "level": "TOPIC",
+   "title_ar": "الغدد الصماء والأمراض الأيضية",
+   "title_fr": "Endocrinologie et métabolisme",
+   "scope": "SUGGESTED",
+   "source_key": null,
+   "objectives": [
+    {
+     "key": "spec.sante-residanat.med.endocrinologie.o1",
+     "text_ar": "داء السكري ومضاعفاته الحادة والمزمنة",
+     "text_fr": "Diabète sucré et ses complications aiguës et chroniques"
+    },
+    {
+     "key": "spec.sante-residanat.med.endocrinologie.o2",
+     "text_ar": "اضطرابات الغدة الدرقية، قصور الغدة الكظرية، اضطرابات الدهنيات",
+     "text_fr": "Dysthyroïdies, insuffisance surrénalienne, dyslipidémies"
+    }
+   ]
+  },
+  {
+   "key": "spec.sante-residanat.med.neurologie",
+   "parent_key": "spec.sante-residanat.med",
+   "level": "TOPIC",
+   "title_ar": "أمراض الأعصاب",
+   "title_fr": "Neurologie",
+   "scope": "SUGGESTED",
+   "source_key": null,
+   "objectives": [
+    {
+     "key": "spec.sante-residanat.med.neurologie.o1",
+     "text_ar": "الجلطات الدماغية، الصرع، الغيبوبة",
+     "text_fr": "Accidents vasculaires cérébraux, épilepsie, comas"
+    },
+    {
+     "key": "spec.sante-residanat.med.neurologie.o2",
+     "text_ar": "الصداع، التهاب السحايا، ارتفاع الضغط داخل الجمجمة",
+     "text_fr": "Céphalées, méningites, hypertension intracrânienne"
+    }
+   ]
+  },
+  {
+   "key": "spec.sante-residanat.med.psychiatrie",
+   "parent_key": "spec.sante-residanat.med",
+   "level": "TOPIC",
+   "title_ar": "الطب النفسي",
+   "title_fr": "Psychiatrie",
+   "scope": "SUGGESTED",
+   "source_key": null,
+   "objectives": [
+    {
+     "key": "spec.sante-residanat.med.psychiatrie.o1",
+     "text_ar": "الاكتئاب واضطرابات القلق، الفصام",
+     "text_fr": "Troubles dépressifs et anxieux, schizophrénie"
+    },
+    {
+     "key": "spec.sante-residanat.med.psychiatrie.o2",
+     "text_ar": "الاستعجالات النفسية وخطر الانتحار، استعمال الأدوية النفسية",
+     "text_fr": "Urgences psychiatriques et risque suicidaire, usage des psychotropes"
+    }
+   ]
+  },
+  {
+   "key": "spec.sante-residanat.med.infectiologie",
+   "parent_key": "spec.sante-residanat.med",
+   "level": "TOPIC",
+   "title_ar": "الأمراض المعدية",
+   "title_fr": "Maladies infectieuses",
+   "scope": "SUGGESTED",
+   "source_key": null,
+   "objectives": [
+    {
+     "key": "spec.sante-residanat.med.infectiologie.o1",
+     "text_ar": "الأمراض المتوطنة في تونس: الحمى المالطية، الحمى التيفية، الليشمانيا، الكيس العداري، داء الكلب",
+     "text_fr": "Maladies endémiques en Tunisie : brucellose, fièvre typhoïde, leishmanioses, hydatidose, rage"
+    },
+    {
+     "key": "spec.sante-residanat.med.infectiologie.o2",
+     "text_ar": "الأمراض المنقولة جنسيا وفيروس نقص المناعة، الحمى عند العائد من السفر، الاستعمال الرشيد للمضادات الحيوية",
+     "text_fr": "IST et infection à VIH, fièvre au retour de voyage, bon usage des antibiotiques"
+    }
+   ]
+  },
+  {
+   "key": "spec.sante-residanat.med.hematologie-oncologie",
+   "parent_key": "spec.sante-residanat.med",
+   "level": "TOPIC",
+   "title_ar": "أمراض الدم والأورام",
+   "title_fr": "Hématologie et oncologie",
+   "scope": "SUGGESTED",
+   "source_key": null,
+   "objectives": [
+    {
+     "key": "spec.sante-residanat.med.hematologie-oncologie.o1",
+     "text_ar": "فقر الدم، اضطرابات التخثر، الفرفرية، نقل الدم",
+     "text_fr": "Anémies, troubles de l'hémostase, purpuras, transfusion sanguine"
+    },
+    {
+     "key": "spec.sante-residanat.med.hematologie-oncologie.o2",
+     "text_ar": "الابيضاض الحاد، اللمفومات، مبادئ علاج السرطان والرعاية التلطيفية",
+     "text_fr": "Leucémies aiguës, lymphomes, principes du traitement des cancers et soins palliatifs"
+    }
+   ]
+  },
+  {
+   "key": "spec.sante-residanat.med.pediatrie",
+   "parent_key": "spec.sante-residanat.med",
+   "level": "TOPIC",
+   "title_ar": "طب الأطفال",
+   "title_fr": "Pédiatrie",
+   "scope": "SUGGESTED",
+   "source_key": null,
+   "objectives": [
+    {
+     "key": "spec.sante-residanat.med.pediatrie.o1",
+     "text_ar": "الجفاف الحاد عند الرضيع، التهاب القصيبات، الحمى عند الطفل، اليرقان الوليدي",
+     "text_fr": "Déshydratation aiguë du nourrisson, bronchiolite, fièvre de l'enfant, ictère néonatal"
+    },
+    {
+     "key": "spec.sante-residanat.med.pediatrie.o2",
+     "text_ar": "الرزنامة الوطنية للتلقيح، نمو الطفل وتغذيته، التهابات الأنف والأذن والحنجرة",
+     "text_fr": "Calendrier national de vaccination, croissance et alimentation de l'enfant, infections ORL"
+    }
+   ]
+  },
+  {
+   "key": "spec.sante-residanat.med.gyneco-obstetrique",
+   "parent_key": "spec.sante-residanat.med",
+   "level": "TOPIC",
+   "title_ar": "أمراض النساء والتوليد",
+   "title_fr": "Gynécologie-obstétrique",
+   "scope": "SUGGESTED",
+   "source_key": null,
+   "objectives": [
+    {
+     "key": "spec.sante-residanat.med.gyneco-obstetrique.o1",
+     "text_ar": "متابعة الحمل، تسمم الحمل، النزيف بعد الولادة، الحمل خارج الرحم",
+     "text_fr": "Suivi de la grossesse, prééclampsie-éclampsie, hémorragie du post-partum, grossesse extra-utérine"
+    },
+    {
+     "key": "spec.sante-residanat.med.gyneco-obstetrique.o2",
+     "text_ar": "منع الحمل، سرطان عنق الرحم وسرطان الثدي (الكشف المبكر)",
+     "text_fr": "Contraception, cancers du col de l'utérus et du sein (dépistage)"
+    }
+   ]
+  },
+  {
+   "key": "spec.sante-residanat.med.chirurgie-urgences",
+   "parent_key": "spec.sante-residanat.med",
+   "level": "TOPIC",
+   "title_ar": "الجراحة العامة والاستعجالي والإنعاش",
+   "title_fr": "Chirurgie générale, urgences et réanimation",
+   "scope": "SUGGESTED",
+   "source_key": null,
+   "objectives": [
+    {
+     "key": "spec.sante-residanat.med.chirurgie-urgences.o1",
+     "text_ar": "التهاب الزائدة الدودية، انسداد الأمعاء، التهاب الصفاق، الكيس العداري الكبدي",
+     "text_fr": "Appendicite aiguë, occlusions intestinales, péritonites, kyste hydatique du foie"
+    },
+    {
+     "key": "spec.sante-residanat.med.chirurgie-urgences.o2",
+     "text_ar": "حالات الصدمة، الإصابات المتعددة، الحروق، التسممات الحادة (أحادي أكسيد الكربون، المبيدات الفسفورية العضوية)",
+     "text_fr": "États de choc, polytraumatisé, brûlures, intoxications aiguës (monoxyde de carbone, organophosphorés)"
+    }
+   ]
+  },
+  {
+   "key": "spec.sante-residanat.med.appareil-locomoteur",
+   "parent_key": "spec.sante-residanat.med",
+   "level": "TOPIC",
+   "title_ar": "الجهاز الحركي (أمراض المفاصل وجراحة العظام)",
+   "title_fr": "Appareil locomoteur (rhumatologie, orthopédie-traumatologie)",
+   "scope": "SUGGESTED",
+   "source_key": null,
+   "objectives": [
+    {
+     "key": "spec.sante-residanat.med.appareil-locomoteur.o1",
+     "text_ar": "التهاب المفاصل الروماتويدي، التهاب المفصل الإنتاني، هشاشة العظام",
+     "text_fr": "Polyarthrite rhumatoïde, arthrite septique, ostéoporose"
+    },
+    {
+     "key": "spec.sante-residanat.med.appareil-locomoteur.o2",
+     "text_ar": "الكسور الشائعة ومضاعفاتها، آلام أسفل الظهر",
+     "text_fr": "Fractures fréquentes et leurs complications, lombalgies"
+    }
+   ]
+  },
+  {
+   "key": "spec.sante-residanat.commun",
+   "parent_key": null,
+   "level": "UNIT",
+   "title_ar": "العلوم الأساسية والصحة العمومية والأخلاقيات (مشترك)",
+   "title_fr": "Sciences fondamentales, santé publique et éthique (tronc commun)",
+   "scope": "SUGGESTED",
+   "source_key": null,
+   "objectives": [
+    {
+     "key": "spec.sante-residanat.commun.o1",
+     "text_ar": "ربط المعارف الأساسية بالممارسة السريرية والصيدلية وطب الأسنان",
+     "text_fr": "Relier les connaissances fondamentales à la pratique clinique, pharmaceutique et odontologique"
+    }
+   ]
+  },
+  {
+   "key": "spec.sante-residanat.commun.pharmacologie-therapeutique",
+   "parent_key": "spec.sante-residanat.commun",
+   "level": "TOPIC",
+   "title_ar": "علم الأدوية والعلاج",
+   "title_fr": "Pharmacologie et thérapeutique",
+   "scope": "SUGGESTED",
+   "source_key": null,
+   "objectives": [
+    {
+     "key": "spec.sante-residanat.commun.pharmacologie-therapeutique.o1",
+     "text_ar": "خصائص الأدوية الأساسية: المضادات الحيوية، مضادات التخثر، مضادات الالتهاب، الإنسولين",
+     "text_fr": "Propriétés des grandes classes : antibiotiques, anticoagulants, anti-inflammatoires, insulines"
+    },
+    {
+     "key": "spec.sante-residanat.commun.pharmacologie-therapeutique.o2",
+     "text_ar": "الأعراض الجانبية والتداخلات الدوائية واليقظة الدوائية",
+     "text_fr": "Effets indésirables, interactions médicamenteuses, pharmacovigilance"
+    }
+   ]
+  },
+  {
+   "key": "spec.sante-residanat.commun.sante-publique-epidemiologie",
+   "parent_key": "spec.sante-residanat.commun",
+   "level": "TOPIC",
+   "title_ar": "الصحة العمومية وعلم الأوبئة",
+   "title_fr": "Santé publique et épidémiologie",
+   "scope": "SUGGESTED",
+   "source_key": null,
+   "objectives": [
+    {
+     "key": "spec.sante-residanat.commun.sante-publique-epidemiologie.o1",
+     "text_ar": "المؤشرات الوبائية، أنواع الدراسات، أساسيات الإحصاء الحيوي وقراءة مقال علمي",
+     "text_fr": "Indicateurs épidémiologiques, types d'études, bases de biostatistique et lecture critique d'article"
+    },
+    {
+     "key": "spec.sante-residanat.commun.sante-publique-epidemiologie.o2",
+     "text_ar": "البرامج الوطنية للصحة (التلقيح، صحة الأم والطفل، مكافحة السل) وتنظيم المنظومة الصحية التونسية",
+     "text_fr": "Programmes nationaux de santé (vaccination, santé maternelle et infantile, lutte antituberculeuse) et organisation du système de santé tunisien"
+    }
+   ]
+  },
+  {
+   "key": "spec.sante-residanat.commun.ethique-deontologie-legislation",
+   "parent_key": "spec.sante-residanat.commun",
+   "level": "TOPIC",
+   "title_ar": "الأخلاقيات وقواعد المهنة والتشريع الصحي",
+   "title_fr": "Éthique, déontologie et législation sanitaire",
+   "scope": "SUGGESTED",
+   "source_key": null,
+   "objectives": [
+    {
+     "key": "spec.sante-residanat.commun.ethique-deontologie-legislation.o1",
+     "text_ar": "السر المهني، الموافقة المستنيرة، المسؤولية الطبية",
+     "text_fr": "Secret professionnel, consentement éclairé, responsabilité médicale"
+    },
+    {
+     "key": "spec.sante-residanat.commun.ethique-deontologie-legislation.o2",
+     "text_ar": "مجلة واجبات الطبيب والشهادات الطبية والتصاريح الإجبارية (للتثبت في النصوص التونسية)",
+     "text_fr": "Code de déontologie médicale, certificats médicaux, déclarations obligatoires (textes tunisiens à vérifier)"
+    }
+   ]
+  },
+  {
+   "key": "spec.sante-residanat.commun.biologie-fondamentale",
+   "parent_key": "spec.sante-residanat.commun",
+   "level": "TOPIC",
+   "title_ar": "العلوم البيولوجية الأساسية",
+   "title_fr": "Sciences biologiques fondamentales",
+   "scope": "SUGGESTED",
+   "source_key": null,
+   "objectives": [
+    {
+     "key": "spec.sante-residanat.commun.biologie-fondamentale.o1",
+     "text_ar": "وظائف الأعضاء الأساسية (القلب، الكلى، التنفس) والكيمياء الحيوية",
+     "text_fr": "Physiologie de base (cardiaque, rénale, respiratoire) et biochimie"
+    },
+    {
+     "key": "spec.sante-residanat.commun.biologie-fondamentale.o2",
+     "text_ar": "مبادئ علم المناعة وعلم الأحياء الدقيقة",
+     "text_fr": "Principes d'immunologie et de microbiologie"
+    }
+   ]
+  },
+  {
+   "key": "spec.sante-residanat.pharma",
+   "parent_key": null,
+   "level": "UNIT",
+   "title_ar": "برنامج الإقامة في الصيدلة",
+   "title_fr": "Programme du résidanat en pharmacie",
+   "scope": "SUGGESTED",
+   "source_key": null,
+   "objectives": [
+    {
+     "key": "spec.sante-residanat.pharma.o1",
+     "text_ar": "التعرف على قائمة المواضيع الرسمية لمناظرة الإقامة في الصيدلة",
+     "text_fr": "Connaître la liste officielle des thèmes du concours de résidanat en pharmacie"
+    }
+   ]
+  },
+  {
+   "key": "spec.sante-residanat.pharma.pharmacologie-toxicologie",
+   "parent_key": "spec.sante-residanat.pharma",
+   "level": "TOPIC",
+   "title_ar": "علم الأدوية والسموم",
+   "title_fr": "Pharmacologie et toxicologie",
+   "scope": "SUGGESTED",
+   "source_key": null,
+   "objectives": [
+    {
+     "key": "spec.sante-residanat.pharma.pharmacologie-toxicologie.o1",
+     "text_ar": "الحرائك الدوائية والديناميكا الدوائية وتعديل الجرعات",
+     "text_fr": "Pharmacocinétique, pharmacodynamie et adaptation posologique"
+    },
+    {
+     "key": "spec.sante-residanat.pharma.pharmacologie-toxicologie.o2",
+     "text_ar": "التسممات الحادة وترياقاتها، علم السموم التحليلي",
+     "text_fr": "Intoxications aiguës et antidotes, toxicologie analytique"
+    }
+   ]
+  },
+  {
+   "key": "spec.sante-residanat.pharma.biologie-clinique",
+   "parent_key": "spec.sante-residanat.pharma",
+   "level": "TOPIC",
+   "title_ar": "البيولوجيا السريرية (الكيمياء الحيوية، أمراض الدم، المناعة)",
+   "title_fr": "Biologie clinique (biochimie, hématologie, immunologie)",
+   "scope": "SUGGESTED",
+   "source_key": null,
+   "objectives": [
+    {
+     "key": "spec.sante-residanat.pharma.biologie-clinique.o1",
+     "text_ar": "تفسير الفحوص البيوكيميائية (وظائف الكلى والكبد، السكري، الدهنيات، الشوارد)",
+     "text_fr": "Interpréter les bilans biochimiques (rénal, hépatique, glycémique, lipidique, ionogramme)"
+    },
+    {
+     "key": "spec.sante-residanat.pharma.biologie-clinique.o2",
+     "text_ar": "تفسير تعداد الدم واختبارات التخثر والفحوص المناعية",
+     "text_fr": "Interpréter l'hémogramme, le bilan d'hémostase et les examens immunologiques"
+    }
+   ]
+  },
+  {
+   "key": "spec.sante-residanat.pharma.microbiologie-parasitologie",
+   "parent_key": "spec.sante-residanat.pharma",
+   "level": "TOPIC",
+   "title_ar": "علم الجراثيم والفيروسات والطفيليات",
+   "title_fr": "Microbiologie, virologie et parasitologie",
+   "scope": "SUGGESTED",
+   "source_key": null,
+   "objectives": [
+    {
+     "key": "spec.sante-residanat.pharma.microbiologie-parasitologie.o1",
+     "text_ar": "التشخيص المخبري للعدوى البكتيرية والفيروسية واختبار الحساسية للمضادات الحيوية",
+     "text_fr": "Diagnostic biologique des infections bactériennes et virales, antibiogramme"
+    },
+    {
+     "key": "spec.sante-residanat.pharma.microbiologie-parasitologie.o2",
+     "text_ar": "الطفيليات والفطريات الشائعة في تونس (الليشمانيا، الكيس العداري، داء المبيضات)",
+     "text_fr": "Parasitoses et mycoses fréquentes en Tunisie (leishmanioses, hydatidose, candidoses)"
+    }
+   ]
+  },
+  {
+   "key": "spec.sante-residanat.pharma.pharmacie-galenique-hospitaliere",
+   "parent_key": "spec.sante-residanat.pharma",
+   "level": "TOPIC",
+   "title_ar": "الصيدلة الجالينيكية والاستشفائية",
+   "title_fr": "Pharmacie galénique et hospitalière",
+   "scope": "SUGGESTED",
+   "source_key": null,
+   "objectives": [
+    {
+     "key": "spec.sante-residanat.pharma.pharmacie-galenique-hospitaliere.o1",
+     "text_ar": "الأشكال الصيدلانية وطرق التحضير ومراقبة الجودة",
+     "text_fr": "Formes pharmaceutiques, préparation et contrôle qualité"
+    },
+    {
+     "key": "spec.sante-residanat.pharma.pharmacie-galenique-hospitaliere.o2",
+     "text_ar": "تسيير الأدوية بالمستشفى، التعقيم، التغذية الاصطناعية",
+     "text_fr": "Circuit du médicament à l'hôpital, stérilisation, nutrition parentérale"
+    }
+   ]
+  },
+  {
+   "key": "spec.sante-residanat.pharma.chimie-analytique-therapeutique",
+   "parent_key": "spec.sante-residanat.pharma",
+   "level": "TOPIC",
+   "title_ar": "الكيمياء التحليلية والعلاجية",
+   "title_fr": "Chimie analytique et chimie thérapeutique",
+   "scope": "SUGGESTED",
+   "source_key": null,
+   "objectives": [
+    {
+     "key": "spec.sante-residanat.pharma.chimie-analytique-therapeutique.o1",
+     "text_ar": "طرق التحليل (الكروماتوغرافيا، القياس الطيفي) والمعايرة",
+     "text_fr": "Méthodes d'analyse (chromatographie, spectrophotométrie) et dosages"
+    },
+    {
+     "key": "spec.sante-residanat.pharma.chimie-analytique-therapeutique.o2",
+     "text_ar": "العلاقة بين البنية الكيميائية والنشاط الدوائي",
+     "text_fr": "Relations structure-activité des principales classes thérapeutiques"
+    }
+   ]
+  },
+  {
+   "key": "spec.sante-residanat.dent",
+   "parent_key": null,
+   "level": "UNIT",
+   "title_ar": "برنامج الإقامة في طب الأسنان",
+   "title_fr": "Programme du résidanat en médecine dentaire",
+   "scope": "SUGGESTED",
+   "source_key": null,
+   "objectives": [
+    {
+     "key": "spec.sante-residanat.dent.o1",
+     "text_ar": "التعرف على قائمة المواضيع الرسمية لمناظرة الإقامة في طب الأسنان",
+     "text_fr": "Connaître la liste officielle des thèmes du concours de résidanat en médecine dentaire"
+    }
+   ]
+  },
+  {
+   "key": "spec.sante-residanat.dent.odontologie-conservatrice-endodontie",
+   "parent_key": "spec.sante-residanat.dent",
+   "level": "TOPIC",
+   "title_ar": "طب الأسنان التحفظي وعلاج الجذور",
+   "title_fr": "Odontologie conservatrice et endodontie",
+   "scope": "SUGGESTED",
+   "source_key": null,
+   "objectives": [
+    {
+     "key": "spec.sante-residanat.dent.odontologie-conservatrice-endodontie.o1",
+     "text_ar": "تسوس الأسنان: التشخيص والوقاية والترميم",
+     "text_fr": "Carie dentaire : diagnostic, prévention, restauration"
+    },
+    {
+     "key": "spec.sante-residanat.dent.odontologie-conservatrice-endodontie.o2",
+     "text_ar": "أمراض لب السن وما حول الذروة وعلاج القنوات الجذرية",
+     "text_fr": "Pathologies pulpaires et périapicales, traitement endodontique"
+    }
+   ]
+  },
+  {
+   "key": "spec.sante-residanat.dent.parodontologie",
+   "parent_key": "spec.sante-residanat.dent",
+   "level": "TOPIC",
+   "title_ar": "أمراض اللثة وما حول السن",
+   "title_fr": "Parodontologie",
+   "scope": "SUGGESTED",
+   "source_key": null,
+   "objectives": [
+    {
+     "key": "spec.sante-residanat.dent.parodontologie.o1",
+     "text_ar": "تصنيف أمراض اللثة وما حول السن وعوامل الخطر",
+     "text_fr": "Classification des maladies parodontales et facteurs de risque"
+    },
+    {
+     "key": "spec.sante-residanat.dent.parodontologie.o2",
+     "text_ar": "العلاج غير الجراحي والجراحي والمتابعة",
+     "text_fr": "Traitement non chirurgical et chirurgical, maintenance"
+    }
+   ]
+  },
+  {
+   "key": "spec.sante-residanat.dent.prothese",
+   "parent_key": "spec.sante-residanat.dent",
+   "level": "TOPIC",
+   "title_ar": "التركيبات السنية (الثابتة والمتحركة والزرع)",
+   "title_fr": "Prothèse (fixée, amovible, implantaire)",
+   "scope": "SUGGESTED",
+   "source_key": null,
+   "objectives": [
+    {
+     "key": "spec.sante-residanat.dent.prothese.o1",
+     "text_ar": "مبادئ التركيبات الثابتة والمتحركة الجزئية والكاملة",
+     "text_fr": "Principes de la prothèse fixée, amovible partielle et complète"
+    },
+    {
+     "key": "spec.sante-residanat.dent.prothese.o2",
+     "text_ar": "أساسيات زرع الأسنان والإطباق",
+     "text_fr": "Bases de l'implantologie et de l'occlusodontie"
+    }
+   ]
+  },
+  {
+   "key": "spec.sante-residanat.dent.orthopedie-dento-faciale-pedodontie",
+   "parent_key": "spec.sante-residanat.dent",
+   "level": "TOPIC",
+   "title_ar": "تقويم الأسنان وطب أسنان الأطفال",
+   "title_fr": "Orthopédie dento-faciale et odontologie pédiatrique",
+   "scope": "SUGGESTED",
+   "source_key": null,
+   "objectives": [
+    {
+     "key": "spec.sante-residanat.dent.orthopedie-dento-faciale-pedodontie.o1",
+     "text_ar": "نمو الوجه والفكين وتشخيص سوء الإطباق",
+     "text_fr": "Croissance cranio-faciale et diagnostic des malocclusions"
+    },
+    {
+     "key": "spec.sante-residanat.dent.orthopedie-dento-faciale-pedodontie.o2",
+     "text_ar": "رضوض الأسنان عند الطفل والوقاية من التسوس",
+     "text_fr": "Traumatismes dentaires de l'enfant et prévention de la carie"
+    }
+   ]
+  },
+  {
+   "key": "spec.sante-residanat.dent.chirurgie-pathologie-buccale",
+   "parent_key": "spec.sante-residanat.dent",
+   "level": "TOPIC",
+   "title_ar": "جراحة الفم وأمراض الفم",
+   "title_fr": "Chirurgie et pathologie buccale",
+   "scope": "SUGGESTED",
+   "source_key": null,
+   "objectives": [
+    {
+     "key": "spec.sante-residanat.dent.chirurgie-pathologie-buccale.o1",
+     "text_ar": "قلع الأسنان ومضاعفاته، الالتهابات ذات المنشأ السني",
+     "text_fr": "Avulsions dentaires et complications, infections d'origine dentaire"
+    },
+    {
+     "key": "spec.sante-residanat.dent.chirurgie-pathologie-buccale.o2",
+     "text_ar": "آفات الغشاء المخاطي للفم والمرضى ذوو الخطورة (مضادات التخثر، السكري، القلب)",
+     "text_fr": "Lésions de la muqueuse buccale et patients à risque (anticoagulés, diabétiques, cardiaques)"
+    }
+   ]
+  },
+  {
+   "key": "spec.sante-residanat.dent.sciences-fondamentales-biomateriaux",
+   "parent_key": "spec.sante-residanat.dent",
+   "level": "TOPIC",
+   "title_ar": "العلوم الأساسية والمواد الحيوية في طب الأسنان",
+   "title_fr": "Sciences fondamentales et biomatériaux dentaires",
+   "scope": "SUGGESTED",
+   "source_key": null,
+   "objectives": [
+    {
+     "key": "spec.sante-residanat.dent.sciences-fondamentales-biomateriaux.o1",
+     "text_ar": "تشريح الأسنان والفكين وعلم الأنسجة الفموية",
+     "text_fr": "Anatomie dentaire et maxillo-faciale, histologie buccale"
+    },
+    {
+     "key": "spec.sante-residanat.dent.sciences-fondamentales-biomateriaux.o2",
+     "text_ar": "خصائص المواد الحيوية (الأملغم، الراتنجات المركبة، السيراميك) والتعقيم",
+     "text_fr": "Propriétés des biomatériaux (amalgame, composites, céramiques) et asepsie"
+    }
+   ]
+  }
+ ],
+ "past_exams": [],
+ "tips_ar": [
+  "ابدأ التحضير مبكرا (منذ السنوات الأولى من المرحلة الثانية) واعمل موضوعا بموضوع انطلاقا من قائمة المواضيع الرسمية للبرنامج والمراجع المعتمدة في الكليات.",
+  "تدرّب على حوليات المناظرة التي تنشرها الكليات أو يتداولها الطلبة في ظروف الامتحان الحقيقية (توقيت، ورقة إجابة) ثم راجع كل خطأ.",
+  "اطّلع قبل المناظرة على طريقة التنقيط (أسئلة بإجابة واحدة أو عدة إجابات، احتساب الإجابات الجزئية أو الخاطئة) لأنها تحدد استراتيجية الإجابة.",
+  "اعتمد التوصيات الوطنية (أدلة الممارسة السريرية للهيئة الوطنية للتقييم والاعتماد في المجال الصحي INEAS، الرزنامة الوطنية للتلقيح) عند وجودها بدل المراجع الأجنبية فقط.",
+  "أعط أهمية خاصة للأمراض المتوطنة في تونس (السل، الحمى المالطية، الليشمانيا، الكيس العداري) فهي من خصوصيات البرنامج التونسي.",
+  "حضّر استراتيجية الاختيار مسبقا: تابع آخر الرتب المقبولة في كل اختصاص وكل كلية خلال الدورات السابقة.",
+  "راقب البلاغات الرسمية للكليات ووزارة الصحة لمعرفة آجال التسجيل والرزنامة بدل الاعتماد على الإشاعات في مواقع التواصل الاجتماعي.",
+  "نظّم مراجعة جماعية دورية لتبادل الحالات السريرية، وحافظ على النوم والصحة في الأسابيع الأخيرة."
+ ],
+ "tips_fr": [
+  "Commencez tôt (dès le début du 2e cycle) et travaillez thème par thème à partir de la liste officielle du programme et des référentiels des facultés.",
+  "Entraînez-vous sur les annales du concours publiées par les facultés ou partagées entre étudiants, en conditions réelles (chronomètre, grille de réponses), puis analysez chaque erreur.",
+  "Renseignez-vous sur le barème avant l'épreuve (QCM à réponse unique ou multiple, traitement des réponses partiellement justes ou fausses) : il conditionne la stratégie de réponse.",
+  "Privilégiez les recommandations nationales quand elles existent (guides de pratique clinique de l'INEAS, calendrier national de vaccination) plutôt que les seuls référentiels étrangers.",
+  "Accordez une attention particulière aux pathologies endémiques en Tunisie (tuberculose, brucellose, leishmanioses, hydatidose), spécificités du programme tunisien.",
+  "Préparez votre stratégie de choix : suivez les derniers rangs retenus par spécialité et par faculté lors des sessions précédentes.",
+  "Suivez les avis officiels des facultés et du ministère de la Santé pour les délais d'inscription et le calendrier, plutôt que les rumeurs des réseaux sociaux.",
+  "Organisez des révisions en groupe pour échanger des cas cliniques, et protégez votre sommeil et votre santé dans les dernières semaines."
+ ],
+ "research_notes": "LIMITE MÉTHODOLOGIQUE MAJEURE (07/10/2026) : le quota WebSearch partagé était épuisé dès la première requête de cette passe et WebFetch a été refusé par le proxy (EGRESS_BLOCKED) pour tous les domaines essayés : www.webdo.tn, www.fmt.rnu.tn, www.fmt.utm.tn, www.concours.gov.tn, fr.wikipedia.org, www.lapresse.tn, www.tap.info.tn, www.legislation.tn ; www.santetunisie.rns.tn ne résout pas en DNS depuis le conteneur. AUCUNE page n'a été lue et aucun texte officiel n'a pu être consulté. Le dossier de recherche interne (docs/research/01-market-raw.md) indique lui-même « Résidanat : posts/candidates unverified » ; docs/01-market-research.md cite 1 600 à 2 000 postes « selon un blog non fiable » (chiffre NON repris ici). Par conséquent TOUS les faits de ce fichier sont des SUGGESTIONS (needs_verification=true, confidence=LOW, source_key=null, aucun source_quote) fondées sur la connaissance générale de l'équipe ; la seule source listée (s1, Webdo) concerne le recrutement de médecins spécialistes APRÈS le résidanat et n'appuie aucun fait. Aucune annale (past_exams) n'a pu être identifiée avec une URL vérifiée. À VÉRIFIER EN PRIORITÉ (sites des facultés de médecine de Tunis, Sousse, Monastir et Sfax, de la Faculté de pharmacie et de la Faculté de médecine dentaire de Monastir, ministère de la Santé, ministère de l'Enseignement supérieur, JORT via iort.gov.tn / legislation.tn) : (1) texte réglementaire organisant le concours (arrêté conjoint Santé / Enseignement supérieur ?) et statut des résidents ; (2) organisateur exact et plateforme d'inscription en ligne ; (3) conditions d'accès : niveau d'études exact (fin du 2e cycle / internat / doctorat), nombre maximal de participations, délai après la fin des études, régime des candidats étrangers ; (4) format des épreuves : nombre d'épreuves, nombre de QCM et de cas cliniques, durée, barème des QCM à réponses multiples, coefficients, existence d'un programme officiel (liste de thèmes) et de référentiels nationaux ; (5) calendrier habituel (période des épreuves, résultats, séance de choix) et dates de la session 2026 (elle a pu déjà avoir lieu) ; (6) éditions 2023-2026 : nombre de postes par spécialité et par faculté, nombre de candidats, éventuels boycotts ou reports liés aux mouvements des jeunes médecins ; (7) durée du résidanat par spécialité (dont médecine de famille), obligations de service public éventuelles après la spécialité ; (8) existence et modalités des concours de résidanat en pharmacie et en médecine dentaire (organisation par les facultés de Monastir supposée). Les listes de thèmes du specialty_syllabus (spec.sante-residanat.*) sont des SUGGESTIONS calquées sur les grands items cliniques classiques et devront être alignées sur la liste officielle dès qu'elle sera récupérée. Les blueprints sont APPROXIMATED (aucun format officiel lu) ; les sections « cas cliniques » pointent sur la racine de l'unité (ex. spec.sante-residanat.med) pour tirer des questions de tout le sous-arbre. Les banques partagées existantes ne couvrent pas ce niveau (spec.sante = soins infirmiers) : de nouvelles banques spécialisées sont nécessaires. NOTE PRODUIT (alertes de correspondance de profil) : les candidats sont surtout des étudiants en fin de cursus qui n'ont pas encore le doctorat ; l'éligibilité est codée avec diploma_level=MEDICINE et des spécialités (médecine/medicine/طب, pharmacie/pharmacy/صيدلة, dentaire/dental/أسنان), et sans limite d'âge. Il serait utile d'ajouter au profil une option « étudiant en médecine/pharmacie/médecine dentaire (fin de cursus) » assimilée au niveau MEDICINE, sinon ces candidats ne recevront pas l'alerte. Le terme arabe « طب » apparaît aussi dans « طب الأسنان » : un profil de médecine dentaire correspondra donc aussi au résidanat en médecine (faux positif limité)."
+}

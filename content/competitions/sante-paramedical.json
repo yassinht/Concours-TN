@@ -1,0 +1,1347 @@
+{
+ "family": {
+  "slug": "sante-paramedical",
+  "field": "HEALTH",
+  "organization": {
+   "slug": "ministere-sante",
+   "name_ar": "وزارة الصحة",
+   "name_fr": "Ministère de la Santé",
+   "ministry_fr": "Ministère de la Santé",
+   "website": "http://www.santetunisie.rns.tn"
+  },
+  "name_ar": "مناظرات انتداب الإطارات شبه الطبية للصحة العمومية (فنيون سامون، ممرضون، قوابل، أخصائيو تغذية)",
+  "name_fr": "Concours de recrutement des cadres paramédicaux de la santé publique (techniciens supérieurs, infirmiers, sages-femmes, nutritionnistes)",
+  "description_ar": "تجمع هذه العائلة المناظرات الخارجية بالاختبارات لانتداب الإطارات شبه الطبية في رتب الصحة العمومية (فني سامي وفني سامي أول للصحة العمومية في اختصاصات التمريض والقبالة والتغذية والتصوير الطبي والتحاليل والتخدير...). تنبيه مهم: حسب ما نقلته الصحافة، لا تنتدب وزارة الصحة حاليا الممرضين والتقنيين ومساعدي العلاج عبر مناظرة كتابية بل عبر قائمات انتظار جهوية (منشور عدد 24 لسنة 2025)، مع برمجة انتداب نحو 1000 مساعد علاج سنة 2026. في المقابل تفتح هياكل عمومية أخرى أحيانا مناظرات بالاختبارات في رتب الصحة العمومية، ومنها مناظرة دواوين الخدمات الجامعية لانتداب 18 فنيا ساميا أول للصحة العمومية اختصاص التغذية البشرية (آخر أجل للتسجيل 30 جويلية 2026، الاختبار الكتابي 7 سبتمبر 2026). مناظرات الصحة العسكرية (وزارة الدفاع الوطني) ونظار الأمن في الاختصاصات شبه الطبية (وزارة الداخلية) مدرجة في عائلاتها الخاصة. كل المعطيات الواردة هنا منقولة عن الصحافة أو مقترحة من فريق البحث ولم تتم مطابقتها بعد مع البلاغات والقرارات الرسمية.",
+  "description_fr": "Cette famille regroupe les concours externes sur épreuves pour le recrutement de cadres paramédicaux dans les grades de la santé publique (technicien supérieur et technicien supérieur principal de la santé publique : soins infirmiers, obstétrique/sage-femme, nutrition, imagerie, biologie médicale, anesthésie…). Point essentiel : selon la presse, le ministère de la Santé ne recrute pas actuellement les infirmiers, techniciens et aides-soignants par concours écrit mais à partir de listes d'attente régionales (circulaire n° 24/2025), avec environ 1 000 aides-soignants programmés en 2026. D'autres employeurs publics ouvrent toutefois ponctuellement des concours sur épreuves dans les grades de la santé publique, par exemple les offices des œuvres universitaires : 18 techniciens supérieurs principaux de la santé publique, spécialité nutrition humaine (date limite 30/07/2026, écrit le 07/09/2026). Les concours de la santé militaire (Défense) et des inspecteurs de police paramédicaux (Intérieur) figurent dans leurs propres familles. Toutes les informations ci-dessous proviennent de la presse ou sont des suggestions de l'équipe de recherche, non encore recoupées avec les avis et arrêtés officiels.",
+  "frequency": "IRREGULAR",
+  "frequency_confidence": "LOW",
+  "popularity": 3,
+  "keywords": [
+   "شبه طبي",
+   "الإطارات شبه الطبية",
+   "شبه الطبيين",
+   "ممرض",
+   "ممرضة",
+   "تمريض",
+   "علوم التمريض",
+   "فني سامي للصحة العمومية",
+   "فني سامي أول للصحة العمومية",
+   "تقني سامي للصحة",
+   "قابلة",
+   "قبالة",
+   "مساعد علاج",
+   "تغذية",
+   "التغذية البشرية",
+   "أخصائي تغذية",
+   "تصوير طبي",
+   "تحاليل طبية",
+   "تخدير وإنعاش",
+   "وزارة الصحة",
+   "انتداب وزارة الصحة",
+   "قائمات الانتظار",
+   "دواوين الخدمات الجامعية",
+   "مناظرة الصحة",
+   "paramédical",
+   "paramedical",
+   "infirmier",
+   "infirmière",
+   "technicien supérieur de la santé publique",
+   "technicien supérieur principal",
+   "sage-femme",
+   "aide-soignant",
+   "nutritionniste",
+   "diététicien",
+   "nutrition humaine",
+   "imagerie médicale",
+   "biologie médicale",
+   "anesthésie",
+   "ministère de la Santé",
+   "concours santé Tunisie",
+   "recrutement santé publique",
+   "office des œuvres universitaires",
+   "OOU",
+   "liste d'attente santé"
+  ]
+ },
+ "sources": [
+  {
+   "key": "s1",
+   "title": "Santé : 1 000 recrutements d'aides-soignants programmés en 2026 (Tunisie Numérique) [titre reconstitué à partir de l'URL]",
+   "url": "https://www.tunisienumerique.com/sante-1000-recrutements-daides-soignants-programmes-en-2026/",
+   "publisher": "Tunisie Numérique",
+   "source_type": "SECONDARY",
+   "publication_date": null,
+   "retrieved_at": "2026-10-07",
+   "confidence": "MEDIUM",
+   "notes": "PAGE NON OUVERTE dans cette passe (quota WebSearch épuisé dès la première requête ; WebFetch refusé par le proxy du conteneur — EGRESS_BLOCKED). Contenu connu uniquement par le résumé consigné le 07/10/2026 dans docs/research/01-market-raw.md (section Santé) : « Nurses/technicians/aides: not by concours — governorate waiting lists (circular 24/2025) ». À relire intégralement : contenu exact de la circulaire n° 24/2025, critères de classement, nombre de postes par catégorie."
+  },
+  {
+   "key": "s2",
+   "title": "مناظرة خارجية بالاختبارات لانتداب 18 فنيا ساميا أول للصحة العمومية اختصاص التغذية البشرية لفائدة دواوين الخدمات الجامعية (Tuniscope) [titre repris du relevé des ouvertures]",
+   "url": "https://www.tuniscope.com/ar/article/435079/actu-arabe/arabe/concours-sante-tunisie-553911",
+   "publisher": "Tuniscope (arabe)",
+   "source_type": "SECONDARY",
+   "publication_date": null,
+   "retrieved_at": "2026-10-07",
+   "confidence": "MEDIUM",
+   "notes": "PAGE NON OUVERTE dans cette passe (quota WebSearch épuisé dès la première requête ; WebFetch refusé par le proxy du conteneur — EGRESS_BLOCKED). Faits connus via content/competitions/_openings.json (généré le 07/10/2026) : 18 postes, grade technicien supérieur principal de la santé publique, spécialité nutrition humaine, au profit des offices des œuvres universitaires (ministère de l'Enseignement supérieur), niveau licence, date limite d'inscription 30/07/2026, épreuve le 07/09/2026. Matières, âge, pièces et résultats non connus."
+  },
+  {
+   "key": "s3",
+   "title": "Santé publique : 544 postes ouverts dont 434 médecins spécialistes (Webdo) [titre reconstitué à partir de l'URL]",
+   "url": "https://www.webdo.tn/fr/actualite/national/sante-publique-544-postes-ouverts-dont-434-medecins-specialistes/403571/",
+   "publisher": "Webdo",
+   "source_type": "SECONDARY",
+   "publication_date": null,
+   "retrieved_at": "2026-10-07",
+   "confidence": "MEDIUM",
+   "notes": "PAGE NON OUVERTE dans cette passe (quota WebSearch épuisé dès la première requête ; WebFetch refusé par le proxy du conteneur — EGRESS_BLOCKED). Contexte uniquement (corps médical, hors périmètre paramédical) : 544 postes de santé publique 2026 dont 434 médecins spécialistes (concours sur titres et travaux à partir du 16/11/2026), selon docs/research/01-market-raw.md et _openings.json. Montre que le ministère recourt au concours pour les médecins, pharmaciens et dentistes, pas (selon s1) pour le paramédical."
+  },
+  {
+   "key": "s4",
+   "title": "Recrutements prévus par la loi de finances 2026, répartition par ministère (AllAfrica) [titre non connu — reconstitué]",
+   "url": "https://fr.allafrica.com/stories/202510300467.html",
+   "publisher": "AllAfrica (reprise de presse tunisienne)",
+   "source_type": "SECONDARY",
+   "publication_date": null,
+   "retrieved_at": "2026-10-07",
+   "confidence": "LOW",
+   "notes": "PAGE NON OUVERTE dans cette passe (quota WebSearch épuisé dès la première requête ; WebFetch refusé par le proxy du conteneur — EGRESS_BLOCKED). Le résumé de docs/research/01-market-raw.md attribue à cette page (avec un article Webdo) la répartition des recrutements 2026 par ministère, dont « Health ~4,000 ». Attribution exacte du chiffre santé à cette page non certaine ; part paramédicale inconnue."
+  },
+  {
+   "key": "s5",
+   "title": "فتح مناظرة لانتداب 90 تقنيا ساميا لفائدة الصحة العسكرية (Radio nationale) [titre repris de l'URL]",
+   "url": "https://www.radionationale.tn/article/6aa1a0160d094f0934c1704f/%D9%81%D8%AA%D8%AD-%D9%85%D9%86%D8%A7%D8%B8%D8%B1%D8%A9-%D9%84%D8%A7%D9%86%D8%AA%D8%AF%D8%A7%D8%A8-90-%D8%AA%D9%82%D9%86%D9%8A%D8%A7-%D8%B3%D8%A7%D9%85%D9%8A%D8%A7-%D9%84%D9%81%D8%A7%D8%A6%D8%AF%D8%A9-%D8%A7%D9%84%D8%B5%D8%AD%D8%A9-%D8%A7%D9%84%D8%B9%D8%B3%D9%83%D8%B1%D9%8A%D8%A9",
+   "publisher": "Radio nationale tunisienne",
+   "source_type": "SECONDARY",
+   "publication_date": null,
+   "retrieved_at": "2026-10-07",
+   "confidence": "LOW",
+   "notes": "PAGE NON OUVERTE dans cette passe (quota WebSearch épuisé dès la première requête ; WebFetch refusé par le proxy du conteneur — EGRESS_BLOCKED). Renvoi croisé seulement : 90 techniciens supérieurs de la santé militaire (grade d'adjudant), bac + 2 / licence, âge max. 40 ans, date limite 30/10/2026, épreuve le 01/12/2026. Déjà décrit comme position et édition dans armee-ecoles-militaires.json (non dupliqué ici ; le seed des ouvertures déduplique sur la date limite + la date d'examen)."
+  },
+  {
+   "key": "s6",
+   "title": "إعلان عن فتح مناظرة لإنتداب نظار أمن بسلك الأمن الوطني و الشرطة الوطنية إختصاصات شبه طبية (interieur.gov.tn)",
+   "url": "https://www.interieur.gov.tn/actualite/32266/%D8%A5%D8%B9%D9%84%D8%A7%D9%86-%D8%B9%D9%86-%D9%81%D8%AA%D8%AD-%D9%85%D9%86%D8%A7%D8%B8%D8%B1%D8%A9-%D9%84%D8%A5%D9%86%D8%AA%D8%AF%D8%A7%D8%A8-%D9%86%D8%B8%D8%A7%D8%B1-%D8%A3%D9%85%D9%86-%D8%A8%D8%B3%D9%84%D9%83-%D8%A7%D9%84%D8%A3%D9%85%D9%86-%D8%A7%D9%84%D9%88%D8%B7%D9%86%D9%8A-%D9%88-%D8%A7%D9%84%D8%B4%D8%B1%D8%B7%D8%A9-%D8%A7%D9%84%D9%88%D8%B7%D9%86%D9%8A%D8%A9-%D8%A5%D8%AE%D8%AA%D8%B5%D8%A7%D8%B5%D8%A7%D8%AA-%D8%B4%D8%A8%D9%87-%D8%B7%D8%A8%D9%8A%D8%A9",
+   "publisher": "Ministère de l'Intérieur (interieur.gov.tn)",
+   "source_type": "OFFICIAL",
+   "publication_date": null,
+   "retrieved_at": "2026-10-07",
+   "confidence": "MEDIUM",
+   "notes": "PAGE NON OUVERTE dans cette passe (quota WebSearch épuisé dès la première requête ; WebFetch refusé par le proxy du conteneur — EGRESS_BLOCKED). Renvoi croisé seulement : concours d'inspecteurs de police (نظار أمن) en spécialités paramédicales, décrit dans police-inspecteur.json (URL relevée dans ce fichier). Débouché alternatif pour les diplômés paramédicaux de 20–24 ans."
+  },
+  {
+   "key": "s7",
+   "title": "Portail national des concours de la fonction publique (بوابة المناظرات الوطنية)",
+   "url": "https://www.concours.gov.tn",
+   "publisher": "Présidence du gouvernement — portail des concours",
+   "source_type": "OFFICIAL",
+   "publication_date": null,
+   "retrieved_at": "2026-10-07",
+   "confidence": "LOW",
+   "notes": "PAGE NON OUVERTE dans cette passe (quota WebSearch épuisé dès la première requête ; WebFetch refusé par le proxy du conteneur — EGRESS_BLOCKED). Cité comme canal officiel à surveiller pour les avis de concours externes (aucun avis paramédical n'a pu y être consulté). L'existence d'une inscription en ligne sur ce portail pour les concours paramédicaux est une SUGGESTION à vérifier."
+  },
+  {
+   "key": "s8",
+   "title": "Site officiel du ministère de la Santé (وزارة الصحة)",
+   "url": "http://www.santetunisie.rns.tn",
+   "publisher": "Ministère de la Santé",
+   "source_type": "OFFICIAL",
+   "publication_date": null,
+   "retrieved_at": "2026-10-07",
+   "confidence": "LOW",
+   "notes": "Domaine historique du ministère ; il NE RÉSOUT PAS en DNS depuis le conteneur (getaddrinfo ENOTFOUND) et www.sante.gov.tn est bloqué par le proxy : domaine actuel du site officiel à confirmer. Cité comme canal à surveiller (communiqués, listes d'attente, résultats)."
+  }
+ ],
+ "editions": [
+  {
+   "year": 2026,
+   "session_label": "مناظرة خارجية بالاختبارات لانتداب 18 فنيا ساميا أول للصحة العمومية اختصاص التغذية البشرية لفائدة دواوين الخدمات الجامعية (آخر أجل 30 جويلية 2026، كتابي 7 سبتمبر 2026) / Concours externe sur épreuves : 18 techniciens supérieurs principaux de la santé publique, spécialité nutrition humaine, au profit des offices des œuvres universitaires (date limite 30/07/2026, écrit le 07/09/2026)",
+   "status": "EXAM_DONE",
+   "registration_open": null,
+   "registration_deadline": "2026-07-30",
+   "exam_date": "2026-09-07",
+   "positions_count": 18,
+   "candidates_count": null,
+   "position_slugs": [
+    "technicien-superieur-principal-nutrition"
+   ],
+   "source_key": "s2",
+   "confidence": "MEDIUM",
+   "needs_verification": true
+  }
+ ],
+ "positions": [
+  {
+   "slug": "technicien-superieur-principal-nutrition",
+   "title_ar": "فني سامي أول للصحة العمومية – اختصاص التغذية البشرية (دواوين الخدمات الجامعية)",
+   "title_fr": "Technicien supérieur principal de la santé publique – spécialité nutrition humaine (offices des œuvres universitaires)",
+   "diploma_level": "LICENCE",
+   "eligibility": {
+    "min_age": 18,
+    "max_age": 40,
+    "genders": [
+     "M",
+     "F"
+    ],
+    "nationality": "TN",
+    "diplomas": [
+     "LICENCE"
+    ],
+    "specialties": [
+     "nutrition",
+     "dietet",
+     "تغذية",
+     "حمية"
+    ],
+    "min_height_cm_male": null,
+    "min_height_cm_female": null,
+    "marital_status": null,
+    "other_ar": [
+     "شهادة الإجازة في التغذية البشرية أو شهادة معادلة لها (حسب عنوان المناظرة كما نقلته الصحافة: «فني سامي أول للصحة العمومية اختصاص التغذية البشرية»)",
+     "عدد الخطط: 18 لفائدة دواوين الخدمات الجامعية (الشمال والوسط والجنوب) — توزيع الخطط على الدواوين غير معروف",
+     "[مقترح] السن: 18 سنة على الأقل و40 سنة على الأكثر في تاريخ غلق الترشحات، وفق القواعد العامة للانتداب في الوظيفة العمومية (مع إمكانية التمديد لبعض الفئات كمن أدى الخدمة الوطنية) — يجب التثبت من قرار فتح المناظرة",
+     "[مقترح] الجنسية التونسية والتمتع بالحقوق المدنية وحسن السيرة (بطاقة عدد 3)",
+     "[مقترح] القدرة البدنية والصحية على ممارسة الوظيفة بكامل تراب الجمهورية (شهادة طبية عند الانتداب)",
+     "[مقترح] تسوية الوضعية تجاه الخدمة الوطنية بالنسبة للذكور",
+     "[مقترح] الشهائد الأجنبية أو شهائد المؤسسات الخاصة يجب أن تكون معادلة أو معترفا بها من الوزارة المختصة"
+    ],
+    "other_fr": [
+     "Licence en nutrition humaine ou diplôme équivalent (d'après l'intitulé relayé par la presse : « technicien supérieur principal de la santé publique, spécialité nutrition humaine »)",
+     "18 postes au profit des offices des œuvres universitaires (Nord, Centre, Sud) — répartition entre offices inconnue",
+     "[Suggestion] Âge : 18 ans au moins et 40 ans au plus à la date de clôture des candidatures, selon les règles générales de recrutement dans la fonction publique (prorogations possibles pour certaines catégories, ex. service national accompli) — à vérifier dans l'arrêté d'ouverture",
+     "[Suggestion] Nationalité tunisienne, jouissance des droits civiques et bonne moralité (bulletin n° 3)",
+     "[Suggestion] Aptitude physique et médicale à exercer sur tout le territoire (certificat médical au recrutement)",
+     "[Suggestion] Situation régulière vis-à-vis du service national pour les candidats masculins",
+     "[Suggestion] Les diplômes étrangers ou d'établissements privés doivent être reconnus ou faire l'objet d'une équivalence par le ministère compétent"
+    ],
+    "source_key": "s2",
+    "confidence": "MEDIUM",
+    "needs_verification": true,
+    "source_quote": null
+   },
+   "phases": [
+    {
+     "order": 1,
+     "kind": "WRITTEN",
+     "name_ar": "المرحلة الأولى: الاختبارات الكتابية (القبول الأولي)",
+     "name_fr": "Phase 1 : épreuves écrites (admissibilité)",
+     "is_eliminatory": true,
+     "duration_minutes": null,
+     "description_ar": "أجري الاختبار الكتابي يوم 7 سبتمبر 2026 حسب الصحافة. محتواه غير منشور في المصادر المتاحة؛ يرجح (مقترح) أن يتضمن اختبارا في الاختصاص (التغذية البشرية، علم الحمية، التغذية الجماعية وسلامة الأغذية بالمطاعم الجامعية) واختبارا في الثقافة العامة أو تحرير موضوع. المدة والضوارب غير معروفة.",
+     "description_fr": "Écrit tenu le 07/09/2026 selon la presse. Contenu non publié dans les sources disponibles ; probablement (suggestion) une épreuve de spécialité (nutrition humaine, diététique, restauration collective et sécurité sanitaire des aliments en restaurant universitaire) et une épreuve de culture générale ou de rédaction. Durées et coefficients inconnus.",
+     "source_key": "s2",
+     "confidence": "MEDIUM",
+     "needs_verification": true
+    },
+    {
+     "order": 2,
+     "kind": "ORAL",
+     "name_ar": "المرحلة الثانية: اختبار شفاهي (القبول النهائي) — إن وجد",
+     "name_fr": "Phase 2 : épreuve orale (admission) — le cas échéant",
+     "is_eliminatory": true,
+     "duration_minutes": null,
+     "description_ar": "[مقترح] تتضمن بعض المناظرات الخارجية بالاختبارات في رتب الفنيين السامين للصحة العمومية نقاشا مع لجنة المناظرة حول الاختصاص والحوافز ومعرفة المؤسسة المنتدبة وأخلاقيات المهنة. وجود هذا الاختبار وضاربه ومدته غير مؤكدة ويجب التثبت منها في قرار فتح المناظرة.",
+     "description_fr": "[Suggestion] Certains concours externes sur épreuves pour les grades de techniciens supérieurs de la santé publique comportent un entretien avec le jury (spécialité, motivation, connaissance de l'établissement recruteur, déontologie). Existence, coefficient et durée non confirmés : à vérifier dans l'arrêté d'ouverture.",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "order": 3,
+     "kind": "MEDICAL",
+     "name_ar": "المرحلة الثالثة: الفحص الطبي واستكمال ملف الانتداب",
+     "name_fr": "Phase 3 : visite médicale et dossier de recrutement",
+     "is_eliminatory": true,
+     "duration_minutes": null,
+     "description_ar": "[مقترح] بعد التصريح بالنتائج النهائية يُطلب من الناجحين شهادة طبية تثبت القدرة على ممارسة الوظيفة وبطاقة عدد 3 وبقية الوثائق الإدارية قبل التسمية.",
+     "description_fr": "[Suggestion] Après la proclamation des résultats, les admis fournissent un certificat d'aptitude médicale, le bulletin n° 3 et les autres pièces administratives avant la nomination.",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "order": 4,
+     "kind": "TRAINING",
+     "name_ar": "المرحلة الرابعة: فترة التربص قبل الترسيم",
+     "name_fr": "Phase 4 : stage probatoire avant titularisation",
+     "is_eliminatory": false,
+     "duration_minutes": null,
+     "description_ar": "[مقترح] يقضي العون المنتدب في الوظيفة العمومية عادة فترة تربص (سنة في الغالب) يرسم بعدها في رتبته إذا كان عمله مرضيا. المدة الدقيقة تحددها النصوص المنطبقة على السلك.",
+     "description_fr": "[Suggestion] L'agent recruté dans la fonction publique effectue généralement un stage (souvent d'un an) avant d'être titularisé si sa manière de servir est satisfaisante. La durée exacte dépend des textes applicables au corps.",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    }
+   ],
+   "subjects": [
+    {
+     "phase_order": 1,
+     "domain": "SPECIALTY",
+     "specialty_key": "spec.sante-paramedical.nutrition",
+     "name_ar": "اختبار في الاختصاص: التغذية البشرية وعلم الحمية والتغذية العلاجية",
+     "name_fr": "Épreuve de spécialité : nutrition humaine, diététique et nutrition thérapeutique",
+     "coefficient": null,
+     "duration_minutes": null,
+     "question_count": null,
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "phase_order": 1,
+     "domain": "SPECIALTY",
+     "specialty_key": "spec.sante-paramedical.nutrition.restauration-collective",
+     "name_ar": "التغذية الجماعية وسلامة الأغذية (المطاعم الجامعية، منهجية HACCP، إعداد قائمات الأكلات)",
+     "name_fr": "Restauration collective et sécurité sanitaire des aliments (restaurants universitaires, méthode HACCP, élaboration des menus)",
+     "coefficient": null,
+     "duration_minutes": null,
+     "question_count": null,
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "phase_order": 1,
+     "domain": "NUMERICAL",
+     "specialty_key": null,
+     "name_ar": "حسابات غذائية: الحاجيات الطاقية، مؤشر كتلة الجسم، تركيب الوجبات والكميات",
+     "name_fr": "Calculs nutritionnels : besoins énergétiques, IMC, composition des rations et quantités",
+     "coefficient": null,
+     "duration_minutes": null,
+     "question_count": null,
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "phase_order": 1,
+     "domain": "CULTURE_GENERALE",
+     "specialty_key": null,
+     "name_ar": "تحرير موضوع في الثقافة العامة أو في مسألة صحية أو اجتماعية عامة",
+     "name_fr": "Rédaction sur un sujet de culture générale ou une question sanitaire et sociale",
+     "coefficient": null,
+     "duration_minutes": null,
+     "question_count": null,
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "phase_order": 2,
+     "domain": "SPECIALTY",
+     "specialty_key": "spec.sante-paramedical.systeme-sante",
+     "name_ar": "اختبار شفاهي (إن وجد): المؤسسة المنتدبة (الخدمات الجامعية)، أخلاقيات المهنة، الحوافز",
+     "name_fr": "Oral (le cas échéant) : établissement recruteur (œuvres universitaires), déontologie, motivation",
+     "coefficient": null,
+     "duration_minutes": null,
+     "question_count": null,
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    }
+   ],
+   "physical_tests": [],
+   "required_documents": [
+    {
+     "text_ar": "[مقترح] مطلب ترشح ممضى من المترشح (أو استمارة التسجيل عن بعد إن تم اعتماد منصة إلكترونية)",
+     "text_fr": "[Suggestion] Demande de candidature signée (ou formulaire d'inscription en ligne si une plateforme est utilisée)",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "text_ar": "[مقترح] نسخة من بطاقة التعريف الوطنية",
+     "text_fr": "[Suggestion] Copie de la carte d'identité nationale",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "text_ar": "[مقترح] نسخة مطابقة للأصل من شهادة الإجازة في التغذية البشرية، مع قرار المعادلة بالنسبة للشهائد الأجنبية",
+     "text_fr": "[Suggestion] Copie certifiée conforme du diplôme de licence en nutrition humaine, avec l'arrêté d'équivalence pour les diplômes étrangers",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "text_ar": "[مقترح] نسخة من شهادة الباكالوريا وكشوف أعداد سنوات الدراسة",
+     "text_fr": "[Suggestion] Copie du baccalauréat et des relevés de notes des années d'études",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "text_ar": "[مقترح] شهادة في الوضعية تجاه الخدمة الوطنية (للذكور)",
+     "text_fr": "[Suggestion] Attestation de situation vis-à-vis du service national (candidats masculins)",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "text_ar": "[مقترح] ظرفان خالصا معلوم البريد يحملان عنوان المترشح",
+     "text_fr": "[Suggestion] Deux enveloppes timbrées portant l'adresse du candidat",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "text_ar": "[مقترح] عند الانتداب: بطاقة عدد 3 حديثة وشهادة طبية في القدرة البدنية ومضمون ولادة",
+     "text_fr": "[Suggestion] Au recrutement : bulletin n° 3 récent, certificat médical d'aptitude et extrait de naissance",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    }
+   ],
+   "blueprint": {
+    "total_minutes": 115,
+    "fidelity": "APPROXIMATED",
+    "sections": [
+     {
+      "domain": "SPECIALTY",
+      "specialty_key": "spec.sante-paramedical.nutrition",
+      "count": 30,
+      "minutes": 45
+     },
+     {
+      "domain": "SPECIALTY",
+      "specialty_key": "spec.sante",
+      "count": 10,
+      "minutes": 15
+     },
+     {
+      "domain": "SPECIALTY",
+      "specialty_key": "spec.sante-paramedical.systeme-sante",
+      "count": 8,
+      "minutes": 10
+     },
+     {
+      "domain": "NUMERICAL",
+      "specialty_key": null,
+      "count": 8,
+      "minutes": 15
+     },
+     {
+      "domain": "CULTURE_GENERALE",
+      "specialty_key": null,
+      "count": 12,
+      "minutes": 15
+     },
+     {
+      "domain": "FRENCH",
+      "specialty_key": null,
+      "count": 10,
+      "minutes": 15
+     }
+    ]
+   }
+  },
+  {
+   "slug": "technicien-superieur-principal-sante-publique",
+   "title_ar": "فني سامي أول للصحة العمومية – الاختصاصات شبه الطبية (تمريض، قبالة، تصوير طبي، تحاليل طبية، تخدير وإنعاش، علاج طبيعي...)",
+   "title_fr": "Technicien supérieur principal de la santé publique – spécialités paramédicales (soins infirmiers, sage-femme, imagerie, biologie médicale, anesthésie-réanimation, kinésithérapie…)",
+   "diploma_level": "LICENCE",
+   "eligibility": {
+    "min_age": 18,
+    "max_age": 40,
+    "genders": [
+     "M",
+     "F"
+    ],
+    "nationality": "TN",
+    "diplomas": [
+     "LICENCE"
+    ],
+    "specialties": [
+     "infirm",
+     "تمريض",
+     "ممرض",
+     "sage-femme",
+     "sage femme",
+     "obstetri",
+     "قبالة",
+     "قابلة",
+     "imagerie",
+     "radiolog",
+     "أشعة",
+     "تصوير طبي",
+     "biologie medicale",
+     "laboratoire",
+     "تحاليل",
+     "مخبر",
+     "anesthes",
+     "تخدير",
+     "kinesitherap",
+     "physiotherap",
+     "علاج طبيعي",
+     "paramedical",
+     "شبه طبي"
+    ],
+    "min_height_cm_male": null,
+    "min_height_cm_female": null,
+    "marital_status": null,
+    "other_ar": [
+     "تنبيه (حسب الصحافة): خريجو الاختصاصات شبه الطبية يُنتدبون بوزارة الصحة أساسا عبر قائمات انتظار جهوية (منشور عدد 24 لسنة 2025) وليس عبر مناظرة كتابية؛ هذه الخطة تخص المناظرات الخارجية بالاختبارات التي قد تفتحها هياكل عمومية أخرى أو الوزارة نفسها بصفة استثنائية",
+     "[مقترح] الإجازة (التطبيقية في الغالب) في اختصاص شبه طبي من المعاهد العليا لعلوم التمريض أو للتقنيات الطبية أو شهادة معادلة؛ الربط بين الإجازة ورتبة «فني سامي أول» مستنتج من مناظرة التغذية لسنة 2026 ويجب التثبت منه لكل اختصاص (خاصة القوابل والممرضين)",
+     "[مقترح] الكلمات المفتاحية في حقل الاختصاصات معدة لمطابقة الملفات الشخصية فقط وليست قائمة رسمية",
+     "[مقترح] السن: 18 سنة على الأقل و40 سنة على الأكثر في تاريخ غلق الترشحات، وفق القواعد العامة للانتداب في الوظيفة العمومية (مع إمكانية التمديد لبعض الفئات كمن أدى الخدمة الوطنية) — يجب التثبت من قرار فتح المناظرة",
+     "[مقترح] الجنسية التونسية والتمتع بالحقوق المدنية وحسن السيرة (بطاقة عدد 3)",
+     "[مقترح] القدرة البدنية والصحية على ممارسة الوظيفة بكامل تراب الجمهورية (شهادة طبية عند الانتداب)",
+     "[مقترح] تسوية الوضعية تجاه الخدمة الوطنية بالنسبة للذكور",
+     "[مقترح] الشهائد الأجنبية أو شهائد المؤسسات الخاصة يجب أن تكون معادلة أو معترفا بها من الوزارة المختصة"
+    ],
+    "other_fr": [
+     "Attention (selon la presse) : au ministère de la Santé, les diplômés paramédicaux sont surtout recrutés à partir de listes d'attente régionales (circulaire n° 24/2025) et non par concours écrit ; cette fiche concerne les concours externes sur épreuves que d'autres employeurs publics, ou exceptionnellement le ministère, peuvent ouvrir",
+     "[Suggestion] Licence (généralement appliquée) dans une spécialité paramédicale délivrée par un institut supérieur des sciences infirmières ou des technologies de la santé, ou diplôme équivalent ; la correspondance licence ↔ grade de « technicien supérieur principal » est déduite du concours nutrition 2026 et doit être vérifiée pour chaque spécialité (notamment sages-femmes et infirmiers)",
+     "[Suggestion] Les mots-clés du champ « spécialités » servent uniquement à l'appariement avec les profils, ce n'est pas une liste officielle",
+     "[Suggestion] Âge : 18 ans au moins et 40 ans au plus à la date de clôture des candidatures, selon les règles générales de recrutement dans la fonction publique (prorogations possibles pour certaines catégories, ex. service national accompli) — à vérifier dans l'arrêté d'ouverture",
+     "[Suggestion] Nationalité tunisienne, jouissance des droits civiques et bonne moralité (bulletin n° 3)",
+     "[Suggestion] Aptitude physique et médicale à exercer sur tout le territoire (certificat médical au recrutement)",
+     "[Suggestion] Situation régulière vis-à-vis du service national pour les candidats masculins",
+     "[Suggestion] Les diplômes étrangers ou d'établissements privés doivent être reconnus ou faire l'objet d'une équivalence par le ministère compétent"
+    ],
+    "source_key": "s1",
+    "confidence": "LOW",
+    "needs_verification": true,
+    "source_quote": null
+   },
+   "phases": [
+    {
+     "order": 1,
+     "kind": "WRITTEN",
+     "name_ar": "المرحلة الأولى: الاختبارات الكتابية (القبول الأولي)",
+     "name_fr": "Phase 1 : épreuves écrites (admissibilité)",
+     "is_eliminatory": true,
+     "duration_minutes": null,
+     "description_ar": "[مقترح] لم يُعثر على مناظرة خارجية بالاختبارات حديثة لهذه الرتبة في الاختصاصات التمريضية والتقنية لدى وزارة الصحة (الانتداب عبر قائمات الانتظار حسب الصحافة). عند فتح مناظرة، يرجح أن تتضمن اختبارا كتابيا في الاختصاص (علاجات تمريضية أو قبالة أو تقنيات طبية حسب الاختصاص، صحة عمومية ونظافة استشفائية، حساب الجرعات) واختبارا في الثقافة العامة.",
+     "description_fr": "[Suggestion] Aucun concours externe sur épreuves récent n'a été trouvé pour ce grade dans les spécialités infirmières et techniques au ministère de la Santé (recrutement par listes d'attente selon la presse). En cas d'ouverture, l'écrit comporterait probablement une épreuve de spécialité (soins infirmiers, obstétrique ou techniques médicales selon la spécialité, santé publique et hygiène hospitalière, calcul de doses) et une épreuve de culture générale.",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "order": 2,
+     "kind": "ORAL",
+     "name_ar": "المرحلة الثانية: اختبار شفاهي (القبول النهائي) — إن وجد",
+     "name_fr": "Phase 2 : épreuve orale (admission) — le cas échéant",
+     "is_eliminatory": true,
+     "duration_minutes": null,
+     "description_ar": "[مقترح] تتضمن بعض المناظرات الخارجية بالاختبارات في رتب الفنيين السامين للصحة العمومية نقاشا مع لجنة المناظرة حول الاختصاص والحوافز ومعرفة المؤسسة المنتدبة وأخلاقيات المهنة. وجود هذا الاختبار وضاربه ومدته غير مؤكدة ويجب التثبت منها في قرار فتح المناظرة.",
+     "description_fr": "[Suggestion] Certains concours externes sur épreuves pour les grades de techniciens supérieurs de la santé publique comportent un entretien avec le jury (spécialité, motivation, connaissance de l'établissement recruteur, déontologie). Existence, coefficient et durée non confirmés : à vérifier dans l'arrêté d'ouverture.",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "order": 3,
+     "kind": "MEDICAL",
+     "name_ar": "المرحلة الثالثة: الفحص الطبي واستكمال ملف الانتداب",
+     "name_fr": "Phase 3 : visite médicale et dossier de recrutement",
+     "is_eliminatory": true,
+     "duration_minutes": null,
+     "description_ar": "[مقترح] بعد التصريح بالنتائج النهائية يُطلب من الناجحين شهادة طبية تثبت القدرة على ممارسة الوظيفة وبطاقة عدد 3 وبقية الوثائق الإدارية قبل التسمية.",
+     "description_fr": "[Suggestion] Après la proclamation des résultats, les admis fournissent un certificat d'aptitude médicale, le bulletin n° 3 et les autres pièces administratives avant la nomination.",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "order": 4,
+     "kind": "TRAINING",
+     "name_ar": "المرحلة الرابعة: فترة التربص قبل الترسيم",
+     "name_fr": "Phase 4 : stage probatoire avant titularisation",
+     "is_eliminatory": false,
+     "duration_minutes": null,
+     "description_ar": "[مقترح] يقضي العون المنتدب في الوظيفة العمومية عادة فترة تربص (سنة في الغالب) يرسم بعدها في رتبته إذا كان عمله مرضيا. المدة الدقيقة تحددها النصوص المنطبقة على السلك.",
+     "description_fr": "[Suggestion] L'agent recruté dans la fonction publique effectue généralement un stage (souvent d'un an) avant d'être titularisé si sa manière de servir est satisfaisante. La durée exacte dépend des textes applicables au corps.",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    }
+   ],
+   "subjects": [
+    {
+     "phase_order": 1,
+     "domain": "SPECIALTY",
+     "specialty_key": "spec.sante",
+     "name_ar": "اختبار في الاختصاص: العلاجات التمريضية والصحة العمومية والنظافة الاستشفائية",
+     "name_fr": "Épreuve de spécialité : soins infirmiers, santé publique et hygiène hospitalière",
+     "coefficient": null,
+     "duration_minutes": null,
+     "question_count": null,
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "phase_order": 1,
+     "domain": "SPECIALTY",
+     "specialty_key": "spec.sante-paramedical.techniques-sante",
+     "name_ar": "الاختصاص الدقيق حسب الخطة: القبالة، التصوير الطبي، التحاليل الطبية، التخدير والإنعاش، العلاج الطبيعي",
+     "name_fr": "Spécialité selon le poste : obstétrique, imagerie médicale, biologie médicale, anesthésie-réanimation, kinésithérapie",
+     "coefficient": null,
+     "duration_minutes": null,
+     "question_count": null,
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "phase_order": 1,
+     "domain": "NUMERICAL",
+     "specialty_key": null,
+     "name_ar": "حساب الجرعات والمحاليل وسرعة السيلان وتحويل الوحدات",
+     "name_fr": "Calcul de doses, dilutions, débits de perfusion et conversions d'unités",
+     "coefficient": null,
+     "duration_minutes": null,
+     "question_count": null,
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "phase_order": 1,
+     "domain": "CULTURE_GENERALE",
+     "specialty_key": null,
+     "name_ar": "تحرير موضوع في الثقافة العامة أو في مسألة صحية عامة",
+     "name_fr": "Rédaction sur un sujet de culture générale ou de santé publique",
+     "coefficient": null,
+     "duration_minutes": null,
+     "question_count": null,
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "phase_order": 2,
+     "domain": "SPECIALTY",
+     "specialty_key": "spec.sante-paramedical.systeme-sante",
+     "name_ar": "اختبار شفاهي (إن وجد): المنظومة الصحية، حقوق المريض، أخلاقيات المهنة، الحوافز",
+     "name_fr": "Oral (le cas échéant) : système de santé, droits du patient, déontologie, motivation",
+     "coefficient": null,
+     "duration_minutes": null,
+     "question_count": null,
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    }
+   ],
+   "physical_tests": [],
+   "required_documents": [
+    {
+     "text_ar": "[مقترح] مطلب ترشح ممضى من المترشح (أو استمارة التسجيل عن بعد إن تم اعتماد منصة إلكترونية)",
+     "text_fr": "[Suggestion] Demande de candidature signée (ou formulaire d'inscription en ligne si une plateforme est utilisée)",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "text_ar": "[مقترح] نسخة من بطاقة التعريف الوطنية",
+     "text_fr": "[Suggestion] Copie de la carte d'identité nationale",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "text_ar": "[مقترح] نسخة مطابقة للأصل من شهادة الإجازة في الاختصاص شبه الطبي، مع قرار المعادلة بالنسبة للشهائد الأجنبية",
+     "text_fr": "[Suggestion] Copie certifiée conforme du diplôme de licence dans la spécialité paramédicale, avec l'arrêté d'équivalence pour les diplômes étrangers",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "text_ar": "[مقترح] نسخة من شهادة الباكالوريا وكشوف أعداد سنوات الدراسة",
+     "text_fr": "[Suggestion] Copie du baccalauréat et des relevés de notes des années d'études",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "text_ar": "[مقترح] شهادة في الوضعية تجاه الخدمة الوطنية (للذكور)",
+     "text_fr": "[Suggestion] Attestation de situation vis-à-vis du service national (candidats masculins)",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "text_ar": "[مقترح] ظرفان خالصا معلوم البريد يحملان عنوان المترشح",
+     "text_fr": "[Suggestion] Deux enveloppes timbrées portant l'adresse du candidat",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "text_ar": "[مقترح] عند الانتداب: بطاقة عدد 3 حديثة وشهادة طبية في القدرة البدنية ومضمون ولادة",
+     "text_fr": "[Suggestion] Au recrutement : bulletin n° 3 récent, certificat médical d'aptitude et extrait de naissance",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    }
+   ],
+   "blueprint": {
+    "total_minutes": 110,
+    "fidelity": "APPROXIMATED",
+    "sections": [
+     {
+      "domain": "SPECIALTY",
+      "specialty_key": "spec.sante",
+      "count": 25,
+      "minutes": 40
+     },
+     {
+      "domain": "SPECIALTY",
+      "specialty_key": "spec.sante-paramedical.techniques-sante",
+      "count": 10,
+      "minutes": 15
+     },
+     {
+      "domain": "SPECIALTY",
+      "specialty_key": "spec.sante-paramedical.systeme-sante",
+      "count": 8,
+      "minutes": 10
+     },
+     {
+      "domain": "NUMERICAL",
+      "specialty_key": null,
+      "count": 8,
+      "minutes": 15
+     },
+     {
+      "domain": "CULTURE_GENERALE",
+      "specialty_key": null,
+      "count": 12,
+      "minutes": 15
+     },
+     {
+      "domain": "FRENCH",
+      "specialty_key": null,
+      "count": 10,
+      "minutes": 15
+     }
+    ]
+   }
+  },
+  {
+   "slug": "technicien-superieur-sante-publique",
+   "title_ar": "فني سامي للصحة العمومية (مستوى باكالوريا + سنتين) – رتبة مقترحة للتثبت",
+   "title_fr": "Technicien supérieur de la santé publique (niveau bac + 2) – grade suggéré, à vérifier",
+   "diploma_level": "BAC_PLUS_2",
+   "eligibility": {
+    "min_age": 18,
+    "max_age": 40,
+    "genders": [
+     "M",
+     "F"
+    ],
+    "nationality": "TN",
+    "diplomas": [
+     "BAC_PLUS_2"
+    ],
+    "specialties": [
+     "infirm",
+     "تمريض",
+     "ممرض",
+     "sage-femme",
+     "sage femme",
+     "obstetri",
+     "قبالة",
+     "قابلة",
+     "imagerie",
+     "radiolog",
+     "أشعة",
+     "تصوير طبي",
+     "biologie medicale",
+     "laboratoire",
+     "تحاليل",
+     "مخبر",
+     "anesthes",
+     "تخدير",
+     "kinesitherap",
+     "physiotherap",
+     "علاج طبيعي",
+     "paramedical",
+     "شبه طبي"
+    ],
+    "min_height_cm_male": null,
+    "min_height_cm_female": null,
+    "marital_status": null,
+    "other_ar": [
+     "تنبيه (حسب الصحافة): خريجو الاختصاصات شبه الطبية يُنتدبون بوزارة الصحة أساسا عبر قائمات انتظار جهوية (منشور عدد 24 لسنة 2025) وليس عبر مناظرة كتابية؛ هذه الخطة تخص المناظرات الخارجية بالاختبارات التي قد تفتحها هياكل عمومية أخرى أو الوزارة نفسها بصفة استثنائية",
+     "[مقترح] شهادة من مستوى باكالوريا + سنتين في اختصاص شبه طبي (مثل شهادة التقني السامي) معترف بها؛ وجود هذه الرتبة ومستوى الشهادة المطلوب للانتداب الخارجي فيها غير مؤكدين",
+     "[مقترح] السن: 18 سنة على الأقل و40 سنة على الأكثر في تاريخ غلق الترشحات، وفق القواعد العامة للانتداب في الوظيفة العمومية (مع إمكانية التمديد لبعض الفئات كمن أدى الخدمة الوطنية) — يجب التثبت من قرار فتح المناظرة",
+     "[مقترح] الجنسية التونسية والتمتع بالحقوق المدنية وحسن السيرة (بطاقة عدد 3)",
+     "[مقترح] القدرة البدنية والصحية على ممارسة الوظيفة بكامل تراب الجمهورية (شهادة طبية عند الانتداب)",
+     "[مقترح] تسوية الوضعية تجاه الخدمة الوطنية بالنسبة للذكور",
+     "[مقترح] الشهائد الأجنبية أو شهائد المؤسسات الخاصة يجب أن تكون معادلة أو معترفا بها من الوزارة المختصة"
+    ],
+    "other_fr": [
+     "Attention (selon la presse) : au ministère de la Santé, les diplômés paramédicaux sont surtout recrutés à partir de listes d'attente régionales (circulaire n° 24/2025) et non par concours écrit ; cette fiche concerne les concours externes sur épreuves que d'autres employeurs publics, ou exceptionnellement le ministère, peuvent ouvrir",
+     "[Suggestion] Diplôme de niveau bac + 2 dans une spécialité paramédicale (ex. brevet de technicien supérieur) reconnu ; l'existence de ce grade en recrutement externe et le diplôme exigé ne sont pas confirmés",
+     "[Suggestion] Âge : 18 ans au moins et 40 ans au plus à la date de clôture des candidatures, selon les règles générales de recrutement dans la fonction publique (prorogations possibles pour certaines catégories, ex. service national accompli) — à vérifier dans l'arrêté d'ouverture",
+     "[Suggestion] Nationalité tunisienne, jouissance des droits civiques et bonne moralité (bulletin n° 3)",
+     "[Suggestion] Aptitude physique et médicale à exercer sur tout le territoire (certificat médical au recrutement)",
+     "[Suggestion] Situation régulière vis-à-vis du service national pour les candidats masculins",
+     "[Suggestion] Les diplômes étrangers ou d'établissements privés doivent être reconnus ou faire l'objet d'une équivalence par le ministère compétent"
+    ],
+    "source_key": null,
+    "confidence": "LOW",
+    "needs_verification": true,
+    "source_quote": null
+   },
+   "phases": [
+    {
+     "order": 1,
+     "kind": "WRITTEN",
+     "name_ar": "المرحلة الأولى: الاختبارات الكتابية (القبول الأولي)",
+     "name_fr": "Phase 1 : épreuves écrites (admissibilité)",
+     "is_eliminatory": true,
+     "duration_minutes": null,
+     "description_ar": "[مقترح] لم يُعثر على أي مناظرة حديثة لهذه الرتبة. يرجح أن يتضمن الاختبار الكتابي أسئلة في العلاجات الأساسية والنظافة والصحة العمومية وحساب الجرعات، وموضوعا في الثقافة العامة.",
+     "description_fr": "[Suggestion] Aucun concours récent trouvé pour ce grade. L'écrit porterait probablement sur les soins de base, l'hygiène, la santé publique et le calcul de doses, plus un sujet de culture générale.",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "order": 2,
+     "kind": "ORAL",
+     "name_ar": "المرحلة الثانية: اختبار شفاهي (القبول النهائي) — إن وجد",
+     "name_fr": "Phase 2 : épreuve orale (admission) — le cas échéant",
+     "is_eliminatory": true,
+     "duration_minutes": null,
+     "description_ar": "[مقترح] تتضمن بعض المناظرات الخارجية بالاختبارات في رتب الفنيين للصحة العمومية نقاشا مع لجنة المناظرة حول الاختصاص والحوافز ومعرفة المؤسسة المنتدبة وأخلاقيات المهنة. وجود هذا الاختبار وضاربه ومدته غير مؤكدة ويجب التثبت منها في قرار فتح المناظرة.",
+     "description_fr": "[Suggestion] Certains concours externes sur épreuves pour les grades de techniciens de la santé publique comportent un entretien avec le jury (spécialité, motivation, connaissance de l'établissement recruteur, déontologie). Existence, coefficient et durée non confirmés : à vérifier dans l'arrêté d'ouverture.",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "order": 3,
+     "kind": "MEDICAL",
+     "name_ar": "المرحلة الثالثة: الفحص الطبي واستكمال ملف الانتداب",
+     "name_fr": "Phase 3 : visite médicale et dossier de recrutement",
+     "is_eliminatory": true,
+     "duration_minutes": null,
+     "description_ar": "[مقترح] بعد التصريح بالنتائج النهائية يُطلب من الناجحين شهادة طبية تثبت القدرة على ممارسة الوظيفة وبطاقة عدد 3 وبقية الوثائق الإدارية قبل التسمية.",
+     "description_fr": "[Suggestion] Après la proclamation des résultats, les admis fournissent un certificat d'aptitude médicale, le bulletin n° 3 et les autres pièces administratives avant la nomination.",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "order": 4,
+     "kind": "TRAINING",
+     "name_ar": "المرحلة الرابعة: فترة التربص قبل الترسيم",
+     "name_fr": "Phase 4 : stage probatoire avant titularisation",
+     "is_eliminatory": false,
+     "duration_minutes": null,
+     "description_ar": "[مقترح] يقضي العون المنتدب في الوظيفة العمومية عادة فترة تربص (سنة في الغالب) يرسم بعدها في رتبته إذا كان عمله مرضيا. المدة الدقيقة تحددها النصوص المنطبقة على السلك.",
+     "description_fr": "[Suggestion] L'agent recruté dans la fonction publique effectue généralement un stage (souvent d'un an) avant d'être titularisé si sa manière de servir est satisfaisante. La durée exacte dépend des textes applicables au corps.",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    }
+   ],
+   "subjects": [
+    {
+     "phase_order": 1,
+     "domain": "SPECIALTY",
+     "specialty_key": "spec.sante",
+     "name_ar": "اختبار في الاختصاص: العلاجات الأساسية والنظافة والصحة العمومية",
+     "name_fr": "Épreuve de spécialité : soins de base, hygiène et santé publique",
+     "coefficient": null,
+     "duration_minutes": null,
+     "question_count": null,
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "phase_order": 1,
+     "domain": "NUMERICAL",
+     "specialty_key": null,
+     "name_ar": "حساب الجرعات وتحويل الوحدات",
+     "name_fr": "Calcul de doses et conversions d'unités",
+     "coefficient": null,
+     "duration_minutes": null,
+     "question_count": null,
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "phase_order": 1,
+     "domain": "CULTURE_GENERALE",
+     "specialty_key": null,
+     "name_ar": "موضوع في الثقافة العامة",
+     "name_fr": "Sujet de culture générale",
+     "coefficient": null,
+     "duration_minutes": null,
+     "question_count": null,
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "phase_order": 1,
+     "domain": "ARABIC",
+     "specialty_key": null,
+     "name_ar": "اللغة العربية: فهم نص وتحرير",
+     "name_fr": "Arabe : compréhension et rédaction",
+     "coefficient": null,
+     "duration_minutes": null,
+     "question_count": null,
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "phase_order": 2,
+     "domain": "SPECIALTY",
+     "specialty_key": "spec.sante-paramedical.systeme-sante",
+     "name_ar": "اختبار شفاهي (إن وجد): المنظومة الصحية وأخلاقيات المهنة",
+     "name_fr": "Oral (le cas échéant) : système de santé et déontologie",
+     "coefficient": null,
+     "duration_minutes": null,
+     "question_count": null,
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    }
+   ],
+   "physical_tests": [],
+   "required_documents": [
+    {
+     "text_ar": "[مقترح] مطلب ترشح ممضى من المترشح (أو استمارة التسجيل عن بعد إن تم اعتماد منصة إلكترونية)",
+     "text_fr": "[Suggestion] Demande de candidature signée (ou formulaire d'inscription en ligne si une plateforme est utilisée)",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "text_ar": "[مقترح] نسخة من بطاقة التعريف الوطنية",
+     "text_fr": "[Suggestion] Copie de la carte d'identité nationale",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "text_ar": "[مقترح] نسخة مطابقة للأصل من الشهادة العلمية (باكالوريا + سنتين)، مع قرار المعادلة بالنسبة للشهائد الأجنبية",
+     "text_fr": "[Suggestion] Copie certifiée conforme du diplôme (bac + 2), avec l'arrêté d'équivalence pour les diplômes étrangers",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "text_ar": "[مقترح] نسخة من شهادة الباكالوريا وكشوف أعداد سنوات الدراسة",
+     "text_fr": "[Suggestion] Copie du baccalauréat et des relevés de notes des années d'études",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "text_ar": "[مقترح] شهادة في الوضعية تجاه الخدمة الوطنية (للذكور)",
+     "text_fr": "[Suggestion] Attestation de situation vis-à-vis du service national (candidats masculins)",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "text_ar": "[مقترح] ظرفان خالصا معلوم البريد يحملان عنوان المترشح",
+     "text_fr": "[Suggestion] Deux enveloppes timbrées portant l'adresse du candidat",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "text_ar": "[مقترح] عند الانتداب: بطاقة عدد 3 حديثة وشهادة طبية في القدرة البدنية ومضمون ولادة",
+     "text_fr": "[Suggestion] Au recrutement : bulletin n° 3 récent, certificat médical d'aptitude et extrait de naissance",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    }
+   ],
+   "blueprint": {
+    "total_minutes": 90,
+    "fidelity": "APPROXIMATED",
+    "sections": [
+     {
+      "domain": "SPECIALTY",
+      "specialty_key": "spec.sante",
+      "count": 25,
+      "minutes": 35
+     },
+     {
+      "domain": "SPECIALTY",
+      "specialty_key": "spec.sante-paramedical.systeme-sante",
+      "count": 8,
+      "minutes": 10
+     },
+     {
+      "domain": "NUMERICAL",
+      "specialty_key": null,
+      "count": 8,
+      "minutes": 12
+     },
+     {
+      "domain": "CULTURE_GENERALE",
+      "specialty_key": null,
+      "count": 10,
+      "minutes": 12
+     },
+     {
+      "domain": "ARABIC",
+      "specialty_key": null,
+      "count": 6,
+      "minutes": 9
+     },
+     {
+      "domain": "FRENCH",
+      "specialty_key": null,
+      "count": 8,
+      "minutes": 12
+     }
+    ]
+   }
+  }
+ ],
+ "specialty_syllabus": [
+  {
+   "key": "spec.sante-paramedical.systeme-sante",
+   "parent_key": null,
+   "level": "UNIT",
+   "title_ar": "المنظومة الصحية التونسية والإطار القانوني والأخلاقي للمهن شبه الطبية",
+   "title_fr": "Le système de santé tunisien et le cadre juridique et déontologique des professions paramédicales",
+   "scope": "SUGGESTED",
+   "source_key": null,
+   "objectives": [
+    {
+     "key": "spec.sante-paramedical.systeme-sante.o1",
+     "text_ar": "التعرف على مستويات العلاج (الخط الأول، المستشفيات الجهوية، المؤسسات الاستشفائية الجامعية) ودور وزارة الصحة وإداراتها الجهوية",
+     "text_fr": "Connaître les niveaux de soins (première ligne, hôpitaux régionaux, établissements hospitalo-universitaires) et le rôle du ministère et de ses directions régionales"
+    },
+    {
+     "key": "spec.sante-paramedical.systeme-sante.o2",
+     "text_ar": "فهم حقوق العون العمومي وواجباته: الانتداب، التربص، الترسيم، الترقية، التأديب",
+     "text_fr": "Comprendre les droits et obligations de l'agent public : recrutement, stage, titularisation, avancement, discipline"
+    }
+   ]
+  },
+  {
+   "key": "spec.sante-paramedical.systeme-sante.organisation",
+   "parent_key": "spec.sante-paramedical.systeme-sante",
+   "level": "TOPIC",
+   "title_ar": "تنظيم المنظومة الصحية والبرامج الوطنية",
+   "title_fr": "Organisation sanitaire et programmes nationaux",
+   "scope": "SUGGESTED",
+   "source_key": null,
+   "objectives": [
+    {
+     "key": "spec.sante-paramedical.systeme-sante.organisation.o1",
+     "text_ar": "التمييز بين هياكل الخط الأول (مراكز الصحة الأساسية) والخطين الثاني والثالث ومسالك العلاج",
+     "text_fr": "Distinguer les structures de première ligne (centres de santé de base) des deuxième et troisième lignes et les filières de soins"
+    },
+    {
+     "key": "spec.sante-paramedical.systeme-sante.organisation.o2",
+     "text_ar": "معرفة أهم البرامج الوطنية للصحة: التلقيح، صحة الأم والطفل، مكافحة السل، الأمراض المزمنة",
+     "text_fr": "Connaître les principaux programmes nationaux : vaccination, santé de la mère et de l'enfant, lutte antituberculeuse, maladies chroniques"
+    },
+    {
+     "key": "spec.sante-paramedical.systeme-sante.organisation.o3",
+     "text_ar": "فهم دور التأمين على المرض في تمويل العلاج",
+     "text_fr": "Comprendre le rôle de l'assurance maladie dans le financement des soins"
+    }
+   ]
+  },
+  {
+   "key": "spec.sante-paramedical.systeme-sante.deontologie",
+   "parent_key": "spec.sante-paramedical.systeme-sante",
+   "level": "TOPIC",
+   "title_ar": "أخلاقيات المهنة وحقوق المريض",
+   "title_fr": "Déontologie et droits du patient",
+   "scope": "SUGGESTED",
+   "source_key": null,
+   "objectives": [
+    {
+     "key": "spec.sante-paramedical.systeme-sante.deontologie.o1",
+     "text_ar": "تطبيق مبادئ السر المهني والموافقة المستنيرة واحترام كرامة المريض",
+     "text_fr": "Appliquer le secret professionnel, le consentement éclairé et le respect de la dignité du patient"
+    },
+    {
+     "key": "spec.sante-paramedical.systeme-sante.deontologie.o2",
+     "text_ar": "تحديد حدود صلاحيات الإطار شبه الطبي ومسؤوليته المهنية والعمل في فريق",
+     "text_fr": "Situer les limites de compétence du paramédical, sa responsabilité professionnelle et le travail en équipe"
+    }
+   ]
+  },
+  {
+   "key": "spec.sante-paramedical.systeme-sante.hygiene",
+   "parent_key": "spec.sante-paramedical.systeme-sante",
+   "level": "TOPIC",
+   "title_ar": "النظافة الاستشفائية والوقاية من العدوى",
+   "title_fr": "Hygiène hospitalière et prévention des infections",
+   "scope": "SUGGESTED",
+   "source_key": null,
+   "objectives": [
+    {
+     "key": "spec.sante-paramedical.systeme-sante.hygiene.o1",
+     "text_ar": "إتقان قواعد نظافة الأيدي والتعقيم والتطهير والاحتياطات القياسية",
+     "text_fr": "Maîtriser l'hygiène des mains, la stérilisation, la désinfection et les précautions standard"
+    },
+    {
+     "key": "spec.sante-paramedical.systeme-sante.hygiene.o2",
+     "text_ar": "معرفة طرق فرز النفايات الناتجة عن الأنشطة الصحية والتصرف فيها",
+     "text_fr": "Connaître le tri et la gestion des déchets d'activités de soins"
+    }
+   ]
+  },
+  {
+   "key": "spec.sante-paramedical.nutrition",
+   "parent_key": null,
+   "level": "UNIT",
+   "title_ar": "التغذية البشرية وعلم الحمية",
+   "title_fr": "Nutrition humaine et diététique",
+   "scope": "SUGGESTED",
+   "source_key": null,
+   "objectives": [
+    {
+     "key": "spec.sante-paramedical.nutrition.o1",
+     "text_ar": "إتقان أسس التغذية والحاجيات الغذائية حسب السن والحالة الفيزيولوجية",
+     "text_fr": "Maîtriser les bases de la nutrition et les besoins nutritionnels selon l'âge et l'état physiologique"
+    },
+    {
+     "key": "spec.sante-paramedical.nutrition.o2",
+     "text_ar": "إعداد حمية علاجية ملائمة لأهم الأمراض المرتبطة بالتغذية",
+     "text_fr": "Élaborer un régime thérapeutique adapté aux principales pathologies liées à l'alimentation"
+    }
+   ]
+  },
+  {
+   "key": "spec.sante-paramedical.nutrition.fondamentale",
+   "parent_key": "spec.sante-paramedical.nutrition",
+   "level": "TOPIC",
+   "title_ar": "التغذية الأساسية: المغذيات والحاجيات الطاقية",
+   "title_fr": "Nutrition fondamentale : nutriments et besoins énergétiques",
+   "scope": "SUGGESTED",
+   "source_key": null,
+   "objectives": [
+    {
+     "key": "spec.sante-paramedical.nutrition.fondamentale.o1",
+     "text_ar": "معرفة المغذيات الكبرى والصغرى ومصادرها ووظائفها وأعراض نقصها",
+     "text_fr": "Connaître macro- et micronutriments, leurs sources, fonctions et signes de carence"
+    },
+    {
+     "key": "spec.sante-paramedical.nutrition.fondamentale.o2",
+     "text_ar": "حساب الحاجيات الطاقية ومؤشر كتلة الجسم وتقييم الحالة الغذائية",
+     "text_fr": "Calculer les besoins énergétiques et l'IMC et évaluer l'état nutritionnel"
+    }
+   ]
+  },
+  {
+   "key": "spec.sante-paramedical.nutrition.therapeutique",
+   "parent_key": "spec.sante-paramedical.nutrition",
+   "level": "TOPIC",
+   "title_ar": "التغذية العلاجية",
+   "title_fr": "Diététique thérapeutique",
+   "scope": "SUGGESTED",
+   "source_key": null,
+   "objectives": [
+    {
+     "key": "spec.sante-paramedical.nutrition.therapeutique.o1",
+     "text_ar": "وضع حمية لمرضى السكري وارتفاع ضغط الدم والسمنة وأمراض الكلى",
+     "text_fr": "Établir un régime pour le diabète, l'hypertension, l'obésité et l'insuffisance rénale"
+    },
+    {
+     "key": "spec.sante-paramedical.nutrition.therapeutique.o2",
+     "text_ar": "التعرف على حالات سوء التغذية ومتابعتها",
+     "text_fr": "Dépister et suivre la dénutrition"
+    }
+   ]
+  },
+  {
+   "key": "spec.sante-paramedical.nutrition.restauration-collective",
+   "parent_key": "spec.sante-paramedical.nutrition",
+   "level": "TOPIC",
+   "title_ar": "التغذية الجماعية وسلامة الأغذية",
+   "title_fr": "Restauration collective et sécurité sanitaire des aliments",
+   "scope": "SUGGESTED",
+   "source_key": null,
+   "objectives": [
+    {
+     "key": "spec.sante-paramedical.nutrition.restauration-collective.o1",
+     "text_ar": "إعداد قائمات أكلات متوازنة لمطعم جماعي (جامعي أو استشفائي) في حدود الكلفة",
+     "text_fr": "Élaborer des menus équilibrés pour une restauration collective (universitaire ou hospitalière) dans un budget donné"
+    },
+    {
+     "key": "spec.sante-paramedical.nutrition.restauration-collective.o2",
+     "text_ar": "تطبيق مبادئ منهجية HACCP وسلسلة التبريد والوقاية من التسممات الغذائية الجماعية",
+     "text_fr": "Appliquer la méthode HACCP, la chaîne du froid et la prévention des toxi-infections alimentaires collectives"
+    },
+    {
+     "key": "spec.sante-paramedical.nutrition.restauration-collective.o3",
+     "text_ar": "مراقبة جودة المواد الغذائية عند الاستلام والخزن",
+     "text_fr": "Contrôler la qualité des denrées à la réception et au stockage"
+    }
+   ]
+  },
+  {
+   "key": "spec.sante-paramedical.nutrition.sante-publique",
+   "parent_key": "spec.sante-paramedical.nutrition",
+   "level": "TOPIC",
+   "title_ar": "التغذية والصحة العمومية",
+   "title_fr": "Nutrition et santé publique",
+   "scope": "SUGGESTED",
+   "source_key": null,
+   "objectives": [
+    {
+     "key": "spec.sante-paramedical.nutrition.sante-publique.o1",
+     "text_ar": "التعرف على أهم مشاكل التغذية في تونس (السمنة، فقر الدم، نقص اليود) وبرامج التثقيف الغذائي",
+     "text_fr": "Connaître les principaux problèmes nutritionnels en Tunisie (obésité, anémie, carence en iode) et l'éducation nutritionnelle"
+    }
+   ]
+  },
+  {
+   "key": "spec.sante-paramedical.techniques-sante",
+   "parent_key": null,
+   "level": "UNIT",
+   "title_ar": "الاختصاصات شبه الطبية التقنية والقبالة",
+   "title_fr": "Spécialités paramédicales techniques et obstétrique",
+   "scope": "SUGGESTED",
+   "source_key": null,
+   "objectives": [
+    {
+     "key": "spec.sante-paramedical.techniques-sante.o1",
+     "text_ar": "التمكن من المعارف الأساسية للاختصاص الدقيق المطلوب في الخطة",
+     "text_fr": "Maîtriser les connaissances de base de la spécialité demandée par le poste"
+    }
+   ]
+  },
+  {
+   "key": "spec.sante-paramedical.techniques-sante.obstetrique",
+   "parent_key": "spec.sante-paramedical.techniques-sante",
+   "level": "TOPIC",
+   "title_ar": "القبالة وصحة الأم والوليد",
+   "title_fr": "Obstétrique, santé maternelle et néonatale",
+   "scope": "SUGGESTED",
+   "source_key": null,
+   "objectives": [
+    {
+     "key": "spec.sante-paramedical.techniques-sante.obstetrique.o1",
+     "text_ar": "متابعة الحمل والتعرف على علامات الخطر",
+     "text_fr": "Suivre la grossesse et reconnaître les signes de danger"
+    },
+    {
+     "key": "spec.sante-paramedical.techniques-sante.obstetrique.o2",
+     "text_ar": "التكفل بالولادة العادية والعلاجات الأولى للوليد",
+     "text_fr": "Prendre en charge l'accouchement eutocique et les premiers soins du nouveau-né"
+    },
+    {
+     "key": "spec.sante-paramedical.techniques-sante.obstetrique.o3",
+     "text_ar": "معرفة وسائل تنظيم الأسرة ومتابعة ما بعد الولادة",
+     "text_fr": "Connaître les méthodes de planification familiale et le suivi du post-partum"
+    }
+   ]
+  },
+  {
+   "key": "spec.sante-paramedical.techniques-sante.imagerie",
+   "parent_key": "spec.sante-paramedical.techniques-sante",
+   "level": "TOPIC",
+   "title_ar": "التصوير الطبي والوقاية من الإشعاع",
+   "title_fr": "Imagerie médicale et radioprotection",
+   "scope": "SUGGESTED",
+   "source_key": null,
+   "objectives": [
+    {
+     "key": "spec.sante-paramedical.techniques-sante.imagerie.o1",
+     "text_ar": "معرفة مبادئ الأشعة والمفراس والرنين المغناطيسي والموجات فوق الصوتية",
+     "text_fr": "Connaître les principes de la radiologie, du scanner, de l'IRM et de l'échographie"
+    },
+    {
+     "key": "spec.sante-paramedical.techniques-sante.imagerie.o2",
+     "text_ar": "تطبيق قواعد الوقاية من الإشعاع للمريض وللعاملين",
+     "text_fr": "Appliquer les règles de radioprotection des patients et des travailleurs"
+    }
+   ]
+  },
+  {
+   "key": "spec.sante-paramedical.techniques-sante.biologie",
+   "parent_key": "spec.sante-paramedical.techniques-sante",
+   "level": "TOPIC",
+   "title_ar": "التحاليل الطبية والمخبر",
+   "title_fr": "Biologie médicale et laboratoire",
+   "scope": "SUGGESTED",
+   "source_key": null,
+   "objectives": [
+    {
+     "key": "spec.sante-paramedical.techniques-sante.biologie.o1",
+     "text_ar": "إتقان قواعد أخذ العينات ونقلها وحفظها",
+     "text_fr": "Maîtriser le prélèvement, le transport et la conservation des échantillons"
+    },
+    {
+     "key": "spec.sante-paramedical.techniques-sante.biologie.o2",
+     "text_ar": "معرفة القيم المرجعية لأهم التحاليل وقواعد السلامة الحيوية",
+     "text_fr": "Connaître les valeurs de référence des principaux examens et les règles de biosécurité"
+    }
+   ]
+  },
+  {
+   "key": "spec.sante-paramedical.techniques-sante.anesthesie",
+   "parent_key": "spec.sante-paramedical.techniques-sante",
+   "level": "TOPIC",
+   "title_ar": "التخدير والإنعاش",
+   "title_fr": "Anesthésie-réanimation",
+   "scope": "SUGGESTED",
+   "source_key": null,
+   "objectives": [
+    {
+     "key": "spec.sante-paramedical.techniques-sante.anesthesie.o1",
+     "text_ar": "معرفة أنواع التخدير ومراقبة المريض قبل العملية وأثناءها وبعدها",
+     "text_fr": "Connaître les types d'anesthésie et la surveillance pré-, per- et post-opératoire"
+    },
+    {
+     "key": "spec.sante-paramedical.techniques-sante.anesthesie.o2",
+     "text_ar": "التعرف على حالات الصدمة وأولويات الإنعاش",
+     "text_fr": "Reconnaître les états de choc et les priorités de réanimation"
+    }
+   ]
+  },
+  {
+   "key": "spec.sante-paramedical.techniques-sante.kinesitherapie",
+   "parent_key": "spec.sante-paramedical.techniques-sante",
+   "level": "TOPIC",
+   "title_ar": "العلاج الطبيعي وإعادة التأهيل",
+   "title_fr": "Kinésithérapie et rééducation",
+   "scope": "SUGGESTED",
+   "source_key": null,
+   "objectives": [
+    {
+     "key": "spec.sante-paramedical.techniques-sante.kinesitherapie.o1",
+     "text_ar": "معرفة تقنيات إعادة التأهيل الحركي والتنفسي الأساسية ودواعي استعمالها",
+     "text_fr": "Connaître les techniques de base de rééducation motrice et respiratoire et leurs indications"
+    }
+   ]
+  }
+ ],
+ "past_exams": [],
+ "tips_ar": [
+  "تابع في نفس الوقت بوابة المناظرات concours.gov.tn وموقع وزارة الصحة وموقع الهيكل المنتدب (دواوين الخدمات الجامعية، الشؤون الاجتماعية...) والرائد الرسمي: مناظرات الرتب شبه الطبية قليلة وغير منتظمة.",
+  "فعّل في التطبيق التنبيهات لعائلات «الصحة العسكرية» (وزارة الدفاع) و«نظار الأمن – اختصاصات شبه طبية» (وزارة الداخلية): هي اليوم أكثر المناظرات المفتوحة بانتظام لخريجي الاختصاصات شبه الطبية.",
+  "إذا كنت خريج اختصاص شبه طبي، تثبت لدى الإدارة الجهوية للصحة بولايتك من طريقة التسجيل في قائمات الانتظار (منشور عدد 24 لسنة 2025 حسب الصحافة) وحيّن ملفك بانتظام — هذه المعلومة تحتاج إلى تثبت.",
+  "جهز مسبقا نسخا مطابقة للأصل من الشهادة وكشوف الأعداد، وقرار المعادلة إن كانت شهادتك أجنبية أو من مؤسسة خاصة: الحصول عليه قد يستغرق أسابيع وآجال الترشح قصيرة (حوالي 3 إلى 4 أسابيع).",
+  "تدرّب على حساب الجرعات وسرعة السيلان وتحويل الوحدات دون آلة حاسبة: هي أسئلة متكررة في اختبارات الاختصاصات الصحية.",
+  "لمناظرة التغذية بالخدمات الجامعية: راجع خاصة التغذية الجماعية (قائمات الأكلات المتوازنة، الكلفة، منهجية HACCP، سلامة الأغذية) لأن المهام تتعلق بالمطاعم الجامعية.",
+  "اقرأ قرار فتح المناظرة كاملا: الاختصاصات المطلوبة، تاريخ احتساب السن، مكان العمل، وطريقة إرسال الملف (بريد مضمون الوصول أو منصة)، واحتفظ بوصل الإرسال.",
+  "للاختبار الشفاهي إن وجد: حضّر تقديما قصيرا لمسارك ودوافعك، وراجع حقوق المريض والسر المهني والنظافة الاستشفائية."
+ ],
+ "tips_fr": [
+  "Surveillez à la fois concours.gov.tn, le site du ministère de la Santé, celui de l'employeur (offices des œuvres universitaires, Affaires sociales…) et le JORT : les concours paramédicaux sont rares et irréguliers.",
+  "Activez aussi dans l'application les alertes des familles « Santé militaire » (Défense) et « Inspecteurs de police – spécialités paramédicales » (Intérieur) : ce sont aujourd'hui les concours les plus réguliers pour les diplômés paramédicaux.",
+  "Diplômé paramédical : renseignez-vous auprès de la direction régionale de la santé de votre gouvernorat sur l'inscription aux listes d'attente (circulaire n° 24/2025 selon la presse) et mettez votre dossier à jour — information à vérifier.",
+  "Préparez à l'avance les copies certifiées du diplôme et des relevés, et l'arrêté d'équivalence si votre diplôme est étranger ou privé : son obtention peut prendre des semaines alors que les inscriptions durent environ 3 à 4 semaines.",
+  "Entraînez-vous au calcul de doses, de débits de perfusion et aux conversions d'unités sans calculatrice : questions classiques des épreuves de spécialité santé.",
+  "Concours nutrition des œuvres universitaires : insistez sur la restauration collective (menus équilibrés, coût, HACCP, sécurité des aliments), cœur du métier en restaurant universitaire.",
+  "Lisez l'arrêté d'ouverture en entier : spécialités demandées, date de calcul de l'âge, lieu d'affectation, mode d'envoi du dossier (recommandé ou plateforme) ; gardez le reçu.",
+  "Pour un éventuel oral : préparez une courte présentation de votre parcours et de votre motivation, et révisez droits du patient, secret professionnel et hygiène hospitalière."
+ ],
+ "research_notes": "LIMITE MÉTHODOLOGIQUE MAJEURE (07/10/2026) : le quota WebSearch partagé était épuisé dès la première requête de cette passe et WebFetch a été refusé par le proxy (EGRESS_BLOCKED) pour tous les domaines essayés : www.concours.gov.tn, www.sante.gov.tn, www.iort.gov.tn, www.legislation.tn, www.tuniscope.com, www.tunisienumerique.com, www.webdo.tn, www.lapresse.tn, www.radionationale.tn, www.mosaiquefm.net, fr.allafrica.com, fr.wikipedia.org ; www.santetunisie.rns.tn ne résout pas en DNS. AUCUNE page n'a été lue directement et aucun avis ou arrêté officiel n'a pu être consulté. Les seuls faits non suggérés viennent des résumés consignés le même jour par l'équipe dans docs/research/01-market-raw.md (section Santé) et content/competitions/_openings.json. TOUS les faits portent donc needs_verification=true ; aucun source_quote n'est fourni. CONSTAT CLÉ À CONFIRMER : selon s1, les infirmiers, techniciens et aides-soignants du ministère de la Santé ne sont pas recrutés par concours mais via des listes d'attente par gouvernorat (circulaire n° 24/2025), ~1 000 aides-soignants étant programmés en 2026 ; docs/01-market-research.md classe d'ailleurs ce segment comme « pas un marché de préparation ». La famille est maintenue pour les concours sur épreuves dans les grades de la santé publique ouverts par d'autres employeurs (seul cas trouvé : OOU, 18 techniciens supérieurs principaux, nutrition humaine, 2026). À VÉRIFIER EN PRIORITÉ : (1) concours OOU 2026 : arrêté d'ouverture (JORT), intitulé exact, 18 postes et leur répartition par office, date limite 30/07/2026, écrit 07/09/2026, matières/coefficients/durées, existence d'un oral, conditions d'âge, pièces, mode d'inscription, résultats et nombre de candidats (inconnus) ; (2) contenu de la circulaire n° 24/2025 (critères de classement, inscription, catégories concernées, nombre de recrutements 2025-2026) ; (3) existence de concours externes sur épreuves du ministère de la Santé pour infirmiers, techniciens supérieurs ou sages-femmes en 2023-2026 (aucun trouvé) ; (4) statut particulier du corps paramédical (décret, intitulés exacts des grades : technicien supérieur / principal / major, infirmier, sage-femme) et grade d'entrée des licenciés selon la spécialité — la position « technicien-superieur-sante-publique » (bac + 2) est HYPOTHÉTIQUE ; (5) limites d'âge 18–40 ans = règle générale de la fonction publique supposée, non lue dans un avis ; (6) domaine actuel du site du ministère de la Santé (santetunisie.rns.tn ne résout pas ; sante.gov.tn non vérifiable) ; (7) chiffre « Santé ~4 000 recrutements » du budget 2026 (s4) et part du paramédical. TOUT LE RESTE EST SUGGÉRÉ : phases (oral, visite médicale, stage), matières, blueprints (APPROXIMATED), pièces à fournir, syllabus de spécialité (spec.sante-paramedical.*), conseils. Aucune épreuve physique n'est attendue pour ces postes civils (physical_tests vide). Annales : aucune annale officielle ni communautaire n'a pu être consultée (past_exams vide) ; pistes à explorer : groupes Facebook de diplômés des ISSTS/ISSI, sites d'annonces d'emploi. RENVOIS / DOUBLONS : le concours de 90 techniciens supérieurs de la santé militaire (s5, date limite 30/10/2026, épreuve 01/12/2026) est rattaché à armee-ecoles-militaires.json ; _openings.json le rattache par erreur à sante-paramedical mais le seed des ouvertures le déduplique (même date limite et même date d'examen dans une autre famille). Les inspecteurs de police paramédicaux (s6) sont dans police-inspecteur.json. Les concours de médecins spécialistes (434), pharmaciens (52) et dentistes (53) de 2026 (s3) relèvent d'une future famille « corps médical », hors périmètre paramédical. APPARIEMENT DES ALERTES : l'édition OOU porte position_slugs (champ accepté par le seed, absent de SCHEMA.md) pour ne notifier que les profils nutrition ; les listes « specialties » sont des radicaux de mots-clés FR/AR destinés à l'appariement des profils (ex. « dietet », « infirm »), pas des listes officielles ; « sante »/« صحة » a été volontairement exclu pour éviter des faux positifs (santé animale, etc.)."
+}
