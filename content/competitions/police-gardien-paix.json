@@ -1,0 +1,1265 @@
+{
+  "family": {
+    "slug": "police-gardien-paix",
+    "field": "SECURITY",
+    "organization": {
+      "slug": "surete-nationale",
+      "name_ar": "الإدارة العامة للأمن الوطني – سلك الأمن الوطني والشرطة الوطنية",
+      "name_fr": "Direction générale de la Sûreté nationale – Corps de la Sûreté nationale et de la Police nationale",
+      "ministry_fr": "Ministère de l'Intérieur",
+      "website": "https://www.interieur.gov.tn"
+    },
+    "name_ar": "مناظرة انتداب حفاظ أمن بسلك الأمن الوطني والشرطة الوطنية",
+    "name_fr": "Concours de recrutement des gardiens de la paix (agents de l'ordre public) – Sûreté nationale et Police nationale",
+    "description_ar": "مناظرة خارجية بالاختبارات تنظمها وزارة الداخلية للقبول بمرحلة تكوين أساسي لانتداب حفاظ أمن بسلك الأمن الوطني والشرطة الوطنية. مفتوحة للتونسيين الذين أتموا السنة الرابعة من التعليم الثانوي (مستوى باكالوريا، دون اشتراط النجاح فيها) والذين تتراوح أعمارهم بين 20 و24 سنة. يتم التسجيل عن بعد على موقع انتدابات وزارة الداخلية ثم إرسال الملف بالبريد مضمون الوصول. في دورتي 2025 كانت المناظرة مخصصة للذكور لفائدة الوحدات الميدانية النشيطة، وتتضمن اختبارات كتابية جهوية (موضوع في الثقافة العامة وأسئلة متعددة الاختيارات)، ثم فحوصا طبية واختبارا رياضيا واختبارا تقنيا نفسيا ومثولا أمام لجنة المناظرة، ثم فحوصا تكميلية واختبارا نفسيا معمقا. أما الدورات السابقة (2019 و2022) فكانت مفتوحة للذكور والإناث.",
+    "description_fr": "Concours externe sur épreuves organisé par le ministère de l'Intérieur pour l'admission en formation de base en vue du recrutement de gardiens de la paix (حافظ أمن) dans le corps de la Sûreté nationale et de la Police nationale. Ouvert aux Tunisiens ayant achevé la 4e année de l'enseignement secondaire (niveau bac, réussite au bac non exigée) et âgés de 20 à 24 ans. Inscription en ligne sur le site des recrutements du ministère puis envoi du dossier par courrier recommandé. Les deux sessions 2025 étaient réservées aux hommes (unités de terrain actives) : épreuves écrites régionales (sujet de culture générale + QCM), puis visite médicale, épreuve sportive, test psychotechnique écrit et passage devant le jury, puis examens médicaux complémentaires et test psychotechnique approfondi. Les sessions antérieures (2019, 2022) étaient ouvertes aux hommes et aux femmes.",
+    "frequency": "IRREGULAR",
+    "frequency_confidence": "MEDIUM",
+    "popularity": 5,
+    "keywords": [
+      "حافظ أمن",
+      "حفاظ أمن",
+      "مناظرة حفاظ أمن",
+      "حافظة أمن",
+      "الأمن الوطني",
+      "الشرطة الوطنية",
+      "وزارة الداخلية",
+      "انتدابات وزارة الداخلية",
+      "gardien de la paix",
+      "gardiens de la paix",
+      "agent de l'ordre public",
+      "police Tunisie",
+      "Sûreté nationale",
+      "concours police",
+      "concours ministère de l'Intérieur",
+      "recrutementdgsn",
+      "DGSN"
+    ]
+  },
+  "sources": [
+    {
+      "key": "s1",
+      "title": "إعلان عن فتح مُناظرة – حفاظ أمن (ذكور) لفائدة الوحدات الميدانية النشيطة بسلك الأمن الوطني والشرطة الوطنية (تسجيل 26/11–14/12/2025)",
+      "url": "https://www.interieur.gov.tn/actualite/33052/%D8%A5%D8%B9%D9%84%D8%A7%D9%86-%D8%B9%D9%86-%D9%81%D8%AA%D8%AD-%D9%85-%D9%86%D8%A7%D8%B8%D8%B1%D8%A9",
+      "publisher": "وزارة الداخلية / Ministère de l'Intérieur",
+      "source_type": "OFFICIAL",
+      "publication_date": null,
+      "retrieved_at": "2026-10-07",
+      "confidence": "HIGH",
+      "notes": "Avis officiel (session de novembre 2025). Page identifiée via WebSearch ; WebFetch bloqué par le proxy du conteneur : contenu connu via les extraits du moteur de recherche et les relais presse (s9, s10, s19, s26). Publication vers le 25-26/11/2025 d'après les relais."
+    },
+    {
+      "key": "s2",
+      "title": "بلاغ – فتح مناظرتين خلال السنة التكوينية 2025 لانتداب 1950 حافظ أمن (المناظرة الأولى: 1000 حافظ أمن، تسجيل 16/01–03/02/2025)",
+      "url": "https://www.interieur.gov.tn/actualite/32533/%D8%A8%D9%84%D8%A7%D8%BA",
+      "publisher": "وزارة الداخلية / Ministère de l'Intérieur",
+      "source_type": "OFFICIAL",
+      "publication_date": null,
+      "retrieved_at": "2026-10-07",
+      "confidence": "HIGH",
+      "notes": "Communiqué officiel (≈ 13/01/2025 d'après la presse : s12). Annonce 2 concours pour 1950 postes : 1000 (janvier 2025) + 950 (date à fixer ultérieurement). Contenu lu via extraits de recherche."
+    },
+    {
+      "key": "s3",
+      "title": "فتح مناظرة خارجية بالاختبارات للقبول بمرحلة تكوين أساسي لانتداب حفاظ أمن بسلك الأمن الوطني والشرطة الوطنية بعنوان السنة التكوينية 2023/2022",
+      "url": "https://www.interieur.gov.tn/actualite/28568/%D9%81%D8%AA%D8%AD-%D9%85%D9%86%D8%A7%D8%B8%D8%B1%D8%A9-%D8%AE%D8%A7%D8%B1%D8%AC%D9%8A%D8%A9-%D8%A8%D8%A7%D9%84%D8%A7%D8%AE%D8%AA%D8%A8%D8%A7%D8%B1%D8%A7%D8%AA-%D9%84%D9%84%D9%82%D8%A8%D9%88%D9%84-%D8%A8%D9%85%D8%B1%D8%AD%D9%84%D8%A9-%D8%AA%D9%83%D9%88%D9%8A%D9%86-%D8%A3%D8%B3%D8%A7%D8%B3%D9%8A-%D9%84%D8%A7%D9%86%D8%AA%D8%AF%D8%A7%D8%A8-%D8%AD%D9%81%D8%A7%D8%B8-%D8%A3%D9%85%D9%86-%D8%A8%D8%B3%D9%84%D9%83-%D8%A7%D9%84%D8%A3%D9%85%D9%86-%D8%A7%D9%84%D9%88%D8%B7%D9%86%D9%8A-%D9%88%D8%A7%D9%84%D8%B4%D8%B1%D8%B7%D8%A9-%D8%A7%D9%84%D9%88%D8%B7%D9%86%D9%8A%D8%A9-%D8%A8%D8%B9%D9%86%D9%88%D8%A7%D9%86-%D8%A7%D9%84%D8%B3%D9%86%D8%A9-%D8%A7%D9%84%D8%AA%D9%83%D9%88%D9%8A%D9%86%D9%8A%D8%A9-2023-2022",
+      "publisher": "وزارة الداخلية / Ministère de l'Intérieur",
+      "source_type": "OFFICIAL",
+      "publication_date": "2022-07-21",
+      "retrieved_at": "2026-10-07",
+      "confidence": "MEDIUM",
+      "notes": "Session mixte (hommes et femmes) 2022/2023. Date de publication déduite du relais presse s14 (21/07/2022). Contenu lu via extraits de recherche uniquement."
+    },
+    {
+      "key": "s4",
+      "title": "إعلان فتح مناظرة لانتداب حفاظ أمن بسلك الأمن الوطني والشرطة الوطنية لسنة 2019",
+      "url": "https://www.interieur.gov.tn/actualite/9735/%D8%A5%D8%B9%D9%84%D8%A7%D9%86-%D9%81%D8%AA%D8%AD-%D9%85%D9%86%D8%A7%D8%B8%D8%B1%D8%A9-%D9%84%D8%A7%D9%86%D8%AA%D8%AF%D8%A7%D8%A8-%D8%AD%D9%81%D8%A7%D8%B8-%D8%A3%D9%85%D9%86-%D8%A8%D8%B3%D9%84%D9%83-%D8%A7%D9%84%D8%A3%D9%85%D9%86-%D8%A7%D9%84%D9%88%D8%B7%D9%86%D9%8A-%D9%88%D8%A7%D9%84%D8%B4%D8%B1%D8%B7%D8%A9-%D8%A7%D9%84%D9%88%D8%B7%D9%86%D9%8A%D8%A9-%D9%84%D8%B3%D9%86%D8%A9-2019",
+      "publisher": "وزارة الداخلية / Ministère de l'Intérieur",
+      "source_type": "OFFICIAL",
+      "publication_date": null,
+      "retrieved_at": "2026-10-07",
+      "confidence": "MEDIUM",
+      "notes": "Session 2019/2020 (ancienne, hors fenêtre 2023-2026, gardée pour l'historique). Contenu lu via extraits de recherche."
+    },
+    {
+      "key": "s5",
+      "title": "سلك الأمن الوطني والشرطة الوطنية – شروط الانتداب (e-Interieur)",
+      "url": "https://services.interieur.gov.tn/wap/ar/docs/recrutement/02.html",
+      "publisher": "وزارة الداخلية – بوابة الخدمات e-Interieur",
+      "source_type": "OFFICIAL",
+      "publication_date": null,
+      "retrieved_at": "2026-10-07",
+      "confidence": "HIGH",
+      "notes": "Conditions générales permanentes par grade (gardien de la paix : 4e année secondaire, ≤ 24 ans au 1er janvier de l'année du concours, taille 1,70 m H / 1,65 m F, acuité 15/20, aptitude jour/nuit, absence de maladies contagieuses/mentales/cancer). Lu via extraits de recherche."
+    },
+    {
+      "key": "s6",
+      "title": "Sûreté & Police Nationale – Recrutement (e-Interieur, version française)",
+      "url": "https://services.interieur.gov.tn/wap/fr/docs/recrutement/02.html",
+      "publisher": "Ministère de l'Intérieur – portail e-Interieur",
+      "source_type": "OFFICIAL",
+      "publication_date": null,
+      "retrieved_at": "2026-10-07",
+      "confidence": "HIGH",
+      "notes": "Version française des conditions : acuité visuelle ≥ 15/20 pour les deux yeux avant correction ; taille 1,70 m (H) / 1,65 m (F) ; dispense possible de la condition de taille dans la limite de 5 cm accordée par le ministre. Lu via extraits de recherche."
+    },
+    {
+      "key": "s7",
+      "title": "الانخراط بسلك الأمن الوطني والشرطة الوطنية (جميع الرتب) – بطاقة إجراء إداري",
+      "url": "http://www.sicad.gov.tn/Ar/_57_3_D1149",
+      "publisher": "SICAD – منظومة الإرشاد الإداري (Présidence du gouvernement)",
+      "source_type": "OFFICIAL",
+      "publication_date": null,
+      "retrieved_at": "2026-10-07",
+      "confidence": "MEDIUM",
+      "notes": "Fiche de procédure officielle (ancienne, date inconnue) : conditions générales (nationalité, droits civiques, bonne moralité, approbation du ministre, aptitude jour/nuit), conditions par grade (حافظ أمن وعريف ≤ 24 ans ; رقيب : 9e année de base, ≤ 22 ans) et pièces (demande au nom du ministre, copie CIN, copie diplôme, photo, 5 enveloppes timbrées). Lu via extraits de recherche."
+    },
+    {
+      "key": "s8",
+      "title": "الانتدابات – سلك الأمن الوطني والشرطة الوطنية",
+      "url": "https://www.interieur.gov.tn/article/recrutement-surete-nationale",
+      "publisher": "وزارة الداخلية / Ministère de l'Intérieur",
+      "source_type": "OFFICIAL",
+      "publication_date": null,
+      "retrieved_at": "2026-10-07",
+      "confidence": "MEDIUM",
+      "notes": "Page générale « Recrutements » de la Sûreté nationale sur le portail du ministère. Repérée via WebSearch, non lue intégralement."
+    },
+    {
+      "key": "s9",
+      "title": "وزارة الداخلية تُعلن عن فتح مُناظرة لإنتداب حُفاظ أمن",
+      "url": "https://www.radionationale.tn/article/692638822b5755c3b572810e/%D9%88%D8%B2%D8%A7%D8%B1%D8%A9-%D8%A7%D9%84%D8%AF%D8%A7%D8%AE%D9%84%D9%8A%D8%A9-%D8%AA%D8%B9%D9%84%D9%86-%D8%B9%D9%86-%D9%81%D8%AA%D9%80%D9%80%D8%AD-%D9%85%D9%86%D8%A7%D8%B8%D8%B1%D8%A9-%D9%84%D8%A5%D9%86%D8%AA%D8%AF%D8%A7%D8%A8-%D8%AD%D9%81%D8%A7%D8%B8-%D8%A3%D9%85%D9%80%D9%80%D9%80%D9%80%D9%86",
+      "publisher": "الإذاعة الوطنية / Radio Nationale",
+      "source_type": "SECONDARY",
+      "publication_date": "2025-11-26",
+      "retrieved_at": "2026-10-07",
+      "confidence": "MEDIUM",
+      "notes": "Relais de l'avis officiel de novembre 2025 (phases, conditions, épreuve écrite du 15/03/2026). Date déduite de l'identifiant de l'article (25/11/2025 23h15 UTC)."
+    },
+    {
+      "key": "s10",
+      "title": "مناظرة إنتداب حفاظ أمن بسلك الأمن الوطني والشرطة الوطنية : آخر أجل 14 ديسمبر 2025",
+      "url": "https://www.kedma.tn/2025/11/police.html",
+      "publisher": "Kedma.tn",
+      "source_type": "SECONDARY",
+      "publication_date": null,
+      "retrieved_at": "2026-10-07",
+      "confidence": "MEDIUM",
+      "notes": "Site d'annonces d'emploi relayant l'avis de novembre 2025 (conditions, demande au nom du ministre, formulaire à télécharger)."
+    },
+    {
+      "key": "s11",
+      "title": "مناظرة إنتداب حفاظ أمن بسلك الأمن الوطني والشرطة الوطنية بعنوان السنة التكوينية 2025",
+      "url": "https://concours.com.tn/2025/01/%D9%85%D9%86%D8%A7%D8%B8%D8%B1%D8%A9-%D8%A5%D9%86%D8%AA%D8%AF%D8%A7%D8%A8-%D8%AD%D9%81%D8%A7%D8%B8-%D8%A3%D9%85%D9%86-%D8%A8%D8%B3%D9%84%D9%83-%D8%A7%D9%84%D8%A3%D9%85%D9%86-%D8%A7%D9%84%D9%88%D8%B7/",
+      "publisher": "Concours.com.tn",
+      "source_type": "SECONDARY",
+      "publication_date": null,
+      "retrieved_at": "2026-10-07",
+      "confidence": "MEDIUM",
+      "notes": "Relais de l'avis de janvier 2025 : inscription 16/01–03/02/2025, dossier par recommandé au plus tard le 04/02/2025, épreuve écrite le 13/04/2025."
+    },
+    {
+      "key": "s12",
+      "title": "Tunisie : le ministère de l'Intérieur recrute",
+      "url": "https://www.leconomistemaghrebin.com/2025/01/13/tunisie-ministere-interieur-recrute-concours/",
+      "publisher": "L'Économiste Maghrébin",
+      "source_type": "SECONDARY",
+      "publication_date": "2025-01-13",
+      "retrieved_at": "2026-10-07",
+      "confidence": "MEDIUM",
+      "notes": "Relais en français du communiqué s2 (1950 gardiens de la paix en 2 concours ; 1000 du 16/01 au 03/02/2025 ; 950 à une date ultérieure)."
+    },
+    {
+      "key": "s13",
+      "title": "وزارة الداخلية: قريبا فتح مناظرتيْن لانتداب 1950 حافظ أمن",
+      "url": "https://www.assabahnews.tn/ar/%D8%A7%D9%84%D8%A7%D8%AE%D8%A8%D8%A7%D8%B1/%D9%88%D8%B7%D9%86%D9%8A%D8%A9/115227-%D9%88%D8%B2%D8%A7%D8%B1%D8%A9-%D8%A7%D9%84%D8%AF%D8%A7%D8%AE%D9%84%D9%8A%D8%A9-%D9%82%D8%B1%D9%8A%D8%A8%D8%A7-%D9%81%D8%AA%D8%AD-%D9%85%D9%86%D8%A7%D8%B8%D8%B1%D8%AA%D9%8A%D9%92%D9%86-%D9%84%D8%A7%D9%86%D8%AA%D8%AF%D8%A7%D8%A8-1950-%D8%AD%D8%A7%D9%81%D8%B8-%D8%A3%D9%85%D9%86",
+      "publisher": "الصباح نيوز / Assabah News",
+      "source_type": "SECONDARY",
+      "publication_date": null,
+      "retrieved_at": "2026-10-07",
+      "confidence": "MEDIUM",
+      "notes": "Relais presse du communiqué s2 (janvier 2025)."
+    },
+    {
+      "key": "s14",
+      "title": "وزارة الداخلية تفتح مناظرة لانتداب حفاظ أمن بسلك الأمن الوطني و الشرطة الوطنية (بلاغ)",
+      "url": "https://kapitalis.com/anbaa-tounes/2022/07/21/%D9%88%D8%B2%D8%A7%D8%B1%D8%A9-%D8%A7%D9%84%D8%AF%D8%A7%D8%AE%D9%84%D9%8A%D8%A9-%D8%AA%D9%81%D8%AA%D8%AD-%D9%85%D9%86%D8%A7%D8%B8%D8%B1%D8%A9-%D9%84%D8%A7%D9%86%D8%AA%D8%AF%D8%A7%D8%A8-%D8%AD%D9%81/",
+      "publisher": "Kapitalis – أنباء تونس",
+      "source_type": "SECONDARY",
+      "publication_date": "2022-07-21",
+      "retrieved_at": "2026-10-07",
+      "confidence": "MEDIUM",
+      "notes": "Relais du communiqué de la session 2022/2023."
+    },
+    {
+      "key": "s15",
+      "title": "مناظرة إنتداب حفاظ أمن بسلك الأمن الوطني والشرطة الوطنية ( ذكور و إناث ) – 2022",
+      "url": "https://tunisia-jobs.com/2022/07/concours-police-2.html",
+      "publisher": "Tunisia Jobs",
+      "source_type": "COMMUNITY",
+      "publication_date": null,
+      "retrieved_at": "2026-10-07",
+      "confidence": "LOW",
+      "notes": "Blog d'annonces : confirme que la session 2022 était ouverte aux hommes et aux femmes."
+    },
+    {
+      "key": "s16",
+      "title": "أمر عدد 1160 لسنة 2006 مؤرخ في 13 أفريل 2006 يتعلق بضبط النظام الأساسي الخاص بأعوان سلك الأمن الوطني والشرطة الوطنية",
+      "url": "https://legislation-securite.tn/ar/latest-laws/%D8%A3%D9%85%D8%B1-%D8%B9%D8%AF%D8%AF-1160-%D9%84%D8%B3%D9%86%D8%A9-2006-%D9%85%D8%A4%D8%B1%D8%AE-%D9%81%D9%8A-13-%D8%A3%D9%81%D8%B1%D9%8A%D9%84-2006-%D9%8A%D8%AA%D8%B9%D9%84%D9%82-%D8%A8%D8%B6%D8%A8/",
+      "publisher": "Legislation-securite.tn (base juridique DCAF reproduisant le JORT)",
+      "source_type": "SECONDARY",
+      "publication_date": null,
+      "retrieved_at": "2026-10-07",
+      "confidence": "MEDIUM",
+      "notes": "Statut particulier du corps (texte JORT reproduit). Non lu intégralement (WebFetch bloqué) ; à vérifier sur iort.gov.tn / legislation.tn."
+    },
+    {
+      "key": "s17",
+      "title": "أمر عدد 1166 لسنة 2006 مؤرخ في 13 أفريل 2006 يتعلق بضبط مراحل تكوين أعوان قوات الأمن الداخلي التابعة لوزارة الداخلية",
+      "url": "https://legislation-securite.tn/ar/latest-laws/%D8%A3%D9%85%D8%B1-%D8%B9%D8%AF%D8%AF-1166-%D9%84%D8%B3%D9%86%D8%A9-2006-%D9%85%D8%A4%D8%B1%D8%AE-%D9%81%D9%8A-13-%D8%A3%D9%81%D8%B1%D9%8A%D9%84-2006-%D9%8A%D8%AA%D8%B9%D9%84%D9%82-%D8%A8%D8%B6%D8%A8/",
+      "publisher": "Legislation-securite.tn (base juridique DCAF reproduisant le JORT)",
+      "source_type": "SECONDARY",
+      "publication_date": null,
+      "retrieved_at": "2026-10-07",
+      "confidence": "MEDIUM",
+      "notes": "Décret fixant les cycles de formation des agents des forces de sécurité intérieure (durée de la formation de base des gardiens de la paix à extraire de ce texte)."
+    },
+    {
+      "key": "s18",
+      "title": "أمر عدد 240 لسنة 2023 مؤرخ في 16 مارس 2023 يتعلق بالمصادقة على مدونة سلوك قوات الأمن الداخلي التابعة لوزارة الداخلية",
+      "url": "https://legislation-securite.tn/ar/latest-laws/%D8%A3%D9%85%D9%80%D8%B1-%D8%B9%D8%AF%D8%AF-240-%D9%84%D8%B3%D9%86%D8%A9-2023-%D9%85%D8%A4%D8%B1%D8%AE-%D9%81%D9%8A-16-%D9%85%D8%A7%D8%B1%D8%B3-2023-%D9%8A%D8%AA%D8%B9%D9%84%D9%82-%D8%A8%D8%A7%D9%84/",
+      "publisher": "Legislation-securite.tn (base juridique DCAF reproduisant le JORT)",
+      "source_type": "SECONDARY",
+      "publication_date": null,
+      "retrieved_at": "2026-10-07",
+      "confidence": "MEDIUM",
+      "notes": "Code de conduite des forces de sécurité intérieure (2023) – utile pour l'oral/jury et le syllabus déontologie."
+    },
+    {
+      "key": "s19",
+      "title": "وزارة الداخلية تعلن عن فتح مناظرة لانتداب حُفاظ أمن",
+      "url": "https://www.jawharafm.net/ar/article/%D9%88%D8%B2%D8%A7%D8%B1%D8%A9-%D8%A7%D9%84%D8%AF%D8%A7%D8%AE%D9%84%D9%8A%D8%A9-%D8%AA%D8%B9%D9%84%D9%86-%D8%B9%D9%86-%D9%81%D8%AA%D8%AD-%D9%85%D9%86%D8%A7%D8%B8%D8%B1%D8%A9-%D9%84%D8%A7%D9%86%D8%AA%D8%AF%D8%A7%D8%A8-%D8%AD%D9%8F%D9%81%D8%A7%D8%B8-%D8%A3%D9%85%D9%86/105/285074",
+      "publisher": "Jawhara FM",
+      "source_type": "SECONDARY",
+      "publication_date": null,
+      "retrieved_at": "2026-10-07",
+      "confidence": "MEDIUM",
+      "notes": "Relais de l'avis de novembre 2025."
+    },
+    {
+      "key": "s20",
+      "title": "فتح مناظرة لإنتداب حفاظ أمن بسلك الأمن الوطني والشرطة الوطنية لسنة 2019",
+      "url": "https://www.orientini.com/AR/Annonces_Orientation_Formation_Emploi/5588/%D9%81%D8%AA%D8%AD-%D9%85%D9%86%D8%A7%D8%B8%D8%B1%D8%A9-%D9%84%D8%A5%D9%86%D8%AA%D8%AF%D8%A7%D8%A8-%D8%AD%D9%81%D8%A7%D8%B8-%D8%A3%D9%85%D9%86-%D8%A8%D8%B3%D9%84%D9%83-%D8%A7%D9%84%D8%A3%D9%85%D9%86-%D8%A7%D9%84%D9%88%D8%B7%D9%86%D9%8A-%D9%88%D8%A7%D9%84%D8%B4%D8%B1%D8%B7%D8%A9-%D8%A7%D9%84%D9%88%D8%B7%D9%86%D9%8A%D8%A9-%D9%84%D8%B3%D9%86%D8%A9-2019",
+      "publisher": "Orientini",
+      "source_type": "SECONDARY",
+      "publication_date": "2019-03-18",
+      "retrieved_at": "2026-10-07",
+      "confidence": "MEDIUM",
+      "notes": "Relais de l'avis 2019 : annonce le 18/03/2019, dépôt des dossiers jusqu'au 11/04/2019 (dossier déposé au poste de police/garde du lieu de résidence puis envoyé par recommandé)."
+    },
+    {
+      "key": "s21",
+      "title": "الاختبار الكتابي لمناظرة إنتداب حفاظ أمن بسلك الأمن الوطني والشرطة الوطنية 2025",
+      "url": "https://magazineng.com/2025/04/09/concours-police-hfd-test-2025/",
+      "publisher": "Magazineng (مجلتنا)",
+      "source_type": "COMMUNITY",
+      "publication_date": "2025-04-09",
+      "retrieved_at": "2026-10-07",
+      "confidence": "LOW",
+      "notes": "Article communautaire autour de l'épreuve écrite du 13/04/2025. Contenu exact non vérifié."
+    },
+    {
+      "key": "s22",
+      "title": "إليك نتائج مناظرة حفاظ امن 2025 تونس: خطوات الاطلاع والمراحل القادمة بالتفصيل",
+      "url": "https://www.mahouwa.net/2025/07/14/%D8%AD%D9%81%D8%A7%D8%B8-%D8%A7%D9%85%D9%86-2025-%D8%AA%D9%88%D9%86%D8%B3-%D8%AE%D8%B7%D9%88%D8%A7%D8%AA-%D8%A7%D9%84%D8%A7%D8%B7%D9%84%D8%A7%D8%B9-%D9%88%D8%A7%D9%84%D9%85%D8%B1%D8%A7%D8%AD%D9%84/",
+      "publisher": "Mahouwa.net",
+      "source_type": "COMMUNITY",
+      "publication_date": "2025-07-14",
+      "retrieved_at": "2026-10-07",
+      "confidence": "LOW",
+      "notes": "Explique la consultation des résultats sur le site des recrutements (CIN ou n° de téléphone + date de naissance ; statut ناجح / مستدعى / غير ناجح)."
+    },
+    {
+      "key": "s23",
+      "title": "Plateforme des recrutements de la Sûreté nationale (موقع انتدابات وزارة الداخلية)",
+      "url": "https://recrutementdgsn.interieur.gov.tn",
+      "publisher": "وزارة الداخلية / Ministère de l'Intérieur",
+      "source_type": "OFFICIAL",
+      "publication_date": null,
+      "retrieved_at": "2026-10-07",
+      "confidence": "HIGH",
+      "notes": "Plateforme d'inscription citée par tous les avis 2025 ; inaccessible depuis le conteneur de recherche (proxy)."
+    },
+    {
+      "key": "s24",
+      "title": "إعلان فتح مناظرة خارجية بالإختبارات لإنتداب ملازمين أُول إنتداب مباشر (2026)",
+      "url": "https://www.interieur.gov.tn/actualite/33280/%D8%A5%D8%B9%D9%84%D8%A7%D9%86-%D9%81%D8%AA%D8%AD-%D9%85%D9%86%D8%A7%D8%B8%D8%B1%D8%A9-%D8%AE%D8%A7%D8%B1%D8%AC%D9%8A%D8%A9-%D8%A8%D8%A7%D9%84%D8%A5%D8%AE%D8%AA%D8%A8%D8%A7%D8%B1%D8%A7%D8%AA-%D9%84%D8%A5%D9%86%D8%AA%D8%AF%D8%A7%D8%A8-%D9%85%D9%84%D8%A7%D8%B2%D9%85%D9%8A%D9%86-%D8%A3-%D9%88%D9%84-%D8%A5%D9%86%D8%AA%D8%AF%D8%A7%D8%A8-%D9%85%D8%A8%D8%A7%D8%B4%D8%B1",
+      "publisher": "وزارة الداخلية / Ministère de l'Intérieur",
+      "source_type": "OFFICIAL",
+      "publication_date": null,
+      "retrieved_at": "2026-10-07",
+      "confidence": "HIGH",
+      "notes": "Cité uniquement pour éviter une confusion : le concours de juillet 2026 (inscription 06–26/07/2026, écrit le 04/10/2026) concerne les LIEUTENANTS (bac+5), pas les gardiens de la paix. Même structure en 3 phases."
+    },
+    {
+      "key": "s25",
+      "title": "مناظرة انتداب حفاظ أمن 2025 : استدعاءات المرحلة الثانية للمترشحين الناجحين في الاختبار الكتابي",
+      "url": "https://www.kedma.tn/2025/01/Police.html",
+      "publisher": "Kedma.tn",
+      "source_type": "SECONDARY",
+      "publication_date": null,
+      "retrieved_at": "2026-10-07",
+      "confidence": "MEDIUM",
+      "notes": "Relais : les admis à l'écrit sont informés par SMS et téléchargent la convocation de la 2e phase (centrale) sur le site des recrutements."
+    },
+    {
+      "key": "s26",
+      "title": "وزارة الداخلية : مناظرة لإنتداب حفاظ أمن بسلك الأمن الوطني والشرطة الوطنية (نوفمبر 2025)",
+      "url": "https://www.orientini.com/AR/Annonces_Orientation_Formation_Emploi/16507/%D9%88%D8%B2%D8%A7%D8%B1%D8%A9-%D8%A7%D9%84%D8%AF%D8%A7%D8%AE%D9%84%D9%8A%D8%A9-:-%D9%85%D9%86%D8%A7%D8%B8%D8%B1%D8%A9-%D9%84%D8%A5%D9%86%D8%AA%D8%AF%D8%A7%D8%A8-%D8%AD%D9%81%D8%A7%D8%B8-%D8%A3%D9%85%D9%86-%D8%A8%D8%B3%D9%84%D9%83-%D8%A7%D9%84%D8%A3%D9%85%D9%86-%D8%A7%D9%84%D9%88%D8%B7%D9%86%D9%8A-%D9%88%D8%A7%D9%84%D8%B4%D8%B1%D8%B7%D8%A9-%D8%A7%D9%84%D9%88%D8%B7%D9%86%D9%8A%D8%A9",
+      "publisher": "Orientini",
+      "source_type": "SECONDARY",
+      "publication_date": null,
+      "retrieved_at": "2026-10-07",
+      "confidence": "MEDIUM",
+      "notes": "Relais de l'avis de novembre 2025 avec la liste des pièces (bulletin n°3 de moins de 3 mois ou récépissé de demande, reçu de versement de 10 dinars, 4 enveloppes recommandées…)."
+    },
+    {
+      "key": "s27",
+      "title": "فتح مناظرة لانتداب رقباء أمن بسلك الأمن الوطني والشرطة الوطنيّة بعنوان السنة التكوينية 2023/2022",
+      "url": "https://www.interieur.gov.tn/actualite/29250/%D9%81%D8%AA%D8%AD-%D9%85%D9%86%D8%A7%D8%B8%D8%B1%D8%A9-%D9%84%D8%A7%D9%86%D8%AA%D8%AF%D8%A7%D8%A8-%D8%B1%D9%82%D8%A8%D8%A7%D8%A1-%D8%A3%D9%85%D9%86-%D8%A8%D8%B3%D9%84%D9%83-%D8%A7%D9%84%D8%A3%D9%85%D9%86-%D8%A7%D9%84%D9%88%D8%B7%D9%86%D9%8A-%D9%88%D8%A7%D9%84%D8%B4%D8%B1%D8%B7%D8%A9-%D8%A7%D9%84%D9%88%D8%B7%D9%86%D9%8A-%D8%A9-%D8%A8%D8%B9%D9%86%D9%88%D8%A7%D9%86-%D8%A7%D9%84%D8%B3%D9%86%D8%A9-%D8%A7%D9%84%D8%AA%D9%83%D9%88%D9%8A%D9%86%D9%8A%D8%A9-2023-2022?sort=category_id&direction=asc",
+      "publisher": "وزارة الداخلية / Ministère de l'Intérieur",
+      "source_type": "OFFICIAL",
+      "publication_date": null,
+      "retrieved_at": "2026-10-07",
+      "confidence": "MEDIUM",
+      "notes": "Concours voisin (sergents / رقباء, âge max 22 ans). Cité pour expliquer une confusion d'âge (20–22 ans) observée dans certains résumés de la session gardiens 2022."
+    }
+  ],
+  "editions": [
+    {
+      "year": 2019,
+      "session_label": "السنة التكوينية 2019-2020 (ذكور وإناث) / Année de formation 2019-2020 (hommes et femmes)",
+      "status": "EXAM_DONE",
+      "registration_open": "2019-03-18",
+      "registration_deadline": "2019-04-11",
+      "exam_date": "2019-04-22",
+      "positions_count": null,
+      "candidates_count": null,
+      "source_key": "s4",
+      "confidence": "MEDIUM",
+      "needs_verification": true
+    },
+    {
+      "year": 2022,
+      "session_label": "السنة التكوينية 2022-2023 (ذكور وإناث) / Année de formation 2022-2023 (hommes et femmes)",
+      "status": "EXAM_DONE",
+      "registration_open": "2022-07-22",
+      "registration_deadline": "2022-08-03",
+      "exam_date": "2022-09-20",
+      "positions_count": null,
+      "candidates_count": null,
+      "source_key": "s3",
+      "confidence": "MEDIUM",
+      "needs_verification": true
+    },
+    {
+      "year": 2025,
+      "session_label": "المناظرة الأولى – السنة التكوينية 2025 (1000 حافظ أمن، ذكور) / 1er concours – année de formation 2025 (1000 gardiens, hommes)",
+      "status": "EXAM_DONE",
+      "registration_open": "2025-01-16",
+      "registration_deadline": "2025-02-03",
+      "exam_date": "2025-04-13",
+      "positions_count": 1000,
+      "candidates_count": null,
+      "source_key": "s2",
+      "confidence": "HIGH",
+      "needs_verification": false
+    },
+    {
+      "year": 2025,
+      "session_label": "المناظرة الثانية – حفاظ أمن (ذكور) للوحدات الميدانية النشيطة، تسجيل نوفمبر–ديسمبر 2025، كتابي 15 مارس 2026 / 2e concours – gardiens (hommes) unités de terrain actives, inscription nov.–déc. 2025, écrit le 15/03/2026",
+      "status": "EXAM_DONE",
+      "registration_open": "2025-11-26",
+      "registration_deadline": "2025-12-14",
+      "exam_date": "2026-03-15",
+      "positions_count": null,
+      "candidates_count": null,
+      "source_key": "s1",
+      "confidence": "HIGH",
+      "needs_verification": false
+    },
+    {
+      "year": 2026,
+      "session_label": "دورة متوقعة (غير معلنة إلى غاية 07/10/2026) – تقدير / Prochaine session attendue (non annoncée au 07/10/2026) – estimation",
+      "status": "EXPECTED",
+      "registration_open": null,
+      "registration_deadline": null,
+      "exam_date": null,
+      "positions_count": null,
+      "candidates_count": null,
+      "source_key": null,
+      "confidence": "LOW",
+      "needs_verification": true
+    }
+  ],
+  "positions": [
+    {
+      "slug": "gardien-paix-unites-terrain-hommes",
+      "title_ar": "حافظ أمن (ذكور) لفائدة الوحدات الميدانية النشيطة بسلك الأمن الوطني والشرطة الوطنية",
+      "title_fr": "Gardien de la paix (hommes) – unités de terrain actives de la Sûreté nationale et de la Police nationale",
+      "diploma_level": "SECONDARY",
+      "eligibility": {
+        "min_age": 20,
+        "max_age": 24,
+        "genders": ["M"],
+        "nationality": "TN",
+        "diplomas": ["SECONDARY"],
+        "specialties": [],
+        "min_height_cm_male": 170,
+        "min_height_cm_female": null,
+        "marital_status": null,
+        "other_ar": [
+          "إتمام السنة الرابعة من التعليم الثانوي (أو السنة السابعة حسب النظام القديم) أو الإحراز على شهادة تكوين منظرة بهذا المستوى – لا يشترط النجاح في الباكالوريا",
+          "السن بين 20 و24 سنة بتاريخ غرة جانفي من السنة المرجعية (01/01/2025 في دورتي 2025)، مع سنة إضافية على أقصى تقدير لمن أدى الخدمة العسكرية وتحصل على شهادة حسن السيرة من وزارة الدفاع الوطني",
+          "الجنسية التونسية مع مراعاة الموانع المنصوص عليها بمجلة الجنسية التونسية",
+          "طول القامة 1.70 م على الأقل",
+          "حدة بصر لا تقل جملتها عن 15/20 للعينين قبل الإصلاح بالنظارات",
+          "القدرة صحيا على العمل ليلا ونهارا وبكامل تراب الجمهورية",
+          "التمتع بالحقوق المدنية وبحسن السيرة والأخلاق ومصادقة وزير الداخلية على الترشح",
+          "السلامة من الأمراض المعدية والسرطان والأمراض العقلية أو ثبوت الشفاء التام منها طبيا",
+          "يمكن لوزير الداخلية منح إعفاء من شرط الطول في حدود 5 صم حسب حاجيات الإدارة أو للحالات الخاصة (استثناء لا يعول عليه)"
+        ],
+        "other_fr": [
+          "Avoir achevé la 4e année de l'enseignement secondaire (ou 7e année de l'ancien régime) ou être titulaire d'un certificat de formation de niveau équivalent – la réussite au bac n'est pas exigée",
+          "Âge de 20 à 24 ans au 1er janvier de l'année de référence (01/01/2025 pour les deux sessions 2025), avec au plus 1 an supplémentaire pour les candidats ayant accompli le service militaire et titulaires d'une attestation de bonne conduite du ministère de la Défense",
+          "Nationalité tunisienne, sous réserve des incapacités prévues par le Code de la nationalité",
+          "Taille minimale : 1,70 m",
+          "Acuité visuelle totale d'au moins 15/20 pour les deux yeux avant correction",
+          "Aptitude médicale à travailler de jour comme de nuit sur l'ensemble du territoire",
+          "Jouissance des droits civiques, bonne conduite et moralité, approbation de la candidature par le ministre de l'Intérieur",
+          "Être indemne de maladies contagieuses, cancer ou maladies mentales (ou guérison complète médicalement attestée)",
+          "Dispense possible de la condition de taille dans la limite de 5 cm, accordée par le ministre (exception, ne pas compter dessus)"
+        ],
+        "source_key": "s1",
+        "confidence": "MEDIUM",
+        "needs_verification": false,
+        "source_quote": "أن يكون المترشح قد أتمّ السنة الرابعة من التعليم الثانوي أو محرزاً على شهادة تكوين منظرة بهذا المستوى … العمر بين 20 و24 سنة بتاريخ 1 جانفي 2025 (مع استثناء سنة إضافية للذين أدوا الخدمة العسكرية) … الطول الأدنى: 1.70 متر، وحدة البصر لا تقل عن 20/15 للعينين قبل الإصلاح بالنظارات"
+      },
+      "phases": [
+        {
+          "order": 1,
+          "kind": "WRITTEN",
+          "name_ar": "المرحلة الأولى: اختبارات كتابية بمراكز اختبار جهوية",
+          "name_fr": "Phase 1 : épreuves écrites dans des centres régionaux",
+          "is_eliminatory": true,
+          "duration_minutes": null,
+          "description_ar": "تحرير موضوع في الثقافة العامة والإجابة على أسئلة متعددة الاختيارات (QCM). أجريت يوم 13 أفريل 2025 (المناظرة الأولى) ويوم 15 مارس 2026 (المناظرة الثانية). المدة والضوارب غير منشورة.",
+          "description_fr": "Rédaction d'un sujet de culture générale et réponse à un questionnaire à choix multiples (QCM). Tenues le 13/04/2025 (1er concours) et le 15/03/2026 (2e concours). Durées et coefficients non publiés.",
+          "source_key": "s1",
+          "confidence": "MEDIUM",
+          "needs_verification": false
+        },
+        {
+          "order": 2,
+          "kind": "MEDICAL",
+          "name_ar": "المرحلة الثانية (مركزية): فحوص طبية",
+          "name_fr": "Phase 2 (centrale) : visite médicale",
+          "is_eliminatory": true,
+          "duration_minutes": null,
+          "description_ar": "يعلم الناجحون في الكتابي عبر إرسالية قصيرة (SMS) لاستخراج استدعاء المرحلة الثانية المركزية من موقع الانتدابات (التاريخ والمكان). تبدأ المرحلة بالفحوص الطبية.",
+          "description_fr": "Les admis à l'écrit sont avertis par SMS et téléchargent leur convocation à la phase 2 (centrale) sur le site des recrutements. La phase commence par la visite médicale.",
+          "source_key": "s1",
+          "confidence": "MEDIUM",
+          "needs_verification": false
+        },
+        {
+          "order": 3,
+          "kind": "PHYSICAL",
+          "name_ar": "اختبار رياضي (للمقبولين طبيا)",
+          "name_fr": "Épreuve sportive (pour les candidats médicalement aptes)",
+          "is_eliminatory": true,
+          "duration_minutes": null,
+          "description_ar": "اختبار رياضي لا يجتازه إلا الناجحون في الفحوص الطبية. محتوى الاختبار وسلم التنقيط غير منشورين في الإعلانات.",
+          "description_fr": "Épreuve sportive réservée aux candidats déclarés aptes médicalement. Contenu et barème non publiés dans les avis.",
+          "source_key": "s1",
+          "confidence": "MEDIUM",
+          "needs_verification": false
+        },
+        {
+          "order": 4,
+          "kind": "PSYCHOTECH",
+          "name_ar": "اختبار كتابي تقني نفسي (للناجحين في الاختبار الرياضي)",
+          "name_fr": "Test psychotechnique écrit (pour les admis à l'épreuve sportive)",
+          "is_eliminatory": true,
+          "duration_minutes": null,
+          "description_ar": "اختبار كتابي تقني نفسي (تقني-نفسي) يجرى بعد النجاح في الاختبار الرياضي.",
+          "description_fr": "Test psychotechnique écrit passé après réussite à l'épreuve sportive.",
+          "source_key": "s1",
+          "confidence": "MEDIUM",
+          "needs_verification": false
+        },
+        {
+          "order": 5,
+          "kind": "INTERVIEW",
+          "name_ar": "العرض على القيس والتثبت من السوابق العدلية والمثول أمام لجنة المناظرة",
+          "name_fr": "Mesure de la taille, vérification des antécédents judiciaires et passage devant le jury du concours",
+          "is_eliminatory": true,
+          "duration_minutes": null,
+          "description_ar": "قيس الطول رسميا، التثبت من السوابق العدلية، ثم مقابلة شفاهية أمام لجنة المناظرة.",
+          "description_fr": "Mesure officielle de la taille, contrôle des antécédents judiciaires puis entretien oral devant le jury du concours.",
+          "source_key": "s1",
+          "confidence": "MEDIUM",
+          "needs_verification": false
+        },
+        {
+          "order": 6,
+          "kind": "MEDICAL",
+          "name_ar": "المرحلة الثالثة: فحوص وتحاليل طبية تكميلية",
+          "name_fr": "Phase 3 : examens et analyses médicaux complémentaires",
+          "is_eliminatory": true,
+          "duration_minutes": null,
+          "description_ar": "تهم المترشحين الناجحين في المرحلة الثانية.",
+          "description_fr": "Concerne les candidats admis à la phase 2.",
+          "source_key": "s1",
+          "confidence": "MEDIUM",
+          "needs_verification": false
+        },
+        {
+          "order": 7,
+          "kind": "PSYCHOTECH",
+          "name_ar": "المرحلة الثالثة: اختبارات تقنية نفسية معمّقة",
+          "name_fr": "Phase 3 : tests psychotechniques approfondis",
+          "is_eliminatory": true,
+          "duration_minutes": null,
+          "description_ar": "اختبارات تقنية نفسية معمقة ضمن المرحلة الثالثة.",
+          "description_fr": "Tests psychotechniques approfondis dans le cadre de la phase 3.",
+          "source_key": "s1",
+          "confidence": "MEDIUM",
+          "needs_verification": false
+        },
+        {
+          "order": 8,
+          "kind": "TRAINING",
+          "name_ar": "مرحلة التكوين الأساسي بمدارس الأمن الوطني",
+          "name_fr": "Formation de base dans les écoles de la Sûreté nationale",
+          "is_eliminatory": true,
+          "duration_minutes": null,
+          "description_ar": "المناظرة هي مناظرة «للقبول بمرحلة تكوين أساسي»؛ الانتداب الفعلي كحافظ أمن يكون إثر التكوين. مدة التكوين ومكانه غير مذكورين في الإعلانات (يضبطهما الأمر عدد 1166 لسنة 2006 – للتثبت).",
+          "description_fr": "Le concours donne accès à une « formation de base » ; le recrutement effectif comme gardien de la paix intervient à l'issue de la formation. Durée et lieu non précisés dans les avis (régis par le décret n° 2006-1166 – à vérifier).",
+          "source_key": "s1",
+          "confidence": "MEDIUM",
+          "needs_verification": false
+        }
+      ],
+      "subjects": [
+        {
+          "phase_order": 1,
+          "domain": "CULTURE_GENERALE",
+          "specialty_key": null,
+          "name_ar": "تحرير موضوع في الثقافة العامة",
+          "name_fr": "Rédaction d'un sujet de culture générale",
+          "coefficient": null,
+          "duration_minutes": null,
+          "question_count": null,
+          "source_key": "s1",
+          "confidence": "MEDIUM",
+          "needs_verification": false
+        },
+        {
+          "phase_order": 1,
+          "domain": "CULTURE_GENERALE",
+          "specialty_key": null,
+          "name_ar": "أسئلة متعددة الاختيارات (QCM) – المحتوى غير محدد رسميا (ثقافة عامة مرجحة)",
+          "name_fr": "QCM – contenu non précisé officiellement (culture générale probable)",
+          "coefficient": null,
+          "duration_minutes": null,
+          "question_count": null,
+          "source_key": "s1",
+          "confidence": "MEDIUM",
+          "needs_verification": true
+        },
+        {
+          "phase_order": 1,
+          "domain": "ARABIC",
+          "specialty_key": null,
+          "name_ar": "اللغة العربية: التحرير وسلامة اللغة (اقتراح – لغة تحرير الموضوع مرجحة)",
+          "name_fr": "Langue arabe : expression écrite et correction de la langue (suggestion – langue probable de la rédaction)",
+          "coefficient": null,
+          "duration_minutes": null,
+          "question_count": null,
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "phase_order": 1,
+          "domain": "FRENCH",
+          "specialty_key": null,
+          "name_ar": "اللغة الفرنسية (اقتراح – قد ترد ضمن QCM)",
+          "name_fr": "Langue française (suggestion – peut figurer dans le QCM)",
+          "coefficient": null,
+          "duration_minutes": null,
+          "question_count": null,
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "phase_order": 1,
+          "domain": "LOGIC",
+          "specialty_key": null,
+          "name_ar": "المنطق والاستدلال (اقتراح)",
+          "name_fr": "Logique et raisonnement (suggestion)",
+          "coefficient": null,
+          "duration_minutes": null,
+          "question_count": null,
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "phase_order": 1,
+          "domain": "NUMERICAL",
+          "specialty_key": null,
+          "name_ar": "الحساب والاستدلال العددي (اقتراح)",
+          "name_fr": "Calcul et raisonnement numérique (suggestion)",
+          "coefficient": null,
+          "duration_minutes": null,
+          "question_count": null,
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "phase_order": 1,
+          "domain": "SPECIALTY",
+          "specialty_key": "spec.securite-droits",
+          "name_ar": "حقوق الإنسان والحريات وأخلاقيات العمل الأمني (اقتراح)",
+          "name_fr": "Droits de l'homme, libertés et déontologie des forces de sécurité (suggestion)",
+          "coefficient": null,
+          "duration_minutes": null,
+          "question_count": null,
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "phase_order": 1,
+          "domain": "SPECIALTY",
+          "specialty_key": "spec.droit-public",
+          "name_ar": "الدستور والمؤسسات (اقتراح)",
+          "name_fr": "Constitution et institutions (suggestion)",
+          "coefficient": null,
+          "duration_minutes": null,
+          "question_count": null,
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "phase_order": 1,
+          "domain": "SPECIALTY",
+          "specialty_key": "spec.police-gardien-paix.institution",
+          "name_ar": "المؤسسة الأمنية: التنظيم والقانون الأساسي ومدونة السلوك (اقتراح، مفيد أيضا للمقابلة)",
+          "name_fr": "Institution sécuritaire : organisation, statut et code de conduite (suggestion, utile aussi pour l'oral)",
+          "coefficient": null,
+          "duration_minutes": null,
+          "question_count": null,
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "phase_order": 4,
+          "domain": "PSYCHOTECH",
+          "specialty_key": null,
+          "name_ar": "اختبار كتابي تقني نفسي",
+          "name_fr": "Test psychotechnique écrit",
+          "coefficient": null,
+          "duration_minutes": null,
+          "question_count": null,
+          "source_key": "s1",
+          "confidence": "MEDIUM",
+          "needs_verification": false
+        },
+        {
+          "phase_order": 7,
+          "domain": "PSYCHOTECH",
+          "specialty_key": null,
+          "name_ar": "اختبارات تقنية نفسية معمقة",
+          "name_fr": "Tests psychotechniques approfondis",
+          "coefficient": null,
+          "duration_minutes": null,
+          "question_count": null,
+          "source_key": "s1",
+          "confidence": "MEDIUM",
+          "needs_verification": false
+        }
+      ],
+      "physical_tests": [
+        {
+          "name_ar": "الاختبار الرياضي الرسمي",
+          "name_fr": "Épreuve sportive officielle",
+          "details_ar": "مذكور رسميا ضمن المرحلة الثانية (للمقبولين طبيا) ومقصٍ. لم تنشر الإعلانات قائمة التمارين ولا سلم التنقيط ولا الأزمنة الدنيا.",
+          "details_fr": "Mentionnée officiellement en phase 2 (pour les candidats aptes médicalement), éliminatoire. Les avis ne publient ni la liste des épreuves, ni le barème, ni les temps minimaux.",
+          "source_key": "s1",
+          "confidence": "MEDIUM",
+          "needs_verification": false
+        },
+        {
+          "name_ar": "قيس الطول",
+          "name_fr": "Mesure de la taille",
+          "details_ar": "عرض رسمي على القيس: 1.70 م على الأقل للذكور. إعفاء ممكن في حدود 5 صم بقرار من الوزير (استثنائي).",
+          "details_fr": "Mesure officielle : 1,70 m minimum pour les hommes. Dispense possible dans la limite de 5 cm par décision du ministre (exceptionnelle).",
+          "source_key": "s6",
+          "confidence": "MEDIUM",
+          "needs_verification": false
+        },
+        {
+          "name_ar": "جري التحمل (اقتراح للتحضير)",
+          "name_fr": "Course d'endurance (suggestion d'entraînement)",
+          "details_ar": "اقتراح غير رسمي: التدرب على جري مسافة 1000 إلى 1500 م بانتظام (هدف تقريبي: 1500 م في أقل من 7 دقائق). المسافة والزمن الرسميان غير معروفين.",
+          "details_fr": "Suggestion non officielle : s'entraîner à courir 1000 à 1500 m (objectif indicatif : 1500 m en moins de 7 min). Distance et temps officiels inconnus.",
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "name_ar": "جري السرعة (اقتراح للتحضير)",
+          "name_fr": "Course de vitesse (suggestion d'entraînement)",
+          "details_ar": "اقتراح غير رسمي: سرعة على 60 إلى 100 م.",
+          "details_fr": "Suggestion non officielle : vitesse sur 60 à 100 m.",
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "name_ar": "القوة العضلية (اقتراح للتحضير)",
+          "name_fr": "Renforcement musculaire (suggestion d'entraînement)",
+          "details_ar": "اقتراح غير رسمي: العقلة (الشد على العارضة)، الضغط، تمارين البطن، القفز الطويل من الثبات.",
+          "details_fr": "Suggestion non officielle : tractions à la barre, pompes, abdominaux, saut en longueur sans élan.",
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        }
+      ],
+      "required_documents": [
+        {
+          "text_ar": "مطلب ترشح محرر على ورق عادي باسم السيد وزير الداخلية",
+          "text_fr": "Demande de candidature sur papier libre adressée à M. le ministre de l'Intérieur",
+          "source_key": "s7",
+          "confidence": "MEDIUM",
+          "needs_verification": false
+        },
+        {
+          "text_ar": "استمارة الترشح المستخرجة من موقع الانتدابات بعد التسجيل عن بعد، ممضاة ومؤشر عليها",
+          "text_fr": "Formulaire de candidature imprimé depuis le site des recrutements après l'inscription en ligne, signé et visé",
+          "source_key": "s10",
+          "confidence": "MEDIUM",
+          "needs_verification": true
+        },
+        {
+          "text_ar": "البطاقة عدد 3 (السوابق العدلية) لم يمض على تاريخ استخراجها 3 أشهر، أو نسخة من وصل إيداع مطلبها شريطة الاستظهار بالأصل عند الحضور لاختبارات المرحلة الأولى",
+          "text_fr": "Bulletin n° 3 (casier judiciaire) de moins de 3 mois, ou copie du récépissé de demande à condition de présenter l'original lors des épreuves de la phase 1",
+          "source_key": "s26",
+          "confidence": "MEDIUM",
+          "needs_verification": true
+        },
+        {
+          "text_ar": "وصل تنزيل/خلاص مبلغ 10 دنانير (معلوم المشاركة حسب الإعلان)",
+          "text_fr": "Reçu de versement de 10 dinars (frais de participation selon l'avis)",
+          "source_key": "s26",
+          "confidence": "MEDIUM",
+          "needs_verification": true
+        },
+        {
+          "text_ar": "عدد 04 ظروف بريدية مضمونة الوصول تحمل العنوان الشخصي للمترشح",
+          "text_fr": "4 enveloppes postales pour envoi recommandé portant l'adresse personnelle du candidat",
+          "source_key": "s26",
+          "confidence": "MEDIUM",
+          "needs_verification": true
+        },
+        {
+          "text_ar": "نسخة من الشهادة المدرسية (إتمام السنة الرابعة ثانوي) أو شهادة التكوين، مصادق عليها من المندوبية الجهوية للتربية",
+          "text_fr": "Copie de l'attestation scolaire (4e année secondaire achevée) ou du certificat de formation, certifiée par le commissariat régional de l'éducation",
+          "source_key": "s3",
+          "confidence": "MEDIUM",
+          "needs_verification": true
+        },
+        {
+          "text_ar": "نسخة من بطاقة التعريف الوطنية",
+          "text_fr": "Copie de la carte d'identité nationale",
+          "source_key": "s7",
+          "confidence": "MEDIUM",
+          "needs_verification": false
+        },
+        {
+          "text_ar": "صورة شمسية حديثة",
+          "text_fr": "Photo d'identité récente",
+          "source_key": "s7",
+          "confidence": "MEDIUM",
+          "needs_verification": false
+        },
+        {
+          "text_ar": "شهادة حسن السيرة صادرة عن مصالح وزارة الدفاع الوطني (لمن أدى الخدمة العسكرية ويطلب الانتفاع بالسنة الإضافية في السن)",
+          "text_fr": "Attestation de bonne conduite délivrée par le ministère de la Défense nationale (pour les candidats ayant accompli le service militaire et bénéficiant de l'année supplémentaire d'âge)",
+          "source_key": "s1",
+          "confidence": "MEDIUM",
+          "needs_verification": false
+        }
+      ],
+      "blueprint": {
+        "total_minutes": 100,
+        "fidelity": "APPROXIMATED",
+        "sections": [
+          { "domain": "CULTURE_GENERALE", "specialty_key": null, "count": 30, "minutes": 30 },
+          { "domain": "ARABIC", "specialty_key": null, "count": 10, "minutes": 12 },
+          { "domain": "FRENCH", "specialty_key": null, "count": 10, "minutes": 12 },
+          { "domain": "LOGIC", "specialty_key": null, "count": 10, "minutes": 12 },
+          { "domain": "NUMERICAL", "specialty_key": null, "count": 5, "minutes": 8 },
+          { "domain": "SPECIALTY", "specialty_key": "spec.securite-droits", "count": 10, "minutes": 10 },
+          { "domain": "SPECIALTY", "specialty_key": "spec.droit-public", "count": 5, "minutes": 6 },
+          { "domain": "PSYCHOTECH", "specialty_key": null, "count": 10, "minutes": 10 }
+        ]
+      }
+    },
+    {
+      "slug": "gardien-paix-mixte",
+      "title_ar": "حافظ أمن / حافظة أمن (ذكور وإناث) بسلك الأمن الوطني والشرطة الوطنية – صيغة الدورات المختلطة",
+      "title_fr": "Gardien(ne) de la paix (hommes et femmes) – Sûreté nationale et Police nationale – format des sessions mixtes",
+      "diploma_level": "SECONDARY",
+      "eligibility": {
+        "min_age": 20,
+        "max_age": 24,
+        "genders": ["M", "F"],
+        "nationality": "TN",
+        "diplomas": ["SECONDARY"],
+        "specialties": [],
+        "min_height_cm_male": 170,
+        "min_height_cm_female": 165,
+        "marital_status": null,
+        "other_ar": [
+          "إتمام السنة الرابعة من التعليم الثانوي أو الإحراز على شهادة تكوين منظرة بهذا المستوى",
+          "السن بين 20 و24 سنة بتاريخ غرة جانفي من سنة المناظرة (01/01/2022 في دورة 2022)، مع سنة إضافية لمن أدى الخدمة العسكرية وتحصل على شهادة حسن السيرة",
+          "طول القامة 1.70 م على الأقل للذكور و1.65 م على الأقل للإناث",
+          "حدة بصر لا تقل عن 15/20 للعينين قبل الإصلاح",
+          "القدرة صحيا على العمل ليلا ونهارا وبكامل تراب الجمهورية",
+          "الجنسية التونسية مع مراعاة الموانع المنصوص عليها بمجلة الجنسية",
+          "تنبيه: دورتا 2025 كانتا مخصصتين للذكور فقط؛ فتح دورة مختلطة جديدة غير مؤكد"
+        ],
+        "other_fr": [
+          "Avoir achevé la 4e année de l'enseignement secondaire ou être titulaire d'un certificat de formation de niveau équivalent",
+          "Âge de 20 à 24 ans au 1er janvier de l'année du concours (01/01/2022 pour la session 2022), +1 an pour les candidats ayant accompli le service militaire avec attestation de bonne conduite",
+          "Taille minimale 1,70 m pour les hommes et 1,65 m pour les femmes",
+          "Acuité visuelle d'au moins 15/20 pour les deux yeux avant correction",
+          "Aptitude médicale au travail de jour comme de nuit sur tout le territoire",
+          "Nationalité tunisienne sous réserve des incapacités du Code de la nationalité",
+          "Attention : les deux sessions 2025 étaient réservées aux hommes ; la réouverture d'une session mixte n'est pas confirmée"
+        ],
+        "source_key": "s3",
+        "confidence": "MEDIUM",
+        "needs_verification": false,
+        "source_quote": "طول القامة يجب أن يكون 1.70م على الأقل بالنسبة للذكور و1.65م على الأقل بالنسبة للإناث … 20 سنة على الأقلّ و24 سنة على الأكثر بتاريخ 01 جانفي 2022"
+      },
+      "phases": [
+        {
+          "order": 1,
+          "kind": "FILE_REVIEW",
+          "name_ar": "المرحلة الأولى (جهوية): قيس الطول",
+          "name_fr": "Phase 1 (régionale) : mesure de la taille",
+          "is_eliminatory": true,
+          "duration_minutes": null,
+          "description_ar": "في دورة 2022 انطلقت الاختبارات الجهوية يوم 20 سبتمبر 2022 بقيس الطول؛ لا يمر إلى اللجنة إلا المقبولون في طول القامة.",
+          "description_fr": "En 2022, les épreuves régionales ont débuté le 20/09/2022 par la mesure de la taille ; seuls les candidats ayant la taille requise passent devant la commission.",
+          "source_key": "s3",
+          "confidence": "MEDIUM",
+          "needs_verification": true
+        },
+        {
+          "order": 2,
+          "kind": "ORAL",
+          "name_ar": "المثول أمام لجنة الاختبارات الأولية: تحرير فقرة في الثقافة العامة وعرضها",
+          "name_fr": "Passage devant la commission des épreuves préliminaires : rédaction d'un paragraphe de culture générale puis présentation orale",
+          "is_eliminatory": true,
+          "duration_minutes": null,
+          "description_ar": "يحرر المترشح فقرة في الثقافة العامة ثم يتولى عرضها أمام اللجنة (صيغة دورة 2022). منذ 2025 عوضت هذه المرحلة باختبار كتابي جهوي (موضوع + QCM).",
+          "description_fr": "Le candidat rédige un paragraphe de culture générale puis le présente devant la commission (format 2022). Depuis 2025, cette étape est remplacée par un écrit régional (sujet + QCM).",
+          "source_key": "s3",
+          "confidence": "MEDIUM",
+          "needs_verification": true
+        },
+        {
+          "order": 3,
+          "kind": "MEDICAL",
+          "name_ar": "المرحلة الثانية: فحوص طبية",
+          "name_fr": "Phase 2 : visite médicale",
+          "is_eliminatory": true,
+          "duration_minutes": null,
+          "description_ar": "فحوص طبية للناجحين في المرحلة الأولى.",
+          "description_fr": "Visite médicale pour les admis de la phase 1.",
+          "source_key": "s3",
+          "confidence": "MEDIUM",
+          "needs_verification": true
+        },
+        {
+          "order": 4,
+          "kind": "PHYSICAL",
+          "name_ar": "اختبار رياضي",
+          "name_fr": "Épreuve sportive",
+          "is_eliminatory": true,
+          "duration_minutes": null,
+          "description_ar": "للمقبولين طبيا. سلم التنقيط حسب الجنس غير منشور.",
+          "description_fr": "Pour les candidats aptes médicalement. Barème (par sexe) non publié.",
+          "source_key": "s3",
+          "confidence": "MEDIUM",
+          "needs_verification": true
+        },
+        {
+          "order": 5,
+          "kind": "PSYCHOTECH",
+          "name_ar": "اختبار كتابي تقني نفسي",
+          "name_fr": "Test psychotechnique écrit",
+          "is_eliminatory": true,
+          "duration_minutes": null,
+          "description_ar": "للناجحين في الاختبار الرياضي.",
+          "description_fr": "Pour les admis à l'épreuve sportive.",
+          "source_key": "s3",
+          "confidence": "MEDIUM",
+          "needs_verification": true
+        },
+        {
+          "order": 6,
+          "kind": "INTERVIEW",
+          "name_ar": "العرض على القيس والمثول أمام لجنة المناظرة",
+          "name_fr": "Mesure de la taille et passage devant le jury du concours",
+          "is_eliminatory": true,
+          "duration_minutes": null,
+          "description_ar": "مقابلة أمام لجنة المناظرة بعد قيس الطول رسميا.",
+          "description_fr": "Entretien devant le jury après mesure officielle de la taille.",
+          "source_key": "s3",
+          "confidence": "MEDIUM",
+          "needs_verification": true
+        },
+        {
+          "order": 7,
+          "kind": "TRAINING",
+          "name_ar": "مرحلة التكوين الأساسي",
+          "name_fr": "Formation de base",
+          "is_eliminatory": true,
+          "duration_minutes": null,
+          "description_ar": "القبول بمرحلة تكوين أساسي قبل الانتداب كحافظ أمن. المدة غير منشورة.",
+          "description_fr": "Admission en formation de base avant recrutement comme gardien(ne) de la paix. Durée non publiée.",
+          "source_key": "s3",
+          "confidence": "MEDIUM",
+          "needs_verification": false
+        }
+      ],
+      "subjects": [
+        {
+          "phase_order": 2,
+          "domain": "CULTURE_GENERALE",
+          "specialty_key": null,
+          "name_ar": "تحرير فقرة في الثقافة العامة وعرضها أمام اللجنة",
+          "name_fr": "Rédaction d'un paragraphe de culture générale et présentation devant la commission",
+          "coefficient": null,
+          "duration_minutes": null,
+          "question_count": null,
+          "source_key": "s3",
+          "confidence": "MEDIUM",
+          "needs_verification": true
+        },
+        {
+          "phase_order": 2,
+          "domain": "ARABIC",
+          "specialty_key": null,
+          "name_ar": "التعبير الكتابي والشفوي باللغة العربية (اقتراح)",
+          "name_fr": "Expression écrite et orale en arabe (suggestion)",
+          "coefficient": null,
+          "duration_minutes": null,
+          "question_count": null,
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "phase_order": 2,
+          "domain": "SPECIALTY",
+          "specialty_key": "spec.securite-droits",
+          "name_ar": "حقوق الإنسان وأخلاقيات العمل الأمني (اقتراح للمقابلة والفقرة)",
+          "name_fr": "Droits de l'homme et déontologie sécuritaire (suggestion pour le paragraphe et l'oral)",
+          "coefficient": null,
+          "duration_minutes": null,
+          "question_count": null,
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "phase_order": 5,
+          "domain": "PSYCHOTECH",
+          "specialty_key": null,
+          "name_ar": "اختبار كتابي تقني نفسي",
+          "name_fr": "Test psychotechnique écrit",
+          "coefficient": null,
+          "duration_minutes": null,
+          "question_count": null,
+          "source_key": "s3",
+          "confidence": "MEDIUM",
+          "needs_verification": true
+        },
+        {
+          "phase_order": 5,
+          "domain": "LOGIC",
+          "specialty_key": null,
+          "name_ar": "المنطق والاستدلال (اقتراح – مكون شائع في الاختبارات التقنية النفسية)",
+          "name_fr": "Logique et raisonnement (suggestion – composante fréquente des tests psychotechniques)",
+          "coefficient": null,
+          "duration_minutes": null,
+          "question_count": null,
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        }
+      ],
+      "physical_tests": [
+        {
+          "name_ar": "الاختبار الرياضي الرسمي",
+          "name_fr": "Épreuve sportive officielle",
+          "details_ar": "مذكور رسميا ضمن المرحلة الثانية. لا يوجد سلم تنقيط منشور للذكور أو للإناث.",
+          "details_fr": "Mentionnée officiellement en phase 2. Aucun barème publié pour les hommes ou les femmes.",
+          "source_key": "s3",
+          "confidence": "MEDIUM",
+          "needs_verification": true
+        },
+        {
+          "name_ar": "قيس الطول",
+          "name_fr": "Mesure de la taille",
+          "details_ar": "1.70 م للذكور و1.65 م للإناث على الأقل؛ إعفاء ممكن في حدود 5 صم بقرار وزاري.",
+          "details_fr": "1,70 m (hommes) et 1,65 m (femmes) minimum ; dispense possible jusqu'à 5 cm par décision ministérielle.",
+          "source_key": "s6",
+          "confidence": "MEDIUM",
+          "needs_verification": false
+        },
+        {
+          "name_ar": "جري التحمل والسرعة (اقتراح للتحضير)",
+          "name_fr": "Endurance et vitesse (suggestion d'entraînement)",
+          "details_ar": "اقتراح غير رسمي: جري 1000–1500 م وسرعة 60–100 م، مع أهداف مختلفة للذكور والإناث. لا توجد أرقام رسمية.",
+          "details_fr": "Suggestion non officielle : course de 1000–1500 m et sprint de 60–100 m, objectifs différenciés hommes/femmes. Aucun chiffre officiel.",
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        },
+        {
+          "name_ar": "القوة العضلية (اقتراح للتحضير)",
+          "name_fr": "Renforcement musculaire (suggestion d'entraînement)",
+          "details_ar": "اقتراح غير رسمي: الضغط، تمارين البطن، العقلة (للذكور)، القفز من الثبات.",
+          "details_fr": "Suggestion non officielle : pompes, abdominaux, tractions (hommes), saut sans élan.",
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        }
+      ],
+      "required_documents": [
+        {
+          "text_ar": "مطلب ترشح باسم السيد وزير الداخلية",
+          "text_fr": "Demande de candidature adressée à M. le ministre de l'Intérieur",
+          "source_key": "s7",
+          "confidence": "MEDIUM",
+          "needs_verification": false
+        },
+        {
+          "text_ar": "نسخة من بطاقة التعريف الوطنية",
+          "text_fr": "Copie de la carte d'identité nationale",
+          "source_key": "s7",
+          "confidence": "MEDIUM",
+          "needs_verification": false
+        },
+        {
+          "text_ar": "نسخة من الشهادة المدرسية مصادق عليها من قبل المندوبية الجهوية للتعليم، أو شهادة التكوين",
+          "text_fr": "Copie de l'attestation scolaire certifiée par le commissariat régional de l'éducation, ou du certificat de formation",
+          "source_key": "s3",
+          "confidence": "MEDIUM",
+          "needs_verification": true
+        },
+        {
+          "text_ar": "صورة شمسية حديثة",
+          "text_fr": "Photo d'identité récente",
+          "source_key": "s3",
+          "confidence": "MEDIUM",
+          "needs_verification": false
+        },
+        {
+          "text_ar": "عدد 04 ظروف بريدية مضمونة الوصول تحمل العنوان الشخصي للمترشح (05 ظروف متنبرة حسب البطاقة الإجرائية القديمة)",
+          "text_fr": "4 enveloppes recommandées portant l'adresse personnelle du candidat (5 enveloppes timbrées selon l'ancienne fiche de procédure)",
+          "source_key": "s3",
+          "confidence": "MEDIUM",
+          "needs_verification": true
+        },
+        {
+          "text_ar": "نسخة من شهادة حسن السيرة لمن أدى الخدمة العسكرية",
+          "text_fr": "Copie de l'attestation de bonne conduite pour les candidats ayant accompli le service militaire",
+          "source_key": "s3",
+          "confidence": "MEDIUM",
+          "needs_verification": true
+        },
+        {
+          "text_ar": "البطاقة عدد 3 حديثة (مرجح أن تطلب كما في دورات 2025)",
+          "text_fr": "Bulletin n° 3 récent (probablement exigé comme lors des sessions 2025)",
+          "source_key": null,
+          "confidence": "LOW",
+          "needs_verification": true
+        }
+      ],
+      "blueprint": {
+        "total_minutes": 80,
+        "fidelity": "APPROXIMATED",
+        "sections": [
+          { "domain": "CULTURE_GENERALE", "specialty_key": null, "count": 25, "minutes": 25 },
+          { "domain": "ARABIC", "specialty_key": null, "count": 10, "minutes": 12 },
+          { "domain": "FRENCH", "specialty_key": null, "count": 5, "minutes": 6 },
+          { "domain": "LOGIC", "specialty_key": null, "count": 10, "minutes": 12 },
+          { "domain": "SPECIALTY", "specialty_key": "spec.securite-droits", "count": 10, "minutes": 10 },
+          { "domain": "PSYCHOTECH", "specialty_key": null, "count": 15, "minutes": 15 }
+        ]
+      }
+    }
+  ],
+  "specialty_syllabus": [
+    {
+      "key": "spec.police-gardien-paix.institution",
+      "parent_key": null,
+      "level": "UNIT",
+      "title_ar": "المؤسسة الأمنية: التنظيم والنصوص المنظمة وأخلاقيات المهنة",
+      "title_fr": "Institution sécuritaire : organisation, textes statutaires et déontologie",
+      "scope": "SUGGESTED",
+      "source_key": null,
+      "objectives": [
+        {
+          "key": "spec.police-gardien-paix.institution.o1",
+          "text_ar": "فهم دور حافظ الأمن داخل منظومة الأمن الوطني وواجباته تجاه المواطن",
+          "text_fr": "Comprendre le rôle du gardien de la paix dans la Sûreté nationale et ses devoirs envers le citoyen"
+        }
+      ]
+    },
+    {
+      "key": "spec.police-gardien-paix.institution.organisation",
+      "parent_key": "spec.police-gardien-paix.institution",
+      "level": "TOPIC",
+      "title_ar": "تنظيم وزارة الداخلية والإدارة العامة للأمن الوطني ومهام الشرطة",
+      "title_fr": "Organisation du ministère de l'Intérieur, de la DGSN et missions de la police",
+      "scope": "SUGGESTED",
+      "source_key": "s8",
+      "objectives": [
+        {
+          "key": "spec.police-gardien-paix.institution.organisation.o1",
+          "text_ar": "التمييز بين قوات الأمن الداخلي (الأمن الوطني، الحرس الوطني، الحماية المدنية…) ومجالات تدخل كل منها",
+          "text_fr": "Distinguer les forces de sécurité intérieure (Sûreté nationale, Garde nationale, Protection civile…) et leurs champs d'intervention"
+        },
+        {
+          "key": "spec.police-gardien-paix.institution.organisation.o2",
+          "text_ar": "التمييز بين الشرطة الإدارية (الوقاية وحفظ النظام العام) والشرطة العدلية (معاينة الجرائم والبحث عن مرتكبيها)",
+          "text_fr": "Distinguer police administrative (prévention, ordre public) et police judiciaire (constatation des infractions, recherche des auteurs)"
+        },
+        {
+          "key": "spec.police-gardien-paix.institution.organisation.o3",
+          "text_ar": "معرفة تدرج الرتب داخل السلك من حافظ أمن إلى الإطارات (عريف، رقيب، ناظر أمن، ضابط…) وطرق الترقية",
+          "text_fr": "Connaître la hiérarchie des grades du corps, du gardien de la paix aux cadres (caporal, sergent, inspecteur, officier…), et les voies de promotion"
+        }
+      ]
+    },
+    {
+      "key": "spec.police-gardien-paix.institution.statut",
+      "parent_key": "spec.police-gardien-paix.institution",
+      "level": "TOPIC",
+      "title_ar": "النصوص المنظمة: القانون الأساسي العام لقوات الأمن الداخلي والنظام الأساسي الخاص (أمر 1160 لسنة 2006)",
+      "title_fr": "Textes statutaires : statut général des forces de sécurité intérieure et statut particulier (décret 2006-1160)",
+      "scope": "SUGGESTED",
+      "source_key": "s16",
+      "objectives": [
+        {
+          "key": "spec.police-gardien-paix.institution.statut.o1",
+          "text_ar": "معرفة الحقوق والواجبات الأساسية لعون الأمن: الانضباط، واجب التحفظ، السر المهني، الحياد، الجاهزية ليلا ونهارا",
+          "text_fr": "Connaître les droits et obligations essentiels de l'agent : discipline, devoir de réserve, secret professionnel, neutralité, disponibilité jour et nuit"
+        },
+        {
+          "key": "spec.police-gardien-paix.institution.statut.o2",
+          "text_ar": "معرفة شروط الانتداب ومراحل التكوين (أمر 1166 لسنة 2006) والعقوبات التأديبية الأساسية",
+          "text_fr": "Connaître les conditions de recrutement, les cycles de formation (décret 2006-1166) et les principales sanctions disciplinaires"
+        }
+      ]
+    },
+    {
+      "key": "spec.police-gardien-paix.institution.code-conduite",
+      "parent_key": "spec.police-gardien-paix.institution",
+      "level": "TOPIC",
+      "title_ar": "مدونة سلوك قوات الأمن الداخلي (أمر عدد 240 لسنة 2023)",
+      "title_fr": "Code de conduite des forces de sécurité intérieure (décret n° 2023-240)",
+      "scope": "SUGGESTED",
+      "source_key": "s18",
+      "objectives": [
+        {
+          "key": "spec.police-gardien-paix.institution.code-conduite.o1",
+          "text_ar": "استيعاب المبادئ العامة للمدونة: احترام القانون وحقوق الإنسان، التناسب في استعمال القوة، النزاهة، الحياد، حسن معاملة المواطن",
+          "text_fr": "Assimiler les principes du code : respect de la loi et des droits de l'homme, proportionnalité dans l'usage de la force, intégrité, neutralité, courtoisie envers le citoyen"
+        },
+        {
+          "key": "spec.police-gardien-paix.institution.code-conduite.o2",
+          "text_ar": "تطبيق المبادئ على وضعيات مهنية (التدخل، الإيقاف، التعامل مع الفئات الهشة) استعدادا للمقابلة",
+          "text_fr": "Appliquer ces principes à des situations professionnelles (intervention, interpellation, publics vulnérables) en vue de l'entretien"
+        }
+      ]
+    },
+    {
+      "key": "spec.police-gardien-paix.institution.circulation",
+      "parent_key": "spec.police-gardien-paix.institution",
+      "level": "TOPIC",
+      "title_ar": "أساسيات مجلة الطرقات وتنظيم حركة المرور",
+      "title_fr": "Notions du code de la route et régulation de la circulation",
+      "scope": "SUGGESTED",
+      "source_key": null,
+      "objectives": [
+        {
+          "key": "spec.police-gardien-paix.institution.circulation.o1",
+          "text_ar": "التعرف على الإشارات المرورية الأساسية وقواعد الأولوية ودور عون الأمن في تنظيم المرور",
+          "text_fr": "Reconnaître la signalisation de base, les règles de priorité et le rôle de l'agent dans la régulation du trafic"
+        }
+      ]
+    }
+  ],
+  "past_exams": [
+    {
+      "year": 2025,
+      "title": "Article communautaire sur l'épreuve écrite du 13/04/2025 (gardiens de la paix) – contenu non vérifié / مقال حول الاختبار الكتابي 13 أفريل 2025",
+      "url": "https://magazineng.com/2025/04/09/concours-police-hfd-test-2025/",
+      "source_type": "COMMUNITY",
+      "is_verified": false
+    }
+  ],
+  "tips_ar": [
+    "سجّل حصريا عبر موقع انتدابات وزارة الداخلية recrutementdgsn.interieur.gov.tn وتجنب الصفحات التي تطلب مالا مقابل «التسجيل» أو «ضمان النجاح».",
+    "احسب سنّك بتاريخ غرة جانفي من السنة المرجعية المذكورة في الإعلان (01/01/2025 في دورتي 2025)؛ من أدى الخدمة العسكرية يمكنه الانتفاع بسنة إضافية مع شهادة حسن السيرة.",
+    "اطلب البطاقة عدد 3 مبكرا: يقبل وصل الإيداع مؤقتا بشرط الاستظهار بالأصل يوم الاختبار الكتابي.",
+    "أرسل الملف كاملا بالبريد مضمون الوصول إلى إدارة الانتدابات، 18 شارع الاستقلال، قرطاج بيرصا 2016 قبل الأجل، واحتفظ بوصل الإرسال.",
+    "راقب هاتفك: الاستدعاءات للمرحلة الثانية تصل عبر إرسالية قصيرة (SMS) ويتم سحبها من الموقع؛ النتائج تُطلع عليها برقم بطاقة التعريف أو رقم الهاتف وتاريخ الولادة.",
+    "تحقق من بصرك (15/20 دون نظارات) وطولك (1.70 م للذكور) قبل الترشح لتجنب الإقصاء في الفحص الطبي والقيس.",
+    "تدرب على كتابة موضوع ثقافة عامة منظم (مقدمة، عناصر، خاتمة) حول مواضيع مثل: الأمن والمواطنة، العنف، المخدرات، السلامة المرورية، الجريمة الإلكترونية، البيئة، الشباب.",
+    "راجع تاريخ تونس وجغرافيتها ومؤسساتها ودستور 2022 والمنظمات الدولية وأحداث السنة الجارية استعدادا لأسئلة QCM.",
+    "ابدأ التحضير البدني قبل 3 أشهر على الأقل (جري التحمل 3 مرات أسبوعيا، الضغط، العقلة، البطن) لأن سلم الاختبار الرياضي غير منشور.",
+    "تدرب على الاختبارات التقنية النفسية (المتتاليات، الترميز، الانتباه تحت ضغط الوقت).",
+    "أمام لجنة المناظرة: هندام لائق، انضباط، تحفيز واضح، ومعرفة بدور حافظ الأمن وبمدونة سلوك قوات الأمن الداخلي (2023)."
+  ],
+  "tips_fr": [
+    "Inscrivez-vous uniquement sur le site officiel des recrutements recrutementdgsn.interieur.gov.tn et méfiez-vous des pages demandant de l'argent pour « l'inscription » ou une « réussite garantie ».",
+    "Calculez votre âge au 1er janvier de l'année de référence indiquée dans l'avis (01/01/2025 pour les sessions 2025) ; le service militaire accompli donne droit à 1 an supplémentaire avec attestation de bonne conduite.",
+    "Demandez le bulletin n° 3 tôt : le récépissé de demande est accepté provisoirement si l'original est présenté le jour de l'écrit.",
+    "Envoyez le dossier complet en recommandé à la Direction des recrutements, 18 avenue de l'Indépendance, Carthage Byrsa 2016, avant la date limite, et gardez le reçu.",
+    "Surveillez votre téléphone : la convocation à la phase 2 est annoncée par SMS et se télécharge sur le site ; les résultats se consultent avec le n° de CIN ou de téléphone et la date de naissance.",
+    "Vérifiez votre vue (15/20 sans lunettes) et votre taille (1,70 m pour les hommes) avant de candidater pour éviter une élimination médicale.",
+    "Entraînez-vous à rédiger un sujet de culture générale structuré (introduction, développement, conclusion) sur : sécurité et citoyenneté, violence, drogues, sécurité routière, cybercriminalité, environnement, jeunesse.",
+    "Révisez l'histoire, la géographie et les institutions tunisiennes (Constitution de 2022), les organisations internationales et l'actualité de l'année pour le QCM.",
+    "Commencez la préparation physique au moins 3 mois avant (endurance 3 fois/semaine, pompes, tractions, abdominaux) : le barème officiel n'est pas publié.",
+    "Entraînez-vous aux tests psychotechniques (suites, codage, attention sous contrainte de temps).",
+    "Devant le jury : tenue correcte, discipline, motivation claire, connaissance du rôle du gardien de la paix et du code de conduite des forces de sécurité intérieure (2023)."
+  ],
+  "research_notes": "LIMITE MÉTHODOLOGIQUE : depuis le conteneur, WebFetch est bloqué pour tous les domaines utiles (interieur.gov.tn, recrutementdgsn.interieur.gov.tn, concours.gov.tn, legislation-securite.tn, presse). Toutes les informations proviennent des extraits/résumés du moteur WebSearch (recherches AR et FR) qui citent les pages officielles et leurs relais ; aucun texte officiel n'a été lu en entier. Les champs source_quote sont des extraits tels que restitués par le moteur et doivent être recollés sur l'original. Les faits marqués needs_verification=false sont ceux confirmés par une page officielle ET au moins un relais concordant (dates 2025, conditions d'âge/diplôme/taille/vue, structure en 3 phases).\n\nCE QUI EST SOLIDE : (1) Communiqué officiel de janvier 2025 : 2 concours pour 1950 gardiens au titre de l'année de formation 2025 ; 1er concours = 1000 postes, inscription 16/01–03/02/2025, dossier par recommandé au 04/02/2025, écrit le 13/04/2025. (2) Avis officiel de novembre 2025 : gardiens HOMMES pour les unités de terrain actives, inscription 26/11–14/12/2025 (dossier au plus tard 14 ou 15/12/2025 selon les relais), écrit le 15/03/2026 ; phase 1 = sujet de culture générale + QCM ; phase 2 = visite médicale, épreuve sportive, test psychotechnique écrit, mesure + antécédents judiciaires + jury ; phase 3 = examens médicaux complémentaires + psychotechnique approfondi. (3) Conditions permanentes (portail e-Interieur) : 4e année secondaire achevée, ≤ 24 ans au 1er janvier, 1,70 m H / 1,65 m F (dispense ministérielle ≤ 5 cm), acuité 15/20 avant correction.\n\nÀ VÉRIFIER : (a) nombre de postes du concours de novembre 2025 — très probablement le 2e concours de 950 postes annoncé en janvier 2025, mais aucun texte ne le dit explicitement : positions_count laissé à null ; (b) le nombre de candidats n'est publié pour aucune session ; (c) aucune durée, coefficient ni nombre de questions de l'écrit n'est publié → blueprints APPROXIMATED (QCM uniquement ; la rédaction de culture générale n'est pas modélisée en questions) ; la répartition du QCM entre culture générale, langues, logique, etc. est une SUGGESTION ; (d) l'épreuve sportive n'a aucun barème public : les tests (1000–1500 m, sprint, tractions, pompes…) sont des suggestions d'entraînement, la mention « 1500 m en moins de 7 min » vient d'un récit de candidat non tunisien probable, à ne pas présenter comme officiel ; (e) frais de 10 dinars, nombre d'enveloppes (4 selon 2022/2025, 5 selon l'ancienne fiche SICAD), certification de l'attestation scolaire par le commissariat régional : à confirmer sur l'avis original ; (f) durée et lieu de la formation de base non publiés (une durée de 6 mois et une école à Sidi Saâd ont été évoquées par des résumés non fiables, non retenus) — consulter le décret 2006-1166 ; (g) dates des sessions 2019 (annonce 18/03/2019, dossiers au 11/04/2019, épreuves dès le 22/04/2019) et 2022 (inscription 22/07–03/08/2022, épreuves régionales dès le 20/09/2022) issues d'un seul résumé chacune ; (h) un résumé donnait 20–22 ans pour la session 2022 : il s'agit très probablement d'une confusion avec le concours des sergents (رقباء, âge max 22 ans, s27) ; la valeur retenue est 20–24 ans ; (i) état civil (célibat) : aucune exigence trouvée, champ laissé à null ; (j) les deux sessions 2025 étaient réservées aux hommes : la position « mixte » décrit le format des sessions 2019/2022 et la réouverture aux femmes n'est pas confirmée ; une future session mixte adopterait probablement le format écrit 2025.\n\nÉDITION ATTENDUE : au 07/10/2026, aucun nouveau concours de gardiens de la paix n'a été trouvé pour 2026 (les concours 2026 trouvés concernent les lieutenants – écrit 04/10/2026, s24 –, les inspecteurs paramédicaux/techniques et la Garde nationale, qui relèvent d'autres familles). Vu le rythme 2025 (janvier et novembre), une session fin 2026/début 2027 est plausible : édition EXPECTED en suggestion (LOW).\n\nNE PAS CONFONDRE : gardien de la paix (حافظ أمن, 4e secondaire, ≤ 24 ans) ≠ sergent (رقيب, 9e de base, ≤ 22 ans) ≠ inspecteur (ناظر أمن, bac) ≠ lieutenant (ملازم أول, bac+5). Les avocats/magistrats sont hors périmètre. Sources à consulter en priorité par l'équipe admin : s1, s2, s3, s5/s6, s23, et le JORT (iort.gov.tn) pour les décrets 2006-1160, 2006-1166 et 2023-240."
+}
