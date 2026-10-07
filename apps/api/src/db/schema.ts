@@ -54,6 +54,8 @@ export const users = pgTable('users', {
   createdAt: createdAt(),
   lastActiveAt: timestamp('last_active_at', { withTimezone: true }),
   deletedAt: timestamp('deleted_at', { withTimezone: true }),
+  /** Bumped on password reset/change and account deletion: session JWTs carrying an older version are rejected. */
+  tokenVersion: integer('token_version').notNull().default(0),
 }, (t) => [
   uniqueIndex('users_email_uq').on(sql`lower(${t.email})`).where(sql`${t.email} is not null`),
   uniqueIndex('users_referral_code_uq').on(t.referralCode),
@@ -74,6 +76,8 @@ export const userProfiles = pgTable('user_profiles', {
   alertFields: text('alert_fields').array().notNull().default(sql`'{}'::text[]`), // empty = all fields
   alertChannels: text('alert_channels').array().notNull().default(sql`'{IN_APP,PUSH,EMAIL}'::text[]`),
   dailyReminderHour: integer('daily_reminder_hour'),
+  /** Hidden from public leaderboards (still sees their own rank). */
+  leaderboardOptOut: boolean('leaderboard_opt_out').notNull().default(false),
   updatedAt: updatedAt(),
 });
 
@@ -212,7 +216,12 @@ export const competitions = pgTable('competitions', {
   alertsSentAt: timestamp('alerts_sent_at', { withTimezone: true }),
   createdAt: createdAt(),
   updatedAt: updatedAt(),
-}, (t) => [index('competitions_family_idx').on(t.familyId), index('competitions_status_idx').on(t.status)]);
+}, (t) => [
+  index('competitions_family_idx').on(t.familyId),
+  index('competitions_status_idx').on(t.status),
+  // One edition per family, year and session: keeps the seed and admin edits idempotent.
+  uniqueIndex('competitions_family_year_session_uq').on(t.familyId, t.year, sql`coalesce(${t.sessionLabel}, '')`),
+]);
 
 export const positions = pgTable('positions', {
   id: id(),
@@ -352,6 +361,13 @@ export const lessons = pgTable('lessons', {
   reviewedBy: uuid('reviewed_by').references(() => users.id),
   updatedAt: updatedAt(),
 }, (t) => [index('lessons_node_idx').on(t.nodeId)]);
+
+/** Lessons a user marked as read (XP once per lesson; ticks LESSON items of the daily plan). */
+export const lessonCompletions = pgTable('lesson_completions', {
+  userId: uuid('user_id').notNull().references(() => users.id, { onDelete: 'cascade' }),
+  lessonId: uuid('lesson_id').notNull().references(() => lessons.id, { onDelete: 'cascade' }),
+  completedAt: timestamp('completed_at', { withTimezone: true }).notNull().defaultNow(),
+}, (t) => [primaryKey({ columns: [t.userId, t.lessonId] })]);
 
 // ───────────── Question bank ─────────────
 export const questions = pgTable('questions', {
@@ -636,7 +652,11 @@ export const subscriptions = pgTable('subscriptions', {
   source: text('source').notNull().default('PAYMENT'), // PAYMENT | REFERRAL | ADMIN_GRANT | PROMO
   paymentId: uuid('payment_id'),
   createdAt: createdAt(),
-}, (t) => [index('subscriptions_user_idx').on(t.userId, t.endsAt)]);
+}, (t) => [
+  index('subscriptions_user_idx').on(t.userId, t.endsAt),
+  // A payment activates at most one subscription (billing also enforces this in code).
+  uniqueIndex('subscriptions_payment_uq').on(t.paymentId).where(sql`${t.paymentId} is not null`),
+]);
 
 export const payments = pgTable('payments', {
   id: id(),
@@ -680,6 +700,8 @@ export const waitlist = pgTable('waitlist', {
   willingness: text('willingness'),
   utm: jsonb('utm'),
   createdAt: createdAt(),
+  /** When the "your concours is now on Concours TN" email was sent (once per entry). */
+  notifiedAt: timestamp('notified_at', { withTimezone: true }),
 });
 
 export const analyticsEvents = pgTable('analytics_events', {

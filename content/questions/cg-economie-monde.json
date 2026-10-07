@@ -1,0 +1,2006 @@
+{
+  "bank": "cg-economie-monde",
+  "domain": "CULTURE_GENERALE",
+  "specialty_syllabus": [],
+  "questions": [
+    {
+      "id": "cg-economie-monde-0001",
+      "type": "MCQ_SINGLE",
+      "language": "ar",
+      "stem": "أيّ مؤسسة عمومية تتولّى استخراج الفسفاط من الحوض المنجمي بولاية قفصة؟",
+      "options": [
+        {
+          "id": "a",
+          "text": "المجمع الكيميائي التونسي"
+        },
+        {
+          "id": "b",
+          "text": "شركة فسفاط قفصة"
+        },
+        {
+          "id": "c",
+          "text": "المؤسسة التونسية للأنشطة البترولية"
+        },
+        {
+          "id": "d",
+          "text": "الشركة التونسية للكهرباء والغاز"
+        }
+      ],
+      "correct": [
+        "b"
+      ],
+      "explanation": "تتولّى شركة فسفاط قفصة استخراج الفسفاط ومعالجته الأولية في الحوض المنجمي (المتلوي، الرديف، أم العرائس، المظيلة...). أما المجمع الكيميائي التونسي، وهو الخيار المضلّل الأقرب، فيتولّى تحويل الفسفاط إلى حامض فسفوري وأسمدة، خاصة في وحدات قابس وصفاقس والصخيرة. وتختصّ المؤسسة التونسية للأنشطة البترولية بالمحروقات، والشركة التونسية للكهرباء والغاز بالطاقة الكهربائية والغاز.",
+      "difficulty": "EASY",
+      "topic_key": "cg.tunisie-economie",
+      "objective_key": "cg.tunisie-economie.o1",
+      "families": [
+        "*"
+      ],
+      "origin": "AI_GENERATED",
+      "source_key": null,
+      "year": null,
+      "valid_until": null,
+      "tags": [
+        "الفسفاط",
+        "المؤسسات العمومية",
+        "المناجم"
+      ]
+    },
+    {
+      "id": "cg-economie-monde-0002",
+      "type": "MATCHING",
+      "language": "fr",
+      "stem": "Associez chaque établissement public tunisien à sa mission principale :",
+      "options": [
+        {
+          "id": "l1",
+          "text": "INS (Institut national de la statistique)",
+          "side": "left"
+        },
+        {
+          "id": "l2",
+          "text": "STEG",
+          "side": "left"
+        },
+        {
+          "id": "l3",
+          "text": "SONEDE",
+          "side": "left"
+        },
+        {
+          "id": "l4",
+          "text": "ETAP",
+          "side": "left"
+        },
+        {
+          "id": "r1",
+          "text": "Exploration et production des hydrocarbures pour le compte de l'État",
+          "side": "right"
+        },
+        {
+          "id": "r2",
+          "text": "Production et diffusion des statistiques officielles",
+          "side": "right"
+        },
+        {
+          "id": "r3",
+          "text": "Production et distribution de l'électricité, distribution du gaz naturel",
+          "side": "right"
+        },
+        {
+          "id": "r4",
+          "text": "Production et distribution de l'eau potable",
+          "side": "right"
+        }
+      ],
+      "correct": {
+        "pairs": [
+          [
+            "l1",
+            "r2"
+          ],
+          [
+            "l2",
+            "r3"
+          ],
+          [
+            "l3",
+            "r4"
+          ],
+          [
+            "l4",
+            "r1"
+          ]
+        ]
+      },
+      "explanation": "L'INS produit les statistiques officielles (population, emploi, prix, croissance). La STEG (Société tunisienne de l'électricité et du gaz) assure l'essentiel de la production et de la distribution d'électricité et distribue le gaz naturel, tandis que la SONEDE (Société nationale d'exploitation et de distribution des eaux) gère l'eau potable. L'ETAP (Entreprise tunisienne d'activités pétrolières) gère les intérêts de l'État dans l'exploration et la production d'hydrocarbures. Piège fréquent : attribuer l'assainissement à la SONEDE, alors qu'il relève de l'ONAS.",
+      "difficulty": "MEDIUM",
+      "topic_key": "cg.tunisie-economie",
+      "objective_key": "cg.tunisie-economie.o1",
+      "families": [
+        "*"
+      ],
+      "origin": "AI_GENERATED",
+      "source_key": null,
+      "year": null,
+      "valid_until": null,
+      "tags": [
+        "entreprises publiques",
+        "énergie",
+        "eau",
+        "statistiques"
+      ]
+    },
+    {
+      "id": "cg-economie-monde-0003",
+      "type": "TRUE_FALSE",
+      "language": "ar",
+      "stem": "صحيح أم خطأ: يُعدّ الاتحاد الأوروبي، في مجمله، الشريكَ التجاري الأول للبلاد التونسية.",
+      "options": [
+        {
+          "id": "a",
+          "text": "صحيح"
+        },
+        {
+          "id": "b",
+          "text": "خطأ"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "explanation": "صحيح. يستوعب الاتحاد الأوروبي الجزء الأكبر من الصادرات التونسية ويوفّر جزءًا كبيرًا من وارداتها، وأبرز الشركاء داخله فرنسا وإيطاليا وألمانيا. ويؤطّر هذه العلاقات اتفاق الشراكة الموقّع سنة 1995. أما المبادلات مع البلدان المغاربية فما تزال محدودة رغم القرب الجغرافي.",
+      "difficulty": "EASY",
+      "topic_key": "cg.tunisie-economie",
+      "objective_key": "cg.tunisie-economie.o1",
+      "families": [
+        "*"
+      ],
+      "origin": "AI_GENERATED",
+      "source_key": null,
+      "year": null,
+      "valid_until": "2027-10-07",
+      "tags": [
+        "التجارة الخارجية",
+        "الاتحاد الأوروبي"
+      ]
+    },
+    {
+      "id": "cg-economie-monde-0004",
+      "type": "MCQ_SINGLE",
+      "language": "fr",
+      "stem": "L'accord d'association entre la Tunisie et l'Union européenne, qui a prévu la création progressive d'une zone de libre-échange pour les produits industriels, a été signé en :",
+      "options": [
+        {
+          "id": "a",
+          "text": "1995"
+        },
+        {
+          "id": "b",
+          "text": "2008"
+        },
+        {
+          "id": "c",
+          "text": "2011"
+        },
+        {
+          "id": "d",
+          "text": "1969"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "explanation": "L'accord d'association a été signé le 17 juillet 1995 et est entré en vigueur en 1998 ; la Tunisie a été le premier pays de la rive sud de la Méditerranée à conclure un tel accord. L'année 2008, distracteur le plus fréquent, correspond à l'achèvement du démantèlement tarifaire pour les produits industriels, c'est-à-dire à l'aboutissement de la zone de libre-échange prévue par l'accord, et non à sa signature. 1969 renvoie à un premier accord, plus limité, avec la Communauté économique européenne.",
+      "difficulty": "MEDIUM",
+      "topic_key": "cg.tunisie-economie",
+      "objective_key": "cg.tunisie-economie.o1",
+      "families": [
+        "*"
+      ],
+      "origin": "AI_GENERATED",
+      "source_key": null,
+      "year": null,
+      "valid_until": null,
+      "tags": [
+        "Union européenne",
+        "libre-échange",
+        "commerce extérieur"
+      ]
+    },
+    {
+      "id": "cg-economie-monde-0005",
+      "type": "MCQ_SINGLE",
+      "language": "ar",
+      "stem": "أيّ قطاع يحتلّ المرتبة الأولى ضمن الصادرات التونسية من حيث القيمة خلال السنوات الأخيرة؟",
+      "options": [
+        {
+          "id": "a",
+          "text": "النسيج والملابس والجلد"
+        },
+        {
+          "id": "b",
+          "text": "الفسفاط ومشتقاته"
+        },
+        {
+          "id": "c",
+          "text": "الصناعات الميكانيكية والكهربائية"
+        },
+        {
+          "id": "d",
+          "text": "المنتجات الفلاحية والغذائية"
+        }
+      ],
+      "correct": [
+        "c"
+      ],
+      "explanation": "تحتلّ الصناعات الميكانيكية والكهربائية (الأسلاك الكهربائية، مكوّنات السيارات والطائرات، التجهيزات الكهربائية) المرتبة الأولى في الصادرات التونسية. وكان قطاع النسيج والملابس تاريخيًا أول قطاع مصدّر، وهو الخيار المضلّل الأقرب، قبل أن تتجاوزه الصناعات الميكانيكية والكهربائية. أما المنتجات الفلاحية والغذائية، وعلى رأسها زيت الزيتون والتمور، فقيمتها مهمّة لكنها تتغيّر كثيرًا حسب المواسم.",
+      "difficulty": "MEDIUM",
+      "topic_key": "cg.tunisie-economie",
+      "objective_key": "cg.tunisie-economie.o1",
+      "families": [
+        "*"
+      ],
+      "origin": "AI_GENERATED",
+      "source_key": null,
+      "year": null,
+      "valid_until": "2027-10-07",
+      "tags": [
+        "الصادرات",
+        "الصناعة",
+        "مؤشرات"
+      ]
+    },
+    {
+      "id": "cg-economie-monde-0006",
+      "type": "MCQ_SINGLE",
+      "language": "fr",
+      "stem": "Le produit intérieur brut (PIB) d'un pays mesure :",
+      "options": [
+        {
+          "id": "a",
+          "text": "la différence entre ses exportations et ses importations"
+        },
+        {
+          "id": "b",
+          "text": "le total des recettes fiscales de l'État"
+        },
+        {
+          "id": "c",
+          "text": "la valeur des biens et services produits par ses seuls ressortissants, où qu'ils se trouvent"
+        },
+        {
+          "id": "d",
+          "text": "la valeur des biens et services finals produits sur son territoire pendant une période donnée"
+        }
+      ],
+      "correct": [
+        "d"
+      ],
+      "explanation": "Le PIB mesure la richesse créée sur le territoire national (valeur des biens et services finals, ou somme des valeurs ajoutées) au cours d'une période, généralement l'année ou le trimestre. Le choix c, distracteur le plus proche, décrit plutôt la logique du produit national brut (PNB), qui raisonne selon l'appartenance nationale des producteurs et non selon le territoire. La différence exportations moins importations est la balance commerciale, et les recettes fiscales relèvent du budget de l'État.",
+      "difficulty": "EASY",
+      "topic_key": "cg.tunisie-economie",
+      "objective_key": "cg.tunisie-economie.o1",
+      "families": [
+        "*"
+      ],
+      "origin": "AI_GENERATED",
+      "source_key": null,
+      "year": null,
+      "valid_until": null,
+      "tags": [
+        "PIB",
+        "indicateurs",
+        "notions économiques"
+      ]
+    },
+    {
+      "id": "cg-economie-monde-0007",
+      "type": "MCQ_MULTI",
+      "language": "ar",
+      "stem": "من بين ما يلي، ما هي المصادر الأساسية للعملة الصعبة بالنسبة إلى تونس؟ (اختر كلّ الإجابات الصحيحة)",
+      "options": [
+        {
+          "id": "a",
+          "text": "مداخيل القطاع السياحي"
+        },
+        {
+          "id": "b",
+          "text": "الأداء على القيمة المضافة"
+        },
+        {
+          "id": "c",
+          "text": "تحويلات التونسيين المقيمين بالخارج"
+        },
+        {
+          "id": "d",
+          "text": "صادرات السلع"
+        }
+      ],
+      "correct": [
+        "a",
+        "c",
+        "d"
+      ],
+      "explanation": "تجلب صادرات السلع ومداخيل السياحة وتحويلات التونسيين المقيمين بالخارج العملةَ الصعبة، وتساهم في دعم الاحتياطي الذي يتصرّف فيه البنك المركزي ويُعبَّر عنه بعدد أيام التوريد. أما الأداء على القيمة المضافة فهو أداء جبائي على الاستهلاك يُستخلص بالدينار، فيموّل ميزانية الدولة ولا يدرّ عملة صعبة.",
+      "difficulty": "MEDIUM",
+      "topic_key": "cg.tunisie-economie",
+      "objective_key": "cg.tunisie-economie.o1",
+      "families": [
+        "*"
+      ],
+      "origin": "AI_GENERATED",
+      "source_key": null,
+      "year": null,
+      "valid_until": null,
+      "tags": [
+        "العملة الصعبة",
+        "ميزان الدفوعات",
+        "السياحة"
+      ]
+    },
+    {
+      "id": "cg-economie-monde-0008",
+      "type": "MCQ_SINGLE",
+      "language": "fr",
+      "stem": "Le régime des entreprises totalement exportatrices, dit « offshore », qui a favorisé l'implantation en Tunisie d'industries tournées vers l'exportation, a été instauré par une loi de :",
+      "options": [
+        {
+          "id": "a",
+          "text": "1972"
+        },
+        {
+          "id": "b",
+          "text": "1956"
+        },
+        {
+          "id": "c",
+          "text": "1986"
+        },
+        {
+          "id": "d",
+          "text": "2016"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "explanation": "Le régime offshore a été créé par la loi n° 72-38 du 27 avril 1972, sous le gouvernement de Hédi Nouira, pour attirer des industries produisant pour l'exportation (textile puis composants électriques). 1986 est l'année du Programme d'ajustement structurel (PAS), et 2016 celle de la loi de l'investissement (loi n° 2016-71), qui a remplacé le Code d'incitation aux investissements de 1993. 1956, année de l'indépendance, est bien antérieure à cette politique d'ouverture.",
+      "difficulty": "HARD",
+      "topic_key": "cg.tunisie-economie",
+      "objective_key": "cg.tunisie-economie.o1",
+      "families": [
+        "*"
+      ],
+      "origin": "AI_GENERATED",
+      "source_key": null,
+      "year": null,
+      "valid_until": null,
+      "tags": [
+        "investissement",
+        "exportation",
+        "loi de 1972"
+      ]
+    },
+    {
+      "id": "cg-economie-monde-0009",
+      "type": "NUMERIC",
+      "language": "ar",
+      "stem": "ينقسم الدينار التونسي إلى وحدات أصغر تُسمّى المليمات. كم مليمًا يساوي دينار واحد؟ (أدخل العدد)",
+      "options": [],
+      "correct": {
+        "value": 1000,
+        "tolerance": 0
+      },
+      "explanation": "يساوي الدينار التونسي 1000 مليم، وقد أُحدث سنة 1958 ليحلّ محلّ الفرنك. ويقع الخطأ الشائع في اعتبار أنه ينقسم إلى 100 وحدة كما هو الحال في عملات كثيرة، مثل اليورو (100 سنتيم) والدرهم المغربي (100 سنتيم).",
+      "difficulty": "EASY",
+      "topic_key": "cg.tunisie-economie",
+      "objective_key": "cg.tunisie-economie.o2",
+      "families": [
+        "*"
+      ],
+      "origin": "AI_GENERATED",
+      "source_key": null,
+      "year": null,
+      "valid_until": null,
+      "tags": [
+        "الدينار",
+        "العملة"
+      ]
+    },
+    {
+      "id": "cg-economie-monde-0010",
+      "type": "MCQ_SINGLE",
+      "language": "fr",
+      "stem": "En Tunisie, quelle institution détient le privilège exclusif d'émettre les billets de banque et les pièces de monnaie ?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Le ministère des Finances"
+        },
+        {
+          "id": "b",
+          "text": "La Poste tunisienne"
+        },
+        {
+          "id": "c",
+          "text": "La Banque centrale de Tunisie (BCT)"
+        },
+        {
+          "id": "d",
+          "text": "La Société tunisienne de banque (STB)"
+        }
+      ],
+      "correct": [
+        "c"
+      ],
+      "explanation": "L'émission des billets et des pièces est un privilège exclusif de la Banque centrale de Tunisie, qui conduit aussi la politique monétaire. Le ministère des Finances, distracteur le plus fréquent, gère le budget, la fiscalité et le Trésor, mais n'émet pas la monnaie. La Poste tunisienne et la STB sont des intermédiaires financiers qui font circuler la monnaie sans l'émettre.",
+      "difficulty": "EASY",
+      "topic_key": "cg.tunisie-economie",
+      "objective_key": "cg.tunisie-economie.o2",
+      "families": [
+        "*"
+      ],
+      "origin": "AI_GENERATED",
+      "source_key": null,
+      "year": null,
+      "valid_until": null,
+      "tags": [
+        "BCT",
+        "monnaie",
+        "émission"
+      ]
+    },
+    {
+      "id": "cg-economie-monde-0011",
+      "type": "MCQ_SINGLE",
+      "language": "ar",
+      "stem": "من هو أوّل محافظ للبنك المركزي التونسي عند إحداثه سنة 1958؟",
+      "options": [
+        {
+          "id": "a",
+          "text": "أحمد بن صالح"
+        },
+        {
+          "id": "b",
+          "text": "الباهي الأدغم"
+        },
+        {
+          "id": "c",
+          "text": "محمد مزالي"
+        },
+        {
+          "id": "d",
+          "text": "الهادي نويرة"
+        }
+      ],
+      "correct": [
+        "d"
+      ],
+      "explanation": "تولّى الهادي نويرة منصب أوّل محافظ للبنك المركزي التونسي من 1958 إلى 1970، ثم أصبح وزيرًا أوّل من 1970 إلى 1980. أما أحمد بن صالح، وهو الخيار المضلّل الأقرب لارتباط اسمه بالاقتصاد، فقد اقترن بالتخطيط وتجربة التعاضد في الستينات. وشغل الباهي الأدغم ومحمد مزالي منصب الوزير الأول ولم يكونا محافظين للبنك المركزي.",
+      "difficulty": "MEDIUM",
+      "topic_key": "cg.tunisie-economie",
+      "objective_key": "cg.tunisie-economie.o2",
+      "families": [
+        "*"
+      ],
+      "origin": "AI_GENERATED",
+      "source_key": null,
+      "year": null,
+      "valid_until": null,
+      "tags": [
+        "البنك المركزي",
+        "شخصيات",
+        "1958"
+      ]
+    },
+    {
+      "id": "cg-economie-monde-0012",
+      "type": "MCQ_SINGLE",
+      "language": "fr",
+      "stem": "Quel est l'indice de référence de la Bourse des valeurs mobilières de Tunis (BVMT) ?",
+      "options": [
+        {
+          "id": "a",
+          "text": "TUNINDEX"
+        },
+        {
+          "id": "b",
+          "text": "MASI"
+        },
+        {
+          "id": "c",
+          "text": "EGX 30"
+        },
+        {
+          "id": "d",
+          "text": "CAC 40"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "explanation": "Le TUNINDEX est l'indice de référence de la Bourse de Tunis ; il est complété par le TUNINDEX20, qui regroupe vingt des valeurs les plus importantes et les plus liquides de la cote. Le MASI, distracteur fréquent parce que maghrébin, est l'indice de la Bourse de Casablanca. L'EGX 30 est celui de la Bourse égyptienne et le CAC 40 celui de la Bourse de Paris.",
+      "difficulty": "MEDIUM",
+      "topic_key": "cg.tunisie-economie",
+      "objective_key": "cg.tunisie-economie.o2",
+      "families": [
+        "*"
+      ],
+      "origin": "AI_GENERATED",
+      "source_key": null,
+      "year": null,
+      "valid_until": null,
+      "tags": [
+        "Bourse",
+        "BVMT",
+        "marché financier"
+      ]
+    },
+    {
+      "id": "cg-economie-monde-0013",
+      "type": "MCQ_MULTI",
+      "language": "ar",
+      "stem": "أيّ من البنوك التالية تُصنَّف ضمن البنوك العمومية في تونس؟ (اختر كلّ الإجابات الصحيحة)",
+      "options": [
+        {
+          "id": "a",
+          "text": "الشركة التونسية للبنك (STB)"
+        },
+        {
+          "id": "b",
+          "text": "بنك تونس العربي الدولي (BIAT)"
+        },
+        {
+          "id": "c",
+          "text": "البنك الوطني الفلاحي (BNA)"
+        },
+        {
+          "id": "d",
+          "text": "أمان بنك"
+        }
+      ],
+      "correct": [
+        "a",
+        "c"
+      ],
+      "explanation": "الشركة التونسية للبنك والبنك الوطني الفلاحي بنكان عموميان تساهم فيهما الدولة والمؤسسات العمومية بصفة أساسية، ويُضاف إليهما عادة بنك الإسكان (BH Bank). أما بنك تونس العربي الدولي، وهو الخيار المضلّل الأكثر شيوعًا بسبب حجمه، وأمان بنك، فهما بنكان خاصّان. ويُعرف البنك الوطني الفلاحي بدوره في تمويل القطاع الفلاحي.",
+      "difficulty": "HARD",
+      "topic_key": "cg.tunisie-economie",
+      "objective_key": "cg.tunisie-economie.o2",
+      "families": [
+        "*"
+      ],
+      "origin": "AI_GENERATED",
+      "source_key": null,
+      "year": null,
+      "valid_until": null,
+      "tags": [
+        "البنوك العمومية",
+        "القطاع البنكي"
+      ]
+    },
+    {
+      "id": "cg-economie-monde-0014",
+      "type": "ORDERING",
+      "language": "fr",
+      "stem": "Classez ces jalons du système financier tunisien du plus ancien au plus récent :",
+      "options": [
+        {
+          "id": "a",
+          "text": "Création du Conseil du marché financier (CMF)"
+        },
+        {
+          "id": "b",
+          "text": "Création de la Bourse de Tunis"
+        },
+        {
+          "id": "c",
+          "text": "Création de la Banque centrale de Tunisie"
+        },
+        {
+          "id": "d",
+          "text": "Promulgation de la loi n° 2016-35 portant statut de la BCT"
+        }
+      ],
+      "correct": {
+        "order": [
+          "c",
+          "b",
+          "a",
+          "d"
+        ]
+      },
+      "explanation": "La BCT a été créée par la loi du 19 septembre 1958, puis la Bourse de Tunis en 1969. Le CMF, autorité de régulation du marché financier, a été institué par la loi n° 94-117 du 14 novembre 1994 portant réorganisation du marché financier, et la loi n° 2016-35 du 25 avril 2016 a fixé le nouveau statut de la BCT en renforçant son indépendance. L'erreur classique consiste à croire que le régulateur (CMF) est né avant la Bourse elle-même.",
+      "difficulty": "HARD",
+      "topic_key": "cg.tunisie-economie",
+      "objective_key": "cg.tunisie-economie.o2",
+      "families": [
+        "*"
+      ],
+      "origin": "AI_GENERATED",
+      "source_key": null,
+      "year": null,
+      "valid_until": null,
+      "tags": [
+        "BCT",
+        "Bourse",
+        "CMF",
+        "chronologie"
+      ]
+    },
+    {
+      "id": "cg-economie-monde-0015",
+      "type": "MCQ_SINGLE",
+      "language": "ar",
+      "stem": "يتعلّق القانون عدد 35 لسنة 2016 المؤرّخ في 25 أفريل 2016 بـ:",
+      "options": [
+        {
+          "id": "a",
+          "text": "قانون الاستثمار"
+        },
+        {
+          "id": "b",
+          "text": "البنوك والمؤسسات المالية"
+        },
+        {
+          "id": "c",
+          "text": "ضبط النظام الأساسي للبنك المركزي التونسي"
+        },
+        {
+          "id": "d",
+          "text": "عقود الشراكة بين القطاع العام والقطاع الخاص"
+        }
+      ],
+      "correct": [
+        "c"
+      ],
+      "explanation": "القانون عدد 35 لسنة 2016 هو النظام الأساسي للبنك المركزي التونسي، وقد دعّم عند صدوره استقلالية البنك وجعل استقرار الأسعار هدفه الأساسي. ويُخلط عادة بالقانون عدد 48 لسنة 2016 المؤرّخ في 11 جويلية 2016 والمتعلّق بالبنوك والمؤسسات المالية، الصادر في السنة نفسها. أما قانون الاستثمار فهو القانون عدد 71 لسنة 2016 المؤرّخ في 30 سبتمبر 2016، في حين صدر قانون عقود الشراكة بين القطاع العام والقطاع الخاص سنة 2015.",
+      "difficulty": "EXPERT",
+      "topic_key": "cg.tunisie-economie",
+      "objective_key": "cg.tunisie-economie.o2",
+      "families": [
+        "*"
+      ],
+      "origin": "AI_GENERATED",
+      "source_key": null,
+      "year": null,
+      "valid_until": null,
+      "tags": [
+        "البنك المركزي",
+        "تشريع",
+        "2016"
+      ]
+    },
+    {
+      "id": "cg-economie-monde-0016",
+      "type": "MCQ_SINGLE",
+      "language": "fr",
+      "stem": "Où se trouve le siège de l'Organisation des Nations unies (ONU) ?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Genève"
+        },
+        {
+          "id": "b",
+          "text": "New York"
+        },
+        {
+          "id": "c",
+          "text": "Washington"
+        },
+        {
+          "id": "d",
+          "text": "Vienne"
+        }
+      ],
+      "correct": [
+        "b"
+      ],
+      "explanation": "Le siège de l'ONU est à New York, où se réunissent l'Assemblée générale et le Conseil de sécurité. Genève, distracteur le plus fréquent, abrite l'Office des Nations unies à Genève et de nombreuses agences (OMS, OIT, HCR), et Vienne accueille notamment l'AIEA. Washington est le siège du FMI et de la Banque mondiale, pas de l'ONU.",
+      "difficulty": "EASY",
+      "topic_key": "cg.monde-organisations",
+      "objective_key": "cg.monde-organisations.o1",
+      "families": [
+        "*"
+      ],
+      "origin": "AI_GENERATED",
+      "source_key": null,
+      "year": null,
+      "valid_until": null,
+      "tags": [
+        "ONU",
+        "sièges"
+      ]
+    },
+    {
+      "id": "cg-economie-monde-0017",
+      "type": "MCQ_SINGLE",
+      "language": "ar",
+      "stem": "تأسّست منظمة الأمم المتحدة سنة:",
+      "options": [
+        {
+          "id": "a",
+          "text": "1919"
+        },
+        {
+          "id": "b",
+          "text": "1945"
+        },
+        {
+          "id": "c",
+          "text": "1948"
+        },
+        {
+          "id": "d",
+          "text": "1956"
+        }
+      ],
+      "correct": [
+        "b"
+      ],
+      "explanation": "وُقّع ميثاق الأمم المتحدة في سان فرانسيسكو يوم 26 جوان 1945 ودخل حيّز النفاذ يوم 24 أكتوبر 1945، وهو اليوم الذي يُحتفل به يومًا للأمم المتحدة. أما سنة 1919 فترتبط بعصبة الأمم التي أنشأتها معاهدة فرساي، وهي الخيار المضلّل الأقرب. وسنة 1948 هي سنة الإعلان العالمي لحقوق الإنسان، و1956 سنة انضمام تونس إلى المنظمة.",
+      "difficulty": "EASY",
+      "topic_key": "cg.monde-organisations",
+      "objective_key": "cg.monde-organisations.o1",
+      "families": [
+        "*"
+      ],
+      "origin": "AI_GENERATED",
+      "source_key": null,
+      "year": null,
+      "valid_until": null,
+      "tags": [
+        "الأمم المتحدة",
+        "تواريخ"
+      ]
+    },
+    {
+      "id": "cg-economie-monde-0018",
+      "type": "NUMERIC",
+      "language": "fr",
+      "stem": "Combien de membres compte au total le Conseil de sécurité des Nations unies (membres permanents et non permanents) ? (entrez un nombre)",
+      "options": [],
+      "correct": {
+        "value": 15,
+        "tolerance": 0
+      },
+      "explanation": "Le Conseil de sécurité compte 15 membres : 5 permanents disposant du droit de veto (Chine, États-Unis, France, Royaume-Uni, Russie) et 10 non permanents élus par l'Assemblée générale pour deux ans. Les réponses 5 ou 10 ne correspondent qu'à l'une des deux catégories. La Tunisie y a siégé comme membre non permanent, la dernière fois en 2020-2021.",
+      "difficulty": "MEDIUM",
+      "topic_key": "cg.monde-organisations",
+      "objective_key": "cg.monde-organisations.o1",
+      "families": [
+        "*"
+      ],
+      "origin": "AI_GENERATED",
+      "source_key": null,
+      "year": null,
+      "valid_until": null,
+      "tags": [
+        "Conseil de sécurité",
+        "ONU",
+        "chiffres"
+      ]
+    },
+    {
+      "id": "cg-economie-monde-0019",
+      "type": "MCQ_MULTI",
+      "language": "ar",
+      "stem": "أيّ من الدول التالية تتمتّع بمقعد دائم في مجلس الأمن الدولي؟ (اختر كلّ الإجابات الصحيحة)",
+      "options": [
+        {
+          "id": "a",
+          "text": "فرنسا"
+        },
+        {
+          "id": "b",
+          "text": "ألمانيا"
+        },
+        {
+          "id": "c",
+          "text": "الصين"
+        },
+        {
+          "id": "d",
+          "text": "اليابان"
+        },
+        {
+          "id": "e",
+          "text": "روسيا"
+        }
+      ],
+      "correct": [
+        "a",
+        "c",
+        "e"
+      ],
+      "explanation": "الأعضاء الدائمون الخمسة في مجلس الأمن هم الصين والولايات المتحدة وفرنسا والمملكة المتحدة وروسيا، ويتمتّعون بحق النقض (الفيتو). أما ألمانيا واليابان فهما من القوى الاقتصادية الكبرى وتطالبان بمقعد دائم في إطار مقترحات إصلاح المجلس، لكنهما ليستا عضوين دائمين، وهذا هو الفخ الأكثر شيوعًا.",
+      "difficulty": "MEDIUM",
+      "topic_key": "cg.monde-organisations",
+      "objective_key": "cg.monde-organisations.o1",
+      "families": [
+        "*"
+      ],
+      "origin": "AI_GENERATED",
+      "source_key": null,
+      "year": null,
+      "valid_until": null,
+      "tags": [
+        "مجلس الأمن",
+        "الفيتو"
+      ]
+    },
+    {
+      "id": "cg-economie-monde-0020",
+      "type": "MATCHING",
+      "language": "fr",
+      "stem": "Associez chaque organisation à la ville où se trouve son siège :",
+      "options": [
+        {
+          "id": "l1",
+          "text": "UNESCO",
+          "side": "left"
+        },
+        {
+          "id": "l2",
+          "text": "FAO",
+          "side": "left"
+        },
+        {
+          "id": "l3",
+          "text": "AIEA",
+          "side": "left"
+        },
+        {
+          "id": "l4",
+          "text": "OMS",
+          "side": "left"
+        },
+        {
+          "id": "r1",
+          "text": "Genève",
+          "side": "right"
+        },
+        {
+          "id": "r2",
+          "text": "Paris",
+          "side": "right"
+        },
+        {
+          "id": "r3",
+          "text": "Vienne",
+          "side": "right"
+        },
+        {
+          "id": "r4",
+          "text": "Rome",
+          "side": "right"
+        }
+      ],
+      "correct": {
+        "pairs": [
+          [
+            "l1",
+            "r2"
+          ],
+          [
+            "l2",
+            "r4"
+          ],
+          [
+            "l3",
+            "r3"
+          ],
+          [
+            "l4",
+            "r1"
+          ]
+        ]
+      },
+      "explanation": "L'UNESCO (éducation, science, culture) siège à Paris, la FAO (alimentation et agriculture) à Rome, l'AIEA (énergie atomique) à Vienne et l'OMS (santé) à Genève. Le piège le plus courant est de placer la FAO à Genève ou à Paris, alors que Rome accueille les principales agences onusiennes consacrées à l'alimentation. Vienne héberge aussi l'OPEP, qui n'appartient pas au système des Nations unies.",
+      "difficulty": "MEDIUM",
+      "topic_key": "cg.monde-organisations",
+      "objective_key": "cg.monde-organisations.o1",
+      "families": [
+        "*"
+      ],
+      "origin": "AI_GENERATED",
+      "source_key": null,
+      "year": null,
+      "valid_until": null,
+      "tags": [
+        "sièges",
+        "institutions spécialisées"
+      ]
+    },
+    {
+      "id": "cg-economie-monde-0021",
+      "type": "MCQ_SINGLE",
+      "language": "fr",
+      "stem": "Quelle organisation régionale a transféré son siège à Tunis entre 1979 et 1990 ?",
+      "options": [
+        {
+          "id": "a",
+          "text": "L'Union du Maghreb arabe (UMA)"
+        },
+        {
+          "id": "b",
+          "text": "L'Organisation de l'unité africaine (OUA)"
+        },
+        {
+          "id": "c",
+          "text": "L'Organisation de la coopération islamique (OCI)"
+        },
+        {
+          "id": "d",
+          "text": "La Ligue des États arabes"
+        }
+      ],
+      "correct": [
+        "d"
+      ],
+      "explanation": "Après la suspension de l'Égypte en 1979, à la suite de sa paix séparée avec Israël, le siège de la Ligue arabe a quitté Le Caire pour Tunis, avant d'y revenir en 1990. L'UMA, distracteur fréquent, n'a été créée qu'en 1989 et son secrétariat général est à Rabat. L'OUA siégeait à Addis-Abeba et l'OCI siège à Djeddah.",
+      "difficulty": "MEDIUM",
+      "topic_key": "cg.monde-organisations",
+      "objective_key": "cg.monde-organisations.o1",
+      "families": [
+        "*"
+      ],
+      "origin": "AI_GENERATED",
+      "source_key": null,
+      "year": null,
+      "valid_until": null,
+      "tags": [
+        "Ligue arabe",
+        "Tunisie",
+        "sièges"
+      ]
+    },
+    {
+      "id": "cg-economie-monde-0022",
+      "type": "MCQ_SINGLE",
+      "language": "fr",
+      "stem": "Le Fonds monétaire international (FMI) et la Banque mondiale sont nés des accords signés en 1944 lors de la conférence de :",
+      "options": [
+        {
+          "id": "a",
+          "text": "Bretton Woods"
+        },
+        {
+          "id": "b",
+          "text": "Yalta"
+        },
+        {
+          "id": "c",
+          "text": "San Francisco"
+        },
+        {
+          "id": "d",
+          "text": "Bandung"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "explanation": "Les accords de Bretton Woods (États-Unis, juillet 1944) ont créé le FMI et la Banque internationale pour la reconstruction et le développement, noyau de la Banque mondiale ; les deux institutions siègent à Washington. La conférence de San Francisco (1945), distracteur le plus proche, a adopté la Charte des Nations unies. Yalta (février 1945) a réuni les dirigeants alliés et Bandung (1955) des pays d'Asie et d'Afrique.",
+      "difficulty": "EASY",
+      "topic_key": "cg.monde-organisations",
+      "objective_key": "cg.monde-organisations.o1",
+      "families": [
+        "*"
+      ],
+      "origin": "AI_GENERATED",
+      "source_key": null,
+      "year": null,
+      "valid_until": null,
+      "tags": [
+        "FMI",
+        "Banque mondiale",
+        "Bretton Woods"
+      ]
+    },
+    {
+      "id": "cg-economie-monde-0023",
+      "type": "MCQ_SINGLE",
+      "language": "ar",
+      "stem": "أين يوجد مقرّ الاتحاد الإفريقي؟",
+      "options": [
+        {
+          "id": "a",
+          "text": "القاهرة"
+        },
+        {
+          "id": "b",
+          "text": "جوهانسبرغ"
+        },
+        {
+          "id": "c",
+          "text": "أبوجا"
+        },
+        {
+          "id": "d",
+          "text": "أديس أبابا"
+        }
+      ],
+      "correct": [
+        "d"
+      ],
+      "explanation": "يوجد مقرّ الاتحاد الإفريقي ومفوضيته في أديس أبابا (إثيوبيا)، وهي المدينة نفسها التي احتضنت مقرّ منظمة الوحدة الإفريقية منذ تأسيسها سنة 1963. وقد تُختار جوهانسبرغ خطأً لأن البرلمان الإفريقي يوجد في ميدراند بجنوب إفريقيا. أما القاهرة فهي مقرّ جامعة الدول العربية.",
+      "difficulty": "EASY",
+      "topic_key": "cg.monde-organisations",
+      "objective_key": "cg.monde-organisations.o1",
+      "families": [
+        "*"
+      ],
+      "origin": "AI_GENERATED",
+      "source_key": null,
+      "year": null,
+      "valid_until": null,
+      "tags": [
+        "الاتحاد الإفريقي",
+        "المقرات"
+      ]
+    },
+    {
+      "id": "cg-economie-monde-0024",
+      "type": "TRUE_FALSE",
+      "language": "ar",
+      "stem": "صحيح أم خطأ: يوجد مقرّ المنظمة العربية للتربية والثقافة والعلوم (الألكسو) في مدينة تونس.",
+      "options": [
+        {
+          "id": "a",
+          "text": "صحيح"
+        },
+        {
+          "id": "b",
+          "text": "خطأ"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "explanation": "صحيح. الألكسو منظمة متخصصة تعمل في إطار جامعة الدول العربية في مجالات التربية والثقافة والعلوم، ومقرّها مدينة تونس. ولا ينبغي الخلط بينها وبين منظمة العالم الإسلامي للتربية والعلوم والثقافة (الإيسيسكو) التي يوجد مقرّها في الرباط، ولا مع اليونسكو التي يوجد مقرّها في باريس.",
+      "difficulty": "MEDIUM",
+      "topic_key": "cg.monde-organisations",
+      "objective_key": "cg.monde-organisations.o1",
+      "families": [
+        "*"
+      ],
+      "origin": "AI_GENERATED",
+      "source_key": null,
+      "year": null,
+      "valid_until": null,
+      "tags": [
+        "الألكسو",
+        "تونس",
+        "المنظمات العربية"
+      ]
+    },
+    {
+      "id": "cg-economie-monde-0025",
+      "type": "MCQ_SINGLE",
+      "language": "fr",
+      "stem": "Quelle organisation internationale, dont le secrétariat général est installé à Lyon, a pour mission de faciliter la coopération policière entre ses pays membres ?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Europol"
+        },
+        {
+          "id": "b",
+          "text": "Interpol"
+        },
+        {
+          "id": "c",
+          "text": "L'OTAN"
+        },
+        {
+          "id": "d",
+          "text": "Le CICR"
+        }
+      ],
+      "correct": [
+        "b"
+      ],
+      "explanation": "Interpol (Organisation internationale de police criminelle) facilite la coopération entre les polices de ses pays membres, notamment grâce à ses notices, dont les notices rouges ; son secrétariat général est à Lyon. Europol, distracteur le plus proche, est l'agence de coopération policière de l'Union européenne et siège à La Haye. L'OTAN est une alliance militaire (Bruxelles) et le CICR une organisation humanitaire (Genève).",
+      "difficulty": "MEDIUM",
+      "topic_key": "cg.monde-organisations",
+      "objective_key": "cg.monde-organisations.o1",
+      "families": [
+        "*"
+      ],
+      "origin": "AI_GENERATED",
+      "source_key": null,
+      "year": null,
+      "valid_until": null,
+      "tags": [
+        "Interpol",
+        "coopération policière",
+        "sièges"
+      ]
+    },
+    {
+      "id": "cg-economie-monde-0026",
+      "type": "MCQ_SINGLE",
+      "language": "ar",
+      "stem": "في أيّ تاريخ انضمّت تونس إلى منظمة الأمم المتحدة؟",
+      "options": [
+        {
+          "id": "a",
+          "text": "20 مارس 1956"
+        },
+        {
+          "id": "b",
+          "text": "12 نوفمبر 1956"
+        },
+        {
+          "id": "c",
+          "text": "25 جويلية 1957"
+        },
+        {
+          "id": "d",
+          "text": "13 أوت 1956"
+        }
+      ],
+      "correct": [
+        "b"
+      ],
+      "explanation": "قُبلت تونس عضوًا في منظمة الأمم المتحدة يوم 12 نوفمبر 1956، أي بعد أشهر قليلة من الاستقلال. ويكثر الخلط مع 20 مارس 1956، وهو تاريخ الاستقلال لا تاريخ الانضمام. أما 13 أوت 1956 فهو تاريخ صدور مجلة الأحوال الشخصية، و25 جويلية 1957 تاريخ إعلان الجمهورية.",
+      "difficulty": "HARD",
+      "topic_key": "cg.monde-organisations",
+      "objective_key": "cg.monde-organisations.o1",
+      "families": [
+        "*"
+      ],
+      "origin": "AI_GENERATED",
+      "source_key": null,
+      "year": null,
+      "valid_until": null,
+      "tags": [
+        "تونس",
+        "الأمم المتحدة",
+        "الدبلوماسية"
+      ]
+    },
+    {
+      "id": "cg-economie-monde-0027",
+      "type": "MCQ_SINGLE",
+      "language": "fr",
+      "stem": "Le traité instituant l'Union du Maghreb arabe (UMA) a été signé le 17 février 1989 à :",
+      "options": [
+        {
+          "id": "a",
+          "text": "Rabat"
+        },
+        {
+          "id": "b",
+          "text": "Tunis"
+        },
+        {
+          "id": "c",
+          "text": "Marrakech"
+        },
+        {
+          "id": "d",
+          "text": "Alger"
+        }
+      ],
+      "correct": [
+        "c"
+      ],
+      "explanation": "Le traité constitutif de l'UMA a été signé à Marrakech le 17 février 1989 par l'Algérie, la Libye, le Maroc, la Mauritanie et la Tunisie. Rabat, distracteur le plus fréquent, abrite le secrétariat général de l'organisation, mais n'est pas la ville où le traité a été signé. L'UMA est aujourd'hui largement paralysée : aucun sommet de ses chefs d'État ne s'est tenu depuis celui de Tunis en 1994.",
+      "difficulty": "HARD",
+      "topic_key": "cg.monde-organisations",
+      "objective_key": "cg.monde-organisations.o1",
+      "families": [
+        "*"
+      ],
+      "origin": "AI_GENERATED",
+      "source_key": null,
+      "year": null,
+      "valid_until": null,
+      "tags": [
+        "UMA",
+        "Maghreb",
+        "traités"
+      ]
+    },
+    {
+      "id": "cg-economie-monde-0028",
+      "type": "MCQ_MULTI",
+      "language": "ar",
+      "stem": "أيّ من المنظمات التالية يوجد مقرّها في مدينة جنيف؟ (اختر كلّ الإجابات الصحيحة)",
+      "options": [
+        {
+          "id": "a",
+          "text": "منظمة الصحة العالمية"
+        },
+        {
+          "id": "b",
+          "text": "اليونيسف"
+        },
+        {
+          "id": "c",
+          "text": "منظمة التجارة العالمية"
+        },
+        {
+          "id": "d",
+          "text": "منظمة العمل الدولية"
+        },
+        {
+          "id": "e",
+          "text": "الوكالة الدولية للطاقة الذرية"
+        }
+      ],
+      "correct": [
+        "a",
+        "c",
+        "d"
+      ],
+      "explanation": "تحتضن جنيف مقرّات منظمة الصحة العالمية ومنظمة التجارة العالمية ومنظمة العمل الدولية، إضافة إلى المفوضية السامية لشؤون اللاجئين واللجنة الدولية للصليب الأحمر. أما اليونيسف، وهي الفخ الأكثر شيوعًا، فمقرّها نيويورك، في حين يوجد مقرّ الوكالة الدولية للطاقة الذرية في فيينا.",
+      "difficulty": "HARD",
+      "topic_key": "cg.monde-organisations",
+      "objective_key": "cg.monde-organisations.o1",
+      "families": [
+        "*"
+      ],
+      "origin": "AI_GENERATED",
+      "source_key": null,
+      "year": null,
+      "valid_until": null,
+      "tags": [
+        "جنيف",
+        "المقرات",
+        "المنظمات الدولية"
+      ]
+    },
+    {
+      "id": "cg-economie-monde-0029",
+      "type": "MCQ_SINGLE",
+      "language": "fr",
+      "stem": "De 2003 à 2014, Tunis a accueilli à titre provisoire le siège d'une institution normalement établie à Abidjan. Laquelle ?",
+      "options": [
+        {
+          "id": "a",
+          "text": "La Banque centrale des États de l'Afrique de l'Ouest (BCEAO)"
+        },
+        {
+          "id": "b",
+          "text": "La Banque africaine d'import-export (Afreximbank)"
+        },
+        {
+          "id": "c",
+          "text": "La Banque islamique de développement (BID)"
+        },
+        {
+          "id": "d",
+          "text": "La Banque africaine de développement (BAD)"
+        }
+      ],
+      "correct": [
+        "d"
+      ],
+      "explanation": "En raison de la crise politico-militaire en Côte d'Ivoire, la BAD a transféré provisoirement ses activités à Tunis en 2003, puis est retournée à Abidjan en 2014. La BCEAO, distracteur plausible car liée à l'Afrique de l'Ouest, a son siège à Dakar. L'Afreximbank siège au Caire et la BID à Djeddah.",
+      "difficulty": "EXPERT",
+      "topic_key": "cg.monde-organisations",
+      "objective_key": "cg.monde-organisations.o1",
+      "families": [
+        "*"
+      ],
+      "origin": "AI_GENERATED",
+      "source_key": null,
+      "year": null,
+      "valid_until": null,
+      "tags": [
+        "BAD",
+        "Tunisie",
+        "institutions financières africaines"
+      ]
+    },
+    {
+      "id": "cg-economie-monde-0030",
+      "type": "MCQ_SINGLE",
+      "language": "ar",
+      "stem": "خلفت منظمة التجارة العالمية، سنة 1995، الإطار التجاري المتعدّد الأطراف المعروف باسم:",
+      "options": [
+        {
+          "id": "a",
+          "text": "الاتفاقية العامة للتعريفات الجمركية والتجارة (الغات)"
+        },
+        {
+          "id": "b",
+          "text": "مؤتمر الأمم المتحدة للتجارة والتنمية (الأونكتاد)"
+        },
+        {
+          "id": "c",
+          "text": "منظمة التعاون والتنمية في الميدان الاقتصادي"
+        },
+        {
+          "id": "d",
+          "text": "صندوق النقد الدولي"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "explanation": "أُنشئت منظمة التجارة العالمية يوم 1 جانفي 1995 بمقتضى اتفاقيات مراكش لتخلف الاتفاقية العامة للتعريفات الجمركية والتجارة (الغات) المعمول بها منذ 1947، ومقرّها جنيف. وتونس عضو فيها منذ 1995 بعد أن انضمّت إلى الغات سنة 1990. أما الأونكتاد، وهو الخيار المضلّل الأقرب، فهيئة تابعة للأمم المتحدة أُنشئت سنة 1964 وما تزال قائمة، ولم تحلّ محلّها منظمة التجارة العالمية.",
+      "difficulty": "EASY",
+      "topic_key": "cg.monde-organisations",
+      "objective_key": "cg.monde-organisations.o1",
+      "families": [
+        "*"
+      ],
+      "origin": "AI_GENERATED",
+      "source_key": null,
+      "year": null,
+      "valid_until": null,
+      "tags": [
+        "منظمة التجارة العالمية",
+        "الغات",
+        "التجارة الدولية"
+      ]
+    },
+    {
+      "id": "cg-economie-monde-0031",
+      "type": "MCQ_SINGLE",
+      "language": "ar",
+      "stem": "ما هو أكبر محيطات العالم مساحةً؟",
+      "options": [
+        {
+          "id": "a",
+          "text": "المحيط الأطلسي"
+        },
+        {
+          "id": "b",
+          "text": "المحيط الهادئ"
+        },
+        {
+          "id": "c",
+          "text": "المحيط الهندي"
+        },
+        {
+          "id": "d",
+          "text": "المحيط المتجمد الشمالي"
+        }
+      ],
+      "correct": [
+        "b"
+      ],
+      "explanation": "المحيط الهادئ أكبر محيطات العالم وأعمقها، إذ يغطي قرابة ثلث سطح الأرض ويضمّ خندق ماريانا. ويأتي المحيط الأطلسي في المرتبة الثانية، وهو الخيار المضلّل الأكثر شيوعًا، أما المتجمد الشمالي فهو أصغر المحيطات.",
+      "difficulty": "EASY",
+      "topic_key": "cg.monde-geographie-histoire",
+      "objective_key": "cg.monde-geographie-histoire.o1",
+      "families": [
+        "*"
+      ],
+      "origin": "AI_GENERATED",
+      "source_key": null,
+      "year": null,
+      "valid_until": null,
+      "tags": [
+        "المحيطات",
+        "أرقام قياسية"
+      ]
+    },
+    {
+      "id": "cg-economie-monde-0032",
+      "type": "MCQ_SINGLE",
+      "language": "fr",
+      "stem": "Quel détroit relie la mer Méditerranée à l'océan Atlantique ?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Le détroit de Gibraltar"
+        },
+        {
+          "id": "b",
+          "text": "Le Bosphore"
+        },
+        {
+          "id": "c",
+          "text": "Le détroit d'Ormuz"
+        },
+        {
+          "id": "d",
+          "text": "Le détroit de Bab el-Mandeb"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "explanation": "Le détroit de Gibraltar sépare l'Espagne du Maroc et fait communiquer la Méditerranée avec l'Atlantique. Le Bosphore relie la mer de Marmara, donc indirectement la Méditerranée, à la mer Noire, d'où une confusion fréquente. Ormuz commande l'accès au golfe Arabo-Persique et Bab el-Mandeb relie la mer Rouge au golfe d'Aden.",
+      "difficulty": "EASY",
+      "topic_key": "cg.monde-geographie-histoire",
+      "objective_key": "cg.monde-geographie-histoire.o1",
+      "families": [
+        "*"
+      ],
+      "origin": "AI_GENERATED",
+      "source_key": null,
+      "year": null,
+      "valid_until": null,
+      "tags": [
+        "détroits",
+        "Méditerranée"
+      ]
+    },
+    {
+      "id": "cg-economie-monde-0033",
+      "type": "TRUE_FALSE",
+      "language": "ar",
+      "stem": "صحيح أم خطأ: سقط جدار برلين بعد تفكّك الاتحاد السوفياتي.",
+      "options": [
+        {
+          "id": "a",
+          "text": "صحيح"
+        },
+        {
+          "id": "b",
+          "text": "خطأ"
+        }
+      ],
+      "correct": [
+        "b"
+      ],
+      "explanation": "خطأ. سقط جدار برلين يوم 9 نوفمبر 1989، في حين تفكّك الاتحاد السوفياتي في ديسمبر 1991، أي بعد أكثر من سنتين. وقد مهّد سقوط الجدار لإعادة توحيد ألمانيا في أكتوبر 1990، ثم جاء تفكّك الاتحاد السوفياتي ليُنهي الحرب الباردة.",
+      "difficulty": "MEDIUM",
+      "topic_key": "cg.monde-geographie-histoire",
+      "objective_key": "cg.monde-geographie-histoire.o1",
+      "families": [
+        "*"
+      ],
+      "origin": "AI_GENERATED",
+      "source_key": null,
+      "year": null,
+      "valid_until": null,
+      "tags": [
+        "الحرب الباردة",
+        "جدار برلين",
+        "تواريخ"
+      ]
+    },
+    {
+      "id": "cg-economie-monde-0034",
+      "type": "MCQ_SINGLE",
+      "language": "fr",
+      "stem": "En quelle année Christophe Colomb, au service des Rois catholiques d'Espagne, a-t-il atteint les Amériques pour la première fois ?",
+      "options": [
+        {
+          "id": "a",
+          "text": "1453"
+        },
+        {
+          "id": "b",
+          "text": "1515"
+        },
+        {
+          "id": "c",
+          "text": "1789"
+        },
+        {
+          "id": "d",
+          "text": "1492"
+        }
+      ],
+      "correct": [
+        "d"
+      ],
+      "explanation": "Parti d'Espagne au service des Rois catholiques, Christophe Colomb a abordé une île des Bahamas le 12 octobre 1492, ouvrant l'ère de la colonisation européenne des Amériques. 1453, distracteur fréquent, est l'année de la prise de Constantinople par les Ottomans. 1515 est la date de la bataille de Marignan et 1789 celle de la Révolution française.",
+      "difficulty": "EASY",
+      "topic_key": "cg.monde-geographie-histoire",
+      "objective_key": "cg.monde-geographie-histoire.o1",
+      "families": [
+        "*"
+      ],
+      "origin": "AI_GENERATED",
+      "source_key": null,
+      "year": null,
+      "valid_until": null,
+      "tags": [
+        "grandes découvertes",
+        "dates-clés"
+      ]
+    },
+    {
+      "id": "cg-economie-monde-0035",
+      "type": "MCQ_SINGLE",
+      "language": "ar",
+      "stem": "ما هو أكبر بلد في إفريقيا من حيث المساحة منذ انفصال جنوب السودان سنة 2011؟",
+      "options": [
+        {
+          "id": "a",
+          "text": "السودان"
+        },
+        {
+          "id": "b",
+          "text": "جمهورية الكونغو الديمقراطية"
+        },
+        {
+          "id": "c",
+          "text": "الجزائر"
+        },
+        {
+          "id": "d",
+          "text": "ليبيا"
+        }
+      ],
+      "correct": [
+        "c"
+      ],
+      "explanation": "أصبحت الجزائر، بمساحة تقارب 2,38 مليون كلم²، أكبر بلد إفريقي منذ انفصال جنوب السودان سنة 2011، وهو الانفصال الذي قلّص مساحة السودان الذي كان يحتلّ المرتبة الأولى. وتأتي جمهورية الكونغو الديمقراطية مباشرة بعد الجزائر، وهي الخيار المضلّل الأقرب. أما نيجيريا فهي الأكثر سكانًا في القارة لا الأكبر مساحة.",
+      "difficulty": "MEDIUM",
+      "topic_key": "cg.monde-geographie-histoire",
+      "objective_key": "cg.monde-geographie-histoire.o1",
+      "families": [
+        "*"
+      ],
+      "origin": "AI_GENERATED",
+      "source_key": null,
+      "year": null,
+      "valid_until": null,
+      "tags": [
+        "إفريقيا",
+        "المساحة",
+        "أرقام قياسية"
+      ]
+    },
+    {
+      "id": "cg-economie-monde-0036",
+      "type": "MATCHING",
+      "language": "fr",
+      "stem": "Associez chaque pays à sa capitale :",
+      "options": [
+        {
+          "id": "l1",
+          "text": "Australie",
+          "side": "left"
+        },
+        {
+          "id": "l2",
+          "text": "Canada",
+          "side": "left"
+        },
+        {
+          "id": "l3",
+          "text": "Turquie",
+          "side": "left"
+        },
+        {
+          "id": "l4",
+          "text": "Nigeria",
+          "side": "left"
+        },
+        {
+          "id": "r1",
+          "text": "Ankara",
+          "side": "right"
+        },
+        {
+          "id": "r2",
+          "text": "Abuja",
+          "side": "right"
+        },
+        {
+          "id": "r3",
+          "text": "Canberra",
+          "side": "right"
+        },
+        {
+          "id": "r4",
+          "text": "Ottawa",
+          "side": "right"
+        }
+      ],
+      "correct": {
+        "pairs": [
+          [
+            "l1",
+            "r3"
+          ],
+          [
+            "l2",
+            "r4"
+          ],
+          [
+            "l3",
+            "r1"
+          ],
+          [
+            "l4",
+            "r2"
+          ]
+        ]
+      },
+      "explanation": "Canberra (Australie), Ottawa (Canada), Ankara (Turquie) et Abuja (Nigeria) sont des capitales souvent confondues avec la plus grande ville du pays : Sydney, Toronto, Istanbul et Lagos. Abuja a remplacé Lagos comme capitale fédérale en 1991, et Ankara est la capitale de la Turquie depuis 1923. Le réflexe à adopter : ne jamais supposer que la ville la plus peuplée est la capitale.",
+      "difficulty": "MEDIUM",
+      "topic_key": "cg.monde-geographie-histoire",
+      "objective_key": "cg.monde-geographie-histoire.o1",
+      "families": [
+        "*"
+      ],
+      "origin": "AI_GENERATED",
+      "source_key": null,
+      "year": null,
+      "valid_until": null,
+      "tags": [
+        "capitales",
+        "pièges"
+      ]
+    },
+    {
+      "id": "cg-economie-monde-0037",
+      "type": "ORDERING",
+      "language": "ar",
+      "stem": "رتّب الأحداث التالية ترتيبًا زمنيًا من الأقدم إلى الأحدث:",
+      "options": [
+        {
+          "id": "a",
+          "text": "الثورة البلشفية في روسيا"
+        },
+        {
+          "id": "b",
+          "text": "إعلان استقلال الولايات المتحدة الأمريكية"
+        },
+        {
+          "id": "c",
+          "text": "الأزمة الاقتصادية العالمية (انهيار بورصة وول ستريت)"
+        },
+        {
+          "id": "d",
+          "text": "اعتماد الإعلان العالمي لحقوق الإنسان"
+        }
+      ],
+      "correct": {
+        "order": [
+          "b",
+          "a",
+          "c",
+          "d"
+        ]
+      },
+      "explanation": "الترتيب الصحيح: إعلان استقلال الولايات المتحدة (4 جويلية 1776)، ثم الثورة البلشفية في روسيا (1917)، ثم انهيار بورصة وول ستريت وبداية الأزمة الاقتصادية العالمية (أكتوبر 1929)، ثم اعتماد الإعلان العالمي لحقوق الإنسان (10 ديسمبر 1948). ويقع الخطأ عادة في تقديم الأزمة الاقتصادية على الثورة الروسية، والحال أن هذه الأخيرة اندلعت خلال الحرب العالمية الأولى.",
+      "difficulty": "HARD",
+      "topic_key": "cg.monde-geographie-histoire",
+      "objective_key": "cg.monde-geographie-histoire.o1",
+      "families": [
+        "*"
+      ],
+      "origin": "AI_GENERATED",
+      "source_key": null,
+      "year": null,
+      "valid_until": null,
+      "tags": [
+        "تواريخ مفصلية",
+        "ترتيب زمني"
+      ]
+    },
+    {
+      "id": "cg-economie-monde-0038",
+      "type": "MCQ_SINGLE",
+      "language": "fr",
+      "stem": "Le canal de Suez, inauguré en 1869, a été nationalisé en 1956 par :",
+      "options": [
+        {
+          "id": "a",
+          "text": "Gamal Abdel Nasser"
+        },
+        {
+          "id": "b",
+          "text": "Anouar el-Sadate"
+        },
+        {
+          "id": "c",
+          "text": "Le roi Farouk"
+        },
+        {
+          "id": "d",
+          "text": "Mohammed Naguib"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "explanation": "Le 26 juillet 1956, le président égyptien Gamal Abdel Nasser a annoncé la nationalisation de la Compagnie du canal de Suez, ce qui a déclenché la crise de Suez et l'intervention franco-britannico-israélienne. Anouar el-Sadate, distracteur fréquent, n'a succédé à Nasser qu'en 1970. Le roi Farouk avait été renversé en 1952 et Mohammed Naguib écarté du pouvoir en 1954.",
+      "difficulty": "MEDIUM",
+      "topic_key": "cg.monde-geographie-histoire",
+      "objective_key": "cg.monde-geographie-histoire.o1",
+      "families": [
+        "*"
+      ],
+      "origin": "AI_GENERATED",
+      "source_key": null,
+      "year": null,
+      "valid_until": null,
+      "tags": [
+        "canal de Suez",
+        "décolonisation",
+        "Égypte"
+      ]
+    },
+    {
+      "id": "cg-economie-monde-0039",
+      "type": "MCQ_SINGLE",
+      "language": "ar",
+      "stem": "في أيّ بلد انطلقت الثورة الصناعية خلال القرن الثامن عشر؟",
+      "options": [
+        {
+          "id": "a",
+          "text": "فرنسا"
+        },
+        {
+          "id": "b",
+          "text": "ألمانيا"
+        },
+        {
+          "id": "c",
+          "text": "بريطانيا"
+        },
+        {
+          "id": "d",
+          "text": "الولايات المتحدة الأمريكية"
+        }
+      ],
+      "correct": [
+        "c"
+      ],
+      "explanation": "انطلقت الثورة الصناعية في بريطانيا (إنجلترا) خلال النصف الثاني من القرن الثامن عشر، بفضل الآلة البخارية وصناعة النسيج ووفرة الفحم الحجري. ثم انتقلت خلال القرن التاسع عشر إلى بلدان أخرى مثل بلجيكا وفرنسا وألمانيا والولايات المتحدة. ويُختار فرنسا خطأً بسبب اقتران الفترة نفسها بالثورة الفرنسية، وهي ثورة سياسية لا صناعية.",
+      "difficulty": "MEDIUM",
+      "topic_key": "cg.monde-geographie-histoire",
+      "objective_key": "cg.monde-geographie-histoire.o1",
+      "families": [
+        "*"
+      ],
+      "origin": "AI_GENERATED",
+      "source_key": null,
+      "year": null,
+      "valid_until": null,
+      "tags": [
+        "الثورة الصناعية",
+        "التاريخ الحديث"
+      ]
+    },
+    {
+      "id": "cg-economie-monde-0040",
+      "type": "TRUE_FALSE",
+      "language": "fr",
+      "stem": "Vrai ou faux : le mouvement des non-alignés a été officiellement fondé lors de la conférence de Bandung, en 1955.",
+      "options": [
+        {
+          "id": "a",
+          "text": "Vrai"
+        },
+        {
+          "id": "b",
+          "text": "Faux"
+        }
+      ],
+      "correct": [
+        "b"
+      ],
+      "explanation": "Faux. La conférence de Bandung (Indonésie, avril 1955) a réuni des pays d'Asie et d'Afrique et a préparé le terrain, mais le mouvement des non-alignés n'a été officiellement fondé qu'au sommet de Belgrade en 1961, autour notamment de Tito, Nasser, Nehru et Soekarno. La confusion vient du fait que Bandung est souvent présentée comme l'entrée du tiers-monde sur la scène internationale.",
+      "difficulty": "HARD",
+      "topic_key": "cg.monde-geographie-histoire",
+      "objective_key": "cg.monde-geographie-histoire.o1",
+      "families": [
+        "*"
+      ],
+      "origin": "AI_GENERATED",
+      "source_key": null,
+      "year": null,
+      "valid_until": null,
+      "tags": [
+        "non-alignement",
+        "décolonisation",
+        "guerre froide"
+      ]
+    },
+    {
+      "id": "cg-economie-monde-0041",
+      "type": "MCQ_MULTI",
+      "language": "ar",
+      "stem": "أيّ من الدول التالية يعبر خطُّ الاستواء ترابَها؟ (اختر كلّ الإجابات الصحيحة)",
+      "options": [
+        {
+          "id": "a",
+          "text": "البرازيل"
+        },
+        {
+          "id": "b",
+          "text": "كينيا"
+        },
+        {
+          "id": "c",
+          "text": "نيجيريا"
+        },
+        {
+          "id": "d",
+          "text": "إندونيسيا"
+        }
+      ],
+      "correct": [
+        "a",
+        "b",
+        "d"
+      ],
+      "explanation": "يعبر خط الاستواء (دائرة العرض 0°) شمالَ البرازيل قرب مصبّ الأمازون، ووسطَ كينيا، وجزرًا إندونيسية عديدة مثل سومطرة وبورنيو. أما نيجيريا، وهي الفخ هنا، فتقع بأكملها شمال خط الاستواء، إذ لا تنزل أقصى نقاطها الجنوبية على خليج غينيا دون الدرجة الرابعة شمالًا تقريبًا.",
+      "difficulty": "HARD",
+      "topic_key": "cg.monde-geographie-histoire",
+      "objective_key": "cg.monde-geographie-histoire.o1",
+      "families": [
+        "*"
+      ],
+      "origin": "AI_GENERATED",
+      "source_key": null,
+      "year": null,
+      "valid_until": null,
+      "tags": [
+        "خط الاستواء",
+        "خطوط مرجعية",
+        "جغرافيا"
+      ]
+    },
+    {
+      "id": "cg-economie-monde-0042",
+      "type": "MCQ_SINGLE",
+      "language": "fr",
+      "stem": "La conférence de Berlin (1884-1885), réunie à l'initiative du chancelier Bismarck, est surtout connue pour avoir :",
+      "options": [
+        {
+          "id": "a",
+          "text": "mis fin à la guerre franco-prussienne"
+        },
+        {
+          "id": "b",
+          "text": "fixé les règles du partage de l'Afrique entre les puissances européennes"
+        },
+        {
+          "id": "c",
+          "text": "créé la Société des Nations"
+        },
+        {
+          "id": "d",
+          "text": "réglé le sort de l'Empire ottoman après la Première Guerre mondiale"
+        }
+      ],
+      "correct": [
+        "b"
+      ],
+      "explanation": "La conférence de Berlin a fixé les règles de l'appropriation de territoires africains par les puissances européennes (principe d'occupation effective, liberté de navigation sur le Congo et le Niger), accélérant la « course à l'Afrique ». La guerre franco-prussienne, distracteur lié à l'Allemagne de Bismarck, s'était achevée dès 1871 par le traité de Francfort. La Société des Nations est née des traités de paix de 1919, et le démembrement de l'Empire ottoman relève des traités de Sèvres (1920) et de Lausanne (1923).",
+      "difficulty": "EXPERT",
+      "topic_key": "cg.monde-geographie-histoire",
+      "objective_key": "cg.monde-geographie-histoire.o1",
+      "families": [
+        "*"
+      ],
+      "origin": "AI_GENERATED",
+      "source_key": null,
+      "year": null,
+      "valid_until": null,
+      "tags": [
+        "colonisation",
+        "Afrique",
+        "XIXe siècle"
+      ]
+    },
+    {
+      "id": "cg-economie-monde-0043",
+      "type": "MCQ_SINGLE",
+      "language": "ar",
+      "stem": "أيّ بلد من البلدان المغاربية التالية نال استقلاله قبل غيره؟",
+      "options": [
+        {
+          "id": "a",
+          "text": "المغرب"
+        },
+        {
+          "id": "b",
+          "text": "تونس"
+        },
+        {
+          "id": "c",
+          "text": "ليبيا"
+        },
+        {
+          "id": "d",
+          "text": "الجزائر"
+        }
+      ],
+      "correct": [
+        "c"
+      ],
+      "explanation": "استقلّت ليبيا يوم 24 ديسمبر 1951 تنفيذًا لقرار صادر عن الجمعية العامة للأمم المتحدة، فكانت أول بلد مغاربي يستقلّ. ويأتي بعدها المغرب (2 مارس 1956)، وهو الخيار المضلّل الأقرب لأنه سبق تونس (20 مارس 1956) بأيام قليلة فقط. ثم استقلّت موريتانيا (28 نوفمبر 1960) والجزائر (5 جويلية 1962).",
+      "difficulty": "EXPERT",
+      "topic_key": "cg.monde-geographie-histoire",
+      "objective_key": "cg.monde-geographie-histoire.o1",
+      "families": [
+        "*"
+      ],
+      "origin": "AI_GENERATED",
+      "source_key": null,
+      "year": null,
+      "valid_until": null,
+      "tags": [
+        "الاستقلال",
+        "المغرب العربي",
+        "تصفية الاستعمار"
+      ]
+    },
+    {
+      "id": "cg-economie-monde-0044",
+      "type": "MCQ_SINGLE",
+      "language": "fr",
+      "stem": "Le traité de Rome, signé en 1957 par six pays européens, a créé :",
+      "options": [
+        {
+          "id": "a",
+          "text": "l'Union européenne"
+        },
+        {
+          "id": "b",
+          "text": "l'OTAN"
+        },
+        {
+          "id": "c",
+          "text": "le Conseil de l'Europe"
+        },
+        {
+          "id": "d",
+          "text": "la Communauté économique européenne (CEE)"
+        }
+      ],
+      "correct": [
+        "d"
+      ],
+      "explanation": "Signé le 25 mars 1957 par l'Allemagne de l'Ouest, la Belgique, la France, l'Italie, le Luxembourg et les Pays-Bas, le traité de Rome a créé la CEE (Euratom étant créée le même jour par un second traité). L'Union européenne, distracteur le plus fréquent, n'est née qu'avec le traité de Maastricht (1992). L'OTAN et le Conseil de l'Europe datent tous deux de 1949.",
+      "difficulty": "MEDIUM",
+      "topic_key": "cg.monde-geographie-histoire",
+      "objective_key": "cg.monde-geographie-histoire.o1",
+      "families": [
+        "*"
+      ],
+      "origin": "AI_GENERATED",
+      "source_key": null,
+      "year": null,
+      "valid_until": null,
+      "tags": [
+        "construction européenne",
+        "traités"
+      ]
+    },
+    {
+      "id": "cg-economie-monde-0045",
+      "type": "TRUE_FALSE",
+      "language": "ar",
+      "stem": "صحيح أم خطأ: يقع جبل إيفرست، أعلى قمة في العالم، في سلسلة جبال الهيمالايا.",
+      "options": [
+        {
+          "id": "a",
+          "text": "صحيح"
+        },
+        {
+          "id": "b",
+          "text": "خطأ"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "explanation": "صحيح. يقع إيفرست في سلسلة الهيمالايا على الحدود بين النيبال والصين (التيبت)، ويبلغ ارتفاعه 8849 م حسب القياس المشترك المُعلن سنة 2020. ولا ينبغي الخلط بينه وبين كليمنجارو (تنزانيا)، أعلى قمة في إفريقيا، ولا مع جبال الأنديز التي تضمّ أعلى قمم أمريكا الجنوبية.",
+      "difficulty": "EASY",
+      "topic_key": "cg.monde-geographie-histoire",
+      "objective_key": "cg.monde-geographie-histoire.o1",
+      "families": [
+        "*"
+      ],
+      "origin": "AI_GENERATED",
+      "source_key": null,
+      "year": null,
+      "valid_until": null,
+      "tags": [
+        "الجبال",
+        "أرقام قياسية"
+      ]
+    }
+  ]
+}

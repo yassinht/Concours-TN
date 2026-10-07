@@ -1,0 +1,2461 @@
+{
+ "family": {
+  "slug": "collectivites-locales",
+  "field": "ADMINISTRATION",
+  "organization": {
+   "slug": "collectivites-locales-tn",
+   "name_ar": "الجماعات المحلية (البلديات) والولايات – بإشراف وزارة الداخلية (الهياكل المكلفة بالشؤون المحلية)",
+   "name_fr": "Collectivités locales (communes) et gouvernorats – sous la tutelle du ministère de l'Intérieur (structures chargées des affaires locales)",
+   "ministry_fr": "Ministère de l'Intérieur (affaires locales) ; chaque commune peut aussi organiser ses propres concours",
+   "website": "https://www.interieur.gov.tn"
+  },
+  "name_ar": "مناظرات الانتداب بالجماعات المحلية (البلديات) والولايات",
+  "name_fr": "Concours de recrutement des collectivités locales (municipalités) et des gouvernorats",
+  "description_ar": "تنتدب البلديات أعوانها (متصرفين، ملحقي وكتبة إدارة، تقنيين ومهندسين، عملة) بمناظرات خارجية بالاختبارات أو بالملفات تُفتح بقرار يُنشر عادة بالرائد الرسمي وبلاغ على البوابة الوطنية للمناظرات (concours.gov.tn) أو موقع وزارة الداخلية أو صفحات البلديات. يخضع أعوان الجماعات المحلية للقانون عدد 112 لسنة 1983 (النظام الأساسي العام لأعوان الدولة والجماعات المحلية والمؤسسات العمومية الإدارية) ولمجلة الجماعات المحلية (القانون الأساسي عدد 29 لسنة 2018). أما أعوان الولايات (الإدارة الجهوية) فهم أعوان وزارة الداخلية ويُنتدبون بمناظراتها. حسب الصحافة (للتثبت من النص الرسمي) نُظمت سنة 2026 مناظرة خارجية بالاختبارات لانتداب 263 متصرفا بالسلك الإداري المشترك لفائدة البلديات (آخر أجل للترشح 10 أفريل، الاختبارات الكتابية 11 ماي 2026). تنبيه: لم يكن ممكنا فتح أي صفحة رسمية أو صحفية أثناء هذا البحث؛ كل المعطيات تحتاج إلى تثبت، والرتب والاختبارات والوثائق المقدمة هنا مقترحات تقريبية.",
+  "description_fr": "Les communes recrutent leurs agents (administrateurs, attachés et secrétaires d'administration, techniciens et ingénieurs, ouvriers) par concours externes sur épreuves ou sur dossiers, ouverts par un arrêté généralement publié au JORT et annoncés sur le portail national des concours (concours.gov.tn), le site du ministère de l'Intérieur ou les pages des communes. Les agents des collectivités locales relèvent de la loi n° 83-112 du 12/12/1983 (statut général des personnels de l'État, des collectivités locales et des EPA) et du Code des collectivités locales (loi organique n° 2018-29). Le personnel des gouvernorats (administration régionale) relève du ministère de l'Intérieur et est recruté par ses concours. Selon la presse (à recouper avec le texte officiel), 2026 a vu un concours externe sur épreuves pour 263 administrateurs du corps administratif commun au profit des municipalités (clôture le 10 avril, écrits le 11 mai 2026). Attention : aucune page officielle ni de presse n'a pu être ouverte lors de cette recherche ; toutes les données sont à vérifier et les grades, épreuves et pièces présentés ici sont des suggestions approximatives.",
+  "frequency": "IRREGULAR",
+  "frequency_confidence": "LOW",
+  "popularity": 4,
+  "keywords": [
+   "collectivités locales",
+   "الجماعات المحلية",
+   "municipalité",
+   "municipalités",
+   "commune",
+   "بلدية",
+   "البلديات",
+   "gouvernorat",
+   "ولاية",
+   "الولايات",
+   "affaires locales",
+   "الشؤون المحلية",
+   "ministère de l'Intérieur",
+   "وزارة الداخلية",
+   "décentralisation",
+   "اللامركزية",
+   "Code des collectivités locales",
+   "مجلة الجماعات المحلية",
+   "administrateur",
+   "متصرف",
+   "attaché d'administration",
+   "ملحق إدارة",
+   "secrétaire d'administration",
+   "كاتب إدارة",
+   "état civil",
+   "الحالة المدنية",
+   "technicien",
+   "تقني",
+   "ingénieur",
+   "مهندس",
+   "ouvrier",
+   "عامل",
+   "عملة",
+   "عامل بلدي",
+   "propreté",
+   "النظافة",
+   "urbanisme",
+   "التعمير",
+   "finances locales",
+   "المالية المحلية",
+   "fiscalité locale",
+   "الجباية المحلية",
+   "concours externe",
+   "مناظرة خارجية",
+   "concours sur dossiers",
+   "مناظرة بالملفات",
+   "263 administrateurs",
+   "263 متصرفا",
+   "CFAD",
+   "مركز التكوين ودعم اللامركزية",
+   "concours.gov.tn",
+   "JORT",
+   "الرائد الرسمي",
+   "recrutement",
+   "انتداب"
+  ]
+ },
+ "sources": [
+  {
+   "key": "s1",
+   "title": "Portail national des concours de la fonction publique (البوابة الوطنية للمناظرات)",
+   "url": "https://www.concours.gov.tn",
+   "publisher": "Présidence du gouvernement",
+   "source_type": "OFFICIAL",
+   "publication_date": null,
+   "retrieved_at": "2026-10-07",
+   "confidence": "MEDIUM",
+   "notes": "Portail national d'inscription aux concours. Accès bloqué depuis l'environnement de recherche (EGRESS_BLOCKED) le 07/10/2026 : aucune page consultée ; cité uniquement comme plateforme d'inscription probable (à vérifier pour chaque avis)."
+  },
+  {
+   "key": "s2",
+   "title": "Tunisie : 263 administrateurs recrutés pour renforcer les municipalités",
+   "url": "https://www.tunisienumerique.com/tunisie-263-administrateurs-recrutes-pour-renforcer-les-municipalites/",
+   "publisher": "Tunisie Numérique",
+   "source_type": "SECONDARY",
+   "publication_date": null,
+   "retrieved_at": "2026-10-07",
+   "confidence": "MEDIUM",
+   "notes": "URL relevée par la veille de l'équipe (content/competitions/_openings.json, 07/10/2026). Page NON ouverte par cet agent (EGRESS_BLOCKED). Faits repris de la veille : concours externe sur épreuves, 263 administrateurs du corps administratif commun au profit des municipalités, ministère de l'Intérieur, licence, clôture 10/04/2026, écrits 11/05/2026. Date de publication inconnue."
+  },
+  {
+   "key": "s3",
+   "title": "Ministère de l'Intérieur – site officiel (وزارة الداخلية)",
+   "url": "https://www.interieur.gov.tn",
+   "publisher": "Ministère de l'Intérieur",
+   "source_type": "OFFICIAL",
+   "publication_date": null,
+   "retrieved_at": "2026-10-07",
+   "confidence": "LOW",
+   "notes": "Ministère de tutelle des collectivités locales (à vérifier). Accès bloqué (EGRESS_BLOCKED) : non consulté ; point de vérification prioritaire pour les avis de concours des communes et gouvernorats."
+  }
+ ],
+ "editions": [
+  {
+   "year": 2026,
+   "session_label": "البلديات – مناظرة خارجية بالاختبارات لانتداب 263 متصرفا بالسلك الإداري المشترك (دورة 2026) / Municipalités – concours externe sur épreuves : 263 administrateurs du corps administratif commun (session 2026)",
+   "status": "EXAM_DONE",
+   "registration_open": null,
+   "registration_deadline": "2026-04-10",
+   "exam_date": "2026-05-11",
+   "positions_count": 263,
+   "candidates_count": null,
+   "position_slugs": [
+    "administrateur"
+   ],
+   "source_key": "s2",
+   "confidence": "MEDIUM",
+   "needs_verification": true
+  },
+  {
+   "year": 2027,
+   "session_label": "[مقترح] مناظرات انتداب لفائدة البلديات بعنوان 2027 (غير مؤكدة) / [Suggestion] Concours de recrutement au profit des municipalités au titre de 2027 (non confirmés)",
+   "status": "EXPECTED",
+   "registration_open": null,
+   "registration_deadline": null,
+   "exam_date": null,
+   "positions_count": null,
+   "candidates_count": null,
+   "position_slugs": [],
+   "source_key": null,
+   "confidence": "LOW",
+   "needs_verification": true
+  }
+ ],
+ "positions": [
+  {
+   "slug": "administrateur",
+   "title_ar": "متصرف (السلك الإداري المشترك) لفائدة البلديات",
+   "title_fr": "Administrateur (corps administratif commun) au profit des municipalités",
+   "diploma_level": "LICENCE",
+   "eligibility": {
+    "min_age": 18,
+    "max_age": null,
+    "genders": [
+     "M",
+     "F"
+    ],
+    "nationality": "TN",
+    "diplomas": [
+     "LICENCE"
+    ],
+    "specialties": [],
+    "min_height_cm_male": null,
+    "min_height_cm_female": null,
+    "marital_status": null,
+    "other_ar": [
+     "الإجازة أو شهادة معادلة (المستوى المعلن لمناظرة 263 متصرفا لفائدة البلديات 2026 حسب الصحافة — للتثبت من قرار فتح المناظرة)؛ حاملو الماجستير غير مقصيين عادة",
+     "[مقترح] الاختصاصات المقبولة (حقوق، علوم سياسية، اقتصاد، تصرف، مالية، علوم إنسانية...) يضبطها قرار فتح المناظرة — غير مطبّقة آليا هنا",
+     "[مقترح] الشروط العامة للقانون عدد 112 لسنة 1983 المؤرخ في 12 ديسمبر 1983 المتعلق بضبط النظام الأساسي العام لأعوان الدولة والجماعات المحلية والمؤسسات العمومية ذات الصبغة الإدارية: الجنسية التونسية، التمتع بالحقوق المدنية، حسن السيرة والسلوك، بلوغ 18 سنة على الأقل، القدرة البدنية على مباشرة الوظيفة، وضعية قانونية إزاء الخدمة الوطنية",
+     "[مقترح] حد أقصى للسن يضبطه قرار فتح المناظرة (كثيرا ما يكون 40 سنة مع إمكانية الترفيع بمدة الخدمة الوطنية أو المدنية) — لم يُطبّق آليا هنا حتى لا يُقصى أي مترشح خطأ من التنبيهات",
+     "[مقترح] الأعوان المباشرون بالإدارة قد يُطالبون بترخيص من إدارتهم الأصلية"
+    ],
+    "other_fr": [
+     "Licence ou diplôme équivalent (niveau annoncé pour le concours de 263 administrateurs des municipalités 2026 selon la presse — à vérifier dans l'arrêté d'ouverture) ; les titulaires d'un master ne sont généralement pas exclus",
+     "[Suggestion] Spécialités admises (droit, sciences politiques, économie, gestion, finance, sciences humaines…) fixées par l'arrêté d'ouverture — non appliquées automatiquement ici",
+     "[Suggestion] Conditions générales de la loi n° 83-112 du 12 décembre 1983 portant statut général des personnels de l'État, des collectivités locales et des établissements publics à caractère administratif : nationalité tunisienne, jouissance des droits civiques, bonne moralité, 18 ans au moins, aptitude physique à l'emploi, situation régulière vis-à-vis du service national",
+     "[Suggestion] Âge maximum fixé par l'arrêté d'ouverture (souvent 40 ans, avec report possible pour service national ou civil) — volontairement non appliqué automatiquement pour ne pas exclure à tort des candidats des alertes",
+     "[Suggestion] Les agents déjà en fonction peuvent devoir produire une autorisation de leur administration d'origine"
+    ],
+    "source_key": "s2",
+    "confidence": "LOW",
+    "needs_verification": true,
+    "source_quote": null
+   },
+   "phases": [
+    {
+     "order": 1,
+     "kind": "FILE_REVIEW",
+     "name_ar": "الترشح عن بعد ودراسة قبول الملفات",
+     "name_fr": "Inscription en ligne et recevabilité des dossiers",
+     "is_eliminatory": true,
+     "duration_minutes": null,
+     "description_ar": "[مقترح] التسجيل عن بعد عبر البوابة الوطنية للمناظرات (concours.gov.tn) أو المنظومة/العنوان المحدد في بلاغ فتح المناظرة (وزارة الداخلية أو البلدية المعنية)، ثم إرسال الملف الورقي عند الاقتضاء في الآجال (يعتمد ختم البريد عادة). تُرفض الترشحات غير المستوفية للشروط أو الواردة بعد الأجل.",
+     "description_fr": "[Suggestion] Inscription en ligne sur le portail national des concours (concours.gov.tn) ou sur la plateforme/adresse indiquée dans l'avis d'ouverture (ministère de l'Intérieur ou commune concernée), puis envoi du dossier papier le cas échéant dans les délais (le cachet de la poste fait généralement foi). Les candidatures non conformes ou hors délai sont écartées.",
+     "source_key": "s1",
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "order": 2,
+     "kind": "WRITTEN",
+     "name_ar": "الاختبارات الكتابية للقبول الأولي",
+     "name_fr": "Épreuves écrites d'admissibilité",
+     "is_eliminatory": true,
+     "duration_minutes": null,
+     "description_ar": "مناظرة 2026 لفائدة البلديات كانت «بالاختبارات» وأُجريت الاختبارات الكتابية يوم 11 ماي 2026 حسب الصحافة (للتثبت). [مقترح] تتكون عادة من اختبار في الثقافة العامة (مقال)، واختبار في القانون الإداري وقانون الجماعات المحلية (مجلة الجماعات المحلية لسنة 2018)، واختبار في المالية العمومية/المالية المحلية أو تحرير إداري ومذكرة تأليفية؛ المدد والضوارب غير معروفة.",
+     "description_fr": "Le concours 2026 des municipalités était « sur épreuves » ; les écrits ont eu lieu le 11/05/2026 selon la presse (à vérifier). [Suggestion] Ils comprennent généralement une épreuve de culture générale (dissertation), une épreuve de droit administratif et de droit des collectivités locales (Code des collectivités locales de 2018) et une épreuve de finances publiques/finances locales ou de rédaction administrative / note de synthèse ; durées et coefficients inconnus.",
+     "source_key": "s2",
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "order": 3,
+     "kind": "ORAL",
+     "name_ar": "اختبار شفاهي أو مقابلة (محتمل)",
+     "name_fr": "Épreuve orale ou entretien (éventuel)",
+     "is_eliminatory": true,
+     "duration_minutes": null,
+     "description_ar": "[مقترح] قد يُدعى المقبولون كتابيا إلى اختبار شفاهي أمام لجنة (معارف حول الجماعات المحلية، الثقافة العامة، الدوافع). وجوده للتثبت في قرار فتح المناظرة.",
+     "description_fr": "[Suggestion] Les admissibles peuvent être convoqués à un oral devant un jury (collectivités locales, culture générale, motivation). Son existence est à vérifier dans l'arrêté d'ouverture.",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "order": 4,
+     "kind": "MEDICAL",
+     "name_ar": "إثبات القدرة البدنية (شهادة طبية)",
+     "name_fr": "Aptitude physique (certificat médical)",
+     "is_eliminatory": true,
+     "duration_minutes": null,
+     "description_ar": "[مقترح] يُطلب من الناجحين شهادة طبية تثبت القدرة البدنية والذهنية على مباشرة الوظيفة قبل الانتداب.",
+     "description_fr": "[Suggestion] Les lauréats produisent un certificat médical d'aptitude physique et mentale à l'emploi avant la nomination.",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "order": 5,
+     "kind": "TRAINING",
+     "name_ar": "التربص قبل الترسيم",
+     "name_fr": "Stage probatoire avant titularisation",
+     "is_eliminatory": false,
+     "duration_minutes": null,
+     "description_ar": "[مقترح] يُنتدب الناجحون بصفة متربصين لمدة (عادة سنة) قبل ترسيمهم وفق القانون عدد 112 لسنة 1983. قد يتابع المنتدبون تكوينا أوليا ينظمه مركز التكوين ودعم اللامركزية (للتثبت).",
+     "description_fr": "[Suggestion] Les lauréats sont nommés stagiaires (généralement un an) avant titularisation, conformément à la loi n° 83-112. Les recrues peuvent suivre une formation initiale organisée par le Centre de formation et d'appui à la décentralisation (CFAD) (à vérifier).",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    }
+   ],
+   "subjects": [
+    {
+     "phase_order": 2,
+     "domain": "CULTURE_GENERALE",
+     "specialty_key": null,
+     "name_ar": "الثقافة العامة: مقال حول قضية سياسية أو اقتصادية أو اجتماعية (اللامركزية، التنمية الجهوية، الحوكمة المحلية)",
+     "name_fr": "Culture générale : dissertation sur une question politique, économique ou sociale (décentralisation, développement régional, gouvernance locale)",
+     "coefficient": null,
+     "duration_minutes": null,
+     "question_count": null,
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "phase_order": 2,
+     "domain": "SPECIALTY",
+     "specialty_key": "spec.collectivites-locales.decentralisation",
+     "name_ar": "قانون الجماعات المحلية: مجلة الجماعات المحلية، الاختصاصات، الهياكل، الرقابة",
+     "name_fr": "Droit des collectivités locales : Code des collectivités locales, compétences, organes, contrôle",
+     "coefficient": null,
+     "duration_minutes": null,
+     "question_count": null,
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "phase_order": 2,
+     "domain": "SPECIALTY",
+     "specialty_key": "spec.droit-administratif",
+     "name_ar": "القانون الإداري: التنظيم الإداري، القرار الإداري، العقود والصفقات، المسؤولية، الأملاك العمومية",
+     "name_fr": "Droit administratif : organisation administrative, acte administratif, contrats et marchés, responsabilité, domaine public",
+     "coefficient": null,
+     "duration_minutes": null,
+     "question_count": null,
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "phase_order": 2,
+     "domain": "SPECIALTY",
+     "specialty_key": "spec.collectivites-locales.finances-locales",
+     "name_ar": "المالية المحلية: ميزانية البلدية، الجباية المحلية، المحاسبة العمومية والصفقات",
+     "name_fr": "Finances locales : budget communal, fiscalité locale, comptabilité publique et marchés publics",
+     "coefficient": null,
+     "duration_minutes": null,
+     "question_count": null,
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "phase_order": 2,
+     "domain": "SPECIALTY",
+     "specialty_key": "spec.redaction-administrative",
+     "name_ar": "التحرير الإداري أو المذكرة التأليفية (تقرير، مذكرة، مراسلة)",
+     "name_fr": "Rédaction administrative ou note de synthèse (rapport, note, correspondance)",
+     "coefficient": null,
+     "duration_minutes": null,
+     "question_count": null,
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "phase_order": 2,
+     "domain": "SPECIALTY",
+     "specialty_key": "spec.droit-public",
+     "name_ar": "القانون الدستوري والمؤسسات (دستور 2022، الجماعات المحلية والجهوية)",
+     "name_fr": "Droit constitutionnel et institutions (Constitution de 2022, collectivités locales et régionales)",
+     "coefficient": null,
+     "duration_minutes": null,
+     "question_count": null,
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "phase_order": 3,
+     "domain": "CULTURE_GENERALE",
+     "specialty_key": null,
+     "name_ar": "الشفاهي: الثقافة العامة، المعارف حول العمل البلدي، الدوافع",
+     "name_fr": "Oral : culture générale, connaissance de l'action municipale, motivation",
+     "coefficient": null,
+     "duration_minutes": null,
+     "question_count": null,
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    }
+   ],
+   "physical_tests": [],
+   "required_documents": [
+    {
+     "text_ar": "مطبوعة الترشح المستخرجة من المنظومة بعد التسجيل عن بعد، ممضاة من المترشح",
+     "text_fr": "Formulaire de candidature imprimé depuis la plateforme après l'inscription en ligne, signé par le candidat",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "text_ar": "نسخة من بطاقة التعريف الوطنية",
+     "text_fr": "Copie de la carte d'identité nationale",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "text_ar": "مضمون ولادة حديث",
+     "text_fr": "Extrait de naissance récent",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "text_ar": "نسخة مطابقة للأصل من الشهادة العلمية المطلوبة وقرار معادلتها إن كانت أجنبية",
+     "text_fr": "Copie certifiée conforme du diplôme exigé et, pour un diplôme étranger, de l'arrêté d'équivalence",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "text_ar": "وثيقة تثبت الوضعية إزاء الخدمة الوطنية (للذكور)",
+     "text_fr": "Pièce justifiant la situation vis-à-vis du service national (candidats masculins)",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "text_ar": "بطاقة السوابق العدلية (بطاقة عدد 3) — تُطلب عادة من الناجحين قبل الانتداب",
+     "text_fr": "Extrait du casier judiciaire (bulletin n° 3) — généralement exigé des lauréats avant la nomination",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "text_ar": "شهادة طبية تثبت القدرة البدنية — تُطلب عادة من الناجحين",
+     "text_fr": "Certificat médical d'aptitude physique — généralement exigé des lauréats",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "text_ar": "ظرفان خالصا معلوم البريد يحملان عنوان المترشح (إن طُلب ذلك في البلاغ)",
+     "text_fr": "Deux enveloppes timbrées libellées à l'adresse du candidat (si l'avis le demande)",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "text_ar": "كشوف أعداد سنوات الدراسة الجامعية (إن كانت المناظرة بالملفات أو إن طُلبت)",
+     "text_fr": "Relevés de notes des années universitaires (si concours sur dossiers ou si demandés)",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    }
+   ],
+   "blueprint": {
+    "total_minutes": 120,
+    "fidelity": "APPROXIMATED",
+    "sections": [
+     {
+      "domain": "CULTURE_GENERALE",
+      "specialty_key": null,
+      "count": 15,
+      "minutes": 18
+     },
+     {
+      "domain": "SPECIALTY",
+      "specialty_key": "spec.collectivites-locales.decentralisation",
+      "count": 15,
+      "minutes": 20
+     },
+     {
+      "domain": "SPECIALTY",
+      "specialty_key": "spec.droit-administratif",
+      "count": 12,
+      "minutes": 16
+     },
+     {
+      "domain": "SPECIALTY",
+      "specialty_key": "spec.collectivites-locales.finances-locales",
+      "count": 10,
+      "minutes": 14
+     },
+     {
+      "domain": "SPECIALTY",
+      "specialty_key": "spec.collectivites-locales.services-municipaux",
+      "count": 8,
+      "minutes": 12
+     },
+     {
+      "domain": "SPECIALTY",
+      "specialty_key": "spec.redaction-administrative",
+      "count": 8,
+      "minutes": 12
+     },
+     {
+      "domain": "SPECIALTY",
+      "specialty_key": "spec.droit-public",
+      "count": 6,
+      "minutes": 8
+     },
+     {
+      "domain": "ARABIC",
+      "specialty_key": null,
+      "count": 6,
+      "minutes": 8
+     },
+     {
+      "domain": "FRENCH",
+      "specialty_key": null,
+      "count": 6,
+      "minutes": 8
+     },
+     {
+      "domain": "LOGIC",
+      "specialty_key": null,
+      "count": 4,
+      "minutes": 4
+     }
+    ]
+   }
+  },
+  {
+   "slug": "attache-administration",
+   "title_ar": "ملحق إدارة بالبلديات",
+   "title_fr": "Attaché d'administration dans les municipalités",
+   "diploma_level": "BAC_PLUS_2",
+   "eligibility": {
+    "min_age": 18,
+    "max_age": null,
+    "genders": [
+     "M",
+     "F"
+    ],
+    "nationality": "TN",
+    "diplomas": [
+     "BAC_PLUS_2"
+    ],
+    "specialties": [],
+    "min_height_cm_male": null,
+    "min_height_cm_female": null,
+    "marital_status": null,
+    "other_ar": [
+     "[مقترح] شهادة جامعية تتوج سنتين من التعليم العالي بعد البكالوريا على الأقل أو شهادة معادلة (المستوى الدقيق للتثبت في النظام الأساسي للسلك الإداري المشترك)",
+     "[مقترح] الشروط العامة للقانون عدد 112 لسنة 1983 المؤرخ في 12 ديسمبر 1983 المتعلق بضبط النظام الأساسي العام لأعوان الدولة والجماعات المحلية والمؤسسات العمومية ذات الصبغة الإدارية: الجنسية التونسية، التمتع بالحقوق المدنية، حسن السيرة والسلوك، بلوغ 18 سنة على الأقل، القدرة البدنية على مباشرة الوظيفة، وضعية قانونية إزاء الخدمة الوطنية",
+     "[مقترح] حد أقصى للسن يضبطه قرار فتح المناظرة (كثيرا ما يكون 40 سنة مع إمكانية الترفيع بمدة الخدمة الوطنية أو المدنية) — لم يُطبّق آليا هنا حتى لا يُقصى أي مترشح خطأ من التنبيهات",
+     "[مقترح] الأعوان المباشرون بالإدارة قد يُطالبون بترخيص من إدارتهم الأصلية"
+    ],
+    "other_fr": [
+     "[Suggestion] Diplôme sanctionnant au moins deux années d'études supérieures après le baccalauréat ou équivalent (niveau exact à vérifier dans le statut particulier du corps administratif commun)",
+     "[Suggestion] Conditions générales de la loi n° 83-112 du 12 décembre 1983 portant statut général des personnels de l'État, des collectivités locales et des établissements publics à caractère administratif : nationalité tunisienne, jouissance des droits civiques, bonne moralité, 18 ans au moins, aptitude physique à l'emploi, situation régulière vis-à-vis du service national",
+     "[Suggestion] Âge maximum fixé par l'arrêté d'ouverture (souvent 40 ans, avec report possible pour service national ou civil) — volontairement non appliqué automatiquement pour ne pas exclure à tort des candidats des alertes",
+     "[Suggestion] Les agents déjà en fonction peuvent devoir produire une autorisation de leur administration d'origine"
+    ],
+    "source_key": null,
+    "confidence": "LOW",
+    "needs_verification": true,
+    "source_quote": null
+   },
+   "phases": [
+    {
+     "order": 1,
+     "kind": "FILE_REVIEW",
+     "name_ar": "الترشح عن بعد ودراسة قبول الملفات",
+     "name_fr": "Inscription en ligne et recevabilité des dossiers",
+     "is_eliminatory": true,
+     "duration_minutes": null,
+     "description_ar": "[مقترح] التسجيل عن بعد عبر البوابة الوطنية للمناظرات (concours.gov.tn) أو المنظومة/العنوان المحدد في بلاغ فتح المناظرة (وزارة الداخلية أو البلدية المعنية)، ثم إرسال الملف الورقي عند الاقتضاء في الآجال (يعتمد ختم البريد عادة). تُرفض الترشحات غير المستوفية للشروط أو الواردة بعد الأجل.",
+     "description_fr": "[Suggestion] Inscription en ligne sur le portail national des concours (concours.gov.tn) ou sur la plateforme/adresse indiquée dans l'avis d'ouverture (ministère de l'Intérieur ou commune concernée), puis envoi du dossier papier le cas échéant dans les délais (le cachet de la poste fait généralement foi). Les candidatures non conformes ou hors délai sont écartées.",
+     "source_key": "s1",
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "order": 2,
+     "kind": "WRITTEN",
+     "name_ar": "الاختبارات الكتابية",
+     "name_fr": "Épreuves écrites",
+     "is_eliminatory": true,
+     "duration_minutes": null,
+     "description_ar": "[مقترح] اختبار في الثقافة العامة، اختبار في التحرير الإداري، واختبار في التنظيم الإداري والعمل البلدي؛ المدد والضوارب للتثبت.",
+     "description_fr": "[Suggestion] Une épreuve de culture générale, une épreuve de rédaction administrative et une épreuve d'organisation administrative et d'action municipale ; durées et coefficients à vérifier.",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "order": 3,
+     "kind": "MEDICAL",
+     "name_ar": "إثبات القدرة البدنية (شهادة طبية)",
+     "name_fr": "Aptitude physique (certificat médical)",
+     "is_eliminatory": true,
+     "duration_minutes": null,
+     "description_ar": "[مقترح] يُطلب من الناجحين شهادة طبية تثبت القدرة البدنية والذهنية على مباشرة الوظيفة قبل الانتداب.",
+     "description_fr": "[Suggestion] Les lauréats produisent un certificat médical d'aptitude physique et mentale à l'emploi avant la nomination.",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "order": 4,
+     "kind": "TRAINING",
+     "name_ar": "التربص قبل الترسيم",
+     "name_fr": "Stage probatoire avant titularisation",
+     "is_eliminatory": false,
+     "duration_minutes": null,
+     "description_ar": "[مقترح] يُنتدب الناجحون بصفة متربصين لمدة (عادة سنة) قبل ترسيمهم وفق القانون عدد 112 لسنة 1983.",
+     "description_fr": "[Suggestion] Les lauréats sont nommés stagiaires (généralement un an) avant titularisation, conformément à la loi n° 83-112.",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    }
+   ],
+   "subjects": [
+    {
+     "phase_order": 2,
+     "domain": "CULTURE_GENERALE",
+     "specialty_key": null,
+     "name_ar": "الثقافة العامة",
+     "name_fr": "Culture générale",
+     "coefficient": null,
+     "duration_minutes": null,
+     "question_count": null,
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "phase_order": 2,
+     "domain": "SPECIALTY",
+     "specialty_key": "spec.redaction-administrative",
+     "name_ar": "التحرير الإداري (رسالة، محضر، تقرير)",
+     "name_fr": "Rédaction administrative (lettre, procès-verbal, rapport)",
+     "coefficient": null,
+     "duration_minutes": null,
+     "question_count": null,
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "phase_order": 2,
+     "domain": "SPECIALTY",
+     "specialty_key": "spec.collectivites-locales.services-municipaux",
+     "name_ar": "المصالح البلدية: الحالة المدنية، التعريف بالإمضاء، العلاقة مع المواطن",
+     "name_fr": "Services municipaux : état civil, légalisation, relation avec l'usager",
+     "coefficient": null,
+     "duration_minutes": null,
+     "question_count": null,
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "phase_order": 2,
+     "domain": "SPECIALTY",
+     "specialty_key": "spec.collectivites-locales.decentralisation",
+     "name_ar": "مبادئ التنظيم الإداري والجماعات المحلية",
+     "name_fr": "Notions d'organisation administrative et de collectivités locales",
+     "coefficient": null,
+     "duration_minutes": null,
+     "question_count": null,
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "phase_order": 2,
+     "domain": "ARABIC",
+     "specialty_key": null,
+     "name_ar": "اللغة العربية",
+     "name_fr": "Langue arabe",
+     "coefficient": null,
+     "duration_minutes": null,
+     "question_count": null,
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    }
+   ],
+   "physical_tests": [],
+   "required_documents": [
+    {
+     "text_ar": "مطبوعة الترشح المستخرجة من المنظومة بعد التسجيل عن بعد، ممضاة من المترشح",
+     "text_fr": "Formulaire de candidature imprimé depuis la plateforme après l'inscription en ligne, signé par le candidat",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "text_ar": "نسخة من بطاقة التعريف الوطنية",
+     "text_fr": "Copie de la carte d'identité nationale",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "text_ar": "مضمون ولادة حديث",
+     "text_fr": "Extrait de naissance récent",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "text_ar": "نسخة مطابقة للأصل من الشهادة العلمية المطلوبة وقرار معادلتها إن كانت أجنبية",
+     "text_fr": "Copie certifiée conforme du diplôme exigé et, pour un diplôme étranger, de l'arrêté d'équivalence",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "text_ar": "وثيقة تثبت الوضعية إزاء الخدمة الوطنية (للذكور)",
+     "text_fr": "Pièce justifiant la situation vis-à-vis du service national (candidats masculins)",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "text_ar": "بطاقة السوابق العدلية (بطاقة عدد 3) — تُطلب عادة من الناجحين قبل الانتداب",
+     "text_fr": "Extrait du casier judiciaire (bulletin n° 3) — généralement exigé des lauréats avant la nomination",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "text_ar": "شهادة طبية تثبت القدرة البدنية — تُطلب عادة من الناجحين",
+     "text_fr": "Certificat médical d'aptitude physique — généralement exigé des lauréats",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "text_ar": "ظرفان خالصا معلوم البريد يحملان عنوان المترشح (إن طُلب ذلك في البلاغ)",
+     "text_fr": "Deux enveloppes timbrées libellées à l'adresse du candidat (si l'avis le demande)",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    }
+   ],
+   "blueprint": {
+    "total_minutes": 90,
+    "fidelity": "APPROXIMATED",
+    "sections": [
+     {
+      "domain": "CULTURE_GENERALE",
+      "specialty_key": null,
+      "count": 12,
+      "minutes": 14
+     },
+     {
+      "domain": "SPECIALTY",
+      "specialty_key": "spec.collectivites-locales.services-municipaux",
+      "count": 12,
+      "minutes": 16
+     },
+     {
+      "domain": "SPECIALTY",
+      "specialty_key": "spec.collectivites-locales.decentralisation",
+      "count": 10,
+      "minutes": 14
+     },
+     {
+      "domain": "SPECIALTY",
+      "specialty_key": "spec.redaction-administrative",
+      "count": 10,
+      "minutes": 14
+     },
+     {
+      "domain": "SPECIALTY",
+      "specialty_key": "spec.collectivites-locales.finances-locales",
+      "count": 6,
+      "minutes": 8
+     },
+     {
+      "domain": "ARABIC",
+      "specialty_key": null,
+      "count": 8,
+      "minutes": 10
+     },
+     {
+      "domain": "FRENCH",
+      "specialty_key": null,
+      "count": 6,
+      "minutes": 8
+     },
+     {
+      "domain": "NUMERICAL",
+      "specialty_key": null,
+      "count": 5,
+      "minutes": 6
+     }
+    ]
+   }
+  },
+  {
+   "slug": "secretaire-administration",
+   "title_ar": "كاتب إدارة بالبلديات (الحالة المدنية، مكتب الضبط، الاستقبال)",
+   "title_fr": "Secrétaire d'administration dans les municipalités (état civil, bureau d'ordre, accueil)",
+   "diploma_level": "BAC",
+   "eligibility": {
+    "min_age": 18,
+    "max_age": null,
+    "genders": [
+     "M",
+     "F"
+    ],
+    "nationality": "TN",
+    "diplomas": [
+     "BAC"
+    ],
+    "specialties": [],
+    "min_height_cm_male": null,
+    "min_height_cm_female": null,
+    "marital_status": null,
+    "other_ar": [
+     "[مقترح] شهادة البكالوريا أو شهادة معادلة (المستوى الدقيق للتثبت في النظام الأساسي للسلك الإداري المشترك)",
+     "[مقترح] الشروط العامة للقانون عدد 112 لسنة 1983 المؤرخ في 12 ديسمبر 1983 المتعلق بضبط النظام الأساسي العام لأعوان الدولة والجماعات المحلية والمؤسسات العمومية ذات الصبغة الإدارية: الجنسية التونسية، التمتع بالحقوق المدنية، حسن السيرة والسلوك، بلوغ 18 سنة على الأقل، القدرة البدنية على مباشرة الوظيفة، وضعية قانونية إزاء الخدمة الوطنية",
+     "[مقترح] حد أقصى للسن يضبطه قرار فتح المناظرة (كثيرا ما يكون 40 سنة مع إمكانية الترفيع بمدة الخدمة الوطنية أو المدنية) — لم يُطبّق آليا هنا حتى لا يُقصى أي مترشح خطأ من التنبيهات",
+     "[مقترح] الأعوان المباشرون بالإدارة قد يُطالبون بترخيص من إدارتهم الأصلية"
+    ],
+    "other_fr": [
+     "[Suggestion] Baccalauréat ou diplôme équivalent (niveau exact à vérifier dans le statut particulier du corps administratif commun)",
+     "[Suggestion] Conditions générales de la loi n° 83-112 du 12 décembre 1983 portant statut général des personnels de l'État, des collectivités locales et des établissements publics à caractère administratif : nationalité tunisienne, jouissance des droits civiques, bonne moralité, 18 ans au moins, aptitude physique à l'emploi, situation régulière vis-à-vis du service national",
+     "[Suggestion] Âge maximum fixé par l'arrêté d'ouverture (souvent 40 ans, avec report possible pour service national ou civil) — volontairement non appliqué automatiquement pour ne pas exclure à tort des candidats des alertes",
+     "[Suggestion] Les agents déjà en fonction peuvent devoir produire une autorisation de leur administration d'origine"
+    ],
+    "source_key": null,
+    "confidence": "LOW",
+    "needs_verification": true,
+    "source_quote": null
+   },
+   "phases": [
+    {
+     "order": 1,
+     "kind": "FILE_REVIEW",
+     "name_ar": "الترشح عن بعد ودراسة قبول الملفات",
+     "name_fr": "Inscription en ligne et recevabilité des dossiers",
+     "is_eliminatory": true,
+     "duration_minutes": null,
+     "description_ar": "[مقترح] التسجيل عن بعد عبر البوابة الوطنية للمناظرات (concours.gov.tn) أو المنظومة/العنوان المحدد في بلاغ فتح المناظرة (وزارة الداخلية أو البلدية المعنية)، ثم إرسال الملف الورقي عند الاقتضاء في الآجال (يعتمد ختم البريد عادة). تُرفض الترشحات غير المستوفية للشروط أو الواردة بعد الأجل.",
+     "description_fr": "[Suggestion] Inscription en ligne sur le portail national des concours (concours.gov.tn) ou sur la plateforme/adresse indiquée dans l'avis d'ouverture (ministère de l'Intérieur ou commune concernée), puis envoi du dossier papier le cas échéant dans les délais (le cachet de la poste fait généralement foi). Les candidatures non conformes ou hors délai sont écartées.",
+     "source_key": "s1",
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "order": 2,
+     "kind": "WRITTEN",
+     "name_ar": "الاختبارات الكتابية",
+     "name_fr": "Épreuves écrites",
+     "is_eliminatory": true,
+     "duration_minutes": null,
+     "description_ar": "[مقترح] اختبار في اللغة (عربية/فرنسية)، اختبار في التحرير الإداري، واختبار في المعارف المهنية (الحالة المدنية، مكتب الضبط، الإعلامية المكتبية)؛ المدد والضوارب للتثبت.",
+     "description_fr": "[Suggestion] Une épreuve de langue (arabe/français), une épreuve de rédaction administrative et une épreuve de connaissances professionnelles (état civil, bureau d'ordre, bureautique) ; durées et coefficients à vérifier.",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "order": 3,
+     "kind": "MEDICAL",
+     "name_ar": "إثبات القدرة البدنية (شهادة طبية)",
+     "name_fr": "Aptitude physique (certificat médical)",
+     "is_eliminatory": true,
+     "duration_minutes": null,
+     "description_ar": "[مقترح] يُطلب من الناجحين شهادة طبية تثبت القدرة البدنية والذهنية على مباشرة الوظيفة قبل الانتداب.",
+     "description_fr": "[Suggestion] Les lauréats produisent un certificat médical d'aptitude physique et mentale à l'emploi avant la nomination.",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "order": 4,
+     "kind": "TRAINING",
+     "name_ar": "التربص قبل الترسيم",
+     "name_fr": "Stage probatoire avant titularisation",
+     "is_eliminatory": false,
+     "duration_minutes": null,
+     "description_ar": "[مقترح] يُنتدب الناجحون بصفة متربصين لمدة (عادة سنة) قبل ترسيمهم وفق القانون عدد 112 لسنة 1983.",
+     "description_fr": "[Suggestion] Les lauréats sont nommés stagiaires (généralement un an) avant titularisation, conformément à la loi n° 83-112.",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    }
+   ],
+   "subjects": [
+    {
+     "phase_order": 2,
+     "domain": "ARABIC",
+     "specialty_key": null,
+     "name_ar": "اللغة العربية (فهم وتحرير)",
+     "name_fr": "Langue arabe (compréhension et expression)",
+     "coefficient": null,
+     "duration_minutes": null,
+     "question_count": null,
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "phase_order": 2,
+     "domain": "FRENCH",
+     "specialty_key": null,
+     "name_ar": "اللغة الفرنسية",
+     "name_fr": "Langue française",
+     "coefficient": null,
+     "duration_minutes": null,
+     "question_count": null,
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "phase_order": 2,
+     "domain": "SPECIALTY",
+     "specialty_key": "spec.redaction-administrative",
+     "name_ar": "التحرير والمراسلة الإدارية",
+     "name_fr": "Rédaction et correspondance administratives",
+     "coefficient": null,
+     "duration_minutes": null,
+     "question_count": null,
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "phase_order": 2,
+     "domain": "SPECIALTY",
+     "specialty_key": "spec.collectivites-locales.services-municipaux",
+     "name_ar": "المعارف المهنية: الحالة المدنية، التعريف بالإمضاء، مكتب الضبط",
+     "name_fr": "Connaissances professionnelles : état civil, légalisation des signatures, bureau d'ordre",
+     "coefficient": null,
+     "duration_minutes": null,
+     "question_count": null,
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "phase_order": 2,
+     "domain": "SPECIALTY",
+     "specialty_key": "spec.informatique",
+     "name_ar": "الإعلامية المكتبية (معالجة النصوص، الجداول)",
+     "name_fr": "Bureautique (traitement de texte, tableur)",
+     "coefficient": null,
+     "duration_minutes": null,
+     "question_count": null,
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    }
+   ],
+   "physical_tests": [],
+   "required_documents": [
+    {
+     "text_ar": "مطبوعة الترشح المستخرجة من المنظومة بعد التسجيل عن بعد، ممضاة من المترشح",
+     "text_fr": "Formulaire de candidature imprimé depuis la plateforme après l'inscription en ligne, signé par le candidat",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "text_ar": "نسخة من بطاقة التعريف الوطنية",
+     "text_fr": "Copie de la carte d'identité nationale",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "text_ar": "مضمون ولادة حديث",
+     "text_fr": "Extrait de naissance récent",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "text_ar": "نسخة مطابقة للأصل من الشهادة العلمية المطلوبة وقرار معادلتها إن كانت أجنبية",
+     "text_fr": "Copie certifiée conforme du diplôme exigé et, pour un diplôme étranger, de l'arrêté d'équivalence",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "text_ar": "وثيقة تثبت الوضعية إزاء الخدمة الوطنية (للذكور)",
+     "text_fr": "Pièce justifiant la situation vis-à-vis du service national (candidats masculins)",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "text_ar": "بطاقة السوابق العدلية (بطاقة عدد 3) — تُطلب عادة من الناجحين قبل الانتداب",
+     "text_fr": "Extrait du casier judiciaire (bulletin n° 3) — généralement exigé des lauréats avant la nomination",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "text_ar": "شهادة طبية تثبت القدرة البدنية — تُطلب عادة من الناجحين",
+     "text_fr": "Certificat médical d'aptitude physique — généralement exigé des lauréats",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "text_ar": "ظرفان خالصا معلوم البريد يحملان عنوان المترشح (إن طُلب ذلك في البلاغ)",
+     "text_fr": "Deux enveloppes timbrées libellées à l'adresse du candidat (si l'avis le demande)",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    }
+   ],
+   "blueprint": {
+    "total_minutes": 90,
+    "fidelity": "APPROXIMATED",
+    "sections": [
+     {
+      "domain": "ARABIC",
+      "specialty_key": null,
+      "count": 12,
+      "minutes": 14
+     },
+     {
+      "domain": "FRENCH",
+      "specialty_key": null,
+      "count": 10,
+      "minutes": 12
+     },
+     {
+      "domain": "CULTURE_GENERALE",
+      "specialty_key": null,
+      "count": 12,
+      "minutes": 12
+     },
+     {
+      "domain": "SPECIALTY",
+      "specialty_key": "spec.redaction-administrative",
+      "count": 10,
+      "minutes": 14
+     },
+     {
+      "domain": "SPECIALTY",
+      "specialty_key": "spec.collectivites-locales.services-municipaux",
+      "count": 12,
+      "minutes": 16
+     },
+     {
+      "domain": "SPECIALTY",
+      "specialty_key": "spec.informatique",
+      "count": 6,
+      "minutes": 8
+     },
+     {
+      "domain": "NUMERICAL",
+      "specialty_key": null,
+      "count": 8,
+      "minutes": 10
+     },
+     {
+      "domain": "LOGIC",
+      "specialty_key": null,
+      "count": 4,
+      "minutes": 4
+     }
+    ]
+   }
+  },
+  {
+   "slug": "technicien",
+   "title_ar": "تقني (السلك الفني المشترك) بالبلديات: هندسة مدنية، طوبوغرافيا، كهرباء، صحة وبيئة",
+   "title_fr": "Technicien (corps technique commun) dans les municipalités : génie civil, topographie, électricité, hygiène et environnement",
+   "diploma_level": "BAC_PLUS_2",
+   "eligibility": {
+    "min_age": 18,
+    "max_age": null,
+    "genders": [
+     "M",
+     "F"
+    ],
+    "nationality": "TN",
+    "diplomas": [
+     "BAC_PLUS_2"
+    ],
+    "specialties": [],
+    "min_height_cm_male": null,
+    "min_height_cm_female": null,
+    "marital_status": null,
+    "other_ar": [
+     "[مقترح] شهادة تقني سام أو إجازة تطبيقية في الاختصاص المطلوب (هندسة مدنية، طوبوغرافيا، كهرباء، ميكانيك، صحة وبيئة...) — الشهادة والاختصاصات الدقيقة للتثبت في قرار فتح المناظرة",
+     "[مقترح] الشروط العامة للقانون عدد 112 لسنة 1983 المؤرخ في 12 ديسمبر 1983 المتعلق بضبط النظام الأساسي العام لأعوان الدولة والجماعات المحلية والمؤسسات العمومية ذات الصبغة الإدارية: الجنسية التونسية، التمتع بالحقوق المدنية، حسن السيرة والسلوك، بلوغ 18 سنة على الأقل، القدرة البدنية على مباشرة الوظيفة، وضعية قانونية إزاء الخدمة الوطنية",
+     "[مقترح] حد أقصى للسن يضبطه قرار فتح المناظرة (كثيرا ما يكون 40 سنة مع إمكانية الترفيع بمدة الخدمة الوطنية أو المدنية) — لم يُطبّق آليا هنا حتى لا يُقصى أي مترشح خطأ من التنبيهات",
+     "[مقترح] الأعوان المباشرون بالإدارة قد يُطالبون بترخيص من إدارتهم الأصلية"
+    ],
+    "other_fr": [
+     "[Suggestion] Brevet de technicien supérieur ou licence appliquée dans la spécialité demandée (génie civil, topographie, électricité, mécanique, hygiène et environnement…) — diplôme et spécialités exacts à vérifier dans l'arrêté d'ouverture",
+     "[Suggestion] Conditions générales de la loi n° 83-112 du 12 décembre 1983 portant statut général des personnels de l'État, des collectivités locales et des établissements publics à caractère administratif : nationalité tunisienne, jouissance des droits civiques, bonne moralité, 18 ans au moins, aptitude physique à l'emploi, situation régulière vis-à-vis du service national",
+     "[Suggestion] Âge maximum fixé par l'arrêté d'ouverture (souvent 40 ans, avec report possible pour service national ou civil) — volontairement non appliqué automatiquement pour ne pas exclure à tort des candidats des alertes",
+     "[Suggestion] Les agents déjà en fonction peuvent devoir produire une autorisation de leur administration d'origine"
+    ],
+    "source_key": null,
+    "confidence": "LOW",
+    "needs_verification": true,
+    "source_quote": null
+   },
+   "phases": [
+    {
+     "order": 1,
+     "kind": "FILE_REVIEW",
+     "name_ar": "الترشح عن بعد ودراسة قبول الملفات",
+     "name_fr": "Inscription en ligne et recevabilité des dossiers",
+     "is_eliminatory": true,
+     "duration_minutes": null,
+     "description_ar": "[مقترح] التسجيل عن بعد عبر البوابة الوطنية للمناظرات (concours.gov.tn) أو المنظومة/العنوان المحدد في بلاغ فتح المناظرة (وزارة الداخلية أو البلدية المعنية)، ثم إرسال الملف الورقي عند الاقتضاء في الآجال (يعتمد ختم البريد عادة). تُرفض الترشحات غير المستوفية للشروط أو الواردة بعد الأجل.",
+     "description_fr": "[Suggestion] Inscription en ligne sur le portail national des concours (concours.gov.tn) ou sur la plateforme/adresse indiquée dans l'avis d'ouverture (ministère de l'Intérieur ou commune concernée), puis envoi du dossier papier le cas échéant dans les délais (le cachet de la poste fait généralement foi). Les candidatures non conformes ou hors délai sont écartées.",
+     "source_key": "s1",
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "order": 2,
+     "kind": "WRITTEN",
+     "name_ar": "الاختبارات الكتابية في الاختصاص",
+     "name_fr": "Épreuves écrites de spécialité",
+     "is_eliminatory": true,
+     "duration_minutes": null,
+     "description_ar": "[مقترح] اختبار تقني في الاختصاص (قراءة مخططات، قياسات وكشوف كميات، طرقات وشبكات، تنوير عمومي...) واختبار في المعارف العامة؛ قد تكون المناظرة بالملفات حسب البلاغ.",
+     "description_fr": "[Suggestion] Une épreuve technique de spécialité (lecture de plans, métrés, voirie et réseaux, éclairage public…) et une épreuve de connaissances générales ; le concours peut aussi être sur dossiers selon l'avis.",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "order": 3,
+     "kind": "MEDICAL",
+     "name_ar": "إثبات القدرة البدنية (شهادة طبية)",
+     "name_fr": "Aptitude physique (certificat médical)",
+     "is_eliminatory": true,
+     "duration_minutes": null,
+     "description_ar": "[مقترح] يُطلب من الناجحين شهادة طبية تثبت القدرة البدنية والذهنية على مباشرة الوظيفة قبل الانتداب.",
+     "description_fr": "[Suggestion] Les lauréats produisent un certificat médical d'aptitude physique et mentale à l'emploi avant la nomination.",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "order": 4,
+     "kind": "TRAINING",
+     "name_ar": "التربص قبل الترسيم",
+     "name_fr": "Stage probatoire avant titularisation",
+     "is_eliminatory": false,
+     "duration_minutes": null,
+     "description_ar": "[مقترح] يُنتدب الناجحون بصفة متربصين لمدة (عادة سنة) قبل ترسيمهم وفق القانون عدد 112 لسنة 1983.",
+     "description_fr": "[Suggestion] Les lauréats sont nommés stagiaires (généralement un an) avant titularisation, conformément à la loi n° 83-112.",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    }
+   ],
+   "subjects": [
+    {
+     "phase_order": 2,
+     "domain": "SPECIALTY",
+     "specialty_key": "spec.collectivites-locales.travaux-techniques",
+     "name_ar": "الأشغال البلدية: الطرقات والشبكات المختلفة، البنايات، متابعة الحضائر، الكشوف الكمية",
+     "name_fr": "Travaux municipaux : voirie et réseaux divers, bâtiments, suivi de chantier, métrés",
+     "coefficient": null,
+     "duration_minutes": null,
+     "question_count": null,
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "phase_order": 2,
+     "domain": "SPECIALTY",
+     "specialty_key": "spec.collectivites-locales.urbanisme-environnement",
+     "name_ar": "التهيئة العمرانية والنظافة والبيئة",
+     "name_fr": "Urbanisme, propreté et environnement",
+     "coefficient": null,
+     "duration_minutes": null,
+     "question_count": null,
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "phase_order": 2,
+     "domain": "SPECIALTY",
+     "specialty_key": "spec.electricite",
+     "name_ar": "الكهرباء والتنوير العمومي (لاختصاص الكهرباء)",
+     "name_fr": "Électricité et éclairage public (spécialité électricité)",
+     "coefficient": null,
+     "duration_minutes": null,
+     "question_count": null,
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "phase_order": 2,
+     "domain": "NUMERICAL",
+     "specialty_key": null,
+     "name_ar": "الرياضيات التطبيقية والحساب (مساحات، أحجام، نسب)",
+     "name_fr": "Mathématiques appliquées et calcul (surfaces, volumes, proportions)",
+     "coefficient": null,
+     "duration_minutes": null,
+     "question_count": null,
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    }
+   ],
+   "physical_tests": [],
+   "required_documents": [
+    {
+     "text_ar": "مطبوعة الترشح المستخرجة من المنظومة بعد التسجيل عن بعد، ممضاة من المترشح",
+     "text_fr": "Formulaire de candidature imprimé depuis la plateforme après l'inscription en ligne, signé par le candidat",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "text_ar": "نسخة من بطاقة التعريف الوطنية",
+     "text_fr": "Copie de la carte d'identité nationale",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "text_ar": "مضمون ولادة حديث",
+     "text_fr": "Extrait de naissance récent",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "text_ar": "نسخة مطابقة للأصل من الشهادة العلمية المطلوبة وقرار معادلتها إن كانت أجنبية",
+     "text_fr": "Copie certifiée conforme du diplôme exigé et, pour un diplôme étranger, de l'arrêté d'équivalence",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "text_ar": "وثيقة تثبت الوضعية إزاء الخدمة الوطنية (للذكور)",
+     "text_fr": "Pièce justifiant la situation vis-à-vis du service national (candidats masculins)",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "text_ar": "بطاقة السوابق العدلية (بطاقة عدد 3) — تُطلب عادة من الناجحين قبل الانتداب",
+     "text_fr": "Extrait du casier judiciaire (bulletin n° 3) — généralement exigé des lauréats avant la nomination",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "text_ar": "شهادة طبية تثبت القدرة البدنية — تُطلب عادة من الناجحين",
+     "text_fr": "Certificat médical d'aptitude physique — généralement exigé des lauréats",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "text_ar": "ظرفان خالصا معلوم البريد يحملان عنوان المترشح (إن طُلب ذلك في البلاغ)",
+     "text_fr": "Deux enveloppes timbrées libellées à l'adresse du candidat (si l'avis le demande)",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    }
+   ],
+   "blueprint": {
+    "total_minutes": 90,
+    "fidelity": "APPROXIMATED",
+    "sections": [
+     {
+      "domain": "SPECIALTY",
+      "specialty_key": "spec.collectivites-locales.travaux-techniques",
+      "count": 20,
+      "minutes": 30
+     },
+     {
+      "domain": "SPECIALTY",
+      "specialty_key": "spec.collectivites-locales.urbanisme-environnement",
+      "count": 10,
+      "minutes": 14
+     },
+     {
+      "domain": "SPECIALTY",
+      "specialty_key": "spec.electricite",
+      "count": 6,
+      "minutes": 10
+     },
+     {
+      "domain": "NUMERICAL",
+      "specialty_key": null,
+      "count": 10,
+      "minutes": 16
+     },
+     {
+      "domain": "SPECIALTY",
+      "specialty_key": "spec.redaction-administrative",
+      "count": 4,
+      "minutes": 6
+     },
+     {
+      "domain": "FRENCH",
+      "specialty_key": null,
+      "count": 6,
+      "minutes": 8
+     },
+     {
+      "domain": "LOGIC",
+      "specialty_key": null,
+      "count": 4,
+      "minutes": 6
+     }
+    ]
+   }
+  },
+  {
+   "slug": "ingenieur",
+   "title_ar": "مهندس أول (السلك الفني المشترك) بالبلديات: هندسة مدنية، تهيئة عمرانية، كهرباء، بيئة",
+   "title_fr": "Ingénieur principal (corps technique commun) dans les municipalités : génie civil, aménagement urbain, électricité, environnement",
+   "diploma_level": "ENGINEER",
+   "eligibility": {
+    "min_age": 18,
+    "max_age": null,
+    "genders": [
+     "M",
+     "F"
+    ],
+    "nationality": "TN",
+    "diplomas": [
+     "ENGINEER"
+    ],
+    "specialties": [],
+    "min_height_cm_male": null,
+    "min_height_cm_female": null,
+    "marital_status": null,
+    "other_ar": [
+     "[مقترح] الشهادة الوطنية للمهندس أو شهادة معادلة في الاختصاص المطلوب (هندسة مدنية، مائية، كهربائية، بيئة...) — للتثبت في قرار فتح المناظرة",
+     "[مقترح] البلديات تنتدب أيضا مهندسين معماريين ضمن سلك خاص — غير منمذج هنا",
+     "[مقترح] الشروط العامة للقانون عدد 112 لسنة 1983 المؤرخ في 12 ديسمبر 1983 المتعلق بضبط النظام الأساسي العام لأعوان الدولة والجماعات المحلية والمؤسسات العمومية ذات الصبغة الإدارية: الجنسية التونسية، التمتع بالحقوق المدنية، حسن السيرة والسلوك، بلوغ 18 سنة على الأقل، القدرة البدنية على مباشرة الوظيفة، وضعية قانونية إزاء الخدمة الوطنية",
+     "[مقترح] حد أقصى للسن يضبطه قرار فتح المناظرة (كثيرا ما يكون 40 سنة مع إمكانية الترفيع بمدة الخدمة الوطنية أو المدنية) — لم يُطبّق آليا هنا حتى لا يُقصى أي مترشح خطأ من التنبيهات",
+     "[مقترح] الأعوان المباشرون بالإدارة قد يُطالبون بترخيص من إدارتهم الأصلية"
+    ],
+    "other_fr": [
+     "[Suggestion] Diplôme national d'ingénieur ou équivalent dans la spécialité demandée (génie civil, hydraulique, électrique, environnement…) — à vérifier dans l'arrêté d'ouverture",
+     "[Suggestion] Les communes recrutent aussi des architectes relevant d'un corps spécifique — non modélisé ici",
+     "[Suggestion] Conditions générales de la loi n° 83-112 du 12 décembre 1983 portant statut général des personnels de l'État, des collectivités locales et des établissements publics à caractère administratif : nationalité tunisienne, jouissance des droits civiques, bonne moralité, 18 ans au moins, aptitude physique à l'emploi, situation régulière vis-à-vis du service national",
+     "[Suggestion] Âge maximum fixé par l'arrêté d'ouverture (souvent 40 ans, avec report possible pour service national ou civil) — volontairement non appliqué automatiquement pour ne pas exclure à tort des candidats des alertes",
+     "[Suggestion] Les agents déjà en fonction peuvent devoir produire une autorisation de leur administration d'origine"
+    ],
+    "source_key": null,
+    "confidence": "LOW",
+    "needs_verification": true,
+    "source_quote": null
+   },
+   "phases": [
+    {
+     "order": 1,
+     "kind": "FILE_REVIEW",
+     "name_ar": "الترشح عن بعد ودراسة قبول الملفات",
+     "name_fr": "Inscription en ligne et recevabilité des dossiers",
+     "is_eliminatory": true,
+     "duration_minutes": null,
+     "description_ar": "[مقترح] التسجيل عن بعد عبر البوابة الوطنية للمناظرات (concours.gov.tn) أو المنظومة/العنوان المحدد في بلاغ فتح المناظرة (وزارة الداخلية أو البلدية المعنية)، ثم إرسال الملف الورقي عند الاقتضاء في الآجال (يعتمد ختم البريد عادة). تُرفض الترشحات غير المستوفية للشروط أو الواردة بعد الأجل.",
+     "description_fr": "[Suggestion] Inscription en ligne sur le portail national des concours (concours.gov.tn) ou sur la plateforme/adresse indiquée dans l'avis d'ouverture (ministère de l'Intérieur ou commune concernée), puis envoi du dossier papier le cas échéant dans les délais (le cachet de la poste fait généralement foi). Les candidatures non conformes ou hors délai sont écartées.",
+     "source_key": "s1",
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "order": 2,
+     "kind": "WRITTEN",
+     "name_ar": "الاختبارات الكتابية أو دراسة الملفات",
+     "name_fr": "Épreuves écrites ou étude des dossiers",
+     "is_eliminatory": true,
+     "duration_minutes": null,
+     "description_ar": "[مقترح] اختبار تقني (دراسة حالة لمشروع بلدي: طرقات، تطهير، تنوير، بناية عمومية، صفقة) واختبار في المعارف العامة؛ أو مناظرة بالملفات حسب البلاغ.",
+     "description_fr": "[Suggestion] Une épreuve technique (étude de cas d'un projet communal : voirie, assainissement, éclairage, bâtiment public, marché) et une épreuve de connaissances générales ; ou concours sur dossiers selon l'avis.",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "order": 3,
+     "kind": "ORAL",
+     "name_ar": "اختبار شفاهي أو مقابلة (محتمل)",
+     "name_fr": "Oral ou entretien (éventuel)",
+     "is_eliminatory": true,
+     "duration_minutes": null,
+     "description_ar": "[مقترح] مقابلة حول المسار والمشاريع البلدية؛ للتثبت.",
+     "description_fr": "[Suggestion] Entretien sur le parcours et les projets communaux ; à vérifier.",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "order": 4,
+     "kind": "MEDICAL",
+     "name_ar": "إثبات القدرة البدنية (شهادة طبية)",
+     "name_fr": "Aptitude physique (certificat médical)",
+     "is_eliminatory": true,
+     "duration_minutes": null,
+     "description_ar": "[مقترح] يُطلب من الناجحين شهادة طبية تثبت القدرة البدنية والذهنية على مباشرة الوظيفة قبل الانتداب.",
+     "description_fr": "[Suggestion] Les lauréats produisent un certificat médical d'aptitude physique et mentale à l'emploi avant la nomination.",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "order": 5,
+     "kind": "TRAINING",
+     "name_ar": "التربص قبل الترسيم",
+     "name_fr": "Stage probatoire avant titularisation",
+     "is_eliminatory": false,
+     "duration_minutes": null,
+     "description_ar": "[مقترح] يُنتدب الناجحون بصفة متربصين لمدة (عادة سنة) قبل ترسيمهم وفق القانون عدد 112 لسنة 1983.",
+     "description_fr": "[Suggestion] Les lauréats sont nommés stagiaires (généralement un an) avant titularisation, conformément à la loi n° 83-112.",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    }
+   ],
+   "subjects": [
+    {
+     "phase_order": 2,
+     "domain": "SPECIALTY",
+     "specialty_key": "spec.collectivites-locales.travaux-techniques",
+     "name_ar": "دراسة ومتابعة المشاريع البلدية (طرقات، تطهير، بنايات، تنوير)",
+     "name_fr": "Étude et suivi des projets communaux (voirie, assainissement, bâtiments, éclairage)",
+     "coefficient": null,
+     "duration_minutes": null,
+     "question_count": null,
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "phase_order": 2,
+     "domain": "SPECIALTY",
+     "specialty_key": "spec.collectivites-locales.urbanisme-environnement",
+     "name_ar": "التهيئة الترابية والتعمير (مجلة التهيئة الترابية والتعمير، أمثلة التهيئة العمرانية، رخص البناء) والبيئة",
+     "name_fr": "Aménagement du territoire et urbanisme (CATU, plans d'aménagement urbain, permis de bâtir) et environnement",
+     "coefficient": null,
+     "duration_minutes": null,
+     "question_count": null,
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "phase_order": 2,
+     "domain": "SPECIALTY",
+     "specialty_key": "spec.collectivites-locales.finances-locales",
+     "name_ar": "الصفقات العمومية وبرمجة الاستثمار البلدي",
+     "name_fr": "Marchés publics et programmation des investissements communaux",
+     "coefficient": null,
+     "duration_minutes": null,
+     "question_count": null,
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "phase_order": 2,
+     "domain": "SPECIALTY",
+     "specialty_key": "spec.redaction-administrative",
+     "name_ar": "تحرير مذكرة أو تقرير فني",
+     "name_fr": "Rédaction d'une note ou d'un rapport technique",
+     "coefficient": null,
+     "duration_minutes": null,
+     "question_count": null,
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    }
+   ],
+   "physical_tests": [],
+   "required_documents": [
+    {
+     "text_ar": "مطبوعة الترشح المستخرجة من المنظومة بعد التسجيل عن بعد، ممضاة من المترشح",
+     "text_fr": "Formulaire de candidature imprimé depuis la plateforme après l'inscription en ligne, signé par le candidat",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "text_ar": "نسخة من بطاقة التعريف الوطنية",
+     "text_fr": "Copie de la carte d'identité nationale",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "text_ar": "مضمون ولادة حديث",
+     "text_fr": "Extrait de naissance récent",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "text_ar": "نسخة مطابقة للأصل من الشهادة العلمية المطلوبة وقرار معادلتها إن كانت أجنبية",
+     "text_fr": "Copie certifiée conforme du diplôme exigé et, pour un diplôme étranger, de l'arrêté d'équivalence",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "text_ar": "وثيقة تثبت الوضعية إزاء الخدمة الوطنية (للذكور)",
+     "text_fr": "Pièce justifiant la situation vis-à-vis du service national (candidats masculins)",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "text_ar": "بطاقة السوابق العدلية (بطاقة عدد 3) — تُطلب عادة من الناجحين قبل الانتداب",
+     "text_fr": "Extrait du casier judiciaire (bulletin n° 3) — généralement exigé des lauréats avant la nomination",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "text_ar": "شهادة طبية تثبت القدرة البدنية — تُطلب عادة من الناجحين",
+     "text_fr": "Certificat médical d'aptitude physique — généralement exigé des lauréats",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "text_ar": "ظرفان خالصا معلوم البريد يحملان عنوان المترشح (إن طُلب ذلك في البلاغ)",
+     "text_fr": "Deux enveloppes timbrées libellées à l'adresse du candidat (si l'avis le demande)",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    }
+   ],
+   "blueprint": {
+    "total_minutes": 150,
+    "fidelity": "APPROXIMATED",
+    "sections": [
+     {
+      "domain": "SPECIALTY",
+      "specialty_key": "spec.collectivites-locales.travaux-techniques",
+      "count": 20,
+      "minutes": 35
+     },
+     {
+      "domain": "SPECIALTY",
+      "specialty_key": "spec.collectivites-locales.urbanisme-environnement",
+      "count": 15,
+      "minutes": 25
+     },
+     {
+      "domain": "SPECIALTY",
+      "specialty_key": "spec.collectivites-locales.finances-locales",
+      "count": 8,
+      "minutes": 15
+     },
+     {
+      "domain": "SPECIALTY",
+      "specialty_key": "spec.electricite",
+      "count": 6,
+      "minutes": 10
+     },
+     {
+      "domain": "NUMERICAL",
+      "specialty_key": null,
+      "count": 10,
+      "minutes": 20
+     },
+     {
+      "domain": "SPECIALTY",
+      "specialty_key": "spec.redaction-administrative",
+      "count": 6,
+      "minutes": 15
+     },
+     {
+      "domain": "FRENCH",
+      "specialty_key": null,
+      "count": 8,
+      "minutes": 12
+     },
+     {
+      "domain": "ENGLISH",
+      "specialty_key": null,
+      "count": 6,
+      "minutes": 8
+     },
+     {
+      "domain": "LOGIC",
+      "specialty_key": null,
+      "count": 6,
+      "minutes": 10
+     }
+    ]
+   }
+  },
+  {
+   "slug": "ouvrier",
+   "title_ar": "عامل بلدي (نظافة، سياقة، حراسة، صيانة، بستنة)",
+   "title_fr": "Ouvrier municipal (propreté, conduite, gardiennage, maintenance, espaces verts)",
+   "diploma_level": "NONE",
+   "eligibility": {
+    "min_age": 18,
+    "max_age": null,
+    "genders": [
+     "M",
+     "F"
+    ],
+    "nationality": "TN",
+    "diplomas": [
+     "NONE"
+    ],
+    "specialties": [],
+    "min_height_cm_male": null,
+    "min_height_cm_female": null,
+    "marital_status": null,
+    "other_ar": [
+     "[مقترح] لا تُشترط شهادة علمية عادة لأصناف العملة الدنيا؛ قد يُشترط مستوى تعليمي أدنى أو شهادة تكوين مهني لبعض الأصناف (كهرباء، ترصيص، ميكانيك)",
+     "[مقترح] رخصة سياقة من الصنف المناسب (ب، ج، ج+هـ...) لخطط السواق",
+     "[مقترح] القدرة البدنية على الأشغال الميدانية (رفع الفضلات، العمل الليلي، العمل في الطقس الصعب)",
+     "[مقترح] الشروط العامة للقانون عدد 112 لسنة 1983 المؤرخ في 12 ديسمبر 1983 المتعلق بضبط النظام الأساسي العام لأعوان الدولة والجماعات المحلية والمؤسسات العمومية ذات الصبغة الإدارية: الجنسية التونسية، التمتع بالحقوق المدنية، حسن السيرة والسلوك، بلوغ 18 سنة على الأقل، القدرة البدنية على مباشرة الوظيفة، وضعية قانونية إزاء الخدمة الوطنية",
+     "[مقترح] حد أقصى للسن يضبطه قرار فتح المناظرة (كثيرا ما يكون 40 سنة مع إمكانية الترفيع بمدة الخدمة الوطنية أو المدنية) — لم يُطبّق آليا هنا حتى لا يُقصى أي مترشح خطأ من التنبيهات",
+     "[مقترح] الأعوان المباشرون بالإدارة قد يُطالبون بترخيص من إدارتهم الأصلية"
+    ],
+    "other_fr": [
+     "[Suggestion] Aucun diplôme généralement exigé pour les catégories d'ouvriers les plus basses ; un niveau scolaire minimal ou un certificat de formation professionnelle peut être demandé pour certaines catégories (électricité, plomberie, mécanique)",
+     "[Suggestion] Permis de conduire de la catégorie adéquate (B, C, C+E…) pour les postes de chauffeur",
+     "[Suggestion] Aptitude physique aux travaux de terrain (collecte des déchets, travail de nuit, intempéries)",
+     "[Suggestion] Conditions générales de la loi n° 83-112 du 12 décembre 1983 portant statut général des personnels de l'État, des collectivités locales et des établissements publics à caractère administratif : nationalité tunisienne, jouissance des droits civiques, bonne moralité, 18 ans au moins, aptitude physique à l'emploi, situation régulière vis-à-vis du service national",
+     "[Suggestion] Âge maximum fixé par l'arrêté d'ouverture (souvent 40 ans, avec report possible pour service national ou civil) — volontairement non appliqué automatiquement pour ne pas exclure à tort des candidats des alertes",
+     "[Suggestion] Les agents déjà en fonction peuvent devoir produire une autorisation de leur administration d'origine"
+    ],
+    "source_key": null,
+    "confidence": "LOW",
+    "needs_verification": true,
+    "source_quote": null
+   },
+   "phases": [
+    {
+     "order": 1,
+     "kind": "FILE_REVIEW",
+     "name_ar": "الترشح عن بعد ودراسة قبول الملفات",
+     "name_fr": "Inscription en ligne et recevabilité des dossiers",
+     "is_eliminatory": true,
+     "duration_minutes": null,
+     "description_ar": "[مقترح] التسجيل عن بعد عبر البوابة الوطنية للمناظرات (concours.gov.tn) أو المنظومة/العنوان المحدد في بلاغ فتح المناظرة (وزارة الداخلية أو البلدية المعنية)، ثم إرسال الملف الورقي عند الاقتضاء في الآجال (يعتمد ختم البريد عادة). تُرفض الترشحات غير المستوفية للشروط أو الواردة بعد الأجل.",
+     "description_fr": "[Suggestion] Inscription en ligne sur le portail national des concours (concours.gov.tn) ou sur la plateforme/adresse indiquée dans l'avis d'ouverture (ministère de l'Intérieur ou commune concernée), puis envoi du dossier papier le cas échéant dans les délais (le cachet de la poste fait généralement foi). Les candidatures non conformes ou hors délai sont écartées.",
+     "source_key": "s1",
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "order": 2,
+     "kind": "ORAL",
+     "name_ar": "اختبار مهني تطبيقي و/أو مقابلة",
+     "name_fr": "Épreuve professionnelle pratique et/ou entretien",
+     "is_eliminatory": true,
+     "duration_minutes": null,
+     "description_ar": "[مقترح] مناظرات العملة تكون عادة بالملفات أو باختبار مهني تطبيقي حسب الاختصاص (سياقة، صيانة، بستنة...) مع مقابلة أمام لجنة.",
+     "description_fr": "[Suggestion] Les concours d'ouvriers sont généralement sur dossiers ou sur épreuve professionnelle pratique selon le métier (conduite, maintenance, espaces verts…), avec un entretien devant un jury.",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "order": 3,
+     "kind": "MEDICAL",
+     "name_ar": "إثبات القدرة البدنية (شهادة طبية)",
+     "name_fr": "Aptitude physique (certificat médical)",
+     "is_eliminatory": true,
+     "duration_minutes": null,
+     "description_ar": "[مقترح] يُطلب من الناجحين شهادة طبية تثبت القدرة البدنية والذهنية على مباشرة الوظيفة قبل الانتداب.",
+     "description_fr": "[Suggestion] Les lauréats produisent un certificat médical d'aptitude physique et mentale à l'emploi avant la nomination.",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "order": 4,
+     "kind": "TRAINING",
+     "name_ar": "التربص قبل الترسيم",
+     "name_fr": "Stage probatoire avant titularisation",
+     "is_eliminatory": false,
+     "duration_minutes": null,
+     "description_ar": "[مقترح] يُنتدب الناجحون بصفة متربصين لمدة (عادة سنة) قبل ترسيمهم وفق القانون عدد 112 لسنة 1983.",
+     "description_fr": "[Suggestion] Les lauréats sont nommés stagiaires (généralement un an) avant titularisation, conformément à la loi n° 83-112.",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    }
+   ],
+   "subjects": [
+    {
+     "phase_order": 2,
+     "domain": "SPECIALTY",
+     "specialty_key": "spec.collectivites-locales.metiers-ouvriers",
+     "name_ar": "الاختبار المهني التطبيقي حسب الخطة",
+     "name_fr": "Épreuve professionnelle pratique selon le poste",
+     "coefficient": null,
+     "duration_minutes": null,
+     "question_count": null,
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "phase_order": 2,
+     "domain": "SPECIALTY",
+     "specialty_key": "spec.secourisme",
+     "name_ar": "السلامة المهنية والإسعافات الأولية والوقاية من الحرائق",
+     "name_fr": "Sécurité au travail, secourisme et prévention incendie",
+     "coefficient": null,
+     "duration_minutes": null,
+     "question_count": null,
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "phase_order": 2,
+     "domain": "CULTURE_GENERALE",
+     "specialty_key": null,
+     "name_ar": "المقابلة: السلوك المهني والانضباط ومعرفة المدينة",
+     "name_fr": "Entretien : comportement professionnel, discipline, connaissance de la ville",
+     "coefficient": null,
+     "duration_minutes": null,
+     "question_count": null,
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    }
+   ],
+   "physical_tests": [
+    {
+     "name_ar": "اختبار تطبيقي في السياقة (لخطط السواق)",
+     "name_fr": "Épreuve pratique de conduite (postes de chauffeur)",
+     "details_ar": "[مقترح] قيادة الشاحنة أو الآلية البلدية (شاحنة رفع فضلات، جرار...) أمام لجنة، مع التثبت من صلاحية رخصة السياقة.",
+     "details_fr": "[Suggestion] Conduite du camion ou de l'engin communal (benne à ordures, tracteur…) devant un jury, avec contrôle de la validité du permis.",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "name_ar": "اختبار مهني يدوي حسب الاختصاص",
+     "name_fr": "Épreuve professionnelle manuelle selon le métier",
+     "details_ar": "[مقترح] إنجاز عمل تطبيقي قصير (صيانة، ترصيص، كهرباء، بستنة، تنظيف) مع احترام قواعد السلامة؛ لا توجد معايير رسمية منشورة.",
+     "details_fr": "[Suggestion] Réalisation d'un court travail pratique (maintenance, plomberie, électricité, jardinage, nettoyage) dans le respect des règles de sécurité ; aucun barème officiel publié.",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    }
+   ],
+   "required_documents": [
+    {
+     "text_ar": "مطبوعة الترشح المستخرجة من المنظومة بعد التسجيل عن بعد، ممضاة من المترشح",
+     "text_fr": "Formulaire de candidature imprimé depuis la plateforme après l'inscription en ligne, signé par le candidat",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "text_ar": "نسخة من بطاقة التعريف الوطنية",
+     "text_fr": "Copie de la carte d'identité nationale",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "text_ar": "مضمون ولادة حديث",
+     "text_fr": "Extrait de naissance récent",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "text_ar": "نسخة مطابقة للأصل من الشهادة العلمية المطلوبة وقرار معادلتها إن كانت أجنبية",
+     "text_fr": "Copie certifiée conforme du diplôme exigé et, pour un diplôme étranger, de l'arrêté d'équivalence",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "text_ar": "وثيقة تثبت الوضعية إزاء الخدمة الوطنية (للذكور)",
+     "text_fr": "Pièce justifiant la situation vis-à-vis du service national (candidats masculins)",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "text_ar": "بطاقة السوابق العدلية (بطاقة عدد 3) — تُطلب عادة من الناجحين قبل الانتداب",
+     "text_fr": "Extrait du casier judiciaire (bulletin n° 3) — généralement exigé des lauréats avant la nomination",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "text_ar": "شهادة طبية تثبت القدرة البدنية — تُطلب عادة من الناجحين",
+     "text_fr": "Certificat médical d'aptitude physique — généralement exigé des lauréats",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "text_ar": "ظرفان خالصا معلوم البريد يحملان عنوان المترشح (إن طُلب ذلك في البلاغ)",
+     "text_fr": "Deux enveloppes timbrées libellées à l'adresse du candidat (si l'avis le demande)",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "text_ar": "نسخة من رخصة السياقة (لخطط السواق)",
+     "text_fr": "Copie du permis de conduire (postes de chauffeur)",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "text_ar": "شهادة تكوين مهني أو شهادة خبرة (لبعض الأصناف)",
+     "text_fr": "Certificat de formation professionnelle ou attestation d'expérience (certaines catégories)",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    }
+   ],
+   "blueprint": {
+    "total_minutes": 45,
+    "fidelity": "APPROXIMATED",
+    "sections": [
+     {
+      "domain": "SPECIALTY",
+      "specialty_key": "spec.collectivites-locales.metiers-ouvriers",
+      "count": 15,
+      "minutes": 18
+     },
+     {
+      "domain": "SPECIALTY",
+      "specialty_key": "spec.secourisme",
+      "count": 6,
+      "minutes": 6
+     },
+     {
+      "domain": "ARABIC",
+      "specialty_key": null,
+      "count": 6,
+      "minutes": 6
+     },
+     {
+      "domain": "NUMERICAL",
+      "specialty_key": null,
+      "count": 6,
+      "minutes": 8
+     },
+     {
+      "domain": "CULTURE_GENERALE",
+      "specialty_key": null,
+      "count": 3,
+      "minutes": 3
+     },
+     {
+      "domain": "PSYCHOTECH",
+      "specialty_key": null,
+      "count": 4,
+      "minutes": 4
+     }
+    ]
+   }
+  }
+ ],
+ "specialty_syllabus": [
+  {
+   "key": "spec.collectivites-locales.decentralisation",
+   "parent_key": null,
+   "level": "UNIT",
+   "title_ar": "اللامركزية والجماعات المحلية: الإطار القانوني والمؤسساتي",
+   "title_fr": "Décentralisation et collectivités locales : cadre juridique et institutionnel",
+   "scope": "SUGGESTED",
+   "source_key": null,
+   "objectives": [
+    {
+     "key": "spec.collectivites-locales.decentralisation.o1",
+     "text_ar": "التمييز بين اللامركزية واللاتمحور والتنظيم الإداري الجهوي",
+     "text_fr": "Distinguer décentralisation, déconcentration et administration régionale"
+    },
+    {
+     "key": "spec.collectivites-locales.decentralisation.o2",
+     "text_ar": "معرفة أصناف الجماعات المحلية وهياكلها واختصاصاتها",
+     "text_fr": "Connaître les catégories de collectivités locales, leurs organes et leurs compétences"
+    }
+   ]
+  },
+  {
+   "key": "spec.collectivites-locales.decentralisation.cadre-constitutionnel",
+   "parent_key": "spec.collectivites-locales.decentralisation",
+   "level": "TOPIC",
+   "title_ar": "المبادئ الدستورية للجماعات المحلية والجهوية",
+   "title_fr": "Principes constitutionnels des collectivités locales et régionales",
+   "scope": "SUGGESTED",
+   "source_key": null,
+   "objectives": [
+    {
+     "key": "spec.collectivites-locales.decentralisation.cadre-constitutionnel.o1",
+     "text_ar": "تقديم أحكام دستور 2022 المتعلقة بالمجالس المحلية والجهوية والمجلس الوطني للجهات والأقاليم",
+     "text_fr": "Présenter les dispositions de la Constitution de 2022 relatives aux conseils locaux et régionaux et au Conseil national des régions et des districts"
+    },
+    {
+     "key": "spec.collectivites-locales.decentralisation.cadre-constitutionnel.o2",
+     "text_ar": "مقارنة التنظيم الحالي بما جاء به دستور 2014 (الباب السابع)",
+     "text_fr": "Comparer l'organisation actuelle avec celle issue de la Constitution de 2014 (chapitre VII)"
+    }
+   ]
+  },
+  {
+   "key": "spec.collectivites-locales.decentralisation.code-collectivites",
+   "parent_key": "spec.collectivites-locales.decentralisation",
+   "level": "TOPIC",
+   "title_ar": "مجلة الجماعات المحلية (القانون الأساسي عدد 29 لسنة 2018)",
+   "title_fr": "Code des collectivités locales (loi organique n° 2018-29)",
+   "scope": "SUGGESTED",
+   "source_key": null,
+   "objectives": [
+    {
+     "key": "spec.collectivites-locales.decentralisation.code-collectivites.o1",
+     "text_ar": "شرح مبادئ التدبير الحر والتفريع والديمقراطية التشاركية",
+     "text_fr": "Expliquer les principes de libre administration, de subsidiarité et de démocratie participative"
+    },
+    {
+     "key": "spec.collectivites-locales.decentralisation.code-collectivites.o2",
+     "text_ar": "التمييز بين الاختصاصات الذاتية والمشتركة والمنقولة للبلدية",
+     "text_fr": "Distinguer compétences propres, partagées et transférées de la commune"
+    }
+   ]
+  },
+  {
+   "key": "spec.collectivites-locales.decentralisation.organes-fonctionnement",
+   "parent_key": "spec.collectivites-locales.decentralisation",
+   "level": "TOPIC",
+   "title_ar": "هياكل البلدية وسيرها",
+   "title_fr": "Organes et fonctionnement de la commune",
+   "scope": "SUGGESTED",
+   "source_key": null,
+   "objectives": [
+    {
+     "key": "spec.collectivites-locales.decentralisation.organes-fonctionnement.o1",
+     "text_ar": "وصف دور المجلس البلدي ورئيسه والكاتب العام واللجان وقواعد المداولات",
+     "text_fr": "Décrire le rôle du conseil municipal, du président, du secrétaire général, des commissions et les règles de délibération"
+    },
+    {
+     "key": "spec.collectivites-locales.decentralisation.organes-fonctionnement.o2",
+     "text_ar": "معرفة الإطار الانتقالي لتسيير البلديات بعد حل المجالس البلدية سنة 2023 (للتثبت)",
+     "text_fr": "Connaître le cadre transitoire de gestion des communes après la dissolution des conseils municipaux en 2023 (à vérifier)"
+    }
+   ]
+  },
+  {
+   "key": "spec.collectivites-locales.decentralisation.administration-regionale",
+   "parent_key": "spec.collectivites-locales.decentralisation",
+   "level": "TOPIC",
+   "title_ar": "الإدارة الجهوية والرقابة على الجماعات المحلية",
+   "title_fr": "Administration régionale et contrôle des collectivités locales",
+   "scope": "SUGGESTED",
+   "source_key": null,
+   "objectives": [
+    {
+     "key": "spec.collectivites-locales.decentralisation.administration-regionale.o1",
+     "text_ar": "تحديد دور الوالي والمعتمد والعمدة وعلاقتهم بالبلديات",
+     "text_fr": "Situer le rôle du gouverneur, du délégué et de l'omda et leurs relations avec les communes"
+    },
+    {
+     "key": "spec.collectivites-locales.decentralisation.administration-regionale.o2",
+     "text_ar": "التمييز بين الرقابة اللاحقة القضائية (المحكمة الإدارية، محكمة المحاسبات) والرقابة الإدارية",
+     "text_fr": "Distinguer le contrôle a posteriori juridictionnel (tribunal administratif, Cour des comptes) et le contrôle administratif"
+    }
+   ]
+  },
+  {
+   "key": "spec.collectivites-locales.finances-locales",
+   "parent_key": null,
+   "level": "UNIT",
+   "title_ar": "المالية والجباية المحلية",
+   "title_fr": "Finances et fiscalité locales",
+   "scope": "SUGGESTED",
+   "source_key": null,
+   "objectives": [
+    {
+     "key": "spec.collectivites-locales.finances-locales.o1",
+     "text_ar": "فهم دورة ميزانية البلدية من الإعداد إلى ختم الحسابات",
+     "text_fr": "Comprendre le cycle budgétaire communal, de la préparation à l'arrêté des comptes"
+    },
+    {
+     "key": "spec.collectivites-locales.finances-locales.o2",
+     "text_ar": "التعرف على موارد البلديات ونفقاتها",
+     "text_fr": "Identifier les ressources et les dépenses des communes"
+    }
+   ]
+  },
+  {
+   "key": "spec.collectivites-locales.finances-locales.budget",
+   "parent_key": "spec.collectivites-locales.finances-locales",
+   "level": "TOPIC",
+   "title_ar": "ميزانية البلدية",
+   "title_fr": "Budget communal",
+   "scope": "SUGGESTED",
+   "source_key": null,
+   "objectives": [
+    {
+     "key": "spec.collectivites-locales.finances-locales.budget.o1",
+     "text_ar": "التمييز بين العنوان الأول (التصرف) والعنوان الثاني (التنمية) ومبادئ الميزانية",
+     "text_fr": "Distinguer le titre I (fonctionnement) et le titre II (développement) et les principes budgétaires"
+    },
+    {
+     "key": "spec.collectivites-locales.finances-locales.budget.o2",
+     "text_ar": "شرح دور الآمر بالصرف (رئيس البلدية) والمحاسب العمومي (القابض البلدي)",
+     "text_fr": "Expliquer le rôle de l'ordonnateur (président de la commune) et du comptable public (receveur municipal)"
+    }
+   ]
+  },
+  {
+   "key": "spec.collectivites-locales.finances-locales.fiscalite-locale",
+   "parent_key": "spec.collectivites-locales.finances-locales",
+   "level": "TOPIC",
+   "title_ar": "الجباية المحلية",
+   "title_fr": "Fiscalité locale",
+   "scope": "SUGGESTED",
+   "source_key": null,
+   "objectives": [
+    {
+     "key": "spec.collectivites-locales.finances-locales.fiscalite-locale.o1",
+     "text_ar": "التعرف على المعاليم الرئيسية: المعلوم على العقارات المبنية، المعلوم على الأراضي غير المبنية، المعلوم على المؤسسات ذات الصبغة الصناعية أو التجارية أو المهنية",
+     "text_fr": "Connaître les principales taxes : taxe sur les immeubles bâtis (TIB), taxe sur les terrains non bâtis (TTNB), taxe sur les établissements à caractère industriel, commercial ou professionnel (TCL)"
+    },
+    {
+     "key": "spec.collectivites-locales.finances-locales.fiscalite-locale.o2",
+     "text_ar": "معرفة مجلة الجباية المحلية (القانون عدد 11 لسنة 1997) والموارد غير الجبائية (معاليم الإشغال واللزمات والرخص)",
+     "text_fr": "Connaître le Code de la fiscalité locale (loi n° 97-11) et les recettes non fiscales (redevances d'occupation, concessions, licences)"
+    }
+   ]
+  },
+  {
+   "key": "spec.collectivites-locales.finances-locales.comptabilite-controle",
+   "parent_key": "spec.collectivites-locales.finances-locales",
+   "level": "TOPIC",
+   "title_ar": "المحاسبة العمومية والتمويل والرقابة",
+   "title_fr": "Comptabilité publique, financement et contrôle",
+   "scope": "SUGGESTED",
+   "source_key": null,
+   "objectives": [
+    {
+     "key": "spec.collectivites-locales.finances-locales.comptabilite-controle.o1",
+     "text_ar": "شرح مراحل تنفيذ النفقة (الالتزام، التصفية، الإذن بالدفع، الدفع)",
+     "text_fr": "Expliquer les phases de la dépense (engagement, liquidation, ordonnancement, paiement)"
+    },
+    {
+     "key": "spec.collectivites-locales.finances-locales.comptabilite-controle.o2",
+     "text_ar": "التعرف على صندوق القروض ومساعدة الجماعات المحلية والموارد المحالة من الدولة",
+     "text_fr": "Connaître la Caisse des prêts et de soutien des collectivités locales (CPSCL) et les ressources transférées par l'État"
+    }
+   ]
+  },
+  {
+   "key": "spec.collectivites-locales.finances-locales.marches-publics",
+   "parent_key": "spec.collectivites-locales.finances-locales",
+   "level": "TOPIC",
+   "title_ar": "الصفقات العمومية للبلديات",
+   "title_fr": "Marchés publics des communes",
+   "scope": "SUGGESTED",
+   "source_key": null,
+   "objectives": [
+    {
+     "key": "spec.collectivites-locales.finances-locales.marches-publics.o1",
+     "text_ar": "تعداد مبادئ الصفقات العمومية (المنافسة، المساواة، الشفافية) ومراحل إبرامها",
+     "text_fr": "Énumérer les principes de la commande publique (concurrence, égalité, transparence) et les étapes de passation"
+    },
+    {
+     "key": "spec.collectivites-locales.finances-locales.marches-publics.o2",
+     "text_ar": "معرفة دور منظومة الشراءات العمومية على الخط (تونيبس) ولجان الفتح والفرز",
+     "text_fr": "Connaître le rôle du système d'achat public en ligne (TUNEPS) et des commissions d'ouverture et d'évaluation"
+    }
+   ]
+  },
+  {
+   "key": "spec.collectivites-locales.services-municipaux",
+   "parent_key": null,
+   "level": "UNIT",
+   "title_ar": "المصالح البلدية والعلاقة مع المواطن",
+   "title_fr": "Services municipaux et relation avec l'usager",
+   "scope": "SUGGESTED",
+   "source_key": null,
+   "objectives": [
+    {
+     "key": "spec.collectivites-locales.services-municipaux.o1",
+     "text_ar": "التعرف على الخدمات الإدارية اليومية للبلدية وإجراءاتها",
+     "text_fr": "Connaître les prestations administratives courantes de la commune et leurs procédures"
+    },
+    {
+     "key": "spec.collectivites-locales.services-municipaux.o2",
+     "text_ar": "تطبيق قواعد حسن الاستقبال والنفاذ إلى المعلومة",
+     "text_fr": "Appliquer les règles d'accueil et d'accès à l'information"
+    }
+   ]
+  },
+  {
+   "key": "spec.collectivites-locales.services-municipaux.etat-civil",
+   "parent_key": "spec.collectivites-locales.services-municipaux",
+   "level": "TOPIC",
+   "title_ar": "الحالة المدنية",
+   "title_fr": "État civil",
+   "scope": "SUGGESTED",
+   "source_key": null,
+   "objectives": [
+    {
+     "key": "spec.collectivites-locales.services-municipaux.etat-civil.o1",
+     "text_ar": "التمييز بين رسوم الولادة والزواج والوفاة وآجال التصريح بها (القانون عدد 3 لسنة 1957)",
+     "text_fr": "Distinguer actes de naissance, de mariage et de décès et leurs délais de déclaration (loi n° 57-3 du 1er août 1957)"
+    },
+    {
+     "key": "spec.collectivites-locales.services-municipaux.etat-civil.o2",
+     "text_ar": "معرفة دور ضابط الحالة المدنية وطرق إصلاح الأخطاء بالرسوم",
+     "text_fr": "Connaître le rôle de l'officier d'état civil et les voies de rectification des actes"
+    }
+   ]
+  },
+  {
+   "key": "spec.collectivites-locales.services-municipaux.legalisation-documents",
+   "parent_key": "spec.collectivites-locales.services-municipaux",
+   "level": "TOPIC",
+   "title_ar": "التعريف بالإمضاء والتصديق على مطابقة النسخ للأصل",
+   "title_fr": "Légalisation de signature et certification conforme",
+   "scope": "SUGGESTED",
+   "source_key": null,
+   "objectives": [
+    {
+     "key": "spec.collectivites-locales.services-municipaux.legalisation-documents.o1",
+     "text_ar": "تطبيق شروط التعريف بالإمضاء والتصديق على النسخ",
+     "text_fr": "Appliquer les conditions de légalisation de signature et de certification des copies"
+    },
+    {
+     "key": "spec.collectivites-locales.services-municipaux.legalisation-documents.o2",
+     "text_ar": "تحديد الحالات التي يُرفض فيها الطلب",
+     "text_fr": "Identifier les cas de refus de la demande"
+    }
+   ]
+  },
+  {
+   "key": "spec.collectivites-locales.services-municipaux.relation-usager",
+   "parent_key": "spec.collectivites-locales.services-municipaux",
+   "level": "TOPIC",
+   "title_ar": "الاستقبال والنفاذ إلى المعلومة والتشكيات",
+   "title_fr": "Accueil, accès à l'information et réclamations",
+   "scope": "SUGGESTED",
+   "source_key": null,
+   "objectives": [
+    {
+     "key": "spec.collectivites-locales.services-municipaux.relation-usager.o1",
+     "text_ar": "تطبيق القانون الأساسي عدد 22 لسنة 2016 المتعلق بالحق في النفاذ إلى المعلومة على مطالب يومية",
+     "text_fr": "Appliquer la loi organique n° 2016-22 relative au droit d'accès à l'information à des demandes courantes"
+    },
+    {
+     "key": "spec.collectivites-locales.services-municipaux.relation-usager.o2",
+     "text_ar": "معالجة تشكيات المواطنين في الآجال وتوجيههم",
+     "text_fr": "Traiter les réclamations des usagers dans les délais et les orienter"
+    }
+   ]
+  },
+  {
+   "key": "spec.collectivites-locales.services-municipaux.domaine-public",
+   "parent_key": "spec.collectivites-locales.services-municipaux",
+   "level": "TOPIC",
+   "title_ar": "الملك العمومي البلدي والأسواق",
+   "title_fr": "Domaine public communal et marchés",
+   "scope": "SUGGESTED",
+   "source_key": null,
+   "objectives": [
+    {
+     "key": "spec.collectivites-locales.services-municipaux.domaine-public.o1",
+     "text_ar": "التمييز بين الملك العمومي والملك الخاص للبلدية",
+     "text_fr": "Distinguer domaine public et domaine privé de la commune"
+    },
+    {
+     "key": "spec.collectivites-locales.services-municipaux.domaine-public.o2",
+     "text_ar": "معرفة رخص الإشغال الوقتي للطريق العام ولزمات الأسواق",
+     "text_fr": "Connaître les autorisations d'occupation temporaire de la voie publique et les concessions de marchés"
+    }
+   ]
+  },
+  {
+   "key": "spec.collectivites-locales.urbanisme-environnement",
+   "parent_key": null,
+   "level": "UNIT",
+   "title_ar": "التعمير والنظافة والبيئة",
+   "title_fr": "Urbanisme, propreté et environnement",
+   "scope": "SUGGESTED",
+   "source_key": null,
+   "objectives": [
+    {
+     "key": "spec.collectivites-locales.urbanisme-environnement.o1",
+     "text_ar": "معرفة أدوات التخطيط العمراني والرخص",
+     "text_fr": "Connaître les outils de planification urbaine et les autorisations"
+    },
+    {
+     "key": "spec.collectivites-locales.urbanisme-environnement.o2",
+     "text_ar": "التعرف على مهام البلدية في النظافة وحماية البيئة",
+     "text_fr": "Identifier les missions de la commune en matière de propreté et d'environnement"
+    }
+   ]
+  },
+  {
+   "key": "spec.collectivites-locales.urbanisme-environnement.urbanisme",
+   "parent_key": "spec.collectivites-locales.urbanisme-environnement",
+   "level": "TOPIC",
+   "title_ar": "التهيئة الترابية والتعمير",
+   "title_fr": "Aménagement du territoire et urbanisme",
+   "scope": "SUGGESTED",
+   "source_key": null,
+   "objectives": [
+    {
+     "key": "spec.collectivites-locales.urbanisme-environnement.urbanisme.o1",
+     "text_ar": "شرح دور مجلة التهيئة الترابية والتعمير (القانون عدد 122 لسنة 1994) وأمثلة التهيئة العمرانية",
+     "text_fr": "Expliquer le rôle du Code de l'aménagement du territoire et de l'urbanisme (loi n° 94-122) et des plans d'aménagement urbain"
+    },
+    {
+     "key": "spec.collectivites-locales.urbanisme-environnement.urbanisme.o2",
+     "text_ar": "تعداد مراحل دراسة رخصة البناء ومعاينة المخالفات العمرانية",
+     "text_fr": "Énumérer les étapes d'instruction du permis de bâtir et de constat des infractions d'urbanisme"
+    }
+   ]
+  },
+  {
+   "key": "spec.collectivites-locales.urbanisme-environnement.proprete-dechets",
+   "parent_key": "spec.collectivites-locales.urbanisme-environnement",
+   "level": "TOPIC",
+   "title_ar": "النظافة والتصرف في النفايات",
+   "title_fr": "Propreté et gestion des déchets",
+   "scope": "SUGGESTED",
+   "source_key": null,
+   "objectives": [
+    {
+     "key": "spec.collectivites-locales.urbanisme-environnement.proprete-dechets.o1",
+     "text_ar": "وصف سلسلة التصرف في النفايات المنزلية (جمع، نقل، مراكز تحويل، مصبات مراقبة)",
+     "text_fr": "Décrire la chaîne de gestion des déchets ménagers (collecte, transport, centres de transfert, décharges contrôlées)"
+    },
+    {
+     "key": "spec.collectivites-locales.urbanisme-environnement.proprete-dechets.o2",
+     "text_ar": "اقتراح إجراءات لتحسين النظافة والفرز من المصدر",
+     "text_fr": "Proposer des mesures d'amélioration de la propreté et du tri à la source"
+    }
+   ]
+  },
+  {
+   "key": "spec.collectivites-locales.urbanisme-environnement.hygiene-police-administrative",
+   "parent_key": "spec.collectivites-locales.urbanisme-environnement",
+   "level": "TOPIC",
+   "title_ar": "الضابطة الإدارية البلدية وحفظ الصحة",
+   "title_fr": "Police administrative municipale et hygiène",
+   "scope": "SUGGESTED",
+   "source_key": null,
+   "objectives": [
+    {
+     "key": "spec.collectivites-locales.urbanisme-environnement.hygiene-police-administrative.o1",
+     "text_ar": "تحديد صلاحيات رئيس البلدية في الضابطة الإدارية (الصحة، السكينة، الطرقات)",
+     "text_fr": "Situer les pouvoirs de police administrative du président de la commune (salubrité, tranquillité, voirie)"
+    },
+    {
+     "key": "spec.collectivites-locales.urbanisme-environnement.hygiene-police-administrative.o2",
+     "text_ar": "معرفة إجراءات مراقبة المحلات المفتوحة للعموم وحفظ الصحة",
+     "text_fr": "Connaître les procédures de contrôle des établissements ouverts au public et d'hygiène"
+    }
+   ]
+  },
+  {
+   "key": "spec.collectivites-locales.travaux-techniques",
+   "parent_key": null,
+   "level": "UNIT",
+   "title_ar": "الأشغال والمصالح الفنية البلدية",
+   "title_fr": "Travaux et services techniques municipaux",
+   "scope": "SUGGESTED",
+   "source_key": null,
+   "objectives": [
+    {
+     "key": "spec.collectivites-locales.travaux-techniques.o1",
+     "text_ar": "قراءة المخططات وإعداد الكشوف الكمية والتقديرية",
+     "text_fr": "Lire des plans et établir des métrés et devis estimatifs"
+    },
+    {
+     "key": "spec.collectivites-locales.travaux-techniques.o2",
+     "text_ar": "متابعة إنجاز الأشغال البلدية واستلامها",
+     "text_fr": "Suivre l'exécution et la réception des travaux communaux"
+    }
+   ]
+  },
+  {
+   "key": "spec.collectivites-locales.travaux-techniques.voirie-reseaux",
+   "parent_key": "spec.collectivites-locales.travaux-techniques",
+   "level": "TOPIC",
+   "title_ar": "الطرقات والشبكات المختلفة",
+   "title_fr": "Voirie et réseaux divers (VRD)",
+   "scope": "SUGGESTED",
+   "source_key": null,
+   "objectives": [
+    {
+     "key": "spec.collectivites-locales.travaux-techniques.voirie-reseaux.o1",
+     "text_ar": "التعرف على مكونات الطريق البلدي (طبقات، أرصفة، تصريف مياه الأمطار)",
+     "text_fr": "Identifier les composantes d'une voie communale (couches de chaussée, trottoirs, évacuation des eaux pluviales)"
+    },
+    {
+     "key": "spec.collectivites-locales.travaux-techniques.voirie-reseaux.o2",
+     "text_ar": "حساب كميات الأشغال البسيطة (مساحات، أحجام الحفر والردم)",
+     "text_fr": "Calculer des quantités simples (surfaces, volumes de déblais et remblais)"
+    }
+   ]
+  },
+  {
+   "key": "spec.collectivites-locales.travaux-techniques.batiments-communaux",
+   "parent_key": "spec.collectivites-locales.travaux-techniques",
+   "level": "TOPIC",
+   "title_ar": "البنايات البلدية وصيانتها",
+   "title_fr": "Bâtiments communaux et maintenance",
+   "scope": "SUGGESTED",
+   "source_key": null,
+   "objectives": [
+    {
+     "key": "spec.collectivites-locales.travaux-techniques.batiments-communaux.o1",
+     "text_ar": "وضع برنامج صيانة وقائية للبنايات والتجهيزات البلدية",
+     "text_fr": "Établir un programme de maintenance préventive des bâtiments et équipements communaux"
+    },
+    {
+     "key": "spec.collectivites-locales.travaux-techniques.batiments-communaux.o2",
+     "text_ar": "تشخيص الأعطاب الشائعة (رطوبة، تشققات، شبكات)",
+     "text_fr": "Diagnostiquer les désordres courants (humidité, fissures, réseaux)"
+    }
+   ]
+  },
+  {
+   "key": "spec.collectivites-locales.travaux-techniques.eclairage-public",
+   "parent_key": "spec.collectivites-locales.travaux-techniques",
+   "level": "TOPIC",
+   "title_ar": "التنوير العمومي",
+   "title_fr": "Éclairage public",
+   "scope": "SUGGESTED",
+   "source_key": null,
+   "objectives": [
+    {
+     "key": "spec.collectivites-locales.travaux-techniques.eclairage-public.o1",
+     "text_ar": "وصف مكونات شبكة التنوير العمومي وطرق صيانتها",
+     "text_fr": "Décrire les composants d'un réseau d'éclairage public et sa maintenance"
+    },
+    {
+     "key": "spec.collectivites-locales.travaux-techniques.eclairage-public.o2",
+     "text_ar": "اقتراح حلول للاقتصاد في الطاقة (فوانيس LED، التحكم في التوقيت)",
+     "text_fr": "Proposer des solutions d'économie d'énergie (luminaires LED, gestion horaire)"
+    }
+   ]
+  },
+  {
+   "key": "spec.collectivites-locales.travaux-techniques.suivi-chantiers",
+   "parent_key": "spec.collectivites-locales.travaux-techniques",
+   "level": "TOPIC",
+   "title_ar": "متابعة الحضائر والسلامة",
+   "title_fr": "Suivi de chantier et sécurité",
+   "scope": "SUGGESTED",
+   "source_key": null,
+   "objectives": [
+    {
+     "key": "spec.collectivites-locales.travaux-techniques.suivi-chantiers.o1",
+     "text_ar": "تحرير محضر حضيرة ومحضر استلام وقتي ونهائي",
+     "text_fr": "Rédiger un procès-verbal de chantier et de réception provisoire et définitive"
+    },
+    {
+     "key": "spec.collectivites-locales.travaux-techniques.suivi-chantiers.o2",
+     "text_ar": "تطبيق قواعد السلامة والإشارات بالحضائر على الطريق العام",
+     "text_fr": "Appliquer les règles de sécurité et de signalisation des chantiers sur la voie publique"
+    }
+   ]
+  },
+  {
+   "key": "spec.collectivites-locales.metiers-ouvriers",
+   "parent_key": null,
+   "level": "UNIT",
+   "title_ar": "مهن العملة البلدية",
+   "title_fr": "Métiers des ouvriers municipaux",
+   "scope": "SUGGESTED",
+   "source_key": null,
+   "objectives": [
+    {
+     "key": "spec.collectivites-locales.metiers-ouvriers.o1",
+     "text_ar": "إنجاز المهام الميدانية البلدية بطريقة آمنة وفعالة",
+     "text_fr": "Réaliser les tâches de terrain municipales de façon sûre et efficace"
+    },
+    {
+     "key": "spec.collectivites-locales.metiers-ouvriers.o2",
+     "text_ar": "احترام الانضباط المهني والتعامل اللائق مع المواطنين",
+     "text_fr": "Respecter la discipline professionnelle et se comporter correctement avec les citoyens"
+    }
+   ]
+  },
+  {
+   "key": "spec.collectivites-locales.metiers-ouvriers.proprete-collecte",
+   "parent_key": "spec.collectivites-locales.metiers-ouvriers",
+   "level": "TOPIC",
+   "title_ar": "النظافة ورفع الفضلات",
+   "title_fr": "Propreté et collecte des déchets",
+   "scope": "SUGGESTED",
+   "source_key": null,
+   "objectives": [
+    {
+     "key": "spec.collectivites-locales.metiers-ouvriers.proprete-collecte.o1",
+     "text_ar": "تطبيق طرق الكنس والجمع والفرز حسب جولات العمل",
+     "text_fr": "Appliquer les méthodes de balayage, collecte et tri selon les tournées"
+    },
+    {
+     "key": "spec.collectivites-locales.metiers-ouvriers.proprete-collecte.o2",
+     "text_ar": "التعامل الآمن مع النفايات الخطرة أو الحادة",
+     "text_fr": "Manipuler en sécurité les déchets dangereux ou tranchants"
+    }
+   ]
+  },
+  {
+   "key": "spec.collectivites-locales.metiers-ouvriers.securite-travail",
+   "parent_key": "spec.collectivites-locales.metiers-ouvriers",
+   "level": "TOPIC",
+   "title_ar": "السلامة المهنية ومعدات الوقاية",
+   "title_fr": "Sécurité au travail et équipements de protection",
+   "scope": "SUGGESTED",
+   "source_key": null,
+   "objectives": [
+    {
+     "key": "spec.collectivites-locales.metiers-ouvriers.securite-travail.o1",
+     "text_ar": "استعمال معدات الوقاية الفردية (قفازات، سترات عاكسة، أحذية واقية)",
+     "text_fr": "Utiliser les équipements de protection individuelle (gants, gilets réfléchissants, chaussures de sécurité)"
+    },
+    {
+     "key": "spec.collectivites-locales.metiers-ouvriers.securite-travail.o2",
+     "text_ar": "التصرف عند حادث شغل وإعلام المسؤول",
+     "text_fr": "Réagir à un accident du travail et alerter le responsable"
+    }
+   ]
+  },
+  {
+   "key": "spec.collectivites-locales.metiers-ouvriers.espaces-verts",
+   "parent_key": "spec.collectivites-locales.metiers-ouvriers",
+   "level": "TOPIC",
+   "title_ar": "المساحات الخضراء والبستنة",
+   "title_fr": "Espaces verts et jardinage",
+   "scope": "SUGGESTED",
+   "source_key": null,
+   "objectives": [
+    {
+     "key": "spec.collectivites-locales.metiers-ouvriers.espaces-verts.o1",
+     "text_ar": "القيام بأعمال الغراسة والسقي والتقليم",
+     "text_fr": "Effectuer les travaux de plantation, d'arrosage et de taille"
+    },
+    {
+     "key": "spec.collectivites-locales.metiers-ouvriers.espaces-verts.o2",
+     "text_ar": "استعمال آلات البستنة وصيانتها بأمان",
+     "text_fr": "Utiliser et entretenir en sécurité le matériel de jardinage"
+    }
+   ]
+  },
+  {
+   "key": "spec.collectivites-locales.metiers-ouvriers.conduite-engins",
+   "parent_key": "spec.collectivites-locales.metiers-ouvriers",
+   "level": "TOPIC",
+   "title_ar": "سياقة الآليات البلدية",
+   "title_fr": "Conduite des engins municipaux",
+   "scope": "SUGGESTED",
+   "source_key": null,
+   "objectives": [
+    {
+     "key": "spec.collectivites-locales.metiers-ouvriers.conduite-engins.o1",
+     "text_ar": "احترام قواعد مجلة الطرقات عند سياقة الشاحنات والآليات البلدية",
+     "text_fr": "Respecter le Code de la route lors de la conduite des camions et engins municipaux"
+    },
+    {
+     "key": "spec.collectivites-locales.metiers-ouvriers.conduite-engins.o2",
+     "text_ar": "القيام بالمراقبة اليومية للآلية قبل الانطلاق",
+     "text_fr": "Effectuer les vérifications quotidiennes de l'engin avant le départ"
+    }
+   ]
+  }
+ ],
+ "past_exams": [],
+ "tips_ar": [
+  "تابع البوابة الوطنية للمناظرات (concours.gov.tn) والرائد الرسمي وموقع وزارة الداخلية وصفحات البلديات والولايات الرسمية، وفعّل تنبيهات المنصة حتى لا يفوتك أجل الترشح.",
+  "احذر من الصفحات والإعلانات المزيفة: المناظرات العمومية لا تتطلب أي دفع مقابل الترشح، والمرجع الوحيد هو البلاغ الرسمي وقرار فتح المناظرة.",
+  "اقرأ قرار فتح المناظرة بدقة: الشهادة والاختصاصات المقبولة، حد السن وطريقة احتسابه، نوع المناظرة (بالاختبارات أو بالملفات)، الوثائق المطلوبة وطريقة الإرسال.",
+  "للمتصرفين: أتقن مجلة الجماعات المحلية لسنة 2018 (المبادئ، الاختصاصات، الهياكل، الرقابة) والقانون الإداري والمالية المحلية (الميزانية، المعاليم المحلية، دور القابض البلدي).",
+  "تدرّب على المقال والمذكرة التأليفية والتحرير الإداري بالعربية في وقت محدود، لأن العربية هي لغة العمل في الإدارة التونسية.",
+  "لكتبة الإدارة: راجع إجراءات الحالة المدنية والتعريف بالإمضاء ومكتب الضبط والإعلامية المكتبية.",
+  "للتقنيين والمهندسين: راجع قراءة المخططات والكشوف الكمية والطرقات والشبكات والتنوير العمومي ورخص البناء والصفقات العمومية.",
+  "للعملة: حضّر نسخا من رخصة السياقة وشهادات الخبرة، وحافظ على لياقتك البدنية، وتعرّف على قواعد السلامة ومعدات الوقاية.",
+  "جهّز ملفك مسبقا (نسخ مطابقة للأصل، مضمون ولادة حديث، وثيقة الخدمة الوطنية) لأن آجال الترشح قصيرة عادة (حوالي شهر)."
+ ],
+ "tips_fr": [
+  "Surveillez le portail national des concours (concours.gov.tn), le JORT, le site du ministère de l'Intérieur et les pages officielles des communes et gouvernorats, et activez les alertes de la plateforme pour ne pas manquer une clôture.",
+  "Méfiez-vous des pages et annonces frauduleuses : aucun concours public n'exige de paiement pour candidater ; seuls l'avis officiel et l'arrêté d'ouverture font foi.",
+  "Lisez attentivement l'arrêté d'ouverture : diplôme et spécialités admis, limite d'âge et date de calcul, nature du concours (épreuves ou dossiers), pièces exigées et mode d'envoi.",
+  "Administrateurs : maîtrisez le Code des collectivités locales de 2018 (principes, compétences, organes, contrôle), le droit administratif et les finances locales (budget, taxes locales, rôle du receveur municipal).",
+  "Entraînez-vous à la dissertation, à la note de synthèse et à la rédaction administrative en arabe en temps limité : l'arabe est la langue de travail de l'administration tunisienne.",
+  "Secrétaires d'administration : révisez les procédures d'état civil, la légalisation des signatures, le bureau d'ordre et la bureautique.",
+  "Techniciens et ingénieurs : révisez lecture de plans, métrés, voirie et réseaux divers, éclairage public, permis de bâtir et marchés publics.",
+  "Ouvriers : préparez copies du permis de conduire et attestations d'expérience, entretenez votre condition physique et connaissez les règles de sécurité et les EPI.",
+  "Préparez votre dossier à l'avance (copies certifiées conformes, extrait de naissance récent, pièce de service national) : les délais de candidature sont souvent courts (environ un mois)."
+ ],
+ "research_notes": "LIMITE MÉTHODOLOGIQUE MAJEURE (07/10/2026) : le quota WebSearch partagé de ce tour était épuisé dès la première requête et WebFetch renvoie EGRESS_BLOCKED pour tous les domaines testés (concours.gov.tn, interieur.gov.tn, services.interieur.gov.tn, iort.gov.tn, legislation.tn, cfad.tn, tunisienumerique.com, lapresse.tn, kedma.tn, fr/ar.wikipedia.org ; collectivites-locales.gov.tn ne résout pas). AUCUNE page n'a été lue directement. Le seul fait daté (édition 2026 : 263 administrateurs du corps administratif commun au profit des municipalités, concours sur épreuves, licence, clôture 10/04/2026, écrits 11/05/2026, ministère de l'Intérieur – affaires locales) provient de la veille de l'équipe (content/competitions/_openings.json, family_slug_guess = collectivites-locales), elle-même fondée sur un article de presse (s2) : il reste needs_verification=true, sans source_quote. Résultat : 0 fait publiable comme officiel en l'état. DOUBLON À TRAITER : la même session 263 administrateurs figure aussi dans administration-generale.json (édition 2026, position administrateur), dont les notes indiquent de la supprimer si une famille collectivités locales est créée ; ce fichier ne modifie pas administration-generale.json (hors périmètre) — l'équipe doit retirer l'un des deux pour éviter une double alerte aux mêmes utilisateurs. Le libellé de l'édition 2026 est volontairement différent de celui de _openings.json : le seed des ouvertures la reconnaît comme déjà connue (même famille, même date limite/date d'écrit) et garde cet enregistrement. ALERTES DE PROFIL : max_age laissé à null partout et specialties vides pour ne pas exclure à tort des candidats ; min_diploma = niveau de la position (BAC_PLUS_2 couvre aussi licence/master). NON VÉRIFIÉ (suggestions de l'équipe, à confirmer) : (1) organisme : tutelle des collectivités locales par le ministère de l'Intérieur depuis la suppression du ministère des Affaires locales (vers 2021) ; nom exact de la direction générale ; rôle du Centre de formation et d'appui à la décentralisation (CFAD) dans la formation initiale ; possibilité pour chaque commune d'ouvrir ses propres concours ; (2) liste des grades ouverts au recrutement externe dans les communes (attaché, secrétaire, technicien, ingénieur principal, ouvriers) et niveaux de diplôme (attaché bac+2 ?, secrétaire bac ?, technicien BTS/licence appliquée ?) ; architectes et police municipale/environnementale non modélisés (la police municipale relèverait du ministère de l'Intérieur — à vérifier) ; (3) limite d'âge (souvent 40 ans) ; (4) nature, durées et coefficients des épreuves, existence d'un oral, critères des concours sur dossiers, stage probatoire d'un an : tous les blueprints sont APPROXIMATED ; (5) liste des pièces du dossier ; (6) plateforme d'inscription de la session 2026 (concours.gov.tn ou autre) ; (7) références juridiques citées dans le syllabus (loi 83-112 du 12/12/1983 ; loi organique 2018-29 du 9 mai 2018 ; loi 94-122 du 28/11/1994 CATU ; loi 57-3 du 1er août 1957 état civil ; loi 97-11 Code de la fiscalité locale ; loi organique 2016-22 accès à l'information ; dissolution des conseils municipaux en mars 2023 par décret-loi ; Conseil national des régions et des districts issu de la Constitution de 2022) — connues de l'équipe mais non relues ici. Aucune donnée 2023-2025 (dates, postes, candidats) n'a pu être collectée ; le nombre de candidats n'est connu pour aucune session ; aucune annale (officielle ou communautaire) n'a été localisée (past_exams vide). L'édition 2027 est une simple attente (EXPECTED, sans source). Le syllabus spec.collectivites-locales.* est entièrement SUGGESTED. Priorités de vérification : arrêté d'ouverture du concours 263 administrateurs (JORT 2026) et avis sur concours.gov.tn / interieur.gov.tn ; résultats de ce concours ; avis de concours de communes (Tunis, Sfax, Sousse…) 2023-2026 pour ouvriers et techniciens ; statut particulier des corps communs applicables aux collectivités locales."
+}

@@ -1,0 +1,1882 @@
+{
+  "bank": "logic-raisonnement",
+  "domain": "LOGIC",
+  "specialty_syllabus": [],
+  "questions": [
+    {
+      "id": "logic-raisonnement-0001",
+      "type": "MCQ_SINGLE",
+      "language": "fr",
+      "stem": "Complétez l'analogie : « Médecin est à hôpital ce qu'enseignant est à … »",
+      "options": [
+        {
+          "id": "a",
+          "text": "élève"
+        },
+        {
+          "id": "b",
+          "text": "cahier"
+        },
+        {
+          "id": "c",
+          "text": "école"
+        },
+        {
+          "id": "d",
+          "text": "leçon"
+        }
+      ],
+      "correct": [
+        "c"
+      ],
+      "explanation": "La relation est celle d'un professionnel et de son lieu de travail : le médecin exerce à l'hôpital, l'enseignant exerce à l'école. « Élève » est tentant parce qu'il est lié à l'enseignant, mais il correspond à la relation professionnel / bénéficiaire (comme médecin / patient), pas à la relation professionnel / lieu. « Cahier » et « leçon » sont des objets ou contenus, pas des lieux.",
+      "difficulty": "EASY",
+      "topic_key": "lo.analogies",
+      "objective_key": "lo.analogies.o1",
+      "families": [
+        "*"
+      ],
+      "origin": "AI_GENERATED",
+      "source_key": null,
+      "year": null,
+      "valid_until": null,
+      "tags": [
+        "analogie",
+        "profession-lieu"
+      ]
+    },
+    {
+      "id": "logic-raisonnement-0002",
+      "type": "MCQ_SINGLE",
+      "language": "ar",
+      "stem": "أكمل التشابه: «قلم : كتابة :: مقصّ : …»",
+      "options": [
+        {
+          "id": "a",
+          "text": "ورق"
+        },
+        {
+          "id": "b",
+          "text": "حادّ"
+        },
+        {
+          "id": "c",
+          "text": "خياطة"
+        },
+        {
+          "id": "d",
+          "text": "قصّ"
+        }
+      ],
+      "correct": [
+        "d"
+      ],
+      "explanation": "العلاقة هي علاقة الأداة بوظيفتها: القلم أداة للكتابة، والمقصّ أداة للقصّ. أمّا «خياطة» فهي نشاط قد يُستعمل فيه المقصّ لكنها ليست وظيفته المباشرة، و«ورق» مادّة يُقصّ عليها، و«حادّ» صفة للمقصّ لا وظيفة له.",
+      "difficulty": "EASY",
+      "topic_key": "lo.analogies",
+      "objective_key": "lo.analogies.o1",
+      "families": [
+        "*"
+      ],
+      "origin": "AI_GENERATED",
+      "source_key": null,
+      "year": null,
+      "valid_until": null,
+      "tags": [
+        "تشابه",
+        "أداة-وظيفة"
+      ]
+    },
+    {
+      "id": "logic-raisonnement-0003",
+      "type": "MCQ_SINGLE",
+      "language": "fr",
+      "stem": "Complétez l'analogie : « Chaud est à froid ce que haut est à … »",
+      "options": [
+        {
+          "id": "a",
+          "text": "grand"
+        },
+        {
+          "id": "b",
+          "text": "élevé"
+        },
+        {
+          "id": "c",
+          "text": "bas"
+        },
+        {
+          "id": "d",
+          "text": "loin"
+        }
+      ],
+      "correct": [
+        "c"
+      ],
+      "explanation": "« Chaud » et « froid » sont des contraires (antonymes) ; le contraire de « haut » est « bas ». Le piège principal est « élevé », qui est un synonyme de « haut » et non son contraire : il reproduit une relation de synonymie, différente de celle de la paire modèle.",
+      "difficulty": "EASY",
+      "topic_key": "lo.analogies",
+      "objective_key": "lo.analogies.o1",
+      "families": [
+        "*"
+      ],
+      "origin": "AI_GENERATED",
+      "source_key": null,
+      "year": null,
+      "valid_until": null,
+      "tags": [
+        "analogie",
+        "antonymes"
+      ]
+    },
+    {
+      "id": "logic-raisonnement-0004",
+      "type": "MCQ_SINGLE",
+      "language": "ar",
+      "stem": "أكمل التشابه: «عطش : ماء :: جوع : …»",
+      "options": [
+        {
+          "id": "a",
+          "text": "تعب"
+        },
+        {
+          "id": "b",
+          "text": "نوم"
+        },
+        {
+          "id": "c",
+          "text": "طعام"
+        },
+        {
+          "id": "d",
+          "text": "ظمأ"
+        }
+      ],
+      "correct": [
+        "c"
+      ],
+      "explanation": "العلاقة هي علاقة الحاجة بما يسدّها: الماء يُذهب العطش، والطعام يُذهب الجوع. أمّا «ظمأ» فهو مرادف للعطش، فاختياره يعني الخلط بين علاقة الترادف والعلاقة المطلوبة، و«النوم» يسدّ حاجة التعب لا الجوع.",
+      "difficulty": "EASY",
+      "topic_key": "lo.analogies",
+      "objective_key": "lo.analogies.o1",
+      "families": [
+        "*"
+      ],
+      "origin": "AI_GENERATED",
+      "source_key": null,
+      "year": null,
+      "valid_until": null,
+      "tags": [
+        "تشابه",
+        "حاجة-إشباع"
+      ]
+    },
+    {
+      "id": "logic-raisonnement-0005",
+      "type": "TRUE_FALSE",
+      "language": "fr",
+      "stem": "Vrai ou faux : la relation entre « pétale » et « fleur » est la même que celle entre « page » et « livre ».",
+      "options": [
+        {
+          "id": "a",
+          "text": "Vrai"
+        },
+        {
+          "id": "b",
+          "text": "Faux"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "explanation": "C'est vrai : dans les deux cas, le premier mot désigne une partie et le second le tout dont elle fait partie. Le pétale est un élément de la fleur, comme la page est un élément du livre. Il s'agit d'une relation partie / tout dans le même ordre.",
+      "difficulty": "EASY",
+      "topic_key": "lo.analogies",
+      "objective_key": "lo.analogies.o1",
+      "families": [
+        "*"
+      ],
+      "origin": "AI_GENERATED",
+      "source_key": null,
+      "year": null,
+      "valid_until": null,
+      "tags": [
+        "analogie",
+        "partie-tout"
+      ]
+    },
+    {
+      "id": "logic-raisonnement-0006",
+      "type": "MCQ_SINGLE",
+      "language": "fr",
+      "stem": "Complétez l'analogie : « Agneau est à brebis ce que veau est à … »",
+      "options": [
+        {
+          "id": "a",
+          "text": "taureau"
+        },
+        {
+          "id": "b",
+          "text": "chèvre"
+        },
+        {
+          "id": "c",
+          "text": "bœuf"
+        },
+        {
+          "id": "d",
+          "text": "vache"
+        }
+      ],
+      "correct": [
+        "d"
+      ],
+      "explanation": "L'agneau est le petit de la brebis, qui est sa mère (la femelle adulte) ; de même, le veau est le petit de la vache. « Taureau » est le distracteur principal : c'est bien un adulte de la même espèce, mais le mâle, alors que « brebis » désigne la femelle. Le bœuf est un mâle castré et la chèvre appartient à une autre espèce (son petit est le chevreau).",
+      "difficulty": "MEDIUM",
+      "topic_key": "lo.analogies",
+      "objective_key": "lo.analogies.o1",
+      "families": [
+        "*"
+      ],
+      "origin": "AI_GENERATED",
+      "source_key": null,
+      "year": null,
+      "valid_until": null,
+      "tags": [
+        "analogie",
+        "petit-mère",
+        "animaux"
+      ]
+    },
+    {
+      "id": "logic-raisonnement-0007",
+      "type": "MCQ_SINGLE",
+      "language": "ar",
+      "stem": "أكمل التشابه: «معلّم : تلميذ :: مدرّب : …»",
+      "options": [
+        {
+          "id": "a",
+          "text": "ملعب"
+        },
+        {
+          "id": "b",
+          "text": "كرة"
+        },
+        {
+          "id": "c",
+          "text": "لاعب"
+        },
+        {
+          "id": "d",
+          "text": "مباراة"
+        }
+      ],
+      "correct": [
+        "c"
+      ],
+      "explanation": "العلاقة هي علاقة من يُكوِّن ويوجّه بمن يتلقّى التكوين: المعلّم يُعلّم التلميذ، والمدرّب يُدرّب اللاعب. أمّا «ملعب» فهو مكان عمل المدرّب، وهي علاقة مختلفة (مثل معلّم : مدرسة)، و«كرة» أداة و«مباراة» نشاط.",
+      "difficulty": "MEDIUM",
+      "topic_key": "lo.analogies",
+      "objective_key": "lo.analogies.o1",
+      "families": [
+        "*"
+      ],
+      "origin": "AI_GENERATED",
+      "source_key": null,
+      "year": null,
+      "valid_until": null,
+      "tags": [
+        "تشابه",
+        "مكوِّن-متكوِّن"
+      ]
+    },
+    {
+      "id": "logic-raisonnement-0008",
+      "type": "MCQ_SINGLE",
+      "language": "fr",
+      "stem": "Complétez l'analogie : « Brise est à tempête ce que bruine est à … »",
+      "options": [
+        {
+          "id": "a",
+          "text": "brouillard"
+        },
+        {
+          "id": "b",
+          "text": "grêle"
+        },
+        {
+          "id": "c",
+          "text": "nuage"
+        },
+        {
+          "id": "d",
+          "text": "déluge"
+        }
+      ],
+      "correct": [
+        "d"
+      ],
+      "explanation": "La brise est un vent faible et la tempête un vent violent : on passe d'une forme faible à une forme extrême du même phénomène. La bruine est une pluie très fine ; sa forme extrême est le déluge (pluie torrentielle). « Brouillard » est tentant car il évoque aussi de fines gouttelettes, mais il ne représente pas une intensification de la pluie.",
+      "difficulty": "MEDIUM",
+      "topic_key": "lo.analogies",
+      "objective_key": "lo.analogies.o1",
+      "families": [
+        "*"
+      ],
+      "origin": "AI_GENERATED",
+      "source_key": null,
+      "year": null,
+      "valid_until": null,
+      "tags": [
+        "analogie",
+        "degré d'intensité"
+      ]
+    },
+    {
+      "id": "logic-raisonnement-0009",
+      "type": "MCQ_SINGLE",
+      "language": "ar",
+      "stem": "ما العدد الذي يُكمل التشابه التالي؟ «2 : 8 :: 3 : 27 :: 4 : …»",
+      "options": [
+        {
+          "id": "a",
+          "text": "12"
+        },
+        {
+          "id": "b",
+          "text": "16"
+        },
+        {
+          "id": "c",
+          "text": "32"
+        },
+        {
+          "id": "d",
+          "text": "64"
+        }
+      ],
+      "correct": [
+        "d"
+      ],
+      "explanation": "العلاقة هي رفع العدد إلى القوّة الثالثة (المكعّب): 2 × 2 × 2 = 8 و3 × 3 × 3 = 27، إذن 4 × 4 × 4 = 64. أمّا «16» فهو مربّع العدد 4 لا مكعّبه، و«12» يفترض الضرب في 3 وهي قاعدة لا تنطبق على الزوج الأوّل (2 × 3 = 6 لا 8).",
+      "difficulty": "MEDIUM",
+      "topic_key": "lo.analogies",
+      "objective_key": "lo.analogies.o1",
+      "families": [
+        "*"
+      ],
+      "origin": "AI_GENERATED",
+      "source_key": null,
+      "year": null,
+      "valid_until": null,
+      "tags": [
+        "تشابه عددي",
+        "قوى"
+      ]
+    },
+    {
+      "id": "logic-raisonnement-0010",
+      "type": "MCQ_MULTI",
+      "language": "fr",
+      "stem": "Parmi les paires suivantes, lesquelles présentent la même relation que « Scalpel / Chirurgien » ? (plusieurs réponses possibles)",
+      "options": [
+        {
+          "id": "a",
+          "text": "Patient / Médecin"
+        },
+        {
+          "id": "b",
+          "text": "Truelle / Maçon"
+        },
+        {
+          "id": "c",
+          "text": "Livre / Bibliothèque"
+        },
+        {
+          "id": "d",
+          "text": "Pinceau / Peintre"
+        }
+      ],
+      "correct": [
+        "b",
+        "d"
+      ],
+      "explanation": "La paire modèle associe un outil au professionnel qui l'utilise : la truelle est l'outil du maçon, le pinceau celui du peintre. « Patient / Médecin » relève d'une autre relation (bénéficiaire / professionnel) : le patient n'est pas un outil. « Livre / Bibliothèque » associe un objet au lieu où il est rangé.",
+      "difficulty": "MEDIUM",
+      "topic_key": "lo.analogies",
+      "objective_key": "lo.analogies.o1",
+      "families": [
+        "*"
+      ],
+      "origin": "AI_GENERATED",
+      "source_key": null,
+      "year": null,
+      "valid_until": null,
+      "tags": [
+        "analogie",
+        "outil-utilisateur"
+      ]
+    },
+    {
+      "id": "logic-raisonnement-0011",
+      "type": "MATCHING",
+      "language": "ar",
+      "stem": "اربط كلّ زوج من الكلمات بنوع العلاقة التي تجمع بين عنصريه.",
+      "options": [
+        {
+          "id": "l1",
+          "text": "عجلة / سيارة",
+          "side": "left"
+        },
+        {
+          "id": "l2",
+          "text": "شجاع / جبان",
+          "side": "left"
+        },
+        {
+          "id": "l3",
+          "text": "أمطار غزيرة / فيضان",
+          "side": "left"
+        },
+        {
+          "id": "l4",
+          "text": "نحلة / خليّة",
+          "side": "left"
+        },
+        {
+          "id": "r1",
+          "text": "تضادّ",
+          "side": "right"
+        },
+        {
+          "id": "r2",
+          "text": "كائن ومسكنه",
+          "side": "right"
+        },
+        {
+          "id": "r3",
+          "text": "جزء من كلّ",
+          "side": "right"
+        },
+        {
+          "id": "r4",
+          "text": "سبب ونتيجة",
+          "side": "right"
+        }
+      ],
+      "correct": {
+        "pairs": [
+          [
+            "l1",
+            "r3"
+          ],
+          [
+            "l2",
+            "r1"
+          ],
+          [
+            "l3",
+            "r4"
+          ],
+          [
+            "l4",
+            "r2"
+          ]
+        ]
+      },
+      "explanation": "العجلة جزء من السيارة (جزء من كلّ)، والشجاع ضدّ الجبان (تضادّ). الأمطار الغزيرة قد تتسبّب في الفيضان (سبب ونتيجة)، والخليّة مسكن النحل (كائن ومسكنه). ينبغي الانتباه إلى ترتيب العنصرين: في «أمطار غزيرة / فيضان» يأتي السبب أوّلًا ثم النتيجة.",
+      "difficulty": "MEDIUM",
+      "topic_key": "lo.analogies",
+      "objective_key": "lo.analogies.o1",
+      "families": [
+        "*"
+      ],
+      "origin": "AI_GENERATED",
+      "source_key": null,
+      "year": null,
+      "valid_until": null,
+      "tags": [
+        "تشابه",
+        "أنواع العلاقات"
+      ]
+    },
+    {
+      "id": "logic-raisonnement-0012",
+      "type": "MCQ_SINGLE",
+      "language": "fr",
+      "stem": "Complétez l'analogie : « ABC est à ZYX ce que DEF est à … »",
+      "options": [
+        {
+          "id": "a",
+          "text": "UVW"
+        },
+        {
+          "id": "b",
+          "text": "GHI"
+        },
+        {
+          "id": "c",
+          "text": "WVU"
+        },
+        {
+          "id": "d",
+          "text": "XWV"
+        }
+      ],
+      "correct": [
+        "c"
+      ],
+      "explanation": "Chaque lettre est remplacée par sa lettre « miroir » dans l'alphabet : A (1re) ↔ Z (26e), B ↔ Y, C ↔ X ; la somme des rangs vaut toujours 27. Ainsi D (4e) ↔ W (23e), E (5e) ↔ V (22e) et F (6e) ↔ U (21e), d'où WVU. « UVW » contient les bonnes lettres mais dans le mauvais ordre, et « XWV » résulte d'un décalage d'une lettre.",
+      "difficulty": "HARD",
+      "topic_key": "lo.analogies",
+      "objective_key": "lo.analogies.o1",
+      "families": [
+        "*"
+      ],
+      "origin": "AI_GENERATED",
+      "source_key": null,
+      "year": null,
+      "valid_until": null,
+      "tags": [
+        "analogie",
+        "lettres",
+        "alphabet inversé"
+      ]
+    },
+    {
+      "id": "logic-raisonnement-0013",
+      "type": "MCQ_MULTI",
+      "language": "ar",
+      "stem": "اختر الأزواج التي تربط بين عنصريها العلاقة نفسها الموجودة بين «دَرَسَ» و«مَدْرَسة». (يمكن اختيار أكثر من إجابة)",
+      "options": [
+        {
+          "id": "a",
+          "text": "كَتَبَ : كاتِب"
+        },
+        {
+          "id": "b",
+          "text": "خَبَزَ : خَبّاز"
+        },
+        {
+          "id": "c",
+          "text": "لَعِبَ : مَلْعَب"
+        },
+        {
+          "id": "d",
+          "text": "سَجَدَ : مَسْجِد"
+        }
+      ],
+      "correct": [
+        "c",
+        "d"
+      ],
+      "explanation": "«مدرسة» اسم مكان مشتقّ من الفعل «درس»، أي المكان الذي يُدرَس فيه. وكذلك «ملعب» مكان اللعب و«مسجد» مكان السجود، فهما اسما مكان. أمّا «كاتب» فاسم فاعل يدلّ على من يقوم بالفعل، و«خبّاز» صيغة تدلّ على صاحب الحرفة، فلا يدلّ أيّ منهما على المكان.",
+      "difficulty": "HARD",
+      "topic_key": "lo.analogies",
+      "objective_key": "lo.analogies.o1",
+      "families": [
+        "*"
+      ],
+      "origin": "AI_GENERATED",
+      "source_key": null,
+      "year": null,
+      "valid_until": null,
+      "tags": [
+        "تشابه",
+        "اسم المكان",
+        "اشتقاق"
+      ]
+    },
+    {
+      "id": "logic-raisonnement-0014",
+      "type": "MCQ_SINGLE",
+      "language": "fr",
+      "stem": "Complétez l'analogie à deux termes manquants : « … est à oiseau ce que nageoire est à … »",
+      "options": [
+        {
+          "id": "a",
+          "text": "Aile / poisson"
+        },
+        {
+          "id": "b",
+          "text": "Plume / eau"
+        },
+        {
+          "id": "c",
+          "text": "Bec / requin"
+        },
+        {
+          "id": "d",
+          "text": "Nid / mer"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "explanation": "La nageoire est l'organe qui permet au poisson de se déplacer ; l'organe équivalent chez l'oiseau est l'aile. Le piège est « Bec / requin » : le requin est bien un poisson à nageoires, mais le bec n'est pas un organe de déplacement, donc la relation n'est pas conservée. Dans « Plume / eau » et « Nid / mer », le second terme est un milieu ou un lieu, pas un animal.",
+      "difficulty": "HARD",
+      "topic_key": "lo.analogies",
+      "objective_key": "lo.analogies.o1",
+      "families": [
+        "*"
+      ],
+      "origin": "AI_GENERATED",
+      "source_key": null,
+      "year": null,
+      "valid_until": null,
+      "tags": [
+        "analogie",
+        "double analogie",
+        "organe-fonction"
+      ]
+    },
+    {
+      "id": "logic-raisonnement-0015",
+      "type": "MCQ_SINGLE",
+      "language": "ar",
+      "stem": "لاحظ العلاقة: (3 ، 4) ← 712 و(5 ، 2) ← 710. ما الذي يقابل (6 ، 3)؟",
+      "options": [
+        {
+          "id": "a",
+          "text": "927"
+        },
+        {
+          "id": "b",
+          "text": "1818"
+        },
+        {
+          "id": "c",
+          "text": "918"
+        },
+        {
+          "id": "d",
+          "text": "963"
+        }
+      ],
+      "correct": [
+        "c"
+      ],
+      "explanation": "يتكوّن الناتج من مجموع العددين متبوعًا بجدائهما: 3 + 4 = 7 و3 × 4 = 12، فنحصل على 712؛ و5 + 2 = 7 و5 × 2 = 10، فنحصل على 710. إذن 6 + 3 = 9 و6 × 3 = 18، والناتج 918. أمّا «1818» فيكتفي بالجداء مرّتين، ولا ينطبق ذلك على (3 ، 4) لأنه يعطي 1212 لا 712.",
+      "difficulty": "EXPERT",
+      "topic_key": "lo.analogies",
+      "objective_key": "lo.analogies.o1",
+      "families": [
+        "*"
+      ],
+      "origin": "AI_GENERATED",
+      "source_key": null,
+      "year": null,
+      "valid_until": null,
+      "tags": [
+        "تشابه عددي",
+        "قاعدة مركّبة"
+      ]
+    },
+    {
+      "id": "logic-raisonnement-0016",
+      "type": "MCQ_SINGLE",
+      "language": "fr",
+      "stem": "« Tous les fonctionnaires de ce ministère sont titulaires d'un diplôme. Karim est fonctionnaire de ce ministère. » Quelle conclusion est valide ?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Karim est titulaire d'un diplôme."
+        },
+        {
+          "id": "b",
+          "text": "Karim n'a pas de diplôme."
+        },
+        {
+          "id": "c",
+          "text": "Tous les diplômés sont fonctionnaires de ce ministère."
+        },
+        {
+          "id": "d",
+          "text": "Karim est le seul diplômé du ministère."
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "explanation": "Karim appartient à l'ensemble des fonctionnaires du ministère, et tous les éléments de cet ensemble sont diplômés : il est donc diplômé. La réponse c inverse la première prémisse (« tous les A sont B » ne signifie pas « tous les B sont A »). La réponse d ajoute une information que les prémisses ne donnent pas.",
+      "difficulty": "EASY",
+      "topic_key": "lo.syllogismes",
+      "objective_key": "lo.syllogismes.o1",
+      "families": [
+        "*"
+      ],
+      "origin": "AI_GENERATED",
+      "source_key": null,
+      "year": null,
+      "valid_until": null,
+      "tags": [
+        "syllogisme",
+        "déduction directe"
+      ]
+    },
+    {
+      "id": "logic-raisonnement-0017",
+      "type": "MCQ_SINGLE",
+      "language": "ar",
+      "stem": "«كلّ الطيور لها ريش. البطريق طائر.» ما الاستنتاج الصحيح؟",
+      "options": [
+        {
+          "id": "a",
+          "text": "البطريق له ريش."
+        },
+        {
+          "id": "b",
+          "text": "البطريق يطير."
+        },
+        {
+          "id": "c",
+          "text": "كلّ ما له ريش فهو طائر."
+        },
+        {
+          "id": "d",
+          "text": "البطريق ليس له ريش."
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "explanation": "بما أنّ البطريق ينتمي إلى مجموعة الطيور، وكلّ الطيور لها ريش، فالبطريق له ريش. أمّا «البطريق يطير» فلا يُستنتج من المقدّمتين لأنهما لا تتحدّثان عن الطيران أصلًا (والبطريق في الواقع لا يطير). والإجابة «ج» تقلب المقدّمة الأولى قلبًا غير جائز.",
+      "difficulty": "EASY",
+      "topic_key": "lo.syllogismes",
+      "objective_key": "lo.syllogismes.o1",
+      "families": [
+        "*"
+      ],
+      "origin": "AI_GENERATED",
+      "source_key": null,
+      "year": null,
+      "valid_until": null,
+      "tags": [
+        "قياس منطقي",
+        "استنتاج مباشر"
+      ]
+    },
+    {
+      "id": "logic-raisonnement-0018",
+      "type": "TRUE_FALSE",
+      "language": "fr",
+      "stem": "Vrai ou faux : à partir des prémisses « Tous les médecins sont diplômés » et « Sami est diplômé », on peut conclure avec certitude que « Sami est médecin ».",
+      "options": [
+        {
+          "id": "a",
+          "text": "Vrai"
+        },
+        {
+          "id": "b",
+          "text": "Faux"
+        }
+      ],
+      "correct": [
+        "b"
+      ],
+      "explanation": "C'est faux : la première prémisse dit que les médecins font partie des diplômés, mais pas que tous les diplômés sont médecins. Sami peut être diplômé en droit, en informatique ou en lettres sans être médecin. Conclure qu'il est médecin revient à inverser la prémisse, ce qui est une erreur de raisonnement classique.",
+      "difficulty": "EASY",
+      "topic_key": "lo.syllogismes",
+      "objective_key": "lo.syllogismes.o1",
+      "families": [
+        "*"
+      ],
+      "origin": "AI_GENERATED",
+      "source_key": null,
+      "year": null,
+      "valid_until": null,
+      "tags": [
+        "syllogisme",
+        "erreur logique",
+        "réciproque"
+      ]
+    },
+    {
+      "id": "logic-raisonnement-0019",
+      "type": "MCQ_SINGLE",
+      "language": "ar",
+      "stem": "«لا أحد من المتأخّرين يُسمح له بدخول قاعة الامتحان. سامي متأخّر.» ما الاستنتاج الصحيح؟",
+      "options": [
+        {
+          "id": "a",
+          "text": "يُسمح لسامي بدخول القاعة."
+        },
+        {
+          "id": "b",
+          "text": "بعض المتأخّرين يدخلون القاعة."
+        },
+        {
+          "id": "c",
+          "text": "سيُعيد سامي الامتحان في دورة لاحقة."
+        },
+        {
+          "id": "d",
+          "text": "لا يُسمح لسامي بدخول القاعة."
+        }
+      ],
+      "correct": [
+        "d"
+      ],
+      "explanation": "المقدّمة الأولى تنفي الدخول عن جميع المتأخّرين دون استثناء، وسامي واحد منهم، فلا يُسمح له بالدخول. أمّا «سيُعيد الامتحان» فمعلومة جديدة لا تتضمّنها المقدّمتان، و«بعض المتأخّرين يدخلون» يناقض المقدّمة الأولى.",
+      "difficulty": "EASY",
+      "topic_key": "lo.syllogismes",
+      "objective_key": "lo.syllogismes.o1",
+      "families": [
+        "*"
+      ],
+      "origin": "AI_GENERATED",
+      "source_key": null,
+      "year": null,
+      "valid_until": null,
+      "tags": [
+        "قياس منطقي",
+        "نفي كلّي"
+      ]
+    },
+    {
+      "id": "logic-raisonnement-0020",
+      "type": "MCQ_SINGLE",
+      "language": "fr",
+      "stem": "« Tous les A sont B. Aucun B n'est C. » Quelle conclusion est nécessairement vraie ?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Certains A sont C."
+        },
+        {
+          "id": "b",
+          "text": "Aucun A n'est C."
+        },
+        {
+          "id": "c",
+          "text": "Tous les C sont A."
+        },
+        {
+          "id": "d",
+          "text": "Certains C sont B."
+        }
+      ],
+      "correct": [
+        "b"
+      ],
+      "explanation": "Tout A se trouve dans l'ensemble B, et l'ensemble B n'a aucun élément commun avec C : un A ne peut donc jamais être C. La réponse d contredit directement la seconde prémisse (aucun B n'est C, donc aucun C n'est B). Les réponses a et c affirment des liens que les prémisses excluent ou n'établissent pas.",
+      "difficulty": "MEDIUM",
+      "topic_key": "lo.syllogismes",
+      "objective_key": "lo.syllogismes.o1",
+      "families": [
+        "*"
+      ],
+      "origin": "AI_GENERATED",
+      "source_key": null,
+      "year": null,
+      "valid_until": null,
+      "tags": [
+        "syllogisme",
+        "ensembles",
+        "négation universelle"
+      ]
+    },
+    {
+      "id": "logic-raisonnement-0021",
+      "type": "MCQ_MULTI",
+      "language": "ar",
+      "stem": "«بعض الموظفين رياضيون. كلّ الرياضيين منضبطون.» أيّ العبارات التالية صحيحة حتمًا؟ (يمكن اختيار أكثر من إجابة)",
+      "options": [
+        {
+          "id": "a",
+          "text": "بعض الموظفين منضبطون."
+        },
+        {
+          "id": "b",
+          "text": "بعض المنضبطين موظفون."
+        },
+        {
+          "id": "c",
+          "text": "كلّ الموظفين منضبطون."
+        },
+        {
+          "id": "d",
+          "text": "بعض الموظفين غير منضبطين."
+        }
+      ],
+      "correct": [
+        "a",
+        "b"
+      ],
+      "explanation": "الموظفون الرياضيون منضبطون لأنّ كلّ الرياضيين منضبطون، إذن يوجد موظفون منضبطون (أ)، وهؤلاء أنفسهم منضبطون وموظفون في الوقت نفسه (ب). أمّا «كلّ الموظفين منضبطون» فتعميم غير مبرَّر لأنّ المقدّمة تتحدّث عن «بعض» الموظفين فقط. و«بعض الموظفين غير منضبطين» ممكنة لكنها غير مؤكّدة.",
+      "difficulty": "MEDIUM",
+      "topic_key": "lo.syllogismes",
+      "objective_key": "lo.syllogismes.o1",
+      "families": [
+        "*"
+      ],
+      "origin": "AI_GENERATED",
+      "source_key": null,
+      "year": null,
+      "valid_until": null,
+      "tags": [
+        "قياس منطقي",
+        "الكمّ الجزئي"
+      ]
+    },
+    {
+      "id": "logic-raisonnement-0022",
+      "type": "MCQ_SINGLE",
+      "language": "fr",
+      "stem": "« S'il pleut, la route est mouillée. Or la route n'est pas mouillée. » Que peut-on conclure ?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Il pleut."
+        },
+        {
+          "id": "b",
+          "text": "Il ne pleut pas."
+        },
+        {
+          "id": "c",
+          "text": "La route est sèche parce qu'il fait chaud."
+        },
+        {
+          "id": "d",
+          "text": "On ne peut rien conclure."
+        }
+      ],
+      "correct": [
+        "b"
+      ],
+      "explanation": "Si la pluie entraîne toujours une route mouillée, alors une route non mouillée prouve qu'il ne pleut pas : c'est le raisonnement par contraposition (modus tollens). La réponse d est fausse car la conclusion découle bien des prémisses. La réponse c introduit une cause (la chaleur) dont les prémisses ne parlent pas.",
+      "difficulty": "MEDIUM",
+      "topic_key": "lo.syllogismes",
+      "objective_key": "lo.syllogismes.o1",
+      "families": [
+        "*"
+      ],
+      "origin": "AI_GENERATED",
+      "source_key": null,
+      "year": null,
+      "valid_until": null,
+      "tags": [
+        "implication",
+        "modus tollens"
+      ]
+    },
+    {
+      "id": "logic-raisonnement-0023",
+      "type": "TRUE_FALSE",
+      "language": "ar",
+      "stem": "صحيح أم خطأ: «إذا نجح المترشّح في الاختبار الكتابي فإنه يُدعى إلى الاختبار الشفاهي. لم ينجح أحمد في الاختبار الكتابي.» إذن يمكن الجزم منطقيًا بأنّ أحمد لم يُدعَ إلى الاختبار الشفاهي.",
+      "options": [
+        {
+          "id": "a",
+          "text": "صحيح"
+        },
+        {
+          "id": "b",
+          "text": "خطأ"
+        }
+      ],
+      "correct": [
+        "b"
+      ],
+      "explanation": "العبارة خاطئة منطقيًا: المقدّمة تقول إنّ النجاح في الكتابي يؤدّي إلى الدعوة، لكنها لا تقول إنه الطريق الوحيد إليها. فنفي الشرط (عدم النجاح) لا يسمح بالجزم بنفي النتيجة، وهذا خطأ معروف يُسمّى «نفي المقدَّم». أمّا الاستنتاج الصحيح فيكون في الاتجاه المعاكس: من لم يُدعَ إلى الشفاهي لم ينجح في الكتابي.",
+      "difficulty": "MEDIUM",
+      "topic_key": "lo.syllogismes",
+      "objective_key": "lo.syllogismes.o1",
+      "families": [
+        "*"
+      ],
+      "origin": "AI_GENERATED",
+      "source_key": null,
+      "year": null,
+      "valid_until": null,
+      "tags": [
+        "شرط",
+        "نفي المقدّم",
+        "مغالطة"
+      ]
+    },
+    {
+      "id": "logic-raisonnement-0024",
+      "type": "MCQ_SINGLE",
+      "language": "ar",
+      "stem": "«كلّ من يحمل بطاقة دخول يُسمح له بالدخول. كلّ المترشّحين المسجَّلين يحملون بطاقة دخول.» ما الاستنتاج الصحيح؟",
+      "options": [
+        {
+          "id": "a",
+          "text": "كلّ المترشّحين المسجَّلين يُسمح لهم بالدخول."
+        },
+        {
+          "id": "b",
+          "text": "كلّ من يُسمح له بالدخول مترشّح مسجَّل."
+        },
+        {
+          "id": "c",
+          "text": "بعض المترشّحين المسجَّلين لا يُسمح لهم بالدخول."
+        },
+        {
+          "id": "d",
+          "text": "كلّ من يحمل بطاقة دخول مترشّح مسجَّل."
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "explanation": "المترشّحون المسجَّلون كلّهم يحملون بطاقة، وكلّ حامل بطاقة يُسمح له بالدخول، إذن يُسمح لجميعهم بالدخول. أمّا «ب» و«د» فتقلبان العلاقة: قد يُسمح بالدخول لأشخاص آخرين يحملون بطاقة (مراقبين مثلًا) دون أن يكونوا مترشّحين. و«ج» تناقض المقدّمتين.",
+      "difficulty": "MEDIUM",
+      "topic_key": "lo.syllogismes",
+      "objective_key": "lo.syllogismes.o1",
+      "families": [
+        "*"
+      ],
+      "origin": "AI_GENERATED",
+      "source_key": null,
+      "year": null,
+      "valid_until": null,
+      "tags": [
+        "قياس منطقي",
+        "تعدية"
+      ]
+    },
+    {
+      "id": "logic-raisonnement-0025",
+      "type": "MCQ_SINGLE",
+      "language": "ar",
+      "stem": "أيّ العبارات التالية تكافئ منطقيًا العبارة: «كلّ من ينجح في المناظرة يكون قد اجتاز الاختبار البدني»؟",
+      "options": [
+        {
+          "id": "a",
+          "text": "كلّ من اجتاز الاختبار البدني ينجح في المناظرة."
+        },
+        {
+          "id": "b",
+          "text": "كلّ من لم يجتز الاختبار البدني لا ينجح في المناظرة."
+        },
+        {
+          "id": "c",
+          "text": "كلّ من لم ينجح في المناظرة لم يجتز الاختبار البدني."
+        },
+        {
+          "id": "d",
+          "text": "بعض الناجحين في المناظرة لم يجتازوا الاختبار البدني."
+        }
+      ],
+      "correct": [
+        "b"
+      ],
+      "explanation": "العبارة من شكل «إذا كان (أ) فإنّ (ب)»، ومكافئها المنطقي هو عكس النقيض: «إذا لم يكن (ب) فلن يكون (أ)»، أي من لم يجتز الاختبار البدني لا يمكن أن ينجح. أمّا «أ» فهي العكس، وليست مكافئة لأنّ اجتياز الاختبار البدني شرط لازم لا كافٍ. و«ج» نفي للطرفين دون عكس، وهي غير مكافئة أيضًا، و«د» تناقض العبارة الأصلية.",
+      "difficulty": "MEDIUM",
+      "topic_key": "lo.syllogismes",
+      "objective_key": "lo.syllogismes.o1",
+      "families": [
+        "*"
+      ],
+      "origin": "AI_GENERATED",
+      "source_key": null,
+      "year": null,
+      "valid_until": null,
+      "tags": [
+        "شرط",
+        "عكس النقيض",
+        "تكافؤ منطقي"
+      ]
+    },
+    {
+      "id": "logic-raisonnement-0026",
+      "type": "MCQ_MULTI",
+      "language": "fr",
+      "stem": "« Tous les inspecteurs sont assermentés. Aucun stagiaire n'est assermenté. Certains inspecteurs sont des femmes. » Quelles affirmations sont NÉCESSAIREMENT vraies ? (plusieurs réponses possibles)",
+      "options": [
+        {
+          "id": "a",
+          "text": "Aucun inspecteur n'est stagiaire."
+        },
+        {
+          "id": "b",
+          "text": "Certaines femmes sont assermentées."
+        },
+        {
+          "id": "c",
+          "text": "Aucune femme n'est stagiaire."
+        },
+        {
+          "id": "d",
+          "text": "Tous les assermentés sont inspecteurs."
+        }
+      ],
+      "correct": [
+        "a",
+        "b"
+      ],
+      "explanation": "Un inspecteur stagiaire serait à la fois assermenté et non assermenté, ce qui est impossible : aucun inspecteur n'est stagiaire (a). Les inspectrices sont assermentées comme tous les inspecteurs, donc certaines femmes sont assermentées (b). En revanche, rien n'interdit qu'une femme qui n'est pas inspectrice soit stagiaire (c n'est pas certain), et la prémisse 1 ne dit pas que seuls les inspecteurs sont assermentés (d inverse la prémisse).",
+      "difficulty": "HARD",
+      "topic_key": "lo.syllogismes",
+      "objective_key": "lo.syllogismes.o1",
+      "families": [
+        "*"
+      ],
+      "origin": "AI_GENERATED",
+      "source_key": null,
+      "year": null,
+      "valid_until": null,
+      "tags": [
+        "syllogisme",
+        "prémisses multiples"
+      ]
+    },
+    {
+      "id": "logic-raisonnement-0027",
+      "type": "MCQ_SINGLE",
+      "language": "fr",
+      "stem": "« Aucun poète n'est comptable. Certains comptables sont musiciens. » Quelle conclusion est nécessairement vraie ?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Certains musiciens ne sont pas poètes."
+        },
+        {
+          "id": "b",
+          "text": "Aucun musicien n'est poète."
+        },
+        {
+          "id": "c",
+          "text": "Certains poètes ne sont pas musiciens."
+        },
+        {
+          "id": "d",
+          "text": "Certains musiciens sont poètes."
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "explanation": "Les comptables musiciens existent (prémisse 2) et, étant comptables, ils ne peuvent pas être poètes (prémisse 1) : il existe donc des musiciens qui ne sont pas poètes. La réponse c est le piège principal : les prémisses ne disent rien des poètes musiciens, tous les poètes pourraient très bien être musiciens. Les réponses b et d affirment des relations que les prémisses ne permettent ni d'établir ni d'exclure.",
+      "difficulty": "HARD",
+      "topic_key": "lo.syllogismes",
+      "objective_key": "lo.syllogismes.o1",
+      "families": [
+        "*"
+      ],
+      "origin": "AI_GENERATED",
+      "source_key": null,
+      "year": null,
+      "valid_until": null,
+      "tags": [
+        "syllogisme",
+        "particulière négative"
+      ]
+    },
+    {
+      "id": "logic-raisonnement-0028",
+      "type": "MCQ_SINGLE",
+      "language": "fr",
+      "stem": "Quelle est la négation logique de la proposition : « S'il fait beau, alors je sors » ?",
+      "options": [
+        {
+          "id": "a",
+          "text": "S'il ne fait pas beau, alors je ne sors pas."
+        },
+        {
+          "id": "b",
+          "text": "Il fait beau et je ne sors pas."
+        },
+        {
+          "id": "c",
+          "text": "Il ne fait pas beau et je sors."
+        },
+        {
+          "id": "d",
+          "text": "Si je sors, alors il fait beau."
+        }
+      ],
+      "correct": [
+        "b"
+      ],
+      "explanation": "Une implication « si P alors Q » n'est fausse que dans un seul cas : P est vrai et Q est faux. Sa négation est donc « P et non Q », c'est-à-dire « il fait beau et je ne sors pas ». La réponse a (« si non P alors non Q ») est une autre implication, compatible avec la phrase de départ, et non sa négation. La réponse c ne contredit pas la phrase initiale, qui ne dit rien des jours sans beau temps.",
+      "difficulty": "HARD",
+      "topic_key": "lo.syllogismes",
+      "objective_key": "lo.syllogismes.o1",
+      "families": [
+        "*"
+      ],
+      "origin": "AI_GENERATED",
+      "source_key": null,
+      "year": null,
+      "valid_until": null,
+      "tags": [
+        "implication",
+        "négation"
+      ]
+    },
+    {
+      "id": "logic-raisonnement-0029",
+      "type": "MCQ_SINGLE",
+      "language": "fr",
+      "stem": "« (1) Tous les agents de la brigade A parlent anglais. (2) Aucun agent qui parle anglais n'est affecté au service X. (3) Certains agents affectés au service X ont plus de 40 ans. » Quelle conclusion est nécessairement vraie ?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Certains agents de plus de 40 ans ne font pas partie de la brigade A."
+        },
+        {
+          "id": "b",
+          "text": "Aucun agent de la brigade A n'a plus de 40 ans."
+        },
+        {
+          "id": "c",
+          "text": "Tous les agents de plus de 40 ans sont affectés au service X."
+        },
+        {
+          "id": "d",
+          "text": "Certains agents de la brigade A sont affectés au service X."
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "explanation": "Les agents du service X ne parlent pas anglais (2) ; or tout agent de la brigade A parle anglais (1), donc aucun agent du service X n'appartient à la brigade A. Les agents du service X âgés de plus de 40 ans (3) existent et ne sont pas de la brigade A : la réponse a est donc certaine. La réponse d contredit les prémisses 1 et 2, et les réponses b et c généralisent sans justification.",
+      "difficulty": "EXPERT",
+      "topic_key": "lo.syllogismes",
+      "objective_key": "lo.syllogismes.o1",
+      "families": [
+        "*"
+      ],
+      "origin": "AI_GENERATED",
+      "source_key": null,
+      "year": null,
+      "valid_until": null,
+      "tags": [
+        "syllogisme",
+        "chaîne de prémisses"
+      ]
+    },
+    {
+      "id": "logic-raisonnement-0030",
+      "type": "MCQ_SINGLE",
+      "language": "ar",
+      "stem": "«إمّا أن يكون المكتب مغلقًا أو أن يكون الموظّف حاضرًا (وقد يتحقّق الأمران معًا). إذا كان الموظّف حاضرًا فإنّ الملفّات تُعالَج. لم تُعالَج الملفّات.» ماذا نستنتج حتمًا؟",
+      "options": [
+        {
+          "id": "a",
+          "text": "المكتب مغلق والموظّف غائب."
+        },
+        {
+          "id": "b",
+          "text": "المكتب مفتوح والموظّف غائب."
+        },
+        {
+          "id": "c",
+          "text": "الموظّف حاضر لكنه لم يعالج الملفّات."
+        },
+        {
+          "id": "d",
+          "text": "لا يمكن استنتاج أيّ شيء عن المكتب."
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "explanation": "بما أنّ الملفّات لم تُعالَج، فالموظّف ليس حاضرًا، لأنّ حضوره يؤدّي حتمًا إلى معالجتها (عكس النقيض). ثمّ إنّ أحد الأمرين على الأقل صحيح (المكتب مغلق أو الموظّف حاضر)، وبما أنّ الموظّف غائب فالمكتب مغلق. أمّا «د» فخاطئة لأنّ الجمع بين المقدّمات الثلاث يحسم وضع المكتب، و«ج» تناقض المقدّمة الثانية.",
+      "difficulty": "EXPERT",
+      "topic_key": "lo.syllogismes",
+      "objective_key": "lo.syllogismes.o1",
+      "families": [
+        "*"
+      ],
+      "origin": "AI_GENERATED",
+      "source_key": null,
+      "year": null,
+      "valid_until": null,
+      "tags": [
+        "شرط",
+        "قياس انفصالي",
+        "استنتاج متسلسل"
+      ]
+    },
+    {
+      "id": "logic-raisonnement-0031",
+      "type": "MCQ_SINGLE",
+      "language": "fr",
+      "stem": "Ali est plus grand que Sami. Sami est plus grand que Hédi. Qui est le plus petit des trois ?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Ali"
+        },
+        {
+          "id": "b",
+          "text": "Sami"
+        },
+        {
+          "id": "c",
+          "text": "Hédi"
+        },
+        {
+          "id": "d",
+          "text": "On ne peut pas savoir."
+        }
+      ],
+      "correct": [
+        "c"
+      ],
+      "explanation": "On obtient l'ordre Ali > Sami > Hédi : la relation « plus grand que » est transitive, donc Ali est aussi plus grand que Hédi. Hédi est par conséquent le plus petit. La réponse d est fausse car les deux comparaisons suffisent à classer les trois personnes.",
+      "difficulty": "EASY",
+      "topic_key": "lo.raisonnement-verbal",
+      "objective_key": "lo.raisonnement-verbal.o1",
+      "families": [
+        "*"
+      ],
+      "origin": "AI_GENERATED",
+      "source_key": null,
+      "year": null,
+      "valid_until": null,
+      "tags": [
+        "ordre",
+        "transitivité"
+      ]
+    },
+    {
+      "id": "logic-raisonnement-0032",
+      "type": "MCQ_SINGLE",
+      "language": "ar",
+      "stem": "سلمى هي أخت والد أحمد. ما صلة سلمى بأحمد؟",
+      "options": [
+        {
+          "id": "a",
+          "text": "خالته"
+        },
+        {
+          "id": "b",
+          "text": "أخته"
+        },
+        {
+          "id": "c",
+          "text": "عمّته"
+        },
+        {
+          "id": "d",
+          "text": "جدّته"
+        }
+      ],
+      "correct": [
+        "c"
+      ],
+      "explanation": "أخت الأب هي العمّة، فسلمى عمّة أحمد. أمّا «الخالة» فهي أخت الأم، وهو الخطأ الأكثر شيوعًا في هذا النوع من الأسئلة. و«الجدّة» أمّ أحد الوالدين لا أخته.",
+      "difficulty": "EASY",
+      "topic_key": "lo.raisonnement-verbal",
+      "objective_key": "lo.raisonnement-verbal.o1",
+      "families": [
+        "*"
+      ],
+      "origin": "AI_GENERATED",
+      "source_key": null,
+      "year": null,
+      "valid_until": null,
+      "tags": [
+        "علاقات قرابة"
+      ]
+    },
+    {
+      "id": "logic-raisonnement-0033",
+      "type": "NUMERIC",
+      "language": "fr",
+      "stem": "Dans une file d'attente, Mehdi est le 7e en partant de l'avant et le 5e en partant de l'arrière. Combien de personnes y a-t-il dans la file ?",
+      "options": [],
+      "correct": {
+        "value": 11,
+        "tolerance": 0
+      },
+      "explanation": "Il y a 6 personnes devant Mehdi et 4 personnes derrière lui. Avec Mehdi, cela fait 6 + 4 + 1 = 11 personnes, soit aussi 7 + 5 − 1 = 11. L'erreur fréquente est de répondre 12 en additionnant 7 et 5 : on compte alors Mehdi deux fois.",
+      "difficulty": "EASY",
+      "topic_key": "lo.raisonnement-verbal",
+      "objective_key": "lo.raisonnement-verbal.o1",
+      "families": [
+        "*"
+      ],
+      "origin": "AI_GENERATED",
+      "source_key": null,
+      "year": null,
+      "valid_until": null,
+      "tags": [
+        "rang",
+        "file d'attente"
+      ]
+    },
+    {
+      "id": "logic-raisonnement-0034",
+      "type": "TRUE_FALSE",
+      "language": "ar",
+      "stem": "صحيح أم خطأ: إذا كان اليوم أربعاء، فإنّ اليوم الذي يأتي بعد 10 أيام هو السبت.",
+      "options": [
+        {
+          "id": "a",
+          "text": "صحيح"
+        },
+        {
+          "id": "b",
+          "text": "خطأ"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "explanation": "العبارة صحيحة: بعد 7 أيام نعود إلى يوم الأربعاء، وتبقى 3 أيام (10 − 7 = 3). ثلاثة أيام بعد الأربعاء: الخميس ثم الجمعة ثم السبت.",
+      "difficulty": "EASY",
+      "topic_key": "lo.raisonnement-verbal",
+      "objective_key": "lo.raisonnement-verbal.o1",
+      "families": [
+        "*"
+      ],
+      "origin": "AI_GENERATED",
+      "source_key": null,
+      "year": null,
+      "valid_until": null,
+      "tags": [
+        "أيام الأسبوع",
+        "حساب زمني"
+      ]
+    },
+    {
+      "id": "logic-raisonnement-0035",
+      "type": "TRUE_FALSE",
+      "language": "fr",
+      "stem": "Karim est arrivé avant Nadia. Nadia est arrivée avant Olfa. Vrai ou faux : Olfa est arrivée avant Karim.",
+      "options": [
+        {
+          "id": "a",
+          "text": "Vrai"
+        },
+        {
+          "id": "b",
+          "text": "Faux"
+        }
+      ],
+      "correct": [
+        "b"
+      ],
+      "explanation": "C'est faux : l'ordre d'arrivée est Karim, puis Nadia, puis Olfa. Comme « arriver avant » est une relation transitive, Karim est arrivé avant Olfa, et non l'inverse.",
+      "difficulty": "EASY",
+      "topic_key": "lo.raisonnement-verbal",
+      "objective_key": "lo.raisonnement-verbal.o1",
+      "families": [
+        "*"
+      ],
+      "origin": "AI_GENERATED",
+      "source_key": null,
+      "year": null,
+      "valid_until": null,
+      "tags": [
+        "ordre",
+        "chronologie"
+      ]
+    },
+    {
+      "id": "logic-raisonnement-0036",
+      "type": "MCQ_SINGLE",
+      "language": "ar",
+      "stem": "يجلس خمسة أشخاص في صفّ واحد (اليمين واليسار بالنسبة إلى من ينظر إليهم من الأمام): كريم في أقصى اليسار، وهدى بجانب كريم، ونور في المقعد الأوسط، وسامي يجلس مباشرةً على يمين ليلى. من يجلس في أقصى اليمين؟",
+      "options": [
+        {
+          "id": "a",
+          "text": "سامي"
+        },
+        {
+          "id": "b",
+          "text": "ليلى"
+        },
+        {
+          "id": "c",
+          "text": "نور"
+        },
+        {
+          "id": "d",
+          "text": "هدى"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "explanation": "نرقّم المقاعد من 1 (أقصى اليسار) إلى 5 (أقصى اليمين): كريم في 1، وهدى بجانبه في 2، ونور في الوسط أي في 3. يبقى المقعدان 4 و5 لسامي وليلى، وبما أنّ سامي على يمين ليلى مباشرةً، فليلى في 4 وسامي في 5. ومن يختار «ليلى» يكون قد عكس اتجاه اليمين.",
+      "difficulty": "MEDIUM",
+      "topic_key": "lo.raisonnement-verbal",
+      "objective_key": "lo.raisonnement-verbal.o1",
+      "families": [
+        "*"
+      ],
+      "origin": "AI_GENERATED",
+      "source_key": null,
+      "year": null,
+      "valid_until": null,
+      "tags": [
+        "ترتيب مكاني",
+        "جلوس في صفّ"
+      ]
+    },
+    {
+      "id": "logic-raisonnement-0037",
+      "type": "ORDERING",
+      "language": "fr",
+      "stem": "Classez ces quatre personnes de la plus âgée à la plus jeune, sachant que : Amel est plus jeune que Bilel ; Chokri est plus âgé que Bilel ; Dorra est plus jeune qu'Amel.",
+      "options": [
+        {
+          "id": "a",
+          "text": "Amel"
+        },
+        {
+          "id": "b",
+          "text": "Bilel"
+        },
+        {
+          "id": "c",
+          "text": "Chokri"
+        },
+        {
+          "id": "d",
+          "text": "Dorra"
+        }
+      ],
+      "correct": {
+        "order": [
+          "c",
+          "b",
+          "a",
+          "d"
+        ]
+      },
+      "explanation": "Chokri est plus âgé que Bilel, qui est plus âgé qu'Amel, elle-même plus âgée que Dorra. L'ordre est donc Chokri, Bilel, Amel, Dorra. Il faut bien lire le sens de chaque comparaison : « Amel est plus jeune que Bilel » place Bilel avant Amel dans un classement du plus âgé au plus jeune.",
+      "difficulty": "MEDIUM",
+      "topic_key": "lo.raisonnement-verbal",
+      "objective_key": "lo.raisonnement-verbal.o1",
+      "families": [
+        "*"
+      ],
+      "origin": "AI_GENERATED",
+      "source_key": null,
+      "year": null,
+      "valid_until": null,
+      "tags": [
+        "ordre",
+        "comparaisons d'âge"
+      ]
+    },
+    {
+      "id": "logic-raisonnement-0038",
+      "type": "MCQ_SINGLE",
+      "language": "ar",
+      "stem": "غادر أربعة موظفين المكتب في أوقات مختلفة: غادرت نادية قبل سمير وبعد رياض، وغادرت وفاء بعد سمير. من غادر أوّلًا؟",
+      "options": [
+        {
+          "id": "a",
+          "text": "سمير"
+        },
+        {
+          "id": "b",
+          "text": "نادية"
+        },
+        {
+          "id": "c",
+          "text": "وفاء"
+        },
+        {
+          "id": "d",
+          "text": "رياض"
+        }
+      ],
+      "correct": [
+        "d"
+      ],
+      "explanation": "من المعطى الأوّل نحصل على الترتيب: رياض ثم نادية ثم سمير، ومن المعطى الثاني تأتي وفاء بعد سمير. فالترتيب الكامل: رياض، نادية، سمير، وفاء، وأوّل من غادر هو رياض. أمّا «نادية» فهي الثانية، لأنها غادرت بعد رياض.",
+      "difficulty": "MEDIUM",
+      "topic_key": "lo.raisonnement-verbal",
+      "objective_key": "lo.raisonnement-verbal.o1",
+      "families": [
+        "*"
+      ],
+      "origin": "AI_GENERATED",
+      "source_key": null,
+      "year": null,
+      "valid_until": null,
+      "tags": [
+        "ترتيب زمني"
+      ]
+    },
+    {
+      "id": "logic-raisonnement-0039",
+      "type": "MCQ_SINGLE",
+      "language": "fr",
+      "stem": "Montrant la photo d'un homme, Leïla déclare : « Sa mère est la fille unique de ma mère. » Quel est le lien entre Leïla et cet homme ?",
+      "options": [
+        {
+          "id": "a",
+          "text": "C'est son frère."
+        },
+        {
+          "id": "b",
+          "text": "C'est son fils."
+        },
+        {
+          "id": "c",
+          "text": "C'est son neveu."
+        },
+        {
+          "id": "d",
+          "text": "C'est son cousin."
+        }
+      ],
+      "correct": [
+        "b"
+      ],
+      "explanation": "La « fille unique de ma mère » ne peut être que Leïla elle-même, puisque sa mère n'a qu'une fille. La mère de l'homme est donc Leïla : il est son fils. La réponse « neveu » suppose à tort que Leïla a une sœur, ce que l'expression « fille unique » exclut.",
+      "difficulty": "MEDIUM",
+      "topic_key": "lo.raisonnement-verbal",
+      "objective_key": "lo.raisonnement-verbal.o1",
+      "families": [
+        "*"
+      ],
+      "origin": "AI_GENERATED",
+      "source_key": null,
+      "year": null,
+      "valid_until": null,
+      "tags": [
+        "liens de parenté"
+      ]
+    },
+    {
+      "id": "logic-raisonnement-0040",
+      "type": "MCQ_MULTI",
+      "language": "ar",
+      "stem": "حصل خمسة مترشّحين على أعداد مختلفة: هالة أعلى من وليد، ووليد أعلى من رنا، وسليم أقلّ من رنا، ومنى أعلى من هالة. أيّ العبارات التالية صحيحة؟ (يمكن اختيار أكثر من إجابة)",
+      "options": [
+        {
+          "id": "a",
+          "text": "منى حصلت على أعلى عدد."
+        },
+        {
+          "id": "b",
+          "text": "سليم في المرتبة الرابعة."
+        },
+        {
+          "id": "c",
+          "text": "وليد في المرتبة الثالثة."
+        },
+        {
+          "id": "d",
+          "text": "هالة حصلت على عدد أقلّ من وليد."
+        }
+      ],
+      "correct": [
+        "a",
+        "c"
+      ],
+      "explanation": "الترتيب من الأعلى إلى الأدنى: منى، هالة، وليد، رنا، سليم. إذن منى في المرتبة الأولى (أ صحيحة) ووليد في المرتبة الثالثة (ج صحيحة). أمّا سليم ففي المرتبة الخامسة والأخيرة لا الرابعة، وهالة أعلى من وليد لا أقلّ منه.",
+      "difficulty": "MEDIUM",
+      "topic_key": "lo.raisonnement-verbal",
+      "objective_key": "lo.raisonnement-verbal.o1",
+      "families": [
+        "*"
+      ],
+      "origin": "AI_GENERATED",
+      "source_key": null,
+      "year": null,
+      "valid_until": null,
+      "tags": [
+        "ترتيب",
+        "مقارنات"
+      ]
+    },
+    {
+      "id": "logic-raisonnement-0041",
+      "type": "MCQ_SINGLE",
+      "language": "fr",
+      "stem": "Partant de son domicile, Yassine marche 3 km vers le nord, puis tourne à droite et marche 4 km en ligne droite. À quelle distance à vol d'oiseau se trouve-t-il de son domicile ?",
+      "options": [
+        {
+          "id": "a",
+          "text": "7 km"
+        },
+        {
+          "id": "b",
+          "text": "5 km"
+        },
+        {
+          "id": "c",
+          "text": "1 km"
+        },
+        {
+          "id": "d",
+          "text": "12 km"
+        }
+      ],
+      "correct": [
+        "b"
+      ],
+      "explanation": "En marchant vers le nord, tourner à droite revient à partir vers l'est : les deux trajets forment un angle droit. La distance à vol d'oiseau est l'hypoténuse d'un triangle rectangle de côtés 3 et 4 km : √(9 + 16) = √25 = 5 km. La réponse 7 km correspond à la distance parcourue, et non à la distance en ligne droite.",
+      "difficulty": "MEDIUM",
+      "topic_key": "lo.raisonnement-verbal",
+      "objective_key": "lo.raisonnement-verbal.o1",
+      "families": [
+        "*"
+      ],
+      "origin": "AI_GENERATED",
+      "source_key": null,
+      "year": null,
+      "valid_until": null,
+      "tags": [
+        "orientation",
+        "directions"
+      ]
+    },
+    {
+      "id": "logic-raisonnement-0042",
+      "type": "MCQ_SINGLE",
+      "language": "fr",
+      "stem": "Trois suspects, Adel, Béchir et Chaker, sont interrogés. Il n'y a qu'un seul coupable et un seul des trois dit la vérité. Adel : « Béchir est coupable. » Béchir : « Je ne suis pas coupable. » Chaker : « Je ne suis pas coupable. » Qui est le coupable ?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Adel"
+        },
+        {
+          "id": "b",
+          "text": "Béchir"
+        },
+        {
+          "id": "c",
+          "text": "Chaker"
+        },
+        {
+          "id": "d",
+          "text": "On ne peut pas le déterminer."
+        }
+      ],
+      "correct": [
+        "c"
+      ],
+      "explanation": "Testons chaque hypothèse. Si Adel est coupable, Béchir et Chaker disent tous deux la vérité, soit deux vérités : impossible. Si Béchir est coupable, Adel et Chaker disent vrai : encore deux vérités, impossible. Si Chaker est coupable, seul Béchir dit vrai, ce qui respecte la condition : le coupable est Chaker.",
+      "difficulty": "HARD",
+      "topic_key": "lo.raisonnement-verbal",
+      "objective_key": "lo.raisonnement-verbal.o1",
+      "families": [
+        "*"
+      ],
+      "origin": "AI_GENERATED",
+      "source_key": null,
+      "year": null,
+      "valid_until": null,
+      "tags": [
+        "vérité-mensonge",
+        "test d'hypothèses"
+      ]
+    },
+    {
+      "id": "logic-raisonnement-0043",
+      "type": "MCQ_SINGLE",
+      "language": "ar",
+      "stem": "يجلس ستة أشخاص (أنيس، بلال، جميلة، دنيا، إيمان، فاتن) حول طاولة مستديرة في ستة مقاعد متساوية الأبعاد. أنيس يجلس مقابل دنيا، وبلال يجلس بجانب أنيس، وإيمان تجلس بجانب كلّ من دنيا وبلال، وفاتن تجلس بجانب أنيس. من يجلس مقابل بلال؟",
+      "options": [
+        {
+          "id": "a",
+          "text": "جميلة"
+        },
+        {
+          "id": "b",
+          "text": "إيمان"
+        },
+        {
+          "id": "c",
+          "text": "فاتن"
+        },
+        {
+          "id": "d",
+          "text": "دنيا"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "explanation": "نرقّم المقاعد من 1 إلى 6 حول الطاولة: أنيس في 1 ودنيا مقابله في 4، وجارا أنيس هما 2 و6، فنضع بلال في 2 (ولا يتغيّر الجواب لو وضعناه في 6 بحكم التناظر). إيمان مجاورة لدنيا (3 أو 5) ولبلال (1 أو 3)، فهي في 3. فاتن مجاورة لأنيس، والمقعد 2 مشغول، فهي في 6، وتبقى جميلة في 5. المقعد المقابل لبلال (2) هو المقعد 5، أي جميلة. ومن يختار «إيمان» يخلط بين المجاور والمقابل.",
+      "difficulty": "HARD",
+      "topic_key": "lo.raisonnement-verbal",
+      "objective_key": "lo.raisonnement-verbal.o1",
+      "families": [
+        "*"
+      ],
+      "origin": "AI_GENERATED",
+      "source_key": null,
+      "year": null,
+      "valid_until": null,
+      "tags": [
+        "ترتيب مكاني",
+        "طاولة مستديرة"
+      ]
+    },
+    {
+      "id": "logic-raisonnement-0044",
+      "type": "NUMERIC",
+      "language": "ar",
+      "stem": "في ترتيب يضمّ 30 مترشّحًا (دون تساوٍ في المراتب)، تحتلّ ريم المرتبة 12 انطلاقًا من الأعلى، وتأتي سنية بعدها بستّ مراتب. ما مرتبة سنية انطلاقًا من الأسفل؟",
+      "options": [],
+      "correct": {
+        "value": 13,
+        "tolerance": 0
+      },
+      "explanation": "مرتبة سنية من الأعلى هي 12 + 6 = 18. ومرتبتها من الأسفل تساوي 30 − 18 + 1 = 13. الخطأ الشائع هو الاكتفاء بالطرح (30 − 18 = 12) ونسيان إضافة 1، لأنّ المترشّحين الاثني عشر الذين يأتون بعدها يجعلونها في المرتبة 13 من الأسفل.",
+      "difficulty": "HARD",
+      "topic_key": "lo.raisonnement-verbal",
+      "objective_key": "lo.raisonnement-verbal.o1",
+      "families": [
+        "*"
+      ],
+      "origin": "AI_GENERATED",
+      "source_key": null,
+      "year": null,
+      "valid_until": null,
+      "tags": [
+        "مراتب",
+        "ترتيب"
+      ]
+    },
+    {
+      "id": "logic-raisonnement-0045",
+      "type": "MCQ_SINGLE",
+      "language": "fr",
+      "stem": "Quatre candidats, Amira, Bilel, Chedly et Dhouha, ont passé chacun un concours différent : douane, poste, enseignement, santé. Amira et Dhouha sont des femmes, Bilel et Chedly des hommes. On sait que : (1) Amira n'a passé ni le concours de la douane ni celui de la santé ; (2) le candidat du concours de la poste est un homme ; (3) Chedly n'a passé ni le concours de l'enseignement ni celui de la poste ; (4) Dhouha n'a pas passé le concours de la santé. Quel concours Dhouha a-t-elle passé ?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Douane"
+        },
+        {
+          "id": "b",
+          "text": "Poste"
+        },
+        {
+          "id": "c",
+          "text": "Enseignement"
+        },
+        {
+          "id": "d",
+          "text": "Santé"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "explanation": "D'après (1), Amira a passé la poste ou l'enseignement ; d'après (2), la poste revient à un homme, donc Amira a passé l'enseignement. Dhouha, femme, n'a pas passé la poste (2) ni la santé (4), et l'enseignement est déjà pris : elle a passé la douane. On vérifie la cohérence : Chedly, qui n'a passé ni l'enseignement ni la poste, a passé la santé, et Bilel la poste. Répondre « enseignement » revient à oublier que ce concours est déjà attribué à Amira.",
+      "difficulty": "EXPERT",
+      "topic_key": "lo.raisonnement-verbal",
+      "objective_key": "lo.raisonnement-verbal.o1",
+      "families": [
+        "*"
+      ],
+      "origin": "AI_GENERATED",
+      "source_key": null,
+      "year": null,
+      "valid_until": null,
+      "tags": [
+        "tableau logique",
+        "élimination"
+      ]
+    }
+  ]
+}

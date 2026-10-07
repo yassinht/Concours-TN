@@ -164,9 +164,15 @@ describe('catalog API (real DB)', () => {
       expect(['ELIGIBLE', 'NOT_ELIGIBLE', 'PARTIAL']).toContain(r.result.status);
       expect(r.provenance).toEqual(expect.objectContaining({ confidence: expect.any(String), needsVerification: expect.any(Boolean) }));
     }
-    // An 86-year-old without diploma fails at least one known rule wherever an age or diploma rule exists.
-    const constrained = res.body.filter((r: { result: { checks: { code: string }[] } }) => r.result.checks.some((c) => c.code === 'AGE' || c.code === 'DIPLOMA'));
-    constrained.forEach((r: { result: { status: string } }) => expect(r.result.status).toBe('NOT_ELIGIBLE'));
+    // Any failed known rule (an 86-year-old fails every max_age, a candidate without diploma every diploma rule) makes the
+    // position NOT_ELIGIBLE; real rules may only set min_age, so the age check itself can pass.
+    type R = { result: { status: string; checks: { code: string; status: string }[] } };
+    for (const r of res.body as R[]) {
+      const failed = r.result.checks.some((c) => c.status === 'FAIL');
+      expect(r.result.status === 'NOT_ELIGIBLE').toBe(failed);
+      const age = r.result.checks.find((c) => c.code === 'AGE');
+      if (age) expect(['OK', 'FAIL']).toContain(age.status);
+    }
   });
 
   it('POST /catalog/eligibility uses the saved profile of a logged-in user', async () => {

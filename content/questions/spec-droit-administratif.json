@@ -1,0 +1,2702 @@
+{
+ "bank": "spec-droit-administratif",
+ "domain": "SPECIALTY",
+ "specialty_syllabus": [
+  {
+   "key": "spec.droit-administratif",
+   "parent_key": null,
+   "level": "SUBJECT",
+   "domain": "SPECIALTY",
+   "title_ar": "القانون الإداري",
+   "title_fr": "Droit administratif",
+   "scope": "SUGGESTED",
+   "source_key": null,
+   "objectives": []
+  },
+  {
+   "key": "spec.droit-administratif.organisation",
+   "parent_key": "spec.droit-administratif",
+   "level": "TOPIC",
+   "domain": "SPECIALTY",
+   "title_ar": "التنظيم الإداري",
+   "title_fr": "Organisation administrative",
+   "scope": "SUGGESTED",
+   "source_key": null,
+   "objectives": [
+    {
+     "key": "spec.droit-administratif.organisation.o1",
+     "text_ar": "التمييز بين المركزية واللامحورية واللامركزية، وبين السلطة الرئاسية والإشراف والتفويض",
+     "text_fr": "Distinguer centralisation, déconcentration et décentralisation, pouvoir hiérarchique, tutelle et délégation"
+    },
+    {
+     "key": "spec.droit-administratif.organisation.o2",
+     "text_ar": "التعرف على أشخاص القانون العام (الدولة، الجماعات المحلية، المؤسسات العمومية) ومبادئ المرفق العام",
+     "text_fr": "Identifier les personnes publiques (État, collectivités locales, établissements publics) et les principes du service public"
+    }
+   ]
+  },
+  {
+   "key": "spec.droit-administratif.actes",
+   "parent_key": "spec.droit-administratif",
+   "level": "TOPIC",
+   "domain": "SPECIALTY",
+   "title_ar": "القرارات الإدارية",
+   "title_fr": "Actes administratifs unilatéraux",
+   "scope": "SUGGESTED",
+   "source_key": null,
+   "objectives": [
+    {
+     "key": "spec.droit-administratif.actes.o1",
+     "text_ar": "تعريف القرارات الإدارية وتصنيفها وتحديد موقعها في هرم القواعد القانونية",
+     "text_fr": "Définir et classer les actes administratifs unilatéraux et les situer dans la hiérarchie des normes"
+    },
+    {
+     "key": "spec.droit-administratif.actes.o2",
+     "text_ar": "إتقان النظام القانوني للقرار الإداري: النفاذ والسحب والإلغاء الإداري والانعدام والنفاذ إلى المعلومة",
+     "text_fr": "Maîtriser le régime de l'acte : entrée en vigueur, retrait, abrogation, inexistence, accès à l'information"
+    }
+   ]
+  },
+  {
+   "key": "spec.droit-administratif.contrats",
+   "parent_key": "spec.droit-administratif",
+   "level": "TOPIC",
+   "domain": "SPECIALTY",
+   "title_ar": "العقود الإدارية والصفقات العمومية",
+   "title_fr": "Contrats administratifs et commande publique",
+   "scope": "SUGGESTED",
+   "source_key": null,
+   "objectives": [
+    {
+     "key": "spec.droit-administratif.contrats.o1",
+     "text_ar": "تمييز العقد الإداري ونظام تنفيذه (امتيازات الإدارة، التوازن المالي، الظروف الطارئة)",
+     "text_fr": "Identifier le contrat administratif et le régime de son exécution (prérogatives, équilibre financier, imprévision)"
+    },
+    {
+     "key": "spec.droit-administratif.contrats.o2",
+     "text_ar": "معرفة إطار الطلب العمومي: الصفقات العمومية واللزمات والشراكة بين القطاعين العام والخاص",
+     "text_fr": "Connaître le cadre de la commande publique : marchés publics, concessions, partenariat public-privé"
+    }
+   ]
+  },
+  {
+   "key": "spec.droit-administratif.responsabilite",
+   "parent_key": "spec.droit-administratif",
+   "level": "TOPIC",
+   "domain": "SPECIALTY",
+   "title_ar": "مسؤولية الإدارة",
+   "title_fr": "Responsabilité administrative",
+   "scope": "SUGGESTED",
+   "source_key": null,
+   "objectives": [
+    {
+     "key": "spec.droit-administratif.responsabilite.o1",
+     "text_ar": "التمييز بين الخطأ المرفقي والخطأ الشخصي، والجمع بين المسؤوليات ودعوى الرجوع",
+     "text_fr": "Distinguer faute de service et faute personnelle ; cumul de responsabilités et action récursoire"
+    },
+    {
+     "key": "spec.droit-administratif.responsabilite.o2",
+     "text_ar": "معرفة المسؤولية دون خطأ وشروط التعويض (الضرر، العلاقة السببية، أسباب الإعفاء)",
+     "text_fr": "Connaître la responsabilité sans faute et les conditions de la réparation (préjudice, causalité, exonération)"
+    }
+   ]
+  },
+  {
+   "key": "spec.droit-administratif.contentieux",
+   "parent_key": "spec.droit-administratif",
+   "level": "TOPIC",
+   "domain": "SPECIALTY",
+   "title_ar": "النزاع الإداري والمحكمة الإدارية",
+   "title_fr": "Contentieux administratif et Tribunal administratif",
+   "scope": "SUGGESTED",
+   "source_key": null,
+   "objectives": [
+    {
+     "key": "spec.droit-administratif.contentieux.o1",
+     "text_ar": "معرفة تنظيم المحكمة الإدارية واختصاصاتها القضائية والاستشارية",
+     "text_fr": "Connaître l'organisation et les attributions juridictionnelles et consultatives du Tribunal administratif"
+    },
+    {
+     "key": "spec.droit-administratif.contentieux.o2",
+     "text_ar": "إتقان دعوى تجاوز السلطة: شروط القبول والآجال وأسباب الطعن والآثار",
+     "text_fr": "Maîtriser le recours pour excès de pouvoir : recevabilité, délais, cas d'ouverture, effets"
+    }
+   ]
+  },
+  {
+   "key": "spec.droit-administratif.fonction-publique",
+   "parent_key": "spec.droit-administratif",
+   "level": "TOPIC",
+   "domain": "SPECIALTY",
+   "title_ar": "النظام الأساسي العام للوظيفة العمومية (القانون عدد 112 لسنة 1983)",
+   "title_fr": "Statut général de la fonction publique (loi n° 83-112)",
+   "scope": "SUGGESTED",
+   "source_key": null,
+   "objectives": [
+    {
+     "key": "spec.droit-administratif.fonction-publique.o1",
+     "text_ar": "معرفة الانتداب والمسار المهني للموظف: الأصناف والتدرج والترقية والوضعيات",
+     "text_fr": "Connaître le recrutement et la carrière du fonctionnaire : catégories, avancement, promotion, positions"
+    },
+    {
+     "key": "spec.droit-administratif.fonction-publique.o2",
+     "text_ar": "معرفة الحقوق والواجبات والنظام التأديبي وانتهاء العلاقة الوظيفية",
+     "text_fr": "Connaître les droits et obligations, le régime disciplinaire et la cessation des fonctions"
+    }
+   ]
+  }
+ ],
+ "sources": [],
+ "research_notes": "Banque de questions originales (AI_GENERATED), scope SUGGESTED pour tout le specialty_syllabus (aucun programme officiel de l'épreuve de droit administratif n'a pu être consulté). VÉRIFICATION WEB IMPOSSIBLE lors de la rédaction : le budget WebSearch de la session était épuisé dès la première requête, et WebFetch a été bloqué (EGRESS_BLOCKED) pour fr.wikipedia.org, ar.wikipedia.org, www.legislation.tn, www.ta.gov.tn, www.jurisitetunisie.com et www.droit-afrique.com. En conséquence : (1) la majorité des questions portent sur la doctrine classique du droit administratif enseignée en Tunisie (déconcentration/décentralisation, tutelle, délégation, retrait/abrogation, inexistence, critères du contrat administratif, imprévision, faute de service/faute personnelle, responsabilité sans faute, cas d'ouverture du REP) — tag 'doctrine' ; (2) les références de textes retenues sont celles connues avec une forte certitude : loi n° 72-40 du 1er juin 1972 (Tribunal administratif), loi n° 83-112 du 12 décembre 1983 (statut général), loi organique n° 2018-29 du 9 mai 2018 (Code des collectivités locales), décret n° 2014-1039 du 13 mars 2014 (marchés publics), loi organique n° 2016-22 du 24 mars 2016 (accès à l'information), loi n° 2015-49 du 27 novembre 2015 (PPP), loi n° 2008-23 (concessions) ; (3) les questions portant le tag 'needs_verification' doivent être relues contre le JORT / legislation.tn avant publication. Points précis à vérifier : délai de 20 jours (et 48 h) de la LO 2016-22 [q. 0014] ; rattachement de la HAICOP à la Présidence du gouvernement et rôle de l'Observatoire national des marchés publics vis-à-vis de TUNEPS [q. 0021] ; date de la loi PPP 2015-49 et rémunération du partenaire par la personne publique [q. 0022] ; consultation du TA sur les projets de décrets réglementaires [q. 0031] ; compétence du Premier président du TA pour le sursis à exécution (vérifier si les présidents des chambres régionales de première instance créées à partir de 2017 disposent aussi de ce pouvoir) [q. 0032] ; double degré de juridiction introduit par la réforme de 1996 (LO 96-39) [q. 0033] ; caractère facultatif et effet prorogatif du recours préalable (art. 37 de la loi 72-40 modifiée) [q. 0037] ; catégories A1/A2/A3, B, C, D de la loi 83-112 [q. 0038] ; terminologie « عدم المباشرة » pour la disponibilité et perte des droits à l'avancement et à la retraite [q. 0041] ; acceptation écrite de la démission par l'autorité de nomination [q. 0045]. Liste des sanctions : seules l'appartenance de l'avertissement et du blâme au premier degré, et de l'exclusion temporaire et de la révocation au second degré, sont utilisées. Volontairement évités car non vérifiables : numéros d'articles, seuils financiers des marchés publics, limite d'âge de recrutement, durée exacte du stage, durée maximale de l'exclusion temporaire, nombre de chambres régionales du TA, délais d'appel et de cassation, pouvoir réglementaire général sous la Constitution de 2022, correspondance grades/catégories du corps administratif commun. Familles : celles dont les fichiers competitions/*.json référencent spec.droit-administratif (14 familles). Le Code des collectivités locales (q. 0006) reste cité comme texte de référence, mais le cadre local a évolué après la Constitution de 2022 (dissolution des conseils municipaux en 2023, conseils locaux/régionaux/de districts) : à suivre.",
+ "questions": [
+  {
+   "id": "spec-droit-administratif-0001",
+   "type": "MCQ_SINGLE",
+   "language": "fr",
+   "stem": "Le procédé par lequel l'État confie certains pouvoirs de décision à ses propres agents nommés dans les circonscriptions territoriales (gouverneurs, délégués), lesquels restent soumis au pouvoir hiérarchique du ministre, s'appelle :",
+   "options": [
+    {
+     "id": "a",
+     "text": "la décentralisation territoriale"
+    },
+    {
+     "id": "b",
+     "text": "la déconcentration"
+    },
+    {
+     "id": "c",
+     "text": "la tutelle administrative"
+    },
+    {
+     "id": "d",
+     "text": "la délégation de signature"
+    }
+   ],
+   "correct": [
+    "b"
+   ],
+   "explanation": "Il s'agit de la déconcentration : les décisions sont prises sur place, mais par des agents de l'État nommés et hiérarchiquement subordonnés au pouvoir central ; c'est un simple aménagement de la centralisation. La décentralisation territoriale, piège principal, transfère des compétences à des personnes morales distinctes de l'État (collectivités locales) administrées par des conseils élus. La tutelle est le contrôle exercé sur ces entités décentralisées, et la délégation de signature autorise seulement un agent à signer au nom d'une autorité.",
+   "difficulty": "EASY",
+   "topic_key": "spec.droit-administratif.organisation",
+   "objective_key": "spec.droit-administratif.organisation.o1",
+   "families": [
+    "administration-generale",
+    "bct",
+    "collectivites-locales",
+    "douane",
+    "ena",
+    "finances-impots",
+    "garde-nationale",
+    "police-officier",
+    "poste-tunisienne",
+    "prisons-reeducation",
+    "protection-civile",
+    "recrutement-special-diplomes",
+    "securite-sociale",
+    "techniciens-ingenieurs"
+   ],
+   "origin": "AI_GENERATED",
+   "source_key": null,
+   "year": null,
+   "valid_until": null,
+   "tags": [
+    "organisation-administrative",
+    "deconcentration"
+   ]
+  },
+  {
+   "id": "spec-droit-administratif-0002",
+   "type": "MATCHING",
+   "language": "ar",
+   "stem": "اربط كل مفهوم من مفاهيم التنظيم الإداري بالمثال الذي يجسّده:",
+   "options": [
+    {
+     "id": "l1",
+     "text": "اللامحورية (عدم التركيز الإداري)",
+     "side": "left"
+    },
+    {
+     "id": "l2",
+     "text": "اللامركزية الترابية",
+     "side": "left"
+    },
+    {
+     "id": "l3",
+     "text": "اللامركزية المرفقية (الفنية)",
+     "side": "left"
+    },
+    {
+     "id": "l4",
+     "text": "السلطة الرئاسية",
+     "side": "left"
+    },
+    {
+     "id": "r1",
+     "text": "بلدية يسيّرها مجلس منتخب وتتمتع بالشخصية القانونية والاستقلال المالي",
+     "side": "right"
+    },
+    {
+     "id": "r2",
+     "text": "سلطة الوزير في توجيه الأوامر إلى أعوان مصالح وزارته وتعديل قراراتهم",
+     "side": "right"
+    },
+    {
+     "id": "r3",
+     "text": "والٍ يتخذ قرارات باسم الدولة في ولايته تحت إشراف السلطة المركزية",
+     "side": "right"
+    },
+    {
+     "id": "r4",
+     "text": "مؤسسة عمومية ذات شخصية معنوية مستقلة تتولى تسيير مرفق عام محدّد",
+     "side": "right"
+    }
+   ],
+   "correct": {
+    "pairs": [
+     [
+      "l1",
+      "r3"
+     ],
+     [
+      "l2",
+      "r1"
+     ],
+     [
+      "l3",
+      "r4"
+     ],
+     [
+      "l4",
+      "r2"
+     ]
+    ]
+   },
+   "explanation": "اللامحورية تعني تخويل أعوان الدولة المعيّنين في الجهات، كالوالي، صلاحية اتخاذ القرار مع بقائهم خاضعين للسلطة المركزية. أما اللامركزية الترابية فتقوم على جماعات محلية منتخبة ذات شخصية قانونية كالبلدية، واللامركزية المرفقية على مؤسسات عمومية مستقلة تتولى مرفقا محددا. والسلطة الرئاسية تُمارَس داخل نفس الإدارة على المرؤوسين، ولا يجوز الخلط بينها وبين الإشراف (الرقابة الإدارية) المسلَّط على الهياكل اللامركزية.",
+   "difficulty": "MEDIUM",
+   "topic_key": "spec.droit-administratif.organisation",
+   "objective_key": "spec.droit-administratif.organisation.o1",
+   "families": [
+    "administration-generale",
+    "bct",
+    "collectivites-locales",
+    "douane",
+    "ena",
+    "finances-impots",
+    "garde-nationale",
+    "police-officier",
+    "poste-tunisienne",
+    "prisons-reeducation",
+    "protection-civile",
+    "recrutement-special-diplomes",
+    "securite-sociale",
+    "techniciens-ingenieurs"
+   ],
+   "origin": "AI_GENERATED",
+   "source_key": null,
+   "year": null,
+   "valid_until": null,
+   "tags": [
+    "organisation-administrative",
+    "decentralisation",
+    "deconcentration"
+   ]
+  },
+  {
+   "id": "spec-droit-administratif-0003",
+   "type": "MCQ_SINGLE",
+   "language": "fr",
+   "stem": "Laquelle des affirmations suivantes caractérise la délégation de signature, par opposition à la délégation de pouvoir (ou de compétence) ?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Elle dessaisit l'autorité délégante, qui ne peut plus exercer elle-même la compétence déléguée tant que la délégation est en vigueur."
+    },
+    {
+     "id": "b",
+     "text": "Elle est consentie à une personne nommément désignée et prend fin en cas de changement du délégant ou du délégataire."
+    },
+    {
+     "id": "c",
+     "text": "Elle est accordée de façon impersonnelle à l'autorité délégataire, en sa qualité de titulaire d'une fonction."
+    },
+    {
+     "id": "d",
+     "text": "Elle peut être consentie librement, même en l'absence de tout texte qui l'autorise."
+    }
+   ],
+   "correct": [
+    "b"
+   ],
+   "explanation": "La délégation de signature est personnelle : elle vise un agent nommément désigné, ne dessaisit pas le délégant, qui peut toujours signer lui-même, et devient caduque si l'une des deux personnes change. Les propositions a et c décrivent au contraire la délégation de pouvoir, qui transfère la compétence elle-même, de façon impersonnelle, et dessaisit le délégant. Dans les deux cas, la délégation doit être autorisée par un texte : une délégation non prévue entache d'incompétence les actes pris sur son fondement, d'où l'inexactitude de la proposition d.",
+   "difficulty": "HARD",
+   "topic_key": "spec.droit-administratif.organisation",
+   "objective_key": "spec.droit-administratif.organisation.o1",
+   "families": [
+    "administration-generale",
+    "bct",
+    "collectivites-locales",
+    "douane",
+    "ena",
+    "finances-impots",
+    "garde-nationale",
+    "police-officier",
+    "poste-tunisienne",
+    "prisons-reeducation",
+    "protection-civile",
+    "recrutement-special-diplomes",
+    "securite-sociale",
+    "techniciens-ingenieurs"
+   ],
+   "origin": "AI_GENERATED",
+   "source_key": null,
+   "year": null,
+   "valid_until": null,
+   "tags": [
+    "delegation",
+    "doctrine"
+   ]
+  },
+  {
+   "id": "spec-droit-administratif-0004",
+   "type": "MCQ_SINGLE",
+   "language": "fr",
+   "stem": "En vertu de l'adage « pas de tutelle sans texte, pas de tutelle au-delà des textes », lorsqu'un texte soumet une délibération du conseil d'administration d'un établissement public à l'approbation du ministre de tutelle et que celui-ci la juge inopportune, le ministre peut en principe :",
+   "options": [
+    {
+     "id": "a",
+     "text": "modifier lui-même la délibération pour y substituer sa propre décision"
+    },
+    {
+     "id": "b",
+     "text": "refuser son approbation, sans pouvoir réformer le contenu de la délibération"
+    },
+    {
+     "id": "c",
+     "text": "ordonner directement aux agents de l'établissement de ne pas l'exécuter, comme le ferait un supérieur hiérarchique"
+    },
+    {
+     "id": "d",
+     "text": "seulement saisir le Tribunal administratif, toute décision d'approbation ou de refus lui étant interdite"
+    }
+   ],
+   "correct": [
+    "b"
+   ],
+   "explanation": "La tutelle n'est pas un pouvoir hiérarchique : l'autorité de tutelle ne dispose que des prérogatives que les textes lui attribuent, par exemple approuver ou refuser d'approuver un acte. Sauf texte contraire, elle ne peut ni réformer la décision de l'entité contrôlée ni y substituer la sienne (proposition a), ce qui porterait atteinte à l'autonomie de la personne morale. Adresser des ordres directs aux agents (proposition c) est le propre du pouvoir hiérarchique, qui n'existe pas entre l'État et un établissement public doté de la personnalité morale.",
+   "difficulty": "EXPERT",
+   "topic_key": "spec.droit-administratif.organisation",
+   "objective_key": "spec.droit-administratif.organisation.o1",
+   "families": [
+    "administration-generale",
+    "bct",
+    "collectivites-locales",
+    "douane",
+    "ena",
+    "finances-impots",
+    "garde-nationale",
+    "police-officier",
+    "poste-tunisienne",
+    "prisons-reeducation",
+    "protection-civile",
+    "recrutement-special-diplomes",
+    "securite-sociale",
+    "techniciens-ingenieurs"
+   ],
+   "origin": "AI_GENERATED",
+   "source_key": null,
+   "year": null,
+   "valid_until": null,
+   "tags": [
+    "tutelle",
+    "etablissement-public",
+    "doctrine"
+   ]
+  },
+  {
+   "id": "spec-droit-administratif-0005",
+   "type": "MCQ_SINGLE",
+   "language": "ar",
+   "stem": "أيّ من الهياكل التالية لا يُعدّ شخصا من أشخاص القانون العام؟",
+   "options": [
+    {
+     "id": "a",
+     "text": "الدولة"
+    },
+    {
+     "id": "b",
+     "text": "البلدية"
+    },
+    {
+     "id": "c",
+     "text": "مؤسسة عمومية ذات صبغة إدارية"
+    },
+    {
+     "id": "d",
+     "text": "جمعية رياضية تتلقى منحة من الدولة"
+    }
+   ],
+   "correct": [
+    "d"
+   ],
+   "explanation": "أشخاص القانون العام هم أساسا الدولة والجماعات المحلية (كالبلديات) والمؤسسات العمومية، وتتمتع كلها بالشخصية القانونية وتخضع للقانون الإداري في نشاطها المرفقي. أما الجمعية فهي شخص من أشخاص القانون الخاص يؤسسه الخواص، ولا يغيّر حصولها على منحة عمومية من طبيعتها القانونية، وإن كان يُخضعها لرقابة على استعمال المال العمومي.",
+   "difficulty": "EASY",
+   "topic_key": "spec.droit-administratif.organisation",
+   "objective_key": "spec.droit-administratif.organisation.o2",
+   "families": [
+    "administration-generale",
+    "bct",
+    "collectivites-locales",
+    "douane",
+    "ena",
+    "finances-impots",
+    "garde-nationale",
+    "police-officier",
+    "poste-tunisienne",
+    "prisons-reeducation",
+    "protection-civile",
+    "recrutement-special-diplomes",
+    "securite-sociale",
+    "techniciens-ingenieurs"
+   ],
+   "origin": "AI_GENERATED",
+   "source_key": null,
+   "year": null,
+   "valid_until": null,
+   "tags": [
+    "personnes-publiques"
+   ]
+  },
+  {
+   "id": "spec-droit-administratif-0006",
+   "type": "MCQ_SINGLE",
+   "language": "fr",
+   "stem": "D'après le Code des collectivités locales (loi organique n° 2018-29 du 9 mai 2018), les collectivités locales sont :",
+   "options": [
+    {
+     "id": "a",
+     "text": "les communes uniquement, les régions n'ayant pas la personnalité juridique"
+    },
+    {
+     "id": "b",
+     "text": "les gouvernorats, les délégations et les imadas"
+    },
+    {
+     "id": "c",
+     "text": "les communes, les régions et les districts"
+    },
+    {
+     "id": "d",
+     "text": "les communes et les délégations"
+    }
+   ],
+   "correct": [
+    "c"
+   ],
+   "explanation": "Le Code des collectivités locales distingue trois catégories de collectivités locales, dotées de la personnalité juridique et de l'autonomie administrative et financière : les communes, les régions et les districts. Les gouvernorats, délégations et imadas (proposition b, piège principal) sont des circonscriptions administratives de l'État dirigées par des agents nommés (gouverneur, délégué, omda) : ils relèvent de la déconcentration et non de la décentralisation. Les régions sont bien des collectivités locales dotées de la personnalité juridique, ce qui écarte la proposition a.",
+   "difficulty": "MEDIUM",
+   "topic_key": "spec.droit-administratif.organisation",
+   "objective_key": "spec.droit-administratif.organisation.o2",
+   "families": [
+    "administration-generale",
+    "bct",
+    "collectivites-locales",
+    "douane",
+    "ena",
+    "finances-impots",
+    "garde-nationale",
+    "police-officier",
+    "poste-tunisienne",
+    "prisons-reeducation",
+    "protection-civile",
+    "recrutement-special-diplomes",
+    "securite-sociale",
+    "techniciens-ingenieurs"
+   ],
+   "origin": "AI_GENERATED",
+   "source_key": null,
+   "year": null,
+   "valid_until": null,
+   "tags": [
+    "collectivites-locales",
+    "loi-organique-2018-29"
+   ]
+  },
+  {
+   "id": "spec-droit-administratif-0007",
+   "type": "MCQ_SINGLE",
+   "language": "ar",
+   "stem": "المبدأ الذي يخوّل الإدارة تعديل قواعد تنظيم المرفق العام وطرق سيره لمواكبة تطور الحاجيات العامة، دون أن يكون للمنتفعين حق مكتسب في بقاء تلك القواعد على حالها، هو مبدأ:",
+   "options": [
+    {
+     "id": "a",
+     "text": "استمرارية المرفق العام"
+    },
+    {
+     "id": "b",
+     "text": "المساواة أمام المرفق العام"
+    },
+    {
+     "id": "c",
+     "text": "قابلية المرفق العام للتغيير والتكيّف"
+    },
+    {
+     "id": "d",
+     "text": "حياد المرفق العام"
+    }
+   ],
+   "correct": [
+    "c"
+   ],
+   "explanation": "مبدأ قابلية التغيير (أو التكيّف) هو أحد المبادئ الكلاسيكية للمرفق العام المعروفة بقوانين «رولان»، ويسمح للإدارة بتطوير تنظيم المرفق وفق مقتضيات المصلحة العامة. أما مبدأ الاستمرارية، وهو الخيار الأكثر التباسا، فيعني ضمان سير المرفق بانتظام ودون انقطاع لا تعديل قواعده. ويتعلق مبدآ المساواة والحياد بمعاملة المنتفعين دون تمييز.",
+   "difficulty": "MEDIUM",
+   "topic_key": "spec.droit-administratif.organisation",
+   "objective_key": "spec.droit-administratif.organisation.o2",
+   "families": [
+    "administration-generale",
+    "bct",
+    "collectivites-locales",
+    "douane",
+    "ena",
+    "finances-impots",
+    "garde-nationale",
+    "police-officier",
+    "poste-tunisienne",
+    "prisons-reeducation",
+    "protection-civile",
+    "recrutement-special-diplomes",
+    "securite-sociale",
+    "techniciens-ingenieurs"
+   ],
+   "origin": "AI_GENERATED",
+   "source_key": null,
+   "year": null,
+   "valid_until": null,
+   "tags": [
+    "service-public",
+    "lois-de-rolland"
+   ]
+  },
+  {
+   "id": "spec-droit-administratif-0008",
+   "type": "MCQ_SINGLE",
+   "language": "ar",
+   "stem": "يُعرَّف القرار الإداري بأنه:",
+   "options": [
+    {
+     "id": "a",
+     "text": "عمل قانوني انفرادي صادر عن سلطة إدارية يُحدث بذاته آثارا قانونية"
+    },
+    {
+     "id": "b",
+     "text": "اتفاق بين الإدارة وطرف آخر يُنشئ التزامات متبادلة"
+    },
+    {
+     "id": "c",
+     "text": "عمل مادي تقوم به الإدارة دون أن تقصد إحداث أثر قانوني"
+    },
+    {
+     "id": "d",
+     "text": "حكم صادر عن المحكمة الإدارية في نزاع إداري"
+    }
+   ],
+   "correct": [
+    "a"
+   ],
+   "explanation": "القرار الإداري عمل قانوني تصدره الإدارة بإرادتها المنفردة، فيُنشئ حقوقا أو التزامات أو يعدّلها أو يلغيها دون حاجة إلى رضا المعنيين به. أما الاتفاق المنشئ لالتزامات متبادلة فهو عقد لا قرار انفرادي، والأعمال المادية (كإنجاز أشغال طرقات) لا تُحدث بذاتها أثرا قانونيا، والحكم يصدر عن هيئة قضائية لا عن سلطة إدارية.",
+   "difficulty": "EASY",
+   "topic_key": "spec.droit-administratif.actes",
+   "objective_key": "spec.droit-administratif.actes.o1",
+   "families": [
+    "administration-generale",
+    "bct",
+    "collectivites-locales",
+    "douane",
+    "ena",
+    "finances-impots",
+    "garde-nationale",
+    "police-officier",
+    "poste-tunisienne",
+    "prisons-reeducation",
+    "protection-civile",
+    "recrutement-special-diplomes",
+    "securite-sociale",
+    "techniciens-ingenieurs"
+   ],
+   "origin": "AI_GENERATED",
+   "source_key": null,
+   "year": null,
+   "valid_until": null,
+   "tags": [
+    "acte-administratif",
+    "definition"
+   ]
+  },
+  {
+   "id": "spec-droit-administratif-0009",
+   "type": "MCQ_SINGLE",
+   "language": "fr",
+   "stem": "Un arrêté ministériel qui fixe, de manière générale et impersonnelle, les modalités d'organisation d'un concours de recrutement constitue :",
+   "options": [
+    {
+     "id": "a",
+     "text": "un acte administratif individuel"
+    },
+    {
+     "id": "b",
+     "text": "un acte administratif réglementaire"
+    },
+    {
+     "id": "c",
+     "text": "un contrat administratif"
+    },
+    {
+     "id": "d",
+     "text": "une simple mesure d'ordre intérieur"
+    }
+   ],
+   "correct": [
+    "b"
+   ],
+   "explanation": "Un acte est réglementaire lorsqu'il pose des règles générales et impersonnelles applicables à un nombre indéterminé de personnes : c'est le cas de l'arrêté fixant les épreuves, le programme et les conditions d'un concours. Ce n'est pas un acte individuel, qui viserait une personne nommément désignée (par exemple la nomination d'un lauréat), ni un contrat, puisqu'il est pris unilatéralement. Produisant des effets juridiques à l'égard des candidats, il n'est pas non plus une simple mesure d'ordre intérieur.",
+   "difficulty": "EASY",
+   "topic_key": "spec.droit-administratif.actes",
+   "objective_key": "spec.droit-administratif.actes.o1",
+   "families": [
+    "administration-generale",
+    "bct",
+    "collectivites-locales",
+    "douane",
+    "ena",
+    "finances-impots",
+    "garde-nationale",
+    "police-officier",
+    "poste-tunisienne",
+    "prisons-reeducation",
+    "protection-civile",
+    "recrutement-special-diplomes",
+    "securite-sociale",
+    "techniciens-ingenieurs"
+   ],
+   "origin": "AI_GENERATED",
+   "source_key": null,
+   "year": null,
+   "valid_until": null,
+   "tags": [
+    "acte-reglementaire",
+    "classification"
+   ]
+  },
+  {
+   "id": "spec-droit-administratif-0010",
+   "type": "ORDERING",
+   "language": "fr",
+   "stem": "Classez les normes suivantes de la plus élevée à la moins élevée dans la hiérarchie des normes en droit tunisien :",
+   "options": [
+    {
+     "id": "a",
+     "text": "Arrêté ministériel"
+    },
+    {
+     "id": "b",
+     "text": "Loi ordinaire"
+    },
+    {
+     "id": "c",
+     "text": "Constitution"
+    },
+    {
+     "id": "d",
+     "text": "Décret à caractère réglementaire"
+    },
+    {
+     "id": "e",
+     "text": "Loi organique"
+    }
+   ],
+   "correct": {
+    "order": [
+     "c",
+     "e",
+     "b",
+     "d",
+     "a"
+    ]
+   },
+   "explanation": "La Constitution est au sommet de la hiérarchie ; viennent ensuite les lois organiques, adoptées selon une procédure renforcée, auxquelles les lois ordinaires doivent se conformer. Les décrets réglementaires sont subordonnés aux lois, et les arrêtés ministériels, pris notamment pour l'application des décrets, se situent au-dessous. Le piège fréquent consiste à placer la loi organique et la loi ordinaire au même niveau, ou à faire primer un décret sur une loi.",
+   "difficulty": "MEDIUM",
+   "topic_key": "spec.droit-administratif.actes",
+   "objective_key": "spec.droit-administratif.actes.o1",
+   "families": [
+    "administration-generale",
+    "bct",
+    "collectivites-locales",
+    "douane",
+    "ena",
+    "finances-impots",
+    "garde-nationale",
+    "police-officier",
+    "poste-tunisienne",
+    "prisons-reeducation",
+    "protection-civile",
+    "recrutement-special-diplomes",
+    "securite-sociale",
+    "techniciens-ingenieurs"
+   ],
+   "origin": "AI_GENERATED",
+   "source_key": null,
+   "year": null,
+   "valid_until": null,
+   "tags": [
+    "hierarchie-des-normes"
+   ]
+  },
+  {
+   "id": "spec-droit-administratif-0011",
+   "type": "MCQ_MULTI",
+   "language": "fr",
+   "stem": "Parmi les actes suivants, lesquels ne sont en principe pas susceptibles d'un recours pour excès de pouvoir, parce qu'ils ne font pas grief ou en raison de leur nature ? (plusieurs réponses)",
+   "options": [
+    {
+     "id": "a",
+     "text": "Un arrêté réglementaire fixant les conditions d'accès à un service public"
+    },
+    {
+     "id": "b",
+     "text": "Une mesure d'ordre intérieur sans effet sur la situation juridique de l'agent, comme l'attribution d'un autre bureau dans le même service"
+    },
+    {
+     "id": "c",
+     "text": "Un avis consultatif émis par une commission au cours de la procédure d'élaboration d'une décision"
+    },
+    {
+     "id": "d",
+     "text": "Un acte de gouvernement relatif à la conduite des relations internationales de l'État"
+    },
+    {
+     "id": "e",
+     "text": "Une décision explicite refusant de délivrer une autorisation administrative"
+    }
+   ],
+   "correct": [
+    "b",
+    "c",
+    "d"
+   ],
+   "explanation": "Seuls les actes administratifs exécutoires qui font grief peuvent être attaqués en excès de pouvoir. Les actes préparatoires comme les avis (c) ne modifient pas par eux-mêmes l'ordonnancement juridique, les mesures d'ordre intérieur (b) n'affectent pas la situation juridique de l'intéressé, et les actes de gouvernement (d), liés aux rapports entre pouvoirs publics ou aux relations internationales, échappent au contrôle du juge administratif. En revanche, une décision de refus (e) et un acte réglementaire (a) sont des décisions exécutoires qui font grief et peuvent être déférées au juge.",
+   "difficulty": "HARD",
+   "topic_key": "spec.droit-administratif.actes",
+   "objective_key": "spec.droit-administratif.actes.o1",
+   "families": [
+    "administration-generale",
+    "bct",
+    "collectivites-locales",
+    "douane",
+    "ena",
+    "finances-impots",
+    "garde-nationale",
+    "police-officier",
+    "poste-tunisienne",
+    "prisons-reeducation",
+    "protection-civile",
+    "recrutement-special-diplomes",
+    "securite-sociale",
+    "techniciens-ingenieurs"
+   ],
+   "origin": "AI_GENERATED",
+   "source_key": null,
+   "year": null,
+   "valid_until": null,
+   "tags": [
+    "acte-faisant-grief",
+    "doctrine"
+   ]
+  },
+  {
+   "id": "spec-droit-administratif-0012",
+   "type": "TRUE_FALSE",
+   "language": "fr",
+   "stem": "Vrai ou faux : l'abrogation d'un acte administratif fait disparaître rétroactivement tous ses effets, comme si l'acte n'avait jamais existé.",
+   "options": [
+    {
+     "id": "a",
+     "text": "Vrai"
+    },
+    {
+     "id": "b",
+     "text": "Faux"
+    }
+   ],
+   "correct": [
+    "b"
+   ],
+   "explanation": "C'est faux : l'abrogation met fin à l'acte uniquement pour l'avenir et laisse subsister les effets qu'il a produits jusque-là. La disparition rétroactive de l'acte correspond au retrait, décidé par l'administration, ou à l'annulation, prononcée par le juge. Confondre abrogation et retrait est une erreur classique, alors que leurs conditions diffèrent : le retrait d'une décision créatrice de droits est beaucoup plus encadré.",
+   "difficulty": "MEDIUM",
+   "topic_key": "spec.droit-administratif.actes",
+   "objective_key": "spec.droit-administratif.actes.o2",
+   "families": [
+    "administration-generale",
+    "bct",
+    "collectivites-locales",
+    "douane",
+    "ena",
+    "finances-impots",
+    "garde-nationale",
+    "police-officier",
+    "poste-tunisienne",
+    "prisons-reeducation",
+    "protection-civile",
+    "recrutement-special-diplomes",
+    "securite-sociale",
+    "techniciens-ingenieurs"
+   ],
+   "origin": "AI_GENERATED",
+   "source_key": null,
+   "year": null,
+   "valid_until": null,
+   "tags": [
+    "abrogation",
+    "retrait"
+   ]
+  },
+  {
+   "id": "spec-droit-administratif-0013",
+   "type": "MCQ_SINGLE",
+   "language": "ar",
+   "stem": "حسب القواعد العامة للقانون الإداري، يجوز للإدارة أن تسحب قرارا فرديا غير شرعي أنشأ حقوقا لفائدة المعني به:",
+   "options": [
+    {
+     "id": "a",
+     "text": "في أي وقت ودون أي قيد زمني، لأن القرار غير الشرعي لا يُنشئ حقوقا"
+    },
+    {
+     "id": "b",
+     "text": "داخل أجل الطعن فيه بتجاوز السلطة، أو طالما لم يُبتّ في الدعوى إذا تم الطعن فيه"
+    },
+    {
+     "id": "c",
+     "text": "بعد الحصول وجوبا على إذن مسبق من المحكمة الإدارية"
+    },
+    {
+     "id": "d",
+     "text": "أبدا، لأن السحب لا يجوز إلا بالنسبة إلى القرارات الشرعية"
+    }
+   ],
+   "correct": [
+    "b"
+   ],
+   "explanation": "استقر الفقه وفقه القضاء الإداري على أن القرار الفردي المنشئ للحقوق، وإن كان غير شرعي، لا يجوز سحبه إلا خلال أجل الطعن القضائي فيه أو أثناء نشر دعوى في شأنه، توفيقا بين مبدأ الشرعية ومبدأ استقرار الوضعيات القانونية. أما القول بجواز السحب في أي وقت فيتجاهل حماية الحقوق المكتسبة، باستثناء حالات خاصة كالقرار المنعدم أو القرار المتحصل عليه بالتحيل. والسحب عمل تقوم به الإدارة بنفسها ولا يتوقف على إذن من القاضي.",
+   "difficulty": "HARD",
+   "topic_key": "spec.droit-administratif.actes",
+   "objective_key": "spec.droit-administratif.actes.o2",
+   "families": [
+    "administration-generale",
+    "bct",
+    "collectivites-locales",
+    "douane",
+    "ena",
+    "finances-impots",
+    "garde-nationale",
+    "police-officier",
+    "poste-tunisienne",
+    "prisons-reeducation",
+    "protection-civile",
+    "recrutement-special-diplomes",
+    "securite-sociale",
+    "techniciens-ingenieurs"
+   ],
+   "origin": "AI_GENERATED",
+   "source_key": null,
+   "year": null,
+   "valid_until": null,
+   "tags": [
+    "retrait",
+    "droits-acquis",
+    "doctrine"
+   ]
+  },
+  {
+   "id": "spec-droit-administratif-0014",
+   "type": "NUMERIC",
+   "language": "ar",
+   "stem": "حسب القانون الأساسي عدد 22 لسنة 2016 المؤرخ في 24 مارس 2016 المتعلق بالحق في النفاذ إلى المعلومة، ما هو الأجل الأقصى، بالأيام، المحمول على الهيكل العمومي للرد على مطلب نفاذ عادي (خارج الحالات المتعلقة بحياة الشخص أو حريته)؟ (أدخل عددا)",
+   "options": [],
+   "correct": {
+    "value": 20,
+    "tolerance": 0
+   },
+   "explanation": "يُلزم القانون الأساسي عدد 22 لسنة 2016 الهيكل المعني بالرد على مطلب النفاذ في أجل أقصاه عشرون يوما من تاريخ تلقيه، ويُختصر هذا الأجل إلى 48 ساعة إذا كان للمعلومة تأثير على حياة الشخص أو حريته. ولا يجب الخلط بين هذا الأجل وأجل الشهرين الذي يُعتبر بانقضائه سكوت الإدارة رفضا ضمنيا في مادة دعوى تجاوز السلطة.",
+   "difficulty": "MEDIUM",
+   "topic_key": "spec.droit-administratif.actes",
+   "objective_key": "spec.droit-administratif.actes.o2",
+   "families": [
+    "administration-generale",
+    "bct",
+    "collectivites-locales",
+    "douane",
+    "ena",
+    "finances-impots",
+    "garde-nationale",
+    "police-officier",
+    "poste-tunisienne",
+    "prisons-reeducation",
+    "protection-civile",
+    "recrutement-special-diplomes",
+    "securite-sociale",
+    "techniciens-ingenieurs"
+   ],
+   "origin": "AI_GENERATED",
+   "source_key": null,
+   "year": null,
+   "valid_until": null,
+   "tags": [
+    "acces-information",
+    "loi-organique-2016-22",
+    "needs_verification"
+   ]
+  },
+  {
+   "id": "spec-droit-administratif-0015",
+   "type": "MCQ_SINGLE",
+   "language": "fr",
+   "stem": "Un acte administratif entaché d'une irrégularité si grave qu'il est regardé comme juridiquement inexistant (par exemple une usurpation de pouvoir manifeste) présente notamment la particularité :",
+   "options": [
+    {
+     "id": "a",
+     "text": "de devenir définitif et inattaquable s'il n'est pas contesté dans le délai de deux mois"
+    },
+    {
+     "id": "b",
+     "text": "de pouvoir être déclaré nul et non avenu sans condition de délai, l'administration pouvant aussi le retirer à tout moment"
+    },
+    {
+     "id": "c",
+     "text": "de ne pouvoir être contesté que par la voie du recours de plein contentieux"
+    },
+    {
+     "id": "d",
+     "text": "d'être régularisé de plein droit par sa publication au Journal officiel"
+    }
+   ],
+   "correct": [
+    "b"
+   ],
+   "explanation": "Selon la théorie de l'inexistence, un acte affecté d'un vice d'une gravité exceptionnelle est réputé n'avoir jamais existé : il ne crée aucun droit, peut être retiré à tout moment, et sa nullité peut être constatée par le juge sans condition de délai. C'est précisément ce qui le distingue d'un acte simplement illégal, qui devient définitif si aucun recours n'est formé dans les deux mois (proposition a). La publication conditionne l'opposabilité d'un acte mais ne couvre aucune illégalité, a fortiori une inexistence.",
+   "difficulty": "EXPERT",
+   "topic_key": "spec.droit-administratif.actes",
+   "objective_key": "spec.droit-administratif.actes.o2",
+   "families": [
+    "administration-generale",
+    "bct",
+    "collectivites-locales",
+    "douane",
+    "ena",
+    "finances-impots",
+    "garde-nationale",
+    "police-officier",
+    "poste-tunisienne",
+    "prisons-reeducation",
+    "protection-civile",
+    "recrutement-special-diplomes",
+    "securite-sociale",
+    "techniciens-ingenieurs"
+   ],
+   "origin": "AI_GENERATED",
+   "source_key": null,
+   "year": null,
+   "valid_until": null,
+   "tags": [
+    "acte-inexistant",
+    "doctrine"
+   ]
+  },
+  {
+   "id": "spec-droit-administratif-0016",
+   "type": "MCQ_SINGLE",
+   "language": "ar",
+   "stem": "يُعتبر العقد الذي يكون أحد أطرافه شخصا عموميا عقدا إداريا خاصة إذا:",
+   "options": [
+    {
+     "id": "a",
+     "text": "حُرّر باللغة العربية"
+    },
+    {
+     "id": "b",
+     "text": "تجاوزت قيمته مبلغا ماليا معيّنا مهما كان موضوعه"
+    },
+    {
+     "id": "c",
+     "text": "أُبرم كتابيا وأمضاه الطرفان"
+    },
+    {
+     "id": "d",
+     "text": "تضمّن شروطا غير مألوفة في القانون الخاص أو كان موضوعه المساهمة في تسيير مرفق عام"
+    }
+   ],
+   "correct": [
+    "d"
+   ],
+   "explanation": "يقوم العقد الإداري، إلى جانب وجود شخص عمومي طرفا فيه، على أحد معيارين: تضمينه شروطا استثنائية غير مألوفة في عقود الخواص تعبّر عن امتيازات السلطة العامة، أو تعلّقه بتسيير مرفق عام أو المساهمة فيه. أما قيمة العقد أو شكله الكتابي أو لغته فلا تحدد طبيعته، إذ يمكن للإدارة أن تبرم عقودا مكتوبة وذات قيمة مرتفعة تخضع مع ذلك للقانون الخاص.",
+   "difficulty": "EASY",
+   "topic_key": "spec.droit-administratif.contrats",
+   "objective_key": "spec.droit-administratif.contrats.o1",
+   "families": [
+    "administration-generale",
+    "bct",
+    "collectivites-locales",
+    "douane",
+    "ena",
+    "finances-impots",
+    "garde-nationale",
+    "police-officier",
+    "poste-tunisienne",
+    "prisons-reeducation",
+    "protection-civile",
+    "recrutement-special-diplomes",
+    "securite-sociale",
+    "techniciens-ingenieurs"
+   ],
+   "origin": "AI_GENERATED",
+   "source_key": null,
+   "year": null,
+   "valid_until": null,
+   "tags": [
+    "contrat-administratif",
+    "criteres"
+   ]
+  },
+  {
+   "id": "spec-droit-administratif-0017",
+   "type": "MCQ_MULTI",
+   "language": "fr",
+   "stem": "Dans l'exécution d'un contrat administratif, l'administration dispose, même en l'absence de clause expresse, de prérogatives exorbitantes. Lesquelles ? (plusieurs réponses)",
+   "options": [
+    {
+     "id": "a",
+     "text": "Modifier unilatéralement le prix convenu sans aucune compensation financière"
+    },
+    {
+     "id": "b",
+     "text": "Résilier le contrat pour un motif d'intérêt général, moyennant indemnisation du cocontractant"
+    },
+    {
+     "id": "c",
+     "text": "Sanctionner le cocontractant défaillant (pénalités, exécution à ses frais et risques)"
+    },
+    {
+     "id": "d",
+     "text": "Modifier unilatéralement l'étendue des prestations pour un motif d'intérêt général, sous réserve d'indemniser le cocontractant"
+    },
+    {
+     "id": "e",
+     "text": "Refuser de payer les prestations exécutées lorsque les crédits budgétaires sont épuisés"
+    }
+   ],
+   "correct": [
+    "b",
+    "c",
+    "d"
+   ],
+   "explanation": "Le régime des contrats administratifs reconnaît à l'administration, en raison des exigences du service public, des pouvoirs de contrôle et de direction, de sanction, de modification unilatérale et de résiliation pour motif d'intérêt général. Ces pouvoirs ont une contrepartie : le droit du cocontractant au maintien de l'équilibre financier du contrat, ce qui exclut de toucher au prix sans compensation (a). L'épuisement des crédits n'autorise pas davantage l'administration à se soustraire à son obligation de payer les prestations effectivement réalisées (e).",
+   "difficulty": "MEDIUM",
+   "topic_key": "spec.droit-administratif.contrats",
+   "objective_key": "spec.droit-administratif.contrats.o1",
+   "families": [
+    "administration-generale",
+    "bct",
+    "collectivites-locales",
+    "douane",
+    "ena",
+    "finances-impots",
+    "garde-nationale",
+    "police-officier",
+    "poste-tunisienne",
+    "prisons-reeducation",
+    "protection-civile",
+    "recrutement-special-diplomes",
+    "securite-sociale",
+    "techniciens-ingenieurs"
+   ],
+   "origin": "AI_GENERATED",
+   "source_key": null,
+   "year": null,
+   "valid_until": null,
+   "tags": [
+    "contrat-administratif",
+    "prerogatives",
+    "doctrine"
+   ]
+  },
+  {
+   "id": "spec-droit-administratif-0018",
+   "type": "MCQ_SINGLE",
+   "language": "ar",
+   "stem": "أثناء تنفيذ صفقة أشغال عمومية، ارتفعت أسعار المواد الأولية ارتفاعا استثنائيا وغير متوقّع إثر أزمة عالمية، فاختلّ التوازن المالي للعقد اختلالا جسيما دون أن يصبح التنفيذ مستحيلا. النظرية التي تسمح للمقاول بمطالبة الإدارة بتعويض جزئي مع مواصلة التنفيذ هي:",
+   "options": [
+    {
+     "id": "a",
+     "text": "القوة القاهرة"
+    },
+    {
+     "id": "b",
+     "text": "نظرية فعل الأمير"
+    },
+    {
+     "id": "c",
+     "text": "نظرية الظروف الطارئة"
+    },
+    {
+     "id": "d",
+     "text": "نظرية الصعوبات المادية غير المتوقعة"
+    }
+   ],
+   "correct": [
+    "c"
+   ],
+   "explanation": "تنطبق نظرية الظروف الطارئة عندما يطرأ حدث استثنائي خارج عن إرادة الطرفين وغير متوقع عند التعاقد يقلب اقتصاد العقد دون أن يجعل التنفيذ مستحيلا، فيلتزم المتعاقد بمواصلة التنفيذ مقابل تعويض يغطي جزءا من الخسارة. أما فعل الأمير فيفترض إجراء صادرا عن الإدارة المتعاقدة نفسها، والقوة القاهرة تفترض استحالة التنفيذ وتُعفي من الالتزام. والصعوبات المادية غير المتوقعة تخص عوائق مادية استثنائية تعترض الإنجاز، كطبيعة غير متوقعة للتربة، لا تقلبات الأسعار.",
+   "difficulty": "HARD",
+   "topic_key": "spec.droit-administratif.contrats",
+   "objective_key": "spec.droit-administratif.contrats.o1",
+   "families": [
+    "administration-generale",
+    "bct",
+    "collectivites-locales",
+    "douane",
+    "ena",
+    "finances-impots",
+    "garde-nationale",
+    "police-officier",
+    "poste-tunisienne",
+    "prisons-reeducation",
+    "protection-civile",
+    "recrutement-special-diplomes",
+    "securite-sociale",
+    "techniciens-ingenieurs"
+   ],
+   "origin": "AI_GENERATED",
+   "source_key": null,
+   "year": null,
+   "valid_until": null,
+   "tags": [
+    "imprevision",
+    "equilibre-financier",
+    "doctrine"
+   ]
+  },
+  {
+   "id": "spec-droit-administratif-0019",
+   "type": "MCQ_SINGLE",
+   "language": "fr",
+   "stem": "Le décret n° 2014-1039 du 13 mars 2014 porte :",
+   "options": [
+    {
+     "id": "a",
+     "text": "réglementation des marchés publics"
+    },
+    {
+     "id": "b",
+     "text": "statut général des personnels de l'État, des collectivités locales et des établissements publics à caractère administratif"
+    },
+    {
+     "id": "c",
+     "text": "Code des collectivités locales"
+    },
+    {
+     "id": "d",
+     "text": "organisation du Tribunal administratif"
+    }
+   ],
+   "correct": [
+    "a"
+   ],
+   "explanation": "Le décret n° 2014-1039 du 13 mars 2014 porte réglementation des marchés publics : il fixe notamment les principes de la commande publique, les modes de passation et les organes de contrôle. Le statut général de la fonction publique résulte de la loi n° 83-112 du 12 décembre 1983, le Code des collectivités locales de la loi organique n° 2018-29, et le Tribunal administratif est régi par la loi n° 72-40 du 1er juin 1972 : aucun de ces textes n'est un décret.",
+   "difficulty": "EASY",
+   "topic_key": "spec.droit-administratif.contrats",
+   "objective_key": "spec.droit-administratif.contrats.o2",
+   "families": [
+    "administration-generale",
+    "bct",
+    "collectivites-locales",
+    "douane",
+    "ena",
+    "finances-impots",
+    "garde-nationale",
+    "police-officier",
+    "poste-tunisienne",
+    "prisons-reeducation",
+    "protection-civile",
+    "recrutement-special-diplomes",
+    "securite-sociale",
+    "techniciens-ingenieurs"
+   ],
+   "origin": "AI_GENERATED",
+   "source_key": null,
+   "year": null,
+   "valid_until": null,
+   "tags": [
+    "marches-publics",
+    "decret-2014-1039"
+   ]
+  },
+  {
+   "id": "spec-droit-administratif-0020",
+   "type": "TRUE_FALSE",
+   "language": "ar",
+   "stem": "صحيح أم خطأ: طلب العروض هو الطريقة الأصلية لإبرام الصفقات العمومية، في حين يُعدّ التفاوض المباشر طريقة استثنائية لا يُلجأ إليها إلا في الحالات التي يضبطها النص الترتيبي المنظّم للصفقات العمومية.",
+   "options": [
+    {
+     "id": "a",
+     "text": "صحيح"
+    },
+    {
+     "id": "b",
+     "text": "خطأ"
+    }
+   ],
+   "correct": [
+    "a"
+   ],
+   "explanation": "العبارة صحيحة: يكرّس تنظيم الصفقات العمومية طلب العروض قاعدةً عامة لأنه يضمن المنافسة والمساواة بين المترشحين والشفافية. أما التفاوض المباشر فيحدّ من المنافسة، لذلك لا يجوز اللجوء إليه إلا في حالات استثنائية محددة بالنص، مع تعليل ذلك. ويخطئ من يعتبر الطريقتين متساويتين يُختار بينهما بحرية.",
+   "difficulty": "MEDIUM",
+   "topic_key": "spec.droit-administratif.contrats",
+   "objective_key": "spec.droit-administratif.contrats.o2",
+   "families": [
+    "administration-generale",
+    "bct",
+    "collectivites-locales",
+    "douane",
+    "ena",
+    "finances-impots",
+    "garde-nationale",
+    "police-officier",
+    "poste-tunisienne",
+    "prisons-reeducation",
+    "protection-civile",
+    "recrutement-special-diplomes",
+    "securite-sociale",
+    "techniciens-ingenieurs"
+   ],
+   "origin": "AI_GENERATED",
+   "source_key": null,
+   "year": null,
+   "valid_until": null,
+   "tags": [
+    "marches-publics",
+    "appel-d-offres"
+   ]
+  },
+  {
+   "id": "spec-droit-administratif-0021",
+   "type": "MCQ_SINGLE",
+   "language": "fr",
+   "stem": "Quelle instance, placée auprès de la Présidence du gouvernement, est chargée notamment de la régulation, du contrôle et du suivi de la commande publique ?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Le Tribunal administratif"
+    },
+    {
+     "id": "b",
+     "text": "La Cour des comptes"
+    },
+    {
+     "id": "c",
+     "text": "L'Instance d'accès à l'information (INAI)"
+    },
+    {
+     "id": "d",
+     "text": "La Haute Instance de la Commande Publique (HAICOP)"
+    }
+   ],
+   "correct": [
+    "d"
+   ],
+   "explanation": "La Haute Instance de la Commande Publique (HAICOP), placée auprès de la Présidence du gouvernement, est chargée de la régulation, du contrôle et du suivi de la commande publique ; l'Observatoire national des marchés publics qui en relève suit notamment les données issues du système d'achat en ligne TUNEPS. La Cour des comptes, piège principal, exerce un contrôle a posteriori sur la gestion des deniers publics mais n'est pas l'organe de régulation des marchés. L'INAI veille au droit d'accès à l'information, et le Tribunal administratif tranche les litiges administratifs.",
+   "difficulty": "MEDIUM",
+   "topic_key": "spec.droit-administratif.contrats",
+   "objective_key": "spec.droit-administratif.contrats.o2",
+   "families": [
+    "administration-generale",
+    "bct",
+    "collectivites-locales",
+    "douane",
+    "ena",
+    "finances-impots",
+    "garde-nationale",
+    "police-officier",
+    "poste-tunisienne",
+    "prisons-reeducation",
+    "protection-civile",
+    "recrutement-special-diplomes",
+    "securite-sociale",
+    "techniciens-ingenieurs"
+   ],
+   "origin": "AI_GENERATED",
+   "source_key": null,
+   "year": null,
+   "valid_until": null,
+   "tags": [
+    "marches-publics",
+    "haicop",
+    "tuneps",
+    "needs_verification"
+   ]
+  },
+  {
+   "id": "spec-droit-administratif-0022",
+   "type": "MCQ_SINGLE",
+   "language": "ar",
+   "stem": "عقد كتابي لمدة محددة يعهد بمقتضاه شخص عمومي إلى شريك خاص بمهمة شاملة تشمل تمويل وإنجاز أو تهيئة منشآت أو تجهيزات ضرورية لتوفير مرفق عام، مقابل أجر يدفعه الشخص العمومي للشريك طيلة مدة العقد. ينطبق هذا الوصف على:",
+   "options": [
+    {
+     "id": "a",
+     "text": "صفقة عمومية للأشغال"
+    },
+    {
+     "id": "b",
+     "text": "عقد اللزمة"
+    },
+    {
+     "id": "c",
+     "text": "عقد الشراكة بين القطاع العام والقطاع الخاص"
+    },
+    {
+     "id": "d",
+     "text": "صفقة عمومية للتزوّد بمواد ولوازم"
+    }
+   ],
+   "correct": [
+    "c"
+   ],
+   "explanation": "يتعلق الأمر بعقد الشراكة بين القطاع العام والقطاع الخاص الذي ينظمه القانون عدد 49 لسنة 2015 المؤرخ في 27 نوفمبر 2015: يتولى الشريك الخاص التمويل والإنجاز، ويتلقى أجره من الشخص العمومي على امتداد مدة العقد. أما في عقد اللزمة (القانون عدد 23 لسنة 2008)، وهو الخيار الأكثر التباسا، فيتقاضى صاحب اللزمة مقابله أساسا من مستعملي المرفق ويتحمل مخاطر الاستغلال. وفي الصفقة العمومية يُدفع الثمن مقابل الأشغال أو اللوازم دون أن يتحمل المتعاقد التمويل والاستغلال على المدى الطويل.",
+   "difficulty": "HARD",
+   "topic_key": "spec.droit-administratif.contrats",
+   "objective_key": "spec.droit-administratif.contrats.o2",
+   "families": [
+    "administration-generale",
+    "bct",
+    "collectivites-locales",
+    "douane",
+    "ena",
+    "finances-impots",
+    "garde-nationale",
+    "police-officier",
+    "poste-tunisienne",
+    "prisons-reeducation",
+    "protection-civile",
+    "recrutement-special-diplomes",
+    "securite-sociale",
+    "techniciens-ingenieurs"
+   ],
+   "origin": "AI_GENERATED",
+   "source_key": null,
+   "year": null,
+   "valid_until": null,
+   "tags": [
+    "ppp",
+    "concession",
+    "loi-2015-49",
+    "needs_verification"
+   ]
+  },
+  {
+   "id": "spec-droit-administratif-0023",
+   "type": "MCQ_SINGLE",
+   "language": "fr",
+   "stem": "La faute de service se définit comme une faute :",
+   "options": [
+    {
+     "id": "a",
+     "text": "commise par un agent dans l'exercice de ses fonctions et non détachable du service"
+    },
+    {
+     "id": "b",
+     "text": "révélant une intention de nuire de l'agent ou la poursuite d'un intérêt purement personnel"
+    },
+    {
+     "id": "c",
+     "text": "commise par l'agent en dehors du service et sans aucun lien avec lui"
+    },
+    {
+     "id": "d",
+     "text": "qui engage uniquement la responsabilité pénale de l'agent"
+    }
+   ],
+   "correct": [
+    "a"
+   ],
+   "explanation": "La faute de service est celle qui ne peut être détachée de l'exercice des fonctions : elle est imputable au fonctionnement du service, même si son auteur n'est pas identifié, et c'est l'administration qui en répond devant le juge administratif. L'intention de nuire ou la poursuite d'un intérêt personnel (b), ainsi que la faute commise hors service sans lien avec lui (c), caractérisent au contraire la faute personnelle, qui engage la responsabilité de l'agent lui-même.",
+   "difficulty": "EASY",
+   "topic_key": "spec.droit-administratif.responsabilite",
+   "objective_key": "spec.droit-administratif.responsabilite.o1",
+   "families": [
+    "administration-generale",
+    "bct",
+    "collectivites-locales",
+    "douane",
+    "ena",
+    "finances-impots",
+    "garde-nationale",
+    "police-officier",
+    "poste-tunisienne",
+    "prisons-reeducation",
+    "protection-civile",
+    "recrutement-special-diplomes",
+    "securite-sociale",
+    "techniciens-ingenieurs"
+   ],
+   "origin": "AI_GENERATED",
+   "source_key": null,
+   "year": null,
+   "valid_until": null,
+   "tags": [
+    "faute-de-service",
+    "doctrine"
+   ]
+  },
+  {
+   "id": "spec-droit-administratif-0024",
+   "type": "MCQ_SINGLE",
+   "language": "ar",
+   "stem": "يُعتبر الخطأ الذي يرتكبه العون العمومي خطأ شخصيا منفصلا عن المرفق خاصة إذا:",
+   "options": [
+    {
+     "id": "a",
+     "text": "تعذّر على المتضرر تحديد هوية العون الذي ارتكبه"
+    },
+    {
+     "id": "b",
+     "text": "ارتكبه أثناء أوقات العمل الرسمية وداخل مقر الإدارة"
+    },
+    {
+     "id": "c",
+     "text": "نتج عن سوء تنظيم المرفق أو عن نقص في وسائله"
+    },
+    {
+     "id": "d",
+     "text": "ارتكبه بنية الإضرار أو لتحقيق مصلحة شخصية، أو كان على درجة استثنائية من الجسامة"
+    }
+   ],
+   "correct": [
+    "d"
+   ],
+   "explanation": "يكون الخطأ شخصيا عندما يكشف عن الإنسان بنزواته وأهوائه لا عن الموظف، كأن يقصد العون الإضرار أو يسعى إلى مصلحة خاصة، أو عندما يبلغ درجة استثنائية من الجسامة. ووقوع الخطأ أثناء أوقات العمل لا يكفي وحده لتكييفه، إذ العبرة بإمكانية فصله عن الوظيفة. أما سوء تنظيم المرفق وتعذّر تحديد هوية المخطئ فهما من سمات الخطأ المرفقي.",
+   "difficulty": "MEDIUM",
+   "topic_key": "spec.droit-administratif.responsabilite",
+   "objective_key": "spec.droit-administratif.responsabilite.o1",
+   "families": [
+    "administration-generale",
+    "bct",
+    "collectivites-locales",
+    "douane",
+    "ena",
+    "finances-impots",
+    "garde-nationale",
+    "police-officier",
+    "poste-tunisienne",
+    "prisons-reeducation",
+    "protection-civile",
+    "recrutement-special-diplomes",
+    "securite-sociale",
+    "techniciens-ingenieurs"
+   ],
+   "origin": "AI_GENERATED",
+   "source_key": null,
+   "year": null,
+   "valid_until": null,
+   "tags": [
+    "faute-personnelle",
+    "doctrine"
+   ]
+  },
+  {
+   "id": "spec-droit-administratif-0025",
+   "type": "TRUE_FALSE",
+   "language": "fr",
+   "stem": "Vrai ou faux : lorsque l'administration a indemnisé la victime d'un dommage dû à une faute personnelle de son agent commise dans le service, ou non dépourvue de tout lien avec celui-ci, elle peut ensuite se retourner contre cet agent par une action récursoire.",
+   "options": [
+    {
+     "id": "a",
+     "text": "Vrai"
+    },
+    {
+     "id": "b",
+     "text": "Faux"
+    }
+   ],
+   "correct": [
+    "a"
+   ],
+   "explanation": "C'est vrai. Pour garantir l'indemnisation de la victime, la jurisprudence admet le cumul de responsabilités : la victime peut demander réparation à l'administration dès lors que la faute personnelle n'est pas dépourvue de tout lien avec le service. L'administration, qui a payé à la place de l'agent fautif, dispose alors d'une action récursoire pour récupérer tout ou partie de la somme versée, à proportion de la part de la faute personnelle dans le dommage.",
+   "difficulty": "MEDIUM",
+   "topic_key": "spec.droit-administratif.responsabilite",
+   "objective_key": "spec.droit-administratif.responsabilite.o1",
+   "families": [
+    "administration-generale",
+    "bct",
+    "collectivites-locales",
+    "douane",
+    "ena",
+    "finances-impots",
+    "garde-nationale",
+    "police-officier",
+    "poste-tunisienne",
+    "prisons-reeducation",
+    "protection-civile",
+    "recrutement-special-diplomes",
+    "securite-sociale",
+    "techniciens-ingenieurs"
+   ],
+   "origin": "AI_GENERATED",
+   "source_key": null,
+   "year": null,
+   "valid_until": null,
+   "tags": [
+    "cumul",
+    "action-recursoire",
+    "doctrine"
+   ]
+  },
+  {
+   "id": "spec-droit-administratif-0026",
+   "type": "MCQ_SINGLE",
+   "language": "ar",
+   "stem": "لكي يكون الضرر قابلا للتعويض في إطار مسؤولية الإدارة، يجب أساسا أن يكون:",
+   "options": [
+    {
+     "id": "a",
+     "text": "ناتجا حصريا عن خطأ المتضرر نفسه"
+    },
+    {
+     "id": "b",
+     "text": "احتماليا قد يقع في المستقبل دون يقين"
+    },
+    {
+     "id": "c",
+     "text": "محققا ومباشرا، وأن تقوم علاقة سببية بينه وبين نشاط الإدارة"
+    },
+    {
+     "id": "d",
+     "text": "معنويا فقط، لأن الضرر المادي لا يُعوَّض"
+    }
+   ],
+   "correct": [
+    "c"
+   ],
+   "explanation": "تقوم مسؤولية الإدارة على ثلاثة عناصر: فعل منسوب إليها (خطأ أو نشاط خطر حسب النظام المنطبق)، وضرر محقق ومباشر، وعلاقة سببية بينهما. فالضرر الاحتمالي غير قابل للتعويض لانتفاء صفة اليقين، والضرر الناتج حصريا عن خطأ المتضرر يقطع العلاقة السببية ويعفي الإدارة. أما الضرر المادي فيُعوَّض بطبيعة الحال، شأنه شأن الضرر المعنوي.",
+   "difficulty": "EASY",
+   "topic_key": "spec.droit-administratif.responsabilite",
+   "objective_key": "spec.droit-administratif.responsabilite.o2",
+   "families": [
+    "administration-generale",
+    "bct",
+    "collectivites-locales",
+    "douane",
+    "ena",
+    "finances-impots",
+    "garde-nationale",
+    "police-officier",
+    "poste-tunisienne",
+    "prisons-reeducation",
+    "protection-civile",
+    "recrutement-special-diplomes",
+    "securite-sociale",
+    "techniciens-ingenieurs"
+   ],
+   "origin": "AI_GENERATED",
+   "source_key": null,
+   "year": null,
+   "valid_until": null,
+   "tags": [
+    "prejudice",
+    "causalite"
+   ]
+  },
+  {
+   "id": "spec-droit-administratif-0027",
+   "type": "MCQ_MULTI",
+   "language": "fr",
+   "stem": "Dans un régime de responsabilité pour faute, lesquels des éléments suivants peuvent exonérer, totalement ou partiellement, l'administration de sa responsabilité ? (plusieurs réponses)",
+   "options": [
+    {
+     "id": "a",
+     "text": "L'insuffisance des crédits budgétaires du service"
+    },
+    {
+     "id": "b",
+     "text": "L'impossibilité d'identifier l'agent auteur de la faute"
+    },
+    {
+     "id": "c",
+     "text": "La faute de la victime"
+    },
+    {
+     "id": "d",
+     "text": "La force majeure"
+    },
+    {
+     "id": "e",
+     "text": "Le fait d'un tiers"
+    }
+   ],
+   "correct": [
+    "c",
+    "d",
+    "e"
+   ],
+   "explanation": "La force majeure, la faute de la victime et le fait d'un tiers rompent ou atténuent le lien de causalité entre l'action administrative et le dommage : ils peuvent donc exonérer l'administration en tout ou en partie. En revanche, l'anonymat de l'auteur n'a aucun effet exonératoire, puisque la faute de service est par nature imputable au service lui-même. L'insuffisance de moyens ou de crédits n'est pas davantage une cause d'exonération : elle peut au contraire révéler un fonctionnement défectueux du service.",
+   "difficulty": "MEDIUM",
+   "topic_key": "spec.droit-administratif.responsabilite",
+   "objective_key": "spec.droit-administratif.responsabilite.o2",
+   "families": [
+    "administration-generale",
+    "bct",
+    "collectivites-locales",
+    "douane",
+    "ena",
+    "finances-impots",
+    "garde-nationale",
+    "police-officier",
+    "poste-tunisienne",
+    "prisons-reeducation",
+    "protection-civile",
+    "recrutement-special-diplomes",
+    "securite-sociale",
+    "techniciens-ingenieurs"
+   ],
+   "origin": "AI_GENERATED",
+   "source_key": null,
+   "year": null,
+   "valid_until": null,
+   "tags": [
+    "exoneration",
+    "doctrine"
+   ]
+  },
+  {
+   "id": "spec-droit-administratif-0028",
+   "type": "MCQ_SINGLE",
+   "language": "ar",
+   "stem": "امتنعت الإدارة، حفاظا على النظام العام، عن تسخير القوة العامة لتنفيذ حكم قضائي يقضي بإخراج شاغلين من عقار يملكه أحد الخواص. كان قرارها مشروعا، لكنه ألحق بالمالك ضررا خاصا واستثنائيا. يقوم حق المالك في التعويض على أساس:",
+   "options": [
+    {
+     "id": "a",
+     "text": "المسؤولية دون خطأ القائمة على الإخلال بمبدأ المساواة أمام الأعباء العامة"
+    },
+    {
+     "id": "b",
+     "text": "الخطأ الشخصي للوالي الذي رفض التنفيذ"
+    },
+    {
+     "id": "c",
+     "text": "المسؤولية دون خطأ القائمة على مخاطر الأشياء والأنشطة الخطرة"
+    },
+    {
+     "id": "d",
+     "text": "لا حق له في التعويض لأن قرار الإدارة مشروع"
+    }
+   ],
+   "correct": [
+    "a"
+   ],
+   "explanation": "عندما تتخذ الإدارة قرارا مشروعا تقتضيه المصلحة العامة لكنه يحمّل شخصا بعينه ضررا خاصا واستثنائيا، فإن العدالة تقتضي ألا يتحمل وحده عبئا يُفترض أن يتوزع على الجميع، فتقوم مسؤوليتها دون خطأ على أساس المساواة أمام الأعباء العامة، وهو الحل الذي كرّسه قرار «كويتياس» الشهير في القضاء الإداري الفرنسي. فمشروعية القرار تنفي الخطأ لكنها لا تنفي المسؤولية دون خطأ. ولا وجود هنا لخطأ شخصي ولا لنشاط خطر.",
+   "difficulty": "HARD",
+   "topic_key": "spec.droit-administratif.responsabilite",
+   "objective_key": "spec.droit-administratif.responsabilite.o2",
+   "families": [
+    "administration-generale",
+    "bct",
+    "collectivites-locales",
+    "douane",
+    "ena",
+    "finances-impots",
+    "garde-nationale",
+    "police-officier",
+    "poste-tunisienne",
+    "prisons-reeducation",
+    "protection-civile",
+    "recrutement-special-diplomes",
+    "securite-sociale",
+    "techniciens-ingenieurs"
+   ],
+   "origin": "AI_GENERATED",
+   "source_key": null,
+   "year": null,
+   "valid_until": null,
+   "tags": [
+    "responsabilite-sans-faute",
+    "egalite-charges-publiques",
+    "doctrine"
+   ]
+  },
+  {
+   "id": "spec-droit-administratif-0029",
+   "type": "MCQ_SINGLE",
+   "language": "fr",
+   "stem": "Un automobiliste, usager d'une route publique, est blessé à cause d'une profonde excavation non signalée sur la chaussée. Selon la jurisprudence classique en matière de dommages de travaux publics, la responsabilité de l'administration est engagée :",
+   "options": [
+    {
+     "id": "a",
+     "text": "sans faute, du seul fait du dommage, comme à l'égard d'un tiers à l'ouvrage"
+    },
+    {
+     "id": "b",
+     "text": "sauf si l'administration établit que l'ouvrage faisait l'objet d'un entretien normal"
+    },
+    {
+     "id": "c",
+     "text": "seulement si la victime prouve une faute lourde de l'administration"
+    },
+    {
+     "id": "d",
+     "text": "jamais, l'usager ayant accepté les risques inhérents à la circulation"
+    }
+   ],
+   "correct": [
+    "b"
+   ],
+   "explanation": "En matière de dommages de travaux publics, la jurisprudence classique distingue selon la situation de la victime : l'usager de l'ouvrage bénéficie d'une présomption de défaut d'entretien normal, l'administration ne pouvant s'exonérer qu'en prouvant cet entretien normal ou une cause étrangère. La responsabilité sans faute (a) est réservée aux tiers par rapport à l'ouvrage, par exemple un riverain dont la maison est endommagée par des travaux. Exiger une faute lourde (c) serait trop restrictif, et l'acceptation des risques (d) ne couvre pas un danger anormal non signalé.",
+   "difficulty": "EXPERT",
+   "topic_key": "spec.droit-administratif.responsabilite",
+   "objective_key": "spec.droit-administratif.responsabilite.o2",
+   "families": [
+    "administration-generale",
+    "bct",
+    "collectivites-locales",
+    "douane",
+    "ena",
+    "finances-impots",
+    "garde-nationale",
+    "police-officier",
+    "poste-tunisienne",
+    "prisons-reeducation",
+    "protection-civile",
+    "recrutement-special-diplomes",
+    "securite-sociale",
+    "techniciens-ingenieurs"
+   ],
+   "origin": "AI_GENERATED",
+   "source_key": null,
+   "year": null,
+   "valid_until": null,
+   "tags": [
+    "travaux-publics",
+    "usager-tiers",
+    "doctrine"
+   ]
+  },
+  {
+   "id": "spec-droit-administratif-0030",
+   "type": "MCQ_SINGLE",
+   "language": "ar",
+   "stem": "النص القانوني الأساسي المنظّم للمحكمة الإدارية في تونس هو:",
+   "options": [
+    {
+     "id": "a",
+     "text": "الأمر عدد 1039 لسنة 2014 المؤرخ في 13 مارس 2014"
+    },
+    {
+     "id": "b",
+     "text": "القانون عدد 112 لسنة 1983 المؤرخ في 12 ديسمبر 1983"
+    },
+    {
+     "id": "c",
+     "text": "القانون الأساسي عدد 29 لسنة 2018 المؤرخ في 9 ماي 2018"
+    },
+    {
+     "id": "d",
+     "text": "القانون عدد 40 لسنة 1972 المؤرخ في 1 جوان 1972"
+    }
+   ],
+   "correct": [
+    "d"
+   ],
+   "explanation": "ينظّم القانون عدد 40 لسنة 1972 المؤرخ في 1 جوان 1972 المحكمة الإدارية، وقد نُقّح عدة مرات أهمها سنة 1996 التي أرست التقاضي على درجتين داخل القضاء الإداري. أما القانون عدد 112 لسنة 1983 فهو النظام الأساسي العام لأعوان الدولة والجماعات المحلية والمؤسسات العمومية ذات الصبغة الإدارية، والقانون الأساسي عدد 29 لسنة 2018 هو مجلة الجماعات المحلية، والأمر عدد 1039 لسنة 2014 ينظم الصفقات العمومية.",
+   "difficulty": "EASY",
+   "topic_key": "spec.droit-administratif.contentieux",
+   "objective_key": "spec.droit-administratif.contentieux.o1",
+   "families": [
+    "administration-generale",
+    "bct",
+    "collectivites-locales",
+    "douane",
+    "ena",
+    "finances-impots",
+    "garde-nationale",
+    "police-officier",
+    "poste-tunisienne",
+    "prisons-reeducation",
+    "protection-civile",
+    "recrutement-special-diplomes",
+    "securite-sociale",
+    "techniciens-ingenieurs"
+   ],
+   "origin": "AI_GENERATED",
+   "source_key": null,
+   "year": null,
+   "valid_until": null,
+   "tags": [
+    "tribunal-administratif",
+    "loi-72-40"
+   ]
+  },
+  {
+   "id": "spec-droit-administratif-0031",
+   "type": "MATCHING",
+   "language": "fr",
+   "stem": "Associez chaque voie de droit ou attribution du Tribunal administratif à son objet :",
+   "options": [
+    {
+     "id": "l1",
+     "text": "Recours pour excès de pouvoir",
+     "side": "left"
+    },
+    {
+     "id": "l2",
+     "text": "Recours de plein contentieux (responsabilité)",
+     "side": "left"
+    },
+    {
+     "id": "l3",
+     "text": "Demande de sursis à exécution",
+     "side": "left"
+    },
+    {
+     "id": "l4",
+     "text": "Fonction consultative",
+     "side": "left"
+    },
+    {
+     "id": "r1",
+     "text": "Suspendre provisoirement l'exécution d'une décision attaquée jusqu'au jugement",
+     "side": "right"
+    },
+    {
+     "id": "r2",
+     "text": "Donner un avis sur les projets de décrets à caractère réglementaire",
+     "side": "right"
+    },
+    {
+     "id": "r3",
+     "text": "Obtenir l'annulation d'une décision administrative illégale",
+     "side": "right"
+    },
+    {
+     "id": "r4",
+     "text": "Obtenir la condamnation de l'administration à réparer un préjudice",
+     "side": "right"
+    }
+   ],
+   "correct": {
+    "pairs": [
+     [
+      "l1",
+      "r3"
+     ],
+     [
+      "l2",
+      "r4"
+     ],
+     [
+      "l3",
+      "r1"
+     ],
+     [
+      "l4",
+      "r2"
+     ]
+    ]
+   },
+   "explanation": "Le recours pour excès de pouvoir est un recours objectif en annulation : le juge peut seulement annuler l'acte illégal. Le plein contentieux confère au juge des pouvoirs plus étendus, notamment celui de condamner l'administration à verser une indemnité. Le sursis à exécution est une mesure provisoire, nécessaire parce que le recours n'est pas suspensif par lui-même. Enfin, outre ses attributions juridictionnelles, le Tribunal administratif exerce une fonction consultative, notamment sur les projets de décrets réglementaires.",
+   "difficulty": "MEDIUM",
+   "topic_key": "spec.droit-administratif.contentieux",
+   "objective_key": "spec.droit-administratif.contentieux.o1",
+   "families": [
+    "administration-generale",
+    "bct",
+    "collectivites-locales",
+    "douane",
+    "ena",
+    "finances-impots",
+    "garde-nationale",
+    "police-officier",
+    "poste-tunisienne",
+    "prisons-reeducation",
+    "protection-civile",
+    "recrutement-special-diplomes",
+    "securite-sociale",
+    "techniciens-ingenieurs"
+   ],
+   "origin": "AI_GENERATED",
+   "source_key": null,
+   "year": null,
+   "valid_until": null,
+   "tags": [
+    "tribunal-administratif",
+    "voies-de-recours",
+    "needs_verification"
+   ]
+  },
+  {
+   "id": "spec-droit-administratif-0032",
+   "type": "MCQ_SINGLE",
+   "language": "ar",
+   "stem": "حسب القانون المتعلق بالمحكمة الإدارية، يعود الإذن بتوقيف تنفيذ قرار إداري مطعون فيه بتجاوز السلطة، من حيث المبدأ، إلى:",
+   "options": [
+    {
+     "id": "a",
+     "text": "الجلسة العامة القضائية للمحكمة الإدارية"
+    },
+    {
+     "id": "b",
+     "text": "الدائرة الاستئنافية التي ستنظر لاحقا في الطعن"
+    },
+    {
+     "id": "c",
+     "text": "الرئيس الأول للمحكمة الإدارية"
+    },
+    {
+     "id": "d",
+     "text": "وكيل الجمهورية لدى المحكمة الابتدائية"
+    }
+   ],
+   "correct": [
+    "c"
+   ],
+   "explanation": "لا يترتب عن دعوى تجاوز السلطة توقيف تنفيذ القرار المطعون فيه، غير أن القانون المتعلق بالمحكمة الإدارية يخوّل الرئيس الأول للمحكمة الإدارية أن يأذن بتوقيف التنفيذ إذا استندت الطلبات إلى أسباب جدية في ظاهرها وكان من شأن التنفيذ أن يُحدث للطالب نتائج يصعب تداركها. ويُتخذ هذا الإذن في شكل قرار وقتي لا يمسّ بأصل النزاع. أما الدوائر الاستئنافية والجلسة العامة فتنظر في الطعون في الأحكام، ووكيل الجمهورية ينتمي إلى القضاء العدلي ولا اختصاص له في هذه المادة.",
+   "difficulty": "HARD",
+   "topic_key": "spec.droit-administratif.contentieux",
+   "objective_key": "spec.droit-administratif.contentieux.o1",
+   "families": [
+    "administration-generale",
+    "bct",
+    "collectivites-locales",
+    "douane",
+    "ena",
+    "finances-impots",
+    "garde-nationale",
+    "police-officier",
+    "poste-tunisienne",
+    "prisons-reeducation",
+    "protection-civile",
+    "recrutement-special-diplomes",
+    "securite-sociale",
+    "techniciens-ingenieurs"
+   ],
+   "origin": "AI_GENERATED",
+   "source_key": null,
+   "year": null,
+   "valid_until": null,
+   "tags": [
+    "sursis-a-execution",
+    "tribunal-administratif",
+    "needs_verification"
+   ]
+  },
+  {
+   "id": "spec-droit-administratif-0033",
+   "type": "MCQ_SINGLE",
+   "language": "fr",
+   "stem": "Depuis la réforme de 1996 de la loi relative au Tribunal administratif, un jugement rendu en premier ressort par une chambre de première instance en matière d'excès de pouvoir peut faire l'objet :",
+   "options": [
+    {
+     "id": "a",
+     "text": "d'un appel devant les chambres d'appel du Tribunal administratif"
+    },
+    {
+     "id": "b",
+     "text": "d'un appel devant la cour d'appel de l'ordre judiciaire"
+    },
+    {
+     "id": "c",
+     "text": "d'aucune voie de recours, la décision étant toujours rendue en dernier ressort"
+    },
+    {
+     "id": "d",
+     "text": "d'un recours devant la Cour des comptes"
+    }
+   ],
+   "correct": [
+    "a"
+   ],
+   "explanation": "La réforme de 1996 a consacré le double degré de juridiction au sein même de la juridiction administrative : les jugements rendus en premier ressort par les chambres de première instance peuvent être frappés d'appel devant les chambres d'appel du Tribunal administratif, avant un éventuel pourvoi en cassation. Les juridictions de l'ordre judiciaire ne connaissent pas de l'appel des jugements administratifs (b), et la Cour des comptes est une juridiction financière étrangère au contentieux de l'excès de pouvoir (d).",
+   "difficulty": "MEDIUM",
+   "topic_key": "spec.droit-administratif.contentieux",
+   "objective_key": "spec.droit-administratif.contentieux.o1",
+   "families": [
+    "administration-generale",
+    "bct",
+    "collectivites-locales",
+    "douane",
+    "ena",
+    "finances-impots",
+    "garde-nationale",
+    "police-officier",
+    "poste-tunisienne",
+    "prisons-reeducation",
+    "protection-civile",
+    "recrutement-special-diplomes",
+    "securite-sociale",
+    "techniciens-ingenieurs"
+   ],
+   "origin": "AI_GENERATED",
+   "source_key": null,
+   "year": null,
+   "valid_until": null,
+   "tags": [
+    "tribunal-administratif",
+    "double-degre",
+    "needs_verification"
+   ]
+  },
+  {
+   "id": "spec-droit-administratif-0034",
+   "type": "NUMERIC",
+   "language": "ar",
+   "stem": "ما هو أجل القيام بدعوى تجاوز السلطة أمام المحكمة الإدارية، محسوبا بالأشهر، بداية من تاريخ نشر القرار المطعون فيه أو الإعلام به؟ (أدخل عددا)",
+   "options": [],
+   "correct": {
+    "value": 2,
+    "tolerance": 0
+   },
+   "explanation": "تُرفع دعوى تجاوز السلطة في أجل شهرين من تاريخ نشر القرار الترتيبي أو الإعلام بالقرار الفردي، وبانقضاء هذا الأجل يصبح القرار نهائيا ولا يمكن طلب إلغائه. ولا يجب الخلط بين هذا الأجل وأجل الرد على مطالب النفاذ إلى المعلومة (20 يوما)، ولا بين الطعن في القرار الإداري والطعن في الأحكام الذي يخضع لآجال أخرى.",
+   "difficulty": "EASY",
+   "topic_key": "spec.droit-administratif.contentieux",
+   "objective_key": "spec.droit-administratif.contentieux.o2",
+   "families": [
+    "administration-generale",
+    "bct",
+    "collectivites-locales",
+    "douane",
+    "ena",
+    "finances-impots",
+    "garde-nationale",
+    "police-officier",
+    "poste-tunisienne",
+    "prisons-reeducation",
+    "protection-civile",
+    "recrutement-special-diplomes",
+    "securite-sociale",
+    "techniciens-ingenieurs"
+   ],
+   "origin": "AI_GENERATED",
+   "source_key": null,
+   "year": null,
+   "valid_until": null,
+   "tags": [
+    "exces-de-pouvoir",
+    "delais"
+   ]
+  },
+  {
+   "id": "spec-droit-administratif-0035",
+   "type": "TRUE_FALSE",
+   "language": "ar",
+   "stem": "صحيح أم خطأ: يترتّب آليا عن رفع دعوى تجاوز السلطة أمام المحكمة الإدارية توقيف تنفيذ القرار الإداري المطعون فيه.",
+   "options": [
+    {
+     "id": "a",
+     "text": "صحيح"
+    },
+    {
+     "id": "b",
+     "text": "خطأ"
+    }
+   ],
+   "correct": [
+    "b"
+   ],
+   "explanation": "العبارة خاطئة: القرار الإداري يتمتع بالصبغة التنفيذية، ولا يوقف القيام بدعوى تجاوز السلطة تنفيذه. ولتفادي نتائج يصعب تداركها، على المدعي أن يقدّم مطلبا خاصا في توقيف التنفيذ، يُبتّ فيه بقرار وقتي إذا توفرت شروطه.",
+   "difficulty": "EASY",
+   "topic_key": "spec.droit-administratif.contentieux",
+   "objective_key": "spec.droit-administratif.contentieux.o2",
+   "families": [
+    "administration-generale",
+    "bct",
+    "collectivites-locales",
+    "douane",
+    "ena",
+    "finances-impots",
+    "garde-nationale",
+    "police-officier",
+    "poste-tunisienne",
+    "prisons-reeducation",
+    "protection-civile",
+    "recrutement-special-diplomes",
+    "securite-sociale",
+    "techniciens-ingenieurs"
+   ],
+   "origin": "AI_GENERATED",
+   "source_key": null,
+   "year": null,
+   "valid_until": null,
+   "tags": [
+    "exces-de-pouvoir",
+    "effet-non-suspensif"
+   ]
+  },
+  {
+   "id": "spec-droit-administratif-0036",
+   "type": "MCQ_MULTI",
+   "language": "fr",
+   "stem": "Parmi les moyens suivants, lesquels constituent des cas d'ouverture du recours pour excès de pouvoir ? (plusieurs réponses)",
+   "options": [
+    {
+     "id": "a",
+     "text": "L'inopportunité de la décision"
+    },
+    {
+     "id": "b",
+     "text": "Le détournement de pouvoir"
+    },
+    {
+     "id": "c",
+     "text": "La violation des formes et procédures substantielles"
+    },
+    {
+     "id": "d",
+     "text": "Le montant élevé du préjudice financier subi par le requérant"
+    },
+    {
+     "id": "e",
+     "text": "L'incompétence de l'auteur de l'acte"
+    }
+   ],
+   "correct": [
+    "b",
+    "c",
+    "e"
+   ],
+   "explanation": "Les cas d'ouverture classiques du recours pour excès de pouvoir sont l'incompétence, le vice de forme ou de procédure substantielle, la violation de la loi (d'une règle de droit) et le détournement de pouvoir ou de procédure. Le juge de l'excès de pouvoir contrôle la légalité et non l'opportunité : une décision légale mais jugée inopportune ne peut pas être annulée pour ce seul motif (a). L'importance du préjudice (d) peut fonder une demande d'indemnisation en plein contentieux, mais n'est pas un moyen d'annulation.",
+   "difficulty": "MEDIUM",
+   "topic_key": "spec.droit-administratif.contentieux",
+   "objective_key": "spec.droit-administratif.contentieux.o2",
+   "families": [
+    "administration-generale",
+    "bct",
+    "collectivites-locales",
+    "douane",
+    "ena",
+    "finances-impots",
+    "garde-nationale",
+    "police-officier",
+    "poste-tunisienne",
+    "prisons-reeducation",
+    "protection-civile",
+    "recrutement-special-diplomes",
+    "securite-sociale",
+    "techniciens-ingenieurs"
+   ],
+   "origin": "AI_GENERATED",
+   "source_key": null,
+   "year": null,
+   "valid_until": null,
+   "tags": [
+    "exces-de-pouvoir",
+    "cas-d-ouverture"
+   ]
+  },
+  {
+   "id": "spec-droit-administratif-0037",
+   "type": "MCQ_SINGLE",
+   "language": "ar",
+   "stem": "أُعلم موظف بقرار فردي يخصّه، فقدّم داخل أجل الطعن مطلبا مسبقا (تظلّما) إلى الإدارة مصدرة القرار. ما هو أثر هذا المطلب المسبق على أجل القيام بدعوى تجاوز السلطة؟",
+   "options": [
+    {
+     "id": "a",
+     "text": "يوقف تنفيذ القرار الإداري إلى حين رد الإدارة"
+    },
+    {
+     "id": "b",
+     "text": "لا أثر له على الأجل، فيجب رفع الدعوى في كل الحالات خلال شهرين من الإعلام بالقرار"
+    },
+    {
+     "id": "c",
+     "text": "هو شرط وجوبي لقبول الدعوى، وإلا رُفضت شكلا"
+    },
+    {
+     "id": "d",
+     "text": "يمدّد أجل الطعن، فلا يُحتسب أجل الشهرين لرفع الدعوى إلا من تاريخ رد الإدارة الصريح أو الضمني على المطلب"
+    }
+   ],
+   "correct": [
+    "d"
+   ],
+   "explanation": "المطلب المسبق اختياري مبدئيا أمام المحكمة الإدارية، لكنه إذا قُدّم داخل أجل الطعن مدّد هذا الأجل، فيُحتسب أجل الشهرين لرفع الدعوى من تاريخ رد الإدارة صراحة، أو من تاريخ الرفض الضمني الناتج عن سكوتها مدة شهرين. لذلك فإن القول بانعدام أثره على الأجل خاطئ، كما أن اعتباره شرطا وجوبيا لقبول الدعوى لا يتماشى مع القاعدة العامة. ولا يوقف المطلب المسبق تنفيذ القرار، شأنه في ذلك شأن الدعوى نفسها.",
+   "difficulty": "EXPERT",
+   "topic_key": "spec.droit-administratif.contentieux",
+   "objective_key": "spec.droit-administratif.contentieux.o2",
+   "families": [
+    "administration-generale",
+    "bct",
+    "collectivites-locales",
+    "douane",
+    "ena",
+    "finances-impots",
+    "garde-nationale",
+    "police-officier",
+    "poste-tunisienne",
+    "prisons-reeducation",
+    "protection-civile",
+    "recrutement-special-diplomes",
+    "securite-sociale",
+    "techniciens-ingenieurs"
+   ],
+   "origin": "AI_GENERATED",
+   "source_key": null,
+   "year": null,
+   "valid_until": null,
+   "tags": [
+    "exces-de-pouvoir",
+    "recours-prealable",
+    "delais",
+    "needs_verification"
+   ]
+  },
+  {
+   "id": "spec-droit-administratif-0038",
+   "type": "MCQ_SINGLE",
+   "language": "fr",
+   "stem": "Les fonctionnaires régis par la loi n° 83-112 du 12 décembre 1983 sont classés, selon le niveau de recrutement, dans des catégories désignées par :",
+   "options": [
+    {
+     "id": "a",
+     "text": "les lettres A et B uniquement"
+    },
+    {
+     "id": "b",
+     "text": "les chiffres romains I à V"
+    },
+    {
+     "id": "c",
+     "text": "les lettres A, B, C et D, la catégorie A étant subdivisée en sous-catégories A1, A2 et A3"
+    },
+    {
+     "id": "d",
+     "text": "des numéros d'échelle de 1 à 10, sans catégorie"
+    }
+   ],
+   "correct": [
+    "c"
+   ],
+   "explanation": "Le statut général répartit les fonctionnaires en quatre catégories, A, B, C et D, la catégorie A, la plus élevée, comprenant les sous-catégories A1, A2 et A3. Chaque grade est rattaché à une catégorie selon le niveau de qualification exigé au recrutement. Les autres propositions ne correspondent pas au classement retenu par le statut général.",
+   "difficulty": "EASY",
+   "topic_key": "spec.droit-administratif.fonction-publique",
+   "objective_key": "spec.droit-administratif.fonction-publique.o1",
+   "families": [
+    "administration-generale",
+    "bct",
+    "collectivites-locales",
+    "douane",
+    "ena",
+    "finances-impots",
+    "garde-nationale",
+    "police-officier",
+    "poste-tunisienne",
+    "prisons-reeducation",
+    "protection-civile",
+    "recrutement-special-diplomes",
+    "securite-sociale",
+    "techniciens-ingenieurs"
+   ],
+   "origin": "AI_GENERATED",
+   "source_key": null,
+   "year": null,
+   "valid_until": null,
+   "tags": [
+    "loi-83-112",
+    "categories",
+    "needs_verification"
+   ]
+  },
+  {
+   "id": "spec-droit-administratif-0039",
+   "type": "MCQ_SINGLE",
+   "language": "ar",
+   "stem": "يُقصد بالترقية في الوظيفة العمومية:",
+   "options": [
+    {
+     "id": "a",
+     "text": "انتقال الموظف من رتبة إلى الرتبة الأعلى منها مباشرة"
+    },
+    {
+     "id": "b",
+     "text": "انتقال الموظف من درجة إلى الدرجة الموالية داخل نفس الرتبة"
+    },
+    {
+     "id": "c",
+     "text": "نقلة الموظف من إدارة إلى إدارة أخرى"
+    },
+    {
+     "id": "d",
+     "text": "إلحاق الموظف بمؤسسة عمومية أخرى"
+    }
+   ],
+   "correct": [
+    "a"
+   ],
+   "explanation": "الترقية هي الانتقال من رتبة إلى الرتبة الأعلى منها مباشرة، وتتم وفق الطرق التي يضبطها النظام الأساسي الخاص، كالمناظرة الداخلية أو الامتحان المهني أو الاختيار. أما الانتقال من درجة إلى الدرجة الموالية داخل نفس الرتبة فيُسمّى التدرّج، ويرتبط أساسا بالأقدمية والعدد المهني. والنقلة والإلحاق لا يغيّران الرتبة، بل يتعلقان بمكان العمل أو بالوضعية الإدارية.",
+   "difficulty": "EASY",
+   "topic_key": "spec.droit-administratif.fonction-publique",
+   "objective_key": "spec.droit-administratif.fonction-publique.o1",
+   "families": [
+    "administration-generale",
+    "bct",
+    "collectivites-locales",
+    "douane",
+    "ena",
+    "finances-impots",
+    "garde-nationale",
+    "police-officier",
+    "poste-tunisienne",
+    "prisons-reeducation",
+    "protection-civile",
+    "recrutement-special-diplomes",
+    "securite-sociale",
+    "techniciens-ingenieurs"
+   ],
+   "origin": "AI_GENERATED",
+   "source_key": null,
+   "year": null,
+   "valid_until": null,
+   "tags": [
+    "loi-83-112",
+    "carriere",
+    "promotion"
+   ]
+  },
+  {
+   "id": "spec-droit-administratif-0040",
+   "type": "MCQ_MULTI",
+   "language": "fr",
+   "stem": "Parmi les situations suivantes, lesquelles constituent des positions statutaires dans lesquelles un fonctionnaire peut être placé ? (plusieurs réponses)",
+   "options": [
+    {
+     "id": "a",
+     "text": "La titularisation"
+    },
+    {
+     "id": "b",
+     "text": "Le détachement"
+    },
+    {
+     "id": "c",
+     "text": "La mise en disponibilité"
+    },
+    {
+     "id": "d",
+     "text": "Le blâme"
+    },
+    {
+     "id": "e",
+     "text": "L'activité"
+    }
+   ],
+   "correct": [
+    "b",
+    "c",
+    "e"
+   ],
+   "explanation": "Le statut général prévoit que le fonctionnaire se trouve dans une position statutaire, notamment l'activité, le détachement ou la mise en disponibilité. Le blâme est une sanction disciplinaire du premier degré, et non une position. La titularisation, quant à elle, est un acte de carrière qui met fin au stage et confère la qualité de fonctionnaire titulaire.",
+   "difficulty": "MEDIUM",
+   "topic_key": "spec.droit-administratif.fonction-publique",
+   "objective_key": "spec.droit-administratif.fonction-publique.o1",
+   "families": [
+    "administration-generale",
+    "bct",
+    "collectivites-locales",
+    "douane",
+    "ena",
+    "finances-impots",
+    "garde-nationale",
+    "police-officier",
+    "poste-tunisienne",
+    "prisons-reeducation",
+    "protection-civile",
+    "recrutement-special-diplomes",
+    "securite-sociale",
+    "techniciens-ingenieurs"
+   ],
+   "origin": "AI_GENERATED",
+   "source_key": null,
+   "year": null,
+   "valid_until": null,
+   "tags": [
+    "loi-83-112",
+    "positions"
+   ]
+  },
+  {
+   "id": "spec-droit-administratif-0041",
+   "type": "MCQ_SINGLE",
+   "language": "ar",
+   "stem": "موظف وُضع، بطلب منه، خارج إدارته الأصلية لمدة محددة لأسباب شخصية، فانقطع خلالها صرف مرتبه وتوقّف تدرّجه وحقّه في احتساب تلك المدة للتقاعد. الوضعية النظامية التي يوجد فيها هذا الموظف هي:",
+   "options": [
+    {
+     "id": "a",
+     "text": "العطلة لأسباب صحية"
+    },
+    {
+     "id": "b",
+     "text": "الإلحاق"
+    },
+    {
+     "id": "c",
+     "text": "المباشرة"
+    },
+    {
+     "id": "d",
+     "text": "عدم المباشرة"
+    }
+   ],
+   "correct": [
+    "d"
+   ],
+   "explanation": "وضعية عدم المباشرة هي وضعية الموظف الذي يوضع وقتيا خارج إدارته الأصلية، فيتوقف خلالها عن تقاضي مرتبه ولا يتمتع فيها بحقوقه في التدرج والتقاعد. وتختلف عنها وضعية الإلحاق، وهي الخيار الأكثر التباسا، إذ يمارس فيها الموظف عمله لدى هيكل آخر مع مواصلة التمتع في سلكه الأصلي بحقوقه في التدرج والتقاعد. أما المباشرة فتعني ممارسة الموظف فعليا لمهام رتبته، وتُعدّ العطل المرضية مبدئيا من صورها.",
+   "difficulty": "HARD",
+   "topic_key": "spec.droit-administratif.fonction-publique",
+   "objective_key": "spec.droit-administratif.fonction-publique.o1",
+   "families": [
+    "administration-generale",
+    "bct",
+    "collectivites-locales",
+    "douane",
+    "ena",
+    "finances-impots",
+    "garde-nationale",
+    "police-officier",
+    "poste-tunisienne",
+    "prisons-reeducation",
+    "protection-civile",
+    "recrutement-special-diplomes",
+    "securite-sociale",
+    "techniciens-ingenieurs"
+   ],
+   "origin": "AI_GENERATED",
+   "source_key": null,
+   "year": null,
+   "valid_until": null,
+   "tags": [
+    "loi-83-112",
+    "positions",
+    "disponibilite",
+    "needs_verification"
+   ]
+  },
+  {
+   "id": "spec-droit-administratif-0042",
+   "type": "MCQ_SINGLE",
+   "language": "fr",
+   "stem": "Laquelle des sanctions disciplinaires suivantes relève du premier degré selon le statut général de la fonction publique (loi n° 83-112) ?",
+   "options": [
+    {
+     "id": "a",
+     "text": "La révocation"
+    },
+    {
+     "id": "b",
+     "text": "Le blâme"
+    },
+    {
+     "id": "c",
+     "text": "L'exclusion temporaire de fonctions"
+    },
+    {
+     "id": "d",
+     "text": "La rétrogradation"
+    }
+   ],
+   "correct": [
+    "b"
+   ],
+   "explanation": "Le statut général distingue les sanctions du premier degré, les plus légères, à savoir l'avertissement et le blâme, et les sanctions du second degré, plus graves, qui comprennent notamment l'exclusion temporaire de fonctions avec privation de traitement et la révocation. Les sanctions du second degré ne peuvent être prononcées qu'après consultation du conseil de discipline. La révocation, sanction la plus grave, entraîne la rupture définitive du lien avec l'administration.",
+   "difficulty": "EASY",
+   "topic_key": "spec.droit-administratif.fonction-publique",
+   "objective_key": "spec.droit-administratif.fonction-publique.o2",
+   "families": [
+    "administration-generale",
+    "bct",
+    "collectivites-locales",
+    "douane",
+    "ena",
+    "finances-impots",
+    "garde-nationale",
+    "police-officier",
+    "poste-tunisienne",
+    "prisons-reeducation",
+    "protection-civile",
+    "recrutement-special-diplomes",
+    "securite-sociale",
+    "techniciens-ingenieurs"
+   ],
+   "origin": "AI_GENERATED",
+   "source_key": null,
+   "year": null,
+   "valid_until": null,
+   "tags": [
+    "loi-83-112",
+    "discipline"
+   ]
+  },
+  {
+   "id": "spec-droit-administratif-0043",
+   "type": "TRUE_FALSE",
+   "language": "ar",
+   "stem": "صحيح أم خطأ: لا يمكن تسليط عقوبة تأديبية من الدرجة الثانية على الموظف إلا بعد استشارة مجلس التأديب، مع تمكين الموظف من الاطلاع على ملفه وتقديم وسائل دفاعه.",
+   "options": [
+    {
+     "id": "a",
+     "text": "صحيح"
+    },
+    {
+     "id": "b",
+     "text": "خطأ"
+    }
+   ],
+   "correct": [
+    "a"
+   ],
+   "explanation": "العبارة صحيحة: تخضع عقوبات الدرجة الثانية، وهي الأشد، لضمانات إجرائية أهمها استشارة مجلس التأديب، أي اللجنة الإدارية المتناصفة المنعقدة في شكل مجلس تأديب، واحترام حقوق الدفاع كالاطلاع على الملف وتقديم الملاحظات والاستعانة بمدافع. ويؤدي عدم احترام هذه الضمانات إلى عدم شرعية العقوبة وقابليتها للإلغاء من قبل المحكمة الإدارية لخرق الصيغ الجوهرية.",
+   "difficulty": "MEDIUM",
+   "topic_key": "spec.droit-administratif.fonction-publique",
+   "objective_key": "spec.droit-administratif.fonction-publique.o2",
+   "families": [
+    "administration-generale",
+    "bct",
+    "collectivites-locales",
+    "douane",
+    "ena",
+    "finances-impots",
+    "garde-nationale",
+    "police-officier",
+    "poste-tunisienne",
+    "prisons-reeducation",
+    "protection-civile",
+    "recrutement-special-diplomes",
+    "securite-sociale",
+    "techniciens-ingenieurs"
+   ],
+   "origin": "AI_GENERATED",
+   "source_key": null,
+   "year": null,
+   "valid_until": null,
+   "tags": [
+    "loi-83-112",
+    "discipline",
+    "droits-de-la-defense"
+   ]
+  },
+  {
+   "id": "spec-droit-administratif-0044",
+   "type": "MCQ_SINGLE",
+   "language": "ar",
+   "stem": "أيّ من الأفعال التالية يُحجَّر مبدئيا على الموظف العمومي؟",
+   "options": [
+    {
+     "id": "a",
+     "text": "المشاركة في مناظرة داخلية للترقية"
+    },
+    {
+     "id": "b",
+     "text": "الانخراط في نقابة مهنية"
+    },
+    {
+     "id": "c",
+     "text": "ممارسة نشاط مهني خاص بمقابل إلى جانب وظيفته دون ترخيص قانوني"
+    },
+    {
+     "id": "d",
+     "text": "طلب الاطلاع على ملفه الإداري الشخصي"
+    }
+   ],
+   "correct": [
+    "c"
+   ],
+   "explanation": "يُفرض على الموظف تخصيص نشاطه المهني للمهام الموكولة إليه، لذلك يُحجَّر عليه مبدئيا ممارسة نشاط خاص بمقابل، إلا في الحالات والشروط التي تضبطها النصوص، كالإنتاج العلمي أو الأدبي أو الفني. أما الحق النقابي فهو مضمون للموظفين، والمشاركة في المناظرات الداخلية طريقة عادية للترقية، كما أن للموظف حق الاطلاع على ملفه، خاصة في المادة التأديبية.",
+   "difficulty": "MEDIUM",
+   "topic_key": "spec.droit-administratif.fonction-publique",
+   "objective_key": "spec.droit-administratif.fonction-publique.o2",
+   "families": [
+    "administration-generale",
+    "bct",
+    "collectivites-locales",
+    "douane",
+    "ena",
+    "finances-impots",
+    "garde-nationale",
+    "police-officier",
+    "poste-tunisienne",
+    "prisons-reeducation",
+    "protection-civile",
+    "recrutement-special-diplomes",
+    "securite-sociale",
+    "techniciens-ingenieurs"
+   ],
+   "origin": "AI_GENERATED",
+   "source_key": null,
+   "year": null,
+   "valid_until": null,
+   "tags": [
+    "loi-83-112",
+    "obligations",
+    "cumul-d-activites"
+   ]
+  },
+  {
+   "id": "spec-droit-administratif-0045",
+   "type": "MCQ_SINGLE",
+   "language": "fr",
+   "stem": "Concernant la démission d'un fonctionnaire, laquelle de ces affirmations est exacte ?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Elle doit résulter d'une demande écrite et ne produit effet qu'après son acceptation par l'autorité investie du pouvoir de nomination"
+    },
+    {
+     "id": "b",
+     "text": "Elle produit effet dès le dépôt de la lettre, l'administration étant tenue de l'enregistrer sans délai"
+    },
+    {
+     "id": "c",
+     "text": "Elle n'est valable qu'après avis conforme du Tribunal administratif"
+    },
+    {
+     "id": "d",
+     "text": "Elle peut être valablement présentée oralement au supérieur hiérarchique direct"
+    }
+   ],
+   "correct": [
+    "a"
+   ],
+   "explanation": "La démission doit traduire une volonté non équivoque de quitter le service : elle prend la forme d'une demande écrite et ne devient effective qu'après son acceptation par l'autorité investie du pouvoir de nomination, à la date fixée par celle-ci. Ce mécanisme préserve la continuité du service public : l'agent qui cesse ses fonctions avant l'acceptation s'expose à des poursuites disciplinaires, notamment pour abandon de poste. Une démission n'est donc ni immédiate (b) ni subordonnée à l'intervention du juge (c).",
+   "difficulty": "HARD",
+   "topic_key": "spec.droit-administratif.fonction-publique",
+   "objective_key": "spec.droit-administratif.fonction-publique.o2",
+   "families": [
+    "administration-generale",
+    "bct",
+    "collectivites-locales",
+    "douane",
+    "ena",
+    "finances-impots",
+    "garde-nationale",
+    "police-officier",
+    "poste-tunisienne",
+    "prisons-reeducation",
+    "protection-civile",
+    "recrutement-special-diplomes",
+    "securite-sociale",
+    "techniciens-ingenieurs"
+   ],
+   "origin": "AI_GENERATED",
+   "source_key": null,
+   "year": null,
+   "valid_until": null,
+   "tags": [
+    "loi-83-112",
+    "cessation-des-fonctions",
+    "demission",
+    "needs_verification"
+   ]
+  }
+ ]
+}

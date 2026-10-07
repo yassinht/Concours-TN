@@ -334,7 +334,12 @@ export class AdminCatalogService {
       confidence: patch.confidence ?? cur.confidence,
       needsVerification: patch.needsVerification ?? cur.needsVerification,
     };
-    await this.validateEdition(fam.id, merged, id);
+    await this.validateEdition(fam.id, merged, id, {
+      source: patch.sourceId !== undefined || (cur.needsVerification && !merged.needsVerification),
+      identity: patch.familySlug !== undefined || patch.year !== undefined || patch.sessionLabel !== undefined,
+      positions: patch.positionSlugs !== undefined || patch.familySlug !== undefined,
+      dates: patch.registrationOpen !== undefined || patch.registrationDeadline !== undefined || patch.examDate !== undefined,
+    });
 
     const set = {
       familyId: fam.id, year: merged.year, sessionLabel: merged.sessionLabel?.trim() || null, status: merged.status,
@@ -385,22 +390,27 @@ export class AdminCatalogService {
     return { sent };
   }
 
-  private async validateEdition(familyId: string, e: EditionInput, exceptId: string | null): Promise<void> {
+  /**
+   * `checks` limits the database checks to what an update actually touches, so editing one field of a legacy row never
+   * fails on data nobody changed.
+   */
+  private async validateEdition(familyId: string, e: EditionInput, exceptId: string | null, checks = { source: true, identity: true, positions: true, dates: true }): Promise<void> {
     const issues: { path: string[]; message: string }[] = [];
     for (const k of ['registrationOpen', 'registrationDeadline', 'examDate'] as const) {
       if (e[k] != null && !isoDate.safeParse(e[k]).success) issues.push({ path: [k], message: 'YYYY-MM-DD' });
     }
     if (issues.length) throw badRequest('VALIDATION_FAILED', { issues });
-    if (e.registrationOpen && e.registrationDeadline && e.registrationOpen > e.registrationDeadline) throw badRequest('DATES_ORDER', { field: 'registrationDeadline' });
-    if (e.registrationDeadline && e.examDate && e.examDate < e.registrationDeadline) throw badRequest('DATES_ORDER', { field: 'examDate' });
+    if (checks.dates && e.registrationOpen && e.registrationDeadline && e.registrationOpen > e.registrationDeadline) throw badRequest('DATES_ORDER', { field: 'registrationDeadline' });
+    if (checks.dates && e.registrationDeadline && e.examDate && e.examDate < e.registrationDeadline) throw badRequest('DATES_ORDER', { field: 'examDate' });
 
-    const slugs = [...new Set(e.positionSlugs)];
+    const slugs = checks.positions ? [...new Set(e.positionSlugs)] : [];
     if (slugs.length) {
       const found = await this.db.select({ slug: positions.slug }).from(positions).where(and(eq(positions.familyId, familyId), inArray(positions.slug, slugs)));
       const unknown = slugs.filter((s) => !found.some((f) => f.slug === s));
       if (unknown.length) throw badRequest('UNKNOWN_POSITION', { positionSlugs: unknown });
     }
-    await this.assertSource(e.sourceId ?? null, !e.needsVerification);
+    if (checks.source) await this.assertSource(e.sourceId ?? null, !e.needsVerification);
+    if (!checks.identity) return;
 
     const label = e.sessionLabel?.trim() || null;
     const [dupe] = await this.db

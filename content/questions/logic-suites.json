@@ -1,0 +1,1859 @@
+{
+ "bank": "logic-suites",
+ "domain": "LOGIC",
+ "specialty_syllabus": [],
+ "sources": [],
+ "research_notes": "Original logic questions (number and letter sequences) written for this bank; origin AI_GENERATED. No Tunisia-specific, legal or time-sensitive facts are involved, so no official source is cited and valid_until is null. Every expected answer was recomputed by a script (arithmetic/geometric rules, letter ranks A=1..Z=26). The only Arabic-alphabet item states the hija'i order in its stem, because other traditional letter orders exist (Maghrebi order, abjad).",
+ "questions": [
+  {
+   "id": "logic-suites-0001",
+   "type": "MCQ_SINGLE",
+   "language": "fr",
+   "stem": "Quel nombre complète la suite : 3, 7, 11, 15, 19, … ?",
+   "options": [
+    {
+     "id": "a",
+     "text": "23"
+    },
+    {
+     "id": "b",
+     "text": "21"
+    },
+    {
+     "id": "c",
+     "text": "24"
+    },
+    {
+     "id": "d",
+     "text": "27"
+    }
+   ],
+   "correct": [
+    "a"
+   ],
+   "explanation": "On ajoute 4 à chaque terme : 3 + 4 = 7, 7 + 4 = 11, et ainsi de suite. Le terme suivant est donc 19 + 4 = 23. La réponse 21 correspond à un ajout de 2 seulement, ce qui ne respecte pas l'écart constant de la suite.",
+   "difficulty": "EASY",
+   "topic_key": "lo.suites-numeriques",
+   "objective_key": "lo.suites-numeriques.o1",
+   "families": [
+    "*"
+   ],
+   "origin": "AI_GENERATED",
+   "source_key": null,
+   "year": null,
+   "valid_until": null,
+   "tags": [
+    "suite arithmétique",
+    "différence constante"
+   ]
+  },
+  {
+   "id": "logic-suites-0002",
+   "type": "MCQ_SINGLE",
+   "language": "ar",
+   "stem": "ما هو العدد الذي يكمل المتتالية التالية: 2، 6، 18، 54، … ؟",
+   "options": [
+    {
+     "id": "a",
+     "text": "108"
+    },
+    {
+     "id": "b",
+     "text": "158"
+    },
+    {
+     "id": "c",
+     "text": "162"
+    },
+    {
+     "id": "d",
+     "text": "216"
+    }
+   ],
+   "correct": [
+    "c"
+   ],
+   "explanation": "كل حد يساوي الحد السابق مضروبًا في 3: 2 × 3 = 6، ثم 6 × 3 = 18، ثم 18 × 3 = 54. إذن الحد الموالي هو 54 × 3 = 162. أما 108 فناتج عن الضرب في 2 فقط، وهو لا يحترم قاعدة المتتالية.",
+   "difficulty": "EASY",
+   "topic_key": "lo.suites-numeriques",
+   "objective_key": "lo.suites-numeriques.o1",
+   "families": [
+    "*"
+   ],
+   "origin": "AI_GENERATED",
+   "source_key": null,
+   "year": null,
+   "valid_until": null,
+   "tags": [
+    "متتالية هندسية",
+    "الضرب"
+   ]
+  },
+  {
+   "id": "logic-suites-0003",
+   "type": "MCQ_SINGLE",
+   "language": "fr",
+   "stem": "Complétez la suite : 100, 93, 86, 79, …",
+   "options": [
+    {
+     "id": "a",
+     "text": "71"
+    },
+    {
+     "id": "b",
+     "text": "72"
+    },
+    {
+     "id": "c",
+     "text": "73"
+    },
+    {
+     "id": "d",
+     "text": "69"
+    }
+   ],
+   "correct": [
+    "b"
+   ],
+   "explanation": "La suite est décroissante : on retranche 7 à chaque étape (100 − 7 = 93, 93 − 7 = 86, 86 − 7 = 79). Le terme suivant vaut donc 79 − 7 = 72. La réponse 71 provient d'une erreur fréquente : retrancher 8 au lieu de 7.",
+   "difficulty": "EASY",
+   "topic_key": "lo.suites-numeriques",
+   "objective_key": "lo.suites-numeriques.o1",
+   "families": [
+    "*"
+   ],
+   "origin": "AI_GENERATED",
+   "source_key": null,
+   "year": null,
+   "valid_until": null,
+   "tags": [
+    "suite arithmétique",
+    "suite décroissante"
+   ]
+  },
+  {
+   "id": "logic-suites-0004",
+   "type": "MCQ_SINGLE",
+   "language": "ar",
+   "stem": "أكمل المتتالية: 1، 4، 9، 16، 25، …",
+   "options": [
+    {
+     "id": "a",
+     "text": "30"
+    },
+    {
+     "id": "b",
+     "text": "34"
+    },
+    {
+     "id": "c",
+     "text": "49"
+    },
+    {
+     "id": "d",
+     "text": "36"
+    }
+   ],
+   "correct": [
+    "d"
+   ],
+   "explanation": "حدود المتتالية هي مربعات الأعداد الطبيعية المتتالية: 1²، 2²، 3²، 4²، 5². إذن الحد الموالي هو 6² = 36. أما 34 فناتج عن تكرار الفرق الأخير (9) بدل زيادته إلى 11، لأن الفروق 3، 5، 7، 9 تزداد بـ 2 في كل مرة.",
+   "difficulty": "EASY",
+   "topic_key": "lo.suites-numeriques",
+   "objective_key": "lo.suites-numeriques.o1",
+   "families": [
+    "*"
+   ],
+   "origin": "AI_GENERATED",
+   "source_key": null,
+   "year": null,
+   "valid_until": null,
+   "tags": [
+    "مربعات",
+    "الفروق المتتالية"
+   ]
+  },
+  {
+   "id": "logic-suites-0005",
+   "type": "TRUE_FALSE",
+   "language": "fr",
+   "stem": "Vrai ou faux : dans la suite 5, 10, 20, 40, 80, …, le terme suivant est 160.",
+   "options": [
+    {
+     "id": "a",
+     "text": "Vrai"
+    },
+    {
+     "id": "b",
+     "text": "Faux"
+    }
+   ],
+   "correct": [
+    "a"
+   ],
+   "explanation": "Chaque terme est le double du précédent : c'est une suite géométrique de raison 2. Le terme suivant est donc 80 × 2 = 160, et l'affirmation est vraie. Il ne faut pas confondre avec une suite arithmétique, qui donnerait 80 + 40 = 120.",
+   "difficulty": "EASY",
+   "topic_key": "lo.suites-numeriques",
+   "objective_key": "lo.suites-numeriques.o1",
+   "families": [
+    "*"
+   ],
+   "origin": "AI_GENERATED",
+   "source_key": null,
+   "year": null,
+   "valid_until": null,
+   "tags": [
+    "suite géométrique",
+    "doublement"
+   ]
+  },
+  {
+   "id": "logic-suites-0006",
+   "type": "NUMERIC",
+   "language": "ar",
+   "stem": "ما هو العدد الذي يكمل المتتالية التالية: 64، 32، 16، 8، … ؟ (اكتب العدد فقط)",
+   "options": [],
+   "correct": {
+    "value": 4,
+    "tolerance": 0
+   },
+   "explanation": "كل حد يساوي نصف الحد السابق، أي أننا نقسم على 2 في كل مرة: 64 ÷ 2 = 32، 32 ÷ 2 = 16، 16 ÷ 2 = 8. إذن الحد الموالي هو 8 ÷ 2 = 4. من يطرح 8 بدل القسمة على 2 يحصل على 0، وهذا لا يحترم قاعدة المتتالية.",
+   "difficulty": "EASY",
+   "topic_key": "lo.suites-numeriques",
+   "objective_key": "lo.suites-numeriques.o1",
+   "families": [
+    "*"
+   ],
+   "origin": "AI_GENERATED",
+   "source_key": null,
+   "year": null,
+   "valid_until": null,
+   "tags": [
+    "متتالية هندسية",
+    "القسمة"
+   ]
+  },
+  {
+   "id": "logic-suites-0007",
+   "type": "MCQ_SINGLE",
+   "language": "fr",
+   "stem": "Trouvez le nombre suivant : 1, 2, 4, 7, 11, 16, …",
+   "options": [
+    {
+     "id": "a",
+     "text": "20"
+    },
+    {
+     "id": "b",
+     "text": "22"
+    },
+    {
+     "id": "c",
+     "text": "21"
+    },
+    {
+     "id": "d",
+     "text": "23"
+    }
+   ],
+   "correct": [
+    "b"
+   ],
+   "explanation": "Les écarts entre termes successifs augmentent de 1 : +1, +2, +3, +4, +5. L'écart suivant est donc +6, ce qui donne 16 + 6 = 22. La réponse 21 répète l'écart +5 au lieu de le faire progresser.",
+   "difficulty": "EASY",
+   "topic_key": "lo.suites-numeriques",
+   "objective_key": "lo.suites-numeriques.o1",
+   "families": [
+    "*"
+   ],
+   "origin": "AI_GENERATED",
+   "source_key": null,
+   "year": null,
+   "valid_until": null,
+   "tags": [
+    "écarts croissants"
+   ]
+  },
+  {
+   "id": "logic-suites-0008",
+   "type": "MCQ_SINGLE",
+   "language": "fr",
+   "stem": "Quel nombre complète la suite : 2, 5, 7, 12, 19, 31, … ?",
+   "options": [
+    {
+     "id": "a",
+     "text": "43"
+    },
+    {
+     "id": "b",
+     "text": "48"
+    },
+    {
+     "id": "c",
+     "text": "52"
+    },
+    {
+     "id": "d",
+     "text": "50"
+    }
+   ],
+   "correct": [
+    "d"
+   ],
+   "explanation": "Chaque terme est la somme des deux termes qui le précèdent : 2 + 5 = 7, 5 + 7 = 12, 7 + 12 = 19, 12 + 19 = 31. Le terme suivant est donc 19 + 31 = 50. La réponse 43 (31 + 12) répète simplement le dernier écart, ce qui ne correspond pas à la règle de la suite.",
+   "difficulty": "MEDIUM",
+   "topic_key": "lo.suites-numeriques",
+   "objective_key": "lo.suites-numeriques.o1",
+   "families": [
+    "*"
+   ],
+   "origin": "AI_GENERATED",
+   "source_key": null,
+   "year": null,
+   "valid_until": null,
+   "tags": [
+    "type Fibonacci",
+    "somme des deux précédents"
+   ]
+  },
+  {
+   "id": "logic-suites-0009",
+   "type": "MCQ_SINGLE",
+   "language": "ar",
+   "stem": "أكمل المتتالية: 3، 5، 9، 17، 33، …",
+   "options": [
+    {
+     "id": "a",
+     "text": "65"
+    },
+    {
+     "id": "b",
+     "text": "49"
+    },
+    {
+     "id": "c",
+     "text": "63"
+    },
+    {
+     "id": "d",
+     "text": "66"
+    }
+   ],
+   "correct": [
+    "a"
+   ],
+   "explanation": "كل حد يساوي ضعف الحد السابق ناقص 1: 3 × 2 − 1 = 5، 5 × 2 − 1 = 9، 9 × 2 − 1 = 17، 17 × 2 − 1 = 33. إذن الحد الموالي هو 33 × 2 − 1 = 65. ويمكن ملاحظة ذلك أيضًا من الفروق 2، 4، 8، 16 التي تتضاعف، فيكون الفرق الموالي 32. أما 66 فهو ضعف 33 دون طرح 1.",
+   "difficulty": "MEDIUM",
+   "topic_key": "lo.suites-numeriques",
+   "objective_key": "lo.suites-numeriques.o1",
+   "families": [
+    "*"
+   ],
+   "origin": "AI_GENERATED",
+   "source_key": null,
+   "year": null,
+   "valid_until": null,
+   "tags": [
+    "عمليتان متتاليتان",
+    "فروق مضاعفة"
+   ]
+  },
+  {
+   "id": "logic-suites-0010",
+   "type": "MCQ_SINGLE",
+   "language": "fr",
+   "stem": "Complétez la suite : 4, 20, 8, 17, 12, 14, 16, …",
+   "options": [
+    {
+     "id": "a",
+     "text": "20"
+    },
+    {
+     "id": "b",
+     "text": "13"
+    },
+    {
+     "id": "c",
+     "text": "11"
+    },
+    {
+     "id": "d",
+     "text": "10"
+    }
+   ],
+   "correct": [
+    "c"
+   ],
+   "explanation": "Il s'agit de deux suites entrelacées. Les termes de rang impair (4, 8, 12, 16) augmentent de 4 ; les termes de rang pair (20, 17, 14) diminuent de 3. Le 8e terme est de rang pair : 14 − 3 = 11. La réponse 20 serait le terme suivant de la suite des rangs impairs (16 + 4), qui n'arrive qu'en 9e position.",
+   "difficulty": "MEDIUM",
+   "topic_key": "lo.suites-numeriques",
+   "objective_key": "lo.suites-numeriques.o1",
+   "families": [
+    "*"
+   ],
+   "origin": "AI_GENERATED",
+   "source_key": null,
+   "year": null,
+   "valid_until": null,
+   "tags": [
+    "suites entrelacées",
+    "alternance"
+   ]
+  },
+  {
+   "id": "logic-suites-0011",
+   "type": "MCQ_SINGLE",
+   "language": "ar",
+   "stem": "ما هو الحد الموالي في المتتالية: 2، 6، 12، 20، 30، 42، … ؟",
+   "options": [
+    {
+     "id": "a",
+     "text": "54"
+    },
+    {
+     "id": "b",
+     "text": "58"
+    },
+    {
+     "id": "c",
+     "text": "60"
+    },
+    {
+     "id": "d",
+     "text": "56"
+    }
+   ],
+   "correct": [
+    "d"
+   ],
+   "explanation": "الفروق بين الحدود المتتالية هي 4، 6، 8، 10، 12، أي أنها تزداد بـ 2 في كل مرة، فيكون الفرق الموالي 14 والحد الموالي 42 + 14 = 56. ويمكن أيضًا ملاحظة أن كل حد هو جداء عددين متتاليين: 1 × 2، 2 × 3، … ، 6 × 7، فالحد الموالي هو 7 × 8 = 56. أما 54 فناتج عن تكرار الفرق 12.",
+   "difficulty": "MEDIUM",
+   "topic_key": "lo.suites-numeriques",
+   "objective_key": "lo.suites-numeriques.o1",
+   "families": [
+    "*"
+   ],
+   "origin": "AI_GENERATED",
+   "source_key": null,
+   "year": null,
+   "valid_until": null,
+   "tags": [
+    "الفروق المتتالية",
+    "جداء عددين متتاليين"
+   ]
+  },
+  {
+   "id": "logic-suites-0012",
+   "type": "MCQ_MULTI",
+   "language": "fr",
+   "stem": "Parmi les suites suivantes, lesquelles sont arithmétiques (on passe d'un terme au suivant en ajoutant toujours le même nombre) ?",
+   "options": [
+    {
+     "id": "a",
+     "text": "7, 12, 17, 22"
+    },
+    {
+     "id": "b",
+     "text": "3, 6, 12, 24"
+    },
+    {
+     "id": "c",
+     "text": "40, 33, 26, 19"
+    },
+    {
+     "id": "d",
+     "text": "1, 4, 9, 16"
+    }
+   ],
+   "correct": [
+    "a",
+    "c"
+   ],
+   "explanation": "La suite a) ajoute toujours 5 et la suite c) ajoute toujours −7 (elle diminue de 7) : ce sont deux suites arithmétiques. La suite b) multiplie par 2 à chaque étape (suite géométrique), et la suite d) est celle des carrés, dont les écarts (3, 5, 7) ne sont pas constants. Une suite décroissante peut donc parfaitement être arithmétique.",
+   "difficulty": "MEDIUM",
+   "topic_key": "lo.suites-numeriques",
+   "objective_key": "lo.suites-numeriques.o1",
+   "families": [
+    "*"
+   ],
+   "origin": "AI_GENERATED",
+   "source_key": null,
+   "year": null,
+   "valid_until": null,
+   "tags": [
+    "suite arithmétique",
+    "suite géométrique",
+    "reconnaissance de règle"
+   ]
+  },
+  {
+   "id": "logic-suites-0013",
+   "type": "TRUE_FALSE",
+   "language": "ar",
+   "stem": "صحيح أم خطأ: في المتتالية 1، 8، 27، 64، …، الحد الموالي هو 100.",
+   "options": [
+    {
+     "id": "a",
+     "text": "صحيح"
+    },
+    {
+     "id": "b",
+     "text": "خطأ"
+    }
+   ],
+   "correct": [
+    "b"
+   ],
+   "explanation": "حدود هذه المتتالية هي مكعبات الأعداد الطبيعية: 1³، 2³، 3³، 4³. إذن الحد الموالي هو 5³ = 125 وليس 100. العدد 100 هو مربع 10 ولا علاقة له بقاعدة المكعبات، لذلك فالعبارة خاطئة.",
+   "difficulty": "MEDIUM",
+   "topic_key": "lo.suites-numeriques",
+   "objective_key": "lo.suites-numeriques.o1",
+   "families": [
+    "*"
+   ],
+   "origin": "AI_GENERATED",
+   "source_key": null,
+   "year": null,
+   "valid_until": null,
+   "tags": [
+    "مكعبات"
+   ]
+  },
+  {
+   "id": "logic-suites-0014",
+   "type": "NUMERIC",
+   "language": "fr",
+   "stem": "Quel nombre complète la suite : 7, 10, 16, 25, 37, … ? (réponse numérique)",
+   "options": [],
+   "correct": {
+    "value": 52,
+    "tolerance": 0
+   },
+   "explanation": "Les écarts successifs sont +3, +6, +9, +12 : ce sont les multiples de 3. L'écart suivant est donc +15, et le terme cherché vaut 37 + 15 = 52. Répondre 49 (37 + 12) revient à répéter le dernier écart au lieu de le faire progresser.",
+   "difficulty": "MEDIUM",
+   "topic_key": "lo.suites-numeriques",
+   "objective_key": "lo.suites-numeriques.o1",
+   "families": [
+    "*"
+   ],
+   "origin": "AI_GENERATED",
+   "source_key": null,
+   "year": null,
+   "valid_until": null,
+   "tags": [
+    "écarts croissants",
+    "multiples"
+   ]
+  },
+  {
+   "id": "logic-suites-0015",
+   "type": "MCQ_SINGLE",
+   "language": "ar",
+   "stem": "أكمل المتتالية: 1، 2، 6، 24، 120، …",
+   "options": [
+    {
+     "id": "a",
+     "text": "240"
+    },
+    {
+     "id": "b",
+     "text": "720"
+    },
+    {
+     "id": "c",
+     "text": "600"
+    },
+    {
+     "id": "d",
+     "text": "840"
+    }
+   ],
+   "correct": [
+    "b"
+   ],
+   "explanation": "نضرب كل حد في عدد يزداد بواحد في كل مرة: × 2، × 3، × 4، × 5. إذن الحد الموالي هو 120 × 6 = 720. أما 240 فناتج عن الضرب في 2 فقط، و600 عن الضرب في 5 مرة أخرى، وكلاهما لا يحترم تزايد العامل الذي نضرب فيه.",
+   "difficulty": "MEDIUM",
+   "topic_key": "lo.suites-numeriques",
+   "objective_key": "lo.suites-numeriques.o1",
+   "families": [
+    "*"
+   ],
+   "origin": "AI_GENERATED",
+   "source_key": null,
+   "year": null,
+   "valid_until": null,
+   "tags": [
+    "مضاعِف متزايد",
+    "الضرب"
+   ]
+  },
+  {
+   "id": "logic-suites-0016",
+   "type": "MCQ_SINGLE",
+   "language": "fr",
+   "stem": "Dans la suite 3, 6, 12, 24, 46, 96, un seul terme ne respecte pas la règle. Lequel ?",
+   "options": [
+    {
+     "id": "a",
+     "text": "12"
+    },
+    {
+     "id": "b",
+     "text": "24"
+    },
+    {
+     "id": "c",
+     "text": "46"
+    },
+    {
+     "id": "d",
+     "text": "96"
+    }
+   ],
+   "correct": [
+    "c"
+   ],
+   "explanation": "La règle consiste à doubler chaque terme : 3, 6, 12, 24, puis 24 × 2 = 48 et 48 × 2 = 96. Le terme 46 devrait donc être 48 : c'est l'intrus. Le nombre 96 est correct, car il est bien le double de 48, le terme qui aurait dû le précéder.",
+   "difficulty": "MEDIUM",
+   "topic_key": "lo.suites-numeriques",
+   "objective_key": "lo.suites-numeriques.o1",
+   "families": [
+    "*"
+   ],
+   "origin": "AI_GENERATED",
+   "source_key": null,
+   "year": null,
+   "valid_until": null,
+   "tags": [
+    "intrus",
+    "suite géométrique"
+   ]
+  },
+  {
+   "id": "logic-suites-0017",
+   "type": "ORDERING",
+   "language": "ar",
+   "stem": "متتالية حدها الأول 3، ونتحصّل على الحدود الموالية بالتناوب: الضرب في 3، ثم طرح 4، ثم الضرب في 3، ثم طرح 4… رتّب الأعداد التالية حسب ظهورها في المتتالية بعد الحد الأول.",
+   "options": [
+    {
+     "id": "a",
+     "text": "15"
+    },
+    {
+     "id": "b",
+     "text": "5"
+    },
+    {
+     "id": "c",
+     "text": "11"
+    },
+    {
+     "id": "d",
+     "text": "9"
+    }
+   ],
+   "correct": {
+    "order": [
+     "d",
+     "b",
+     "a",
+     "c"
+    ]
+   },
+   "explanation": "نبدأ من 3: نضرب في 3 فنحصل على 9، ثم نطرح 4 فنحصل على 5، ثم نضرب في 3 فنحصل على 15، ثم نطرح 4 فنحصل على 11. إذن الترتيب هو 9، 5، 15، 11. الخطأ الشائع هو ترتيب الأعداد تصاعديًا (5، 9، 11، 15)، لكن المتتالية ليست رتيبة لأن الطرح يُنقص قيمتها في كل خطوة ثانية.",
+   "difficulty": "MEDIUM",
+   "topic_key": "lo.suites-numeriques",
+   "objective_key": "lo.suites-numeriques.o1",
+   "families": [
+    "*"
+   ],
+   "origin": "AI_GENERATED",
+   "source_key": null,
+   "year": null,
+   "valid_until": null,
+   "tags": [
+    "تناوب العمليات",
+    "ترتيب"
+   ]
+  },
+  {
+   "id": "logic-suites-0018",
+   "type": "MCQ_SINGLE",
+   "language": "ar",
+   "stem": "أكمل المتتالية: 5، 10، 7، 14، 11، 22، …",
+   "options": [
+    {
+     "id": "a",
+     "text": "19"
+    },
+    {
+     "id": "b",
+     "text": "25"
+    },
+    {
+     "id": "c",
+     "text": "44"
+    },
+    {
+     "id": "d",
+     "text": "18"
+    }
+   ],
+   "correct": [
+    "a"
+   ],
+   "explanation": "تتناوب في هذه المتتالية عمليتان: الضرب في 2 ثم طرح 3. فـ 5 × 2 = 10، 10 − 3 = 7، 7 × 2 = 14، 14 − 3 = 11، 11 × 2 = 22، والعملية الموالية هي الطرح: 22 − 3 = 19. أما 44 فناتج عن الضرب في 2 مرة أخرى، وهو ما يخالف التناوب.",
+   "difficulty": "HARD",
+   "topic_key": "lo.suites-numeriques",
+   "objective_key": "lo.suites-numeriques.o1",
+   "families": [
+    "*"
+   ],
+   "origin": "AI_GENERATED",
+   "source_key": null,
+   "year": null,
+   "valid_until": null,
+   "tags": [
+    "تناوب العمليات"
+   ]
+  },
+  {
+   "id": "logic-suites-0019",
+   "type": "MCQ_SINGLE",
+   "language": "fr",
+   "stem": "Quel nombre complète la suite : 1, 3, 8, 17, 31, … ?",
+   "options": [
+    {
+     "id": "a",
+     "text": "48"
+    },
+    {
+     "id": "b",
+     "text": "50"
+    },
+    {
+     "id": "c",
+     "text": "53"
+    },
+    {
+     "id": "d",
+     "text": "51"
+    }
+   ],
+   "correct": [
+    "d"
+   ],
+   "explanation": "Les écarts successifs sont 2, 5, 9, 14 ; ces écarts augmentent eux-mêmes de 3, puis 4, puis 5. L'écart suivant augmente donc de 6 : 14 + 6 = 20, et le terme cherché vaut 31 + 20 = 51. La réponse 50 suppose à tort que l'écart augmente encore de 5 (31 + 19).",
+   "difficulty": "HARD",
+   "topic_key": "lo.suites-numeriques",
+   "objective_key": "lo.suites-numeriques.o1",
+   "families": [
+    "*"
+   ],
+   "origin": "AI_GENERATED",
+   "source_key": null,
+   "year": null,
+   "valid_until": null,
+   "tags": [
+    "différences secondes",
+    "écarts croissants"
+   ]
+  },
+  {
+   "id": "logic-suites-0020",
+   "type": "MCQ_SINGLE",
+   "language": "ar",
+   "stem": "ما هو الحد الموالي في المتتالية: 1، 1، 2، 4، 7، 13، 24، … ؟",
+   "options": [
+    {
+     "id": "a",
+     "text": "44"
+    },
+    {
+     "id": "b",
+     "text": "37"
+    },
+    {
+     "id": "c",
+     "text": "41"
+    },
+    {
+     "id": "d",
+     "text": "48"
+    }
+   ],
+   "correct": [
+    "a"
+   ],
+   "explanation": "كل حد يساوي مجموع الحدود الثلاثة التي تسبقه: 1 + 1 + 2 = 4، 1 + 2 + 4 = 7، 2 + 4 + 7 = 13، 4 + 7 + 13 = 24. إذن الحد الموالي هو 7 + 13 + 24 = 44. أما 37 فهو مجموع الحدين الأخيرين فقط (13 + 24)، وهي قاعدة لا تفسّر الحدود السابقة (مثلًا 2 + 4 = 6 وليس 7).",
+   "difficulty": "HARD",
+   "topic_key": "lo.suites-numeriques",
+   "objective_key": "lo.suites-numeriques.o1",
+   "families": [
+    "*"
+   ],
+   "origin": "AI_GENERATED",
+   "source_key": null,
+   "year": null,
+   "valid_until": null,
+   "tags": [
+    "مجموع الحدود السابقة"
+   ]
+  },
+  {
+   "id": "logic-suites-0021",
+   "type": "MCQ_MULTI",
+   "language": "fr",
+   "stem": "On considère la suite 2, 5, 8, 11, 14, … (on ajoute 3 à chaque étape). Parmi les nombres suivants, lesquels sont des termes de cette suite ?",
+   "options": [
+    {
+     "id": "a",
+     "text": "101"
+    },
+    {
+     "id": "b",
+     "text": "200"
+    },
+    {
+     "id": "c",
+     "text": "150"
+    },
+    {
+     "id": "d",
+     "text": "76"
+    }
+   ],
+   "correct": [
+    "a",
+    "b"
+   ],
+   "explanation": "Tous les termes s'écrivent 2 + 3k : ce sont exactement les nombres dont le reste dans la division par 3 vaut 2. Comme 101 = 3 × 33 + 2 et 200 = 3 × 66 + 2, ces deux nombres appartiennent à la suite. En revanche, 150 est divisible par 3 (reste 0) et 76 = 3 × 25 + 1 (reste 1) : ils n'en font pas partie.",
+   "difficulty": "HARD",
+   "topic_key": "lo.suites-numeriques",
+   "objective_key": "lo.suites-numeriques.o1",
+   "families": [
+    "*"
+   ],
+   "origin": "AI_GENERATED",
+   "source_key": null,
+   "year": null,
+   "valid_until": null,
+   "tags": [
+    "suite arithmétique",
+    "appartenance",
+    "division euclidienne"
+   ]
+  },
+  {
+   "id": "logic-suites-0022",
+   "type": "MCQ_SINGLE",
+   "language": "ar",
+   "stem": "أكمل المتتالية: 2، 12، 36، 80، 150، …",
+   "options": [
+    {
+     "id": "a",
+     "text": "222"
+    },
+    {
+     "id": "b",
+     "text": "246"
+    },
+    {
+     "id": "c",
+     "text": "252"
+    },
+    {
+     "id": "d",
+     "text": "264"
+    }
+   ],
+   "correct": [
+    "c"
+   ],
+   "explanation": "كل حد من الشكل n² × (n + 1): 1² × 2 = 2، 2² × 3 = 12، 3² × 4 = 36، 4² × 5 = 80، 5² × 6 = 150، إذن الحد السادس هو 6² × 7 = 252. ويمكن التحقق بالفروق: 10، 24، 44، 70، ثم فروق الفروق 14، 20، 26 التي تزداد بـ 6، فيكون الفرق الموالي 70 + 32 = 102 والحد 150 + 102 = 252. أما 246 فناتج عن تكرار فرق الفروق الأخير (26) بدل زيادته إلى 32.",
+   "difficulty": "EXPERT",
+   "topic_key": "lo.suites-numeriques",
+   "objective_key": "lo.suites-numeriques.o1",
+   "families": [
+    "*"
+   ],
+   "origin": "AI_GENERATED",
+   "source_key": null,
+   "year": null,
+   "valid_until": null,
+   "tags": [
+    "فروق من الدرجة الثانية",
+    "صيغة عامة"
+   ]
+  },
+  {
+   "id": "logic-suites-0023",
+   "type": "MCQ_SINGLE",
+   "language": "fr",
+   "stem": "Observez la suite : 1 ; 11 ; 21 ; 1211 ; 111221 ; … Quel est le terme suivant ?",
+   "options": [
+    {
+     "id": "a",
+     "text": "1112221"
+    },
+    {
+     "id": "b",
+     "text": "312211"
+    },
+    {
+     "id": "c",
+     "text": "311221"
+    },
+    {
+     "id": "d",
+     "text": "13112221"
+    }
+   ],
+   "correct": [
+    "b"
+   ],
+   "explanation": "Chaque terme « décrit » le précédent : 1 se lit « un 1 » → 11 ; 11 se lit « deux 1 » → 21 ; 21 se lit « un 2, un 1 » → 1211, etc. Le terme 111221 se lit « trois 1, deux 2, un 1 », ce qui donne 312211. La proposition 13112221 est en réalité le terme qui vient après 312211, et non celui qui suit 111221.",
+   "difficulty": "EXPERT",
+   "topic_key": "lo.suites-numeriques",
+   "objective_key": "lo.suites-numeriques.o1",
+   "families": [
+    "*"
+   ],
+   "origin": "AI_GENERATED",
+   "source_key": null,
+   "year": null,
+   "valid_until": null,
+   "tags": [
+    "suite descriptive",
+    "raisonnement non arithmétique"
+   ]
+  },
+  {
+   "id": "logic-suites-0024",
+   "type": "MCQ_SINGLE",
+   "language": "fr",
+   "stem": "Quelle lettre complète la suite : A, C, E, G, I, … ?",
+   "options": [
+    {
+     "id": "a",
+     "text": "J"
+    },
+    {
+     "id": "b",
+     "text": "K"
+    },
+    {
+     "id": "c",
+     "text": "L"
+    },
+    {
+     "id": "d",
+     "text": "M"
+    }
+   ],
+   "correct": [
+    "b"
+   ],
+   "explanation": "On avance de deux rangs dans l'alphabet à chaque étape, en sautant une lettre : A (B) C (D) E (F) G (H) I. Après I, on saute J et on obtient K. La réponse J oublie de sauter une lettre.",
+   "difficulty": "EASY",
+   "topic_key": "lo.suites-lettres",
+   "objective_key": "lo.suites-lettres.o1",
+   "families": [
+    "*"
+   ],
+   "origin": "AI_GENERATED",
+   "source_key": null,
+   "year": null,
+   "valid_until": null,
+   "tags": [
+    "saut régulier",
+    "alphabet latin"
+   ]
+  },
+  {
+   "id": "logic-suites-0025",
+   "type": "MCQ_SINGLE",
+   "language": "ar",
+   "stem": "أكمل المتتالية التالية بالحرف المناسب: B – E – H – K – ؟",
+   "options": [
+    {
+     "id": "a",
+     "text": "M"
+    },
+    {
+     "id": "b",
+     "text": "O"
+    },
+    {
+     "id": "c",
+     "text": "L"
+    },
+    {
+     "id": "d",
+     "text": "N"
+    }
+   ],
+   "correct": [
+    "d"
+   ],
+   "explanation": "رتب الحروف في الأبجدية اللاتينية هي: B = 2، E = 5، H = 8، K = 11، أي أننا نضيف 3 في كل مرة. إذن الحرف الموالي رتبته 14 وهو N. أما O (رتبته 15) فناتج عن إضافة 4 بدل 3.",
+   "difficulty": "EASY",
+   "topic_key": "lo.suites-lettres",
+   "objective_key": "lo.suites-lettres.o1",
+   "families": [
+    "*"
+   ],
+   "origin": "AI_GENERATED",
+   "source_key": null,
+   "year": null,
+   "valid_until": null,
+   "tags": [
+    "قفزة ثابتة",
+    "الأبجدية اللاتينية"
+   ]
+  },
+  {
+   "id": "logic-suites-0026",
+   "type": "MCQ_SINGLE",
+   "language": "fr",
+   "stem": "Complétez la suite : Z, X, V, T, …",
+   "options": [
+    {
+     "id": "a",
+     "text": "S"
+    },
+    {
+     "id": "b",
+     "text": "Q"
+    },
+    {
+     "id": "c",
+     "text": "R"
+    },
+    {
+     "id": "d",
+     "text": "P"
+    }
+   ],
+   "correct": [
+    "c"
+   ],
+   "explanation": "La suite parcourt l'alphabet à l'envers en sautant une lettre à chaque fois : Z (Y) X (W) V (U) T. Après T, on saute S et on obtient R. La réponse S correspond à un recul d'un seul rang, ce qui rompt la régularité de la suite.",
+   "difficulty": "EASY",
+   "topic_key": "lo.suites-lettres",
+   "objective_key": "lo.suites-lettres.o1",
+   "families": [
+    "*"
+   ],
+   "origin": "AI_GENERATED",
+   "source_key": null,
+   "year": null,
+   "valid_until": null,
+   "tags": [
+    "ordre inverse",
+    "saut régulier"
+   ]
+  },
+  {
+   "id": "logic-suites-0027",
+   "type": "MCQ_SINGLE",
+   "language": "ar",
+   "stem": "اعتمادًا على الترتيب الألفبائي العربي (أ ب ت ث ج ح خ د ذ ر ز س ش …)، ما هو الحرف الذي يكمل المتتالية: أ – ت – ج – خ – ؟",
+   "options": [
+    {
+     "id": "a",
+     "text": "ذ"
+    },
+    {
+     "id": "b",
+     "text": "د"
+    },
+    {
+     "id": "c",
+     "text": "ر"
+    },
+    {
+     "id": "d",
+     "text": "ز"
+    }
+   ],
+   "correct": [
+    "a"
+   ],
+   "explanation": "نتقدّم في الترتيب الألفبائي بحرفين في كل مرة، أي نتخطّى حرفًا واحدًا: أ (ب) ت (ث) ج (ح) خ. بعد خ نتخطّى الدال فنصل إلى الذال. أما اختيار الدال فيعني التقدّم بحرف واحد فقط، وهو لا يحترم قاعدة المتتالية.",
+   "difficulty": "EASY",
+   "topic_key": "lo.suites-lettres",
+   "objective_key": "lo.suites-lettres.o1",
+   "families": [
+    "*"
+   ],
+   "origin": "AI_GENERATED",
+   "source_key": null,
+   "year": null,
+   "valid_until": null,
+   "tags": [
+    "الترتيب الألفبائي العربي",
+    "قفزة ثابتة"
+   ]
+  },
+  {
+   "id": "logic-suites-0028",
+   "type": "TRUE_FALSE",
+   "language": "fr",
+   "stem": "Vrai ou faux : dans la suite AZ, BY, CX, DW, …, le groupe suivant est EV.",
+   "options": [
+    {
+     "id": "a",
+     "text": "Vrai"
+    },
+    {
+     "id": "b",
+     "text": "Faux"
+    }
+   ],
+   "correct": [
+    "a"
+   ],
+   "explanation": "La première lettre avance d'un rang (A, B, C, D, puis E) tandis que la seconde recule d'un rang depuis la fin de l'alphabet (Z, Y, X, W, puis V). Le groupe suivant est donc bien EV et l'affirmation est vraie. Proposer EW serait une erreur : la seconde lettre doit continuer à reculer et ne peut pas rester sur W.",
+   "difficulty": "EASY",
+   "topic_key": "lo.suites-lettres",
+   "objective_key": "lo.suites-lettres.o1",
+   "families": [
+    "*"
+   ],
+   "origin": "AI_GENERATED",
+   "source_key": null,
+   "year": null,
+   "valid_until": null,
+   "tags": [
+    "groupes de lettres",
+    "sens opposés"
+   ]
+  },
+  {
+   "id": "logic-suites-0029",
+   "type": "TRUE_FALSE",
+   "language": "ar",
+   "stem": "صحيح أم خطأ: في المتتالية C – F – I – L – …، الحرف الموالي هو N.",
+   "options": [
+    {
+     "id": "a",
+     "text": "صحيح"
+    },
+    {
+     "id": "b",
+     "text": "خطأ"
+    }
+   ],
+   "correct": [
+    "b"
+   ],
+   "explanation": "رتب الحروف هي C = 3، F = 6، I = 9، L = 12، أي أننا نضيف 3 في كل مرة. إذن الحرف الموالي رتبته 15 وهو O، وليس N (رتبته 14). العبارة خاطئة لأن N يوافق تقدّمًا برتبتين فقط.",
+   "difficulty": "EASY",
+   "topic_key": "lo.suites-lettres",
+   "objective_key": "lo.suites-lettres.o1",
+   "families": [
+    "*"
+   ],
+   "origin": "AI_GENERATED",
+   "source_key": null,
+   "year": null,
+   "valid_until": null,
+   "tags": [
+    "قفزة ثابتة",
+    "الأبجدية اللاتينية"
+   ]
+  },
+  {
+   "id": "logic-suites-0030",
+   "type": "MCQ_SINGLE",
+   "language": "fr",
+   "stem": "Quel groupe de lettres complète la suite : AB, CD, EF, GH, … ?",
+   "options": [
+    {
+     "id": "a",
+     "text": "IJ"
+    },
+    {
+     "id": "b",
+     "text": "HI"
+    },
+    {
+     "id": "c",
+     "text": "IK"
+    },
+    {
+     "id": "d",
+     "text": "JK"
+    }
+   ],
+   "correct": [
+    "a"
+   ],
+   "explanation": "Chaque groupe est formé de deux lettres consécutives, et les groupes se suivent sans chevauchement : AB, CD, EF, GH. Après H vient I, donc le groupe suivant est IJ. HI est faux, car la lettre H a déjà été utilisée dans le groupe précédent.",
+   "difficulty": "EASY",
+   "topic_key": "lo.suites-lettres",
+   "objective_key": "lo.suites-lettres.o1",
+   "families": [
+    "*"
+   ],
+   "origin": "AI_GENERATED",
+   "source_key": null,
+   "year": null,
+   "valid_until": null,
+   "tags": [
+    "groupes de lettres",
+    "lettres consécutives"
+   ]
+  },
+  {
+   "id": "logic-suites-0031",
+   "type": "MCQ_SINGLE",
+   "language": "ar",
+   "stem": "أكمل المتتالية: A – B – D – G – K – ؟",
+   "options": [
+    {
+     "id": "a",
+     "text": "O"
+    },
+    {
+     "id": "b",
+     "text": "Q"
+    },
+    {
+     "id": "c",
+     "text": "N"
+    },
+    {
+     "id": "d",
+     "text": "P"
+    }
+   ],
+   "correct": [
+    "d"
+   ],
+   "explanation": "الفروق بين رتب الحروف تزداد بواحد في كل مرة: من A (1) إلى B (2) نضيف 1، ثم نضيف 2 لنصل إلى D (4)، ثم 3 لنصل إلى G (7)، ثم 4 لنصل إلى K (11). الخطوة الموالية هي إضافة 5، أي الرتبة 16 وهي الحرف P. أما O (الرتبة 15) فناتج عن إعادة إضافة 4.",
+   "difficulty": "MEDIUM",
+   "topic_key": "lo.suites-lettres",
+   "objective_key": "lo.suites-lettres.o1",
+   "families": [
+    "*"
+   ],
+   "origin": "AI_GENERATED",
+   "source_key": null,
+   "year": null,
+   "valid_until": null,
+   "tags": [
+    "فروق متزايدة",
+    "الأبجدية اللاتينية"
+   ]
+  },
+  {
+   "id": "logic-suites-0032",
+   "type": "MCQ_SINGLE",
+   "language": "fr",
+   "stem": "Complétez la suite : A, Z, B, Y, C, X, …",
+   "options": [
+    {
+     "id": "a",
+     "text": "W"
+    },
+    {
+     "id": "b",
+     "text": "D"
+    },
+    {
+     "id": "c",
+     "text": "E"
+    },
+    {
+     "id": "d",
+     "text": "V"
+    }
+   ],
+   "correct": [
+    "b"
+   ],
+   "explanation": "Deux suites sont entrelacées : aux rangs impairs, A, B, C avancent dans l'alphabet ; aux rangs pairs, Z, Y, X reculent depuis la fin. Le 7e terme appartient à la suite des rangs impairs : après C vient D. La réponse W serait le terme suivant de l'autre suite, qui n'arrive qu'en 8e position.",
+   "difficulty": "MEDIUM",
+   "topic_key": "lo.suites-lettres",
+   "objective_key": "lo.suites-lettres.o1",
+   "families": [
+    "*"
+   ],
+   "origin": "AI_GENERATED",
+   "source_key": null,
+   "year": null,
+   "valid_until": null,
+   "tags": [
+    "suites entrelacées",
+    "sens opposés"
+   ]
+  },
+  {
+   "id": "logic-suites-0033",
+   "type": "MCQ_SINGLE",
+   "language": "ar",
+   "stem": "ما هي المجموعة التي تكمل المتتالية: ACE – BDF – CEG – ؟",
+   "options": [
+    {
+     "id": "a",
+     "text": "DEF"
+    },
+    {
+     "id": "b",
+     "text": "DGH"
+    },
+    {
+     "id": "c",
+     "text": "DFH"
+    },
+    {
+     "id": "d",
+     "text": "EGI"
+    }
+   ],
+   "correct": [
+    "c"
+   ],
+   "explanation": "كل مجموعة مكوّنة من ثلاثة حروف يفصل بين كل منها حرف واحد (مثل A ثم C ثم E)، والحرف الأول في كل مجموعة يتقدّم برتبة واحدة: A ثم B ثم C. إذن المجموعة الموالية تبدأ بـ D وهي DFH. أما EGI فتبدأ بـ E، أي أنها تتقدّم برتبتين وتخالف القاعدة.",
+   "difficulty": "MEDIUM",
+   "topic_key": "lo.suites-lettres",
+   "objective_key": "lo.suites-lettres.o1",
+   "families": [
+    "*"
+   ],
+   "origin": "AI_GENERATED",
+   "source_key": null,
+   "year": null,
+   "valid_until": null,
+   "tags": [
+    "مجموعات حروف"
+   ]
+  },
+  {
+   "id": "logic-suites-0034",
+   "type": "MCQ_MULTI",
+   "language": "fr",
+   "stem": "Le groupe « BDF » est formé de trois lettres prises de deux en deux dans l'alphabet (B, on saute C, D, on saute E, F). Quels groupes suivent la même logique ?",
+   "options": [
+    {
+     "id": "a",
+     "text": "KMO"
+    },
+    {
+     "id": "b",
+     "text": "PRT"
+    },
+    {
+     "id": "c",
+     "text": "HJM"
+    },
+    {
+     "id": "d",
+     "text": "STU"
+    }
+   ],
+   "correct": [
+    "a",
+    "b"
+   ],
+   "explanation": "KMO (K, L sautée, M, N sautée, O) et PRT (P, Q sautée, R, S sautée, T) respectent exactement le même écart de deux rangs. HJM ne convient pas : de J à M, on saute deux lettres (K et L). STU est formé de lettres consécutives, sans aucune lettre sautée.",
+   "difficulty": "MEDIUM",
+   "topic_key": "lo.suites-lettres",
+   "objective_key": "lo.suites-lettres.o1",
+   "families": [
+    "*"
+   ],
+   "origin": "AI_GENERATED",
+   "source_key": null,
+   "year": null,
+   "valid_until": null,
+   "tags": [
+    "groupes de lettres",
+    "saut régulier"
+   ]
+  },
+  {
+   "id": "logic-suites-0035",
+   "type": "MCQ_SINGLE",
+   "language": "ar",
+   "stem": "أكمل المتتالية: A1 – C3 – E5 – G7 – ؟",
+   "options": [
+    {
+     "id": "a",
+     "text": "H8"
+    },
+    {
+     "id": "b",
+     "text": "I9"
+    },
+    {
+     "id": "c",
+     "text": "I10"
+    },
+    {
+     "id": "d",
+     "text": "J9"
+    }
+   ],
+   "correct": [
+    "b"
+   ],
+   "explanation": "في كل عنصر، العدد هو رتبة الحرف في الأبجدية اللاتينية (A = 1، C = 3، E = 5، G = 7)، والحروف تتقدّم برتبتين في كل مرة. إذن العنصر الموالي هو الحرف ذو الرتبة 9، أي I، متبوعًا بالعدد 9: I9. أما H8 فيتقدّم برتبة واحدة فقط.",
+   "difficulty": "MEDIUM",
+   "topic_key": "lo.suites-lettres",
+   "objective_key": "lo.suites-lettres.o1",
+   "families": [
+    "*"
+   ],
+   "origin": "AI_GENERATED",
+   "source_key": null,
+   "year": null,
+   "valid_until": null,
+   "tags": [
+    "حروف وأعداد",
+    "رتبة الحرف"
+   ]
+  },
+  {
+   "id": "logic-suites-0036",
+   "type": "NUMERIC",
+   "language": "fr",
+   "stem": "Dans la suite de lettres C, F, J, O, …, quel est le rang dans l'alphabet (A = 1, B = 2, …, Z = 26) de la lettre suivante ?",
+   "options": [],
+   "correct": {
+    "value": 21,
+    "tolerance": 0
+   },
+   "explanation": "Les rangs des lettres sont 3, 6, 10, 15 : les écarts sont +3, +4, +5. L'écart suivant est +6, d'où le rang 15 + 6 = 21, qui correspond à la lettre U. Répondre 20 (la lettre T) revient à répéter l'écart +5.",
+   "difficulty": "MEDIUM",
+   "topic_key": "lo.suites-lettres",
+   "objective_key": "lo.suites-lettres.o1",
+   "families": [
+    "*"
+   ],
+   "origin": "AI_GENERATED",
+   "source_key": null,
+   "year": null,
+   "valid_until": null,
+   "tags": [
+    "rang des lettres",
+    "écarts croissants"
+   ]
+  },
+  {
+   "id": "logic-suites-0037",
+   "type": "MATCHING",
+   "language": "ar",
+   "stem": "اربط كل متتالية بالحرف الذي يكملها.",
+   "options": [
+    {
+     "id": "l1",
+     "text": "A – C – E – ؟",
+     "side": "left"
+    },
+    {
+     "id": "l2",
+     "text": "Z – W – T – ؟",
+     "side": "left"
+    },
+    {
+     "id": "l3",
+     "text": "D – H – L – ؟",
+     "side": "left"
+    },
+    {
+     "id": "l4",
+     "text": "M – N – P – S – ؟",
+     "side": "left"
+    },
+    {
+     "id": "r1",
+     "text": "P",
+     "side": "right"
+    },
+    {
+     "id": "r2",
+     "text": "G",
+     "side": "right"
+    },
+    {
+     "id": "r3",
+     "text": "W",
+     "side": "right"
+    },
+    {
+     "id": "r4",
+     "text": "Q",
+     "side": "right"
+    }
+   ],
+   "correct": {
+    "pairs": [
+     [
+      "l1",
+      "r2"
+     ],
+     [
+      "l2",
+      "r4"
+     ],
+     [
+      "l3",
+      "r1"
+     ],
+     [
+      "l4",
+      "r3"
+     ]
+    ]
+   },
+   "explanation": "في المتتالية الأولى نتقدّم برتبتين (A، C، E ثم G). في الثانية نتراجع بثلاث رتب (Z = 26، W = 23، T = 20 ثم Q = 17). في الثالثة نتقدّم بأربع رتب (D = 4، H = 8، L = 12 ثم P = 16). وفي الرابعة تزداد الفروق (+1، +2، +3) فيكون الفرق الموالي +4: من S = 19 نصل إلى W = 23، لا إلى V الذي يوافق تكرار الفرق +3.",
+   "difficulty": "MEDIUM",
+   "topic_key": "lo.suites-lettres",
+   "objective_key": "lo.suites-lettres.o1",
+   "families": [
+    "*"
+   ],
+   "origin": "AI_GENERATED",
+   "source_key": null,
+   "year": null,
+   "valid_until": null,
+   "tags": [
+    "ربط",
+    "قفزات مختلفة"
+   ]
+  },
+  {
+   "id": "logic-suites-0038",
+   "type": "MCQ_SINGLE",
+   "language": "fr",
+   "stem": "Quel groupe complète la suite : AZ, CX, EV, GT, … ?",
+   "options": [
+    {
+     "id": "a",
+     "text": "HS"
+    },
+    {
+     "id": "b",
+     "text": "IS"
+    },
+    {
+     "id": "c",
+     "text": "IR"
+    },
+    {
+     "id": "d",
+     "text": "JR"
+    }
+   ],
+   "correct": [
+    "c"
+   ],
+   "explanation": "La première lettre avance de deux rangs (A, C, E, G, puis I) et la seconde recule de deux rangs (Z, X, V, T, puis R). Le groupe suivant est donc IR. HS correspond à un déplacement d'un seul rang pour chacune des deux lettres.",
+   "difficulty": "MEDIUM",
+   "topic_key": "lo.suites-lettres",
+   "objective_key": "lo.suites-lettres.o1",
+   "families": [
+    "*"
+   ],
+   "origin": "AI_GENERATED",
+   "source_key": null,
+   "year": null,
+   "valid_until": null,
+   "tags": [
+    "groupes de lettres",
+    "sens opposés"
+   ]
+  },
+  {
+   "id": "logic-suites-0039",
+   "type": "MCQ_SINGLE",
+   "language": "ar",
+   "stem": "ما هو الحرف الذي يكمل المتتالية: A – D – I – P – ؟",
+   "options": [
+    {
+     "id": "a",
+     "text": "X"
+    },
+    {
+     "id": "b",
+     "text": "Z"
+    },
+    {
+     "id": "c",
+     "text": "W"
+    },
+    {
+     "id": "d",
+     "text": "Y"
+    }
+   ],
+   "correct": [
+    "d"
+   ],
+   "explanation": "رتب الحروف في الأبجدية اللاتينية هي 1، 4، 9، 16، وهي مربعات الأعداد 1، 2، 3، 4. إذن الرتبة الموالية هي 5² = 25، أي الحرف Y. أما W (الرتبة 23) فناتج عن تكرار الفرق الأخير 7 بدل زيادته إلى 9.",
+   "difficulty": "HARD",
+   "topic_key": "lo.suites-lettres",
+   "objective_key": "lo.suites-lettres.o1",
+   "families": [
+    "*"
+   ],
+   "origin": "AI_GENERATED",
+   "source_key": null,
+   "year": null,
+   "valid_until": null,
+   "tags": [
+    "رتبة الحرف",
+    "مربعات"
+   ]
+  },
+  {
+   "id": "logic-suites-0040",
+   "type": "MCQ_SINGLE",
+   "language": "ar",
+   "stem": "أكمل المتتالية مع اعتبار الأبجدية اللاتينية دائرية (بعد Z نعود إلى A): W – Z – C – F – ؟",
+   "options": [
+    {
+     "id": "a",
+     "text": "I"
+    },
+    {
+     "id": "b",
+     "text": "H"
+    },
+    {
+     "id": "c",
+     "text": "J"
+    },
+    {
+     "id": "d",
+     "text": "G"
+    }
+   ],
+   "correct": [
+    "a"
+   ],
+   "explanation": "نتقدّم بثلاث رتب في كل مرة: W رتبته 23 وZ رتبته 26، ثم نواصل العدّ بعد Z بالعودة إلى بداية الأبجدية (A ثم B ثم C) فنصل إلى C، ثم إلى F (الرتبة 6). إذن الحرف الموالي رتبته 9 وهو I. أما H فيوافق تقدّمًا برتبتين فقط.",
+   "difficulty": "HARD",
+   "topic_key": "lo.suites-lettres",
+   "objective_key": "lo.suites-lettres.o1",
+   "families": [
+    "*"
+   ],
+   "origin": "AI_GENERATED",
+   "source_key": null,
+   "year": null,
+   "valid_until": null,
+   "tags": [
+    "أبجدية دائرية",
+    "قفزة ثابتة"
+   ]
+  },
+  {
+   "id": "logic-suites-0041",
+   "type": "MCQ_MULTI",
+   "language": "fr",
+   "stem": "Dans quelles suites la lettre manquante est-elle M ?",
+   "options": [
+    {
+     "id": "a",
+     "text": "C, F, I, …"
+    },
+    {
+     "id": "b",
+     "text": "E, G, I, K, …"
+    },
+    {
+     "id": "c",
+     "text": "A, B, D, G, …"
+    },
+    {
+     "id": "d",
+     "text": "Y, V, S, P, …"
+    }
+   ],
+   "correct": [
+    "b",
+    "d"
+   ],
+   "explanation": "La suite b) avance de 2 rangs (E, G, I, K, puis M) et la suite d) recule de 3 rangs (Y = 25, V = 22, S = 19, P = 16, puis 13 = M) : M convient dans ces deux cas. La suite a) avance de 3 rangs et donne L (12), pas M. La suite c) a des écarts croissants +1, +2, +3 : l'écart suivant est +4 et la lettre est K (11).",
+   "difficulty": "HARD",
+   "topic_key": "lo.suites-lettres",
+   "objective_key": "lo.suites-lettres.o1",
+   "families": [
+    "*"
+   ],
+   "origin": "AI_GENERATED",
+   "source_key": null,
+   "year": null,
+   "valid_until": null,
+   "tags": [
+    "rang des lettres",
+    "comparaison de règles"
+   ]
+  },
+  {
+   "id": "logic-suites-0042",
+   "type": "TRUE_FALSE",
+   "language": "ar",
+   "stem": "صحيح أم خطأ: في المتتالية BCD – FGH – JKL – …، المجموعة الموالية هي NOP.",
+   "options": [
+    {
+     "id": "a",
+     "text": "صحيح"
+    },
+    {
+     "id": "b",
+     "text": "خطأ"
+    }
+   ],
+   "correct": [
+    "a"
+   ],
+   "explanation": "كل مجموعة مكوّنة من ثلاثة حروف متتالية، وبين كل مجموعتين حرف واحد متروك: E بين BCD وFGH، وI بين FGH وJKL. بعد JKL نترك M، فتكون المجموعة الموالية NOP، والعبارة صحيحة. من يغفل الحرف المتروك يقترح MNO، وهو خطأ.",
+   "difficulty": "HARD",
+   "topic_key": "lo.suites-lettres",
+   "objective_key": "lo.suites-lettres.o1",
+   "families": [
+    "*"
+   ],
+   "origin": "AI_GENERATED",
+   "source_key": null,
+   "year": null,
+   "valid_until": null,
+   "tags": [
+    "مجموعات حروف",
+    "حرف متروك"
+   ]
+  },
+  {
+   "id": "logic-suites-0043",
+   "type": "MCQ_SINGLE",
+   "language": "fr",
+   "stem": "Complétez la suite : B, Y, D, W, G, U, K, …",
+   "options": [
+    {
+     "id": "a",
+     "text": "T"
+    },
+    {
+     "id": "b",
+     "text": "S"
+    },
+    {
+     "id": "c",
+     "text": "P"
+    },
+    {
+     "id": "d",
+     "text": "R"
+    }
+   ],
+   "correct": [
+    "b"
+   ],
+   "explanation": "Deux suites sont entrelacées. Aux rangs impairs : B (2), D (4), G (7), K (11), avec des écarts croissants +2, +3, +4. Aux rangs pairs : Y (25), W (23), U (21), qui reculent de 2 rangs à chaque fois. Le 8e terme est de rang pair : 21 − 2 = 19, soit S. La lettre P (16) serait le terme suivant de la suite des rangs impairs (11 + 5), qui n'arrive qu'en 9e position.",
+   "difficulty": "HARD",
+   "topic_key": "lo.suites-lettres",
+   "objective_key": "lo.suites-lettres.o1",
+   "families": [
+    "*"
+   ],
+   "origin": "AI_GENERATED",
+   "source_key": null,
+   "year": null,
+   "valid_until": null,
+   "tags": [
+    "suites entrelacées",
+    "rang des lettres"
+   ]
+  },
+  {
+   "id": "logic-suites-0044",
+   "type": "MCQ_SINGLE",
+   "language": "ar",
+   "stem": "ما هو الحرف الذي يكمل المتتالية: C – E – G – K – M – Q – ؟",
+   "options": [
+    {
+     "id": "a",
+     "text": "R"
+    },
+    {
+     "id": "b",
+     "text": "U"
+    },
+    {
+     "id": "c",
+     "text": "T"
+    },
+    {
+     "id": "d",
+     "text": "S"
+    }
+   ],
+   "correct": [
+    "d"
+   ],
+   "explanation": "رتب هذه الحروف في الأبجدية اللاتينية هي 3، 5، 7، 11، 13، 17، وهي الأعداد الأولية المتتالية بدءًا من 3. العدد الأولي الموالي بعد 17 هو 19، والحرف ذو الرتبة 19 هو S. أما U (الرتبة 21) فناتج عن إضافة 4 كما في الخطوة السابقة، لكن 21 ليس عددًا أوليًا.",
+   "difficulty": "EXPERT",
+   "topic_key": "lo.suites-lettres",
+   "objective_key": "lo.suites-lettres.o1",
+   "families": [
+    "*"
+   ],
+   "origin": "AI_GENERATED",
+   "source_key": null,
+   "year": null,
+   "valid_until": null,
+   "tags": [
+    "أعداد أولية",
+    "رتبة الحرف"
+   ]
+  },
+  {
+   "id": "logic-suites-0045",
+   "type": "MCQ_SINGLE",
+   "language": "fr",
+   "stem": "Quel groupe complète la suite : AY, CW, FT, JP, … ?",
+   "options": [
+    {
+     "id": "a",
+     "text": "OK"
+    },
+    {
+     "id": "b",
+     "text": "NK"
+    },
+    {
+     "id": "c",
+     "text": "OL"
+    },
+    {
+     "id": "d",
+     "text": "PK"
+    }
+   ],
+   "correct": [
+    "a"
+   ],
+   "explanation": "Première lettre : A (1), C (3), F (6), J (10) ; les écarts +2, +3, +4 conduisent à +5, soit O (15). Seconde lettre : Y (25), W (23), T (20), P (16) ; les reculs −2, −3, −4 conduisent à −5, soit K (11). Le groupe cherché est donc OK. NK résulte d'une erreur sur la première lettre : l'écart +4 a été répété au lieu de passer à +5.",
+   "difficulty": "EXPERT",
+   "topic_key": "lo.suites-lettres",
+   "objective_key": "lo.suites-lettres.o1",
+   "families": [
+    "*"
+   ],
+   "origin": "AI_GENERATED",
+   "source_key": null,
+   "year": null,
+   "valid_until": null,
+   "tags": [
+    "groupes de lettres",
+    "écarts croissants",
+    "sens opposés"
+   ]
+  }
+ ]
+}

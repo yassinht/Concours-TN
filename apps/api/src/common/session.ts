@@ -10,16 +10,19 @@ export interface SessionUser {
   id: string;
   role: UserRole;
   isGuest: boolean;
+  /** users.token_version when the JWT was signed (0 for tokens issued before versions existed). */
+  tv?: number;
 }
 
 export function signSession(u: SessionUser): string {
-  return jwt.sign({ sub: u.id, role: u.role, guest: u.isGuest }, env().JWT_SECRET, { expiresIn: MAX_AGE_S });
+  return jwt.sign({ sub: u.id, role: u.role, guest: u.isGuest, tv: u.tv ?? 0 }, env().JWT_SECRET, { expiresIn: MAX_AGE_S, algorithm: 'HS256' });
 }
 
 export function verifySession(token: string): SessionUser | null {
   try {
-    const p = jwt.verify(token, env().JWT_SECRET) as { sub: string; role: UserRole; guest: boolean };
-    return { id: p.sub, role: p.role, isGuest: !!p.guest };
+    const p = jwt.verify(token, env().JWT_SECRET, { algorithms: ['HS256'] }) as { sub: string; role: UserRole; guest: boolean; tv?: number };
+    if (typeof p.sub !== 'string') return null;
+    return { id: p.sub, role: p.role, isGuest: !!p.guest, tv: typeof p.tv === 'number' ? p.tv : 0 };
   } catch {
     return null;
   }

@@ -224,7 +224,7 @@ describe('admin (e2e)', () => {
     it('lists the queue with full content and applies bulk actions', async () => {
       const a = await makeQuestion('AI_REVIEWED', 'AI_GENERATED');
       const b = await makeQuestion('AI_REVIEWED', 'AI_GENERATED');
-      const queue = await http().get('/admin/review?entity=question&limit=200').set('Cookie', cookies.editor).expect(200);
+      const queue = await http().get(`/admin/review?entity=question&limit=200&topicKey=${encodeURIComponent(TOPIC)}`).set('Cookie', cookies.editor).expect(200);
       const item = queue.body.items.find((i: { id: string }) => i.id === a);
       expect(item).toEqual(expect.objectContaining({
         status: 'AI_REVIEWED', correct: ['a'], explanation: 'Parce que.', topic: expect.objectContaining({ key: TOPIC }), ai: { model: 'test-model', promptVersion: null },

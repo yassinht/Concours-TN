@@ -4,7 +4,7 @@ import type { ContentStatus, QuestionType } from '@ctn/shared';
 import { AuditService } from '../../common/audit.service';
 import type { Database } from '../../db/client';
 import { InjectDb } from '../../db/db.module';
-import { competitionFacts, competitionFamilies, competitions, lessons, questionFamilies, questions, sources } from '../../db/schema';
+import { competitionFacts, competitionFamilies, competitions, lessons, questionFamilies, questions, sources, syllabusNodes } from '../../db/schema';
 import { CatalogService } from '../catalog/catalog.service';
 import { assertUuid, conflict, badRequest, notFound, type BulkReviewInput, type ReviewEntity, type ReviewQueueQuery } from './admin.util';
 import { loadEditionsByIds, loadFacts, type AdminEditionDTO, type AdminFactDTO } from './catalog-loaders';
@@ -26,6 +26,15 @@ export interface ReviewResult {
 }
 
 const DEFAULT_LIMIT = 50;
+
+/** Ids of the syllabus node `key` and all its descendants. */
+function topicSubtree(key: string) {
+  return sql`with recursive sub as (
+      select ${syllabusNodes.id} as id from ${syllabusNodes} where ${syllabusNodes.key} = ${key}
+      union all
+      select n.id from ${syllabusNodes} n join sub on n.parent_id = sub.id
+    ) select id from sub`;
+}
 
 /**
  * Human review of content. Nothing reaches PUBLISHED without a human reviewer recorded on the row; every status change is
@@ -50,6 +59,7 @@ export class ReviewService {
         const where = and(
           eq(questions.status, status),
           q.domain ? eq(questions.domain, q.domain) : undefined,
+          q.topicKey ? sql`${questions.topicId} in (${topicSubtree(q.topicKey)})` : undefined,
           q.familySlug ? sql`exists (select 1 from ${questionFamilies} join ${competitionFamilies} on ${competitionFamilies.id} = ${questionFamilies.familyId}
             where ${questionFamilies.questionId} = ${questions.id} and ${competitionFamilies.slug} = ${q.familySlug})` : undefined,
         );
@@ -61,7 +71,7 @@ export class ReviewService {
       }
       case 'lesson': {
         const status = q.status ?? 'AI_REVIEWED';
-        const where = eq(lessons.status, status);
+        const where = and(eq(lessons.status, status), q.topicKey ? sql`${lessons.nodeId} in (${topicSubtree(q.topicKey)})` : undefined);
         const [ids, total] = await Promise.all([
           this.db.select({ id: lessons.id }).from(lessons).where(where).orderBy(asc(lessons.updatedAt), asc(lessons.id)).limit(limit),
           this.count(lessons, where),

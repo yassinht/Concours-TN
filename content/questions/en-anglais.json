@@ -1,0 +1,1957 @@
+{
+  "bank": "en-anglais",
+  "domain": "ENGLISH",
+  "specialty_syllabus": [],
+  "questions": [
+    {
+      "id": "en-anglais-0001",
+      "type": "MCQ_SINGLE",
+      "language": "en",
+      "stem": "Choose the correct form: \"The candidates ___ the written exam last Saturday.\"",
+      "options": [
+        {
+          "id": "a",
+          "text": "took"
+        },
+        {
+          "id": "b",
+          "text": "take"
+        },
+        {
+          "id": "c",
+          "text": "are taking"
+        },
+        {
+          "id": "d",
+          "text": "have taken"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "explanation": "\"Last Saturday\" refers to a finished moment in the past, so the past simple \"took\" is required. The present perfect \"have taken\" cannot be used with an expression of finished past time such as \"last Saturday\", \"yesterday\" or \"in 2020\". \"Take\" and \"are taking\" are present forms and do not match the time reference.",
+      "difficulty": "EASY",
+      "topic_key": "en.grammar",
+      "objective_key": "en.grammar.o1",
+      "families": [
+        "*"
+      ],
+      "origin": "AI_GENERATED",
+      "source_key": null,
+      "year": null,
+      "valid_until": null,
+      "tags": [
+        "past simple",
+        "tenses"
+      ]
+    },
+    {
+      "id": "en-anglais-0002",
+      "type": "MCQ_SINGLE",
+      "language": "en",
+      "stem": "Choose the correct form: \"Look! The clerk ___ the files in the cupboard right now.\"",
+      "options": [
+        {
+          "id": "a",
+          "text": "is putting"
+        },
+        {
+          "id": "b",
+          "text": "puts"
+        },
+        {
+          "id": "c",
+          "text": "has put"
+        },
+        {
+          "id": "d",
+          "text": "put"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "explanation": "\"Look!\" and \"right now\" show that the action is in progress at the moment of speaking, so the present continuous \"is putting\" is correct. The present simple \"puts\" describes habits or general truths, not an action happening now. \"Has put\" would describe a completed action with a present result, which does not fit \"right now\".",
+      "difficulty": "EASY",
+      "topic_key": "en.grammar",
+      "objective_key": "en.grammar.o1",
+      "families": [
+        "*"
+      ],
+      "origin": "AI_GENERATED",
+      "source_key": null,
+      "year": null,
+      "valid_until": null,
+      "tags": [
+        "present continuous",
+        "tenses"
+      ]
+    },
+    {
+      "id": "en-anglais-0003",
+      "type": "MCQ_SINGLE",
+      "language": "en",
+      "stem": "Choose the correct form: \"If it rains tomorrow, the ceremony ___ indoors.\"",
+      "options": [
+        {
+          "id": "a",
+          "text": "was held"
+        },
+        {
+          "id": "b",
+          "text": "would be held"
+        },
+        {
+          "id": "c",
+          "text": "will be held"
+        },
+        {
+          "id": "d",
+          "text": "would have been held"
+        }
+      ],
+      "correct": [
+        "c"
+      ],
+      "explanation": "This is a first conditional: a real, possible future situation (if + present simple, will + base verb). So the main clause takes \"will be held\" (future passive). \"Would be held\" belongs to the second conditional (imaginary situations, if + past simple), and \"would have been held\" to the third conditional (past situations that did not happen).",
+      "difficulty": "EASY",
+      "topic_key": "en.grammar",
+      "objective_key": "en.grammar.o1",
+      "families": [
+        "*"
+      ],
+      "origin": "AI_GENERATED",
+      "source_key": null,
+      "year": null,
+      "valid_until": null,
+      "tags": [
+        "first conditional",
+        "conditionals"
+      ]
+    },
+    {
+      "id": "en-anglais-0004",
+      "type": "TRUE_FALSE",
+      "language": "en",
+      "stem": "True or false? The following sentence is grammatically correct: \"She has worked in this ministry since ten years.\"",
+      "options": [
+        {
+          "id": "a",
+          "text": "True"
+        },
+        {
+          "id": "b",
+          "text": "False"
+        }
+      ],
+      "correct": [
+        "b"
+      ],
+      "explanation": "The sentence is incorrect. With the present perfect, \"since\" is followed by a point in time (since 2016, since Monday), while \"for\" is followed by a period of time (for ten years). The correct sentence is \"She has worked in this ministry for ten years.\" The error often comes from translating the French \"depuis\" or its Arabic equivalent, which cover both meanings.",
+      "difficulty": "EASY",
+      "topic_key": "en.grammar",
+      "objective_key": "en.grammar.o1",
+      "families": [
+        "*"
+      ],
+      "origin": "AI_GENERATED",
+      "source_key": null,
+      "year": null,
+      "valid_until": null,
+      "tags": [
+        "present perfect",
+        "since / for"
+      ]
+    },
+    {
+      "id": "en-anglais-0005",
+      "type": "MCQ_SINGLE",
+      "language": "en",
+      "stem": "Choose the correct modal: \"Candidates ___ bring their national identity card to the exam; without it, they will not be admitted.\"",
+      "options": [
+        {
+          "id": "a",
+          "text": "might"
+        },
+        {
+          "id": "b",
+          "text": "needn't"
+        },
+        {
+          "id": "c",
+          "text": "must"
+        },
+        {
+          "id": "d",
+          "text": "would rather"
+        }
+      ],
+      "correct": [
+        "c"
+      ],
+      "explanation": "The second part of the sentence (\"without it, they will not be admitted\") shows a strict obligation, which is expressed by \"must\". \"Needn't\" means the opposite (it is not necessary), and \"might\" only expresses a possibility. \"Would rather\" expresses a preference, not a rule.",
+      "difficulty": "EASY",
+      "topic_key": "en.grammar",
+      "objective_key": "en.grammar.o1",
+      "families": [
+        "*"
+      ],
+      "origin": "AI_GENERATED",
+      "source_key": null,
+      "year": null,
+      "valid_until": null,
+      "tags": [
+        "modals",
+        "obligation"
+      ]
+    },
+    {
+      "id": "en-anglais-0006",
+      "type": "MCQ_SINGLE",
+      "language": "en",
+      "stem": "Choose the correct form: \"By the time the inspector arrived, the staff ___ the report, so he was able to read it at once.\"",
+      "options": [
+        {
+          "id": "a",
+          "text": "will have finished"
+        },
+        {
+          "id": "b",
+          "text": "finish"
+        },
+        {
+          "id": "c",
+          "text": "had finished"
+        },
+        {
+          "id": "d",
+          "text": "have finished"
+        }
+      ],
+      "correct": [
+        "c"
+      ],
+      "explanation": "The report was completed before another past action (the inspector's arrival), so we need the past perfect \"had finished\". \"By the time\" + past simple in one clause usually calls for the past perfect in the other. \"Have finished\" is a present form and cannot be anchored to a past moment, and \"will have finished\" refers to the future.",
+      "difficulty": "MEDIUM",
+      "topic_key": "en.grammar",
+      "objective_key": "en.grammar.o1",
+      "families": [
+        "*"
+      ],
+      "origin": "AI_GENERATED",
+      "source_key": null,
+      "year": null,
+      "valid_until": null,
+      "tags": [
+        "past perfect",
+        "tenses"
+      ]
+    },
+    {
+      "id": "en-anglais-0007",
+      "type": "MCQ_SINGLE",
+      "language": "en",
+      "stem": "Choose the correct form: \"If I ___ you, I would apply for this competition before the deadline.\"",
+      "options": [
+        {
+          "id": "a",
+          "text": "am"
+        },
+        {
+          "id": "b",
+          "text": "were"
+        },
+        {
+          "id": "c",
+          "text": "will be"
+        },
+        {
+          "id": "d",
+          "text": "had been"
+        }
+      ],
+      "correct": [
+        "b"
+      ],
+      "explanation": "\"If I were you\" is the fixed expression used to give advice; it is a second conditional (if + past form, would + base verb) describing an imaginary situation. \"Were\" is used for all persons in formal English in this structure. \"Am\" and \"will be\" do not fit an unreal condition, and \"had been\" would require \"would have applied\" (third conditional).",
+      "difficulty": "MEDIUM",
+      "topic_key": "en.grammar",
+      "objective_key": "en.grammar.o1",
+      "families": [
+        "*"
+      ],
+      "origin": "AI_GENERATED",
+      "source_key": null,
+      "year": null,
+      "valid_until": null,
+      "tags": [
+        "second conditional",
+        "conditionals"
+      ]
+    },
+    {
+      "id": "en-anglais-0008",
+      "type": "MCQ_MULTI",
+      "language": "en",
+      "stem": "Which of the following sentences are grammatically correct? (Select all that apply.)",
+      "options": [
+        {
+          "id": "a",
+          "text": "He has finished the report yesterday."
+        },
+        {
+          "id": "b",
+          "text": "She is knowing the answer."
+        },
+        {
+          "id": "c",
+          "text": "I have been waiting for the results since Monday."
+        },
+        {
+          "id": "d",
+          "text": "They had left before the meeting started."
+        }
+      ],
+      "correct": [
+        "c",
+        "d"
+      ],
+      "explanation": "Sentence (c) correctly uses the present perfect continuous with \"since\" for an action that started in the past and continues now. Sentence (d) correctly uses the past perfect for an action completed before another past action. Sentence (a) is wrong because the present perfect cannot be used with \"yesterday\" (use \"finished\"), and (b) is wrong because \"know\" is a stative verb that is not normally used in the continuous form (use \"She knows\").",
+      "difficulty": "MEDIUM",
+      "topic_key": "en.grammar",
+      "objective_key": "en.grammar.o1",
+      "families": [
+        "*"
+      ],
+      "origin": "AI_GENERATED",
+      "source_key": null,
+      "year": null,
+      "valid_until": null,
+      "tags": [
+        "tenses",
+        "stative verbs",
+        "error recognition"
+      ]
+    },
+    {
+      "id": "en-anglais-0009",
+      "type": "MCQ_SINGLE",
+      "language": "en",
+      "stem": "Choose the best option: \"The lights in the office are off and nobody is answering the phone. The employees ___ gone home.\"",
+      "options": [
+        {
+          "id": "a",
+          "text": "ought not to have"
+        },
+        {
+          "id": "b",
+          "text": "must have"
+        },
+        {
+          "id": "c",
+          "text": "needn't have"
+        },
+        {
+          "id": "d",
+          "text": "can't have"
+        }
+      ],
+      "correct": [
+        "b"
+      ],
+      "explanation": "\"Must have + past participle\" expresses a strong logical deduction about the past based on evidence (lights off, no answer). \"Can't have\" expresses the opposite deduction (it is impossible that they went home), which contradicts the evidence. \"Needn't have\" means an action was done but was unnecessary, and \"ought not to have\" criticises a past action; neither expresses deduction.",
+      "difficulty": "MEDIUM",
+      "topic_key": "en.grammar",
+      "objective_key": "en.grammar.o1",
+      "families": [
+        "*"
+      ],
+      "origin": "AI_GENERATED",
+      "source_key": null,
+      "year": null,
+      "valid_until": null,
+      "tags": [
+        "modals",
+        "deduction"
+      ]
+    },
+    {
+      "id": "en-anglais-0010",
+      "type": "ORDERING",
+      "language": "en",
+      "stem": "Put the parts in the correct order to form a correct question.",
+      "options": [
+        {
+          "id": "a",
+          "text": "been"
+        },
+        {
+          "id": "b",
+          "text": "How long"
+        },
+        {
+          "id": "c",
+          "text": "you"
+        },
+        {
+          "id": "d",
+          "text": "have"
+        },
+        {
+          "id": "e",
+          "text": "working here?"
+        }
+      ],
+      "correct": {
+        "order": [
+          "b",
+          "d",
+          "c",
+          "a",
+          "e"
+        ]
+      },
+      "explanation": "The correct question is \"How long have you been working here?\". In a present perfect continuous question, the question word comes first, then the auxiliary \"have\", then the subject \"you\", then \"been\" and the -ing form. A common mistake is to keep statement order (\"How long you have been working here?\"), which forgets the subject-auxiliary inversion.",
+      "difficulty": "MEDIUM",
+      "topic_key": "en.grammar",
+      "objective_key": "en.grammar.o1",
+      "families": [
+        "*"
+      ],
+      "origin": "AI_GENERATED",
+      "source_key": null,
+      "year": null,
+      "valid_until": null,
+      "tags": [
+        "present perfect continuous",
+        "question formation",
+        "word order"
+      ]
+    },
+    {
+      "id": "en-anglais-0011",
+      "type": "TRUE_FALSE",
+      "language": "en",
+      "stem": "True or false? Direct speech: He said, \"I will call you tomorrow.\" The following reported version is correct: \"He said that he would call me the next day.\"",
+      "options": [
+        {
+          "id": "a",
+          "text": "True"
+        },
+        {
+          "id": "b",
+          "text": "False"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "explanation": "The statement is true. When the reporting verb is in the past (\"said\"), \"will\" usually becomes \"would\" in reported speech. Time expressions also shift when the report is made later: \"tomorrow\" becomes \"the next day\" (or \"the following day\"). The pronouns change to match the new speaker: \"I\" becomes \"he\" and \"you\" becomes \"me\".",
+      "difficulty": "MEDIUM",
+      "topic_key": "en.grammar",
+      "objective_key": "en.grammar.o1",
+      "families": [
+        "*"
+      ],
+      "origin": "AI_GENERATED",
+      "source_key": null,
+      "year": null,
+      "valid_until": null,
+      "tags": [
+        "reported speech",
+        "backshift"
+      ]
+    },
+    {
+      "id": "en-anglais-0012",
+      "type": "MCQ_SINGLE",
+      "language": "en",
+      "stem": "Choose the correct form: \"If he had accepted the job offer in Sfax last year, he ___ there now.\"",
+      "options": [
+        {
+          "id": "a",
+          "text": "had lived"
+        },
+        {
+          "id": "b",
+          "text": "will live"
+        },
+        {
+          "id": "c",
+          "text": "would have lived"
+        },
+        {
+          "id": "d",
+          "text": "would be living"
+        }
+      ],
+      "correct": [
+        "d"
+      ],
+      "explanation": "This is a mixed conditional: a past condition (\"had accepted ... last year\") with a present result (\"now\"). The result clause therefore uses \"would\" + base verb (here the continuous \"would be living\") to describe the present situation. \"Would have lived\" is the third conditional result and refers to the past, which clashes with \"now\".",
+      "difficulty": "HARD",
+      "topic_key": "en.grammar",
+      "objective_key": "en.grammar.o1",
+      "families": [
+        "*"
+      ],
+      "origin": "AI_GENERATED",
+      "source_key": null,
+      "year": null,
+      "valid_until": null,
+      "tags": [
+        "mixed conditional",
+        "conditionals"
+      ]
+    },
+    {
+      "id": "en-anglais-0013",
+      "type": "MATCHING",
+      "language": "en",
+      "stem": "Match each sentence with the meaning expressed by its modal verb.",
+      "options": [
+        {
+          "id": "l1",
+          "text": "You mustn't smoke in the examination room.",
+          "side": "left"
+        },
+        {
+          "id": "l2",
+          "text": "You don't have to bring a pen; we provide them.",
+          "side": "left"
+        },
+        {
+          "id": "l3",
+          "text": "She can't be at work; I have just seen her at the market.",
+          "side": "left"
+        },
+        {
+          "id": "l4",
+          "text": "You should check your answers before handing in your paper.",
+          "side": "left"
+        },
+        {
+          "id": "r1",
+          "text": "advice",
+          "side": "right"
+        },
+        {
+          "id": "r2",
+          "text": "prohibition",
+          "side": "right"
+        },
+        {
+          "id": "r3",
+          "text": "absence of obligation",
+          "side": "right"
+        },
+        {
+          "id": "r4",
+          "text": "logical impossibility (deduction)",
+          "side": "right"
+        }
+      ],
+      "correct": {
+        "pairs": [
+          [
+            "l1",
+            "r2"
+          ],
+          [
+            "l2",
+            "r3"
+          ],
+          [
+            "l3",
+            "r4"
+          ],
+          [
+            "l4",
+            "r1"
+          ]
+        ]
+      },
+      "explanation": "\"Mustn't\" expresses prohibition (it is not allowed), whereas \"don't have to\" means there is no obligation (it is not necessary). \"Can't\" in \"She can't be at work\" is a negative deduction: the speaker is sure it is impossible. \"Should\" gives advice. Learners often confuse \"mustn't\" and \"don't have to\", but their meanings are very different.",
+      "difficulty": "HARD",
+      "topic_key": "en.grammar",
+      "objective_key": "en.grammar.o1",
+      "families": [
+        "*"
+      ],
+      "origin": "AI_GENERATED",
+      "source_key": null,
+      "year": null,
+      "valid_until": null,
+      "tags": [
+        "modals",
+        "prohibition",
+        "deduction"
+      ]
+    },
+    {
+      "id": "en-anglais-0014",
+      "type": "MCQ_MULTI",
+      "language": "en",
+      "stem": "Which of the following sentences correctly use the passive voice? (Select all that apply.)",
+      "options": [
+        {
+          "id": "a",
+          "text": "The new regulations were announced last week."
+        },
+        {
+          "id": "b",
+          "text": "The building was build in 1990."
+        },
+        {
+          "id": "c",
+          "text": "The results will be announce next month."
+        },
+        {
+          "id": "d",
+          "text": "The candidates have been informed of the decision."
+        },
+        {
+          "id": "e",
+          "text": "The applications are being reviewed by the committee at the moment."
+        }
+      ],
+      "correct": [
+        "a",
+        "d",
+        "e"
+      ],
+      "explanation": "A passive verb is formed with the correct form of \"be\" + past participle: (a) past simple passive, (e) present continuous passive and (d) present perfect passive are all correct. Sentence (c) is wrong because the past participle \"announced\" is needed after \"will be\". Sentence (b) is wrong because the past participle of \"build\" is \"built\", not \"build\".",
+      "difficulty": "HARD",
+      "topic_key": "en.grammar",
+      "objective_key": "en.grammar.o1",
+      "families": [
+        "*"
+      ],
+      "origin": "AI_GENERATED",
+      "source_key": null,
+      "year": null,
+      "valid_until": null,
+      "tags": [
+        "passive voice",
+        "tenses"
+      ]
+    },
+    {
+      "id": "en-anglais-0015",
+      "type": "MCQ_SINGLE",
+      "language": "en",
+      "stem": "Choose the correct word: \"___ the committee approved the budget earlier, the project would have started on time.\"",
+      "options": [
+        {
+          "id": "a",
+          "text": "Had"
+        },
+        {
+          "id": "b",
+          "text": "Should"
+        },
+        {
+          "id": "c",
+          "text": "Unless"
+        },
+        {
+          "id": "d",
+          "text": "Were"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "explanation": "In formal English, \"if\" can be dropped in a third conditional by inverting the subject and \"had\": \"Had the committee approved...\" = \"If the committee had approved...\". This matches the result clause \"would have started\" (an unreal past). Inversion with \"Should\" is used for first-conditional situations and \"Were\" for second-conditional ones (\"Were the committee to approve...\"); \"Unless\" would require a different structure and reverses the meaning.",
+      "difficulty": "EXPERT",
+      "topic_key": "en.grammar",
+      "objective_key": "en.grammar.o1",
+      "families": [
+        "*"
+      ],
+      "origin": "AI_GENERATED",
+      "source_key": null,
+      "year": null,
+      "valid_until": null,
+      "tags": [
+        "inversion",
+        "third conditional",
+        "conditionals"
+      ]
+    },
+    {
+      "id": "en-anglais-0016",
+      "type": "MCQ_SINGLE",
+      "language": "en",
+      "stem": "\"The deadline for submitting applications is 15 March.\" In this sentence, the word \"deadline\" means:",
+      "options": [
+        {
+          "id": "a",
+          "text": "the latest date by which something must be done"
+        },
+        {
+          "id": "b",
+          "text": "a document that confirms a payment"
+        },
+        {
+          "id": "c",
+          "text": "the date on which an activity starts"
+        },
+        {
+          "id": "d",
+          "text": "a list of the accepted candidates"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "explanation": "A deadline is the latest time or date by which something must be finished or submitted. It is the opposite of a starting date, so option (c) is wrong. Options (b) and (d) describe other administrative documents, not a time limit.",
+      "difficulty": "EASY",
+      "topic_key": "en.vocabulary",
+      "objective_key": "en.vocabulary.o1",
+      "families": [
+        "*"
+      ],
+      "origin": "AI_GENERATED",
+      "source_key": null,
+      "year": null,
+      "valid_until": null,
+      "tags": [
+        "administrative vocabulary",
+        "definitions"
+      ]
+    },
+    {
+      "id": "en-anglais-0017",
+      "type": "MCQ_SINGLE",
+      "language": "en",
+      "stem": "Choose the word closest in meaning to \"purchase\": \"The municipality will purchase new vehicles next year.\"",
+      "options": [
+        {
+          "id": "a",
+          "text": "sell"
+        },
+        {
+          "id": "b",
+          "text": "repair"
+        },
+        {
+          "id": "c",
+          "text": "borrow"
+        },
+        {
+          "id": "d",
+          "text": "buy"
+        }
+      ],
+      "correct": [
+        "d"
+      ],
+      "explanation": "\"To purchase\" is a more formal synonym of \"to buy\": to obtain something by paying for it. \"Sell\" is its opposite, and \"borrow\" means to take something temporarily without buying it. \"Repair\" means to fix something that is broken.",
+      "difficulty": "EASY",
+      "topic_key": "en.vocabulary",
+      "objective_key": "en.vocabulary.o1",
+      "families": [
+        "*"
+      ],
+      "origin": "AI_GENERATED",
+      "source_key": null,
+      "year": null,
+      "valid_until": null,
+      "tags": [
+        "synonyms",
+        "formal vocabulary"
+      ]
+    },
+    {
+      "id": "en-anglais-0018",
+      "type": "MCQ_SINGLE",
+      "language": "en",
+      "stem": "Choose the word that is the opposite of \"increase\": \"The number of applicants increased this year.\"",
+      "options": [
+        {
+          "id": "a",
+          "text": "expand"
+        },
+        {
+          "id": "b",
+          "text": "decrease"
+        },
+        {
+          "id": "c",
+          "text": "grow"
+        },
+        {
+          "id": "d",
+          "text": "rise"
+        }
+      ],
+      "correct": [
+        "b"
+      ],
+      "explanation": "The opposite of \"increase\" (to become larger) is \"decrease\" (to become smaller). \"Rise\", \"grow\" and \"expand\" are all near-synonyms of \"increase\", so they cannot be its opposite.",
+      "difficulty": "EASY",
+      "topic_key": "en.vocabulary",
+      "objective_key": "en.vocabulary.o1",
+      "families": [
+        "*"
+      ],
+      "origin": "AI_GENERATED",
+      "source_key": null,
+      "year": null,
+      "valid_until": null,
+      "tags": [
+        "antonyms"
+      ]
+    },
+    {
+      "id": "en-anglais-0019",
+      "type": "MCQ_SINGLE",
+      "language": "en",
+      "stem": "Complete the sentence: \"Please ___ this application form and return it before Friday.\"",
+      "options": [
+        {
+          "id": "a",
+          "text": "fill up"
+        },
+        {
+          "id": "b",
+          "text": "fill in"
+        },
+        {
+          "id": "c",
+          "text": "fill on"
+        },
+        {
+          "id": "d",
+          "text": "fill with"
+        }
+      ],
+      "correct": [
+        "b"
+      ],
+      "explanation": "The correct phrasal verb for completing a form is \"fill in\" (American English also uses \"fill out\"). \"Fill up\" means to make a container completely full (fill up the tank), so it does not fit a form. \"Fill on\" does not exist, and \"fill with\" needs an object describing the content (fill the box with paper).",
+      "difficulty": "EASY",
+      "topic_key": "en.vocabulary",
+      "objective_key": "en.vocabulary.o1",
+      "families": [
+        "*"
+      ],
+      "origin": "AI_GENERATED",
+      "source_key": null,
+      "year": null,
+      "valid_until": null,
+      "tags": [
+        "phrasal verbs",
+        "collocations"
+      ]
+    },
+    {
+      "id": "en-anglais-0020",
+      "type": "TRUE_FALSE",
+      "language": "en",
+      "stem": "True or false? \"Make a decision\" is a correct English collocation, whereas \"do a decision\" is not.",
+      "options": [
+        {
+          "id": "a",
+          "text": "True"
+        },
+        {
+          "id": "b",
+          "text": "False"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "explanation": "The statement is true: in English we \"make a decision\" (also \"take a decision\" in British English), never \"do a decision\". \"Make\" is generally used for creating or producing something (make a plan, make a mistake), while \"do\" is used for tasks and activities (do your homework, do a job).",
+      "difficulty": "EASY",
+      "topic_key": "en.vocabulary",
+      "objective_key": "en.vocabulary.o1",
+      "families": [
+        "*"
+      ],
+      "origin": "AI_GENERATED",
+      "source_key": null,
+      "year": null,
+      "valid_until": null,
+      "tags": [
+        "collocations",
+        "make / do"
+      ]
+    },
+    {
+      "id": "en-anglais-0021",
+      "type": "MCQ_SINGLE",
+      "language": "en",
+      "stem": "Choose the best word: \"The minister will ___ a speech at the opening ceremony.\"",
+      "options": [
+        {
+          "id": "a",
+          "text": "deliver"
+        },
+        {
+          "id": "b",
+          "text": "say"
+        },
+        {
+          "id": "c",
+          "text": "speak"
+        },
+        {
+          "id": "d",
+          "text": "tell"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "explanation": "\"Deliver a speech\" is a standard formal collocation meaning to give a speech in public. \"Say\" and \"tell\" do not collocate with \"speech\" (we say something, tell someone something). \"Speak\" is intransitive in this context; we speak at a ceremony, but we do not \"speak a speech\".",
+      "difficulty": "MEDIUM",
+      "topic_key": "en.vocabulary",
+      "objective_key": "en.vocabulary.o1",
+      "families": [
+        "*"
+      ],
+      "origin": "AI_GENERATED",
+      "source_key": null,
+      "year": null,
+      "valid_until": null,
+      "tags": [
+        "collocations",
+        "formal vocabulary"
+      ]
+    },
+    {
+      "id": "en-anglais-0022",
+      "type": "MCQ_SINGLE",
+      "language": "en",
+      "stem": "Complete the sentence: \"The meeting has been ___ until next week because the director is ill.\"",
+      "options": [
+        {
+          "id": "a",
+          "text": "put off"
+        },
+        {
+          "id": "b",
+          "text": "put on"
+        },
+        {
+          "id": "c",
+          "text": "put out"
+        },
+        {
+          "id": "d",
+          "text": "put up"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "explanation": "\"Put off\" means to postpone, i.e. to move an event to a later date, which matches \"until next week\". \"Put on\" means to wear or to organise a show, \"put up\" means to raise or to give someone accommodation, and \"put out\" means to extinguish (a fire) or to publish.",
+      "difficulty": "MEDIUM",
+      "topic_key": "en.vocabulary",
+      "objective_key": "en.vocabulary.o1",
+      "families": [
+        "*"
+      ],
+      "origin": "AI_GENERATED",
+      "source_key": null,
+      "year": null,
+      "valid_until": null,
+      "tags": [
+        "phrasal verbs"
+      ]
+    },
+    {
+      "id": "en-anglais-0023",
+      "type": "MCQ_MULTI",
+      "language": "en",
+      "stem": "Which of the following words are synonyms of \"essential\"? (Select all that apply.)",
+      "options": [
+        {
+          "id": "a",
+          "text": "trivial"
+        },
+        {
+          "id": "b",
+          "text": "optional"
+        },
+        {
+          "id": "c",
+          "text": "vital"
+        },
+        {
+          "id": "d",
+          "text": "indispensable"
+        }
+      ],
+      "correct": [
+        "c",
+        "d"
+      ],
+      "explanation": "\"Essential\" means absolutely necessary, so \"vital\" and \"indispensable\" are synonyms. \"Optional\" means that something can be chosen or not, and \"trivial\" means of little importance; both are close to opposites of \"essential\".",
+      "difficulty": "MEDIUM",
+      "topic_key": "en.vocabulary",
+      "objective_key": "en.vocabulary.o1",
+      "families": [
+        "*"
+      ],
+      "origin": "AI_GENERATED",
+      "source_key": null,
+      "year": null,
+      "valid_until": null,
+      "tags": [
+        "synonyms"
+      ]
+    },
+    {
+      "id": "en-anglais-0024",
+      "type": "MCQ_SINGLE",
+      "language": "en",
+      "stem": "\"We need to make sure that everyone is on the same page before the project starts.\" The expression \"to be on the same page\" means:",
+      "options": [
+        {
+          "id": "a",
+          "text": "to work in the same office"
+        },
+        {
+          "id": "b",
+          "text": "to read the same document at the same time"
+        },
+        {
+          "id": "c",
+          "text": "to share the same understanding or agree on something"
+        },
+        {
+          "id": "d",
+          "text": "to have the same level of education"
+        }
+      ],
+      "correct": [
+        "c"
+      ],
+      "explanation": "\"To be on the same page\" is an idiomatic expression meaning that people share the same understanding of a situation or agree about what to do. Option (b) is a literal interpretation of the words, which is the typical trap with idioms. Options (a) and (d) have no connection with the meaning of the expression.",
+      "difficulty": "MEDIUM",
+      "topic_key": "en.vocabulary",
+      "objective_key": "en.vocabulary.o1",
+      "families": [
+        "*"
+      ],
+      "origin": "AI_GENERATED",
+      "source_key": null,
+      "year": null,
+      "valid_until": null,
+      "tags": [
+        "idioms",
+        "common expressions"
+      ]
+    },
+    {
+      "id": "en-anglais-0025",
+      "type": "MATCHING",
+      "language": "en",
+      "stem": "Match each word with its definition.",
+      "options": [
+        {
+          "id": "l1",
+          "text": "colleague",
+          "side": "left"
+        },
+        {
+          "id": "l2",
+          "text": "applicant",
+          "side": "left"
+        },
+        {
+          "id": "l3",
+          "text": "supervisor",
+          "side": "left"
+        },
+        {
+          "id": "l4",
+          "text": "retiree",
+          "side": "left"
+        },
+        {
+          "id": "r1",
+          "text": "a person who has stopped working, usually because of age",
+          "side": "right"
+        },
+        {
+          "id": "r2",
+          "text": "a person you work with",
+          "side": "right"
+        },
+        {
+          "id": "r3",
+          "text": "a person who oversees and checks the work of others",
+          "side": "right"
+        },
+        {
+          "id": "r4",
+          "text": "a person who formally asks to be considered for a job",
+          "side": "right"
+        }
+      ],
+      "correct": {
+        "pairs": [
+          [
+            "l1",
+            "r2"
+          ],
+          [
+            "l2",
+            "r4"
+          ],
+          [
+            "l3",
+            "r3"
+          ],
+          [
+            "l4",
+            "r1"
+          ]
+        ]
+      },
+      "explanation": "A colleague is someone you work with, usually at the same level. An applicant is a person who applies for a job, a place or a service. A supervisor oversees other people's work, and a retiree has stopped working, usually because of age.",
+      "difficulty": "MEDIUM",
+      "topic_key": "en.vocabulary",
+      "objective_key": "en.vocabulary.o1",
+      "families": [
+        "*"
+      ],
+      "origin": "AI_GENERATED",
+      "source_key": null,
+      "year": null,
+      "valid_until": null,
+      "tags": [
+        "workplace vocabulary",
+        "definitions"
+      ]
+    },
+    {
+      "id": "en-anglais-0026",
+      "type": "MCQ_SINGLE",
+      "language": "en",
+      "stem": "Choose the correct word: \"The new rules will ___ all employees, including part-time staff.\"",
+      "options": [
+        {
+          "id": "a",
+          "text": "infect"
+        },
+        {
+          "id": "b",
+          "text": "effect"
+        },
+        {
+          "id": "c",
+          "text": "afflict"
+        },
+        {
+          "id": "d",
+          "text": "affect"
+        }
+      ],
+      "correct": [
+        "d"
+      ],
+      "explanation": "\"Affect\" is the verb meaning to have an influence on someone or something, which fits the sentence. \"Effect\" is mainly a noun (a result); as a verb it means to bring about (to effect a change), so it does not fit here. \"Infect\" refers to disease, and \"afflict\" means to cause suffering.",
+      "difficulty": "MEDIUM",
+      "topic_key": "en.vocabulary",
+      "objective_key": "en.vocabulary.o1",
+      "families": [
+        "*"
+      ],
+      "origin": "AI_GENERATED",
+      "source_key": null,
+      "year": null,
+      "valid_until": null,
+      "tags": [
+        "confusable words"
+      ]
+    },
+    {
+      "id": "en-anglais-0027",
+      "type": "MCQ_SINGLE",
+      "language": "en",
+      "stem": "Choose the correct word: \"The director is ___ on a mission abroad; he will be back next week.\"",
+      "options": [
+        {
+          "id": "a",
+          "text": "eventually"
+        },
+        {
+          "id": "b",
+          "text": "currently"
+        },
+        {
+          "id": "c",
+          "text": "lately"
+        },
+        {
+          "id": "d",
+          "text": "actually"
+        }
+      ],
+      "correct": [
+        "b"
+      ],
+      "explanation": "\"Currently\" means at the present time, which matches a mission happening now. \"Actually\" means \"in fact\" and \"eventually\" means \"in the end, after some time\"; they are false friends of the French \"actuellement\" and \"éventuellement\". \"Lately\" means \"recently\" and is normally used with the present perfect (I have been busy lately).",
+      "difficulty": "HARD",
+      "topic_key": "en.vocabulary",
+      "objective_key": "en.vocabulary.o1",
+      "families": [
+        "*"
+      ],
+      "origin": "AI_GENERATED",
+      "source_key": null,
+      "year": null,
+      "valid_until": null,
+      "tags": [
+        "false friends",
+        "adverbs"
+      ]
+    },
+    {
+      "id": "en-anglais-0028",
+      "type": "MCQ_MULTI",
+      "language": "en",
+      "stem": "Which of the following are correct collocations with the verb \"take\"? (Select all that apply.)",
+      "options": [
+        {
+          "id": "a",
+          "text": "take a break"
+        },
+        {
+          "id": "b",
+          "text": "take responsibility"
+        },
+        {
+          "id": "c",
+          "text": "take a mistake"
+        },
+        {
+          "id": "d",
+          "text": "take progress"
+        }
+      ],
+      "correct": [
+        "a",
+        "b"
+      ],
+      "explanation": "\"Take a break\" and \"take responsibility\" are both standard collocations. With \"mistake\" and \"progress\", English uses \"make\": we make a mistake and make progress. Collocations must be learned as fixed combinations because they cannot always be guessed from meaning.",
+      "difficulty": "HARD",
+      "topic_key": "en.vocabulary",
+      "objective_key": "en.vocabulary.o1",
+      "families": [
+        "*"
+      ],
+      "origin": "AI_GENERATED",
+      "source_key": null,
+      "year": null,
+      "valid_until": null,
+      "tags": [
+        "collocations",
+        "make / take"
+      ]
+    },
+    {
+      "id": "en-anglais-0029",
+      "type": "MCQ_SINGLE",
+      "language": "en",
+      "stem": "Choose the correct word: \"Despite the ___ of the task, the team finished it on time.\"",
+      "options": [
+        {
+          "id": "a",
+          "text": "complexly"
+        },
+        {
+          "id": "b",
+          "text": "complexion"
+        },
+        {
+          "id": "c",
+          "text": "complexity"
+        },
+        {
+          "id": "d",
+          "text": "complicate"
+        }
+      ],
+      "correct": [
+        "c"
+      ],
+      "explanation": "After \"the\" and before \"of\", a noun is needed; \"complexity\" is the noun formed from \"complex\" and means the state of being complicated. \"Complexion\" is also a noun, but it means the natural colour and condition of the skin of the face, so it is a trap. \"Complexly\" is an adverb and \"complicate\" is a verb, so neither fits the noun position.",
+      "difficulty": "HARD",
+      "topic_key": "en.vocabulary",
+      "objective_key": "en.vocabulary.o1",
+      "families": [
+        "*"
+      ],
+      "origin": "AI_GENERATED",
+      "source_key": null,
+      "year": null,
+      "valid_until": null,
+      "tags": [
+        "word formation",
+        "confusable words"
+      ]
+    },
+    {
+      "id": "en-anglais-0030",
+      "type": "MCQ_SINGLE",
+      "language": "en",
+      "stem": "Choose the correct form: \"The selection committee ___ five members.\"",
+      "options": [
+        {
+          "id": "a",
+          "text": "comprises of"
+        },
+        {
+          "id": "b",
+          "text": "comprises"
+        },
+        {
+          "id": "c",
+          "text": "consists"
+        },
+        {
+          "id": "d",
+          "text": "is consisting of"
+        }
+      ],
+      "correct": [
+        "b"
+      ],
+      "explanation": "\"Comprise\" is a transitive verb meaning \"to be made up of\", so it takes a direct object without a preposition: \"The committee comprises five members.\" \"Comprises of\" is a common error caused by confusion with \"consists of\". \"Consist\" must be followed by \"of\", and as a stative verb it is not normally used in the continuous form, so \"is consisting of\" is also wrong.",
+      "difficulty": "EXPERT",
+      "topic_key": "en.vocabulary",
+      "objective_key": "en.vocabulary.o1",
+      "families": [
+        "*"
+      ],
+      "origin": "AI_GENERATED",
+      "source_key": null,
+      "year": null,
+      "valid_until": null,
+      "tags": [
+        "dependent prepositions",
+        "formal vocabulary",
+        "common errors"
+      ]
+    },
+    {
+      "id": "en-anglais-0031",
+      "type": "MCQ_SINGLE",
+      "language": "en",
+      "stem": "Read the notice and answer the question.\n\nNOTICE TO CANDIDATES\nThe written tests will take place on 14 November at the regional examination centre. The first test (general culture) begins at 8:30 a.m. and lasts two hours. After a 30-minute break, the second test (English) begins. Candidates must arrive at least 45 minutes before the start of the first test and present a valid national identity card together with their invitation letter. Mobile phones and smartwatches are strictly forbidden in the examination rooms. Candidates who arrive after the start of a test will not be allowed to enter the room.\n\nWhat is the main purpose of this notice?",
+      "options": [
+        {
+          "id": "a",
+          "text": "To describe the content of the English test"
+        },
+        {
+          "id": "b",
+          "text": "To give candidates practical instructions for the written tests"
+        },
+        {
+          "id": "c",
+          "text": "To announce the results of the written tests"
+        },
+        {
+          "id": "d",
+          "text": "To invite people to apply for the competition"
+        }
+      ],
+      "correct": [
+        "b"
+      ],
+      "explanation": "The notice gives the date, the place, the timetable, the documents to bring and the rules about phones and late arrival: these are practical instructions for the day of the tests. It does not mention any results, so (c) is wrong, and it is addressed to people who are already candidates, so (d) is wrong. The English test is only named, not described, so (a) is wrong.",
+      "difficulty": "EASY",
+      "topic_key": "en.comprehension",
+      "objective_key": "en.comprehension.o1",
+      "families": [
+        "*"
+      ],
+      "origin": "AI_GENERATED",
+      "source_key": null,
+      "year": null,
+      "valid_until": null,
+      "tags": [
+        "main idea",
+        "notice"
+      ]
+    },
+    {
+      "id": "en-anglais-0032",
+      "type": "TRUE_FALSE",
+      "language": "en",
+      "stem": "Read the notice and answer the question.\n\nNOTICE TO CANDIDATES\nThe written tests will take place on 14 November at the regional examination centre. The first test (general culture) begins at 8:30 a.m. and lasts two hours. After a 30-minute break, the second test (English) begins. Candidates must arrive at least 45 minutes before the start of the first test and present a valid national identity card together with their invitation letter. Mobile phones and smartwatches are strictly forbidden in the examination rooms. Candidates who arrive after the start of a test will not be allowed to enter the room.\n\nTrue or false? According to the notice, candidates may keep their mobile phones with them in the examination room if the phones are switched off.",
+      "options": [
+        {
+          "id": "a",
+          "text": "True"
+        },
+        {
+          "id": "b",
+          "text": "False"
+        }
+      ],
+      "correct": [
+        "b"
+      ],
+      "explanation": "The statement is false. The notice says that mobile phones are \"strictly forbidden in the examination rooms\" and makes no exception for phones that are switched off. Adding a condition that is not in the text is a common trap in true/false questions.",
+      "difficulty": "EASY",
+      "topic_key": "en.comprehension",
+      "objective_key": "en.comprehension.o1",
+      "families": [
+        "*"
+      ],
+      "origin": "AI_GENERATED",
+      "source_key": null,
+      "year": null,
+      "valid_until": null,
+      "tags": [
+        "details",
+        "notice"
+      ]
+    },
+    {
+      "id": "en-anglais-0033",
+      "type": "NUMERIC",
+      "language": "en",
+      "stem": "Read the notice and answer the question.\n\nNOTICE TO CANDIDATES\nThe written tests will take place on 14 November at the regional examination centre. The first test (general culture) begins at 8:30 a.m. and lasts two hours. After a 30-minute break, the second test (English) begins. Candidates must arrive at least 45 minutes before the start of the first test and present a valid national identity card together with their invitation letter. Mobile phones and smartwatches are strictly forbidden in the examination rooms. Candidates who arrive after the start of a test will not be allowed to enter the room.\n\nAt what time does the second test begin? Write only the hour as a number (for example, write 10 for 10:00 a.m.).",
+      "options": [],
+      "correct": {
+        "value": 11,
+        "tolerance": 0
+      },
+      "explanation": "The first test starts at 8:30 a.m. and lasts two hours, so it ends at 10:30 a.m. After a 30-minute break, the second test begins at 11:00 a.m. A common mistake is to forget the break and answer 10 (10:30 a.m.).",
+      "difficulty": "MEDIUM",
+      "topic_key": "en.comprehension",
+      "objective_key": "en.comprehension.o1",
+      "families": [
+        "*"
+      ],
+      "origin": "AI_GENERATED",
+      "source_key": null,
+      "year": null,
+      "valid_until": null,
+      "tags": [
+        "details",
+        "notice",
+        "time"
+      ]
+    },
+    {
+      "id": "en-anglais-0034",
+      "type": "MCQ_SINGLE",
+      "language": "en",
+      "stem": "Read the notice and answer the question.\n\nNOTICE TO CANDIDATES\nThe written tests will take place on 14 November at the regional examination centre. The first test (general culture) begins at 8:30 a.m. and lasts two hours. After a 30-minute break, the second test (English) begins. Candidates must arrive at least 45 minutes before the start of the first test and present a valid national identity card together with their invitation letter. Mobile phones and smartwatches are strictly forbidden in the examination rooms. Candidates who arrive after the start of a test will not be allowed to enter the room.\n\nAccording to the notice, what will happen to a candidate who arrives at the examination room at 8:40 a.m.?",
+      "options": [
+        {
+          "id": "a",
+          "text": "He or she will have to show a second identity document."
+        },
+        {
+          "id": "b",
+          "text": "He or she will be allowed in but will lose ten minutes."
+        },
+        {
+          "id": "c",
+          "text": "He or she will not be allowed to take the first test."
+        },
+        {
+          "id": "d",
+          "text": "He or she will take the first test in a separate room."
+        }
+      ],
+      "correct": [
+        "c"
+      ],
+      "explanation": "The first test begins at 8:30 a.m., and the notice states that candidates who arrive after the start of a test \"will not be allowed to enter the room\". A candidate arriving at 8:40 a.m. therefore cannot take the first test. Option (b) describes a common practice in some exams, but it contradicts this notice; options (a) and (d) are not mentioned at all.",
+      "difficulty": "MEDIUM",
+      "topic_key": "en.comprehension",
+      "objective_key": "en.comprehension.o1",
+      "families": [
+        "*"
+      ],
+      "origin": "AI_GENERATED",
+      "source_key": null,
+      "year": null,
+      "valid_until": null,
+      "tags": [
+        "details",
+        "inference",
+        "notice"
+      ]
+    },
+    {
+      "id": "en-anglais-0035",
+      "type": "MCQ_SINGLE",
+      "language": "en",
+      "stem": "Read the text and answer the question.\n\n\"Many public administrations around the world are moving their services online. Citizens can now request certificates, pay fees and follow the progress of their files without travelling to an office. Supporters say that digital services save time, reduce paperwork and limit opportunities for corruption. However, critics point out that not everyone has a reliable internet connection or the skills needed to use online platforms. For this reason, experts recommend keeping some traditional service counters open, especially in rural areas, while training staff to help citizens use the new tools.\"\n\nWhat is the text mainly about?",
+      "options": [
+        {
+          "id": "a",
+          "text": "The cost of internet connections for citizens"
+        },
+        {
+          "id": "b",
+          "text": "The best methods for training administrative staff"
+        },
+        {
+          "id": "c",
+          "text": "The problem of corruption in rural areas"
+        },
+        {
+          "id": "d",
+          "text": "The move of public services online, with its advantages and its limits"
+        }
+      ],
+      "correct": [
+        "d"
+      ],
+      "explanation": "The text presents the shift of public services to the internet, then gives the arguments of supporters (advantages) and critics (limits), and ends with a recommendation. Corruption, staff training and internet access are each mentioned only as details, so options (a), (b) and (c) are too narrow to be the main idea.",
+      "difficulty": "EASY",
+      "topic_key": "en.comprehension",
+      "objective_key": "en.comprehension.o1",
+      "families": [
+        "*"
+      ],
+      "origin": "AI_GENERATED",
+      "source_key": null,
+      "year": null,
+      "valid_until": null,
+      "tags": [
+        "main idea",
+        "e-administration"
+      ]
+    },
+    {
+      "id": "en-anglais-0036",
+      "type": "MCQ_MULTI",
+      "language": "en",
+      "stem": "Read the text and answer the question.\n\n\"Many public administrations around the world are moving their services online. Citizens can now request certificates, pay fees and follow the progress of their files without travelling to an office. Supporters say that digital services save time, reduce paperwork and limit opportunities for corruption. However, critics point out that not everyone has a reliable internet connection or the skills needed to use online platforms. For this reason, experts recommend keeping some traditional service counters open, especially in rural areas, while training staff to help citizens use the new tools.\"\n\nWhich advantages of digital services are mentioned in the text? (Select all that apply.)",
+      "options": [
+        {
+          "id": "a",
+          "text": "They reduce paperwork."
+        },
+        {
+          "id": "b",
+          "text": "They save time."
+        },
+        {
+          "id": "c",
+          "text": "They create new jobs in rural areas."
+        },
+        {
+          "id": "d",
+          "text": "They limit opportunities for corruption."
+        }
+      ],
+      "correct": [
+        "a",
+        "b",
+        "d"
+      ],
+      "explanation": "The supporters quoted in the text say that digital services \"save time, reduce paperwork and limit opportunities for corruption\", which corresponds to options (a), (b) and (d). The text never says that digital services create jobs; rural areas are mentioned only in connection with keeping traditional counters open, so (c) is wrong.",
+      "difficulty": "MEDIUM",
+      "topic_key": "en.comprehension",
+      "objective_key": "en.comprehension.o1",
+      "families": [
+        "*"
+      ],
+      "origin": "AI_GENERATED",
+      "source_key": null,
+      "year": null,
+      "valid_until": null,
+      "tags": [
+        "details",
+        "e-administration"
+      ]
+    },
+    {
+      "id": "en-anglais-0037",
+      "type": "MCQ_SINGLE",
+      "language": "en",
+      "stem": "Read the text and answer the question.\n\n\"Many public administrations around the world are moving their services online. Citizens can now request certificates, pay fees and follow the progress of their files without travelling to an office. Supporters say that digital services save time, reduce paperwork and limit opportunities for corruption. However, critics point out that not everyone has a reliable internet connection or the skills needed to use online platforms. For this reason, experts recommend keeping some traditional service counters open, especially in rural areas, while training staff to help citizens use the new tools.\"\n\nWhat do the experts recommend?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Closing all traditional counters as quickly as possible"
+        },
+        {
+          "id": "b",
+          "text": "Stopping digital services in rural areas"
+        },
+        {
+          "id": "c",
+          "text": "Giving every citizen a free internet connection"
+        },
+        {
+          "id": "d",
+          "text": "Keeping some traditional counters open and training staff to help citizens"
+        }
+      ],
+      "correct": [
+        "d"
+      ],
+      "explanation": "The last sentence says that experts recommend \"keeping some traditional service counters open, especially in rural areas, while training staff to help citizens use the new tools\". Option (a) is the opposite of this recommendation, and (b) misreads the text: the experts want to keep counters in rural areas, not to stop online services there. Free internet access (c) is not mentioned.",
+      "difficulty": "MEDIUM",
+      "topic_key": "en.comprehension",
+      "objective_key": "en.comprehension.o1",
+      "families": [
+        "*"
+      ],
+      "origin": "AI_GENERATED",
+      "source_key": null,
+      "year": null,
+      "valid_until": null,
+      "tags": [
+        "details",
+        "e-administration"
+      ]
+    },
+    {
+      "id": "en-anglais-0038",
+      "type": "MCQ_SINGLE",
+      "language": "en",
+      "stem": "Read the text and answer the question.\n\n\"Many public administrations around the world are moving their services online. Citizens can now request certificates, pay fees and follow the progress of their files without travelling to an office. Supporters say that digital services save time, reduce paperwork and limit opportunities for corruption. However, critics point out that not everyone has a reliable internet connection or the skills needed to use online platforms. For this reason, experts recommend keeping some traditional service counters open, especially in rural areas, while training staff to help citizens use the new tools.\"\n\nIn the text, the phrase \"point out\" (\"critics point out that...\") is closest in meaning to:",
+      "options": [
+        {
+          "id": "a",
+          "text": "refuse to accept"
+        },
+        {
+          "id": "b",
+          "text": "draw attention to"
+        },
+        {
+          "id": "c",
+          "text": "show with a finger"
+        },
+        {
+          "id": "d",
+          "text": "leave out"
+        }
+      ],
+      "correct": [
+        "b"
+      ],
+      "explanation": "\"To point out\" means to mention a fact in order to draw people's attention to it, which is what the critics do when they mention internet access and digital skills. Option (c) is the literal meaning of \"point\", which does not apply to an argument. \"Refuse to accept\" and \"leave out\" (omit) do not match the context.",
+      "difficulty": "MEDIUM",
+      "topic_key": "en.comprehension",
+      "objective_key": "en.comprehension.o1",
+      "families": [
+        "*"
+      ],
+      "origin": "AI_GENERATED",
+      "source_key": null,
+      "year": null,
+      "valid_until": null,
+      "tags": [
+        "meaning in context",
+        "phrasal verbs"
+      ]
+    },
+    {
+      "id": "en-anglais-0039",
+      "type": "MCQ_SINGLE",
+      "language": "en",
+      "stem": "Read the text and answer the question.\n\n\"Water is becoming one of the most precious resources in North Africa. In recent years, rising temperatures and irregular rainfall have lowered the level of many dams, while demand from farms, factories and households continues to grow. In the countries of the region, agriculture uses far more water than any other sector. For this reason, many experts argue that saving water in farming, for example through drip irrigation, would have a greater impact than any other single measure. Treating and reusing wastewater is another promising solution, although it requires heavy investment and the trust of the public.\"\n\nAccording to the text, which measure would have the greatest impact?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Saving water in agriculture"
+        },
+        {
+          "id": "b",
+          "text": "Treating and reusing wastewater"
+        },
+        {
+          "id": "c",
+          "text": "Building new dams"
+        },
+        {
+          "id": "d",
+          "text": "Reducing water use in households"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "explanation": "The text states that \"saving water in farming ... would have a greater impact than any other single measure\", because agriculture is the largest user of water. Wastewater reuse (b) is presented only as \"another promising solution\". Building new dams (c) and reducing household use (d) are not proposed in the text.",
+      "difficulty": "MEDIUM",
+      "topic_key": "en.comprehension",
+      "objective_key": "en.comprehension.o1",
+      "families": [
+        "*"
+      ],
+      "origin": "AI_GENERATED",
+      "source_key": null,
+      "year": null,
+      "valid_until": null,
+      "tags": [
+        "details",
+        "environment"
+      ]
+    },
+    {
+      "id": "en-anglais-0040",
+      "type": "MCQ_SINGLE",
+      "language": "en",
+      "stem": "Read the text and answer the question.\n\n\"Water is becoming one of the most precious resources in North Africa. In recent years, rising temperatures and irregular rainfall have lowered the level of many dams, while demand from farms, factories and households continues to grow. In the countries of the region, agriculture uses far more water than any other sector. For this reason, many experts argue that saving water in farming, for example through drip irrigation, would have a greater impact than any other single measure. Treating and reusing wastewater is another promising solution, although it requires heavy investment and the trust of the public.\"\n\nWhat can be inferred from the last sentence about the reuse of wastewater?",
+      "options": [
+        {
+          "id": "a",
+          "text": "It is cheaper than drip irrigation."
+        },
+        {
+          "id": "b",
+          "text": "The public has already fully accepted it."
+        },
+        {
+          "id": "c",
+          "text": "It has already replaced dams in most countries."
+        },
+        {
+          "id": "d",
+          "text": "It is a useful option, but it faces financial and social obstacles."
+        }
+      ],
+      "correct": [
+        "d"
+      ],
+      "explanation": "The sentence calls wastewater reuse \"promising\" (useful), but the word \"although\" introduces two obstacles: it needs \"heavy investment\" (financial) and \"the trust of the public\" (social). Option (a) is not supported by the text, which stresses the heavy investment required, and option (b) contradicts the need to win public trust. Nothing in the text supports option (c).",
+      "difficulty": "HARD",
+      "topic_key": "en.comprehension",
+      "objective_key": "en.comprehension.o1",
+      "families": [
+        "*"
+      ],
+      "origin": "AI_GENERATED",
+      "source_key": null,
+      "year": null,
+      "valid_until": null,
+      "tags": [
+        "inference",
+        "connectors",
+        "environment"
+      ]
+    },
+    {
+      "id": "en-anglais-0041",
+      "type": "TRUE_FALSE",
+      "language": "en",
+      "stem": "Read the text and answer the question.\n\n\"Water is becoming one of the most precious resources in North Africa. In recent years, rising temperatures and irregular rainfall have lowered the level of many dams, while demand from farms, factories and households continues to grow. In the countries of the region, agriculture uses far more water than any other sector. For this reason, many experts argue that saving water in farming, for example through drip irrigation, would have a greater impact than any other single measure. Treating and reusing wastewater is another promising solution, although it requires heavy investment and the trust of the public.\"\n\nTrue or false? According to the text, the demand for water in the region is falling.",
+      "options": [
+        {
+          "id": "a",
+          "text": "True"
+        },
+        {
+          "id": "b",
+          "text": "False"
+        }
+      ],
+      "correct": [
+        "b"
+      ],
+      "explanation": "The statement is false. The text says that demand from farms, factories and households \"continues to grow\". What is falling is the level of many dams, not the demand for water.",
+      "difficulty": "EASY",
+      "topic_key": "en.comprehension",
+      "objective_key": "en.comprehension.o1",
+      "families": [
+        "*"
+      ],
+      "origin": "AI_GENERATED",
+      "source_key": null,
+      "year": null,
+      "valid_until": null,
+      "tags": [
+        "details",
+        "environment"
+      ]
+    },
+    {
+      "id": "en-anglais-0042",
+      "type": "ORDERING",
+      "language": "en",
+      "stem": "The following sentences come from a short application letter. Put them in the correct order to form a coherent paragraph.",
+      "options": [
+        {
+          "id": "a",
+          "text": "After that, I worked for two years as an administrative assistant in a municipality."
+        },
+        {
+          "id": "b",
+          "text": "Dear Sir or Madam, I am writing to apply for the post of administrative clerk advertised on your website."
+        },
+        {
+          "id": "c",
+          "text": "I therefore believe that I have the experience required for this position."
+        },
+        {
+          "id": "d",
+          "text": "I obtained a degree in management in 2019."
+        }
+      ],
+      "correct": {
+        "order": [
+          "b",
+          "d",
+          "a",
+          "c"
+        ]
+      },
+      "explanation": "The letter opens with the greeting and the purpose of writing (b). It then presents the candidate's background in chronological order: the degree (d), followed by the job that came \"after that\" (a). The connector \"therefore\" in (c) introduces a conclusion drawn from the qualifications and experience already mentioned, so it must come last.",
+      "difficulty": "HARD",
+      "topic_key": "en.comprehension",
+      "objective_key": "en.comprehension.o1",
+      "families": [
+        "*"
+      ],
+      "origin": "AI_GENERATED",
+      "source_key": null,
+      "year": null,
+      "valid_until": null,
+      "tags": [
+        "coherence",
+        "connectors",
+        "application letter"
+      ]
+    },
+    {
+      "id": "en-anglais-0043",
+      "type": "MCQ_SINGLE",
+      "language": "en",
+      "stem": "Read the text and answer the question.\n\n\"It is often claimed that a university degree guarantees a stable career. This may have been true a generation ago, when graduates were relatively few. Today, however, the number of graduates has grown much faster than the number of jobs that require a degree, and employers increasingly look for practical skills, adaptability and the ability to keep learning. This does not mean that degrees have lost their value. Rather, a degree should now be seen as a starting point, not a final destination.\"\n\nWhich statement best summarises the author's position?",
+      "options": [
+        {
+          "id": "a",
+          "text": "A degree is still valuable, but on its own it no longer guarantees a stable career."
+        },
+        {
+          "id": "b",
+          "text": "Degrees have lost all their value."
+        },
+        {
+          "id": "c",
+          "text": "Employers prefer candidates who have no degree."
+        },
+        {
+          "id": "d",
+          "text": "The number of jobs that require a degree has fallen sharply."
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "explanation": "The author challenges the idea that a degree \"guarantees a stable career\" but states clearly that \"this does not mean that degrees have lost their value\". Option (b) is therefore the exact opposite of the author's view. Option (d) distorts the text, which says that the number of graduates has grown faster than the number of jobs, not that the number of jobs has fallen; option (c) is not stated.",
+      "difficulty": "HARD",
+      "topic_key": "en.comprehension",
+      "objective_key": "en.comprehension.o1",
+      "families": [
+        "*"
+      ],
+      "origin": "AI_GENERATED",
+      "source_key": null,
+      "year": null,
+      "valid_until": null,
+      "tags": [
+        "author's position",
+        "main idea",
+        "education"
+      ]
+    },
+    {
+      "id": "en-anglais-0044",
+      "type": "MCQ_SINGLE",
+      "language": "en",
+      "stem": "Read the text and answer the question.\n\n\"It is often claimed that a university degree guarantees a stable career. This may have been true a generation ago, when graduates were relatively few. Today, however, the number of graduates has grown much faster than the number of jobs that require a degree, and employers increasingly look for practical skills, adaptability and the ability to keep learning. This does not mean that degrees have lost their value. Rather, a degree should now be seen as a starting point, not a final destination.\"\n\nIn the last sentence, the word \"Rather\" is used to:",
+      "options": [
+        {
+          "id": "a",
+          "text": "express a personal preference between two options"
+        },
+        {
+          "id": "b",
+          "text": "indicate the next step in a chronological sequence"
+        },
+        {
+          "id": "c",
+          "text": "reject a possible misinterpretation and introduce the author's actual view"
+        },
+        {
+          "id": "d",
+          "text": "introduce an example that supports the previous sentence"
+        }
+      ],
+      "correct": [
+        "c"
+      ],
+      "explanation": "After a negative statement (\"This does not mean that degrees have lost their value\"), \"Rather\" corrects a possible wrong conclusion and introduces what the author really thinks. It is close to \"on the contrary\" or \"instead\". Option (a) confuses this use with \"would rather\" (preference), and \"Rather\" does not introduce an example or a sequence in time.",
+      "difficulty": "EXPERT",
+      "topic_key": "en.comprehension",
+      "objective_key": "en.comprehension.o1",
+      "families": [
+        "*"
+      ],
+      "origin": "AI_GENERATED",
+      "source_key": null,
+      "year": null,
+      "valid_until": null,
+      "tags": [
+        "connectors",
+        "discourse markers",
+        "meaning in context"
+      ]
+    },
+    {
+      "id": "en-anglais-0045",
+      "type": "MCQ_SINGLE",
+      "language": "en",
+      "stem": "Read the text and answer the question.\n\n\"It is often claimed that a university degree guarantees a stable career. This may have been true a generation ago, when graduates were relatively few. Today, however, the number of graduates has grown much faster than the number of jobs that require a degree, and employers increasingly look for practical skills, adaptability and the ability to keep learning. This does not mean that degrees have lost their value. Rather, a degree should now be seen as a starting point, not a final destination.\"\n\nWhich of the following statements would the author most probably agree with?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Employers should recruit only candidates with practical experience."
+        },
+        {
+          "id": "b",
+          "text": "A degree was less useful a generation ago than it is today."
+        },
+        {
+          "id": "c",
+          "text": "Young people should not go to university."
+        },
+        {
+          "id": "d",
+          "text": "Graduates should keep developing their skills throughout their working lives."
+        }
+      ],
+      "correct": [
+        "d"
+      ],
+      "explanation": "The author stresses \"the ability to keep learning\" and describes a degree as \"a starting point, not a final destination\", which implies continuous development after graduation. Option (b) contradicts the text, which suggests that a degree was more of a guarantee a generation ago. Option (c) contradicts the statement that degrees keep their value, and option (a) goes beyond the text, which only says that employers increasingly look for practical skills.",
+      "difficulty": "EXPERT",
+      "topic_key": "en.comprehension",
+      "objective_key": "en.comprehension.o1",
+      "families": [
+        "*"
+      ],
+      "origin": "AI_GENERATED",
+      "source_key": null,
+      "year": null,
+      "valid_until": null,
+      "tags": [
+        "inference",
+        "author's position",
+        "education"
+      ]
+    }
+  ]
+}

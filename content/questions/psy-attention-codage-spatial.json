@@ -1,0 +1,1911 @@
+{
+  "bank": "psy-attention-codage-spatial",
+  "domain": "PSYCHOTECH",
+  "specialty_syllabus": [],
+  "questions": [
+    {
+      "id": "psy-attention-codage-spatial-0001",
+      "type": "MCQ_SINGLE",
+      "language": "fr",
+      "stem": "Test de barrage : combien de fois la lettre « b » apparaît-elle dans la série suivante ?\nb d p b q d b b p d q b d b p",
+      "options": [
+        {
+          "id": "a",
+          "text": "6"
+        },
+        {
+          "id": "b",
+          "text": "7"
+        },
+        {
+          "id": "c",
+          "text": "4"
+        },
+        {
+          "id": "d",
+          "text": "5"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "explanation": "La lettre « b » apparaît aux positions 1, 4, 7, 8, 12 et 14, soit 6 fois. Le piège consiste à la confondre avec ses images en miroir ou retournées (« d », « p », « q ») : compter un « d » par erreur donne 7, sauter un « b » donne 5. Il faut balayer la série de gauche à droite en vérifiant chaque lettre une à une.",
+      "difficulty": "EASY",
+      "topic_key": "ps.attention",
+      "objective_key": "ps.attention.o1",
+      "families": [
+        "*"
+      ],
+      "origin": "AI_GENERATED",
+      "source_key": null,
+      "year": null,
+      "valid_until": null,
+      "tags": [
+        "barrage",
+        "lettres-miroir"
+      ]
+    },
+    {
+      "id": "psy-attention-codage-spatial-0002",
+      "type": "MCQ_SINGLE",
+      "language": "ar",
+      "stem": "قارن بين السلسلتين التاليتين رقمًا برقم، ثمّ حدّد عدد المواضع التي يختلف فيها الرقمان:\nالسلسلة الأولى: 58319472\nالسلسلة الثانية: 58379412",
+      "options": [
+        {
+          "id": "a",
+          "text": "2"
+        },
+        {
+          "id": "b",
+          "text": "3"
+        },
+        {
+          "id": "c",
+          "text": "0"
+        },
+        {
+          "id": "d",
+          "text": "1"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "explanation": "تختلف السلسلتان في موضعين فقط: الرقم الرابع من اليسار (1 في الأولى مقابل 7 في الثانية) والرقم السابع من اليسار (7 في الأولى مقابل 1 في الثانية)، وبقيّة الأرقام متطابقة. من يجيب بـ«1» يكتفي غالبًا بملاحظة الاختلاف الأوّل ويتوقّف، والصواب مواصلة المقارنة حتّى آخر رقم.",
+      "difficulty": "EASY",
+      "topic_key": "ps.attention",
+      "objective_key": "ps.attention.o1",
+      "families": [
+        "*"
+      ],
+      "origin": "AI_GENERATED",
+      "source_key": null,
+      "year": null,
+      "valid_until": null,
+      "tags": [
+        "مقارنة-سلاسل",
+        "أرقام"
+      ]
+    },
+    {
+      "id": "psy-attention-codage-spatial-0003",
+      "type": "TRUE_FALSE",
+      "language": "fr",
+      "stem": "Vrai ou faux : les deux références suivantes sont strictement identiques.\nRéférence 1 : RX-5803-KL7\nRéférence 2 : RX-5830-KL7",
+      "options": [
+        {
+          "id": "a",
+          "text": "Vrai"
+        },
+        {
+          "id": "b",
+          "text": "Faux"
+        }
+      ],
+      "correct": [
+        "b"
+      ],
+      "explanation": "Faux : dans le bloc central, la première référence porte « 5803 » alors que la seconde porte « 5830 » ; les deux derniers chiffres sont inversés. Comme le début (« RX- ») et la fin (« -KL7 ») sont identiques, une lecture trop rapide donne l'impression que les références sont les mêmes. Il faut comparer caractère par caractère, bloc par bloc.",
+      "difficulty": "EASY",
+      "topic_key": "ps.attention",
+      "objective_key": "ps.attention.o1",
+      "families": [
+        "*"
+      ],
+      "origin": "AI_GENERATED",
+      "source_key": null,
+      "year": null,
+      "valid_until": null,
+      "tags": [
+        "comparaison",
+        "inversion"
+      ]
+    },
+    {
+      "id": "psy-attention-codage-spatial-0004",
+      "type": "MCQ_SINGLE",
+      "language": "ar",
+      "stem": "كم مرّةً يتكرّر الرقم 7 في العدد التالي؟\n717273775",
+      "options": [
+        {
+          "id": "a",
+          "text": "3"
+        },
+        {
+          "id": "b",
+          "text": "4"
+        },
+        {
+          "id": "c",
+          "text": "5"
+        },
+        {
+          "id": "d",
+          "text": "6"
+        }
+      ],
+      "correct": [
+        "c"
+      ],
+      "explanation": "العدد 717273775 مكوَّن من الأرقام 7 و1 و7 و2 و7 و3 و7 و7 و5، فيظهر فيه الرقم 7 خمس مرّات. الخطأ الشائع هو احتساب الرقمين المتتاليين «77» مرّةً واحدة فنحصل على 4، والصواب عدّ كلّ رقم على حدة.",
+      "difficulty": "EASY",
+      "topic_key": "ps.attention",
+      "objective_key": "ps.attention.o1",
+      "families": [
+        "*"
+      ],
+      "origin": "AI_GENERATED",
+      "source_key": null,
+      "year": null,
+      "valid_until": null,
+      "tags": [
+        "شطب",
+        "أرقام"
+      ]
+    },
+    {
+      "id": "psy-attention-codage-spatial-0005",
+      "type": "TRUE_FALSE",
+      "language": "ar",
+      "stem": "صحيح أم خطأ: الرمزان التاليان متطابقان تمامًا.\nالرمز الأوّل: TN-48K-0917-ZB\nالرمز الثاني: TN-48K-0917-ZB",
+      "options": [
+        {
+          "id": "a",
+          "text": "صحيح"
+        },
+        {
+          "id": "b",
+          "text": "خطأ"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "explanation": "صحيح: عند المقارنة حرفًا بحرف ورقمًا برقم نجد أنّ الرمزين متطابقان في كلّ الكتل (TN ثمّ 48K ثمّ 0917 ثمّ ZB). في اختبارات الانتباه لا ينبغي افتراض وجود اختلاف في كلّ سؤال؛ فالبحث عن خطأ غير موجود قد يدفع المترشّح إلى «رؤية» فرق وهمي والإجابة بـ«خطأ».",
+      "difficulty": "EASY",
+      "topic_key": "ps.attention",
+      "objective_key": "ps.attention.o1",
+      "families": [
+        "*"
+      ],
+      "origin": "AI_GENERATED",
+      "source_key": null,
+      "year": null,
+      "valid_until": null,
+      "tags": [
+        "مقارنة-رموز"
+      ]
+    },
+    {
+      "id": "psy-attention-codage-spatial-0006",
+      "type": "MCQ_SINGLE",
+      "language": "fr",
+      "stem": "Comparez la colonne de gauche et la colonne de droite. Combien de lignes sont strictement identiques ?\n1) Ben Salah Amira | Ben Salah Amira\n2) 14, rue de Carthage | 14, rue de Cartage\n3) Sfax 3027 | Sfax 3072\n4) Hammami Mohamed Ali | Hammami Mohamed Ali\n5) Bizerte 7000 | Bizerte 7000\n6) Kairouan Médina | Kaïrouan Médina",
+      "options": [
+        {
+          "id": "a",
+          "text": "5"
+        },
+        {
+          "id": "b",
+          "text": "2"
+        },
+        {
+          "id": "c",
+          "text": "3"
+        },
+        {
+          "id": "d",
+          "text": "4"
+        }
+      ],
+      "correct": [
+        "c"
+      ],
+      "explanation": "Les lignes 1, 4 et 5 sont identiques, soit 3 lignes. La ligne 2 diffère par une lettre manquante (« Carthage » / « Cartage »), la ligne 3 par deux chiffres inversés (« 3027 » / « 3072 ») et la ligne 6 par un tréma (« Kairouan » / « Kaïrouan »). Répondre 4 revient généralement à négliger le tréma, qui est pourtant un caractère différent.",
+      "difficulty": "MEDIUM",
+      "topic_key": "ps.attention",
+      "objective_key": "ps.attention.o1",
+      "families": [
+        "*"
+      ],
+      "origin": "AI_GENERATED",
+      "source_key": null,
+      "year": null,
+      "valid_until": null,
+      "tags": [
+        "comparaison",
+        "noms-adresses"
+      ]
+    },
+    {
+      "id": "psy-attention-codage-spatial-0007",
+      "type": "NUMERIC",
+      "language": "ar",
+      "stem": "قارن بين العمودين في كلّ سطر. كم عدد الأسطر المتطابقة تمامًا؟ (أدخل عددًا)\nالسطر 1: محمد الهادي بن علي | محمد الهادي بن علي\nالسطر 2: شارع الحبيب بورقيبة | شارع الحبيب بورقيبه\nالسطر 3: نهج ابن خلدون | نهج ابن خلدون\nالسطر 4: عبد الرزاق الشابي | عبد الرزاق الشايبي\nالسطر 5: حي النصر 2 | حي النصر 2\nالسطر 6: المنزه السادس | المنزة السادس\nالسطر 7: ولاية منوبة | ولاية منوبة",
+      "options": [],
+      "correct": {
+        "value": 4,
+        "tolerance": 0
+      },
+      "explanation": "الأسطر المتطابقة هي 1 و3 و5 و7، أي 4 أسطر. يختلف السطر 2 في الحرف الأخير («بورقيبة» بالتاء المربوطة مقابل «بورقيبه» بالهاء)، والسطر 4 بزيادة حرف الياء («الشابي» / «الشايبي»)، والسطر 6 بتعويض الهاء بالتاء المربوطة («المنزه» / «المنزة»). التمييز بين الهاء والتاء المربوطة في آخر الكلمة هو الفخّ الرئيسي في هذا التمرين.",
+      "difficulty": "MEDIUM",
+      "topic_key": "ps.attention",
+      "objective_key": "ps.attention.o1",
+      "families": [
+        "*"
+      ],
+      "origin": "AI_GENERATED",
+      "source_key": null,
+      "year": null,
+      "valid_until": null,
+      "tags": [
+        "مقارنة-أسماء",
+        "تاء-مربوطة"
+      ]
+    },
+    {
+      "id": "psy-attention-codage-spatial-0008",
+      "type": "MCQ_MULTI",
+      "language": "fr",
+      "stem": "Modèle : 7KD-309-BXA\nParmi les codes suivants, lesquels sont strictement identiques au modèle ? (plusieurs réponses possibles)",
+      "options": [
+        {
+          "id": "a",
+          "text": "7KD-309-BXA"
+        },
+        {
+          "id": "b",
+          "text": "7KD-390-BXA"
+        },
+        {
+          "id": "c",
+          "text": "7KD-309-BAX"
+        },
+        {
+          "id": "d",
+          "text": "7KD-309-BXA"
+        },
+        {
+          "id": "e",
+          "text": "7DK-309-BXA"
+        }
+      ],
+      "correct": [
+        "a",
+        "d"
+      ],
+      "explanation": "Deux propositions reproduisent exactement le modèle 7KD-309-BXA. Les autres contiennent chacune une inversion de caractères voisins : « 390 » au lieu de « 309 », « BAX » au lieu de « BXA », ou « DK » au lieu de « KD » dans le premier bloc. Ces inversions sont les erreurs les plus fréquentes dans les tests de comparaison ; il faut contrôler les trois blocs un par un.",
+      "difficulty": "MEDIUM",
+      "topic_key": "ps.attention",
+      "objective_key": "ps.attention.o1",
+      "families": [
+        "*"
+      ],
+      "origin": "AI_GENERATED",
+      "source_key": null,
+      "year": null,
+      "valid_until": null,
+      "tags": [
+        "comparaison",
+        "codes"
+      ]
+    },
+    {
+      "id": "psy-attention-codage-spatial-0009",
+      "type": "MCQ_SINGLE",
+      "language": "ar",
+      "stem": "اقرأ السطر التالي من اليمين إلى اليسار، ثمّ حدّد عدد المرّات التي يأتي فيها الحرف «ب» متبوعًا مباشرةً بالحرف «ت»:\nب ت ث ب ب ت ن ت ب ث ب ت ي ب ت ت ب",
+      "options": [
+        {
+          "id": "a",
+          "text": "6"
+        },
+        {
+          "id": "b",
+          "text": "3"
+        },
+        {
+          "id": "c",
+          "text": "4"
+        },
+        {
+          "id": "d",
+          "text": "5"
+        }
+      ],
+      "correct": [
+        "c"
+      ],
+      "explanation": "يظهر الزوج «ب ثمّ ت» في المواضع: الأوّل والثاني، الخامس والسادس، الحادي عشر والثاني عشر، الرابع عشر والخامس عشر، أي 4 مرّات. الخطأ الشائع هو احتساب الأزواج المعكوسة «ت ثمّ ب» أيضًا (مرّتان في هذا السطر) فنحصل على 6، أو احتساب كلّ حرف «ب» مهما كان الحرف الذي يليه.",
+      "difficulty": "MEDIUM",
+      "topic_key": "ps.attention",
+      "objective_key": "ps.attention.o1",
+      "families": [
+        "*"
+      ],
+      "origin": "AI_GENERATED",
+      "source_key": null,
+      "year": null,
+      "valid_until": null,
+      "tags": [
+        "شطب",
+        "تعليمة-مزدوجة"
+      ]
+    },
+    {
+      "id": "psy-attention-codage-spatial-0010",
+      "type": "MCQ_SINGLE",
+      "language": "fr",
+      "stem": "Barrez mentalement les nombres qui sont à la fois pairs ET strictement supérieurs à 50. Combien de nombres barrez-vous ?\n12 – 58 – 73 – 64 – 50 – 91 – 86 – 47 – 52 – 38 – 99 – 70",
+      "options": [
+        {
+          "id": "a",
+          "text": "4"
+        },
+        {
+          "id": "b",
+          "text": "5"
+        },
+        {
+          "id": "c",
+          "text": "6"
+        },
+        {
+          "id": "d",
+          "text": "7"
+        }
+      ],
+      "correct": [
+        "b"
+      ],
+      "explanation": "Les nombres pairs strictement supérieurs à 50 sont 58, 64, 86, 52 et 70, soit 5. Le nombre 50 est pair mais n'est pas strictement supérieur à 50 : l'inclure donne 6, c'est le piège principal. Les nombres 73, 91 et 99 dépassent 50 mais sont impairs, donc exclus.",
+      "difficulty": "MEDIUM",
+      "topic_key": "ps.attention",
+      "objective_key": "ps.attention.o1",
+      "families": [
+        "*"
+      ],
+      "origin": "AI_GENERATED",
+      "source_key": null,
+      "year": null,
+      "valid_until": null,
+      "tags": [
+        "barrage",
+        "double-consigne"
+      ]
+    },
+    {
+      "id": "psy-attention-codage-spatial-0011",
+      "type": "MCQ_SINGLE",
+      "language": "fr",
+      "stem": "Les deux séries ci-dessous ne diffèrent que par un seul caractère. À quelle position, en comptant à partir de la gauche, se trouve la différence ?\nSérie 1 : QWZRTPLMXK\nSérie 2 : QWZRTPLNXK",
+      "options": [
+        {
+          "id": "a",
+          "text": "7e"
+        },
+        {
+          "id": "b",
+          "text": "8e"
+        },
+        {
+          "id": "c",
+          "text": "9e"
+        },
+        {
+          "id": "d",
+          "text": "6e"
+        }
+      ],
+      "correct": [
+        "b"
+      ],
+      "explanation": "Les sept premiers caractères (Q, W, Z, R, T, P, L) sont identiques ; le 8e caractère est « M » dans la série 1 et « N » dans la série 2, puis X et K sont de nouveau identiques. Répondre 7e revient à désigner le « L », qui est pourtant le même dans les deux séries. Les lettres M et N, de forme proche, constituent un piège classique.",
+      "difficulty": "MEDIUM",
+      "topic_key": "ps.attention",
+      "objective_key": "ps.attention.o1",
+      "families": [
+        "*"
+      ],
+      "origin": "AI_GENERATED",
+      "source_key": null,
+      "year": null,
+      "valid_until": null,
+      "tags": [
+        "comparaison",
+        "localisation"
+      ]
+    },
+    {
+      "id": "psy-attention-codage-spatial-0012",
+      "type": "MCQ_SINGLE",
+      "language": "ar",
+      "stem": "كم مرّةً يظهر الحرف «ج» في الأسطر الثلاثة التالية؟\nالسطر 1: ح ج خ ج ح خ ج ح\nالسطر 2: خ ح ج ح خ ج خ ج\nالسطر 3: ج خ ح ح ج خ ح خ",
+      "options": [
+        {
+          "id": "a",
+          "text": "9"
+        },
+        {
+          "id": "b",
+          "text": "6"
+        },
+        {
+          "id": "c",
+          "text": "7"
+        },
+        {
+          "id": "d",
+          "text": "8"
+        }
+      ],
+      "correct": [
+        "d"
+      ],
+      "explanation": "يظهر الحرف «ج» 3 مرّات في السطر الأوّل و3 مرّات في السطر الثاني ومرّتين في السطر الثالث، أي 8 مرّات في المجموع. تكمن الصعوبة في أنّ «ح» و«ج» و«خ» تشترك في الشكل نفسه ولا يفرّق بينها إلّا موضع النقطة (تحت الحرف في «ج»، وفوقه في «خ»، ولا نقطة في «ح»). من يعتمد على الشكل العامّ دون النظر إلى النقطة يخطئ في العدّ.",
+      "difficulty": "HARD",
+      "topic_key": "ps.attention",
+      "objective_key": "ps.attention.o1",
+      "families": [
+        "*"
+      ],
+      "origin": "AI_GENERATED",
+      "source_key": null,
+      "year": null,
+      "valid_until": null,
+      "tags": [
+        "شطب",
+        "حروف-متشابهة"
+      ]
+    },
+    {
+      "id": "psy-attention-codage-spatial-0013",
+      "type": "MATCHING",
+      "language": "fr",
+      "stem": "Associez chaque code de la colonne de gauche au code strictement identique de la colonne de droite.",
+      "options": [
+        {
+          "id": "l1",
+          "text": "PX-7193-LQ",
+          "side": "left"
+        },
+        {
+          "id": "l2",
+          "text": "PX-7139-LQ",
+          "side": "left"
+        },
+        {
+          "id": "l3",
+          "text": "XP-7193-LQ",
+          "side": "left"
+        },
+        {
+          "id": "l4",
+          "text": "PX-7193-QL",
+          "side": "left"
+        },
+        {
+          "id": "r1",
+          "text": "PX-7193-QL",
+          "side": "right"
+        },
+        {
+          "id": "r2",
+          "text": "XP-7193-LQ",
+          "side": "right"
+        },
+        {
+          "id": "r3",
+          "text": "PX-7193-LQ",
+          "side": "right"
+        },
+        {
+          "id": "r4",
+          "text": "PX-7139-LQ",
+          "side": "right"
+        }
+      ],
+      "correct": {
+        "pairs": [
+          [
+            "l1",
+            "r3"
+          ],
+          [
+            "l2",
+            "r4"
+          ],
+          [
+            "l3",
+            "r2"
+          ],
+          [
+            "l4",
+            "r1"
+          ]
+        ]
+      },
+      "explanation": "Chaque code de gauche n'a qu'un seul double exact à droite : PX-7193-LQ, PX-7139-LQ, XP-7193-LQ et PX-7193-QL se retrouvent chacun une seule fois. Les quatre codes ne diffèrent entre eux que par l'inversion de deux caractères voisins (PX/XP, 93/39, LQ/QL), ce qui rend la confusion facile. La méthode sûre consiste à vérifier les trois blocs un par un plutôt que de se fier à l'allure générale du code.",
+      "difficulty": "HARD",
+      "topic_key": "ps.attention",
+      "objective_key": "ps.attention.o1",
+      "families": [
+        "*"
+      ],
+      "origin": "AI_GENERATED",
+      "source_key": null,
+      "year": null,
+      "valid_until": null,
+      "tags": [
+        "comparaison",
+        "codes",
+        "appariement"
+      ]
+    },
+    {
+      "id": "psy-attention-codage-spatial-0014",
+      "type": "MCQ_SINGLE",
+      "language": "fr",
+      "stem": "Dans la série suivante, combien de fois le chiffre 3 est-il immédiatement précédé du chiffre 8 ?\n8 3 5 8 8 3 3 8 1 3 8 3 0 3 8 8 3 2",
+      "options": [
+        {
+          "id": "a",
+          "text": "4"
+        },
+        {
+          "id": "b",
+          "text": "5"
+        },
+        {
+          "id": "c",
+          "text": "7"
+        },
+        {
+          "id": "d",
+          "text": "3"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "explanation": "Le chiffre 3 apparaît 7 fois, mais il n'est immédiatement précédé d'un 8 que 4 fois (aux 2e, 6e, 12e et 17e positions). Les autres 3 sont précédés d'un 3, d'un 1 ou d'un 0. Répondre 7 revient à compter tous les 3 sans tenir compte de la seconde condition, erreur typique des tests de barrage à double consigne.",
+      "difficulty": "HARD",
+      "topic_key": "ps.attention",
+      "objective_key": "ps.attention.o1",
+      "families": [
+        "*"
+      ],
+      "origin": "AI_GENERATED",
+      "source_key": null,
+      "year": null,
+      "valid_until": null,
+      "tags": [
+        "barrage",
+        "double-consigne"
+      ]
+    },
+    {
+      "id": "psy-attention-codage-spatial-0015",
+      "type": "MCQ_SINGLE",
+      "language": "ar",
+      "stem": "قارن الرمزين في كلّ سطر. كم سطرًا يحتوي على اختلاف واحد على الأقلّ؟ (تُعتبر الحروف الكبيرة والصغيرة وعلامات الوصل «-» جزءًا من الرمز)\nالسطر 1: KR-5521-T | KR-5521-T\nالسطر 2: MZ-0846-B | MZ-0864-B\nالسطر 3: AL-7730-Q | AL-7730-O\nالسطر 4: HD-1192-W | HD-1192-W\nالسطر 5: TS-3608-E | TS3608-E\nالسطر 6: VN-2251-k | VN-2251-K\nالسطر 7: BU-4417-R | BU-4417-R",
+      "options": [
+        {
+          "id": "a",
+          "text": "4"
+        },
+        {
+          "id": "b",
+          "text": "5"
+        },
+        {
+          "id": "c",
+          "text": "2"
+        },
+        {
+          "id": "d",
+          "text": "3"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "explanation": "الأسطر التي تحتوي على اختلاف هي: السطر 2 (0846 مقابل 0864)، والسطر 3 (الحرف Q مقابل الحرف O)، والسطر 5 (غياب علامة الوصل بعد TS)، والسطر 6 (k صغيرة مقابل K كبيرة)، أي 4 أسطر، أمّا الأسطر 1 و4 و7 فمتطابقة. يجيب كثيرون بـ«3» لأنّهم يُغفلون الفرق بين الحرف الصغير والكبير أو غياب علامة الوصل، رغم أنّ التعليمة نصّت صراحةً على اعتبارهما.",
+      "difficulty": "EXPERT",
+      "topic_key": "ps.attention",
+      "objective_key": "ps.attention.o1",
+      "families": [
+        "*"
+      ],
+      "origin": "AI_GENERATED",
+      "source_key": null,
+      "year": null,
+      "valid_until": null,
+      "tags": [
+        "مقارنة-رموز",
+        "تفاصيل-دقيقة"
+      ]
+    },
+    {
+      "id": "psy-attention-codage-spatial-0016",
+      "type": "MCQ_SINGLE",
+      "language": "fr",
+      "stem": "Dans un code secret, chaque lettre est remplacée par la lettre qui la suit dans l'alphabet. Ainsi, CHAT s'écrit DIBU. Comment s'écrit LOUP ?",
+      "options": [
+        {
+          "id": "a",
+          "text": "NQWR"
+        },
+        {
+          "id": "b",
+          "text": "MPVR"
+        },
+        {
+          "id": "c",
+          "text": "KNTO"
+        },
+        {
+          "id": "d",
+          "text": "MPVQ"
+        }
+      ],
+      "correct": [
+        "d"
+      ],
+      "explanation": "On avance chaque lettre d'un rang : L→M, O→P, U→V, P→Q, ce qui donne MPVQ. KNTO applique le décalage dans le mauvais sens (lettre précédente au lieu de la suivante) et NQWR décale de deux rangs au lieu d'un. MPVR est faux car la dernière lettre P devient Q et non R.",
+      "difficulty": "EASY",
+      "topic_key": "ps.codage",
+      "objective_key": "ps.codage.o1",
+      "families": [
+        "*"
+      ],
+      "origin": "AI_GENERATED",
+      "source_key": null,
+      "year": null,
+      "valid_until": null,
+      "tags": [
+        "décalage",
+        "alphabet"
+      ]
+    },
+    {
+      "id": "psy-attention-codage-spatial-0017",
+      "type": "MCQ_SINGLE",
+      "language": "ar",
+      "stem": "باستعمال جدول الترميز التالي:\nق = 3 ، ل = 5 ، م = 1 ، ع = 7 ، ر = 9 ، ب = 4\nما رمز كلمة «قلم»؟",
+      "options": [
+        {
+          "id": "a",
+          "text": "541"
+        },
+        {
+          "id": "b",
+          "text": "351"
+        },
+        {
+          "id": "c",
+          "text": "371"
+        },
+        {
+          "id": "d",
+          "text": "391"
+        }
+      ],
+      "correct": [
+        "b"
+      ],
+      "explanation": "نعوّض كلّ حرف برقمه حسب الجدول: ق = 3 ثمّ ل = 5 ثمّ م = 1، فيكون الرمز 351. أمّا 371 فتنتج عن الخلط بين رمز «ل» (5) ورمز «ع» (7)، و391 عن الخلط برمز «ر» (9)، و541 لا تبدأ برمز «ق». ينبغي الرجوع إلى الجدول عند كلّ حرف بدل الاعتماد على الذاكرة.",
+      "difficulty": "EASY",
+      "topic_key": "ps.codage",
+      "objective_key": "ps.codage.o1",
+      "families": [
+        "*"
+      ],
+      "origin": "AI_GENERATED",
+      "source_key": null,
+      "year": null,
+      "valid_until": null,
+      "tags": [
+        "جدول-ترميز",
+        "حروف-أرقام"
+      ]
+    },
+    {
+      "id": "psy-attention-codage-spatial-0018",
+      "type": "MCQ_SINGLE",
+      "language": "fr",
+      "stem": "Avec le code suivant : 1 = #, 2 = @, 3 = %, 4 = &, 5 = *, comment s'écrit le nombre 4213 ?",
+      "options": [
+        {
+          "id": "a",
+          "text": "&@%#"
+        },
+        {
+          "id": "b",
+          "text": "&@#%"
+        },
+        {
+          "id": "c",
+          "text": "&#@%"
+        },
+        {
+          "id": "d",
+          "text": "%#@&"
+        }
+      ],
+      "correct": [
+        "b"
+      ],
+      "explanation": "On remplace chaque chiffre dans l'ordre : 4 → &, 2 → @, 1 → #, 3 → %, d'où &@#%. La proposition %#@& correspond au nombre lu à l'envers (3124), et &#@% intervertit les codes de 2 et de 1. Il faut traiter les chiffres un par un, de gauche à droite.",
+      "difficulty": "EASY",
+      "topic_key": "ps.codage",
+      "objective_key": "ps.codage.o1",
+      "families": [
+        "*"
+      ],
+      "origin": "AI_GENERATED",
+      "source_key": null,
+      "year": null,
+      "valid_until": null,
+      "tags": [
+        "table-de-codage",
+        "symboles"
+      ]
+    },
+    {
+      "id": "psy-attention-codage-spatial-0019",
+      "type": "TRUE_FALSE",
+      "language": "ar",
+      "stem": "صحيح أم خطأ: إذا كانت قاعدة الترميز هي كتابة الكلمة من آخرها إلى أوّلها، فإنّ كلمة «سلام» تُرمَّز «ماسل».",
+      "options": [
+        {
+          "id": "a",
+          "text": "صحيح"
+        },
+        {
+          "id": "b",
+          "text": "خطأ"
+        }
+      ],
+      "correct": [
+        "b"
+      ],
+      "explanation": "خطأ: كلمة «سلام» تتكوّن من الحروف س ثمّ ل ثمّ ا ثمّ م، وعند كتابتها من آخرها إلى أوّلها نحصل على م ثمّ ا ثمّ ل ثمّ س، أي «مالس». أمّا «ماسل» فقد بُدِّل فيها موضعا اللام والسين، وهو خطأ شائع عند القلب السريع للكلمة.",
+      "difficulty": "EASY",
+      "topic_key": "ps.codage",
+      "objective_key": "ps.codage.o1",
+      "families": [
+        "*"
+      ],
+      "origin": "AI_GENERATED",
+      "source_key": null,
+      "year": null,
+      "valid_until": null,
+      "tags": [
+        "قلب-الكلمة"
+      ]
+    },
+    {
+      "id": "psy-attention-codage-spatial-0020",
+      "type": "MCQ_SINGLE",
+      "language": "fr",
+      "stem": "Si ROUTE est codé ETUOR, comment est codé CAMION ?",
+      "options": [
+        {
+          "id": "a",
+          "text": "NOIMAC"
+        },
+        {
+          "id": "b",
+          "text": "NIOMAC"
+        },
+        {
+          "id": "c",
+          "text": "NOMIAC"
+        },
+        {
+          "id": "d",
+          "text": "MOINAC"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "explanation": "Le code consiste à écrire le mot à l'envers : ROUTE → E-T-U-O-R. Appliqué à CAMION (C-A-M-I-O-N), cela donne N-O-I-M-A-C, soit NOIMAC. NOMIAC est un piège : il inverse bien le début et la fin du mot mais intervertit le « I » et le « M » du milieu.",
+      "difficulty": "EASY",
+      "topic_key": "ps.codage",
+      "objective_key": "ps.codage.o1",
+      "families": [
+        "*"
+      ],
+      "origin": "AI_GENERATED",
+      "source_key": null,
+      "year": null,
+      "valid_until": null,
+      "tags": [
+        "inversion",
+        "mot-miroir"
+      ]
+    },
+    {
+      "id": "psy-attention-codage-spatial-0021",
+      "type": "MCQ_SINGLE",
+      "language": "fr",
+      "stem": "Dans un code, chaque lettre est remplacée par la lettre qui la précède dans l'alphabet (B devient A, C devient B, etc.). Quel mot a été codé SHFQD ?",
+      "options": [
+        {
+          "id": "a",
+          "text": "TIGRE"
+        },
+        {
+          "id": "b",
+          "text": "TIHRE"
+        },
+        {
+          "id": "c",
+          "text": "UJHSF"
+        },
+        {
+          "id": "d",
+          "text": "RGEPC"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "explanation": "Pour décoder, on fait l'opération inverse du codage : chaque lettre du message est remplacée par la lettre qui la suit. S→T, H→I, F→G, Q→R, D→E, ce qui donne TIGRE. RGEPC est obtenu en appliquant une deuxième fois le codage au lieu de le défaire ; c'est l'erreur la plus fréquente dans les exercices de décodage.",
+      "difficulty": "MEDIUM",
+      "topic_key": "ps.codage",
+      "objective_key": "ps.codage.o1",
+      "families": [
+        "*"
+      ],
+      "origin": "AI_GENERATED",
+      "source_key": null,
+      "year": null,
+      "valid_until": null,
+      "tags": [
+        "décodage",
+        "décalage"
+      ]
+    },
+    {
+      "id": "psy-attention-codage-spatial-0022",
+      "type": "MCQ_SINGLE",
+      "language": "ar",
+      "stem": "جدول الترميز: م = 4 ، د = 2 ، ر = 5 ، س = 7 ، ة = 3 ، ا = 8\nأيّ كلمة رمزها 42573 ؟ (يُقرأ الرمز من اليسار إلى اليمين، ويقابل الرقمُ الأوّل الحرفَ الأوّل من الكلمة)",
+      "options": [
+        {
+          "id": "a",
+          "text": "دارس"
+        },
+        {
+          "id": "b",
+          "text": "دراسة"
+        },
+        {
+          "id": "c",
+          "text": "مدرسة"
+        },
+        {
+          "id": "d",
+          "text": "مدارس"
+        }
+      ],
+      "correct": [
+        "c"
+      ],
+      "explanation": "نفكّ الرمز رقمًا برقم: 4 = م، 2 = د، 5 = ر، 7 = س، 3 = ة، فنحصل على «مدرسة». أمّا «مدارس» فرمزها 42857 لأنّها تحتوي على الألف (8)، و«دراسة» رمزها 25873 لأنّها تبدأ بالدال لا بالميم. التحقّق من الرقم الأوّل ومن وجود الرقم 8 يسمح بإقصاء الخيارات الخاطئة بسرعة.",
+      "difficulty": "MEDIUM",
+      "topic_key": "ps.codage",
+      "objective_key": "ps.codage.o1",
+      "families": [
+        "*"
+      ],
+      "origin": "AI_GENERATED",
+      "source_key": null,
+      "year": null,
+      "valid_until": null,
+      "tags": [
+        "فكّ-الترميز",
+        "جدول-ترميز"
+      ]
+    },
+    {
+      "id": "psy-attention-codage-spatial-0023",
+      "type": "NUMERIC",
+      "language": "fr",
+      "stem": "Si A = 1, B = 2, C = 3, …, Z = 26, et que la valeur d'un mot est la somme des valeurs de ses lettres, quelle est la valeur du mot CODE ? (entrez un nombre)",
+      "options": [],
+      "correct": {
+        "value": 27,
+        "tolerance": 0
+      },
+      "explanation": "C = 3, O = 15, D = 4 et E = 5 ; la somme vaut 3 + 15 + 4 + 5 = 27. L'erreur la plus courante porte sur le rang du O (15e lettre), souvent compté 14 ou 16 par un décompte trop rapide. Repères utiles : E = 5, J = 10, O = 15, T = 20.",
+      "difficulty": "MEDIUM",
+      "topic_key": "ps.codage",
+      "objective_key": "ps.codage.o1",
+      "families": [
+        "*"
+      ],
+      "origin": "AI_GENERATED",
+      "source_key": null,
+      "year": null,
+      "valid_until": null,
+      "tags": [
+        "valeur-alphabétique",
+        "calcul"
+      ]
+    },
+    {
+      "id": "psy-attention-codage-spatial-0024",
+      "type": "MATCHING",
+      "language": "ar",
+      "stem": "قاعدة الترميز: يُعوَّض كلّ حرف بالحرف الذي يأتي بعده بمرتبتين في الأبجدية اللاتينية (مثلًا: A تصبح C). صِلْ كلّ كلمة برمزها.",
+      "options": [
+        {
+          "id": "l1",
+          "text": "SOL",
+          "side": "left"
+        },
+        {
+          "id": "l2",
+          "text": "MER",
+          "side": "left"
+        },
+        {
+          "id": "l3",
+          "text": "RUE",
+          "side": "left"
+        },
+        {
+          "id": "l4",
+          "text": "PIN",
+          "side": "left"
+        },
+        {
+          "id": "r1",
+          "text": "TWG",
+          "side": "right"
+        },
+        {
+          "id": "r2",
+          "text": "RKP",
+          "side": "right"
+        },
+        {
+          "id": "r3",
+          "text": "UQN",
+          "side": "right"
+        },
+        {
+          "id": "r4",
+          "text": "OGT",
+          "side": "right"
+        }
+      ],
+      "correct": {
+        "pairs": [
+          [
+            "l1",
+            "r3"
+          ],
+          [
+            "l2",
+            "r4"
+          ],
+          [
+            "l3",
+            "r1"
+          ],
+          [
+            "l4",
+            "r2"
+          ]
+        ]
+      },
+      "explanation": "نقدّم كلّ حرف بمرتبتين: SOL تصبح UQN، وMER تصبح OGT، وRUE تصبح TWG، وPIN تصبح RKP. الخطأ الشائع هو التقديم بمرتبة واحدة فقط أو الرجوع إلى الخلف، ويمكن التحقّق بسرعة من الحرف الأوّل: S تصبح U وليس T.",
+      "difficulty": "MEDIUM",
+      "topic_key": "ps.codage",
+      "objective_key": "ps.codage.o1",
+      "families": [
+        "*"
+      ],
+      "origin": "AI_GENERATED",
+      "source_key": null,
+      "year": null,
+      "valid_until": null,
+      "tags": [
+        "إزاحة",
+        "ربط"
+      ]
+    },
+    {
+      "id": "psy-attention-codage-spatial-0025",
+      "type": "MCQ_MULTI",
+      "language": "ar",
+      "stem": "قاعدة الترميز: يُعوَّض كلّ رقم بالرقم الذي يليه مباشرةً، ويُعوَّض الرقم 9 بالرقم 0. أيّ الترميزات التالية صحيحة؟ (أكثر من إجابة صحيحة)",
+      "options": [
+        {
+          "id": "a",
+          "text": "العدد 2045 يُرمَّز 3156"
+        },
+        {
+          "id": "b",
+          "text": "العدد 6194 يُرمَّز 72105"
+        },
+        {
+          "id": "c",
+          "text": "العدد 7391 يُرمَّز 8402"
+        },
+        {
+          "id": "d",
+          "text": "العدد 8350 يُرمَّز 7249"
+        }
+      ],
+      "correct": [
+        "a",
+        "c"
+      ],
+      "explanation": "بتطبيق القاعدة رقمًا برقم يصبح 2045 هو 3156، ويصبح 7391 هو 8402 (لأنّ 9 تُعوَّض بـ0)، فهذان الترميزان صحيحان. أمّا رمز 6194 الصحيح فهو 7205 لا 72105، لأنّ الرقم 9 يصبح 0 ولا يصبح 10. وفي ترميز 8350 طُبِّقت القاعدة في الاتّجاه المعاكس (الرقم السابق بدل اللاحق)، ورمزه الصحيح 9461.",
+      "difficulty": "MEDIUM",
+      "topic_key": "ps.codage",
+      "objective_key": "ps.codage.o1",
+      "families": [
+        "*"
+      ],
+      "origin": "AI_GENERATED",
+      "source_key": null,
+      "year": null,
+      "valid_until": null,
+      "tags": [
+        "ترميز-أرقام",
+        "إزاحة"
+      ]
+    },
+    {
+      "id": "psy-attention-codage-spatial-0026",
+      "type": "MCQ_SINGLE",
+      "language": "fr",
+      "stem": "Si LUNE devient NELU, que devient SOLEIL avec la même règle ?",
+      "options": [
+        {
+          "id": "a",
+          "text": "ILESOL"
+        },
+        {
+          "id": "b",
+          "text": "LIELOS"
+        },
+        {
+          "id": "c",
+          "text": "LOSLIE"
+        },
+        {
+          "id": "d",
+          "text": "EILSOL"
+        }
+      ],
+      "correct": [
+        "d"
+      ],
+      "explanation": "La règle consiste à couper le mot en deux moitiés égales et à les intervertir : LU|NE devient NE|LU. Pour SOLEIL, les moitiés sont SOL et EIL, d'où EILSOL. LIELOS est un piège : c'est SOLEIL écrit à l'envers, règle qui ne marche pas pour LUNE (LUNE à l'envers donnerait ENUL et non NELU).",
+      "difficulty": "MEDIUM",
+      "topic_key": "ps.codage",
+      "objective_key": "ps.codage.o1",
+      "families": [
+        "*"
+      ],
+      "origin": "AI_GENERATED",
+      "source_key": null,
+      "year": null,
+      "valid_until": null,
+      "tags": [
+        "permutation",
+        "déduction-de-règle"
+      ]
+    },
+    {
+      "id": "psy-attention-codage-spatial-0027",
+      "type": "MCQ_SINGLE",
+      "language": "fr",
+      "stem": "Règle de codage : les lettres de rang impair (1re, 3e, 5e…) sont remplacées par la lettre suivante de l'alphabet, et les lettres de rang pair (2e, 4e…) par la lettre précédente. Comment s'écrit PORTE ?",
+      "options": [
+        {
+          "id": "a",
+          "text": "QNSUF"
+        },
+        {
+          "id": "b",
+          "text": "QNSSF"
+        },
+        {
+          "id": "c",
+          "text": "QPSUF"
+        },
+        {
+          "id": "d",
+          "text": "OPQUD"
+        }
+      ],
+      "correct": [
+        "b"
+      ],
+      "explanation": "On applique +1 aux positions 1, 3, 5 et −1 aux positions 2 et 4 : P→Q, O→N, R→S, T→S, E→F, soit QNSSF. QPSUF applique +1 à toutes les lettres et oublie l'alternance ; OPQUD inverse la règle (−1 pour les rangs impairs). Le double « S » du résultat est normal : R avance et T recule vers la même lettre.",
+      "difficulty": "HARD",
+      "topic_key": "ps.codage",
+      "objective_key": "ps.codage.o1",
+      "families": [
+        "*"
+      ],
+      "origin": "AI_GENERATED",
+      "source_key": null,
+      "year": null,
+      "valid_until": null,
+      "tags": [
+        "codage-alterné"
+      ]
+    },
+    {
+      "id": "psy-attention-codage-spatial-0028",
+      "type": "MCQ_SINGLE",
+      "language": "ar",
+      "stem": "إذا كان العدد 2468 يُرمَّز 3579، والعدد 2958 يُرمَّز 3069، فما رمز العدد 7092 حسب القاعدة نفسها؟",
+      "options": [
+        {
+          "id": "a",
+          "text": "6981"
+        },
+        {
+          "id": "b",
+          "text": "8203"
+        },
+        {
+          "id": "c",
+          "text": "8103"
+        },
+        {
+          "id": "d",
+          "text": "81013"
+        }
+      ],
+      "correct": [
+        "c"
+      ],
+      "explanation": "القاعدة هي إضافة 1 إلى كلّ رقم على حدة مع تعويض 9 بـ0، والمثال الثاني يؤكّد ذلك: 2 تصبح 3، و9 تصبح 0، و5 تصبح 6، و8 تصبح 9. بتطبيقها على 7092 نحصل على 8 و1 و0 و3، أي 8103. أمّا 8203 فهو حاصل جمع 7092 و1111، وهي قاعدة تنطبق على المثال الأوّل فقط لكنّها تعطي 4069 لا 3069 في المثال الثاني؛ لذا يجب اختبار القاعدة على كلّ الأمثلة.",
+      "difficulty": "HARD",
+      "topic_key": "ps.codage",
+      "objective_key": "ps.codage.o1",
+      "families": [
+        "*"
+      ],
+      "origin": "AI_GENERATED",
+      "source_key": null,
+      "year": null,
+      "valid_until": null,
+      "tags": [
+        "استنتاج-القاعدة",
+        "ترميز-أرقام"
+      ]
+    },
+    {
+      "id": "psy-attention-codage-spatial-0029",
+      "type": "MCQ_SINGLE",
+      "language": "fr",
+      "stem": "Dans un code, la 1re lettre d'un mot avance d'un rang dans l'alphabet, la 2e de deux rangs, la 3e de trois rangs, et ainsi de suite. Par exemple, ABCD devient BDFH. Comment s'écrit CAFE ?",
+      "options": [
+        {
+          "id": "a",
+          "text": "CBHH"
+        },
+        {
+          "id": "b",
+          "text": "DCII"
+        },
+        {
+          "id": "c",
+          "text": "DCIJ"
+        },
+        {
+          "id": "d",
+          "text": "DBGF"
+        }
+      ],
+      "correct": [
+        "b"
+      ],
+      "explanation": "Le décalage augmente avec la position : C+1 = D, A+2 = C, F+3 = I, E+4 = I, ce qui donne DCII. DBGF applique un décalage constant de +1 et ignore la progression ; CBHH commence le décalage à 0 au lieu de 1. L'exemple ABCD → BDFH permet de vérifier que la 1re lettre avance bien d'un rang.",
+      "difficulty": "HARD",
+      "topic_key": "ps.codage",
+      "objective_key": "ps.codage.o1",
+      "families": [
+        "*"
+      ],
+      "origin": "AI_GENERATED",
+      "source_key": null,
+      "year": null,
+      "valid_until": null,
+      "tags": [
+        "décalage-progressif"
+      ]
+    },
+    {
+      "id": "psy-attention-codage-spatial-0030",
+      "type": "MCQ_SINGLE",
+      "language": "ar",
+      "stem": "تأمّل المثالين التاليين:\nROMA → BNPS\nNUIT → UJVO\nباتّباع القاعدة نفسها، ما رمز كلمة SOLE ؟",
+      "options": [
+        {
+          "id": "a",
+          "text": "DKNR"
+        },
+        {
+          "id": "b",
+          "text": "FMPT"
+        },
+        {
+          "id": "c",
+          "text": "TPMF"
+        },
+        {
+          "id": "d",
+          "text": "ELOS"
+        }
+      ],
+      "correct": [
+        "b"
+      ],
+      "explanation": "القاعدة مركّبة من خطوتين: كتابة الكلمة معكوسة ثمّ تعويض كلّ حرف بالحرف الذي يليه. فـROMA معكوسةً تصبح AMOR، وبتقديم كلّ حرف نحصل على BNPS، والأمر نفسه مع NUIT التي تصبح TIUN ثمّ UJVO. وبتطبيق القاعدة على SOLE نحصل على ELOS ثمّ FMPT. أمّا TPMF فتطبّق خطوة التقديم وحدها دون العكس، وELOS تطبّق العكس وحده.",
+      "difficulty": "EXPERT",
+      "topic_key": "ps.codage",
+      "objective_key": "ps.codage.o1",
+      "families": [
+        "*"
+      ],
+      "origin": "AI_GENERATED",
+      "source_key": null,
+      "year": null,
+      "valid_until": null,
+      "tags": [
+        "قاعدة-مركّبة",
+        "استنتاج-القاعدة"
+      ]
+    },
+    {
+      "id": "psy-attention-codage-spatial-0031",
+      "type": "MCQ_SINGLE",
+      "language": "fr",
+      "stem": "Une flèche pointe vers le Nord. On la fait tourner de 90° dans le sens des aiguilles d'une montre. Vers quelle direction pointe-t-elle maintenant ?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Ouest"
+        },
+        {
+          "id": "b",
+          "text": "Sud"
+        },
+        {
+          "id": "c",
+          "text": "Est"
+        },
+        {
+          "id": "d",
+          "text": "Nord-Est"
+        }
+      ],
+      "correct": [
+        "c"
+      ],
+      "explanation": "Dans le sens des aiguilles d'une montre, on passe du Nord à l'Est après un quart de tour (90°), puis au Sud après 180° et à l'Ouest après 270°. La réponse « Ouest » correspond à une rotation de 90° dans le sens inverse des aiguilles d'une montre, et « Nord-Est » à une rotation de 45° seulement.",
+      "difficulty": "EASY",
+      "topic_key": "ps.spatial",
+      "objective_key": "ps.spatial.o1",
+      "families": [
+        "*"
+      ],
+      "origin": "AI_GENERATED",
+      "source_key": null,
+      "year": null,
+      "valid_until": null,
+      "tags": [
+        "rotation",
+        "points-cardinaux"
+      ]
+    },
+    {
+      "id": "psy-attention-codage-spatial-0032",
+      "type": "MCQ_SINGLE",
+      "language": "ar",
+      "stem": "سهم يشير نحو الجنوب. أُدير السهم بزاوية 90° في عكس اتّجاه دوران عقارب الساعة. إلى أيّ اتّجاه يشير الآن؟",
+      "options": [
+        {
+          "id": "a",
+          "text": "الشمال"
+        },
+        {
+          "id": "b",
+          "text": "الجنوب الشرقي"
+        },
+        {
+          "id": "c",
+          "text": "الغرب"
+        },
+        {
+          "id": "d",
+          "text": "الشرق"
+        }
+      ],
+      "correct": [
+        "d"
+      ],
+      "explanation": "على الخريطة يكون الشمال في الأعلى والشرق على اليمين والجنوب في الأسفل والغرب على اليسار. السهم المتّجه إلى الأسفل (الجنوب)، إذا أُدير ربع دورة في عكس اتّجاه عقارب الساعة، يصبح متّجهًا إلى اليمين أي إلى الشرق. الإجابة «الغرب» تنتج عن الدوران في اتّجاه عقارب الساعة، وهو عكس المطلوب.",
+      "difficulty": "EASY",
+      "topic_key": "ps.spatial",
+      "objective_key": "ps.spatial.o1",
+      "families": [
+        "*"
+      ],
+      "origin": "AI_GENERATED",
+      "source_key": null,
+      "year": null,
+      "valid_until": null,
+      "tags": [
+        "دوران",
+        "اتّجاهات"
+      ]
+    },
+    {
+      "id": "psy-attention-codage-spatial-0033",
+      "type": "TRUE_FALSE",
+      "language": "fr",
+      "stem": "Vrai ou faux : sur un dé à jouer standard à six faces, la somme des points de deux faces opposées est toujours égale à 7.",
+      "options": [
+        {
+          "id": "a",
+          "text": "Vrai"
+        },
+        {
+          "id": "b",
+          "text": "Faux"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "explanation": "Vrai : sur un dé standard, les faces opposées sont 1 et 6, 2 et 5, 3 et 4, et chaque paire totalise 7. Cette propriété est très utile dans les exercices de dés : connaître une face visible permet de déduire immédiatement la face cachée qui lui est opposée.",
+      "difficulty": "EASY",
+      "topic_key": "ps.spatial",
+      "objective_key": "ps.spatial.o1",
+      "families": [
+        "*"
+      ],
+      "origin": "AI_GENERATED",
+      "source_key": null,
+      "year": null,
+      "valid_until": null,
+      "tags": [
+        "dé",
+        "faces-opposées"
+      ]
+    },
+    {
+      "id": "psy-attention-codage-spatial-0034",
+      "type": "TRUE_FALSE",
+      "language": "ar",
+      "stem": "صحيح أم خطأ: سهمٌ يُدار بزاوية 270° في اتّجاه دوران عقارب الساعة يشير إلى الاتّجاه نفسه الذي يشير إليه لو أُدير بزاوية 90° في عكس اتّجاه دوران عقارب الساعة.",
+      "options": [
+        {
+          "id": "a",
+          "text": "صحيح"
+        },
+        {
+          "id": "b",
+          "text": "خطأ"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "explanation": "صحيح: الدورة الكاملة 360°، فالدوران بـ270° في اتّجاه عقارب الساعة ينقص 90° عن الدورة الكاملة، وهو ما يعادل الدوران بـ90° في الاتّجاه المعاكس (270 + 90 = 360). مثلًا، سهم يشير إلى الشمال يصبح في الحالتين مشيرًا إلى الغرب.",
+      "difficulty": "EASY",
+      "topic_key": "ps.spatial",
+      "objective_key": "ps.spatial.o1",
+      "families": [
+        "*"
+      ],
+      "origin": "AI_GENERATED",
+      "source_key": null,
+      "year": null,
+      "valid_until": null,
+      "tags": [
+        "دوران",
+        "زوايا"
+      ]
+    },
+    {
+      "id": "psy-attention-codage-spatial-0035",
+      "type": "MCQ_SINGLE",
+      "language": "fr",
+      "stem": "Une flèche pointe vers le Nord-Est. On la fait tourner de 135° dans le sens inverse des aiguilles d'une montre. Vers quelle direction pointe-t-elle ?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Nord-Ouest"
+        },
+        {
+          "id": "b",
+          "text": "Sud-Ouest"
+        },
+        {
+          "id": "c",
+          "text": "Sud"
+        },
+        {
+          "id": "d",
+          "text": "Ouest"
+        }
+      ],
+      "correct": [
+        "d"
+      ],
+      "explanation": "En partant du Nord-Est et en tournant dans le sens inverse des aiguilles d'une montre, on atteint le Nord après 45°, le Nord-Ouest après 90° puis l'Ouest après 135°. La flèche pointe donc vers l'Ouest. La réponse « Sud » est obtenue en tournant de 135° dans le sens des aiguilles d'une montre, c'est-à-dire dans la mauvaise direction.",
+      "difficulty": "MEDIUM",
+      "topic_key": "ps.spatial",
+      "objective_key": "ps.spatial.o1",
+      "families": [
+        "*"
+      ],
+      "origin": "AI_GENERATED",
+      "source_key": null,
+      "year": null,
+      "valid_until": null,
+      "tags": [
+        "rotation",
+        "points-cardinaux"
+      ]
+    },
+    {
+      "id": "psy-attention-codage-spatial-0036",
+      "type": "NUMERIC",
+      "language": "ar",
+      "stem": "مكعّب كبير طُليت أوجهه الستّة باللون الأحمر، ثمّ قُطِّع إلى 27 مكعّبًا صغيرًا متساويًا (3 × 3 × 3). كم عدد المكعّبات الصغيرة التي طُلي منها وجهان فقط؟ (أدخل عددًا)",
+      "options": [],
+      "correct": {
+        "value": 12,
+        "tolerance": 0
+      },
+      "explanation": "المكعّبات ذات الوجهين المطليّين تقع على أحرف المكعّب الكبير دون الأركان. للمكعّب 12 حرفًا، وعلى كلّ حرف 3 مكعّبات صغيرة منها ركنان (لكلّ منهما 3 أوجه مطليّة)، فيبقى مكعّب واحد في وسط كلّ حرف، أي 12 مكعّبًا. لا ينبغي الخلط مع الأركان الثمانية (3 أوجه مطليّة) ولا مع مراكز الأوجه الستّة (وجه واحد مطليّ).",
+      "difficulty": "MEDIUM",
+      "topic_key": "ps.spatial",
+      "objective_key": "ps.spatial.o1",
+      "families": [
+        "*"
+      ],
+      "origin": "AI_GENERATED",
+      "source_key": null,
+      "year": null,
+      "valid_until": null,
+      "tags": [
+        "مكعّبات",
+        "مكعّب-مطليّ"
+      ]
+    },
+    {
+      "id": "psy-attention-codage-spatial-0037",
+      "type": "MCQ_SINGLE",
+      "language": "ar",
+      "stem": "ساعة حائطية بعقارب (دون أرقام مكتوبة) تشير إلى الساعة 2:30. ما الوقت الذي يبدو أنّها تشير إليه عند النظر إلى صورتها في مرآة مستوية موضوعة أمامها؟",
+      "options": [
+        {
+          "id": "a",
+          "text": "10:30"
+        },
+        {
+          "id": "b",
+          "text": "9:30"
+        },
+        {
+          "id": "c",
+          "text": "3:30"
+        },
+        {
+          "id": "d",
+          "text": "8:30"
+        }
+      ],
+      "correct": [
+        "b"
+      ],
+      "explanation": "تقلب المرآة الصورة بين اليمين واليسار: عقرب الدقائق المتّجه إلى الأسفل (30 دقيقة) يبقى في مكانه، أمّا عقرب الساعات الواقع في منتصف المسافة بين 2 و3 فيظهر في منتصف المسافة بين 10 و9، فتبدو الساعة 9:30. وتوجد قاعدة عملية: نطرح الوقت الحقيقي من 12 ساعة، أي 12 ساعة ناقص ساعتين ونصف تساوي 9 ساعات ونصفًا. الإجابة 10:30 خاطئة لأنّها تكتفي بعكس الرقم 2 دون مراعاة أنّ عقرب الساعات يقع بين رقمين.",
+      "difficulty": "MEDIUM",
+      "topic_key": "ps.spatial",
+      "objective_key": "ps.spatial.o1",
+      "families": [
+        "*"
+      ],
+      "origin": "AI_GENERATED",
+      "source_key": null,
+      "year": null,
+      "valid_until": null,
+      "tags": [
+        "مرآة",
+        "تناظر",
+        "ساعة"
+      ]
+    },
+    {
+      "id": "psy-attention-codage-spatial-0038",
+      "type": "MCQ_MULTI",
+      "language": "fr",
+      "stem": "En majuscules d'imprimerie simples (sans empattements), quelles lettres restent identiques lorsqu'on les regarde dans un miroir placé verticalement à côté d'elles (symétrie gauche-droite) ? (plusieurs réponses possibles)",
+      "options": [
+        {
+          "id": "a",
+          "text": "A"
+        },
+        {
+          "id": "b",
+          "text": "B"
+        },
+        {
+          "id": "c",
+          "text": "H"
+        },
+        {
+          "id": "d",
+          "text": "N"
+        },
+        {
+          "id": "e",
+          "text": "T"
+        }
+      ],
+      "correct": [
+        "a",
+        "c",
+        "e"
+      ],
+      "explanation": "A, H et T possèdent un axe de symétrie vertical : leur image dans un miroir vertical est identique à la lettre d'origine. B est symétrique par rapport à un axe horizontal (haut/bas) mais pas vertical : dans le miroir, ses boucles se retrouvent à gauche. N n'a aucun axe de symétrie ; son image dans le miroir est inversée (elle ressemble à un « И »).",
+      "difficulty": "MEDIUM",
+      "topic_key": "ps.spatial",
+      "objective_key": "ps.spatial.o1",
+      "families": [
+        "*"
+      ],
+      "origin": "AI_GENERATED",
+      "source_key": null,
+      "year": null,
+      "valid_until": null,
+      "tags": [
+        "symétrie",
+        "miroir",
+        "lettres"
+      ]
+    },
+    {
+      "id": "psy-attention-codage-spatial-0039",
+      "type": "ORDERING",
+      "language": "fr",
+      "stem": "En partant de l'Est et en tournant dans le sens inverse des aiguilles d'une montre, dans quel ordre rencontre-t-on les directions suivantes ?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Sud"
+        },
+        {
+          "id": "b",
+          "text": "Nord-Ouest"
+        },
+        {
+          "id": "c",
+          "text": "Nord-Est"
+        },
+        {
+          "id": "d",
+          "text": "Ouest"
+        }
+      ],
+      "correct": {
+        "order": [
+          "c",
+          "b",
+          "d",
+          "a"
+        ]
+      },
+      "explanation": "Le sens inverse des aiguilles d'une montre, à partir de l'Est, fait remonter vers le Nord puis redescendre par l'Ouest : Est → Nord-Est → Nord → Nord-Ouest → Ouest → Sud-Ouest → Sud. L'ordre est donc Nord-Est, Nord-Ouest, Ouest, Sud. Commencer par le Sud reviendrait à tourner dans le sens des aiguilles d'une montre.",
+      "difficulty": "MEDIUM",
+      "topic_key": "ps.spatial",
+      "objective_key": "ps.spatial.o1",
+      "families": [
+        "*"
+      ],
+      "origin": "AI_GENERATED",
+      "source_key": null,
+      "year": null,
+      "valid_until": null,
+      "tags": [
+        "orientation",
+        "points-cardinaux"
+      ]
+    },
+    {
+      "id": "psy-attention-codage-spatial-0040",
+      "type": "MCQ_MULTI",
+      "language": "ar",
+      "stem": "في نرد عادي ذي ستّة أوجه (مجموع كلّ وجهين متقابلين يساوي 7)، أيّ الأزواج التالية يمكن أن يكون وجهاها متجاورين (يشتركان في حرف واحد)؟ (أكثر من إجابة صحيحة)",
+      "options": [
+        {
+          "id": "a",
+          "text": "2 و3"
+        },
+        {
+          "id": "b",
+          "text": "1 و6"
+        },
+        {
+          "id": "c",
+          "text": "4 و3"
+        },
+        {
+          "id": "d",
+          "text": "5 و1"
+        }
+      ],
+      "correct": [
+        "a",
+        "d"
+      ],
+      "explanation": "الوجهان المتقابلان لا يتجاوران أبدًا، والأزواج المتقابلة في النرد العادي هي 1 و6، و2 و5، و3 و4. لذلك لا يمكن أن يتجاور 1 و6 ولا 4 و3 لأنّ مجموع كلّ منهما 7. أمّا الزوجان 2 و3 و5 و1 فليسا متقابلين، وكلّ وجه يجاور الأوجه الأربعة غير المقابلة له.",
+      "difficulty": "MEDIUM",
+      "topic_key": "ps.spatial",
+      "objective_key": "ps.spatial.o1",
+      "families": [
+        "*"
+      ],
+      "origin": "AI_GENERATED",
+      "source_key": null,
+      "year": null,
+      "valid_until": null,
+      "tags": [
+        "نرد",
+        "أوجه-متجاورة"
+      ]
+    },
+    {
+      "id": "psy-attention-codage-spatial-0041",
+      "type": "MCQ_SINGLE",
+      "language": "fr",
+      "stem": "Un dé standard (faces opposées : 1-6, 2-5, 3-4) est posé sur une table avec le 3 sur le dessus et le 2 face à vous. On le fait basculer deux fois de suite vers vous, d'un quart de tour à chaque fois (à chaque bascule, la face du dessus vient se placer face à vous). Quelles faces voit-on alors sur le dessus et face à vous ?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Dessus : 4 ; face à vous : 5"
+        },
+        {
+          "id": "b",
+          "text": "Dessus : 2 ; face à vous : 4"
+        },
+        {
+          "id": "c",
+          "text": "Dessus : 5 ; face à vous : 3"
+        },
+        {
+          "id": "d",
+          "text": "Dessus : 4 ; face à vous : 2"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "explanation": "Deux quarts de tour dans le même sens font un demi-tour : la face du dessus passe dessous et la face avant passe à l'arrière. Le nouveau dessus est donc l'ancienne face du dessous, opposée au 3, soit 4, et la face visible devant est l'ancienne face arrière, opposée au 2, soit 5. La proposition « dessus 5, face à vous 3 » correspond à une seule bascule : le 3 vient devant et la face arrière (5) monte sur le dessus.",
+      "difficulty": "HARD",
+      "topic_key": "ps.spatial",
+      "objective_key": "ps.spatial.o1",
+      "families": [
+        "*"
+      ],
+      "origin": "AI_GENERATED",
+      "source_key": null,
+      "year": null,
+      "valid_until": null,
+      "tags": [
+        "dé",
+        "rotation",
+        "basculement"
+      ]
+    },
+    {
+      "id": "psy-attention-codage-spatial-0042",
+      "type": "MCQ_SINGLE",
+      "language": "ar",
+      "stem": "تصميم مكعّب (أي شكله المبسوط) على شكل صليب يتكوّن من ستّة مربّعات: المربّع «أ» في الوسط، وفوقه المربّع «ب»، وتحته المربّع «ج»، وعلى يساره «د»، وعلى يمينه «هـ»، وتحت المربّع «ج» المربّع «و». عند طيّ التصميم لتكوين المكعّب، ما الوجه المقابل للوجه «ب»؟",
+      "options": [
+        {
+          "id": "a",
+          "text": "أ"
+        },
+        {
+          "id": "b",
+          "text": "د"
+        },
+        {
+          "id": "c",
+          "text": "و"
+        },
+        {
+          "id": "d",
+          "text": "ج"
+        }
+      ],
+      "correct": [
+        "d"
+      ],
+      "explanation": "العمود المكوَّن من «ب» ثمّ «أ» ثمّ «ج» ثمّ «و» يلتفّ حول المكعّب كحلقة من أربعة أوجه متتالية، وفي مثل هذه الحلقة يكون كلّ وجهين يفصل بينهما وجه واحد متقابلين: «ب» مقابل «ج»، و«أ» مقابل «و». ويتقابل «د» و«هـ» لأنّهما ملتصقان بجانبي «أ». الإجابة «و» فخّ شائع لأنّه أبعد مربّع عن «ب» في الرسم، لكنّه بعد الطيّ يصبح ملاصقًا له.",
+      "difficulty": "HARD",
+      "topic_key": "ps.spatial",
+      "objective_key": "ps.spatial.o1",
+      "families": [
+        "*"
+      ],
+      "origin": "AI_GENERATED",
+      "source_key": null,
+      "year": null,
+      "valid_until": null,
+      "tags": [
+        "تصميم-المكعّب",
+        "أوجه-متقابلة"
+      ]
+    },
+    {
+      "id": "psy-attention-codage-spatial-0043",
+      "type": "MCQ_SINGLE",
+      "language": "ar",
+      "stem": "شبكة من 3 × 3 خانات تحتوي على الحروف التالية:\nالسطر الأوّل: A B C\nالسطر الثاني: D E F\nالسطر الثالث: G H I\nأُديرت الشبكة كاملةً ربع دورة (90°) في اتّجاه دوران عقارب الساعة. ما هو السطر الأعلى بعد الدوران، مقروءًا من اليسار إلى اليمين؟",
+      "options": [
+        {
+          "id": "a",
+          "text": "G D A"
+        },
+        {
+          "id": "b",
+          "text": "I H G"
+        },
+        {
+          "id": "c",
+          "text": "C F I"
+        },
+        {
+          "id": "d",
+          "text": "A D G"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "explanation": "عند الدوران ربع دورة في اتّجاه عقارب الساعة، يصبح العمود الأيسر (A ثمّ D ثمّ G من الأعلى إلى الأسفل) هو السطر الأعلى، لكن مقروءًا من الأسفل إلى الأعلى، أي G D A. الإجابة C F I تقابل الدوران في عكس اتّجاه عقارب الساعة، وI H G تقابل نصف دورة (180°)، أمّا A D G فهي مجرّد تبديل للأسطر بالأعمدة دون دوران حقيقي.",
+      "difficulty": "HARD",
+      "topic_key": "ps.spatial",
+      "objective_key": "ps.spatial.o1",
+      "families": [
+        "*"
+      ],
+      "origin": "AI_GENERATED",
+      "source_key": null,
+      "year": null,
+      "valid_until": null,
+      "tags": [
+        "دوران",
+        "شبكة"
+      ]
+    },
+    {
+      "id": "psy-attention-codage-spatial-0044",
+      "type": "MCQ_SINGLE",
+      "language": "fr",
+      "stem": "Une flèche pointe vers le Nord-Est. On lui applique successivement : (1) une rotation de 90° dans le sens des aiguilles d'une montre ; (2) une symétrie par rapport à un axe vertical (miroir gauche-droite) ; (3) une rotation de 45° dans le sens inverse des aiguilles d'une montre. Vers quelle direction pointe-t-elle à la fin ?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Ouest"
+        },
+        {
+          "id": "b",
+          "text": "Est"
+        },
+        {
+          "id": "c",
+          "text": "Sud"
+        },
+        {
+          "id": "d",
+          "text": "Nord-Ouest"
+        }
+      ],
+      "correct": [
+        "c"
+      ],
+      "explanation": "Étape 1 : Nord-Est tourné de 90° dans le sens horaire donne Sud-Est. Étape 2 : le miroir gauche-droite échange l'Est et l'Ouest, donc Sud-Est devient Sud-Ouest. Étape 3 : Sud-Ouest tourné de 45° dans le sens antihoraire donne Sud. Oublier la symétrie mène à « Est », et effectuer la dernière rotation dans le mauvais sens mène à « Ouest ».",
+      "difficulty": "EXPERT",
+      "topic_key": "ps.spatial",
+      "objective_key": "ps.spatial.o1",
+      "families": [
+        "*"
+      ],
+      "origin": "AI_GENERATED",
+      "source_key": null,
+      "year": null,
+      "valid_until": null,
+      "tags": [
+        "rotation",
+        "symétrie",
+        "transformations-successives"
+      ]
+    },
+    {
+      "id": "psy-attention-codage-spatial-0045",
+      "type": "MCQ_SINGLE",
+      "language": "ar",
+      "stem": "متوازي مستطيلات أبعاده 3 سم × 4 سم × 5 سم، طُليت أوجهه الستّة كلّها ثمّ قُطِّع إلى مكعّبات صغيرة طول حرف كلّ منها 1 سم. كم عدد المكعّبات الصغيرة التي طُلي منها وجهان فقط؟",
+      "options": [
+        {
+          "id": "a",
+          "text": "12"
+        },
+        {
+          "id": "b",
+          "text": "22"
+        },
+        {
+          "id": "c",
+          "text": "32"
+        },
+        {
+          "id": "d",
+          "text": "24"
+        }
+      ],
+      "correct": [
+        "d"
+      ],
+      "explanation": "المكعّبات ذات الوجهين المطليّين تقع على الأحرف الاثني عشر دون الأركان. على كلّ حرف من الأحرف الأربعة التي طولها 3 سم مكعّب واحد غير ركني (4)، وعلى كلّ حرف طوله 4 سم مكعّبان (8)، وعلى كلّ حرف طوله 5 سم ثلاثة مكعّبات (12)، والمجموع 24. الإجابة 32 تحتسب الأركان الثمانية خطأً رغم أنّ لكلّ ركن ثلاثة أوجه مطليّة، و22 هو عدد المكعّبات ذات الوجه المطليّ الواحد.",
+      "difficulty": "EXPERT",
+      "topic_key": "ps.spatial",
+      "objective_key": "ps.spatial.o1",
+      "families": [
+        "*"
+      ],
+      "origin": "AI_GENERATED",
+      "source_key": null,
+      "year": null,
+      "valid_until": null,
+      "tags": [
+        "مكعّبات",
+        "متوازي-مستطيلات",
+        "مكعّب-مطليّ"
+      ]
+    }
+  ]
+}

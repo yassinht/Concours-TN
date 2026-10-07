@@ -1,0 +1,1936 @@
+{
+ "bank": "psy-mecanique-situationnel",
+ "domain": "PSYCHOTECH",
+ "specialty_syllabus": [],
+ "sources": [],
+ "research_notes": "Original psychotechnical questions written for this bank (origin AI_GENERATED): 22 on ps.mecanique (text-described gears, levers, pulleys, plus treuil, inclined plane, rack-and-pinion and worm gear as related simple machines) and 23 on ps.situationnel (professional situations for administration, security forces, prisons, customs and health staff). Only objective o1 exists for these two topics in syllabus/common.json, so all questions use ps.mecanique.o1 / ps.situationnel.o1. Mechanical answers were recomputed by script (gear ratios by tooth count, belt ratios by diameter, lever moments, pulley mechanical advantage = number of supporting strands, worm gear 1 tooth per turn); all assume negligible friction and weight, as stated in the stems. Situational items rely only on general public-service and professional-ethics principles (courtesy, equality, neutrality, continuity, professional discretion, probity, hierarchy, refusing a manifestly illegal order, conflict-of-interest disclosure, Protect-Examine-Alert-Rescue first-aid sequence, urgency-based triage, medication-error reporting). They deliberately cite no Tunisian article number, law, emergency phone number or institution, and contain no time-sensitive fact, so valid_until is null. No web verification could be run while authoring (the session's WebSearch budget was exhausted); reviewers may wish to check the explanations against loi n° 83-112 (statut général), the 2014 code de conduite et de déontologie de l'agent public, the statut général des forces de sécurité intérieure and nursing practice rules — treat any such alignment as SUGGESTED until verified. Family scoping: mechanical items and generic public-service situations are families ['*']; security-specific situations are scoped to police/garde-nationale families (plus douane for the procès-verbal item), the prisoner-bribe item to prisons-reeducation, and hospital items to sante-paramedical. Item 0045 mentions a 'procedure for people who cannot sign' without describing it, because the exact Tunisian procedure (e.g. fingerprint / witnesses) was not verified.",
+ "questions": [
+  {
+   "id": "psy-mecanique-situationnel-0001",
+   "type": "MCQ_SINGLE",
+   "language": "fr",
+   "stem": "Deux roues dentées A et B sont engrenées directement l'une avec l'autre. La roue A tourne dans le sens des aiguilles d'une montre. Dans quel sens tourne la roue B ?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Le sens dépend du nombre de dents de B"
+    },
+    {
+     "id": "b",
+     "text": "Dans le sens inverse des aiguilles d'une montre"
+    },
+    {
+     "id": "c",
+     "text": "Dans le sens des aiguilles d'une montre"
+    },
+    {
+     "id": "d",
+     "text": "Elle reste immobile"
+    }
+   ],
+   "correct": [
+    "b"
+   ],
+   "explanation": "Lorsque deux roues dentées sont en prise directe, leurs dents se poussent au point de contact : la roue menée tourne toujours en sens inverse de la roue menante. B tourne donc dans le sens inverse des aiguilles d'une montre. Le nombre de dents modifie la vitesse de rotation, mais jamais le sens : la réponse a est donc fausse.",
+   "difficulty": "EASY",
+   "topic_key": "ps.mecanique",
+   "objective_key": "ps.mecanique.o1",
+   "families": [
+    "*"
+   ],
+   "origin": "AI_GENERATED",
+   "source_key": null,
+   "year": null,
+   "valid_until": null,
+   "tags": [
+    "engrenages",
+    "sens de rotation"
+   ]
+  },
+  {
+   "id": "psy-mecanique-situationnel-0002",
+   "type": "MCQ_SINGLE",
+   "language": "ar",
+   "stem": "ثلاث عجلات مسنّنة A وB وC مركّبة على خط واحد: A تعشّق B، وB تعشّق C. إذا دارت A في اتجاه عقارب الساعة، ففي أيّ اتجاه تدور C؟",
+   "options": [
+    {
+     "id": "a",
+     "text": "يتوقّف ذلك على حجم B"
+    },
+    {
+     "id": "b",
+     "text": "في اتجاه عقارب الساعة"
+    },
+    {
+     "id": "c",
+     "text": "عكس اتجاه عقارب الساعة"
+    },
+    {
+     "id": "d",
+     "text": "لا تدور"
+    }
+   ],
+   "correct": [
+    "b"
+   ],
+   "explanation": "كل عجلتين متعشّقتين مباشرة تدوران في اتجاهين متعاكسين: A مع عقارب الساعة، إذن B عكسها، ثم C عكس B أي مع عقارب الساعة. فالعجلة الوسطى B تعكس الاتجاه مرة ثانية فتعيده إلى اتجاه A. أما حجم B فيؤثّر في السرعة لا في اتجاه C، لذلك فالقول إن الاتجاه يتوقّف على حجم B خاطئ.",
+   "difficulty": "EASY",
+   "topic_key": "ps.mecanique",
+   "objective_key": "ps.mecanique.o1",
+   "families": [
+    "*"
+   ],
+   "origin": "AI_GENERATED",
+   "source_key": null,
+   "year": null,
+   "valid_until": null,
+   "tags": [
+    "تروس",
+    "اتجاه الدوران",
+    "عجلة وسيطة"
+   ]
+  },
+  {
+   "id": "psy-mecanique-situationnel-0003",
+   "type": "TRUE_FALSE",
+   "language": "fr",
+   "stem": "Vrai ou faux : une poulie fixe simple (accrochée au plafond) permet de soulever une charge de 50 kg en tirant avec une force deux fois plus faible que son poids.",
+   "options": [
+    {
+     "id": "a",
+     "text": "Vrai"
+    },
+    {
+     "id": "b",
+     "text": "Faux"
+    }
+   ],
+   "correct": [
+    "b"
+   ],
+   "explanation": "Une poulie fixe ne fait que changer la direction de la force : on tire vers le bas pour faire monter la charge, ce qui est plus confortable. En négligeant les frottements, la force à exercer reste égale au poids de la charge. C'est la poulie mobile (ou le palan) qui permet de diviser l'effort, pas la poulie fixe : l'affirmation est donc fausse.",
+   "difficulty": "EASY",
+   "topic_key": "ps.mecanique",
+   "objective_key": "ps.mecanique.o1",
+   "families": [
+    "*"
+   ],
+   "origin": "AI_GENERATED",
+   "source_key": null,
+   "year": null,
+   "valid_until": null,
+   "tags": [
+    "poulies",
+    "poulie fixe"
+   ]
+  },
+  {
+   "id": "psy-mecanique-situationnel-0004",
+   "type": "MCQ_SINGLE",
+   "language": "ar",
+   "stem": "يريد عامل رفع صخرة ثقيلة باستعمال قضيب حديدي يرتكز على حجر (نقطة ارتكاز) موضوع بين الصخرة ويده. أين يجب أن يضع نقطة الارتكاز ليبذل أقلّ جهد ممكن؟",
+   "options": [
+    {
+     "id": "a",
+     "text": "أقرب ما يمكن إلى يده"
+    },
+    {
+     "id": "b",
+     "text": "في منتصف القضيب تمامًا"
+    },
+    {
+     "id": "c",
+     "text": "موضع نقطة الارتكاز لا يغيّر الجهد"
+    },
+    {
+     "id": "d",
+     "text": "أقرب ما يمكن إلى الصخرة"
+    }
+   ],
+   "correct": [
+    "d"
+   ],
+   "explanation": "في الرافعة يتحقّق التوازن عندما يتساوى جداء كل قوة في ذراعها من الجهتين: القوة × ذراع القوة = الحمل × ذراع الحمل. كلما اقتربت نقطة الارتكاز من الصخرة قصر ذراع الحمل وطال ذراع القوة، فيقلّ الجهد اللازم. أما تقريبها من اليد فيعطي النتيجة المعاكسة ويزيد الجهد.",
+   "difficulty": "EASY",
+   "topic_key": "ps.mecanique",
+   "objective_key": "ps.mecanique.o1",
+   "families": [
+    "*"
+   ],
+   "origin": "AI_GENERATED",
+   "source_key": null,
+   "year": null,
+   "valid_until": null,
+   "tags": [
+    "روافع",
+    "نقطة الارتكاز"
+   ]
+  },
+  {
+   "id": "psy-mecanique-situationnel-0005",
+   "type": "MCQ_SINGLE",
+   "language": "fr",
+   "stem": "Une roue dentée motrice de 20 dents entraîne une roue de 40 dents. La roue motrice tourne à 100 tours par minute. À quelle vitesse tourne la grande roue ?",
+   "options": [
+    {
+     "id": "a",
+     "text": "100 tr/min"
+    },
+    {
+     "id": "b",
+     "text": "80 tr/min"
+    },
+    {
+     "id": "c",
+     "text": "50 tr/min"
+    },
+    {
+     "id": "d",
+     "text": "200 tr/min"
+    }
+   ],
+   "correct": [
+    "c"
+   ],
+   "explanation": "Au point de contact, les deux roues font défiler le même nombre de dents : 100 × 20 = 2 000 dents par minute. La grande roue, qui a 40 dents, fait donc 2 000 ÷ 40 = 50 tours par minute. La réponse 200 tr/min inverse le rapport : une roue plus grande tourne moins vite que la petite qui l'entraîne, pas plus vite.",
+   "difficulty": "EASY",
+   "topic_key": "ps.mecanique",
+   "objective_key": "ps.mecanique.o1",
+   "families": [
+    "*"
+   ],
+   "origin": "AI_GENERATED",
+   "source_key": null,
+   "year": null,
+   "valid_until": null,
+   "tags": [
+    "engrenages",
+    "rapport de transmission"
+   ]
+  },
+  {
+   "id": "psy-mecanique-situationnel-0006",
+   "type": "MCQ_SINGLE",
+   "language": "ar",
+   "stem": "بكرتان موصولتان بحزام مستقيم غير متقاطع. إذا دارت البكرة الأولى عكس اتجاه عقارب الساعة، فكيف تدور البكرة الثانية؟",
+   "options": [
+    {
+     "id": "a",
+     "text": "عكس اتجاه عقارب الساعة"
+    },
+    {
+     "id": "b",
+     "text": "في اتجاه عقارب الساعة"
+    },
+    {
+     "id": "c",
+     "text": "لا تدور"
+    },
+    {
+     "id": "d",
+     "text": "تدور مرة في اتجاه ومرة في الاتجاه الآخر"
+    }
+   ],
+   "correct": [
+    "a"
+   ],
+   "explanation": "الحزام المستقيم (غير المتقاطع) ينقل الحركة دون أن يعكس اتجاهها، فتدور البكرتان في الاتجاه نفسه، أي عكس عقارب الساعة. يختلف الأمر عن المسنّنات المتعشّقة مباشرة التي تعكس الاتجاه، وعن الحزام المتقاطع (على شكل 8) الذي يعكسه أيضًا. لذلك فالقول إن الثانية تدور في اتجاه عقارب الساعة خلطٌ بين الحزام المستقيم والمسنّنات.",
+   "difficulty": "EASY",
+   "topic_key": "ps.mecanique",
+   "objective_key": "ps.mecanique.o1",
+   "families": [
+    "*"
+   ],
+   "origin": "AI_GENERATED",
+   "source_key": null,
+   "year": null,
+   "valid_until": null,
+   "tags": [
+    "بكرات",
+    "حزام",
+    "اتجاه الدوران"
+   ]
+  },
+  {
+   "id": "psy-mecanique-situationnel-0007",
+   "type": "MCQ_SINGLE",
+   "language": "fr",
+   "stem": "Sur une balançoire à bascule dont l'axe est au milieu, un enfant de 30 kg est assis à 2 m de l'axe. À quelle distance de l'axe, de l'autre côté, doit s'asseoir un enfant de 40 kg pour que la balançoire soit en équilibre ?",
+   "options": [
+    {
+     "id": "a",
+     "text": "1 m"
+    },
+    {
+     "id": "b",
+     "text": "1,5 m"
+    },
+    {
+     "id": "c",
+     "text": "2 m"
+    },
+    {
+     "id": "d",
+     "text": "2,67 m"
+    }
+   ],
+   "correct": [
+    "b"
+   ],
+   "explanation": "À l'équilibre, les moments sont égaux de part et d'autre de l'axe : 30 × 2 = 40 × d, donc d = 60 ÷ 40 = 1,5 m. L'enfant le plus lourd doit s'asseoir plus près de l'axe. La réponse 2,67 m vient d'un rapport inversé (40 × 2 ÷ 30) : elle éloignerait l'enfant lourd et ferait basculer la balançoire de son côté.",
+   "difficulty": "EASY",
+   "topic_key": "ps.mecanique",
+   "objective_key": "ps.mecanique.o1",
+   "families": [
+    "*"
+   ],
+   "origin": "AI_GENERATED",
+   "source_key": null,
+   "year": null,
+   "valid_until": null,
+   "tags": [
+    "leviers",
+    "moments",
+    "équilibre"
+   ]
+  },
+  {
+   "id": "psy-mecanique-situationnel-0008",
+   "type": "NUMERIC",
+   "language": "ar",
+   "stem": "رافعة من النوع الأول: حمل وزنه 600 نيوتن موضوع على بعد 0,5 م من نقطة الارتكاز، ويضغط عامل على الطرف الآخر على بعد 1,5 م من نقطة الارتكاز. ما القوة (بالنيوتن) التي يجب أن يبذلها العامل لتحقيق التوازن؟ (أهمل وزن القضيب، واكتب العدد فقط)",
+   "options": [],
+   "correct": {
+    "value": 200,
+    "tolerance": 0
+   },
+   "explanation": "شرط توازن الرافعة: القوة × ذراع القوة = الحمل × ذراع الحمل، أي ق × 1,5 = 600 × 0,5 = 300، إذن ق = 300 ÷ 1,5 = 200 نيوتن. ذراع القوة أطول بثلاث مرات من ذراع الحمل، لذلك تكون القوة أصغر بثلاث مرات من الحمل. من يجيب 1800 نيوتن يضرب في 3 بدل أن يقسم.",
+   "difficulty": "MEDIUM",
+   "topic_key": "ps.mecanique",
+   "objective_key": "ps.mecanique.o1",
+   "families": [
+    "*"
+   ],
+   "origin": "AI_GENERATED",
+   "source_key": null,
+   "year": null,
+   "valid_until": null,
+   "tags": [
+    "روافع",
+    "عزم القوة"
+   ]
+  },
+  {
+   "id": "psy-mecanique-situationnel-0009",
+   "type": "MCQ_SINGLE",
+   "language": "fr",
+   "stem": "Une charge de 400 N est suspendue à une poulie mobile. Une extrémité de la corde est fixée au plafond et l'on tire verticalement vers le haut sur l'autre extrémité. En négligeant les frottements et le poids de la poulie, quelle force faut-il exercer pour maintenir la charge ?",
+   "options": [
+    {
+     "id": "a",
+     "text": "200 N"
+    },
+    {
+     "id": "b",
+     "text": "400 N"
+    },
+    {
+     "id": "c",
+     "text": "100 N"
+    },
+    {
+     "id": "d",
+     "text": "800 N"
+    }
+   ],
+   "correct": [
+    "a"
+   ],
+   "explanation": "La poulie mobile est soutenue par deux brins de corde verticaux, qui se partagent la charge : chacun supporte 400 ÷ 2 = 200 N. La force à exercer est donc de 200 N. La réponse 400 N correspondrait à une poulie fixe, qui change seulement la direction de l'effort sans le réduire.",
+   "difficulty": "MEDIUM",
+   "topic_key": "ps.mecanique",
+   "objective_key": "ps.mecanique.o1",
+   "families": [
+    "*"
+   ],
+   "origin": "AI_GENERATED",
+   "source_key": null,
+   "year": null,
+   "valid_until": null,
+   "tags": [
+    "poulies",
+    "poulie mobile"
+   ]
+  },
+  {
+   "id": "psy-mecanique-situationnel-0010",
+   "type": "MCQ_MULTI",
+   "language": "fr",
+   "stem": "Dans un levier du deuxième genre (levier inter-résistant), la charge se trouve entre le point d'appui et l'effort. Parmi les objets suivants, lesquels fonctionnent selon ce principe ?",
+   "options": [
+    {
+     "id": "a",
+     "text": "La pince à épiler"
+    },
+    {
+     "id": "b",
+     "text": "La paire de ciseaux"
+    },
+    {
+     "id": "c",
+     "text": "La brouette"
+    },
+    {
+     "id": "d",
+     "text": "Le casse-noix"
+    }
+   ],
+   "correct": [
+    "c",
+    "d"
+   ],
+   "explanation": "Dans la brouette, l'appui est la roue, la charge est dans la caisse et l'effort s'exerce aux poignées : la charge est bien au milieu. Le casse-noix suit le même schéma (charnière, noix, mains). La pince à épiler est un levier du troisième genre, car l'effort des doigts s'exerce entre la charnière et la pointe. Les ciseaux sont un levier du premier genre, avec l'axe placé entre les lames et les anneaux.",
+   "difficulty": "MEDIUM",
+   "topic_key": "ps.mecanique",
+   "objective_key": "ps.mecanique.o1",
+   "families": [
+    "*"
+   ],
+   "origin": "AI_GENERATED",
+   "source_key": null,
+   "year": null,
+   "valid_until": null,
+   "tags": [
+    "leviers",
+    "classes de leviers"
+   ]
+  },
+  {
+   "id": "psy-mecanique-situationnel-0011",
+   "type": "MATCHING",
+   "language": "ar",
+   "stem": "اربط كل أداة بنوع الرافعة الذي تنتمي إليه، علمًا أن النوع يُحدَّد بالعنصر الموجود في الوسط بين العنصرين الآخرين (نقطة الارتكاز أو الحمل أو القوة).",
+   "options": [
+    {
+     "id": "l1",
+     "text": "المقصّ",
+     "side": "left"
+    },
+    {
+     "id": "l2",
+     "text": "عربة اليد (البرويطة)",
+     "side": "left"
+    },
+    {
+     "id": "l3",
+     "text": "ملقط إزالة الشعر",
+     "side": "left"
+    },
+    {
+     "id": "r1",
+     "text": "النوع الثالث: القوة في الوسط",
+     "side": "right"
+    },
+    {
+     "id": "r2",
+     "text": "النوع الأول: نقطة الارتكاز في الوسط",
+     "side": "right"
+    },
+    {
+     "id": "r3",
+     "text": "النوع الثاني: الحمل في الوسط",
+     "side": "right"
+    }
+   ],
+   "correct": {
+    "pairs": [
+     [
+      "l1",
+      "r2"
+     ],
+     [
+      "l2",
+      "r3"
+     ],
+     [
+      "l3",
+      "r1"
+     ]
+    ]
+   },
+   "explanation": "في المقصّ يقع المحور (نقطة الارتكاز) بين المقبضين حيث تُبذل القوة والشفرتين حيث المقاومة: النوع الأول. في عربة اليد تكون العجلة نقطة الارتكاز والحمل في الصندوق وسطًا واليدان في الطرف: النوع الثاني. في الملقط تضغط الأصابع في الوسط بين المفصل والطرف الذي يمسك الشعرة: النوع الثالث. الخطأ الشائع هو اعتبار الملقط من النوع الأول لأنه يشبه المقصّ في الشكل.",
+   "difficulty": "MEDIUM",
+   "topic_key": "ps.mecanique",
+   "objective_key": "ps.mecanique.o1",
+   "families": [
+    "*"
+   ],
+   "origin": "AI_GENERATED",
+   "source_key": null,
+   "year": null,
+   "valid_until": null,
+   "tags": [
+    "روافع",
+    "أنواع الروافع"
+   ]
+  },
+  {
+   "id": "psy-mecanique-situationnel-0012",
+   "type": "NUMERIC",
+   "language": "fr",
+   "stem": "Un palan comporte une moufle mobile soutenue par 4 brins de corde. Pour soulever la charge de 1,5 m, quelle longueur de corde (en mètres) faut-il tirer ? (frottements négligés, réponse numérique)",
+   "options": [],
+   "correct": {
+    "value": 6,
+    "tolerance": 0
+   },
+   "explanation": "Lorsque la charge monte de 1,5 m, chacun des 4 brins qui la soutiennent doit se raccourcir de 1,5 m. Il faut donc tirer 4 × 1,5 = 6 m de corde. C'est la contrepartie de l'avantage mécanique : l'effort est divisé par 4, mais la distance parcourue par la main est multipliée par 4. Répondre 1,5 m revient à oublier ce principe.",
+   "difficulty": "MEDIUM",
+   "topic_key": "ps.mecanique",
+   "objective_key": "ps.mecanique.o1",
+   "families": [
+    "*"
+   ],
+   "origin": "AI_GENERATED",
+   "source_key": null,
+   "year": null,
+   "valid_until": null,
+   "tags": [
+    "poulies",
+    "palan",
+    "règle d'or de la mécanique"
+   ]
+  },
+  {
+   "id": "psy-mecanique-situationnel-0013",
+   "type": "MCQ_SINGLE",
+   "language": "ar",
+   "stem": "يجب رفع برميل إلى صندوق شاحنة يرتفع 1 م عن الأرض بدحرجته على لوح مائل. بإهمال الاحتكاك، أيّ لوح يتطلّب أقلّ قوة دفع؟",
+   "options": [
+    {
+     "id": "a",
+     "text": "لوح طوله 6 م"
+    },
+    {
+     "id": "b",
+     "text": "لوح طوله 2 م"
+    },
+    {
+     "id": "c",
+     "text": "لوح طوله 3 م"
+    },
+    {
+     "id": "d",
+     "text": "لوح طوله 4 م"
+    }
+   ],
+   "correct": [
+    "a"
+   ],
+   "explanation": "على مستوى مائل ودون احتكاك يكون العمل المبذول هو نفسه مهما كان طول اللوح: القوة × طول اللوح = الوزن × الارتفاع. وبما أن الارتفاع ثابت (1 م)، فكلما طال اللوح قلّت القوة اللازمة، لذلك يتطلّب اللوح ذو 6 م أقلّ قوة. أما اللوح القصير (2 م) فهو الأشدّ انحدارًا ويتطلّب أكبر قوة، وإن كانت المسافة المقطوعة أقصر.",
+   "difficulty": "MEDIUM",
+   "topic_key": "ps.mecanique",
+   "objective_key": "ps.mecanique.o1",
+   "families": [
+    "*"
+   ],
+   "origin": "AI_GENERATED",
+   "source_key": null,
+   "year": null,
+   "valid_until": null,
+   "tags": [
+    "المستوى المائل",
+    "الآلات البسيطة"
+   ]
+  },
+  {
+   "id": "psy-mecanique-situationnel-0014",
+   "type": "MCQ_SINGLE",
+   "language": "fr",
+   "stem": "Un treuil de puits possède une manivelle de 40 cm de rayon et un tambour (sur lequel s'enroule la corde) de 10 cm de rayon. En négligeant les frottements, quelle force minimale faut-il appliquer sur la manivelle pour remonter un seau de 200 N ?",
+   "options": [
+    {
+     "id": "a",
+     "text": "200 N"
+    },
+    {
+     "id": "b",
+     "text": "20 N"
+    },
+    {
+     "id": "c",
+     "text": "50 N"
+    },
+    {
+     "id": "d",
+     "text": "800 N"
+    }
+   ],
+   "correct": [
+    "c"
+   ],
+   "explanation": "Le treuil fonctionne comme un levier : force × rayon de la manivelle = charge × rayon du tambour. On obtient F × 40 = 200 × 10, soit F = 2 000 ÷ 40 = 50 N. La réponse 800 N inverse le rapport des rayons : une grande manivelle sert justement à réduire l'effort, pas à l'augmenter.",
+   "difficulty": "MEDIUM",
+   "topic_key": "ps.mecanique",
+   "objective_key": "ps.mecanique.o1",
+   "families": [
+    "*"
+   ],
+   "origin": "AI_GENERATED",
+   "source_key": null,
+   "year": null,
+   "valid_until": null,
+   "tags": [
+    "treuil",
+    "roue et axe"
+   ]
+  },
+  {
+   "id": "psy-mecanique-situationnel-0015",
+   "type": "MCQ_MULTI",
+   "language": "fr",
+   "stem": "Cinq roues dentées A, B, C, D et E sont alignées et engrenées en chaîne (A avec B, B avec C, C avec D, D avec E). La roue A tourne dans le sens des aiguilles d'une montre. Quelles roues tournent dans le sens inverse des aiguilles d'une montre ?",
+   "options": [
+    {
+     "id": "a",
+     "text": "B"
+    },
+    {
+     "id": "b",
+     "text": "C"
+    },
+    {
+     "id": "c",
+     "text": "D"
+    },
+    {
+     "id": "d",
+     "text": "E"
+    }
+   ],
+   "correct": [
+    "a",
+    "c"
+   ],
+   "explanation": "Chaque engrènement inverse le sens de rotation : A (horaire), B (antihoraire), C (horaire), D (antihoraire), E (horaire). Les roues B et D, séparées de A par un nombre impair d'engrènements, tournent donc dans le sens antihoraire. C et E, séparées de A par un nombre pair d'engrènements, tournent dans le même sens que A.",
+   "difficulty": "MEDIUM",
+   "topic_key": "ps.mecanique",
+   "objective_key": "ps.mecanique.o1",
+   "families": [
+    "*"
+   ],
+   "origin": "AI_GENERATED",
+   "source_key": null,
+   "year": null,
+   "valid_until": null,
+   "tags": [
+    "engrenages",
+    "sens de rotation",
+    "parité"
+   ]
+  },
+  {
+   "id": "psy-mecanique-situationnel-0016",
+   "type": "MCQ_SINGLE",
+   "language": "fr",
+   "stem": "Un train d'engrenages est composé ainsi : la roue A (10 dents) entraîne la roue B (30 dents) ; la roue C (10 dents) est fixée sur le même axe que B et entraîne la roue D (40 dents). Si A tourne à 1 200 tr/min, à quelle vitesse tourne D ?",
+   "options": [
+    {
+     "id": "a",
+     "text": "400 tr/min"
+    },
+    {
+     "id": "b",
+     "text": "300 tr/min"
+    },
+    {
+     "id": "c",
+     "text": "3 600 tr/min"
+    },
+    {
+     "id": "d",
+     "text": "100 tr/min"
+    }
+   ],
+   "correct": [
+    "d"
+   ],
+   "explanation": "B tourne à 1 200 × 10 ÷ 30 = 400 tr/min ; C, solidaire du même axe, tourne aussi à 400 tr/min, puis D tourne à 400 × 10 ÷ 40 = 100 tr/min (rapport global 1/3 × 1/4 = 1/12). La réponse 400 tr/min est la vitesse de B et C : elle oublie le second étage de réduction. La réponse 300 tr/min applique directement le rapport entre A et D en ignorant l'étage intermédiaire.",
+   "difficulty": "HARD",
+   "topic_key": "ps.mecanique",
+   "objective_key": "ps.mecanique.o1",
+   "families": [
+    "*"
+   ],
+   "origin": "AI_GENERATED",
+   "source_key": null,
+   "year": null,
+   "valid_until": null,
+   "tags": [
+    "engrenages",
+    "train d'engrenages",
+    "rapport de réduction"
+   ]
+  },
+  {
+   "id": "psy-mecanique-situationnel-0017",
+   "type": "MCQ_SINGLE",
+   "language": "ar",
+   "stem": "ثلاث عجلات مسنّنة A وB وC مركّبة في شكل مثلث بحيث تعشّق كل واحدة منها العجلتين الأخريين (A مع B، وB مع C، وC مع A). ماذا يحدث إذا حاولنا تدوير A؟",
+   "options": [
+    {
+     "id": "a",
+     "text": "تدور B وحدها وتبقى C ثابتة"
+    },
+    {
+     "id": "b",
+     "text": "تدور العجلات الثلاث في الاتجاه نفسه"
+    },
+    {
+     "id": "c",
+     "text": "ينغلق النظام ولا يمكن أن يدور"
+    },
+    {
+     "id": "d",
+     "text": "تدور A وC في الاتجاه نفسه وB في الاتجاه المعاكس"
+    }
+   ],
+   "correct": [
+    "c"
+   ],
+   "explanation": "إذا دارت A مع عقارب الساعة فيجب أن تدور B عكسها، ثم C مع عقارب الساعة؛ لكن C تعشّق A مباشرة فيجب أن تدور عكس A، وهذا تناقض. في كل حلقة مغلقة تضمّ عددًا فرديًا من المسنّنات يستحيل الدوران فينغلق النظام. والقول إن A وC تدوران في الاتجاه نفسه يُهمل التعشيق المباشر بين C وA.",
+   "difficulty": "HARD",
+   "topic_key": "ps.mecanique",
+   "objective_key": "ps.mecanique.o1",
+   "families": [
+    "*"
+   ],
+   "origin": "AI_GENERATED",
+   "source_key": null,
+   "year": null,
+   "valid_until": null,
+   "tags": [
+    "تروس",
+    "حلقة مغلقة",
+    "استدلال"
+   ]
+  },
+  {
+   "id": "psy-mecanique-situationnel-0018",
+   "type": "NUMERIC",
+   "language": "fr",
+   "stem": "Une barre rigide de poids négligeable repose sur un appui placé en son milieu. Du côté gauche, on suspend une charge de 120 N à 1 m de l'appui et une charge de 60 N à 2 m de l'appui. Du côté droit, on suspend une seule charge à 1,5 m de l'appui. Quelle doit être sa valeur (en newtons) pour que la barre soit en équilibre ? (réponse numérique)",
+   "options": [],
+   "correct": {
+    "value": 160,
+    "tolerance": 0
+   },
+   "explanation": "Le moment total à gauche est la somme des moments : 120 × 1 + 60 × 2 = 240 N·m. À droite, il faut F × 1,5 = 240, d'où F = 160 N. L'erreur fréquente consiste à additionner simplement les charges (180 N) sans tenir compte de leur distance à l'appui.",
+   "difficulty": "HARD",
+   "topic_key": "ps.mecanique",
+   "objective_key": "ps.mecanique.o1",
+   "families": [
+    "*"
+   ],
+   "origin": "AI_GENERATED",
+   "source_key": null,
+   "year": null,
+   "valid_until": null,
+   "tags": [
+    "leviers",
+    "moments",
+    "équilibre"
+   ]
+  },
+  {
+   "id": "psy-mecanique-situationnel-0019",
+   "type": "TRUE_FALSE",
+   "language": "ar",
+   "stem": "صحيح أم خطأ: باستعمال جهاز بكرات يُحمل فيه الحمل بأربعة أجزاء من الحبل، نقسم القوة اللازمة على 4، وبالتالي نقسم أيضًا العمل المبذول على 4.",
+   "options": [
+    {
+     "id": "a",
+     "text": "صحيح"
+    },
+    {
+     "id": "b",
+     "text": "خطأ"
+    }
+   ],
+   "correct": [
+    "b"
+   ],
+   "explanation": "يقسم جهاز البكرات القوة على 4 (بإهمال الاحتكاك)، لكن يجب سحب حبل أطول بأربع مرات من المسافة التي يرتفعها الحمل. وبما أن العمل = القوة × المسافة، فإنه يبقى هو نفسه، بل يزيد قليلًا في الواقع بسبب الاحتكاك. هذه هي «القاعدة الذهبية» للآلات البسيطة: ما نربحه في القوة نخسره في المسافة، لذلك فالعبارة خاطئة.",
+   "difficulty": "HARD",
+   "topic_key": "ps.mecanique",
+   "objective_key": "ps.mecanique.o1",
+   "families": [
+    "*"
+   ],
+   "origin": "AI_GENERATED",
+   "source_key": null,
+   "year": null,
+   "valid_until": null,
+   "tags": [
+    "بكرات",
+    "العمل",
+    "القاعدة الذهبية"
+   ]
+  },
+  {
+   "id": "psy-mecanique-situationnel-0020",
+   "type": "MCQ_SINGLE",
+   "language": "ar",
+   "stem": "مسنّن صغير عدد أسنانه 20 يعشّق جريدة مسنّنة (crémaillère) المسافة بين سنّين متتاليين فيها 5 مم. إذا دار المسنّن دورتين كاملتين، فكم تتحرّك الجريدة؟",
+   "options": [
+    {
+     "id": "a",
+     "text": "20 سم"
+    },
+    {
+     "id": "b",
+     "text": "10 سم"
+    },
+    {
+     "id": "c",
+     "text": "4 سم"
+    },
+    {
+     "id": "d",
+     "text": "2 سم"
+    }
+   ],
+   "correct": [
+    "a"
+   ],
+   "explanation": "في كل دورة كاملة يمرّ 20 سنًّا من المسنّن على الجريدة، فتتقدّم الجريدة 20 × 5 مم = 100 مم أي 10 سم. وفي دورتين تتقدّم 2 × 10 = 20 سم. الإجابة 10 سم صحيحة لدورة واحدة فقط، وتُهمل أن السؤال يتعلّق بدورتين.",
+   "difficulty": "HARD",
+   "topic_key": "ps.mecanique",
+   "objective_key": "ps.mecanique.o1",
+   "families": [
+    "*"
+   ],
+   "origin": "AI_GENERATED",
+   "source_key": null,
+   "year": null,
+   "valid_until": null,
+   "tags": [
+    "مسنّن وجريدة",
+    "تحويل الحركة"
+   ]
+  },
+  {
+   "id": "psy-mecanique-situationnel-0021",
+   "type": "MCQ_SINGLE",
+   "language": "fr",
+   "stem": "La roue dentée A (30 dents) tourne à 60 tr/min dans le sens des aiguilles d'une montre et entraîne directement la roue B (15 dents). Sur l'axe de B est fixée une poulie P1 de 20 cm de diamètre, reliée par une courroie croisée à une poulie P2 de 40 cm de diamètre. Comment tourne P2 ?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Dans le sens antihoraire, à 60 tr/min"
+    },
+    {
+     "id": "b",
+     "text": "Dans le sens horaire, à 240 tr/min"
+    },
+    {
+     "id": "c",
+     "text": "Dans le sens antihoraire, à 30 tr/min"
+    },
+    {
+     "id": "d",
+     "text": "Dans le sens horaire, à 60 tr/min"
+    }
+   ],
+   "correct": [
+    "d"
+   ],
+   "explanation": "B tourne en sens inverse de A (antihoraire) à 60 × 30 ÷ 15 = 120 tr/min ; P1, sur le même axe, tourne de la même façon. La courroie croisée inverse le sens : P2 tourne donc dans le sens horaire, à 120 × 20 ÷ 40 = 60 tr/min. La réponse a oublie que la courroie croisée inverse le sens, et la réponse b inverse le rapport des diamètres des poulies.",
+   "difficulty": "EXPERT",
+   "topic_key": "ps.mecanique",
+   "objective_key": "ps.mecanique.o1",
+   "families": [
+    "*"
+   ],
+   "origin": "AI_GENERATED",
+   "source_key": null,
+   "year": null,
+   "valid_until": null,
+   "tags": [
+    "engrenages",
+    "courroie croisée",
+    "transmission composée"
+   ]
+  },
+  {
+   "id": "psy-mecanique-situationnel-0022",
+   "type": "MCQ_SINGLE",
+   "language": "ar",
+   "stem": "لولب لا نهائي (vis sans fin) ذو خيط واحد يدير عجلة مسنّنة ذات 40 سنًّا. إذا دار اللولب بسرعة 1200 دورة في الدقيقة، فما سرعة دوران العجلة؟",
+   "options": [
+    {
+     "id": "a",
+     "text": "300 دورة في الدقيقة"
+    },
+    {
+     "id": "b",
+     "text": "30 دورة في الدقيقة"
+    },
+    {
+     "id": "c",
+     "text": "1200 دورة في الدقيقة"
+    },
+    {
+     "id": "d",
+     "text": "48000 دورة في الدقيقة"
+    }
+   ],
+   "correct": [
+    "b"
+   ],
+   "explanation": "في اللولب اللانهائي ذي الخيط الواحد، تدفع كل دورة كاملة للولب العجلةَ بمقدار سنّ واحدة فقط. تحتاج العجلة إذن إلى 40 دورة من اللولب لتكمل دورة واحدة، فتكون سرعتها 1200 ÷ 40 = 30 دورة في الدقيقة. الإجابة 48000 ناتجة عن الضرب بدل القسمة، وتتجاهل أن هذا النظام يُستعمل أساسًا لتخفيض السرعة بشكل كبير.",
+   "difficulty": "EXPERT",
+   "topic_key": "ps.mecanique",
+   "objective_key": "ps.mecanique.o1",
+   "families": [
+    "*"
+   ],
+   "origin": "AI_GENERATED",
+   "source_key": null,
+   "year": null,
+   "valid_until": null,
+   "tags": [
+    "لولب لا نهائي",
+    "تخفيض السرعة"
+   ]
+  },
+  {
+   "id": "psy-mecanique-situationnel-0023",
+   "type": "MCQ_SINGLE",
+   "language": "fr",
+   "stem": "Vous êtes agent d'accueil dans une administration. Un usager hausse le ton parce que son dossier est incomplet et qu'il devra revenir. Quelle est la réaction la plus adaptée ?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Lui dire de revenir un autre jour, quand il sera calmé, sans entrer dans les détails du dossier"
+    },
+    {
+     "id": "b",
+     "text": "Rester calme, l'écouter, lui expliquer poliment quelles pièces manquent et lui remettre la liste par écrit"
+    },
+    {
+     "id": "c",
+     "text": "Accepter le dossier incomplet pour éviter le conflit, en lui demandant de compléter les pièces plus tard"
+    },
+    {
+     "id": "d",
+     "text": "Lui répondre fermement sur le même ton, pour qu'il comprenne que vous ne vous laisserez pas impressionner"
+    }
+   ],
+   "correct": [
+    "b"
+   ],
+   "explanation": "Face à un usager mécontent, l'agent doit garder son calme, écouter et expliquer clairement ce qui manque : une liste écrite évite un nouveau déplacement inutile. Accepter un dossier incomplet (c) contourne les règles et ne fait que reporter le problème, car le dossier sera bloqué plus tard. Répondre sur le même ton (d) aggrave la tension et manque au devoir de courtoisie.",
+   "difficulty": "EASY",
+   "topic_key": "ps.situationnel",
+   "objective_key": "ps.situationnel.o1",
+   "families": [
+    "*"
+   ],
+   "origin": "AI_GENERATED",
+   "source_key": null,
+   "year": null,
+   "valid_until": null,
+   "tags": [
+    "accueil",
+    "usager mécontent",
+    "courtoisie"
+   ]
+  },
+  {
+   "id": "psy-mecanique-situationnel-0024",
+   "type": "MCQ_SINGLE",
+   "language": "ar",
+   "stem": "بعد أن أنهيت معاملة إدارية لمواطن، أصرّ على أن يقدّم لك مبلغًا ماليًا «شكرًا» على سرعة خدمتك. ما التصرّف الأنسب؟",
+   "options": [
+    {
+     "id": "a",
+     "text": "تقبله إذا كان المبلغ رمزيًا وصغيرًا، دون أن تُعلم أحدًا بذلك"
+    },
+    {
+     "id": "b",
+     "text": "ترفض المبلغ بلباقة وتوضّح له أن خدمته واجب مهني لا يُقابَل بمقابل"
+    },
+    {
+     "id": "c",
+     "text": "تقبله لأن المعاملة انتهت فعلًا، ولم يعد لهذا المبلغ أيّ تأثير على القرار الذي اتخذته"
+    },
+    {
+     "id": "d",
+     "text": "تقبله ثم توزّعه على زملائك في المكتب حتى لا تستفيد منه بصفة شخصية"
+    }
+   ],
+   "correct": [
+    "b"
+   ],
+   "explanation": "قبول المال من مستعمل المرفق العام، حتى بعد إنهاء المعاملة، يمسّ بنزاهة العون العمومي ويفتح الباب للمحاباة في المرّات القادمة. الرفض اللبق مع التوضيح يحافظ على العلاقة الطيبة ويحترم قواعد أخلاقيات الوظيفة العمومية. أما القول إن انتهاء المعاملة يبيح القبول فخاطئ، لأن المقابل يبقى مرتبطًا بممارسة الوظيفة، وصغر المبلغ أو توزيعه على الزملاء لا يغيّران شيئًا.",
+   "difficulty": "EASY",
+   "topic_key": "ps.situationnel",
+   "objective_key": "ps.situationnel.o1",
+   "families": [
+    "*"
+   ],
+   "origin": "AI_GENERATED",
+   "source_key": null,
+   "year": null,
+   "valid_until": null,
+   "tags": [
+    "النزاهة",
+    "الهدايا",
+    "أخلاقيات العون العمومي"
+   ]
+  },
+  {
+   "id": "psy-mecanique-situationnel-0025",
+   "type": "TRUE_FALSE",
+   "language": "fr",
+   "stem": "Vrai ou faux : un agent public peut raconter à un ami le contenu du dossier d'un usager, à condition que cet ami promette de ne le répéter à personne.",
+   "options": [
+    {
+     "id": "a",
+     "text": "Vrai"
+    },
+    {
+     "id": "b",
+     "text": "Faux"
+    }
+   ],
+   "correct": [
+    "b"
+   ],
+   "explanation": "L'agent public est tenu à la discrétion professionnelle sur tout ce qu'il apprend dans l'exercice de ses fonctions. La promesse de l'ami ne change rien : l'information a déjà été divulguée à une personne qui n'a pas à la connaître. Les données d'un usager ne peuvent être communiquées qu'aux personnes habilitées, dans le cadre des procédures : l'affirmation est donc fausse.",
+   "difficulty": "EASY",
+   "topic_key": "ps.situationnel",
+   "objective_key": "ps.situationnel.o1",
+   "families": [
+    "*"
+   ],
+   "origin": "AI_GENERATED",
+   "source_key": null,
+   "year": null,
+   "valid_until": null,
+   "tags": [
+    "discrétion professionnelle",
+    "confidentialité"
+   ]
+  },
+  {
+   "id": "psy-mecanique-situationnel-0026",
+   "type": "MCQ_SINGLE",
+   "language": "ar",
+   "stem": "أثناء دورية في سوق مكتظّ، يجد عون أمن طفلًا صغيرًا تائهًا يبكي ولا يعرف أين أهله. ما التصرّف الأنسب؟",
+   "options": [
+    {
+     "id": "a",
+     "text": "يطمئن الطفل ويبقيه تحت حمايته، ويُعلم مركزه، ويبحث عن أوليائه في محيط المكان"
+    },
+    {
+     "id": "b",
+     "text": "يطلب من أحد الباعة القريبين الاعتناء به، ثم يواصل دوريته ويعود إليه لاحقًا"
+    },
+    {
+     "id": "c",
+     "text": "يأخذه مباشرة إلى منزله الخاص ليرتاح، في انتظار أن تتصل العائلة بالمركز"
+    },
+    {
+     "id": "d",
+     "text": "يتركه في مكانه حتى لا يبتعد عنه، لأن أهله سيعودون حتمًا للبحث عنه هناك"
+    }
+   ],
+   "correct": [
+    "a"
+   ],
+   "explanation": "حماية الأشخاص المستضعفين، وخاصة الأطفال، من صميم مهام عون الأمن: يبقى الطفل تحت مسؤوليته مع إعلام المركز حتى تُتّبع الإجراءات ويُبحث عن العائلة. تسليمه لبائع مجهول يعرّضه للخطر ويُخرج الحالة عن أيّ إطار رسمي. أما أخذه إلى المنزل الخاص فتصرّف خارج الإجراءات قد يُفسَّر سلبًا ويعقّد بحث العائلة عنه، وتركه في مكانه تخلٍّ عن واجب الحماية.",
+   "difficulty": "EASY",
+   "topic_key": "ps.situationnel",
+   "objective_key": "ps.situationnel.o1",
+   "families": [
+    "police-gardien-paix",
+    "police-inspecteur",
+    "police-officier",
+    "garde-nationale"
+   ],
+   "origin": "AI_GENERATED",
+   "source_key": null,
+   "year": null,
+   "valid_until": null,
+   "tags": [
+    "عون أمن",
+    "حماية الطفل",
+    "دورية"
+   ]
+  },
+  {
+   "id": "psy-mecanique-situationnel-0027",
+   "type": "MCQ_SINGLE",
+   "language": "fr",
+   "stem": "Vous êtes infirmier(ère) dans un service hospitalier. Une personne appelle et, se présentant comme le frère d'un patient hospitalisé, demande son diagnostic. Que faites-vous ?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Vous ne donnez aucune information médicale par téléphone et l'orientez vers le médecin traitant"
+    },
+    {
+     "id": "b",
+     "text": "Vous donnez le diagnostic, puisqu'il s'agit d'un membre proche de la famille qui s'inquiète"
+    },
+    {
+     "id": "c",
+     "text": "Vous raccrochez immédiatement, sans explication, pour ne prendre aucun risque"
+    },
+    {
+     "id": "d",
+     "text": "Vous ne donnez pas le diagnostic, mais vous lui indiquez si l'état du patient est grave ou non"
+    }
+   ],
+   "correct": [
+    "a"
+   ],
+   "explanation": "Le secret médical protège le patient : au téléphone, l'identité et la qualité de l'interlocuteur ne peuvent pas être vérifiées, et c'est au médecin d'informer les proches selon la volonté du patient et les règles du service. Donner le diagnostic (b), ou même une indication sur la gravité (d), viole ce secret. Raccrocher sans explication (c) protège l'information mais manque de courtoisie : il faut orienter correctement l'appelant.",
+   "difficulty": "EASY",
+   "topic_key": "ps.situationnel",
+   "objective_key": "ps.situationnel.o1",
+   "families": [
+    "sante-paramedical"
+   ],
+   "origin": "AI_GENERATED",
+   "source_key": null,
+   "year": null,
+   "valid_until": null,
+   "tags": [
+    "secret médical",
+    "santé",
+    "communication"
+   ]
+  },
+  {
+   "id": "psy-mecanique-situationnel-0028",
+   "type": "TRUE_FALSE",
+   "language": "ar",
+   "stem": "صحيح أم خطأ: عند الوصول إلى مكان حادث مرور، أوّل ما يجب فعله هو تأمين المكان (إشارة الخطر، إبعاد المارّة) لتفادي حادث ثانٍ، قبل الاقتراب من المصابين.",
+   "options": [
+    {
+     "id": "a",
+     "text": "صحيح"
+    },
+    {
+     "id": "b",
+     "text": "خطأ"
+    }
+   ],
+   "correct": [
+    "a"
+   ],
+   "explanation": "القاعدة الأولى في الإسعاف هي الحماية: تأمين المكان يحمي المسعف والمصابين والمارّة من حادث ثانٍ قد يكون أخطر. لا يعني ذلك تأخير الإسعاف طويلًا، بل القيام بهذه الخطوة بسرعة ثم إبلاغ النجدة وتقديم الإسعافات. الاندفاع نحو المصابين دون تأمين المكان قد يضاعف عدد الضحايا، لذلك فالعبارة صحيحة.",
+   "difficulty": "EASY",
+   "topic_key": "ps.situationnel",
+   "objective_key": "ps.situationnel.o1",
+   "families": [
+    "*"
+   ],
+   "origin": "AI_GENERATED",
+   "source_key": null,
+   "year": null,
+   "valid_until": null,
+   "tags": [
+    "إسعافات أولية",
+    "حماية",
+    "حادث مرور"
+   ]
+  },
+  {
+   "id": "psy-mecanique-situationnel-0029",
+   "type": "MCQ_SINGLE",
+   "language": "fr",
+   "stem": "Vous recevez par erreur, sur votre messagerie professionnelle, un courriel confidentiel destiné à un autre service. Quelle est la conduite la plus appropriée ?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Prévenir l'expéditeur de l'erreur, ne pas diffuser le message et le supprimer"
+    },
+    {
+     "id": "b",
+     "text": "Le transférer à vos collègues du service pour qu'ils soient eux aussi informés du sujet"
+    },
+    {
+     "id": "c",
+     "text": "Le conserver discrètement dans un dossier personnel, au cas où il servirait plus tard"
+    },
+    {
+     "id": "d",
+     "text": "Le laisser dans votre boîte sans rien signaler, puisque l'erreur ne vient pas de vous"
+    }
+   ],
+   "correct": [
+    "a"
+   ],
+   "explanation": "Une information confidentielle reçue par erreur ne doit être ni exploitée, ni conservée, ni diffusée : prévenir l'expéditeur permet de corriger l'erreur et de faire parvenir le message au bon destinataire. Le transfert aux collègues (b) aggrave la fuite d'information, et la conservation (c) n'a aucune justification. L'ignorer (d) laisse l'erreur sans correction et le vrai destinataire sans le message.",
+   "difficulty": "EASY",
+   "topic_key": "ps.situationnel",
+   "objective_key": "ps.situationnel.o1",
+   "families": [
+    "*"
+   ],
+   "origin": "AI_GENERATED",
+   "source_key": null,
+   "year": null,
+   "valid_until": null,
+   "tags": [
+    "confidentialité",
+    "messagerie",
+    "discrétion"
+   ]
+  },
+  {
+   "id": "psy-mecanique-situationnel-0030",
+   "type": "MCQ_SINGLE",
+   "language": "ar",
+   "stem": "كلّفك رئيسك المباشر بإعداد تقرير عاجل قبل نهاية اليوم. وبعد ساعة، طلب منك مدير آخر أعلى رتبة في المؤسسة (لكنه ليس رئيسك المباشر) إنجاز مهمة عاجلة أخرى، ولا يمكنك إنجاز المهمتين في الوقت نفسه. ما التصرّف الأنسب؟",
+   "options": [
+    {
+     "id": "a",
+     "text": "تنفّذ مهمة المدير الآخر أولًا لأنه أعلى رتبة، ثم تُكمل التقرير إن بقي لك وقت، دون إعلام رئيسك"
+    },
+    {
+     "id": "b",
+     "text": "ترفض المهمتين معًا، لأنك لا تستطيع إنجازهما في الآجال المطلوبة"
+    },
+    {
+     "id": "c",
+     "text": "تختار المهمة الأسهل وتنجزها، وتؤجّل الأخرى إلى الغد دون إعلام أحد"
+    },
+    {
+     "id": "d",
+     "text": "تُعلم رئيسك المباشر بالطلب الثاني وتطلب منه تحديد الأولوية، مع إعلام المدير الآخر بذلك"
+    }
+   ],
+   "correct": [
+    "d"
+   ],
+   "explanation": "احترام التسلسل الإداري يقتضي أن يُعلَم الرئيس المباشر بكل تكليف يمسّ عمله، فهو من يحدّد الأولويات أو ينسّق مع المدير الآخر. تنفيذ الطلب الثاني في صمت يؤخّر التقرير العاجل ويضع رئيسك أمام أمر واقع. أما رفض المهمتين أو الاختيار الشخصي دون إعلام أحد فيعطّلان سير المرفق ويُخفيان المشكلة بدل حلّها.",
+   "difficulty": "MEDIUM",
+   "topic_key": "ps.situationnel",
+   "objective_key": "ps.situationnel.o1",
+   "families": [
+    "*"
+   ],
+   "origin": "AI_GENERATED",
+   "source_key": null,
+   "year": null,
+   "valid_until": null,
+   "tags": [
+    "التسلسل الإداري",
+    "ترتيب الأولويات"
+   ]
+  },
+  {
+   "id": "psy-mecanique-situationnel-0031",
+   "type": "MCQ_MULTI",
+   "language": "fr",
+   "stem": "Parmi les comportements suivants d'un agent au guichet, lesquels respectent les principes d'égalité et de neutralité du service public ?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Faire passer en priorité le dossier d'un voisin ou d'un proche"
+    },
+    {
+     "id": "b",
+     "text": "Traiter les demandes dans l'ordre d'arrivée, quelle que soit l'identité de l'usager"
+    },
+    {
+     "id": "c",
+     "text": "Accrocher au guichet une affiche de soutien à un parti politique"
+    },
+    {
+     "id": "d",
+     "text": "S'abstenir d'exprimer ses opinions politiques ou religieuses face aux usagers"
+    }
+   ],
+   "correct": [
+    "b",
+    "d"
+   ],
+   "explanation": "Le principe d'égalité impose de traiter tous les usagers selon les mêmes règles, d'où le respect de l'ordre d'arrivée (b), sous réserve des priorités prévues par le service pour certaines personnes vulnérables. La neutralité interdit à l'agent de manifester ses opinions politiques ou religieuses dans l'exercice de ses fonctions (d). L'affiche partisane (c) et le favoritisme envers un proche (a) violent ces deux principes.",
+   "difficulty": "MEDIUM",
+   "topic_key": "ps.situationnel",
+   "objective_key": "ps.situationnel.o1",
+   "families": [
+    "*"
+   ],
+   "origin": "AI_GENERATED",
+   "source_key": null,
+   "year": null,
+   "valid_until": null,
+   "tags": [
+    "égalité",
+    "neutralité",
+    "service public"
+   ]
+  },
+  {
+   "id": "psy-mecanique-situationnel-0032",
+   "type": "TRUE_FALSE",
+   "language": "ar",
+   "stem": "صحيح أم خطأ: إذا قدّم سائق مخالف نفسه على أنه قريب لمسؤول سامٍ، فإن التصرّف السليم لعون المرور هو أن يعامله بلباقة كسائر المواطنين ويطبّق عليه الإجراء نفسه.",
+   "options": [
+    {
+     "id": "a",
+     "text": "صحيح"
+    },
+    {
+     "id": "b",
+     "text": "خطأ"
+    }
+   ],
+   "correct": [
+    "a"
+   ],
+   "explanation": "يطبّق عون الأمن القانون على جميع المواطنين بالمساواة، مهما كانت علاقاتهم أو مناصب أقاربهم، لذلك فالعبارة صحيحة. التغاضي عن المخالفة بسبب النفوذ محاباة تمسّ بنزاهة السلك وبثقة المواطنين فيه، حتى لو كان الهدف تفادي المشاكل. وإذا تعرّض العون لضغط أو تهديد، فالحلّ هو إعلام رئيسه المباشر لا التنازل عن تطبيق الإجراء.",
+   "difficulty": "MEDIUM",
+   "topic_key": "ps.situationnel",
+   "objective_key": "ps.situationnel.o1",
+   "families": [
+    "police-gardien-paix",
+    "police-inspecteur",
+    "police-officier",
+    "garde-nationale"
+   ],
+   "origin": "AI_GENERATED",
+   "source_key": null,
+   "year": null,
+   "valid_until": null,
+   "tags": [
+    "المساواة أمام القانون",
+    "النزاهة",
+    "مراقبة مرورية"
+   ]
+  },
+  {
+   "id": "psy-mecanique-situationnel-0033",
+   "type": "MCQ_SINGLE",
+   "language": "fr",
+   "stem": "Aux urgences, trois patients arrivent en même temps : le premier pour une entorse de la cheville, le deuxième pour une douleur intense dans la poitrine accompagnée de sueurs, le troisième pour une petite coupure au doigt qui saigne peu. Qui doit être pris en charge en priorité ?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Le patient à l'entorse, car il ne peut pas marcher"
+    },
+    {
+     "id": "b",
+     "text": "Le patient qui proteste le plus fort"
+    },
+    {
+     "id": "c",
+     "text": "Le patient qui présente la douleur thoracique avec sueurs"
+    },
+    {
+     "id": "d",
+     "text": "Le premier patient arrivé à l'accueil"
+    }
+   ],
+   "correct": [
+    "c"
+   ],
+   "explanation": "Aux urgences, la priorité dépend de la gravité potentielle et non de l'ordre d'arrivée : une douleur thoracique intense avec sueurs peut révéler une urgence vitale (par exemple cardiaque) qui ne doit pas attendre. L'entorse et la petite coupure sont des situations non vitales qui peuvent être prises en charge ensuite. L'ordre d'arrivée (d) ne s'applique qu'entre patients de gravité comparable, et l'insistance d'un patient (b) n'est pas un critère médical.",
+   "difficulty": "MEDIUM",
+   "topic_key": "ps.situationnel",
+   "objective_key": "ps.situationnel.o1",
+   "families": [
+    "sante-paramedical"
+   ],
+   "origin": "AI_GENERATED",
+   "source_key": null,
+   "year": null,
+   "valid_until": null,
+   "tags": [
+    "triage",
+    "urgences",
+    "priorisation"
+   ]
+  },
+  {
+   "id": "psy-mecanique-situationnel-0034",
+   "type": "ORDERING",
+   "language": "ar",
+   "stem": "شاهدت شخصًا سقط فاقدًا للوعي في الطريق العام. رتّب خطوات التدخّل الأوّلي حسب الترتيب الصحيح.",
+   "options": [
+    {
+     "id": "a",
+     "text": "إبلاغ مصالح النجدة بمعلومات دقيقة (المكان، عدد المصابين، حالتهم)"
+    },
+    {
+     "id": "b",
+     "text": "التثبّت من أن المكان آمن وإبعاد الخطر"
+    },
+    {
+     "id": "c",
+     "text": "تقديم الإسعافات الأولية الملائمة في انتظار وصول النجدة"
+    },
+    {
+     "id": "d",
+     "text": "تقييم حالة المصاب: هل يستجيب؟ هل يتنفّس؟"
+    }
+   ],
+   "correct": {
+    "order": [
+     "b",
+     "d",
+     "a",
+     "c"
+    ]
+   },
+   "explanation": "يبدأ التدخّل بالحماية حتى لا يصبح المسعف ضحية ثانية، ثم تقييم حالة المصاب لأن هذه المعلومات ضرورية لإبلاغ النجدة بدقة. بعد ذلك يأتي الإبلاغ، ثم الإسعافات الملائمة في انتظار وصول المختصّين. وإذا كان هناك شاهد آخر، يمكن تكليفه بالاتصال بالنجدة في أثناء التقييم لربح الوقت. الخطأ الشائع هو الاندفاع نحو المصاب قبل التأكّد من أن المكان آمن.",
+   "difficulty": "MEDIUM",
+   "topic_key": "ps.situationnel",
+   "objective_key": "ps.situationnel.o1",
+   "families": [
+    "*"
+   ],
+   "origin": "AI_GENERATED",
+   "source_key": null,
+   "year": null,
+   "valid_until": null,
+   "tags": [
+    "إسعافات أولية",
+    "حماية - إبلاغ - إسعاف"
+   ]
+  },
+  {
+   "id": "psy-mecanique-situationnel-0035",
+   "type": "MCQ_SINGLE",
+   "language": "fr",
+   "stem": "Vous constatez à plusieurs reprises qu'un collègue signe la feuille de présence à la place d'un autre agent absent. Que faites-vous ?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Vous publiez les faits sur les réseaux sociaux pour dénoncer la situation"
+    },
+    {
+     "id": "b",
+     "text": "Vous signez vous aussi pour un collègue absent la prochaine fois"
+    },
+    {
+     "id": "c",
+     "text": "Vous signalez les faits à votre supérieur hiérarchique, de manière factuelle"
+    },
+    {
+     "id": "d",
+     "text": "Vous ne dites rien par solidarité entre collègues"
+    }
+   ],
+   "correct": [
+    "c"
+   ],
+   "explanation": "Signer à la place d'un agent absent est une fraude qui porte atteinte au service et à l'égalité entre agents : elle doit être signalée par la voie hiérarchique, en s'en tenant aux faits constatés. Se taire (d) revient à couvrir une faute qui se répète. La publication sur les réseaux sociaux (a) manque à l'obligation de discrétion et ne règle rien : les irrégularités se traitent par les canaux officiels.",
+   "difficulty": "MEDIUM",
+   "topic_key": "ps.situationnel",
+   "objective_key": "ps.situationnel.o1",
+   "families": [
+    "*"
+   ],
+   "origin": "AI_GENERATED",
+   "source_key": null,
+   "year": null,
+   "valid_until": null,
+   "tags": [
+    "intégrité",
+    "signalement",
+    "voie hiérarchique"
+   ]
+  },
+  {
+   "id": "psy-mecanique-situationnel-0036",
+   "type": "MCQ_SINGLE",
+   "language": "ar",
+   "stem": "عرض سجين على عون السجون والإصلاح مبلغًا ماليًا مقابل إدخال هاتف جوّال إليه. ما التصرّف الأنسب؟",
+   "options": [
+    {
+     "id": "a",
+     "text": "يرفض العرض بلطف دون إعلام أحد، حتى لا يتضرّر السجين من تقرير قد يزيد وضعه سوءًا"
+    },
+    {
+     "id": "b",
+     "text": "يقبل العرض مرة واحدة فقط، إذا تأكّد أن الهاتف سيُستعمل للاتصال بالعائلة"
+    },
+    {
+     "id": "c",
+     "text": "يهدّد السجين ويعاقبه بنفسه، حتى يكون عبرة لبقية السجناء"
+    },
+    {
+     "id": "d",
+     "text": "يرفض العرض بحزم ويحرّر تقريرًا إلى رئيسه المباشر حول محاولة الإرشاء"
+    }
+   ],
+   "correct": [
+    "d"
+   ],
+   "explanation": "عرض المال مقابل إدخال ممنوعات محاولة إرشاء يجب رفضها بحزم وإبلاغ الرؤساء بها، لأنها تمسّ بأمن المؤسسة السجنية وقد تتكرّر مع أعوان آخرين. الاكتفاء بالرفض دون تقرير يترك الخطر قائمًا ويحرم الإدارة من معلومة مهمّة. أما معاقبة السجين بصفة شخصية فتصرّف غير مقبول، لأن التأديب يخضع لإجراءات تقرّرها الإدارة.",
+   "difficulty": "MEDIUM",
+   "topic_key": "ps.situationnel",
+   "objective_key": "ps.situationnel.o1",
+   "families": [
+    "prisons-reeducation"
+   ],
+   "origin": "AI_GENERATED",
+   "source_key": null,
+   "year": null,
+   "valid_until": null,
+   "tags": [
+    "السجون",
+    "محاولة إرشاء",
+    "التقرير للرؤساء"
+   ]
+  },
+  {
+   "id": "psy-mecanique-situationnel-0037",
+   "type": "MCQ_MULTI",
+   "language": "fr",
+   "stem": "Lors d'un contrôle d'identité sur la voie publique, quels comportements de l'agent sont conformes à la déontologie des forces de sécurité ?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Confisquer son téléphone pour effacer une vidéo de l'intervention"
+    },
+    {
+     "id": "b",
+     "text": "Rester courtois et indiquer à la personne, autant que possible, le motif du contrôle"
+    },
+    {
+     "id": "c",
+     "text": "N'employer la force qu'en cas de stricte nécessité et de façon proportionnée"
+    },
+    {
+     "id": "d",
+     "text": "Insulter la personne pour l'intimider"
+    }
+   ],
+   "correct": [
+    "b",
+    "c"
+   ],
+   "explanation": "La courtoisie et l'explication du motif (b) favorisent la coopération et la confiance des citoyens. Le recours à la force n'est admissible qu'en cas de nécessité et doit rester proportionné à la situation (c). Les insultes (d) portent atteinte à la dignité de la personne et à l'image du corps. Effacer de force une vidéo (a) est un abus de pouvoir qui ne repose sur aucune procédure.",
+   "difficulty": "MEDIUM",
+   "topic_key": "ps.situationnel",
+   "objective_key": "ps.situationnel.o1",
+   "families": [
+    "police-gardien-paix",
+    "police-inspecteur",
+    "police-officier",
+    "garde-nationale"
+   ],
+   "origin": "AI_GENERATED",
+   "source_key": null,
+   "year": null,
+   "valid_until": null,
+   "tags": [
+    "déontologie",
+    "contrôle d'identité",
+    "proportionnalité"
+   ]
+  },
+  {
+   "id": "psy-mecanique-situationnel-0038",
+   "type": "MATCHING",
+   "language": "fr",
+   "stem": "Associez chaque comportement de l'agent au principe ou à l'obligation qu'il illustre.",
+   "options": [
+    {
+     "id": "l1",
+     "text": "Ne pas révéler le contenu d'un dossier à un tiers",
+     "side": "left"
+    },
+    {
+     "id": "l2",
+     "text": "Recevoir tous les usagers selon les mêmes règles",
+     "side": "left"
+    },
+    {
+     "id": "l3",
+     "text": "Refuser un cadeau offert par un usager",
+     "side": "left"
+    },
+    {
+     "id": "l4",
+     "text": "Assurer l'ouverture du guichet malgré l'absence d'un collègue",
+     "side": "left"
+    },
+    {
+     "id": "r1",
+     "text": "Continuité du service public",
+     "side": "right"
+    },
+    {
+     "id": "r2",
+     "text": "Discrétion professionnelle",
+     "side": "right"
+    },
+    {
+     "id": "r3",
+     "text": "Probité (intégrité)",
+     "side": "right"
+    },
+    {
+     "id": "r4",
+     "text": "Égalité des usagers",
+     "side": "right"
+    }
+   ],
+   "correct": {
+    "pairs": [
+     [
+      "l1",
+      "r2"
+     ],
+     [
+      "l2",
+      "r4"
+     ],
+     [
+      "l3",
+      "r3"
+     ],
+     [
+      "l4",
+      "r1"
+     ]
+    ]
+   },
+   "explanation": "Garder pour soi le contenu d'un dossier relève de la discrétion professionnelle, et appliquer les mêmes règles à tous traduit l'égalité des usagers. Refuser un cadeau protège la probité de l'agent, qui ne doit tirer aucun avantage de sa fonction. Maintenir le guichet ouvert malgré une absence illustre la continuité du service public, qui doit fonctionner de manière régulière. L'erreur fréquente est de rattacher le refus du cadeau à l'égalité : il s'agit d'abord d'intégrité.",
+   "difficulty": "MEDIUM",
+   "topic_key": "ps.situationnel",
+   "objective_key": "ps.situationnel.o1",
+   "families": [
+    "*"
+   ],
+   "origin": "AI_GENERATED",
+   "source_key": null,
+   "year": null,
+   "valid_until": null,
+   "tags": [
+    "principes du service public",
+    "déontologie"
+   ]
+  },
+  {
+   "id": "psy-mecanique-situationnel-0039",
+   "type": "MCQ_SINGLE",
+   "language": "ar",
+   "stem": "لاحظ ممرّض، بعد ساعة، أنه أعطى مريضًا جرعة دواء أكبر من الجرعة الموصوفة. لم تظهر على المريض حتى الآن أيّ أعراض. ما التصرّف الأنسب؟",
+   "options": [
+    {
+     "id": "a",
+     "text": "ينتظر نهاية المناوبة ليُعلم الزميل الذي سيعوّضه بما حدث"
+    },
+    {
+     "id": "b",
+     "text": "يُعلم الطبيب المسؤول فورًا، ويراقب المريض عن قرب، ويدوّن الحادثة حسب إجراءات المصلحة"
+    },
+    {
+     "id": "c",
+     "text": "يصمت ويكتفي بمراقبة المريض، ما دامت لم تظهر عليه أيّ أعراض حتى الآن"
+    },
+    {
+     "id": "d",
+     "text": "يصحّح ما كتبه في ملف المريض ليوافق الجرعة الموصوفة، حتى لا يبقى أثر للخطأ"
+    }
+   ],
+   "correct": [
+    "b"
+   ],
+   "explanation": "الإعلام الفوري للطبيب يسمح باتخاذ الإجراءات الطبية اللازمة قبل ظهور مضاعفات قد تتأخّر. غياب الأعراض في البداية لا يعني غياب الخطر، لذلك فالصمت خطأ مهني جسيم. أما تعديل الملف فهو تزييف يُخفي الخطأ ويعرّض المريض للخطر، والانتظار إلى نهاية المناوبة يضيّع وقتًا ثمينًا.",
+   "difficulty": "MEDIUM",
+   "topic_key": "ps.situationnel",
+   "objective_key": "ps.situationnel.o1",
+   "families": [
+    "sante-paramedical"
+   ],
+   "origin": "AI_GENERATED",
+   "source_key": null,
+   "year": null,
+   "valid_until": null,
+   "tags": [
+    "سلامة المريض",
+    "التصريح بالخطأ",
+    "الصحة"
+   ]
+  },
+  {
+   "id": "psy-mecanique-situationnel-0040",
+   "type": "MCQ_SINGLE",
+   "language": "fr",
+   "stem": "Votre supérieur vous demande de modifier un procès-verbal déjà signé pour y ajouter un fait que vous n'avez pas constaté, « pour renforcer le dossier ». Quelle est la conduite la plus appropriée ?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Modifier le procès-verbal comme demandé, puis dénoncer le supérieur de façon anonyme"
+    },
+    {
+     "id": "b",
+     "text": "Quitter immédiatement votre poste et rentrer chez vous pour ne pas être impliqué dans l'affaire"
+    },
+    {
+     "id": "c",
+     "text": "Refuser poliment, expliquer que ce serait un faux et en rendre compte par la voie hiérarchique"
+    },
+    {
+     "id": "d",
+     "text": "Obéir, car la responsabilité d'un ordre reviendra entièrement au supérieur qui l'a donné"
+    }
+   ],
+   "correct": [
+    "c"
+   ],
+   "explanation": "Le devoir d'obéissance porte sur les ordres légitimes : un ordre manifestement illégal, comme celui d'attester un fait non constaté, ne doit pas être exécuté. S'abriter derrière l'ordre reçu (d) n'est pas une protection sûre, car c'est l'agent qui atteste par sa signature des faits qu'il sait inexacts. La bonne attitude combine refus courtois, explication et compte rendu par la voie hiérarchique, sans exécuter d'abord pour dénoncer ensuite (a) ni abandonner son poste (b).",
+   "difficulty": "HARD",
+   "topic_key": "ps.situationnel",
+   "objective_key": "ps.situationnel.o1",
+   "families": [
+    "police-gardien-paix",
+    "police-inspecteur",
+    "police-officier",
+    "garde-nationale",
+    "douane"
+   ],
+   "origin": "AI_GENERATED",
+   "source_key": null,
+   "year": null,
+   "valid_until": null,
+   "tags": [
+    "ordre illégal",
+    "procès-verbal",
+    "obéissance hiérarchique"
+   ]
+  },
+  {
+   "id": "psy-mecanique-situationnel-0041",
+   "type": "MCQ_SINGLE",
+   "language": "ar",
+   "stem": "عُيّنت عضوًا في لجنة لفرز ملفات مناظرة انتداب، ثم اكتشفت أن ابن أخيك من بين المترشّحين. ما التصرّف الأنسب؟",
+   "options": [
+    {
+     "id": "a",
+     "text": "تواصل عملك في اللجنة دون إعلام أحد، لأنك متأكّد من قدرتك على تقييم ملفه بموضوعية تامة"
+    },
+    {
+     "id": "b",
+     "text": "تبقى في اللجنة وتقيّم ملفه بصرامة أكبر من بقية الملفات، حتى تثبت للجميع حيادك"
+    },
+    {
+     "id": "c",
+     "text": "تتّصل بابن أخيك قبل الفرز لتنصحه بكيفية تحسين ملفه وإكمال الوثائق الناقصة"
+    },
+    {
+     "id": "d",
+     "text": "تُعلم الإدارة كتابيًا بتضارب المصالح وتطلب إعفاءك من تقييم ملفه أو من اللجنة"
+    }
+   ],
+   "correct": [
+    "d"
+   ],
+   "explanation": "وجود قريب بين المترشّحين يمثّل تضاربًا في المصالح حتى لو كان العضو نزيهًا، والمطلوب هو التصريح به والتنحّي حتى لا يُشكَّك في نزاهة المناظرة. الثقة في الموضوعية الشخصية لا تكفي، لأن الوضعية نفسها تمسّ بمصداقية الإجراء أمام بقية المترشّحين. والتشدّد المبالغ فيه مع القريب ظلم له ولا يقلّ انحيازًا عن المحاباة، أما الاتصال به لنصحه فإخلال صريح بسرّية أعمال اللجنة وبمبدأ تكافؤ الفرص.",
+   "difficulty": "HARD",
+   "topic_key": "ps.situationnel",
+   "objective_key": "ps.situationnel.o1",
+   "families": [
+    "*"
+   ],
+   "origin": "AI_GENERATED",
+   "source_key": null,
+   "year": null,
+   "valid_until": null,
+   "tags": [
+    "تضارب المصالح",
+    "النزاهة",
+    "لجان الانتداب"
+   ]
+  },
+  {
+   "id": "psy-mecanique-situationnel-0042",
+   "type": "MCQ_MULTI",
+   "language": "fr",
+   "stem": "Un incendie se déclare dans le bâtiment administratif où vous travaillez et l'alarme retentit. Vous êtes chargé d'aider à l'évacuation de votre étage. Quelles actions sont appropriées ?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Laisser chacun retourner chercher ses affaires personnelles"
+    },
+    {
+     "id": "b",
+     "text": "Ouvrir largement les fenêtres de la pièce où se trouve le feu pour évacuer la fumée"
+    },
+    {
+     "id": "c",
+     "text": "Interdire l'utilisation des ascenseurs et diriger les personnes vers les escaliers"
+    },
+    {
+     "id": "d",
+     "text": "Fermer les portes derrière soi, sans les verrouiller, après avoir vérifié que les pièces sont vides"
+    }
+   ],
+   "correct": [
+    "c",
+    "d"
+   ],
+   "explanation": "Les ascenseurs peuvent tomber en panne ou s'ouvrir sur un étage enfumé : l'évacuation se fait par les escaliers (c). Fermer les portes sans les verrouiller ralentit la propagation du feu et de la fumée tout en laissant le passage aux secours (d). Retourner chercher ses affaires (a) fait perdre un temps précieux et expose au danger. Ouvrir les fenêtres de la pièce en feu (b) apporte de l'oxygène et attise l'incendie.",
+   "difficulty": "HARD",
+   "topic_key": "ps.situationnel",
+   "objective_key": "ps.situationnel.o1",
+   "families": [
+    "*"
+   ],
+   "origin": "AI_GENERATED",
+   "source_key": null,
+   "year": null,
+   "valid_until": null,
+   "tags": [
+    "évacuation",
+    "incendie",
+    "sécurité"
+   ]
+  },
+  {
+   "id": "psy-mecanique-situationnel-0043",
+   "type": "ORDERING",
+   "language": "ar",
+   "stem": "تلقّيت شكاية كتابية من مواطن يعتبر أن مطلبه لم يُعالَج في الآجال. رتّب خطوات معالجة الشكاية حسب الترتيب المنطقي.",
+   "options": [
+    {
+     "id": "a",
+     "text": "إعلام المواطن كتابيًا بنتيجة المعالجة"
+    },
+    {
+     "id": "b",
+     "text": "تسجيل الشكاية وإعطاؤها رقمًا وتاريخًا"
+    },
+    {
+     "id": "c",
+     "text": "التثبّت من الوقائع لدى المصلحة المعنية"
+    },
+    {
+     "id": "d",
+     "text": "اتخاذ الإجراء التصحيحي المناسب إن ثبت التقصير"
+    }
+   ],
+   "correct": {
+    "order": [
+     "b",
+     "c",
+     "d",
+     "a"
+    ]
+   },
+   "explanation": "يبدأ مسار الشكاية بالتسجيل الذي يضمن تتبّعها ويثبت تاريخ تلقّيها، ثم التثبّت من الوقائع حتى لا يُتّخذ قرار على أساس رواية طرف واحد. بعد ذلك يُتّخذ الإجراء التصحيحي إن ثبت التقصير، ويُختم المسار بإعلام المواطن بالنتيجة. الخطأ الشائع هو الردّ على المواطن قبل التثبّت، فيُعطى جواب أو وعد قد يتبيّن لاحقًا أنه غير صحيح.",
+   "difficulty": "HARD",
+   "topic_key": "ps.situationnel",
+   "objective_key": "ps.situationnel.o1",
+   "families": [
+    "*"
+   ],
+   "origin": "AI_GENERATED",
+   "source_key": null,
+   "year": null,
+   "valid_until": null,
+   "tags": [
+    "الشكايات",
+    "علاقة الإدارة بالمواطن",
+    "المتابعة"
+   ]
+  },
+  {
+   "id": "psy-mecanique-situationnel-0044",
+   "type": "MCQ_SINGLE",
+   "language": "fr",
+   "stem": "De garde de nuit, vous découvrez dans le dossier d'un patient une prescription dont la dose vous paraît environ dix fois supérieure à la dose habituelle de ce médicament. Le médecin prescripteur est joignable. Quelle est la conduite la plus appropriée ?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Administrer la dose habituelle de votre propre initiative, sans prévenir personne pour ne pas déranger"
+    },
+    {
+     "id": "b",
+     "text": "Ne rien administrer et attendre la visite du lendemain matin, sans prévenir le médecin"
+    },
+    {
+     "id": "c",
+     "text": "Suspendre l'administration et faire vérifier la prescription par le médecin, en consignant l'échange"
+    },
+    {
+     "id": "d",
+     "text": "Administrer la dose prescrite, puisque la prescription engage d'abord la responsabilité du médecin"
+    }
+   ],
+   "correct": [
+    "c"
+   ],
+   "explanation": "Une dose dix fois supérieure évoque une erreur de prescription (par exemple une virgule mal placée) : il faut suspendre et obtenir la vérification du prescripteur, qui est joignable. Administrer sans vérifier (d) peut provoquer un accident grave, et le soignant reste tenu de contrôler ce qu'il administre. Modifier soi-même la dose (a) revient à prescrire sans en avoir la compétence, et attendre le lendemain sans prévenir (b) prive le patient d'un traitement peut-être urgent.",
+   "difficulty": "EXPERT",
+   "topic_key": "ps.situationnel",
+   "objective_key": "ps.situationnel.o1",
+   "families": [
+    "sante-paramedical"
+   ],
+   "origin": "AI_GENERATED",
+   "source_key": null,
+   "year": null,
+   "valid_until": null,
+   "tags": [
+    "sécurité du patient",
+    "erreur de prescription",
+    "santé"
+   ]
+  },
+  {
+   "id": "psy-mecanique-situationnel-0045",
+   "type": "MCQ_SINGLE",
+   "language": "ar",
+   "stem": "مواطن مسنّ لا يحسن القراءة والكتابة يطلب منك، وأنت في الشبّاك، أن تملأ عنه مطبوعًا إداريًا وأن تُمضي مكانه لأنه «يثق بك». ما التصرّف الأنسب؟",
+   "options": [
+    {
+     "id": "a",
+     "text": "تملأ المطبوع وتُمضي مكانه، لأنه طلب منك ذلك صراحة أمام الحاضرين وهو موافق على محتواه"
+    },
+    {
+     "id": "b",
+     "text": "ترفض مساعدته بلطف لأن ملء المطبوعات ليس من مهامك، وتنصحه بالعودة مع أحد أقاربه"
+    },
+    {
+     "id": "c",
+     "text": "تطلب من مواطن آخر في الطابور أن يملأ المطبوع ويُمضي مكانه بحضورك"
+    },
+    {
+     "id": "d",
+     "text": "تساعده على ملء المطبوع وتشرح له كل خانة، دون أن تُمضي مكانه، وفق الإجراء المعمول به"
+    }
+   ],
+   "correct": [
+    "d"
+   ],
+   "explanation": "مساعدة المواطن على فهم المطبوع وملئه تندرج في واجب حسن الاستقبال، خاصة مع كبار السنّ والأشخاص الذين لا يحسنون القراءة. لكن الإمضاء التزام شخصي، والإمضاء مكان غيرك ولو برضاه قد يُعدّ تزويرًا ويحمّلك مسؤولية ما كُتب، لذلك يجب احترام الإجراء المقرّر لمن لا يستطيع الإمضاء. ورفض المساعدة كليًا، ولو بلطف، يُخلّ بواجب خدمة المواطن ويحمّله عناء العودة، وإمضاء مواطن آخر مكانه أسوأ لأنه يُشرك شخصًا لا صفة له.",
+   "difficulty": "EXPERT",
+   "topic_key": "ps.situationnel",
+   "objective_key": "ps.situationnel.o1",
+   "families": [
+    "*"
+   ],
+   "origin": "AI_GENERATED",
+   "source_key": null,
+   "year": null,
+   "valid_until": null,
+   "tags": [
+    "الاستقبال",
+    "الفئات الهشّة",
+    "الإمضاء"
+   ]
+  }
+ ]
+}

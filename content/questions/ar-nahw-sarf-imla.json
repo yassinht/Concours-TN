@@ -1,0 +1,1895 @@
+{
+  "bank": "ar-nahw-sarf-imla",
+  "domain": "ARABIC",
+  "specialty_syllabus": [],
+  "sources": [],
+  "research_notes": "Banque originale (AI_GENERATED) de 45 questions en arabe sur النحو (الإعراب، النواسخ والتوابع)، الصرف (الميزان والمشتقات) والإملاء (الهمزة، الألف اللينة، التاء). Le contenu relève de règles générales de grammaire et d'orthographe arabes (قواعد مدرسية متداولة) : aucune donnée propre à la Tunisie, aucun fait juridique ni chiffre daté, donc pas de valid_until. Choix éditoriaux : les graphies pour lesquelles l'usage diverge entre le Maghreb et l'Orient (مسؤول/مسئول، شؤون/شئون، يقرؤون/يقرءون) ont été volontairement évitées ; les exemples retenus (سُئِل، بيئة، قراءة، تساؤل، شيئًا، أحيا، مُلتقى، إلى/على/حتى/بلى) suivent la norme scolaire la plus répandue. Points à faire relire par un professeur d'arabe : (1) la règle 'شيئًا/جزءًا' (hamza finale après lettre qui se lie ou non) ; (2) l'exception des quatre حروف écrits avec ي (إلى، على، حتى، بلى) vs les أسماء مبنية (لدى، متى، أنّى) ; (3) le classement de «قرّاء» (فعّال) comme صيغة مبالغة et de «عطشان» comme صفة مشبهة ; (4) la question sur «ما» التعجبية (analyse de Sibawayh : نكرة تامة). Le style imite les QCM de langue arabe des concours de la fonction publique tunisienne, sans reprise d'épreuves réelles ni d'ouvrages protégés.",
+  "questions": [
+    {
+      "id": "ar-nahw-sarf-imla-0001",
+      "type": "MCQ_SINGLE",
+      "language": "ar",
+      "stem": "ما إعرابُ كلمة «المترشِّحُ» في جملة: «نجحَ المترشِّحُ في المناظرةِ»؟",
+      "options": [
+        {
+          "id": "a",
+          "text": "فاعل مرفوع وعلامة رفعه الضمة الظاهرة"
+        },
+        {
+          "id": "b",
+          "text": "نائب فاعل مرفوع وعلامة رفعه الضمة الظاهرة"
+        },
+        {
+          "id": "c",
+          "text": "خبر مرفوع وعلامة رفعه الضمة الظاهرة"
+        },
+        {
+          "id": "d",
+          "text": "مبتدأ مرفوع وعلامة رفعه الضمة الظاهرة"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "explanation": "«نجحَ» فعل ماضٍ مبنيّ للمعلوم، و«المترشِّحُ» هو الاسم الذي قام بالفعل وجاء بعده، فهو فاعل مرفوع وعلامة رفعه الضمة الظاهرة. ولا يصحّ إعرابه مبتدأً لأن الجملة فعلية تبدأ بفعل، ولا نائبَ فاعل لأن الفعل لم يُبنَ للمجهول.",
+      "difficulty": "EASY",
+      "topic_key": "ar.nahw",
+      "objective_key": "ar.nahw.o1",
+      "families": [
+        "*"
+      ],
+      "origin": "AI_GENERATED",
+      "source_key": null,
+      "year": null,
+      "valid_until": null,
+      "tags": [
+        "i3rab",
+        "fa3il",
+        "jumla-fi3liya"
+      ]
+    },
+    {
+      "id": "ar-nahw-sarf-imla-0002",
+      "type": "MCQ_SINGLE",
+      "language": "ar",
+      "stem": "في جملة «أعلنتِ الوزارةُ نتائجَ المناظرةِ»، تُعرب كلمة «نتائجَ»:",
+      "options": [
+        {
+          "id": "a",
+          "text": "مفعولًا مطلقًا منصوبًا وعلامة نصبه الفتحة"
+        },
+        {
+          "id": "b",
+          "text": "مفعولًا به منصوبًا وعلامة نصبه الفتحة الظاهرة"
+        },
+        {
+          "id": "c",
+          "text": "حالًا منصوبة وعلامة نصبها الفتحة"
+        },
+        {
+          "id": "d",
+          "text": "تمييزًا منصوبًا وعلامة نصبه الفتحة"
+        }
+      ],
+      "correct": [
+        "b"
+      ],
+      "explanation": "الفعل «أعلنَ» متعدٍّ، و«الوزارةُ» فاعله، و«نتائجَ» هو ما وقع عليه فعل الفاعل، فهو مفعول به منصوب وعلامة نصبه الفتحة الظاهرة، وهو مضاف و«المناظرةِ» مضاف إليه. وليس مفعولًا مطلقًا لأن المفعول المطلق مصدر من لفظ الفعل أو معناه (مثل: أعلنتْ إعلانًا)، وليس حالًا لأن الحال تبيّن هيئة صاحبها وتكون نكرة في الغالب.",
+      "difficulty": "EASY",
+      "topic_key": "ar.nahw",
+      "objective_key": "ar.nahw.o1",
+      "families": [
+        "*"
+      ],
+      "origin": "AI_GENERATED",
+      "source_key": null,
+      "year": null,
+      "valid_until": null,
+      "tags": [
+        "i3rab",
+        "maf3ul-bih"
+      ]
+    },
+    {
+      "id": "ar-nahw-sarf-imla-0003",
+      "type": "MCQ_MULTI",
+      "language": "ar",
+      "stem": "في أيّ الجمل التالية رُفع الفاعل بعلامة إعراب فرعية (غير الضمة)؟ (اختر كل الإجابات الصحيحة)",
+      "options": [
+        {
+          "id": "a",
+          "text": "نجحَ أخوكَ في الاختبارِ."
+        },
+        {
+          "id": "b",
+          "text": "حضرَ المترشِّحونَ في الموعدِ."
+        },
+        {
+          "id": "c",
+          "text": "خرجَ العمّالُ من المصنعِ."
+        },
+        {
+          "id": "d",
+          "text": "وصلَ المديرُ إلى المكتبِ."
+        }
+      ],
+      "correct": [
+        "a",
+        "b"
+      ],
+      "explanation": "«المترشِّحون» جمع مذكر سالم يُرفع بالواو، و«أخوك» من الأسماء الخمسة يُرفع بالواو بشرط إضافته إلى غير ياء المتكلم، فعلامة الرفع فيهما فرعية. أما «المديرُ» فاسم مفرد و«العمّالُ» جمع تكسير، وكلاهما يُرفع بالضمة وهي العلامة الأصلية. والخلط الشائع هو معاملة جمع التكسير معاملة جمع المذكر السالم.",
+      "difficulty": "MEDIUM",
+      "topic_key": "ar.nahw",
+      "objective_key": "ar.nahw.o1",
+      "families": [
+        "*"
+      ],
+      "origin": "AI_GENERATED",
+      "source_key": null,
+      "year": null,
+      "valid_until": null,
+      "tags": [
+        "i3rab",
+        "3alamat-far3iya",
+        "asma-khamsa",
+        "jam3-mudhakkar"
+      ]
+    },
+    {
+      "id": "ar-nahw-sarf-imla-0004",
+      "type": "TRUE_FALSE",
+      "language": "ar",
+      "stem": "في جملة «يُكرَّمُ المتفوِّقونَ في نهايةِ السنةِ»، تُعرب كلمة «المتفوِّقون» فاعلًا مرفوعًا وعلامة رفعه الواو.",
+      "options": [
+        {
+          "id": "a",
+          "text": "صحيح"
+        },
+        {
+          "id": "b",
+          "text": "خطأ"
+        }
+      ],
+      "correct": [
+        "b"
+      ],
+      "explanation": "العبارة خاطئة: الفعل «يُكرَّمُ» مبنيّ للمجهول (ضُمّ أوله وفُتح ما قبل آخره)، فالاسم المرفوع بعده نائب فاعل لا فاعل. أما علامة الرفع فهي الواو فعلًا لأنه جمع مذكر سالم، وهذا ما يجعل العبارة تبدو صحيحة للوهلة الأولى.",
+      "difficulty": "MEDIUM",
+      "topic_key": "ar.nahw",
+      "objective_key": "ar.nahw.o1",
+      "families": [
+        "*"
+      ],
+      "origin": "AI_GENERATED",
+      "source_key": null,
+      "year": null,
+      "valid_until": null,
+      "tags": [
+        "i3rab",
+        "na2ib-fa3il",
+        "mabni-lil-majhul"
+      ]
+    },
+    {
+      "id": "ar-nahw-sarf-imla-0005",
+      "type": "MCQ_SINGLE",
+      "language": "ar",
+      "stem": "ما إعرابُ «مترشِّحونَ» في جملة: «في القاعةِ مترشِّحونَ»؟",
+      "options": [
+        {
+          "id": "a",
+          "text": "فاعل مرفوع وعلامة رفعه الواو"
+        },
+        {
+          "id": "b",
+          "text": "مبتدأ مؤخّر مرفوع وعلامة رفعه الواو"
+        },
+        {
+          "id": "c",
+          "text": "نائب فاعل مرفوع وعلامة رفعه الواو"
+        },
+        {
+          "id": "d",
+          "text": "خبر مقدّم مرفوع وعلامة رفعه الواو"
+        }
+      ],
+      "correct": [
+        "b"
+      ],
+      "explanation": "الجملة اسمية: شبه الجملة «في القاعةِ» متعلّق بمحذوف خبر مقدّم، و«مترشِّحونَ» مبتدأ مؤخّر مرفوع وعلامة رفعه الواو لأنه جمع مذكر سالم. ووجب تقديم الخبر هنا لأن المبتدأ نكرة غير مخصّصة والخبر شبه جملة. ولا يكون «مترشِّحون» فاعلًا ولا نائب فاعل لعدم وجود فعل في الجملة.",
+      "difficulty": "MEDIUM",
+      "topic_key": "ar.nahw",
+      "objective_key": "ar.nahw.o1",
+      "families": [
+        "*"
+      ],
+      "origin": "AI_GENERATED",
+      "source_key": null,
+      "year": null,
+      "valid_until": null,
+      "tags": [
+        "i3rab",
+        "mubtada-mu2akhkhar",
+        "jumla-ismiya"
+      ]
+    },
+    {
+      "id": "ar-nahw-sarf-imla-0006",
+      "type": "MCQ_SINGLE",
+      "language": "ar",
+      "stem": "ما علامة جزم الفعل المضارع في جملة: «لم يَسْعَ المتهاونُ إلى النجاحِ»؟",
+      "options": [
+        {
+          "id": "a",
+          "text": "حذف النون"
+        },
+        {
+          "id": "b",
+          "text": "الفتحة المقدّرة"
+        },
+        {
+          "id": "c",
+          "text": "حذف حرف العلة"
+        },
+        {
+          "id": "d",
+          "text": "السكون الظاهر"
+        }
+      ],
+      "correct": [
+        "c"
+      ],
+      "explanation": "«يسعى» فعل مضارع معتلّ الآخر بالألف، فإذا دخل عليه حرف الجزم «لم» جُزم بحذف حرف العلة وبقيت الفتحة دليلًا عليه: «لم يَسْعَ». أما السكون فعلامة جزم الفعل الصحيح الآخر مثل «لم يكتبْ»، وحذف النون خاصّ بالأفعال الخمسة مثل «لم يسعَوا».",
+      "difficulty": "MEDIUM",
+      "topic_key": "ar.nahw",
+      "objective_key": "ar.nahw.o1",
+      "families": [
+        "*"
+      ],
+      "origin": "AI_GENERATED",
+      "source_key": null,
+      "year": null,
+      "valid_until": null,
+      "tags": [
+        "i3rab",
+        "jazm",
+        "mu3tall-al-akhir"
+      ]
+    },
+    {
+      "id": "ar-nahw-sarf-imla-0007",
+      "type": "MCQ_SINGLE",
+      "language": "ar",
+      "stem": "ما الحكم الإعرابي للفعل «يُكمِلْنَ» في جملة: «المترشِّحاتُ لم يُكمِلْنَ الإجابةَ بعدُ»؟",
+      "options": [
+        {
+          "id": "a",
+          "text": "مضارع مجزوم وعلامة جزمه حذف النون"
+        },
+        {
+          "id": "b",
+          "text": "مضارع مرفوع وعلامة رفعه ثبوت النون"
+        },
+        {
+          "id": "c",
+          "text": "مضارع مجزوم وعلامة جزمه السكون"
+        },
+        {
+          "id": "d",
+          "text": "مضارع مبنيّ على السكون لاتصاله بنون النسوة، في محل جزم"
+        }
+      ],
+      "correct": [
+        "d"
+      ],
+      "explanation": "يُبنى الفعل المضارع على السكون إذا اتصلت به نون النسوة، فلا تظهر عليه علامة إعراب، ويكون في محل جزم بعد «لم». والنون هنا ضمير متصل (نون النسوة) في محل رفع فاعل وليست علامة إعراب، لذلك لا يصحّ القول إنه مجزوم بحذف النون كالأفعال الخمسة، ولا إنه مرفوع بثبوتها.",
+      "difficulty": "HARD",
+      "topic_key": "ar.nahw",
+      "objective_key": "ar.nahw.o1",
+      "families": [
+        "*"
+      ],
+      "origin": "AI_GENERATED",
+      "source_key": null,
+      "year": null,
+      "valid_until": null,
+      "tags": [
+        "i3rab",
+        "bina2",
+        "nun-al-niswa"
+      ]
+    },
+    {
+      "id": "ar-nahw-sarf-imla-0008",
+      "type": "MCQ_SINGLE",
+      "language": "ar",
+      "stem": "ما إعرابُ «ما» في قولنا: «ما أجملَ الانضباطَ في العملِ!»؟",
+      "options": [
+        {
+          "id": "a",
+          "text": "اسم استفهام مبنيّ على السكون في محل رفع مبتدأ"
+        },
+        {
+          "id": "b",
+          "text": "نكرة تامّة بمعنى «شيء» مبنيّة على السكون في محل رفع مبتدأ"
+        },
+        {
+          "id": "c",
+          "text": "اسم موصول مبنيّ على السكون في محل نصب مفعول به"
+        },
+        {
+          "id": "d",
+          "text": "حرف نفي مبنيّ على السكون لا محلّ له من الإعراب"
+        }
+      ],
+      "correct": [
+        "b"
+      ],
+      "explanation": "الجملة تعجّبية على صيغة «ما أفعلَ»، و«ما» فيها نكرة تامّة بمعنى «شيءٌ عظيمٌ» مبنيّة على السكون في محل رفع مبتدأ، وجملة «أجملَ الانضباطَ» في محل رفع خبر، و«الانضباطَ» مفعول به. ولا تكون نافية لأن المعنى إثبات الجمال لا نفيه، ولا استفهامية لأن المتكلّم لا يطلب جوابًا بل يُبدي إعجابه.",
+      "difficulty": "EXPERT",
+      "topic_key": "ar.nahw",
+      "objective_key": "ar.nahw.o1",
+      "families": [
+        "*"
+      ],
+      "origin": "AI_GENERATED",
+      "source_key": null,
+      "year": null,
+      "valid_until": null,
+      "tags": [
+        "i3rab",
+        "ta3ajjub",
+        "mabniyat"
+      ]
+    },
+    {
+      "id": "ar-nahw-sarf-imla-0009",
+      "type": "MCQ_SINGLE",
+      "language": "ar",
+      "stem": "ما إعرابُ «ممطرًا» في جملة: «كانَ الجوُّ ممطرًا»؟",
+      "options": [
+        {
+          "id": "a",
+          "text": "خبر «كان» منصوب وعلامة نصبه الفتحة"
+        },
+        {
+          "id": "b",
+          "text": "مفعول به منصوب وعلامة نصبه الفتحة"
+        },
+        {
+          "id": "c",
+          "text": "اسم «كان» منصوب وعلامة نصبه الفتحة"
+        },
+        {
+          "id": "d",
+          "text": "حال منصوبة وعلامة نصبها الفتحة"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "explanation": "«كان» فعل ماضٍ ناقص يدخل على الجملة الاسمية فيرفع المبتدأ ويسمّى اسمه («الجوُّ»)، وينصب الخبر ويسمّى خبره («ممطرًا»). ولا يكون «ممطرًا» حالًا لأن الجملة لا يتمّ معناها بدونه، فهو ركن في الإسناد وليس فضلة، ولا مفعولًا به لأن «كان» الناقصة لا تنصب مفعولًا.",
+      "difficulty": "EASY",
+      "topic_key": "ar.nahw",
+      "objective_key": "ar.nahw.o2",
+      "families": [
+        "*"
+      ],
+      "origin": "AI_GENERATED",
+      "source_key": null,
+      "year": null,
+      "valid_until": null,
+      "tags": [
+        "nawasikh",
+        "kana-wa-akhawatuha"
+      ]
+    },
+    {
+      "id": "ar-nahw-sarf-imla-0010",
+      "type": "MCQ_SINGLE",
+      "language": "ar",
+      "stem": "في جملة «إنَّ المواظبةَ سبيلُ النجاحِ»، تُعرب «المواظبةَ»:",
+      "options": [
+        {
+          "id": "a",
+          "text": "اسم «إنّ» منصوب وعلامة نصبه الفتحة"
+        },
+        {
+          "id": "b",
+          "text": "خبر «إنّ» منصوب وعلامة نصبه الفتحة"
+        },
+        {
+          "id": "c",
+          "text": "مبتدأ مرفوع وعلامة رفعه الضمة"
+        },
+        {
+          "id": "d",
+          "text": "مفعول به منصوب وعلامة نصبه الفتحة"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "explanation": "«إنّ» حرف توكيد ونصب ينصب المبتدأ ويسمّى اسمه، ويرفع الخبر ويسمّى خبره؛ فـ«المواظبةَ» اسم «إنّ» منصوب، و«سبيلُ» خبرها مرفوع. وكانت «المواظبة» مبتدأً قبل دخول الناسخ لكنها لم تعد تُعرب كذلك بعده، وليست مفعولًا به لأن «إنّ» حرف لا فعل.",
+      "difficulty": "EASY",
+      "topic_key": "ar.nahw",
+      "objective_key": "ar.nahw.o2",
+      "families": [
+        "*"
+      ],
+      "origin": "AI_GENERATED",
+      "source_key": null,
+      "year": null,
+      "valid_until": null,
+      "tags": [
+        "nawasikh",
+        "inna-wa-akhawatuha"
+      ]
+    },
+    {
+      "id": "ar-nahw-sarf-imla-0011",
+      "type": "MCQ_SINGLE",
+      "language": "ar",
+      "stem": "اختر الجملة الصحيحة نحويًّا:",
+      "options": [
+        {
+          "id": "a",
+          "text": "إنَّ المترشِّحونَ مستعدّينَ للاختبارِ."
+        },
+        {
+          "id": "b",
+          "text": "إنَّ المترشِّحينَ مستعدّونَ للاختبارِ."
+        },
+        {
+          "id": "c",
+          "text": "إنَّ المترشِّحينَ مستعدّينَ للاختبارِ."
+        },
+        {
+          "id": "d",
+          "text": "إنَّ المترشِّحونَ مستعدّونَ للاختبارِ."
+        }
+      ],
+      "correct": [
+        "b"
+      ],
+      "explanation": "«إنّ» تنصب اسمها وترفع خبرها؛ واسمها هنا جمع مذكر سالم فيُنصب بالياء «المترشِّحين»، وخبرها جمع مذكر سالم فيُرفع بالواو «مستعدّون». ومن الأخطاء الشائعة نصب الخبر «مستعدّين» كأن «إنّ» تعمل عمل «كان»، أو رفع الاسم «المترشِّحون» بإهمال عمل «إنّ».",
+      "difficulty": "MEDIUM",
+      "topic_key": "ar.nahw",
+      "objective_key": "ar.nahw.o2",
+      "families": [
+        "*"
+      ],
+      "origin": "AI_GENERATED",
+      "source_key": null,
+      "year": null,
+      "valid_until": null,
+      "tags": [
+        "nawasikh",
+        "inna-wa-akhawatuha",
+        "jam3-mudhakkar"
+      ]
+    },
+    {
+      "id": "ar-nahw-sarf-imla-0012",
+      "type": "MCQ_SINGLE",
+      "language": "ar",
+      "stem": "ما إعرابُ «نصفَه» في جملة: «راجعتُ الدرسَ نصفَه»؟",
+      "options": [
+        {
+          "id": "a",
+          "text": "مفعول به ثانٍ منصوب وعلامة نصبه الفتحة"
+        },
+        {
+          "id": "b",
+          "text": "توكيد معنوي منصوب وعلامة نصبه الفتحة"
+        },
+        {
+          "id": "c",
+          "text": "بدل بعض من كل منصوب وعلامة نصبه الفتحة"
+        },
+        {
+          "id": "d",
+          "text": "نعت منصوب وعلامة نصبه الفتحة"
+        }
+      ],
+      "correct": [
+        "c"
+      ],
+      "explanation": "«نصفَه» جزء من «الدرس» وقد اتصل به ضمير يعود على المُبدَل منه، فهو بدل بعض من كل منصوب وعلامة نصبه الفتحة، والهاء ضمير متصل في محل جر بالإضافة. ولا يكون توكيدًا معنويًّا لأن ألفاظ التوكيد المعنوي محصورة (نفس، عين، كل، جميع، كلا، كلتا، عامّة)، ولا مفعولًا به ثانيًا لأن الفعل «راجعَ» لا ينصب إلا مفعولًا واحدًا.",
+      "difficulty": "HARD",
+      "topic_key": "ar.nahw",
+      "objective_key": "ar.nahw.o2",
+      "families": [
+        "*"
+      ],
+      "origin": "AI_GENERATED",
+      "source_key": null,
+      "year": null,
+      "valid_until": null,
+      "tags": [
+        "tawabi3",
+        "badal"
+      ]
+    },
+    {
+      "id": "ar-nahw-sarf-imla-0013",
+      "type": "MCQ_MULTI",
+      "language": "ar",
+      "stem": "أيّ الكلمات التالية من «كان وأخواتها» (الأفعال الناقصة)؟ (اختر كل الإجابات الصحيحة)",
+      "options": [
+        {
+          "id": "a",
+          "text": "لعلَّ"
+        },
+        {
+          "id": "b",
+          "text": "ما زالَ"
+        },
+        {
+          "id": "c",
+          "text": "ظنَّ"
+        },
+        {
+          "id": "d",
+          "text": "أصبحَ"
+        }
+      ],
+      "correct": [
+        "b",
+        "d"
+      ],
+      "explanation": "«أصبحَ» و«ما زالَ» من الأفعال الناقصة التي ترفع المبتدأ وتنصب الخبر مثل «كان». أما «ظنّ» فمن أفعال القلوب التي تنصب مفعولين أصلهما مبتدأ وخبر، و«لعلّ» حرف من أخوات «إنّ» ينصب الاسم ويرفع الخبر؛ فكلاهما من النواسخ لكنهما ليسا من أخوات «كان».",
+      "difficulty": "MEDIUM",
+      "topic_key": "ar.nahw",
+      "objective_key": "ar.nahw.o2",
+      "families": [
+        "*"
+      ],
+      "origin": "AI_GENERATED",
+      "source_key": null,
+      "year": null,
+      "valid_until": null,
+      "tags": [
+        "nawasikh",
+        "kana-wa-akhawatuha"
+      ]
+    },
+    {
+      "id": "ar-nahw-sarf-imla-0014",
+      "type": "MCQ_SINGLE",
+      "language": "ar",
+      "stem": "ما إعرابُ «سهلًا» في جملة: «ظننتُ الامتحانَ سهلًا»؟",
+      "options": [
+        {
+          "id": "a",
+          "text": "تمييز منصوب وعلامة نصبه الفتحة"
+        },
+        {
+          "id": "b",
+          "text": "نعت منصوب وعلامة نصبه الفتحة"
+        },
+        {
+          "id": "c",
+          "text": "مفعول به ثانٍ منصوب وعلامة نصبه الفتحة"
+        },
+        {
+          "id": "d",
+          "text": "حال منصوبة وعلامة نصبها الفتحة"
+        }
+      ],
+      "correct": [
+        "c"
+      ],
+      "explanation": "«ظنّ» من أفعال القلوب التي تدخل على المبتدأ والخبر فتنصبهما مفعولين: «الامتحانَ» مفعول به أول، و«سهلًا» مفعول به ثانٍ منصوب. ولا يكون حالًا لأن الجملة لا يتمّ معناها بدونه («ظننتُ الامتحانَ» وحدها ناقصة الفائدة)، ولا نعتًا لأن النعت يتبع منعوته في التعريف والتنكير، و«الامتحان» معرفة و«سهلًا» نكرة.",
+      "difficulty": "HARD",
+      "topic_key": "ar.nahw",
+      "objective_key": "ar.nahw.o2",
+      "families": [
+        "*"
+      ],
+      "origin": "AI_GENERATED",
+      "source_key": null,
+      "year": null,
+      "valid_until": null,
+      "tags": [
+        "nawasikh",
+        "zanna-wa-akhawatuha"
+      ]
+    },
+    {
+      "id": "ar-nahw-sarf-imla-0015",
+      "type": "MCQ_SINGLE",
+      "language": "ar",
+      "stem": "ما إعرابُ «عِبرةً» في جملة: «إنَّ في تجاربِ السابقينَ لَعِبرةً»؟",
+      "options": [
+        {
+          "id": "a",
+          "text": "خبر «إنّ» منصوب وعلامة نصبه الفتحة"
+        },
+        {
+          "id": "b",
+          "text": "اسم «إنّ» مؤخّر منصوب، واللام الداخلة عليه هي اللام المزحلقة"
+        },
+        {
+          "id": "c",
+          "text": "مفعول به منصوب لفعل محذوف"
+        },
+        {
+          "id": "d",
+          "text": "تمييز منصوب وعلامة نصبه الفتحة"
+        }
+      ],
+      "correct": [
+        "b"
+      ],
+      "explanation": "شبه الجملة «في تجارب السابقين» متعلّق بمحذوف خبر «إنّ» مقدّم، و«عبرةً» اسم «إنّ» مؤخّر منصوب. واللام الداخلة عليه هي لام الابتداء التي زُحلقت من صدر الجملة إلى الاسم المؤخّر لئلا يجتمع مؤكّدان في أول الكلام، ولذلك تُسمّى المزحلقة. أما إعرابه خبرًا فخطأ لأن خبر «إنّ» مرفوع دائمًا، والكلمة هنا منصوبة.",
+      "difficulty": "EXPERT",
+      "topic_key": "ar.nahw",
+      "objective_key": "ar.nahw.o2",
+      "families": [
+        "*"
+      ],
+      "origin": "AI_GENERATED",
+      "source_key": null,
+      "year": null,
+      "valid_until": null,
+      "tags": [
+        "nawasikh",
+        "inna-wa-akhawatuha",
+        "lam-muzahlaqa"
+      ]
+    },
+    {
+      "id": "ar-nahw-sarf-imla-0016",
+      "type": "MCQ_SINGLE",
+      "language": "ar",
+      "stem": "ما وزنُ كلمة «مَكْتَب»؟",
+      "options": [
+        {
+          "id": "a",
+          "text": "مَفْعُول"
+        },
+        {
+          "id": "b",
+          "text": "مُفْعَل"
+        },
+        {
+          "id": "c",
+          "text": "مِفْعَل"
+        },
+        {
+          "id": "d",
+          "text": "مَفْعَل"
+        }
+      ],
+      "correct": [
+        "d"
+      ],
+      "explanation": "نزن الكلمة بمقابلة حروفها الأصلية (ك ت ب) بالفاء والعين واللام، مع الإبقاء على الحرف الزائد بحركته: مَـ + كْـ + تَـ + ب = مَفْعَل، وهو من أوزان اسم المكان المصوغ من الثلاثي. أما «مِفْعَل» بكسر الميم فمن أوزان اسم الآلة (مثل: مِبْرَد)، و«مُفْعَل» بضم الميم وزن اسم المفعول من الرباعي (مثل: مُكْرَم).",
+      "difficulty": "EASY",
+      "topic_key": "ar.sarf",
+      "objective_key": "ar.sarf.o1",
+      "families": [
+        "*"
+      ],
+      "origin": "AI_GENERATED",
+      "source_key": null,
+      "year": null,
+      "valid_until": null,
+      "tags": [
+        "mizan-sarfi",
+        "ism-makan"
+      ]
+    },
+    {
+      "id": "ar-nahw-sarf-imla-0017",
+      "type": "MCQ_SINGLE",
+      "language": "ar",
+      "stem": "ما اسم الفاعل من الفعل «اجتهدَ»؟",
+      "options": [
+        {
+          "id": "a",
+          "text": "مُجتهَد"
+        },
+        {
+          "id": "b",
+          "text": "اجتهاد"
+        },
+        {
+          "id": "c",
+          "text": "مَجهود"
+        },
+        {
+          "id": "d",
+          "text": "مُجتهِد"
+        }
+      ],
+      "correct": [
+        "d"
+      ],
+      "explanation": "يُصاغ اسم الفاعل من غير الثلاثي على وزن مضارعه («يجتهِد») مع إبدال حرف المضارعة ميمًا مضمومة وكسر ما قبل الآخر: مُجتهِد. أما «مُجتهَد» بفتح ما قبل الآخر فعلى وزن اسم المفعول، و«اجتهاد» مصدر، و«مَجهود» اسم مفعول من الثلاثي «جَهَدَ».",
+      "difficulty": "EASY",
+      "topic_key": "ar.sarf",
+      "objective_key": "ar.sarf.o1",
+      "families": [
+        "*"
+      ],
+      "origin": "AI_GENERATED",
+      "source_key": null,
+      "year": null,
+      "valid_until": null,
+      "tags": [
+        "mushtaqqat",
+        "ism-fa3il"
+      ]
+    },
+    {
+      "id": "ar-nahw-sarf-imla-0018",
+      "type": "MCQ_SINGLE",
+      "language": "ar",
+      "stem": "ما اسم المفعول من الفعل «أعلنَ»؟",
+      "options": [
+        {
+          "id": "a",
+          "text": "إعلان"
+        },
+        {
+          "id": "b",
+          "text": "مُعلِن"
+        },
+        {
+          "id": "c",
+          "text": "مُعلَن"
+        },
+        {
+          "id": "d",
+          "text": "مَعْلُون"
+        }
+      ],
+      "correct": [
+        "c"
+      ],
+      "explanation": "«أعلنَ» فعل رباعي، واسم المفعول من غير الثلاثي يُصاغ على وزن مضارعه بإبدال حرف المضارعة ميمًا مضمومة وفتح ما قبل الآخر: مُعلَن. أما «مُعلِن» بالكسر فاسم فاعل، و«إعلان» مصدر، ووزن «مَفْعُول» خاصّ بالفعل الثلاثي فلا يُقال «مَعْلُون».",
+      "difficulty": "EASY",
+      "topic_key": "ar.sarf",
+      "objective_key": "ar.sarf.o1",
+      "families": [
+        "*"
+      ],
+      "origin": "AI_GENERATED",
+      "source_key": null,
+      "year": null,
+      "valid_until": null,
+      "tags": [
+        "mushtaqqat",
+        "ism-maf3ul"
+      ]
+    },
+    {
+      "id": "ar-nahw-sarf-imla-0019",
+      "type": "TRUE_FALSE",
+      "language": "ar",
+      "stem": "وزنُ كلمة «مَدْرَسة» هو «مَفْعَلة».",
+      "options": [
+        {
+          "id": "a",
+          "text": "صحيح"
+        },
+        {
+          "id": "b",
+          "text": "خطأ"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "explanation": "العبارة صحيحة: الحروف الأصلية هي (د ر س)، فتُقابل الدال بالفاء والراء بالعين والسين باللام، وتبقى الميم في أولها والتاء المربوطة في آخرها كما هما: مَفْعَلة. ومن الخطأ الاكتفاء بـ«فَعْل» أو حذف الحروف الزائدة، لأن الزوائد تُذكر في الميزان بلفظها وفي مواضعها.",
+      "difficulty": "EASY",
+      "topic_key": "ar.sarf",
+      "objective_key": "ar.sarf.o1",
+      "families": [
+        "*"
+      ],
+      "origin": "AI_GENERATED",
+      "source_key": null,
+      "year": null,
+      "valid_until": null,
+      "tags": [
+        "mizan-sarfi"
+      ]
+    },
+    {
+      "id": "ar-nahw-sarf-imla-0020",
+      "type": "MCQ_SINGLE",
+      "language": "ar",
+      "stem": "ما وزنُ الفعل «قالَ»؟",
+      "options": [
+        {
+          "id": "a",
+          "text": "فَعَلَ"
+        },
+        {
+          "id": "b",
+          "text": "فَاعَلَ"
+        },
+        {
+          "id": "c",
+          "text": "فَاعَ"
+        },
+        {
+          "id": "d",
+          "text": "فَالَ"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "explanation": "أصل «قالَ» هو «قَوَلَ» (من القول)، فتحرّكت الواو وانفتح ما قبلها فقُلبت ألفًا. والميزان الصرفي يراعي الأصل لا الصورة المنطوقة، فالألف هنا هي عين الكلمة والوزن «فَعَلَ». أما «فَاعَلَ» فوزن الأفعال التي زيدت فيها ألف بعد الفاء مثل «قاتَلَ»، والألف في «قال» ليست زائدة.",
+      "difficulty": "MEDIUM",
+      "topic_key": "ar.sarf",
+      "objective_key": "ar.sarf.o1",
+      "families": [
+        "*"
+      ],
+      "origin": "AI_GENERATED",
+      "source_key": null,
+      "year": null,
+      "valid_until": null,
+      "tags": [
+        "mizan-sarfi",
+        "i3lal"
+      ]
+    },
+    {
+      "id": "ar-nahw-sarf-imla-0021",
+      "type": "MCQ_SINGLE",
+      "language": "ar",
+      "stem": "كلمة «قَرّاء» في جملة «هذا المترشِّحُ قَرّاءٌ للكتبِ» هي:",
+      "options": [
+        {
+          "id": "a",
+          "text": "اسم مفعول من الفعل «قرأ»"
+        },
+        {
+          "id": "b",
+          "text": "صفة مشبّهة على وزن «فَعّال»"
+        },
+        {
+          "id": "c",
+          "text": "اسم فاعل من الفعل «قرأ»"
+        },
+        {
+          "id": "d",
+          "text": "صيغة مبالغة على وزن «فَعّال»"
+        }
+      ],
+      "correct": [
+        "d"
+      ],
+      "explanation": "«قَرّاء» مشتقّ من الفعل الثلاثي «قرأ» على وزن «فَعّال»، وهو من أشهر أوزان صيغ المبالغة التي تدلّ على كثرة وقوع الفعل من صاحبه. أما اسم الفاعل من «قرأ» فهو «قارئ» على وزن «فاعِل» ويدلّ على مجرّد القيام بالفعل دون معنى الكثرة، واسم المفعول منه «مقروء». وليست صفة مشبّهة لأن الصفة المشبّهة تُصاغ غالبًا من الفعل اللازم للدلالة على الثبوت، و«قرأ» فعل متعدٍّ.",
+      "difficulty": "MEDIUM",
+      "topic_key": "ar.sarf",
+      "objective_key": "ar.sarf.o1",
+      "families": [
+        "*"
+      ],
+      "origin": "AI_GENERATED",
+      "source_key": null,
+      "year": null,
+      "valid_until": null,
+      "tags": [
+        "mushtaqqat",
+        "sighat-mubalagha"
+      ]
+    },
+    {
+      "id": "ar-nahw-sarf-imla-0022",
+      "type": "MCQ_SINGLE",
+      "language": "ar",
+      "stem": "أيّ الكلمات التالية صفة مشبّهة؟",
+      "options": [
+        {
+          "id": "a",
+          "text": "شارِب"
+        },
+        {
+          "id": "b",
+          "text": "عَطْشان"
+        },
+        {
+          "id": "c",
+          "text": "مَشْرَب"
+        },
+        {
+          "id": "d",
+          "text": "مَشْروب"
+        }
+      ],
+      "correct": [
+        "b"
+      ],
+      "explanation": "«عطشان» صفة مشبّهة على وزن «فَعْلان» مصوغة من الفعل اللازم «عَطِشَ»، وتدلّ على وصف قائم بصاحبه. أما «شارب» فاسم فاعل من «شرب»، و«مشروب» اسم مفعول منه، و«مَشْرَب» اسم مكان على وزن «مَفْعَل». ومن أوزان الصفة المشبّهة أيضًا: فَعِل (فَرِح) وأَفْعَل (أحمر) وفَعِيل (جميل).",
+      "difficulty": "MEDIUM",
+      "topic_key": "ar.sarf",
+      "objective_key": "ar.sarf.o1",
+      "families": [
+        "*"
+      ],
+      "origin": "AI_GENERATED",
+      "source_key": null,
+      "year": null,
+      "valid_until": null,
+      "tags": [
+        "mushtaqqat",
+        "sifa-mushabbaha"
+      ]
+    },
+    {
+      "id": "ar-nahw-sarf-imla-0023",
+      "type": "MCQ_MULTI",
+      "language": "ar",
+      "stem": "اختر الكلمات المشتقّة من بين ما يلي: (اختر كل الإجابات الصحيحة)",
+      "options": [
+        {
+          "id": "a",
+          "text": "مُحاسِب"
+        },
+        {
+          "id": "b",
+          "text": "مَلْعَب"
+        },
+        {
+          "id": "c",
+          "text": "شَجَرة"
+        },
+        {
+          "id": "d",
+          "text": "قَلَم"
+        }
+      ],
+      "correct": [
+        "a",
+        "b"
+      ],
+      "explanation": "«مَلْعَب» اسم مكان من «لَعِبَ» على وزن «مَفْعَل»، و«مُحاسِب» اسم فاعل من «حاسَبَ» على وزن مضارعه مع ميم مضمومة وكسر ما قبل الآخر، فهما مشتقّان. أما «شجرة» و«قلم» فاسمان جامدان يدلّان على ذوات، ولم يُصاغا من فعل على وزن قياسي من أوزان المشتقّات.",
+      "difficulty": "MEDIUM",
+      "topic_key": "ar.sarf",
+      "objective_key": "ar.sarf.o1",
+      "families": [
+        "*"
+      ],
+      "origin": "AI_GENERATED",
+      "source_key": null,
+      "year": null,
+      "valid_until": null,
+      "tags": [
+        "mushtaqqat",
+        "jamid-wa-mushtaqq"
+      ]
+    },
+    {
+      "id": "ar-nahw-sarf-imla-0024",
+      "type": "TRUE_FALSE",
+      "language": "ar",
+      "stem": "يُصاغ اسم الفاعل من الفعل غير الثلاثي على وزن مضارعه، مع إبدال حرف المضارعة ميمًا مضمومة وكسر ما قبل الآخر.",
+      "options": [
+        {
+          "id": "a",
+          "text": "صحيح"
+        },
+        {
+          "id": "b",
+          "text": "خطأ"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "explanation": "العبارة صحيحة، ومثالها: يُنظِّم ← مُنظِّم، يستقبِل ← مُستقبِل. ولو فُتح ما قبل الآخر لصار اللفظ اسمَ مفعول (مُنظَّم، مُستقبَل)، وهذا موضع الخلط الشائع بين الصيغتين. أما الفعل الثلاثي فيُصاغ منه اسم الفاعل على وزن «فاعِل».",
+      "difficulty": "MEDIUM",
+      "topic_key": "ar.sarf",
+      "objective_key": "ar.sarf.o1",
+      "families": [
+        "*"
+      ],
+      "origin": "AI_GENERATED",
+      "source_key": null,
+      "year": null,
+      "valid_until": null,
+      "tags": [
+        "mushtaqqat",
+        "ism-fa3il"
+      ]
+    },
+    {
+      "id": "ar-nahw-sarf-imla-0025",
+      "type": "NUMERIC",
+      "language": "ar",
+      "stem": "كم عدد الحروف الزائدة في كلمة «اسْتِخْراج»؟ (أدخل عددًا)",
+      "options": [],
+      "correct": {
+        "value": 4,
+        "tolerance": 0
+      },
+      "explanation": "جذر الكلمة ثلاثي هو (خ ر ج)، وعدد حروفها سبعة: ا س ت خ ر ا ج، فالزائد أربعة أحرف هي همزة الوصل والسين والتاء في أولها والألف قبل آخرها، ووزنها «اسْتِفْعال». ومن الخطأ عدّ ثلاثة أحرف فقط بإغفال الألف التي قبل الآخر.",
+      "difficulty": "MEDIUM",
+      "topic_key": "ar.sarf",
+      "objective_key": "ar.sarf.o1",
+      "families": [
+        "*"
+      ],
+      "origin": "AI_GENERATED",
+      "source_key": null,
+      "year": null,
+      "valid_until": null,
+      "tags": [
+        "mizan-sarfi",
+        "huruf-ziyada"
+      ]
+    },
+    {
+      "id": "ar-nahw-sarf-imla-0026",
+      "type": "MATCHING",
+      "language": "ar",
+      "stem": "اربط كل كلمة بنوع المشتقّ الذي تمثّله.",
+      "options": [
+        {
+          "id": "l1",
+          "text": "مِنْشار",
+          "side": "left"
+        },
+        {
+          "id": "l2",
+          "text": "مَصْنَع",
+          "side": "left"
+        },
+        {
+          "id": "l3",
+          "text": "مَكْتوب",
+          "side": "left"
+        },
+        {
+          "id": "l4",
+          "text": "عَلّامة",
+          "side": "left"
+        },
+        {
+          "id": "r1",
+          "text": "اسم مفعول",
+          "side": "right"
+        },
+        {
+          "id": "r2",
+          "text": "اسم آلة",
+          "side": "right"
+        },
+        {
+          "id": "r3",
+          "text": "صيغة مبالغة",
+          "side": "right"
+        },
+        {
+          "id": "r4",
+          "text": "اسم مكان",
+          "side": "right"
+        }
+      ],
+      "correct": {
+        "pairs": [
+          [
+            "l1",
+            "r2"
+          ],
+          [
+            "l2",
+            "r4"
+          ],
+          [
+            "l3",
+            "r1"
+          ],
+          [
+            "l4",
+            "r3"
+          ]
+        ]
+      },
+      "explanation": "«مِنْشار» على وزن «مِفْعال» من أوزان اسم الآلة، و«مَصْنَع» على وزن «مَفْعَل» ويدلّ على مكان الصنع، و«مَكْتوب» على وزن «مَفْعول» وهو اسم المفعول من الثلاثي، و«عَلّامة» على وزن «فَعّالة» من أوزان المبالغة والتاء فيه للمبالغة لا للتأنيث. ويكثر الخلط بين «مِفْعال» للآلة و«مَفْعَل» للمكان، والفرق في حركة الميم وبنية الكلمة.",
+      "difficulty": "MEDIUM",
+      "topic_key": "ar.sarf",
+      "objective_key": "ar.sarf.o1",
+      "families": [
+        "*"
+      ],
+      "origin": "AI_GENERATED",
+      "source_key": null,
+      "year": null,
+      "valid_until": null,
+      "tags": [
+        "mushtaqqat"
+      ]
+    },
+    {
+      "id": "ar-nahw-sarf-imla-0027",
+      "type": "MCQ_SINGLE",
+      "language": "ar",
+      "stem": "ما جذرُ كلمة «اتِّفاق»؟",
+      "options": [
+        {
+          "id": "a",
+          "text": "و ف ق"
+        },
+        {
+          "id": "b",
+          "text": "ت ف ق"
+        },
+        {
+          "id": "c",
+          "text": "ف و ق"
+        },
+        {
+          "id": "d",
+          "text": "أ ف ق"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "explanation": "«اتِّفاق» مصدر الفعل «اتّفق» على وزن «افْتِعال»، وأصله «اوْتِفاق»: وقعت فاء الافتعال واوًا فقُلبت تاءً وأُدغمت في تاء الافتعال فصارت تاءً مشدّدة. فالتاء الأولى ليست أصلية والجذر هو (و ف ق)، ويظهر ذلك في «وِفاق» و«توفيق» و«موافقة». ومن يعدّ التاء أصلية يقع في الجذر الخاطئ (ت ف ق).",
+      "difficulty": "HARD",
+      "topic_key": "ar.sarf",
+      "objective_key": "ar.sarf.o1",
+      "families": [
+        "*"
+      ],
+      "origin": "AI_GENERATED",
+      "source_key": null,
+      "year": null,
+      "valid_until": null,
+      "tags": [
+        "jadhr",
+        "ibdal",
+        "ifti3al"
+      ]
+    },
+    {
+      "id": "ar-nahw-sarf-imla-0028",
+      "type": "MCQ_SINGLE",
+      "language": "ar",
+      "stem": "ما اسم المفعول من الفعل «قالَ»؟",
+      "options": [
+        {
+          "id": "a",
+          "text": "قائِل"
+        },
+        {
+          "id": "b",
+          "text": "مَقُول"
+        },
+        {
+          "id": "c",
+          "text": "مَقْوُول"
+        },
+        {
+          "id": "d",
+          "text": "مُقال"
+        }
+      ],
+      "correct": [
+        "b"
+      ],
+      "explanation": "يُصاغ اسم المفعول من الثلاثي على وزن «مَفْعول»، فالأصل «مَقْوُول»؛ ثم نُقلت حركة الواو الأولى (عين الكلمة) إلى القاف الساكنة قبلها، فالتقى ساكنان فحُذفت إحدى الواوين فصارت «مَقُول». أما «مُقال» فاسم مفعول من الرباعي «أقالَ»، و«قائل» اسم فاعل من «قال».",
+      "difficulty": "HARD",
+      "topic_key": "ar.sarf",
+      "objective_key": "ar.sarf.o1",
+      "families": [
+        "*"
+      ],
+      "origin": "AI_GENERATED",
+      "source_key": null,
+      "year": null,
+      "valid_until": null,
+      "tags": [
+        "mushtaqqat",
+        "ism-maf3ul",
+        "i3lal"
+      ]
+    },
+    {
+      "id": "ar-nahw-sarf-imla-0029",
+      "type": "MCQ_SINGLE",
+      "language": "ar",
+      "stem": "ما وزنُ كلمة «مِيزان» وما جذرُها؟",
+      "options": [
+        {
+          "id": "a",
+          "text": "مِفْعال، والجذر (و ز ن)"
+        },
+        {
+          "id": "b",
+          "text": "فِيعال، والجذر (م ز ن)"
+        },
+        {
+          "id": "c",
+          "text": "فِعْلان، والجذر (م ي ز)"
+        },
+        {
+          "id": "d",
+          "text": "مِفْعال، والجذر (ي ز ن)"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "explanation": "«ميزان» اسم آلة من «وَزَنَ» على وزن «مِفْعال»، وأصله «مِوْزان»: سكنت الواو وانكسر ما قبلها فقُلبت ياءً، فالياء منقلبة عن واو والجذر (و ز ن)، ويؤكّد ذلك الفعل «وزنَ» والجمع «موازين». أما جعل الميم أصلية فخطأ لأنها ميم اسم الآلة الزائدة، وجعل الياء أصلية يُغفل القلب الذي طرأ على الواو.",
+      "difficulty": "HARD",
+      "topic_key": "ar.sarf",
+      "objective_key": "ar.sarf.o1",
+      "families": [
+        "*"
+      ],
+      "origin": "AI_GENERATED",
+      "source_key": null,
+      "year": null,
+      "valid_until": null,
+      "tags": [
+        "mizan-sarfi",
+        "jadhr",
+        "i3lal",
+        "ism-ala"
+      ]
+    },
+    {
+      "id": "ar-nahw-sarf-imla-0030",
+      "type": "MCQ_SINGLE",
+      "language": "ar",
+      "stem": "ما وزنُ الفعل «اصْطَبَرَ»؟",
+      "options": [
+        {
+          "id": "a",
+          "text": "افْتَعَلَ"
+        },
+        {
+          "id": "b",
+          "text": "افْعَلَّ"
+        },
+        {
+          "id": "c",
+          "text": "اسْتَفْعَلَ"
+        },
+        {
+          "id": "d",
+          "text": "افْطَعَلَ"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "explanation": "أصل الفعل «اصْتَبَرَ» على وزن «افْتَعَلَ» من الجذر (ص ب ر)، فلما وقعت تاء الافتعال بعد حرف من حروف الإطباق (الصاد) أُبدلت طاءً لتيسير النطق فصار «اصطبر». والإبدال لا يظهر في الميزان، لأن الطاء منقلبة عن تاء الافتعال الزائدة، فلا يُقال «افْطَعَلَ». ومثله: اضطربَ، واطّلعَ، وازدحمَ (أُبدلت فيه التاء دالًا).",
+      "difficulty": "EXPERT",
+      "topic_key": "ar.sarf",
+      "objective_key": "ar.sarf.o1",
+      "families": [
+        "*"
+      ],
+      "origin": "AI_GENERATED",
+      "source_key": null,
+      "year": null,
+      "valid_until": null,
+      "tags": [
+        "mizan-sarfi",
+        "ibdal",
+        "ifti3al"
+      ]
+    },
+    {
+      "id": "ar-nahw-sarf-imla-0031",
+      "type": "MCQ_SINGLE",
+      "language": "ar",
+      "stem": "اختر الكتابة الصحيحة: «___ المترشِّحُ عن سببِ تأخّرِه».",
+      "options": [
+        {
+          "id": "a",
+          "text": "سُئِلَ"
+        },
+        {
+          "id": "b",
+          "text": "سُؤِلَ"
+        },
+        {
+          "id": "c",
+          "text": "سُءِلَ"
+        },
+        {
+          "id": "d",
+          "text": "سُأِلَ"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "explanation": "الهمزة متوسطة مكسورة وما قبلها مضموم، والقاعدة أن تُكتب الهمزة المتوسطة على الحرف الذي يناسب أقوى الحركتين (حركتها وحركة ما قبلها). والكسرة أقوى الحركات فتُكتب على نبرة: «سُئِلَ». ومن الخطأ كتابتها على الواو مراعاةً للضمة التي قبلها، لأن الضمة أضعف من الكسرة.",
+      "difficulty": "EASY",
+      "topic_key": "ar.imla",
+      "objective_key": "ar.imla.o1",
+      "families": [
+        "*"
+      ],
+      "origin": "AI_GENERATED",
+      "source_key": null,
+      "year": null,
+      "valid_until": null,
+      "tags": [
+        "hamza-mutawassita"
+      ]
+    },
+    {
+      "id": "ar-nahw-sarf-imla-0032",
+      "type": "MCQ_SINGLE",
+      "language": "ar",
+      "stem": "أيّ الكلمات التالية كُتبت همزتُها كتابةً خاطئة؟",
+      "options": [
+        {
+          "id": "a",
+          "text": "اجتماع"
+        },
+        {
+          "id": "b",
+          "text": "انتخاب"
+        },
+        {
+          "id": "c",
+          "text": "إعلان"
+        },
+        {
+          "id": "d",
+          "text": "إستقبال"
+        }
+      ],
+      "correct": [
+        "d"
+      ],
+      "explanation": "«استقبال» مصدر الفعل السداسي «استقبلَ»، وهمزة مصدر الخماسي والسداسي همزة وصل لا تُرسم تحتها همزة، فالصواب «استقبال». أما «إعلان» فمصدر الرباعي «أعلنَ» وهمزته همزة قطع فكتابتها بالهمزة صحيحة، و«انتخاب» و«اجتماع» مصدران خماسيان كُتبت همزتاهما همزتَي وصل كما يجب.",
+      "difficulty": "EASY",
+      "topic_key": "ar.imla",
+      "objective_key": "ar.imla.o1",
+      "families": [
+        "*"
+      ],
+      "origin": "AI_GENERATED",
+      "source_key": null,
+      "year": null,
+      "valid_until": null,
+      "tags": [
+        "hamzat-wasl",
+        "hamzat-qat3"
+      ]
+    },
+    {
+      "id": "ar-nahw-sarf-imla-0033",
+      "type": "MCQ_SINGLE",
+      "language": "ar",
+      "stem": "أيّ الكلمات التالية تنتهي بتاء مربوطة؟",
+      "options": [
+        {
+          "id": "a",
+          "text": "بيت"
+        },
+        {
+          "id": "b",
+          "text": "وقت"
+        },
+        {
+          "id": "c",
+          "text": "أصوات"
+        },
+        {
+          "id": "d",
+          "text": "قُضاة"
+        }
+      ],
+      "correct": [
+        "d"
+      ],
+      "explanation": "«قُضاة» جمع تكسير لـ«قاضٍ»، والتاء في آخره زائدة تُنطق هاءً عند الوقف (قضاهْ)، فتُكتب مربوطة. أما «أصوات» و«بيت» و«وقت» فالتاء فيها أصلية من جذر الكلمة (ص و ت، ب ي ت، و ق ت) فتُكتب مفتوحة. وأيسر طريقة للتمييز هي الوقف على الكلمة: فإن نُطقت التاء هاءً فهي مربوطة.",
+      "difficulty": "EASY",
+      "topic_key": "ar.imla",
+      "objective_key": "ar.imla.o1",
+      "families": [
+        "*"
+      ],
+      "origin": "AI_GENERATED",
+      "source_key": null,
+      "year": null,
+      "valid_until": null,
+      "tags": [
+        "ta-marbuta",
+        "ta-maftuha"
+      ]
+    },
+    {
+      "id": "ar-nahw-sarf-imla-0034",
+      "type": "TRUE_FALSE",
+      "language": "ar",
+      "stem": "همزةُ الفعل الرباعي «أَرْسَلَ» وهمزةُ مصدره «إِرْسال» همزتا قطع.",
+      "options": [
+        {
+          "id": "a",
+          "text": "صحيح"
+        },
+        {
+          "id": "b",
+          "text": "خطأ"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "explanation": "العبارة صحيحة: همزة الماضي الرباعي وأمره ومصدره همزة قطع تُكتب دائمًا وتُنطق في الابتداء وفي درج الكلام، فنقول: «أرسلَ»، «أرسِلْ»، «إرسال». ويقع الخلط حين يُعامل مصدر الرباعي معاملة مصدر الخماسي والسداسي (مثل «انتخاب» و«استقبال») الذي همزته همزة وصل.",
+      "difficulty": "EASY",
+      "topic_key": "ar.imla",
+      "objective_key": "ar.imla.o1",
+      "families": [
+        "*"
+      ],
+      "origin": "AI_GENERATED",
+      "source_key": null,
+      "year": null,
+      "valid_until": null,
+      "tags": [
+        "hamzat-qat3"
+      ]
+    },
+    {
+      "id": "ar-nahw-sarf-imla-0035",
+      "type": "MCQ_SINGLE",
+      "language": "ar",
+      "stem": "اختر الكتابة الصحيحة: «جلسنا على ___ البحرِ».",
+      "options": [
+        {
+          "id": "a",
+          "text": "شاطؤِ"
+        },
+        {
+          "id": "b",
+          "text": "شاطأِ"
+        },
+        {
+          "id": "c",
+          "text": "شاطئِ"
+        },
+        {
+          "id": "d",
+          "text": "شاطءِ"
+        }
+      ],
+      "correct": [
+        "c"
+      ],
+      "explanation": "الهمزة هنا متطرّفة (في آخر الكلمة) وما قبلها مكسور (الطاء)، والهمزة المتطرّفة تُكتب على حرف يناسب حركة ما قبلها فقط: على الياء (نبرة) بعد الكسر، وعلى الواو بعد الضم، وعلى الألف بعد الفتح، وعلى السطر بعد السكون. فالصواب «شاطئ»، ولا عبرة بحركة الهمزة نفسها في آخر الكلمة.",
+      "difficulty": "EASY",
+      "topic_key": "ar.imla",
+      "objective_key": "ar.imla.o1",
+      "families": [
+        "*"
+      ],
+      "origin": "AI_GENERATED",
+      "source_key": null,
+      "year": null,
+      "valid_until": null,
+      "tags": [
+        "hamza-mutatarrifa"
+      ]
+    },
+    {
+      "id": "ar-nahw-sarf-imla-0036",
+      "type": "MCQ_SINGLE",
+      "language": "ar",
+      "stem": "أيّ الأفعال التالية كُتبت ألفه اللينة كتابةً صحيحة؟",
+      "options": [
+        {
+          "id": "a",
+          "text": "سَمَى"
+        },
+        {
+          "id": "b",
+          "text": "سَعَا"
+        },
+        {
+          "id": "c",
+          "text": "دَعَى"
+        },
+        {
+          "id": "d",
+          "text": "رَمَى"
+        }
+      ],
+      "correct": [
+        "d"
+      ],
+      "explanation": "تُكتب الألف اللينة في آخر الفعل الثلاثي ياءً إذا كان أصلها ياءً، وألفًا قائمة إذا كان أصلها واوًا، ويُعرف الأصل بالمضارع أو المصدر أو بإسناد الفعل إلى تاء الفاعل. فـ«رمى» من «يرمي، رميتُ» فتُكتب «رَمَى»، و«سعى» أصلها ياء («سعيتُ، سعيًا») فلا تُكتب «سعا»، أما «دعا» و«سما» فأصلهما واو («يدعو، يسمو») فلا تُكتبان بالياء.",
+      "difficulty": "MEDIUM",
+      "topic_key": "ar.imla",
+      "objective_key": "ar.imla.o1",
+      "families": [
+        "*"
+      ],
+      "origin": "AI_GENERATED",
+      "source_key": null,
+      "year": null,
+      "valid_until": null,
+      "tags": [
+        "alif-layyina"
+      ]
+    },
+    {
+      "id": "ar-nahw-sarf-imla-0037",
+      "type": "MCQ_SINGLE",
+      "language": "ar",
+      "stem": "أيّ الكلمات التالية كُتبت خطأً؟",
+      "options": [
+        {
+          "id": "a",
+          "text": "مُلْتَقا"
+        },
+        {
+          "id": "b",
+          "text": "قَضايا"
+        },
+        {
+          "id": "c",
+          "text": "مُسْتَشْفى"
+        },
+        {
+          "id": "d",
+          "text": "دُنْيا"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "explanation": "تُكتب الألف اللينة في آخر الاسم الزائد على ثلاثة أحرف ياءً (مستشفى، مصطفى، ملتقى)، إلا إذا سُبقت بياء فتُكتب ألفًا قائمة منعًا لتوالي ياءين، مثل «دنيا» و«قضايا» و«زوايا». لذلك فالصواب «مُلتقى» لا «مُلتقا»، أما «دنيا» و«قضايا» فصحيحتان رغم أنهما فوق الثلاثي لأن ما قبل الألف ياء.",
+      "difficulty": "MEDIUM",
+      "topic_key": "ar.imla",
+      "objective_key": "ar.imla.o1",
+      "families": [
+        "*"
+      ],
+      "origin": "AI_GENERATED",
+      "source_key": null,
+      "year": null,
+      "valid_until": null,
+      "tags": [
+        "alif-layyina"
+      ]
+    },
+    {
+      "id": "ar-nahw-sarf-imla-0038",
+      "type": "MCQ_SINGLE",
+      "language": "ar",
+      "stem": "اختر الكتابة الصحيحة: «تحرصُ الدولةُ على حمايةِ ___».",
+      "options": [
+        {
+          "id": "a",
+          "text": "البيءة"
+        },
+        {
+          "id": "b",
+          "text": "البيأة"
+        },
+        {
+          "id": "c",
+          "text": "البيؤة"
+        },
+        {
+          "id": "d",
+          "text": "البيئة"
+        }
+      ],
+      "correct": [
+        "d"
+      ],
+      "explanation": "الهمزة متوسطة مفتوحة وقبلها ياء ساكنة، والقاعدة أن الهمزة المتوسطة المفتوحة المسبوقة بياء ساكنة تُكتب على نبرة، مثل «بيئة» و«هيئة» و«خطيئة». ومن الخطأ كتابتها على الألف مراعاةً لفتحتها، لأن الياء الساكنة قبلها تفرض رسمها على النبرة.",
+      "difficulty": "MEDIUM",
+      "topic_key": "ar.imla",
+      "objective_key": "ar.imla.o1",
+      "families": [
+        "*"
+      ],
+      "origin": "AI_GENERATED",
+      "source_key": null,
+      "year": null,
+      "valid_until": null,
+      "tags": [
+        "hamza-mutawassita"
+      ]
+    },
+    {
+      "id": "ar-nahw-sarf-imla-0039",
+      "type": "MCQ_SINGLE",
+      "language": "ar",
+      "stem": "اختر الكتابة الصحيحة: «تساعدُ ___ المنتظمةُ على النجاحِ في المناظرات».",
+      "options": [
+        {
+          "id": "a",
+          "text": "القراأة"
+        },
+        {
+          "id": "b",
+          "text": "القراءة"
+        },
+        {
+          "id": "c",
+          "text": "القرأة"
+        },
+        {
+          "id": "d",
+          "text": "القرائة"
+        }
+      ],
+      "correct": [
+        "b"
+      ],
+      "explanation": "الهمزة متوسطة مفتوحة وقبلها ألف ساكنة، والقاعدة أن الهمزة المتوسطة المفتوحة بعد ألف تُكتب منفردة على السطر، مثل «قراءة» و«عباءة» و«تساءَلَ»، لأنه لا يُجمع بين ألفين متتاليتين. أما «القرائة» على النبرة فخطأ شائع، إذ لا كسرة في الهمزة ولا فيما قبلها تُبرّر رسمها على النبرة.",
+      "difficulty": "MEDIUM",
+      "topic_key": "ar.imla",
+      "objective_key": "ar.imla.o1",
+      "families": [
+        "*"
+      ],
+      "origin": "AI_GENERATED",
+      "source_key": null,
+      "year": null,
+      "valid_until": null,
+      "tags": [
+        "hamza-mutawassita"
+      ]
+    },
+    {
+      "id": "ar-nahw-sarf-imla-0040",
+      "type": "MCQ_MULTI",
+      "language": "ar",
+      "stem": "اختر الكلمات التي كُتبت فيها الهمزة المتوسطة كتابةً صحيحة: (اختر كل الإجابات الصحيحة)",
+      "options": [
+        {
+          "id": "a",
+          "text": "سُأَال"
+        },
+        {
+          "id": "b",
+          "text": "رَأْس"
+        },
+        {
+          "id": "c",
+          "text": "مُؤْتَمَر"
+        },
+        {
+          "id": "d",
+          "text": "فِأَة"
+        }
+      ],
+      "correct": [
+        "b",
+        "c"
+      ],
+      "explanation": "في «مُؤتمر» الهمزة ساكنة وقبلها ضمّة، والضمّة أقوى فتُكتب على الواو؛ وفي «رأس» الهمزة ساكنة وقبلها فتحة فتُكتب على الألف. أما «فِأَة» فخطأ لأن الكسرة قبل الهمزة أقوى من فتحتها فالصواب «فِئة»، و«سُأَال» خطأ لأن الضمّة قبل الهمزة أقوى من فتحتها فالصواب «سُؤال».",
+      "difficulty": "MEDIUM",
+      "topic_key": "ar.imla",
+      "objective_key": "ar.imla.o1",
+      "families": [
+        "*"
+      ],
+      "origin": "AI_GENERATED",
+      "source_key": null,
+      "year": null,
+      "valid_until": null,
+      "tags": [
+        "hamza-mutawassita"
+      ]
+    },
+    {
+      "id": "ar-nahw-sarf-imla-0041",
+      "type": "ORDERING",
+      "language": "ar",
+      "stem": "رتّب الحركات التالية من الأقوى إلى الأضعف حسب قاعدة كتابة الهمزة المتوسطة:",
+      "options": [
+        {
+          "id": "a",
+          "text": "الفتحة"
+        },
+        {
+          "id": "b",
+          "text": "الكسرة"
+        },
+        {
+          "id": "c",
+          "text": "السكون"
+        },
+        {
+          "id": "d",
+          "text": "الضمة"
+        }
+      ],
+      "correct": {
+        "order": [
+          "b",
+          "d",
+          "a",
+          "c"
+        ]
+      },
+      "explanation": "تُكتب الهمزة المتوسطة على الحرف المناسب لأقوى الحركتين: حركتها وحركة ما قبلها. وترتيب القوة: الكسرة (وتناسبها النبرة)، ثم الضمة (وتناسبها الواو)، ثم الفتحة (وتناسبها الألف)، ثم السكون. مثال ذلك: «سُئِل» على النبرة لأن الكسرة أقوى من الضمة، و«مُؤْتمر» على الواو لأن الضمة أقوى من السكون.",
+      "difficulty": "MEDIUM",
+      "topic_key": "ar.imla",
+      "objective_key": "ar.imla.o1",
+      "families": [
+        "*"
+      ],
+      "origin": "AI_GENERATED",
+      "source_key": null,
+      "year": null,
+      "valid_until": null,
+      "tags": [
+        "hamza-mutawassita"
+      ]
+    },
+    {
+      "id": "ar-nahw-sarf-imla-0042",
+      "type": "MCQ_SINGLE",
+      "language": "ar",
+      "stem": "أيّ الكلمات التالية كُتبت كتابةً صحيحة؟",
+      "options": [
+        {
+          "id": "a",
+          "text": "تسأُّل"
+        },
+        {
+          "id": "b",
+          "text": "تساءُل"
+        },
+        {
+          "id": "c",
+          "text": "تساؤُل"
+        },
+        {
+          "id": "d",
+          "text": "تسائُل"
+        }
+      ],
+      "correct": [
+        "c"
+      ],
+      "explanation": "الهمزة متوسطة مضمومة وقبلها ألف ساكنة، فأقوى الحركتين الضمة، فتُكتب على الواو: «تساؤُل»، ومثلها «تفاؤُل» و«تشاؤُم». أما الكتابة على السطر «تساءُل» فخاصة بالهمزة المفتوحة بعد الألف كما في الفعل «تساءَلَ»، ومن هنا يقع الخلط بين الفعل ومصدره.",
+      "difficulty": "HARD",
+      "topic_key": "ar.imla",
+      "objective_key": "ar.imla.o1",
+      "families": [
+        "*"
+      ],
+      "origin": "AI_GENERATED",
+      "source_key": null,
+      "year": null,
+      "valid_until": null,
+      "tags": [
+        "hamza-mutawassita"
+      ]
+    },
+    {
+      "id": "ar-nahw-sarf-imla-0043",
+      "type": "MCQ_SINGLE",
+      "language": "ar",
+      "stem": "اختر الكتابة الصحيحة: «لم يفهمِ المترشِّحُ ___ من السؤالِ» (كلمة «شيء» منوّنة بالفتح).",
+      "options": [
+        {
+          "id": "a",
+          "text": "شيأً"
+        },
+        {
+          "id": "b",
+          "text": "شيءً"
+        },
+        {
+          "id": "c",
+          "text": "شيئًا"
+        },
+        {
+          "id": "d",
+          "text": "شيءًا"
+        }
+      ],
+      "correct": [
+        "c"
+      ],
+      "explanation": "«شيء» تنتهي بهمزة متطرّفة على السطر مسبوقة بحرف ساكن يتّصل بما بعده (الياء). فإذا نُوّنت بالفتح وزيدت ألف التنوين صارت الهمزة في حكم المتوسطة فتُكتب على نبرة: «شيئًا»، ومثلها «عِبئًا» و«دِفئًا». أما إذا كان الحرف السابق لا يتّصل بما بعده، مثل الزاي في «جزء»، فتبقى الهمزة على السطر: «جزءًا».",
+      "difficulty": "HARD",
+      "topic_key": "ar.imla",
+      "objective_key": "ar.imla.o1",
+      "families": [
+        "*"
+      ],
+      "origin": "AI_GENERATED",
+      "source_key": null,
+      "year": null,
+      "valid_until": null,
+      "tags": [
+        "hamza-mutatarrifa",
+        "tanwin-nasb"
+      ]
+    },
+    {
+      "id": "ar-nahw-sarf-imla-0044",
+      "type": "TRUE_FALSE",
+      "language": "ar",
+      "stem": "تُكتب الكلمة «أَحْيى» بالياء في آخرها، لأن الألف اللينة في آخر الفعل الزائد على ثلاثة أحرف تُكتب ياءً.",
+      "options": [
+        {
+          "id": "a",
+          "text": "صحيح"
+        },
+        {
+          "id": "b",
+          "text": "خطأ"
+        }
+      ],
+      "correct": [
+        "b"
+      ],
+      "explanation": "العبارة خاطئة: القاعدة العامة صحيحة (استدعى، اهتدى، أعطى)، لكن يُستثنى منها ما سُبقت فيه الألف بياء، فتُكتب ألفًا قائمة منعًا لتوالي ياءين، والصواب «أحيا» ومثله «استحيا». أما العَلَم «يحيى» فيُكتب بالياء استثناءً للتفريق بينه وبين الفعل «يحيا».",
+      "difficulty": "HARD",
+      "topic_key": "ar.imla",
+      "objective_key": "ar.imla.o1",
+      "families": [
+        "*"
+      ],
+      "origin": "AI_GENERATED",
+      "source_key": null,
+      "year": null,
+      "valid_until": null,
+      "tags": [
+        "alif-layyina"
+      ]
+    },
+    {
+      "id": "ar-nahw-sarf-imla-0045",
+      "type": "MCQ_SINGLE",
+      "language": "ar",
+      "stem": "الأصل في الحروف المنتهية بألف لينة أن تُكتب ألفها قائمة (مثل: لا، ما، إلّا، كلّا)، ويُستثنى من ذلك أربعة حروف تُكتب ألفها ياءً، هي:",
+      "options": [
+        {
+          "id": "a",
+          "text": "إلى – حتّى – لولا – كلّا"
+        },
+        {
+          "id": "b",
+          "text": "إلى – على – بلى – أنّى"
+        },
+        {
+          "id": "c",
+          "text": "إلى – على – حتّى – بلى"
+        },
+        {
+          "id": "d",
+          "text": "إلى – على – لدى – متى"
+        }
+      ],
+      "correct": [
+        "c"
+      ],
+      "explanation": "تُكتب الألف اللينة قائمة في آخر الحروف، ويُستثنى منها أربعة حروف تُكتب بالياء: إلى، على، حتّى، بلى. أما «لدى» و«متى» و«أنّى» فتُكتب أيضًا بالياء لكنها أسماء مبنية لا حروف، فهي تدخل في استثناء آخر خاص بالأسماء المبنية. و«لولا» و«كلّا» حرفان يجريان على الأصل فيُكتبان بالألف.",
+      "difficulty": "EXPERT",
+      "topic_key": "ar.imla",
+      "objective_key": "ar.imla.o1",
+      "families": [
+        "*"
+      ],
+      "origin": "AI_GENERATED",
+      "source_key": null,
+      "year": null,
+      "valid_until": null,
+      "tags": [
+        "alif-layyina",
+        "huruf"
+      ]
+    }
+  ]
+}

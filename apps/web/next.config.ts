@@ -6,6 +6,8 @@ const nextConfig: NextConfig = {
   reactStrictMode: true,
   poweredByHeader: false,
   transpilePackages: ['@ctn/shared'],
+  // Lint runs separately (`pnpm lint`); a lint warning must never block a production build.
+  eslint: { ignoreDuringBuilds: true },
   async rewrites() {
     // Same-origin proxy: the browser calls /api/*, cookies stay first-party.
     return [{ source: '/api/:path*', destination: `${API_URL}/:path*` }];

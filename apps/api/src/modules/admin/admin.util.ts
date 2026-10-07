@@ -106,6 +106,8 @@ export const ReviewQueueQuery = z.object({
   status: opt(z.enum(CONTENT_STATUSES)),
   familySlug: opt(z.string().max(80)),
   domain: opt(z.enum(DOMAINS)),
+  /** Questions/lessons of this syllabus node or any node below it (review a topic at a time). */
+  topicKey: opt(z.string().max(200)),
   limit: optInt(1, 200),
 });
 export type ReviewQueueQuery = z.infer<typeof ReviewQueueQuery>;

@@ -1,0 +1,1703 @@
+{
+ "bank": "num-problemes-mesures",
+ "domain": "NUMERICAL",
+ "specialty_syllabus": [],
+ "sources": [],
+ "research_notes": "Original numerical problems (speed/time/work/ages/mixtures/sharing) and geometry & measurement items (perimeters, areas, volumes, Pythagoras, scales, angle sums, unit conversions) written for this bank; origin AI_GENERATED, style modelled on Tunisian concours QCM but not copied from any book or past paper. All situations are hypothetical: no official, legal or time-sensitive fact is asserted, so no source is cited and valid_until is null. The only Tunisia-specific convention used is the currency subdivision 1 dinar = 1 000 millimes (stated explicitly in the stem of item 0003) and the decimal comma notation of prices (e.g. 2,400 D). Every expected answer and every distractor rationale was recomputed by a script before writing. NUMERIC items state the expected unit; where π is needed the stem fixes π ≈ 3,14, and item 0040 allows a tolerance of 5 L for candidates using a more precise value of π. common.json defines only one objective per topic (nu.problemes.o1, nu.geometrie-mesures.o1), so all items use .o1.",
+ "questions": [
+  {
+   "id": "num-problemes-mesures-0001",
+   "type": "MCQ_SINGLE",
+   "language": "fr",
+   "stem": "Un autocar de transport interurbain parcourt 180 km en 2 h 30 min. Quelle est sa vitesse moyenne ?",
+   "options": [
+    {
+     "id": "a",
+     "text": "90 km/h"
+    },
+    {
+     "id": "b",
+     "text": "72 km/h"
+    },
+    {
+     "id": "c",
+     "text": "80 km/h"
+    },
+    {
+     "id": "d",
+     "text": "60 km/h"
+    }
+   ],
+   "correct": [
+    "b"
+   ],
+   "explanation": "Il faut d'abord convertir la durée en heures : 2 h 30 min = 2,5 h. La vitesse moyenne vaut donc 180 ÷ 2,5 = 72 km/h. La réponse 90 km/h est obtenue en oubliant les 30 minutes (180 ÷ 2), et 80 km/h correspond à l'erreur qui lit 2 h 30 comme 2,25 h (180 ÷ 2,25 = 80).",
+   "difficulty": "EASY",
+   "topic_key": "nu.problemes",
+   "objective_key": "nu.problemes.o1",
+   "families": [
+    "*"
+   ],
+   "origin": "AI_GENERATED",
+   "source_key": null,
+   "year": null,
+   "valid_until": null,
+   "tags": [
+    "vitesse moyenne",
+    "conversion de durée"
+   ]
+  },
+  {
+   "id": "num-problemes-mesures-0002",
+   "type": "MCQ_SINGLE",
+   "language": "ar",
+   "stem": "تسير سيارة بسرعة ثابتة قدرها 80 كم/س. ما المسافة التي تقطعها في 45 دقيقة؟",
+   "options": [
+    {
+     "id": "a",
+     "text": "36 كم"
+    },
+    {
+     "id": "b",
+     "text": "45 كم"
+    },
+    {
+     "id": "c",
+     "text": "60 كم"
+    },
+    {
+     "id": "d",
+     "text": "64 كم"
+    }
+   ],
+   "correct": [
+    "c"
+   ],
+   "explanation": "45 دقيقة تساوي 45 ÷ 60 = 0,75 ساعة، والمسافة = السرعة × الزمن = 80 × 0,75 = 60 كم. أمّا 36 كم فناتجة عن الخطأ الشائع في اعتبار 45 دقيقة تساوي 0,45 ساعة (80 × 0,45 = 36)، وهو خطأ لأن الساعة تضمّ 60 دقيقة لا 100.",
+   "difficulty": "EASY",
+   "topic_key": "nu.problemes",
+   "objective_key": "nu.problemes.o1",
+   "families": [
+    "*"
+   ],
+   "origin": "AI_GENERATED",
+   "source_key": null,
+   "year": null,
+   "valid_until": null,
+   "tags": [
+    "السرعة",
+    "المسافة",
+    "تحويل الزمن"
+   ]
+  },
+  {
+   "id": "num-problemes-mesures-0003",
+   "type": "NUMERIC",
+   "language": "fr",
+   "stem": "Un agent achète 3 registres à 2,400 D l'unité et 2 stylos à 0,750 D l'unité. Il paie avec un billet de 20 D. Combien de millimes lui rend-on ? (1 D = 1 000 millimes ; donnez un nombre entier de millimes)",
+   "options": [],
+   "correct": {
+    "value": 11300,
+    "tolerance": 0
+   },
+   "explanation": "Les registres coûtent 3 × 2,400 = 7,200 D et les stylos 2 × 0,750 = 1,500 D, soit un total de 8,700 D. La monnaie rendue est 20,000 − 8,700 = 11,300 D, c'est-à-dire 11 300 millimes. Une erreur fréquente consiste à ne compter qu'un seul stylo, ce qui donnerait 12 050 millimes.",
+   "difficulty": "EASY",
+   "topic_key": "nu.problemes",
+   "objective_key": "nu.problemes.o1",
+   "families": [
+    "*"
+   ],
+   "origin": "AI_GENERATED",
+   "source_key": null,
+   "year": null,
+   "valid_until": null,
+   "tags": [
+    "dinar et millimes",
+    "rendu de monnaie"
+   ]
+  },
+  {
+   "id": "num-problemes-mesures-0004",
+   "type": "MCQ_SINGLE",
+   "language": "ar",
+   "stem": "عمر أبٍ الآن 40 سنة وعمر ابنه 10 سنوات. بعد كم سنة يصبح عمر الأب ضعف عمر ابنه؟",
+   "options": [
+    {
+     "id": "a",
+     "text": "20 سنة"
+    },
+    {
+     "id": "b",
+     "text": "15 سنة"
+    },
+    {
+     "id": "c",
+     "text": "10 سنوات"
+    },
+    {
+     "id": "d",
+     "text": "30 سنة"
+    }
+   ],
+   "correct": [
+    "a"
+   ],
+   "explanation": "نسمّي x عدد السنوات، فنحصل على المعادلة 40 + x = 2 × (10 + x)، أي 40 + x = 20 + 2x، ومنه x = 20. للتحقّق: بعد 20 سنة يكون عمر الأب 60 سنة وعمر الابن 30 سنة، و60 = 2 × 30. أمّا بعد 10 سنوات فيكون العمران 50 و20 سنة، و50 ليست ضعف 20.",
+   "difficulty": "EASY",
+   "topic_key": "nu.problemes",
+   "objective_key": "nu.problemes.o1",
+   "families": [
+    "*"
+   ],
+   "origin": "AI_GENERATED",
+   "source_key": null,
+   "year": null,
+   "valid_until": null,
+   "tags": [
+    "مسائل الأعمار",
+    "معادلة من الدرجة الأولى"
+   ]
+  },
+  {
+   "id": "num-problemes-mesures-0005",
+   "type": "TRUE_FALSE",
+   "language": "fr",
+   "stem": "Vrai ou faux : si 5 ouvriers construisent un mur en 12 jours, alors 10 ouvriers travaillant au même rythme construiront le même mur en 6 jours.",
+   "options": [
+    {
+     "id": "a",
+     "text": "Vrai"
+    },
+    {
+     "id": "b",
+     "text": "Faux"
+    }
+   ],
+   "correct": [
+    "a"
+   ],
+   "explanation": "Le nombre d'ouvriers et la durée du travail sont inversement proportionnels : le travail total vaut 5 × 12 = 60 journées-ouvrier. Avec 10 ouvriers, il faut 60 ÷ 10 = 6 jours, l'affirmation est donc vraie. Penser qu'il faudrait 24 jours reviendrait à appliquer à tort une proportionnalité directe.",
+   "difficulty": "EASY",
+   "topic_key": "nu.problemes",
+   "objective_key": "nu.problemes.o1",
+   "families": [
+    "*"
+   ],
+   "origin": "AI_GENERATED",
+   "source_key": null,
+   "year": null,
+   "valid_until": null,
+   "tags": [
+    "proportionnalité inverse",
+    "travail"
+   ]
+  },
+  {
+   "id": "num-problemes-mesures-0006",
+   "type": "NUMERIC",
+   "language": "ar",
+   "stem": "تستهلك سيارة إداريّة 6 لترات من الوقود لكلّ 100 كم. كم كيلومترًا يمكنها أن تقطع بـ 30 لترًا؟ (أدخل عددًا بالكيلومتر)",
+   "options": [],
+   "correct": {
+    "value": 500,
+    "tolerance": 0
+   },
+   "explanation": "الكمية 30 لترًا تساوي 30 ÷ 6 = 5 مرّات الكمية 6 لترات، وكلّ 6 لترات تكفي لقطع 100 كم. إذن تقطع السيارة 5 × 100 = 500 كم. من يضرب 30 في 6 فيحصل على 180 يخلط بين الكمية المستهلكة والمسافة المقطوعة.",
+   "difficulty": "EASY",
+   "topic_key": "nu.problemes",
+   "objective_key": "nu.problemes.o1",
+   "families": [
+    "*"
+   ],
+   "origin": "AI_GENERATED",
+   "source_key": null,
+   "year": null,
+   "valid_until": null,
+   "tags": [
+    "استهلاك الوقود",
+    "القاعدة الثلاثية"
+   ]
+  },
+  {
+   "id": "num-problemes-mesures-0007",
+   "type": "MCQ_SINGLE",
+   "language": "fr",
+   "stem": "Deux frères se partagent une somme de 600 D proportionnellement aux nombres 2 et 3. Combien reçoit celui qui a la plus petite part ?",
+   "options": [
+    {
+     "id": "a",
+     "text": "200 D"
+    },
+    {
+     "id": "b",
+     "text": "300 D"
+    },
+    {
+     "id": "c",
+     "text": "360 D"
+    },
+    {
+     "id": "d",
+     "text": "240 D"
+    }
+   ],
+   "correct": [
+    "d"
+   ],
+   "explanation": "On partage la somme en 2 + 3 = 5 parts égales de 600 ÷ 5 = 120 D. La plus petite part vaut 2 × 120 = 240 D et la plus grande 3 × 120 = 360 D. La réponse 360 D est la plus grande part, et 300 D correspondrait à un partage égal, contraire à l'énoncé.",
+   "difficulty": "EASY",
+   "topic_key": "nu.problemes",
+   "objective_key": "nu.problemes.o1",
+   "families": [
+    "*"
+   ],
+   "origin": "AI_GENERATED",
+   "source_key": null,
+   "year": null,
+   "valid_until": null,
+   "tags": [
+    "partage proportionnel"
+   ]
+  },
+  {
+   "id": "num-problemes-mesures-0008",
+   "type": "MCQ_SINGLE",
+   "language": "ar",
+   "stem": "يُنجز عامل أشغال صيانة بمفرده في 12 يومًا، ويُنجزها عامل ثانٍ بمفرده في 6 أيام. إذا اشتغلا معًا كلٌّ بمردوده المعتاد، ففي كم يومًا يُنجزان هذه الأشغال؟",
+   "options": [
+    {
+     "id": "a",
+     "text": "9 أيام"
+    },
+    {
+     "id": "b",
+     "text": "4 أيام"
+    },
+    {
+     "id": "c",
+     "text": "18 يومًا"
+    },
+    {
+     "id": "d",
+     "text": "3 أيام"
+    }
+   ],
+   "correct": [
+    "b"
+   ],
+   "explanation": "في يوم واحد يُنجز الأول 1/12 من العمل والثاني 1/6 أي 2/12، فيُنجزان معًا 3/12 = 1/4 من العمل يوميًّا. إذن يلزمهما 4 أيام. أمّا 9 أيام فهي معدّل المدّتين، وهو خطأ لأن العمل المشترك يكون أسرع من عمل كلّ واحد منهما بمفرده، فلا يمكن أن تتجاوز المدّة 6 أيام.",
+   "difficulty": "MEDIUM",
+   "topic_key": "nu.problemes",
+   "objective_key": "nu.problemes.o1",
+   "families": [
+    "*"
+   ],
+   "origin": "AI_GENERATED",
+   "source_key": null,
+   "year": null,
+   "valid_until": null,
+   "tags": [
+    "مسائل العمل",
+    "الكسور"
+   ]
+  },
+  {
+   "id": "num-problemes-mesures-0009",
+   "type": "MCQ_SINGLE",
+   "language": "fr",
+   "stem": "Deux villes A et B sont distantes de 330 km. À 9 h, un train part de A vers B à 70 km/h et, à la même heure, un autre train part de B vers A à 80 km/h. À quelle heure se croisent-ils ?",
+   "options": [
+    {
+     "id": "a",
+     "text": "11 h 20"
+    },
+    {
+     "id": "b",
+     "text": "11 h 12"
+    },
+    {
+     "id": "c",
+     "text": "10 h 50"
+    },
+    {
+     "id": "d",
+     "text": "11 h 30"
+    }
+   ],
+   "correct": [
+    "b"
+   ],
+   "explanation": "Les trains roulent l'un vers l'autre : la distance qui les sépare diminue de 70 + 80 = 150 km chaque heure. Ils se croisent après 330 ÷ 150 = 2,2 h, soit 2 h 12 min (0,2 h × 60 = 12 min), donc à 11 h 12. La réponse 11 h 20 vient de l'erreur qui lit 2,2 h comme 2 h 20 min.",
+   "difficulty": "MEDIUM",
+   "topic_key": "nu.problemes",
+   "objective_key": "nu.problemes.o1",
+   "families": [
+    "*"
+   ],
+   "origin": "AI_GENERATED",
+   "source_key": null,
+   "year": null,
+   "valid_until": null,
+   "tags": [
+    "mobiles en sens contraires",
+    "vitesse relative"
+   ]
+  },
+  {
+   "id": "num-problemes-mesures-0010",
+   "type": "NUMERIC",
+   "language": "fr",
+   "stem": "À un concours, un candidat obtient 15 en culture générale (coefficient 2), 9 en français (coefficient 1) et 11 en mathématiques (coefficient 3). Quelle est sa moyenne pondérée sur 20 ?",
+   "options": [],
+   "correct": {
+    "value": 12,
+    "tolerance": 0
+   },
+   "explanation": "La moyenne pondérée est (15 × 2 + 9 × 1 + 11 × 3) ÷ (2 + 1 + 3) = (30 + 9 + 33) ÷ 6 = 72 ÷ 6 = 12. Calculer la moyenne simple (15 + 9 + 11) ÷ 3 ≈ 11,67 est une erreur, car elle ignore les coefficients.",
+   "difficulty": "MEDIUM",
+   "topic_key": "nu.problemes",
+   "objective_key": "nu.problemes.o1",
+   "families": [
+    "*"
+   ],
+   "origin": "AI_GENERATED",
+   "source_key": null,
+   "year": null,
+   "valid_until": null,
+   "tags": [
+    "moyenne pondérée",
+    "coefficients"
+   ]
+  },
+  {
+   "id": "num-problemes-mesures-0011",
+   "type": "MCQ_SINGLE",
+   "language": "ar",
+   "stem": "خلط تاجر 30 كغ من البنّ ثمن الكيلوغرام منه 18 دينارًا مع 20 كغ من بنّ آخر ثمن الكيلوغرام منه 23 دينارًا. ما ثمن الكيلوغرام الواحد من الخليط دون ربح ولا خسارة؟",
+   "options": [
+    {
+     "id": "a",
+     "text": "20,500 دينارًا"
+    },
+    {
+     "id": "b",
+     "text": "21 دينارًا"
+    },
+    {
+     "id": "c",
+     "text": "20 دينارًا"
+    },
+    {
+     "id": "d",
+     "text": "19 دينارًا"
+    }
+   ],
+   "correct": [
+    "c"
+   ],
+   "explanation": "ثمن الكمية الأولى 30 × 18 = 540 دينارًا وثمن الثانية 20 × 23 = 460 دينارًا، فيكون ثمن الخليط 1000 دينار لكتلة 50 كغ. إذن ثمن الكيلوغرام 1000 ÷ 50 = 20 دينارًا. أمّا 20,500 دينارًا فهو المعدّل البسيط للثمنين، وهو خطأ لأنه لا يراعي اختلاف الكمّيتين.",
+   "difficulty": "MEDIUM",
+   "topic_key": "nu.problemes",
+   "objective_key": "nu.problemes.o1",
+   "families": [
+    "*"
+   ],
+   "origin": "AI_GENERATED",
+   "source_key": null,
+   "year": null,
+   "valid_until": null,
+   "tags": [
+    "مسائل الخلط",
+    "المعدّل المرجّح"
+   ]
+  },
+  {
+   "id": "num-problemes-mesures-0012",
+   "type": "MCQ_MULTI",
+   "language": "fr",
+   "stem": "Parmi les trajets suivants, lesquels correspondent à une vitesse moyenne de 60 km/h ? (plusieurs réponses possibles)",
+   "options": [
+    {
+     "id": "a",
+     "text": "90 km en 1 h 30 min"
+    },
+    {
+     "id": "b",
+     "text": "25 km en 25 min"
+    },
+    {
+     "id": "c",
+     "text": "150 km en 2 h 15 min"
+    },
+    {
+     "id": "d",
+     "text": "1 km en 50 secondes"
+    }
+   ],
+   "correct": [
+    "a",
+    "b"
+   ],
+   "explanation": "Une vitesse de 60 km/h correspond à 1 km par minute. Pour 90 km en 1 h 30 min : 90 ÷ 1,5 = 60 km/h ; pour 25 km en 25 min, on fait bien 1 km par minute, donc 60 km/h. En revanche, 150 km en 2 h 15 min donnent 150 ÷ 2,25 ≈ 66,7 km/h, et 1 km en 50 s donne 3 600 ÷ 50 = 72 km/h.",
+   "difficulty": "MEDIUM",
+   "topic_key": "nu.problemes",
+   "objective_key": "nu.problemes.o1",
+   "families": [
+    "*"
+   ],
+   "origin": "AI_GENERATED",
+   "source_key": null,
+   "year": null,
+   "valid_until": null,
+   "tags": [
+    "vitesse moyenne",
+    "conversion de durée"
+   ]
+  },
+  {
+   "id": "num-problemes-mesures-0013",
+   "type": "NUMERIC",
+   "language": "ar",
+   "stem": "مجموع عمرَي أحمد وأخته سلمى 34 سنة، وأحمد أكبر منها بـ 6 سنوات. ما عمر سلمى بالسنوات؟",
+   "options": [],
+   "correct": {
+    "value": 14,
+    "tolerance": 0
+   },
+   "explanation": "إذا طرحنا الفارق من المجموع حصلنا على ضعف عمر الأصغر: 34 − 6 = 28، فيكون عمر سلمى 28 ÷ 2 = 14 سنة وعمر أحمد 20 سنة. للتحقّق: 14 + 20 = 34 و20 − 14 = 6. ومن يجيب بـ 17 يكتفي بقسمة المجموع على 2 متجاهلًا الفارق بين العمرين.",
+   "difficulty": "MEDIUM",
+   "topic_key": "nu.problemes",
+   "objective_key": "nu.problemes.o1",
+   "families": [
+    "*"
+   ],
+   "origin": "AI_GENERATED",
+   "source_key": null,
+   "year": null,
+   "valid_until": null,
+   "tags": [
+    "المجموع والفرق",
+    "مسائل الأعمار"
+   ]
+  },
+  {
+   "id": "num-problemes-mesures-0014",
+   "type": "MCQ_SINGLE",
+   "language": "fr",
+   "stem": "Un fonctionnaire commence son service à 8 h 15 et le termine à 16 h 45, avec une pause déjeuner de 1 h 10 min. Quelle est la durée de son travail effectif ?",
+   "options": [
+    {
+     "id": "a",
+     "text": "7 h 20 min"
+    },
+    {
+     "id": "b",
+     "text": "8 h 30 min"
+    },
+    {
+     "id": "c",
+     "text": "7 h 30 min"
+    },
+    {
+     "id": "d",
+     "text": "7 h 35 min"
+    }
+   ],
+   "correct": [
+    "a"
+   ],
+   "explanation": "De 8 h 15 à 16 h 45, il s'écoule 8 h 30 min. En retirant la pause : 8 h 30 min − 1 h 10 min = 7 h 20 min. La réponse 8 h 30 min oublie de déduire la pause, et 7 h 30 min ne retire qu'une heure au lieu de 1 h 10 min.",
+   "difficulty": "MEDIUM",
+   "topic_key": "nu.problemes",
+   "objective_key": "nu.problemes.o1",
+   "families": [
+    "*"
+   ],
+   "origin": "AI_GENERATED",
+   "source_key": null,
+   "year": null,
+   "valid_until": null,
+   "tags": [
+    "calcul de durées",
+    "heures et minutes"
+   ]
+  },
+  {
+   "id": "num-problemes-mesures-0015",
+   "type": "TRUE_FALSE",
+   "language": "ar",
+   "stem": "صحيح أم خطأ: قطار طوله 200 م يسير بسرعة ثابتة قدرها 72 كم/س، فيحتاج إلى 20 ثانية ليعبر نفقًا طوله 400 م عبورًا كاملًا (من دخول مقدّمته إلى خروج مؤخّرته).",
+   "options": [
+    {
+     "id": "a",
+     "text": "صحيح"
+    },
+    {
+     "id": "b",
+     "text": "خطأ"
+    }
+   ],
+   "correct": [
+    "b"
+   ],
+   "explanation": "72 كم/س تساوي 72 ÷ 3,6 = 20 م/ث. لكي يعبر القطار النفق كاملًا يجب أن يقطع طول النفق زائد طوله هو: 400 + 200 = 600 م، أي 600 ÷ 20 = 30 ثانية. مدّة 20 ثانية لا تكفي إلا لقطع 400 م، أي أنها تتجاهل طول القطار، لذا العبارة خاطئة.",
+   "difficulty": "MEDIUM",
+   "topic_key": "nu.problemes",
+   "objective_key": "nu.problemes.o1",
+   "families": [
+    "*"
+   ],
+   "origin": "AI_GENERATED",
+   "source_key": null,
+   "year": null,
+   "valid_until": null,
+   "tags": [
+    "السرعة",
+    "تحويل كم/س إلى م/ث"
+   ]
+  },
+  {
+   "id": "num-problemes-mesures-0016",
+   "type": "ORDERING",
+   "language": "fr",
+   "stem": "Classez ces quatre usagers de la route du plus rapide au plus lent.",
+   "options": [
+    {
+     "id": "a",
+     "text": "Un cycliste qui parcourt 18 km en 45 min"
+    },
+    {
+     "id": "b",
+     "text": "Un coureur qui avance à 5 m/s"
+    },
+    {
+     "id": "c",
+     "text": "Un piéton qui marche à 6 km/h"
+    },
+    {
+     "id": "d",
+     "text": "Un scooter qui parcourt 1 km en 2 min"
+    }
+   ],
+   "correct": {
+    "order": [
+     "d",
+     "a",
+     "b",
+     "c"
+    ]
+   },
+   "explanation": "Il faut tout convertir dans la même unité (km/h) : le scooter fait 1 km en 2 min, soit 30 km/h ; le cycliste 18 ÷ 0,75 = 24 km/h ; le coureur 5 × 3,6 = 18 km/h ; le piéton 6 km/h. L'ordre est donc scooter, cycliste, coureur, piéton. Comparer directement « 5 » m/s à « 6 » km/h sans conversion conduirait à un classement faux.",
+   "difficulty": "MEDIUM",
+   "topic_key": "nu.problemes",
+   "objective_key": "nu.problemes.o1",
+   "families": [
+    "*"
+   ],
+   "origin": "AI_GENERATED",
+   "source_key": null,
+   "year": null,
+   "valid_until": null,
+   "tags": [
+    "comparaison de vitesses",
+    "conversion d'unités"
+   ]
+  },
+  {
+   "id": "num-problemes-mesures-0017",
+   "type": "NUMERIC",
+   "language": "ar",
+   "stem": "حنفيّة تملأ خزّانًا فارغًا في 4 ساعات، وفي أسفل الخزّان ثقب يُفرغه وهو ممتلئ في 12 ساعة. إذا فُتحت الحنفيّة والثقب مفتوح، فكم ساعة يلزم لملء الخزّان الفارغ؟",
+   "options": [],
+   "correct": {
+    "value": 6,
+    "tolerance": 0
+   },
+   "explanation": "في ساعة واحدة تملأ الحنفيّة 1/4 من الخزّان ويُفرغ الثقب 1/12 منه، فيكون الملء الصافي 1/4 − 1/12 = 3/12 − 1/12 = 2/12 = 1/6 من الخزّان في الساعة. إذن يلزم 6 ساعات. أمّا من يجمع الكسرين (1/4 + 1/12 = 1/3) فيحصل على 3 ساعات، وهذا خطأ لأن الثقب يُنقص الماء ولا يضيفه.",
+   "difficulty": "HARD",
+   "topic_key": "nu.problemes",
+   "objective_key": "nu.problemes.o1",
+   "families": [
+    "*"
+   ],
+   "origin": "AI_GENERATED",
+   "source_key": null,
+   "year": null,
+   "valid_until": null,
+   "tags": [
+    "مسائل الحنفيّات",
+    "الكسور"
+   ]
+  },
+  {
+   "id": "num-problemes-mesures-0018",
+   "type": "MCQ_SINGLE",
+   "language": "fr",
+   "stem": "Un automobiliste effectue l'aller entre deux villes à la vitesse moyenne de 60 km/h et le retour, par la même route, à 90 km/h. Quelle est sa vitesse moyenne sur l'ensemble de l'aller-retour ?",
+   "options": [
+    {
+     "id": "a",
+     "text": "72 km/h"
+    },
+    {
+     "id": "b",
+     "text": "75 km/h"
+    },
+    {
+     "id": "c",
+     "text": "70 km/h"
+    },
+    {
+     "id": "d",
+     "text": "80 km/h"
+    }
+   ],
+   "correct": [
+    "a"
+   ],
+   "explanation": "Prenons une distance de 180 km (multiple de 60 et de 90) : l'aller dure 3 h et le retour 2 h, soit 360 km en 5 h, donc 360 ÷ 5 = 72 km/h. La réponse 75 km/h (moyenne arithmétique de 60 et 90) est fausse, car l'automobiliste passe plus de temps à la vitesse la plus faible ; on obtient en fait la moyenne harmonique 2 × 60 × 90 ÷ (60 + 90) = 72.",
+   "difficulty": "HARD",
+   "topic_key": "nu.problemes",
+   "objective_key": "nu.problemes.o1",
+   "families": [
+    "*"
+   ],
+   "origin": "AI_GENERATED",
+   "source_key": null,
+   "year": null,
+   "valid_until": null,
+   "tags": [
+    "vitesse moyenne",
+    "aller-retour",
+    "piège classique"
+   ]
+  },
+  {
+   "id": "num-problemes-mesures-0019",
+   "type": "MCQ_MULTI",
+   "language": "ar",
+   "stem": "يقطع عدّاء مسافة 10 كم في 50 دقيقة بسرعة ثابتة. أيّ العبارات التالية صحيحة؟ (أكثر من إجابة ممكنة)",
+   "options": [
+    {
+     "id": "a",
+     "text": "سرعته 12 كم/س"
+    },
+    {
+     "id": "b",
+     "text": "يقطع الكيلومتر الواحد في 5 دقائق"
+    },
+    {
+     "id": "c",
+     "text": "سرعته 250 م/د"
+    },
+    {
+     "id": "d",
+     "text": "سرعته حوالي 3,3 م/ث"
+    }
+   ],
+   "correct": [
+    "a",
+    "b",
+    "d"
+   ],
+   "explanation": "50 دقيقة = 5/6 ساعة، فالسرعة 10 ÷ 5/6 = 12 كم/س، ويقطع كلّ كيلومتر في 50 ÷ 10 = 5 دقائق. وبالمتر في الثانية: 12 ÷ 3,6 ≈ 3,33 م/ث، فهذه العبارة صحيحة أيضًا. أمّا بالمتر في الدقيقة فالسرعة 10000 ÷ 50 = 200 م/د، لذا عبارة «250 م/د» خاطئة.",
+   "difficulty": "HARD",
+   "topic_key": "nu.problemes",
+   "objective_key": "nu.problemes.o1",
+   "families": [
+    "*"
+   ],
+   "origin": "AI_GENERATED",
+   "source_key": null,
+   "year": null,
+   "valid_until": null,
+   "tags": [
+    "السرعة",
+    "تحويل الوحدات"
+   ]
+  },
+  {
+   "id": "num-problemes-mesures-0020",
+   "type": "NUMERIC",
+   "language": "fr",
+   "stem": "Il y a 4 ans, l'âge d'un père était 7 fois celui de son fils. Dans 4 ans, l'âge du père sera le triple de celui de son fils. Quel est l'âge actuel du père (en années) ?",
+   "options": [],
+   "correct": {
+    "value": 32,
+    "tolerance": 0
+   },
+   "explanation": "Notons f l'âge actuel du fils et p celui du père. On a p − 4 = 7(f − 4) et p + 4 = 3(f + 4), soit p = 7f − 24 et p = 3f + 8. Donc 7f − 24 = 3f + 8, d'où f = 8 et p = 32. Vérification : il y a 4 ans, 28 = 7 × 4 ; dans 4 ans, 36 = 3 × 12. Répondre 8 donne l'âge du fils et non celui du père.",
+   "difficulty": "HARD",
+   "topic_key": "nu.problemes",
+   "objective_key": "nu.problemes.o1",
+   "families": [
+    "*"
+   ],
+   "origin": "AI_GENERATED",
+   "source_key": null,
+   "year": null,
+   "valid_until": null,
+   "tags": [
+    "problèmes d'âges",
+    "système d'équations"
+   ]
+  },
+  {
+   "id": "num-problemes-mesures-0021",
+   "type": "MCQ_SINGLE",
+   "language": "fr",
+   "stem": "Un camion quitte un dépôt à 7 h et roule à 60 km/h. Une voiture quitte le même dépôt à 8 h 30, sur la même route et dans le même sens, à 90 km/h. À quelle heure la voiture rattrape-t-elle le camion ?",
+   "options": [
+    {
+     "id": "a",
+     "text": "9 h 30"
+    },
+    {
+     "id": "b",
+     "text": "10 h 30"
+    },
+    {
+     "id": "c",
+     "text": "11 h 30"
+    },
+    {
+     "id": "d",
+     "text": "12 h 30"
+    }
+   ],
+   "correct": [
+    "c"
+   ],
+   "explanation": "À 8 h 30, le camion a déjà roulé 1,5 h et possède 1,5 × 60 = 90 km d'avance. La voiture réduit cet écart de 90 − 60 = 30 km par heure ; il lui faut donc 90 ÷ 30 = 3 h, et elle rattrape le camion à 11 h 30, à 270 km du dépôt. La réponse 9 h 30 vient de l'erreur qui divise l'avance par la vitesse de la voiture (90 ÷ 90 = 1 h) au lieu de la différence des vitesses.",
+   "difficulty": "HARD",
+   "topic_key": "nu.problemes",
+   "objective_key": "nu.problemes.o1",
+   "families": [
+    "*"
+   ],
+   "origin": "AI_GENERATED",
+   "source_key": null,
+   "year": null,
+   "valid_until": null,
+   "tags": [
+    "mobiles dans le même sens",
+    "rattrapage"
+   ]
+  },
+  {
+   "id": "num-problemes-mesures-0022",
+   "type": "MCQ_SINGLE",
+   "language": "ar",
+   "stem": "يقطع قارب مسافة 36 كم في اتّجاه التيّار في ساعتين، ويقطع المسافة نفسها عكس اتّجاه التيّار في 3 ساعات. علمًا أن سرعة القارب الذاتيّة ثابتة، كم يستغرق هذا القارب لقطع 45 كم في ماء راكد؟",
+   "options": [
+    {
+     "id": "a",
+     "text": "ساعتان و30 دقيقة"
+    },
+    {
+     "id": "b",
+     "text": "3 ساعات و45 دقيقة"
+    },
+    {
+     "id": "c",
+     "text": "7 ساعات و30 دقيقة"
+    },
+    {
+     "id": "d",
+     "text": "3 ساعات"
+    }
+   ],
+   "correct": [
+    "d"
+   ],
+   "explanation": "سرعة القارب مع التيّار 36 ÷ 2 = 18 كم/س وعكسه 36 ÷ 3 = 12 كم/س. إذا سمّينا v سرعة القارب في الماء الراكد وc سرعة التيّار فإن v + c = 18 وv − c = 12، ومنه v = 15 كم/س وc = 3 كم/س. إذن يقطع 45 كم في ماء راكد في 45 ÷ 15 = 3 ساعات. أمّا ساعتان و30 دقيقة فتستعمل السرعة مع التيّار (45 ÷ 18)، و3 ساعات و45 دقيقة تستعمل السرعة عكس التيّار (45 ÷ 12).",
+   "difficulty": "EXPERT",
+   "topic_key": "nu.problemes",
+   "objective_key": "nu.problemes.o1",
+   "families": [
+    "*"
+   ],
+   "origin": "AI_GENERATED",
+   "source_key": null,
+   "year": null,
+   "valid_until": null,
+   "tags": [
+    "سرعة التيّار",
+    "جملة معادلتين"
+   ]
+  },
+  {
+   "id": "num-problemes-mesures-0023",
+   "type": "NUMERIC",
+   "language": "fr",
+   "stem": "Une équipe de 12 agents doit saisir un ensemble de dossiers en 20 jours. Après 5 jours de travail, 3 agents sont mutés et le reste de l'équipe poursuit au même rythme individuel. Combien de jours faudra-t-il au total, depuis le début, pour achever la saisie ?",
+   "options": [],
+   "correct": {
+    "value": 25,
+    "tolerance": 0
+   },
+   "explanation": "Le travail total représente 12 × 20 = 240 journées-agent. En 5 jours, 12 agents en effectuent 60 ; il reste 180 journées-agent pour 9 agents, soit 180 ÷ 9 = 20 jours supplémentaires. La durée totale est donc 5 + 20 = 25 jours. Répondre 20 revient à oublier les 5 premiers jours déjà écoulés.",
+   "difficulty": "EXPERT",
+   "topic_key": "nu.problemes",
+   "objective_key": "nu.problemes.o1",
+   "families": [
+    "*"
+   ],
+   "origin": "AI_GENERATED",
+   "source_key": null,
+   "year": null,
+   "valid_until": null,
+   "tags": [
+    "travail en équipe",
+    "proportionnalité inverse"
+   ]
+  },
+  {
+   "id": "num-problemes-mesures-0024",
+   "type": "MCQ_SINGLE",
+   "language": "ar",
+   "stem": "قطعة أرض مستطيلة الشكل طولها 12 م وعرضها 7 م. ما طول السياج اللازم لإحاطتها بالكامل؟",
+   "options": [
+    {
+     "id": "a",
+     "text": "19 م"
+    },
+    {
+     "id": "b",
+     "text": "38 م"
+    },
+    {
+     "id": "c",
+     "text": "84 م"
+    },
+    {
+     "id": "d",
+     "text": "76 م"
+    }
+   ],
+   "correct": [
+    "b"
+   ],
+   "explanation": "طول السياج هو محيط المستطيل = 2 × (الطول + العرض) = 2 × (12 + 7) = 2 × 19 = 38 م. الإجابة 19 م هي نصف المحيط فقط، أمّا 84 فهي المساحة بالمتر المربّع (12 × 7) وليست طولًا.",
+   "difficulty": "EASY",
+   "topic_key": "nu.geometrie-mesures",
+   "objective_key": "nu.geometrie-mesures.o1",
+   "families": [
+    "*"
+   ],
+   "origin": "AI_GENERATED",
+   "source_key": null,
+   "year": null,
+   "valid_until": null,
+   "tags": [
+    "المحيط",
+    "المستطيل"
+   ]
+  },
+  {
+   "id": "num-problemes-mesures-0025",
+   "type": "NUMERIC",
+   "language": "fr",
+   "stem": "Calculez l'aire, en cm², d'un triangle dont la base mesure 10 cm et la hauteur relative à cette base 6 cm.",
+   "options": [],
+   "correct": {
+    "value": 30,
+    "tolerance": 0
+   },
+   "explanation": "L'aire d'un triangle est égale à (base × hauteur) ÷ 2 = (10 × 6) ÷ 2 = 30 cm². Oublier la division par 2 donnerait 60 cm², qui est l'aire du rectangle de mêmes dimensions.",
+   "difficulty": "EASY",
+   "topic_key": "nu.geometrie-mesures",
+   "objective_key": "nu.geometrie-mesures.o1",
+   "families": [
+    "*"
+   ],
+   "origin": "AI_GENERATED",
+   "source_key": null,
+   "year": null,
+   "valid_until": null,
+   "tags": [
+    "aire",
+    "triangle"
+   ]
+  },
+  {
+   "id": "num-problemes-mesures-0026",
+   "type": "MCQ_SINGLE",
+   "language": "ar",
+   "stem": "مسافة طولها 2,5 كم تساوي بالمتر:",
+   "options": [
+    {
+     "id": "a",
+     "text": "250 م"
+    },
+    {
+     "id": "b",
+     "text": "25 000 م"
+    },
+    {
+     "id": "c",
+     "text": "2500 م"
+    },
+    {
+     "id": "d",
+     "text": "25 م"
+    }
+   ],
+   "correct": [
+    "c"
+   ],
+   "explanation": "الكيلومتر يساوي 1000 متر، إذن 2,5 كم = 2,5 × 1000 = 2500 م. الإجابة 250 م ناتجة عن الضرب في 100 بدل 1000، وهو خلط بين التحويل من الكيلومتر إلى المتر والتحويل من المتر إلى الصنتيمتر.",
+   "difficulty": "EASY",
+   "topic_key": "nu.geometrie-mesures",
+   "objective_key": "nu.geometrie-mesures.o1",
+   "families": [
+    "*"
+   ],
+   "origin": "AI_GENERATED",
+   "source_key": null,
+   "year": null,
+   "valid_until": null,
+   "tags": [
+    "تحويل الوحدات",
+    "وحدات الطول"
+   ]
+  },
+  {
+   "id": "num-problemes-mesures-0027",
+   "type": "TRUE_FALSE",
+   "language": "fr",
+   "stem": "Vrai ou faux : 1 m³ correspond à 1 000 litres.",
+   "options": [
+    {
+     "id": "a",
+     "text": "Vrai"
+    },
+    {
+     "id": "b",
+     "text": "Faux"
+    }
+   ],
+   "correct": [
+    "a"
+   ],
+   "explanation": "1 litre équivaut à 1 dm³, et 1 m³ = 10 dm × 10 dm × 10 dm = 1 000 dm³. Donc 1 m³ = 1 000 L : l'affirmation est vraie. L'erreur fréquente consiste à croire que 1 m³ = 100 L, en appliquant le facteur des aires (100) au lieu de celui des volumes (1 000).",
+   "difficulty": "EASY",
+   "topic_key": "nu.geometrie-mesures",
+   "objective_key": "nu.geometrie-mesures.o1",
+   "families": [
+    "*"
+   ],
+   "origin": "AI_GENERATED",
+   "source_key": null,
+   "year": null,
+   "valid_until": null,
+   "tags": [
+    "volume",
+    "contenance",
+    "conversion d'unités"
+   ]
+  },
+  {
+   "id": "num-problemes-mesures-0028",
+   "type": "NUMERIC",
+   "language": "ar",
+   "stem": "ما حجم مكعّب طول حرفه 4 صم؟ (أدخل الإجابة بالصنتيمتر المكعّب)",
+   "options": [],
+   "correct": {
+    "value": 64,
+    "tolerance": 0
+   },
+   "explanation": "حجم المكعّب = الحرف × الحرف × الحرف = 4 × 4 × 4 = 64 صم³. أمّا 16 صم² فهي مساحة وجه واحد فقط، و96 صم² هي المساحة الجملية لأوجهه الستّة، وكلتاهما مساحة لا حجم.",
+   "difficulty": "EASY",
+   "topic_key": "nu.geometrie-mesures",
+   "objective_key": "nu.geometrie-mesures.o1",
+   "families": [
+    "*"
+   ],
+   "origin": "AI_GENERATED",
+   "source_key": null,
+   "year": null,
+   "valid_until": null,
+   "tags": [
+    "الحجم",
+    "المكعّب"
+   ]
+  },
+  {
+   "id": "num-problemes-mesures-0029",
+   "type": "MCQ_SINGLE",
+   "language": "fr",
+   "stem": "Dans un triangle, deux angles mesurent 50° et 65°. Quelle est la mesure du troisième angle ?",
+   "options": [
+    {
+     "id": "a",
+     "text": "65°"
+    },
+    {
+     "id": "b",
+     "text": "115°"
+    },
+    {
+     "id": "c",
+     "text": "75°"
+    },
+    {
+     "id": "d",
+     "text": "55°"
+    }
+   ],
+   "correct": [
+    "a"
+   ],
+   "explanation": "La somme des angles d'un triangle vaut 180°. Le troisième angle mesure donc 180° − (50° + 65°) = 180° − 115° = 65°. La réponse 115° est la somme des deux angles donnés, pas le troisième angle ; le triangle est d'ailleurs isocèle puisqu'il a deux angles de 65°.",
+   "difficulty": "EASY",
+   "topic_key": "nu.geometrie-mesures",
+   "objective_key": "nu.geometrie-mesures.o1",
+   "families": [
+    "*"
+   ],
+   "origin": "AI_GENERATED",
+   "source_key": null,
+   "year": null,
+   "valid_until": null,
+   "tags": [
+    "angles",
+    "triangle"
+   ]
+  },
+  {
+   "id": "num-problemes-mesures-0030",
+   "type": "MATCHING",
+   "language": "ar",
+   "stem": "اربط كلّ وحدة قيس بما يساويها.",
+   "options": [
+    {
+     "id": "l1",
+     "text": "1 هكتار",
+     "side": "left"
+    },
+    {
+     "id": "l2",
+     "text": "1 لتر",
+     "side": "left"
+    },
+    {
+     "id": "l3",
+     "text": "1 طنّ",
+     "side": "left"
+    },
+    {
+     "id": "l4",
+     "text": "1 ساعة",
+     "side": "left"
+    },
+    {
+     "id": "r1",
+     "text": "1000 كغ",
+     "side": "right"
+    },
+    {
+     "id": "r2",
+     "text": "3600 ثانية",
+     "side": "right"
+    },
+    {
+     "id": "r3",
+     "text": "10 000 م²",
+     "side": "right"
+    },
+    {
+     "id": "r4",
+     "text": "1 دسم³",
+     "side": "right"
+    }
+   ],
+   "correct": {
+    "pairs": [
+     [
+      "l1",
+      "r3"
+     ],
+     [
+      "l2",
+      "r4"
+     ],
+     [
+      "l3",
+      "r1"
+     ],
+     [
+      "l4",
+      "r2"
+     ]
+    ]
+   },
+   "explanation": "الهكتار مساحة مربّع ضلعه 100 م، أي 100 × 100 = 10 000 م². اللتر يساوي دسيمترًا مكعّبًا واحدًا، والطنّ يساوي 1000 كغ، والساعة تساوي 60 × 60 = 3600 ثانية. الخلط الشائع هو بين الهكتار (10 000 م²) والآر (100 م²).",
+   "difficulty": "EASY",
+   "topic_key": "nu.geometrie-mesures",
+   "objective_key": "nu.geometrie-mesures.o1",
+   "families": [
+    "*"
+   ],
+   "origin": "AI_GENERATED",
+   "source_key": null,
+   "year": null,
+   "valid_until": null,
+   "tags": [
+    "وحدات القيس",
+    "تحويل الوحدات"
+   ]
+  },
+  {
+   "id": "num-problemes-mesures-0031",
+   "type": "MCQ_SINGLE",
+   "language": "fr",
+   "stem": "Quelle est l'aire d'un disque de rayon 5 cm ? (prendre π ≈ 3,14)",
+   "options": [
+    {
+     "id": "a",
+     "text": "31,4 cm²"
+    },
+    {
+     "id": "b",
+     "text": "314 cm²"
+    },
+    {
+     "id": "c",
+     "text": "15,7 cm²"
+    },
+    {
+     "id": "d",
+     "text": "78,5 cm²"
+    }
+   ],
+   "correct": [
+    "d"
+   ],
+   "explanation": "L'aire d'un disque est π × r² = 3,14 × 5² = 3,14 × 25 = 78,5 cm². La réponse 31,4 correspond au périmètre du cercle (2 × π × r = 31,4 cm), qui est une longueur et non une aire. Quant à 314 cm², c'est π × 10², obtenu en utilisant le diamètre à la place du rayon.",
+   "difficulty": "MEDIUM",
+   "topic_key": "nu.geometrie-mesures",
+   "objective_key": "nu.geometrie-mesures.o1",
+   "families": [
+    "*"
+   ],
+   "origin": "AI_GENERATED",
+   "source_key": null,
+   "year": null,
+   "valid_until": null,
+   "tags": [
+    "aire",
+    "disque",
+    "nombre pi"
+   ]
+  },
+  {
+   "id": "num-problemes-mesures-0032",
+   "type": "NUMERIC",
+   "language": "ar",
+   "stem": "مثلّث قائم الزاوية طولا ضلعَي الزاوية القائمة فيه 6 صم و8 صم. ما طول الوتر بالصنتيمتر؟",
+   "options": [],
+   "correct": {
+    "value": 10,
+    "tolerance": 0
+   },
+   "explanation": "حسب مبرهنة فيثاغورس: الوتر² = 6² + 8² = 36 + 64 = 100، إذن الوتر = √100 = 10 صم. أمّا جمع الضلعين مباشرة (6 + 8 = 14) فخطأ، لأن المبرهنة تخصّ مربّعات الأطوال لا الأطوال نفسها.",
+   "difficulty": "MEDIUM",
+   "topic_key": "nu.geometrie-mesures",
+   "objective_key": "nu.geometrie-mesures.o1",
+   "families": [
+    "*"
+   ],
+   "origin": "AI_GENERATED",
+   "source_key": null,
+   "year": null,
+   "valid_until": null,
+   "tags": [
+    "مبرهنة فيثاغورس",
+    "المثلّث القائم"
+   ]
+  },
+  {
+   "id": "num-problemes-mesures-0033",
+   "type": "MCQ_SINGLE",
+   "language": "fr",
+   "stem": "Sur une carte à l'échelle 1/50 000, deux villages sont séparés de 7 cm. Quelle est la distance réelle entre ces deux villages ?",
+   "options": [
+    {
+     "id": "a",
+     "text": "3,5 km"
+    },
+    {
+     "id": "b",
+     "text": "350 m"
+    },
+    {
+     "id": "c",
+     "text": "35 km"
+    },
+    {
+     "id": "d",
+     "text": "350 km"
+    }
+   ],
+   "correct": [
+    "a"
+   ],
+   "explanation": "À l'échelle 1/50 000, 1 cm sur la carte représente 50 000 cm en réalité. La distance réelle vaut 7 × 50 000 = 350 000 cm = 3 500 m = 3,5 km. La réponse 35 km résulte d'une erreur de conversion : 350 000 cm font 3,5 km (1 km = 100 000 cm), et non 35 km.",
+   "difficulty": "MEDIUM",
+   "topic_key": "nu.geometrie-mesures",
+   "objective_key": "nu.geometrie-mesures.o1",
+   "families": [
+    "*"
+   ],
+   "origin": "AI_GENERATED",
+   "source_key": null,
+   "year": null,
+   "valid_until": null,
+   "tags": [
+    "échelle",
+    "conversion d'unités"
+   ]
+  },
+  {
+   "id": "num-problemes-mesures-0034",
+   "type": "MCQ_SINGLE",
+   "language": "ar",
+   "stem": "سرعة سيارة 90 كم/س. كم تساوي هذه السرعة بالمتر في الثانية؟",
+   "options": [
+    {
+     "id": "a",
+     "text": "324 م/ث"
+    },
+    {
+     "id": "b",
+     "text": "1,5 م/ث"
+    },
+    {
+     "id": "c",
+     "text": "15 م/ث"
+    },
+    {
+     "id": "d",
+     "text": "25 م/ث"
+    }
+   ],
+   "correct": [
+    "d"
+   ],
+   "explanation": "1 كم/س = 1000 م ÷ 3600 ث، أي إن التحويل من كم/س إلى م/ث يتمّ بالقسمة على 3,6. إذن 90 ÷ 3,6 = 25 م/ث. أمّا 324 فناتجة عن الضرب في 3,6 بدل القسمة، و1,5 تساوي 90 ÷ 60، أي عدد الكيلومترات في الدقيقة وليس الأمتار في الثانية.",
+   "difficulty": "MEDIUM",
+   "topic_key": "nu.geometrie-mesures",
+   "objective_key": "nu.geometrie-mesures.o1",
+   "families": [
+    "*"
+   ],
+   "origin": "AI_GENERATED",
+   "source_key": null,
+   "year": null,
+   "valid_until": null,
+   "tags": [
+    "تحويل وحدات السرعة"
+   ]
+  },
+  {
+   "id": "num-problemes-mesures-0035",
+   "type": "NUMERIC",
+   "language": "fr",
+   "stem": "Une citerne a la forme d'un pavé droit de 2 m de long, 1,5 m de large et 0,8 m de profondeur. Quelle est sa contenance, en litres ?",
+   "options": [],
+   "correct": {
+    "value": 2400,
+    "tolerance": 0
+   },
+   "explanation": "Le volume vaut 2 × 1,5 × 0,8 = 2,4 m³. Comme 1 m³ = 1 000 L, la citerne contient 2,4 × 1 000 = 2 400 L. Répondre 240 L revient à utiliser à tort le facteur 100 au lieu de 1 000 pour passer des m³ aux litres.",
+   "difficulty": "MEDIUM",
+   "topic_key": "nu.geometrie-mesures",
+   "objective_key": "nu.geometrie-mesures.o1",
+   "families": [
+    "*"
+   ],
+   "origin": "AI_GENERATED",
+   "source_key": null,
+   "year": null,
+   "valid_until": null,
+   "tags": [
+    "volume",
+    "pavé droit",
+    "contenance"
+   ]
+  },
+  {
+   "id": "num-problemes-mesures-0036",
+   "type": "MCQ_MULTI",
+   "language": "ar",
+   "stem": "أيّ من المساويات التالية صحيحة؟ (أكثر من إجابة ممكنة)",
+   "options": [
+    {
+     "id": "a",
+     "text": "1 م² = 100 دسم²"
+    },
+    {
+     "id": "b",
+     "text": "1 كم² = 100 هكتار"
+    },
+    {
+     "id": "c",
+     "text": "1 لتر = 100 صم³"
+    },
+    {
+     "id": "d",
+     "text": "1 صم² = 10 مم²"
+    }
+   ],
+   "correct": [
+    "a",
+    "b"
+   ],
+   "explanation": "في وحدات المساحة ننتقل من وحدة إلى التي تليها بالضرب في 100: 1 م² = 10 دسم × 10 دسم = 100 دسم²، و1 كم² = 1000 م × 1000 م = 1 000 000 م² = 100 هكتار. أمّا اللتر فيساوي 1 دسم³ = 1000 صم³ لا 100، و1 صم² = 10 مم × 10 مم = 100 مم² لا 10.",
+   "difficulty": "MEDIUM",
+   "topic_key": "nu.geometrie-mesures",
+   "objective_key": "nu.geometrie-mesures.o1",
+   "families": [
+    "*"
+   ],
+   "origin": "AI_GENERATED",
+   "source_key": null,
+   "year": null,
+   "valid_until": null,
+   "tags": [
+    "وحدات المساحة",
+    "وحدات الحجم"
+   ]
+  },
+  {
+   "id": "num-problemes-mesures-0037",
+   "type": "MCQ_SINGLE",
+   "language": "fr",
+   "stem": "Un terrain a la forme d'un trapèze dont les bases mesurent 30 m et 20 m et dont la hauteur est de 12 m. Quelle est son aire ?",
+   "options": [
+    {
+     "id": "a",
+     "text": "600 m²"
+    },
+    {
+     "id": "b",
+     "text": "360 m²"
+    },
+    {
+     "id": "c",
+     "text": "300 m²"
+    },
+    {
+     "id": "d",
+     "text": "240 m²"
+    }
+   ],
+   "correct": [
+    "c"
+   ],
+   "explanation": "L'aire d'un trapèze est (grande base + petite base) × hauteur ÷ 2 = (30 + 20) × 12 ÷ 2 = 50 × 12 ÷ 2 = 300 m². La réponse 600 m² oublie la division par 2, et 360 m² (30 × 12) n'utilise que la grande base, comme pour un rectangle.",
+   "difficulty": "MEDIUM",
+   "topic_key": "nu.geometrie-mesures",
+   "objective_key": "nu.geometrie-mesures.o1",
+   "families": [
+    "*"
+   ],
+   "origin": "AI_GENERATED",
+   "source_key": null,
+   "year": null,
+   "valid_until": null,
+   "tags": [
+    "aire",
+    "trapèze"
+   ]
+  },
+  {
+   "id": "num-problemes-mesures-0038",
+   "type": "TRUE_FALSE",
+   "language": "ar",
+   "stem": "صحيح أم خطأ: إذا ضاعفنا طول ضلع مربّع، فإن مساحته تتضاعف هي أيضًا (أي تصبح مرّتين المساحة الأصلية).",
+   "options": [
+    {
+     "id": "a",
+     "text": "صحيح"
+    },
+    {
+     "id": "b",
+     "text": "خطأ"
+    }
+   ],
+   "correct": [
+    "b"
+   ],
+   "explanation": "إذا كان طول الضلع a فالمساحة a²، وإذا صار الضلع 2a صارت المساحة (2a)² = 4a²، أي أربعة أضعاف المساحة الأصلية. مثلًا مربّع ضلعه 3 م مساحته 9 م²، ومربّع ضلعه 6 م مساحته 36 م². لذلك العبارة خاطئة، أمّا المحيط فهو الذي يتضاعف فعلًا.",
+   "difficulty": "MEDIUM",
+   "topic_key": "nu.geometrie-mesures",
+   "objective_key": "nu.geometrie-mesures.o1",
+   "families": [
+    "*"
+   ],
+   "origin": "AI_GENERATED",
+   "source_key": null,
+   "year": null,
+   "valid_until": null,
+   "tags": [
+    "المساحة",
+    "المربّع",
+    "التكبير"
+   ]
+  },
+  {
+   "id": "num-problemes-mesures-0039",
+   "type": "ORDERING",
+   "language": "fr",
+   "stem": "Rangez ces aires de la plus petite à la plus grande.",
+   "options": [
+    {
+     "id": "a",
+     "text": "0,5 m²"
+    },
+    {
+     "id": "b",
+     "text": "4 500 cm²"
+    },
+    {
+     "id": "c",
+     "text": "48 dm²"
+    },
+    {
+     "id": "d",
+     "text": "52 000 mm²"
+    }
+   ],
+   "correct": {
+    "order": [
+     "d",
+     "b",
+     "c",
+     "a"
+    ]
+   },
+   "explanation": "Convertissons tout en cm² : 0,5 m² = 5 000 cm² ; 48 dm² = 4 800 cm² ; 52 000 mm² = 520 cm² (car 1 cm² = 100 mm²). L'ordre croissant est donc 520 < 4 500 < 4 800 < 5 000. Le piège principal est de se fier au nombre affiché (52 000 paraît le plus grand) sans convertir.",
+   "difficulty": "MEDIUM",
+   "topic_key": "nu.geometrie-mesures",
+   "objective_key": "nu.geometrie-mesures.o1",
+   "families": [
+    "*"
+   ],
+   "origin": "AI_GENERATED",
+   "source_key": null,
+   "year": null,
+   "valid_until": null,
+   "tags": [
+    "conversion d'unités d'aire",
+    "comparaison"
+   ]
+  },
+  {
+   "id": "num-problemes-mesures-0040",
+   "type": "NUMERIC",
+   "language": "ar",
+   "stem": "ماجل (خزّان ماء) أسطوانيّ الشكل، قطر قاعدته 2 م وعمقه 1,5 م. كم لترًا يسع عندما يكون ممتلئًا؟ (خذ π ≈ 3,14)",
+   "options": [],
+   "correct": {
+    "value": 4710,
+    "tolerance": 5
+   },
+   "explanation": "نصف القطر = 2 ÷ 2 = 1 م، والحجم = π × r² × h = 3,14 × 1² × 1,5 = 4,71 م³. وبما أن 1 م³ = 1000 لتر فإن الماجل يسع 4710 لترات. الخطأ الشائع هو استعمال القطر بدل نصف القطر، فنحصل على 3,14 × 2² × 1,5 = 18,84 م³، أي أربعة أضعاف الحجم الصحيح.",
+   "difficulty": "HARD",
+   "topic_key": "nu.geometrie-mesures",
+   "objective_key": "nu.geometrie-mesures.o1",
+   "families": [
+    "*"
+   ],
+   "origin": "AI_GENERATED",
+   "source_key": null,
+   "year": null,
+   "valid_until": null,
+   "tags": [
+    "حجم الأسطوانة",
+    "تحويل م³ إلى لتر"
+   ]
+  },
+  {
+   "id": "num-problemes-mesures-0041",
+   "type": "MCQ_SINGLE",
+   "language": "fr",
+   "stem": "On veut peindre les quatre murs (sans le plafond) d'une salle rectangulaire de 6 m sur 4 m et de 3 m de hauteur. On ne peint ni la porte (2 m²) ni la fenêtre (1,5 m²). Quelle surface faut-il peindre ?",
+   "options": [
+    {
+     "id": "a",
+     "text": "60 m²"
+    },
+    {
+     "id": "b",
+     "text": "56,5 m²"
+    },
+    {
+     "id": "c",
+     "text": "80,5 m²"
+    },
+    {
+     "id": "d",
+     "text": "53 m²"
+    }
+   ],
+   "correct": [
+    "b"
+   ],
+   "explanation": "La surface des quatre murs est égale au périmètre de la salle multiplié par la hauteur : 2 × (6 + 4) × 3 = 20 × 3 = 60 m². On retire ensuite la porte et la fenêtre : 60 − (2 + 1,5) = 56,5 m². La réponse 60 m² oublie ces ouvertures, et 80,5 m² ajoute à tort le plafond (6 × 4 = 24 m²).",
+   "difficulty": "HARD",
+   "topic_key": "nu.geometrie-mesures",
+   "objective_key": "nu.geometrie-mesures.o1",
+   "families": [
+    "*"
+   ],
+   "origin": "AI_GENERATED",
+   "source_key": null,
+   "year": null,
+   "valid_until": null,
+   "tags": [
+    "aire latérale",
+    "problème concret"
+   ]
+  },
+  {
+   "id": "num-problemes-mesures-0042",
+   "type": "MCQ_MULTI",
+   "language": "ar",
+   "stem": "أيّ العبارات التالية صحيحة؟ (أكثر من إجابة ممكنة)",
+   "options": [
+    {
+     "id": "a",
+     "text": "مجموع أقياس زوايا خماسيّ محدّب يساوي 540°"
+    },
+    {
+     "id": "b",
+     "text": "قيس كلّ زاوية من زوايا مسدّس منتظم يساوي 120°"
+    },
+    {
+     "id": "c",
+     "text": "مجموع أقياس زوايا رباعيّ محدّب يساوي 180°"
+    },
+    {
+     "id": "d",
+     "text": "قيس كلّ زاوية من زوايا مثمّن منتظم يساوي 150°"
+    }
+   ],
+   "correct": [
+    "a",
+    "b"
+   ],
+   "explanation": "مجموع أقياس زوايا مضلّع محدّب له n ضلعًا هو (n − 2) × 180°. للخماسيّ: 3 × 180° = 540°، وللمسدّس: 4 × 180° = 720° أي 720° ÷ 6 = 120° لكلّ زاوية. أمّا الرباعيّ فمجموع زواياه 2 × 180° = 360° لا 180°، وزاوية المثمّن المنتظم 6 × 180° ÷ 8 = 135° لا 150° (150° هي زاوية المضلّع المنتظم ذي 12 ضلعًا).",
+   "difficulty": "HARD",
+   "topic_key": "nu.geometrie-mesures",
+   "objective_key": "nu.geometrie-mesures.o1",
+   "families": [
+    "*"
+   ],
+   "origin": "AI_GENERATED",
+   "source_key": null,
+   "year": null,
+   "valid_until": null,
+   "tags": [
+    "زوايا المضلّعات",
+    "المضلّع المنتظم"
+   ]
+  },
+  {
+   "id": "num-problemes-mesures-0043",
+   "type": "NUMERIC",
+   "language": "fr",
+   "stem": "Une échelle de 5 m de long est appuyée contre un mur vertical ; son pied est posé sur un sol horizontal à 1,4 m du mur. À quelle hauteur, en mètres, le haut de l'échelle touche-t-il le mur ? (nombre décimal)",
+   "options": [],
+   "correct": {
+    "value": 4.8,
+    "tolerance": 0.01
+   },
+   "explanation": "Le mur, le sol et l'échelle forment un triangle rectangle dont l'échelle est l'hypoténuse. D'après le théorème de Pythagore, h² = 5² − 1,4² = 25 − 1,96 = 23,04, donc h = √23,04 = 4,8 m. Additionner les carrés (25 + 1,96) au lieu de les soustraire est l'erreur principale : l'échelle est le plus grand côté, la hauteur cherchée est donc inférieure à 5 m.",
+   "difficulty": "HARD",
+   "topic_key": "nu.geometrie-mesures",
+   "objective_key": "nu.geometrie-mesures.o1",
+   "families": [
+    "*"
+   ],
+   "origin": "AI_GENERATED",
+   "source_key": null,
+   "year": null,
+   "valid_until": null,
+   "tags": [
+    "théorème de Pythagore",
+    "problème concret"
+   ]
+  },
+  {
+   "id": "num-problemes-mesures-0044",
+   "type": "NUMERIC",
+   "language": "fr",
+   "stem": "La maquette d'un château d'eau est réalisée à l'échelle 1/20 (toutes les longueurs réelles sont divisées par 20). Le réservoir de la maquette contient 3 litres. Combien de litres contient le réservoir réel ?",
+   "options": [],
+   "correct": {
+    "value": 24000,
+    "tolerance": 0
+   },
+   "explanation": "Quand les longueurs sont multipliées par k = 20, les aires sont multipliées par k² = 400 et les volumes par k³ = 8 000. Le réservoir réel contient donc 3 × 8 000 = 24 000 L, soit 24 m³. La réponse 60 L (3 × 20) applique à tort le coefficient des longueurs, et 1 200 L (3 × 400) celui des aires.",
+   "difficulty": "EXPERT",
+   "topic_key": "nu.geometrie-mesures",
+   "objective_key": "nu.geometrie-mesures.o1",
+   "families": [
+    "*"
+   ],
+   "origin": "AI_GENERATED",
+   "source_key": null,
+   "year": null,
+   "valid_until": null,
+   "tags": [
+    "échelle et volumes",
+    "agrandissement"
+   ]
+  },
+  {
+   "id": "num-problemes-mesures-0045",
+   "type": "MCQ_SINGLE",
+   "language": "ar",
+   "stem": "حديقة دائريّة الشكل نصف قطرها 10 م، يحيط بها من الخارج ممرّ عرضه 2 م. ما مساحة هذا الممرّ؟ (خذ π ≈ 3,14)",
+   "options": [
+    {
+     "id": "a",
+     "text": "125,6 م²"
+    },
+    {
+     "id": "b",
+     "text": "452,16 م²"
+    },
+    {
+     "id": "c",
+     "text": "12,56 م²"
+    },
+    {
+     "id": "d",
+     "text": "138,16 م²"
+    }
+   ],
+   "correct": [
+    "d"
+   ],
+   "explanation": "الممرّ هو الفرق بين قرص نصف قطره 10 + 2 = 12 م وقرص الحديقة الذي نصف قطره 10 م: π × (12² − 10²) = 3,14 × (144 − 100) = 3,14 × 44 = 138,16 م². الإجابة 125,6 م² تضرب محيط الحديقة في عرض الممرّ (2 × 3,14 × 10 × 2)، فتُهمل أن الحافة الخارجية للممرّ أطول من الداخلية. أمّا 452,16 م² فهي مساحة القرص الكبير كاملًا.",
+   "difficulty": "EXPERT",
+   "topic_key": "nu.geometrie-mesures",
+   "objective_key": "nu.geometrie-mesures.o1",
+   "families": [
+    "*"
+   ],
+   "origin": "AI_GENERATED",
+   "source_key": null,
+   "year": null,
+   "valid_until": null,
+   "tags": [
+    "مساحة القرص",
+    "التاج الدائري"
+   ]
+  }
+ ]
+}

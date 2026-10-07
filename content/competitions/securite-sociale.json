@@ -1,0 +1,1894 @@
+{
+ "family": {
+  "slug": "securite-sociale",
+  "field": "ADMINISTRATION",
+  "organization": {
+   "slug": "caisses-securite-sociale",
+   "name_ar": "الصناديق الاجتماعية (الصندوق الوطني للضمان الاجتماعي، الصندوق الوطني للتأمين على المرض، الصندوق الوطني للتقاعد والحيطة الاجتماعية)",
+   "name_fr": "Caisses de sécurité sociale (CNSS, CNAM, CNRPS)",
+   "ministry_fr": "Ministère des Affaires sociales (tutelle — à vérifier)",
+   "website": "https://www.social.gov.tn"
+  },
+  "name_ar": "مناظرات انتداب أعوان وإطارات الصناديق الاجتماعية (الضمان الاجتماعي، التأمين على المرض، التقاعد والحيطة الاجتماعية)",
+  "name_fr": "Concours de recrutement des caisses de sécurité sociale (CNSS, CNAM, CNRPS)",
+  "description_ar": "مناظرات خارجية تنظمها الصناديق الاجتماعية التونسية — الصندوق الوطني للضمان الاجتماعي (CNSS)، الصندوق الوطني للتأمين على المرض (CNAM)، والصندوق الوطني للتقاعد والحيطة الاجتماعية (CNRPS) — لانتداب إطارات تصرف ومراقبين وأعوان إداريين وأطباء مستشارين ومهندسين في الإعلامية. ينظم كل صندوق مناظراته بنفسه ويعلن عنها على موقعه وفي الصحافة. تنبيه هام: لم يتسنّ فتح أي مصدر (رسمي أو صحفي) أثناء هذا البحث، ولم نعثر على أي دورة مؤكدة بين 2023 و2026؛ كل الرتب والشروط والمراحل والمواد والوثائق الواردة هنا مقترحات تحريرية في انتظار التثبت من بلاغات الصناديق.",
+  "description_fr": "Concours externes organisés par les caisses tunisiennes de sécurité sociale — Caisse Nationale de Sécurité Sociale (CNSS), Caisse Nationale d'Assurance Maladie (CNAM) et Caisse Nationale de Retraite et de Prévoyance Sociale (CNRPS) — pour recruter des cadres gestionnaires, des contrôleurs, des agents administratifs, des médecins conseils et des ingénieurs informaticiens. Chaque caisse organise ses propres concours et les annonce sur son site et dans la presse. Avertissement important : aucune source (officielle ou presse) n'a pu être consultée lors de cette recherche et aucune session confirmée n'a été trouvée pour 2023-2026 ; grades, conditions, phases, matières et pièces indiqués ici sont des suggestions éditoriales en attente de vérification sur les avis des caisses.",
+  "frequency": "IRREGULAR",
+  "frequency_confidence": "LOW",
+  "popularity": 3,
+  "keywords": [
+   "CNSS",
+   "CNAM",
+   "CNRPS",
+   "sécurité sociale",
+   "caisse sociale",
+   "caisses sociales",
+   "assurance maladie",
+   "retraite",
+   "prévoyance sociale",
+   "الضمان الاجتماعي",
+   "الصندوق الوطني للضمان الاجتماعي",
+   "الكنام",
+   "الصندوق الوطني للتأمين على المرض",
+   "التأمين على المرض",
+   "الصندوق الوطني للتقاعد والحيطة الاجتماعية",
+   "التقاعد",
+   "الصناديق الاجتماعية",
+   "مناظرة الضمان الاجتماعي",
+   "مناظرة الكنام",
+   "انتداب الصناديق الاجتماعية",
+   "concours CNSS",
+   "concours CNAM",
+   "concours CNRPS",
+   "recrutement CNSS",
+   "médecin conseil",
+   "طبيب مستشار",
+   "contrôleur CNSS",
+   "مراقب الضمان الاجتماعي",
+   "متصرف",
+   "administrateur",
+   "ministère des Affaires sociales",
+   "وزارة الشؤون الاجتماعية"
+  ]
+ },
+ "sources": [
+  {
+   "key": "s1",
+   "title": "Site officiel de la Caisse Nationale de Sécurité Sociale (CNSS) — الصندوق الوطني للضمان الاجتماعي",
+   "url": "https://www.cnss.tn",
+   "publisher": "Caisse Nationale de Sécurité Sociale (CNSS)",
+   "source_type": "OFFICIAL",
+   "publication_date": null,
+   "retrieved_at": "2026-10-07",
+   "confidence": "LOW",
+   "notes": "PAGE NON CONSULTÉE : WebFetch renvoie EGRESS_BLOCKED pour www.cnss.tn. Citée uniquement comme lieu de vérification des avis de concours, résultats et conditions (rubrique recrutement/concours à localiser). Aucun fait de ce fichier n'en provient."
+  },
+  {
+   "key": "s2",
+   "title": "Site officiel de la Caisse Nationale d'Assurance Maladie (CNAM) — الصندوق الوطني للتأمين على المرض",
+   "url": "https://www.cnam.nat.tn",
+   "publisher": "Caisse Nationale d'Assurance Maladie (CNAM)",
+   "source_type": "OFFICIAL",
+   "publication_date": null,
+   "retrieved_at": "2026-10-07",
+   "confidence": "LOW",
+   "notes": "PAGE NON CONSULTÉE : WebFetch renvoie EGRESS_BLOCKED pour www.cnam.nat.tn. Lieu de vérification des avis de recrutement (notamment médecins/pharmaciens/dentistes conseils). Aucun fait de ce fichier n'en provient."
+  },
+  {
+   "key": "s3",
+   "title": "Site officiel de la Caisse Nationale de Retraite et de Prévoyance Sociale (CNRPS) — الصندوق الوطني للتقاعد والحيطة الاجتماعية",
+   "url": "https://www.cnrps.nat.tn",
+   "publisher": "Caisse Nationale de Retraite et de Prévoyance Sociale (CNRPS)",
+   "source_type": "OFFICIAL",
+   "publication_date": null,
+   "retrieved_at": "2026-10-07",
+   "confidence": "LOW",
+   "notes": "PAGE NON CONSULTÉE : WebFetch renvoie EGRESS_BLOCKED pour www.cnrps.nat.tn (et www.cnrps.tn). Lieu de vérification des avis de recrutement. Aucun fait de ce fichier n'en provient."
+  },
+  {
+   "key": "s4",
+   "title": "Ministère des Affaires sociales (autorité de tutelle des caisses sociales — à vérifier)",
+   "url": "https://www.social.gov.tn",
+   "publisher": "Ministère des Affaires sociales — وزارة الشؤون الاجتماعية",
+   "source_type": "OFFICIAL",
+   "publication_date": null,
+   "retrieved_at": "2026-10-07",
+   "confidence": "LOW",
+   "notes": "PAGE NON CONSULTÉE : WebFetch renvoie EGRESS_BLOCKED pour www.social.gov.tn. Lieu de vérification de la tutelle, des textes organiques et d'éventuels avis de recrutement relayés. Aucun fait de ce fichier n'en provient."
+  },
+  {
+   "key": "s5",
+   "title": "Portail national des concours de la fonction publique (concours.gov.tn)",
+   "url": "https://www.concours.gov.tn",
+   "publisher": "Présidence du Gouvernement",
+   "source_type": "OFFICIAL",
+   "publication_date": null,
+   "retrieved_at": "2026-10-07",
+   "confidence": "LOW",
+   "notes": "PAGE NON CONSULTÉE : EGRESS_BLOCKED (curl et WebFetch). Il n'est pas confirmé que les caisses sociales (établissements publics non administratifs) y publient leurs avis ; à vérifier."
+  },
+  {
+   "key": "s6",
+   "title": "Base de données juridique nationale (legislation.tn) — vérification des textes cités dans le programme suggéré",
+   "url": "http://www.legislation.tn",
+   "publisher": "Imprimerie Officielle de la République Tunisienne / Présidence du Gouvernement",
+   "source_type": "OFFICIAL",
+   "publication_date": null,
+   "retrieved_at": "2026-10-07",
+   "confidence": "LOW",
+   "notes": "PAGE NON CONSULTÉE : EGRESS_BLOCKED. Les références de lois mentionnées dans specialty_syllabus (loi 60-30, loi 85-12, loi 2004-71, loi 94-28, loi organique 2004-63, réforme des retraites 2019) proviennent des connaissances générales de l'équipe et doivent être vérifiées ici (numéro, date, version consolidée)."
+  }
+ ],
+ "editions": [],
+ "positions": [
+  {
+   "slug": "cadre-gestionnaire",
+   "title_ar": "إطار تصرف إداري بالصناديق الاجتماعية (متصرف / ملحق تصرف — التسمية الدقيقة للرتبة للتثبت)",
+   "title_fr": "Cadre gestionnaire des caisses sociales (administrateur / attaché de gestion — intitulé exact du grade à vérifier)",
+   "diploma_level": "LICENCE",
+   "eligibility": {
+    "min_age": null,
+    "max_age": null,
+    "genders": [
+     "M",
+     "F"
+    ],
+    "nationality": "TN",
+    "diplomas": [
+     "LICENCE"
+    ],
+    "specialties": [],
+    "min_height_cm_male": null,
+    "min_height_cm_female": null,
+    "marital_status": null,
+    "other_ar": [
+     "[مقترح] الإجازة أو الأستاذية أو الماجستير في الحقوق أو العلوم الاقتصادية أو التصرف أو المالية أو المحاسبة أو العلوم الاجتماعية — القائمة الرسمية تُحدَّد في بلاغ كل صندوق ولم تُعتمد كشرط آلي",
+     "[مقترح] الجنسية التونسية والتمتع بالحقوق المدنية وحسن السيرة (بطاقة عدد 3 نقية)",
+     "[مقترح] حدّ أقصى للسن يُحدَّد في بلاغ المناظرة (يُرجَّح أن يكون بين 35 و40 سنة حسب النظام الأساسي لأعوان الصندوق المعني) — غير مؤكد، لذلك لم يُعتمد كشرط آلي",
+     "[مقترح] تسوية الوضعية إزاء الخدمة الوطنية بالنسبة للذكور",
+     "[مقترح] شرط عدم الانتفاع بعمل قار أو التسجيل بمكتب التشغيل يرد أحيانا في مناظرات المؤسسات العمومية — للتثبت في كل بلاغ",
+     "[مقترح] القدرة البدنية والذهنية على العمل (شهادة طبية) والاستعداد للعمل بأي مكتب جهوي أو محلي للصندوق"
+    ],
+    "other_fr": [
+     "[Suggestion] Licence, maîtrise ou master en droit, sciences économiques, gestion, finance, comptabilité ou sciences sociales — la liste officielle figure dans l'avis de chaque caisse ; non appliquée comme filtre automatique",
+     "[Suggestion] Nationalité tunisienne, jouissance des droits civiques et bonne moralité (bulletin n° 3 vierge)",
+     "[Suggestion] Âge maximal fixé par l'avis du concours (probablement entre 35 et 40 ans selon le statut du personnel de la caisse concernée) — non confirmé, donc non appliqué comme filtre automatique",
+     "[Suggestion] Situation régulière vis-à-vis du service national (hommes)",
+     "[Suggestion] Une condition de non-emploi ou d'inscription au bureau de l'emploi figure parfois dans les concours des établissements publics — à vérifier dans chaque avis",
+     "[Suggestion] Aptitude physique et mentale (certificat médical) et disponibilité pour servir dans tout bureau régional ou local de la caisse"
+    ],
+    "source_key": null,
+    "confidence": "LOW",
+    "needs_verification": true,
+    "source_quote": null
+   },
+   "phases": [
+    {
+     "order": 1,
+     "kind": "FILE_REVIEW",
+     "name_ar": "الترشح والانتقاء الأولي على الملفات",
+     "name_fr": "Candidature et présélection sur dossier",
+     "is_eliminatory": true,
+     "duration_minutes": null,
+     "description_ar": "[مقترح] إيداع مطلب الترشح عبر المنصة أو العنوان الذي يحدده بلاغ الصندوق (تسجيل عن بعد أو ملف بالبريد مضمون الوصول — غير مؤكد)، ثم انتقاء أولي حسب معايير معلنة مسبقا (معدلات سنوات الدراسة، سنة الحصول على الشهادة، الاختصاص). بعض مناظرات المؤسسات العمومية تُجرى «بالملفات» فقط دون اختبار كتابي.",
+     "description_fr": "[Suggestion] Dépôt de la candidature sur la plateforme ou à l'adresse indiquée par l'avis de la caisse (inscription en ligne ou dossier par courrier recommandé — non confirmé), puis présélection selon des critères publiés (moyennes, année d'obtention du diplôme, spécialité). Certains concours d'établissements publics se font uniquement « sur dossiers », sans épreuve écrite.",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "order": 2,
+     "kind": "WRITTEN",
+     "name_ar": "الاختبارات الكتابية (القبول الأولي)",
+     "name_fr": "Épreuves écrites d'admissibilité",
+     "is_eliminatory": true,
+     "duration_minutes": null,
+     "description_ar": "[مقترح] اختبار في تشريع الضمان الاجتماعي (أنظمة الصندوق الوطني للضمان الاجتماعي والصندوق الوطني للتقاعد والحيطة الاجتماعية والتأمين على المرض)، واختبار في الثقافة العامة أو موضوع اقتصادي واجتماعي، واختبار لغة، وربما اختبار تحرير إداري. الشكل (تحرير أو أسئلة متعددة الاختيارات) والمدد والضوارب غير معروفة.",
+     "description_fr": "[Suggestion] Épreuve de législation de sécurité sociale (régimes CNSS, CNRPS et assurance maladie), épreuve de culture générale ou sujet économique et social, épreuve de langue, éventuellement rédaction administrative. Forme (rédaction ou QCM), durées et coefficients inconnus.",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "order": 3,
+     "kind": "ORAL",
+     "name_ar": "الاختبار الشفاهي (القبول النهائي)",
+     "name_fr": "Épreuve orale / entretien d'admission",
+     "is_eliminatory": true,
+     "duration_minutes": null,
+     "description_ar": "[مقترح] محادثة مع لجنة المناظرة حول الدوافع والثقافة العامة والمعلومات المهنية المتعلقة بالصندوق ومهامه. المدة والضارب غير معروفين.",
+     "description_fr": "[Suggestion] Entretien avec le jury portant sur la motivation, la culture générale et les connaissances professionnelles relatives à la caisse et à ses missions. Durée et coefficient inconnus.",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "order": 4,
+     "kind": "MEDICAL",
+     "name_ar": "الفحص الطبي واستكمال ملف الانتداب",
+     "name_fr": "Visite médicale et dossier de nomination",
+     "is_eliminatory": true,
+     "duration_minutes": null,
+     "description_ar": "[مقترح] تقديم الوثائق الأصلية وشهادة طبية في القدرة على العمل قبل الانتداب.",
+     "description_fr": "[Suggestion] Production des pièces originales et d'un certificat médical d'aptitude avant le recrutement.",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "order": 5,
+     "kind": "TRAINING",
+     "name_ar": "فترة التربص والترسيم",
+     "name_fr": "Période de stage et titularisation",
+     "is_eliminatory": false,
+     "duration_minutes": null,
+     "description_ar": "[مقترح] فترة تربص (تُقدَّر بسنة) مع تكوين داخلي في تشريع الضمان الاجتماعي وأنظمة المعلومات الخاصة بالصندوق قبل الترسيم. المدة غير مؤكدة.",
+     "description_fr": "[Suggestion] Période de stage (estimée à un an) avec formation interne à la législation de sécurité sociale et aux systèmes d'information de la caisse avant titularisation. Durée non confirmée.",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    }
+   ],
+   "subjects": [
+    {
+     "phase_order": 2,
+     "domain": "SPECIALTY",
+     "specialty_key": "spec.securite-sociale.legislation",
+     "name_ar": "تشريع الضمان الاجتماعي (الأنظمة والمنافع والتمويل)",
+     "name_fr": "Législation de la sécurité sociale (régimes, prestations, financement)",
+     "coefficient": null,
+     "duration_minutes": null,
+     "question_count": null,
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "phase_order": 2,
+     "domain": "SPECIALTY",
+     "specialty_key": "spec.securite-sociale.assurance-maladie",
+     "name_ar": "نظام التأمين على المرض",
+     "name_fr": "Régime d'assurance maladie",
+     "coefficient": null,
+     "duration_minutes": null,
+     "question_count": null,
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "phase_order": 2,
+     "domain": "SPECIALTY",
+     "specialty_key": "spec.droit-administratif",
+     "name_ar": "القانون الإداري والمؤسسات العمومية",
+     "name_fr": "Droit administratif et établissements publics",
+     "coefficient": null,
+     "duration_minutes": null,
+     "question_count": null,
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "phase_order": 2,
+     "domain": "CULTURE_GENERALE",
+     "specialty_key": null,
+     "name_ar": "ثقافة عامة: موضوع اقتصادي واجتماعي (تحرير)",
+     "name_fr": "Culture générale : sujet économique et social (dissertation)",
+     "coefficient": null,
+     "duration_minutes": null,
+     "question_count": null,
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "phase_order": 2,
+     "domain": "SPECIALTY",
+     "specialty_key": "spec.redaction-administrative",
+     "name_ar": "التحرير الإداري",
+     "name_fr": "Rédaction administrative",
+     "coefficient": null,
+     "duration_minutes": null,
+     "question_count": null,
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "phase_order": 2,
+     "domain": "FRENCH",
+     "specialty_key": null,
+     "name_ar": "اللغة الفرنسية",
+     "name_fr": "Langue française",
+     "coefficient": null,
+     "duration_minutes": null,
+     "question_count": null,
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "phase_order": 3,
+     "domain": "CULTURE_GENERALE",
+     "specialty_key": null,
+     "name_ar": "محادثة شفاهية (الدوافع، الثقافة العامة، المعلومات المهنية)",
+     "name_fr": "Entretien oral (motivation, culture générale, connaissances professionnelles)",
+     "coefficient": null,
+     "duration_minutes": null,
+     "question_count": null,
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    }
+   ],
+   "physical_tests": [],
+   "required_documents": [
+    {
+     "text_ar": "[مقترح] مطلب ترشح (أو استمارة التسجيل عن بعد مطبوعة وممضاة) حسب الأنموذج المعتمد في البلاغ",
+     "text_fr": "[Suggestion] Demande de candidature (ou formulaire d'inscription en ligne imprimé et signé) selon le modèle de l'avis",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "text_ar": "[مقترح] نسخة من بطاقة التعريف الوطنية",
+     "text_fr": "[Suggestion] Copie de la carte d'identité nationale",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "text_ar": "[مقترح] نسخة مطابقة للأصل من الشهادة العلمية وكشوف الأعداد لكل سنوات الدراسة، وشهادة معادلة للشهادات الأجنبية",
+     "text_fr": "[Suggestion] Copie certifiée conforme du diplôme et des relevés de notes de toutes les années d'études, et attestation d'équivalence pour les diplômes étrangers",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "text_ar": "[مقترح] بطاقة عدد 3 (السجل العدلي) — تُطلب عادة عند الانتداب",
+     "text_fr": "[Suggestion] Bulletin n° 3 (extrait du casier judiciaire) — généralement exigé au moment du recrutement",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "text_ar": "[مقترح] وثيقة تثبت الوضعية إزاء الخدمة الوطنية (للذكور)",
+     "text_fr": "[Suggestion] Justificatif de la situation vis-à-vis du service national (hommes)",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "text_ar": "[مقترح] شهادة طبية في القدرة على العمل (عند الانتداب) وصورتان شمسيتان حديثتان",
+     "text_fr": "[Suggestion] Certificat médical d'aptitude (au recrutement) et deux photos d'identité récentes",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "text_ar": "[مقترح] سيرة ذاتية مفصلة",
+     "text_fr": "[Suggestion] Curriculum vitae détaillé",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    }
+   ],
+   "blueprint": {
+    "total_minutes": 150,
+    "fidelity": "APPROXIMATED",
+    "sections": [
+     {
+      "domain": "SPECIALTY",
+      "specialty_key": "spec.securite-sociale.legislation",
+      "count": 25,
+      "minutes": 35
+     },
+     {
+      "domain": "SPECIALTY",
+      "specialty_key": "spec.securite-sociale.assurance-maladie",
+      "count": 10,
+      "minutes": 15
+     },
+     {
+      "domain": "SPECIALTY",
+      "specialty_key": "spec.droit-administratif",
+      "count": 10,
+      "minutes": 15
+     },
+     {
+      "domain": "SPECIALTY",
+      "specialty_key": "spec.redaction-administrative",
+      "count": 10,
+      "minutes": 15
+     },
+     {
+      "domain": "CULTURE_GENERALE",
+      "specialty_key": null,
+      "count": 15,
+      "minutes": 20
+     },
+     {
+      "domain": "FRENCH",
+      "specialty_key": null,
+      "count": 15,
+      "minutes": 20
+     },
+     {
+      "domain": "ARABIC",
+      "specialty_key": null,
+      "count": 10,
+      "minutes": 15
+     },
+     {
+      "domain": "LOGIC",
+      "specialty_key": null,
+      "count": 10,
+      "minutes": 15
+     }
+    ]
+   }
+  },
+  {
+   "slug": "controleur-cnss",
+   "title_ar": "مراقب بالصندوق الوطني للضمان الاجتماعي (مراقبة الانخراط والتصاريح بالأجور والاشتراكات لدى المؤجرين — التسمية الدقيقة للرتبة للتثبت)",
+   "title_fr": "Contrôleur de la CNSS (contrôle de l'affiliation, des déclarations de salaires et des cotisations auprès des employeurs — intitulé exact du grade à vérifier)",
+   "diploma_level": "LICENCE",
+   "eligibility": {
+    "min_age": null,
+    "max_age": null,
+    "genders": [
+     "M",
+     "F"
+    ],
+    "nationality": "TN",
+    "diplomas": [
+     "LICENCE"
+    ],
+    "specialties": [],
+    "min_height_cm_male": null,
+    "min_height_cm_female": null,
+    "marital_status": null,
+    "other_ar": [
+     "[مقترح] الإجازة أو ما يعادلها في الحقوق أو المحاسبة أو التصرف أو العلوم الاقتصادية أو المالية — للتثبت",
+     "[مقترح] العمل الميداني يتطلب التنقل لدى المؤسسات والمؤجرين؛ قد يُشترط أداء اليمين بعد الانتداب (أعوان مراقبة محلفون) — للتثبت",
+     "[مقترح] الجنسية التونسية والتمتع بالحقوق المدنية وحسن السيرة (بطاقة عدد 3 نقية)",
+     "[مقترح] حدّ أقصى للسن يُحدَّد في بلاغ المناظرة (يُرجَّح أن يكون بين 35 و40 سنة حسب النظام الأساسي لأعوان الصندوق المعني) — غير مؤكد، لذلك لم يُعتمد كشرط آلي",
+     "[مقترح] تسوية الوضعية إزاء الخدمة الوطنية بالنسبة للذكور",
+     "[مقترح] شرط عدم الانتفاع بعمل قار أو التسجيل بمكتب التشغيل يرد أحيانا في مناظرات المؤسسات العمومية — للتثبت في كل بلاغ",
+     "[مقترح] القدرة البدنية والذهنية على العمل (شهادة طبية) والاستعداد للعمل بأي مكتب جهوي أو محلي للصندوق"
+    ],
+    "other_fr": [
+     "[Suggestion] Licence ou équivalent en droit, comptabilité, gestion, sciences économiques ou finance — à vérifier",
+     "[Suggestion] Travail de terrain impliquant des déplacements chez les employeurs ; une prestation de serment après recrutement (agents de contrôle assermentés) est possible — à vérifier",
+     "[Suggestion] Nationalité tunisienne, jouissance des droits civiques et bonne moralité (bulletin n° 3 vierge)",
+     "[Suggestion] Âge maximal fixé par l'avis du concours (probablement entre 35 et 40 ans selon le statut du personnel de la caisse concernée) — non confirmé, donc non appliqué comme filtre automatique",
+     "[Suggestion] Situation régulière vis-à-vis du service national (hommes)",
+     "[Suggestion] Une condition de non-emploi ou d'inscription au bureau de l'emploi figure parfois dans les concours des établissements publics — à vérifier dans chaque avis",
+     "[Suggestion] Aptitude physique et mentale (certificat médical) et disponibilité pour servir dans tout bureau régional ou local de la caisse"
+    ],
+    "source_key": null,
+    "confidence": "LOW",
+    "needs_verification": true,
+    "source_quote": null
+   },
+   "phases": [
+    {
+     "order": 1,
+     "kind": "FILE_REVIEW",
+     "name_ar": "الترشح والانتقاء الأولي على الملفات",
+     "name_fr": "Candidature et présélection sur dossier",
+     "is_eliminatory": true,
+     "duration_minutes": null,
+     "description_ar": "[مقترح] إيداع مطلب الترشح عبر المنصة أو العنوان الذي يحدده بلاغ الصندوق (تسجيل عن بعد أو ملف بالبريد مضمون الوصول — غير مؤكد)، ثم انتقاء أولي حسب معايير معلنة مسبقا (معدلات سنوات الدراسة، سنة الحصول على الشهادة، الاختصاص). بعض مناظرات المؤسسات العمومية تُجرى «بالملفات» فقط دون اختبار كتابي.",
+     "description_fr": "[Suggestion] Dépôt de la candidature sur la plateforme ou à l'adresse indiquée par l'avis de la caisse (inscription en ligne ou dossier par courrier recommandé — non confirmé), puis présélection selon des critères publiés (moyennes, année d'obtention du diplôme, spécialité). Certains concours d'établissements publics se font uniquement « sur dossiers », sans épreuve écrite.",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "order": 2,
+     "kind": "WRITTEN",
+     "name_ar": "الاختبارات الكتابية (القبول الأولي)",
+     "name_fr": "Épreuves écrites d'admissibilité",
+     "is_eliminatory": true,
+     "duration_minutes": null,
+     "description_ar": "[مقترح] اختبار في تشريع الضمان الاجتماعي (الانخراط، الاشتراكات، الاستخلاص، المراقبة)، واختبار في المحاسبة وقانون الشغل، واختبار في الثقافة العامة أو اللغة. الشكل والمدد والضوارب غير معروفة.",
+     "description_fr": "[Suggestion] Épreuve de législation de sécurité sociale (affiliation, cotisations, recouvrement, contrôle), épreuve de comptabilité et de droit du travail, épreuve de culture générale ou de langue. Forme, durées et coefficients inconnus.",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "order": 3,
+     "kind": "ORAL",
+     "name_ar": "الاختبار الشفاهي (القبول النهائي)",
+     "name_fr": "Épreuve orale / entretien d'admission",
+     "is_eliminatory": true,
+     "duration_minutes": null,
+     "description_ar": "[مقترح] محادثة مع لجنة المناظرة حول الدوافع والثقافة العامة والمعلومات المهنية المتعلقة بالصندوق ومهامه. المدة والضارب غير معروفين.",
+     "description_fr": "[Suggestion] Entretien avec le jury portant sur la motivation, la culture générale et les connaissances professionnelles relatives à la caisse et à ses missions. Durée et coefficient inconnus.",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "order": 4,
+     "kind": "MEDICAL",
+     "name_ar": "الفحص الطبي واستكمال ملف الانتداب",
+     "name_fr": "Visite médicale et dossier de nomination",
+     "is_eliminatory": true,
+     "duration_minutes": null,
+     "description_ar": "[مقترح] تقديم الوثائق الأصلية وشهادة طبية في القدرة على العمل قبل الانتداب.",
+     "description_fr": "[Suggestion] Production des pièces originales et d'un certificat médical d'aptitude avant le recrutement.",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "order": 5,
+     "kind": "TRAINING",
+     "name_ar": "فترة التربص والترسيم",
+     "name_fr": "Période de stage et titularisation",
+     "is_eliminatory": false,
+     "duration_minutes": null,
+     "description_ar": "[مقترح] فترة تربص (تُقدَّر بسنة) مع تكوين داخلي في تشريع الضمان الاجتماعي وأنظمة المعلومات الخاصة بالصندوق قبل الترسيم. المدة غير مؤكدة.",
+     "description_fr": "[Suggestion] Période de stage (estimée à un an) avec formation interne à la législation de sécurité sociale et aux systèmes d'information de la caisse avant titularisation. Durée non confirmée.",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    }
+   ],
+   "subjects": [
+    {
+     "phase_order": 2,
+     "domain": "SPECIALTY",
+     "specialty_key": "spec.securite-sociale.recouvrement-controle",
+     "name_ar": "الاشتراكات والاستخلاص والمراقبة",
+     "name_fr": "Cotisations, recouvrement et contrôle",
+     "coefficient": null,
+     "duration_minutes": null,
+     "question_count": null,
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "phase_order": 2,
+     "domain": "SPECIALTY",
+     "specialty_key": "spec.securite-sociale.legislation",
+     "name_ar": "تشريع الضمان الاجتماعي",
+     "name_fr": "Législation de la sécurité sociale",
+     "coefficient": null,
+     "duration_minutes": null,
+     "question_count": null,
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "phase_order": 2,
+     "domain": "SPECIALTY",
+     "specialty_key": "spec.securite-sociale.droit-travail",
+     "name_ar": "قانون الشغل في علاقته بالضمان الاجتماعي",
+     "name_fr": "Droit du travail appliqué à la sécurité sociale",
+     "coefficient": null,
+     "duration_minutes": null,
+     "question_count": null,
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "phase_order": 2,
+     "domain": "SPECIALTY",
+     "specialty_key": "spec.banque-gestion",
+     "name_ar": "المحاسبة العامة وقراءة الوثائق المحاسبية ودفاتر الأجور",
+     "name_fr": "Comptabilité générale, lecture des documents comptables et de la paie",
+     "coefficient": null,
+     "duration_minutes": null,
+     "question_count": null,
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "phase_order": 2,
+     "domain": "SPECIALTY",
+     "specialty_key": "spec.redaction-administrative",
+     "name_ar": "تحرير المحاضر والتقارير",
+     "name_fr": "Rédaction de procès-verbaux et de rapports",
+     "coefficient": null,
+     "duration_minutes": null,
+     "question_count": null,
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "phase_order": 2,
+     "domain": "CULTURE_GENERALE",
+     "specialty_key": null,
+     "name_ar": "ثقافة عامة",
+     "name_fr": "Culture générale",
+     "coefficient": null,
+     "duration_minutes": null,
+     "question_count": null,
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "phase_order": 2,
+     "domain": "FRENCH",
+     "specialty_key": null,
+     "name_ar": "اللغة الفرنسية",
+     "name_fr": "Langue française",
+     "coefficient": null,
+     "duration_minutes": null,
+     "question_count": null,
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "phase_order": 3,
+     "domain": "CULTURE_GENERALE",
+     "specialty_key": null,
+     "name_ar": "محادثة شفاهية",
+     "name_fr": "Entretien oral",
+     "coefficient": null,
+     "duration_minutes": null,
+     "question_count": null,
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    }
+   ],
+   "physical_tests": [],
+   "required_documents": [
+    {
+     "text_ar": "[مقترح] مطلب ترشح (أو استمارة التسجيل عن بعد مطبوعة وممضاة) حسب الأنموذج المعتمد في البلاغ",
+     "text_fr": "[Suggestion] Demande de candidature (ou formulaire d'inscription en ligne imprimé et signé) selon le modèle de l'avis",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "text_ar": "[مقترح] نسخة من بطاقة التعريف الوطنية",
+     "text_fr": "[Suggestion] Copie de la carte d'identité nationale",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "text_ar": "[مقترح] نسخة مطابقة للأصل من الشهادة العلمية وكشوف الأعداد لكل سنوات الدراسة، وشهادة معادلة للشهادات الأجنبية",
+     "text_fr": "[Suggestion] Copie certifiée conforme du diplôme et des relevés de notes de toutes les années d'études, et attestation d'équivalence pour les diplômes étrangers",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "text_ar": "[مقترح] بطاقة عدد 3 (السجل العدلي) — تُطلب عادة عند الانتداب",
+     "text_fr": "[Suggestion] Bulletin n° 3 (extrait du casier judiciaire) — généralement exigé au moment du recrutement",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "text_ar": "[مقترح] وثيقة تثبت الوضعية إزاء الخدمة الوطنية (للذكور)",
+     "text_fr": "[Suggestion] Justificatif de la situation vis-à-vis du service national (hommes)",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "text_ar": "[مقترح] شهادة طبية في القدرة على العمل (عند الانتداب) وصورتان شمسيتان حديثتان",
+     "text_fr": "[Suggestion] Certificat médical d'aptitude (au recrutement) et deux photos d'identité récentes",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "text_ar": "[مقترح] نسخة من رخصة السياقة إن طُلبت (العمل الميداني) — غير مؤكد",
+     "text_fr": "[Suggestion] Copie du permis de conduire si exigée (travail de terrain) — non confirmé",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    }
+   ],
+   "blueprint": {
+    "total_minutes": 150,
+    "fidelity": "APPROXIMATED",
+    "sections": [
+     {
+      "domain": "SPECIALTY",
+      "specialty_key": "spec.securite-sociale.recouvrement-controle",
+      "count": 20,
+      "minutes": 30
+     },
+     {
+      "domain": "SPECIALTY",
+      "specialty_key": "spec.securite-sociale.legislation",
+      "count": 15,
+      "minutes": 20
+     },
+     {
+      "domain": "SPECIALTY",
+      "specialty_key": "spec.securite-sociale.droit-travail",
+      "count": 10,
+      "minutes": 15
+     },
+     {
+      "domain": "SPECIALTY",
+      "specialty_key": "spec.banque-gestion",
+      "count": 15,
+      "minutes": 25
+     },
+     {
+      "domain": "SPECIALTY",
+      "specialty_key": "spec.redaction-administrative",
+      "count": 10,
+      "minutes": 15
+     },
+     {
+      "domain": "NUMERICAL",
+      "specialty_key": null,
+      "count": 10,
+      "minutes": 15
+     },
+     {
+      "domain": "CULTURE_GENERALE",
+      "specialty_key": null,
+      "count": 10,
+      "minutes": 15
+     },
+     {
+      "domain": "FRENCH",
+      "specialty_key": null,
+      "count": 10,
+      "minutes": 15
+     }
+    ]
+   }
+  },
+  {
+   "slug": "agent-administratif",
+   "title_ar": "عون إداري / عون تصرف (استقبال المضمونين ومعالجة ملفات المنافع — التسمية الدقيقة للرتبة للتثبت)",
+   "title_fr": "Agent administratif / agent de gestion (accueil des assurés et traitement des dossiers de prestations — intitulé exact du grade à vérifier)",
+   "diploma_level": "BAC",
+   "eligibility": {
+    "min_age": null,
+    "max_age": null,
+    "genders": [
+     "M",
+     "F"
+    ],
+    "nationality": "TN",
+    "diplomas": [
+     "BAC"
+    ],
+    "specialties": [],
+    "min_height_cm_male": null,
+    "min_height_cm_female": null,
+    "marital_status": null,
+    "other_ar": [
+     "[مقترح] شهادة الباكالوريا على الأقل؛ قد تُفتح رتب أخرى لحاملي شهادة تقني سام أو الإجازة التطبيقية — للتثبت",
+     "[مقترح] الجنسية التونسية والتمتع بالحقوق المدنية وحسن السيرة (بطاقة عدد 3 نقية)",
+     "[مقترح] حدّ أقصى للسن يُحدَّد في بلاغ المناظرة (يُرجَّح أن يكون بين 35 و40 سنة حسب النظام الأساسي لأعوان الصندوق المعني) — غير مؤكد، لذلك لم يُعتمد كشرط آلي",
+     "[مقترح] تسوية الوضعية إزاء الخدمة الوطنية بالنسبة للذكور",
+     "[مقترح] شرط عدم الانتفاع بعمل قار أو التسجيل بمكتب التشغيل يرد أحيانا في مناظرات المؤسسات العمومية — للتثبت في كل بلاغ",
+     "[مقترح] القدرة البدنية والذهنية على العمل (شهادة طبية) والاستعداد للعمل بأي مكتب جهوي أو محلي للصندوق"
+    ],
+    "other_fr": [
+     "[Suggestion] Baccalauréat au minimum ; d'autres grades peuvent être ouverts aux titulaires d'un BTS ou d'une licence appliquée — à vérifier",
+     "[Suggestion] Nationalité tunisienne, jouissance des droits civiques et bonne moralité (bulletin n° 3 vierge)",
+     "[Suggestion] Âge maximal fixé par l'avis du concours (probablement entre 35 et 40 ans selon le statut du personnel de la caisse concernée) — non confirmé, donc non appliqué comme filtre automatique",
+     "[Suggestion] Situation régulière vis-à-vis du service national (hommes)",
+     "[Suggestion] Une condition de non-emploi ou d'inscription au bureau de l'emploi figure parfois dans les concours des établissements publics — à vérifier dans chaque avis",
+     "[Suggestion] Aptitude physique et mentale (certificat médical) et disponibilité pour servir dans tout bureau régional ou local de la caisse"
+    ],
+    "source_key": null,
+    "confidence": "LOW",
+    "needs_verification": true,
+    "source_quote": null
+   },
+   "phases": [
+    {
+     "order": 1,
+     "kind": "FILE_REVIEW",
+     "name_ar": "الترشح والانتقاء الأولي على الملفات",
+     "name_fr": "Candidature et présélection sur dossier",
+     "is_eliminatory": true,
+     "duration_minutes": null,
+     "description_ar": "[مقترح] إيداع مطلب الترشح عبر المنصة أو العنوان الذي يحدده بلاغ الصندوق (تسجيل عن بعد أو ملف بالبريد مضمون الوصول — غير مؤكد)، ثم انتقاء أولي حسب معايير معلنة مسبقا (معدلات سنوات الدراسة، سنة الحصول على الشهادة، الاختصاص). بعض مناظرات المؤسسات العمومية تُجرى «بالملفات» فقط دون اختبار كتابي.",
+     "description_fr": "[Suggestion] Dépôt de la candidature sur la plateforme ou à l'adresse indiquée par l'avis de la caisse (inscription en ligne ou dossier par courrier recommandé — non confirmé), puis présélection selon des critères publiés (moyennes, année d'obtention du diplôme, spécialité). Certains concours d'établissements publics se font uniquement « sur dossiers », sans épreuve écrite.",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "order": 2,
+     "kind": "WRITTEN",
+     "name_ar": "الاختبارات الكتابية (القبول الأولي)",
+     "name_fr": "Épreuves écrites d'admissibilité",
+     "is_eliminatory": true,
+     "duration_minutes": null,
+     "description_ar": "[مقترح] اختبارات في اللغة العربية واللغة الفرنسية والثقافة العامة والحساب، وربما أسئلة حول الصندوق وخدماته. الشكل (أسئلة متعددة الاختيارات مرجّحة) والمدد والضوارب غير معروفة.",
+     "description_fr": "[Suggestion] Épreuves d'arabe, de français, de culture générale et de calcul, éventuellement des questions sur la caisse et ses services. Forme (QCM probable), durées et coefficients inconnus.",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "order": 3,
+     "kind": "ORAL",
+     "name_ar": "الاختبار الشفاهي (القبول النهائي)",
+     "name_fr": "Épreuve orale / entretien d'admission",
+     "is_eliminatory": true,
+     "duration_minutes": null,
+     "description_ar": "[مقترح] محادثة مع لجنة المناظرة حول الدوافع والثقافة العامة والمعلومات المهنية المتعلقة بالصندوق ومهامه. المدة والضارب غير معروفين.",
+     "description_fr": "[Suggestion] Entretien avec le jury portant sur la motivation, la culture générale et les connaissances professionnelles relatives à la caisse et à ses missions. Durée et coefficient inconnus.",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "order": 4,
+     "kind": "MEDICAL",
+     "name_ar": "الفحص الطبي واستكمال ملف الانتداب",
+     "name_fr": "Visite médicale et dossier de nomination",
+     "is_eliminatory": true,
+     "duration_minutes": null,
+     "description_ar": "[مقترح] تقديم الوثائق الأصلية وشهادة طبية في القدرة على العمل قبل الانتداب.",
+     "description_fr": "[Suggestion] Production des pièces originales et d'un certificat médical d'aptitude avant le recrutement.",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "order": 5,
+     "kind": "TRAINING",
+     "name_ar": "فترة التربص والترسيم",
+     "name_fr": "Période de stage et titularisation",
+     "is_eliminatory": false,
+     "duration_minutes": null,
+     "description_ar": "[مقترح] فترة تربص (تُقدَّر بسنة) مع تكوين داخلي في تشريع الضمان الاجتماعي وأنظمة المعلومات الخاصة بالصندوق قبل الترسيم. المدة غير مؤكدة.",
+     "description_fr": "[Suggestion] Période de stage (estimée à un an) avec formation interne à la législation de sécurité sociale et aux systèmes d'information de la caisse avant titularisation. Durée non confirmée.",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    }
+   ],
+   "subjects": [
+    {
+     "phase_order": 2,
+     "domain": "ARABIC",
+     "specialty_key": null,
+     "name_ar": "اللغة العربية",
+     "name_fr": "Langue arabe",
+     "coefficient": null,
+     "duration_minutes": null,
+     "question_count": null,
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "phase_order": 2,
+     "domain": "FRENCH",
+     "specialty_key": null,
+     "name_ar": "اللغة الفرنسية",
+     "name_fr": "Langue française",
+     "coefficient": null,
+     "duration_minutes": null,
+     "question_count": null,
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "phase_order": 2,
+     "domain": "CULTURE_GENERALE",
+     "specialty_key": null,
+     "name_ar": "ثقافة عامة",
+     "name_fr": "Culture générale",
+     "coefficient": null,
+     "duration_minutes": null,
+     "question_count": null,
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "phase_order": 2,
+     "domain": "NUMERICAL",
+     "specialty_key": null,
+     "name_ar": "الحساب والاستدلال العددي",
+     "name_fr": "Calcul et raisonnement numérique",
+     "coefficient": null,
+     "duration_minutes": null,
+     "question_count": null,
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "phase_order": 2,
+     "domain": "SPECIALTY",
+     "specialty_key": "spec.securite-sociale.accueil-prestations",
+     "name_ar": "استقبال المضمونين ومعالجة ملفات المنافع",
+     "name_fr": "Accueil des assurés et traitement des dossiers de prestations",
+     "coefficient": null,
+     "duration_minutes": null,
+     "question_count": null,
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "phase_order": 2,
+     "domain": "SPECIALTY",
+     "specialty_key": "spec.informatique",
+     "name_ar": "الإعلامية المكتبية",
+     "name_fr": "Bureautique",
+     "coefficient": null,
+     "duration_minutes": null,
+     "question_count": null,
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "phase_order": 3,
+     "domain": "CULTURE_GENERALE",
+     "specialty_key": null,
+     "name_ar": "محادثة شفاهية",
+     "name_fr": "Entretien oral",
+     "coefficient": null,
+     "duration_minutes": null,
+     "question_count": null,
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    }
+   ],
+   "physical_tests": [],
+   "required_documents": [
+    {
+     "text_ar": "[مقترح] مطلب ترشح (أو استمارة التسجيل عن بعد مطبوعة وممضاة) حسب الأنموذج المعتمد في البلاغ",
+     "text_fr": "[Suggestion] Demande de candidature (ou formulaire d'inscription en ligne imprimé et signé) selon le modèle de l'avis",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "text_ar": "[مقترح] نسخة من بطاقة التعريف الوطنية",
+     "text_fr": "[Suggestion] Copie de la carte d'identité nationale",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "text_ar": "[مقترح] نسخة مطابقة للأصل من الشهادة العلمية وكشوف الأعداد لكل سنوات الدراسة، وشهادة معادلة للشهادات الأجنبية",
+     "text_fr": "[Suggestion] Copie certifiée conforme du diplôme et des relevés de notes de toutes les années d'études, et attestation d'équivalence pour les diplômes étrangers",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "text_ar": "[مقترح] بطاقة عدد 3 (السجل العدلي) — تُطلب عادة عند الانتداب",
+     "text_fr": "[Suggestion] Bulletin n° 3 (extrait du casier judiciaire) — généralement exigé au moment du recrutement",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "text_ar": "[مقترح] وثيقة تثبت الوضعية إزاء الخدمة الوطنية (للذكور)",
+     "text_fr": "[Suggestion] Justificatif de la situation vis-à-vis du service national (hommes)",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "text_ar": "[مقترح] شهادة طبية في القدرة على العمل (عند الانتداب) وصورتان شمسيتان حديثتان",
+     "text_fr": "[Suggestion] Certificat médical d'aptitude (au recrutement) et deux photos d'identité récentes",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    }
+   ],
+   "blueprint": {
+    "total_minutes": 100,
+    "fidelity": "APPROXIMATED",
+    "sections": [
+     {
+      "domain": "ARABIC",
+      "specialty_key": null,
+      "count": 15,
+      "minutes": 15
+     },
+     {
+      "domain": "FRENCH",
+      "specialty_key": null,
+      "count": 15,
+      "minutes": 15
+     },
+     {
+      "domain": "CULTURE_GENERALE",
+      "specialty_key": null,
+      "count": 15,
+      "minutes": 15
+     },
+     {
+      "domain": "NUMERICAL",
+      "specialty_key": null,
+      "count": 10,
+      "minutes": 15
+     },
+     {
+      "domain": "LOGIC",
+      "specialty_key": null,
+      "count": 10,
+      "minutes": 15
+     },
+     {
+      "domain": "SPECIALTY",
+      "specialty_key": "spec.securite-sociale.accueil-prestations",
+      "count": 15,
+      "minutes": 20
+     },
+     {
+      "domain": "SPECIALTY",
+      "specialty_key": "spec.informatique",
+      "count": 5,
+      "minutes": 5
+     }
+    ]
+   }
+  },
+  {
+   "slug": "medecin-conseil",
+   "title_ar": "طبيب مستشار (الرقابة الطبية) بالصندوق الوطني للتأمين على المرض أو الصندوق الوطني للضمان الاجتماعي",
+   "title_fr": "Médecin conseil (contrôle médical) à la CNAM ou à la CNSS",
+   "diploma_level": "MEDICINE",
+   "eligibility": {
+    "min_age": null,
+    "max_age": null,
+    "genders": [
+     "M",
+     "F"
+    ],
+    "nationality": "TN",
+    "diplomas": [
+     "MEDICINE"
+    ],
+    "specialties": [],
+    "min_height_cm_male": null,
+    "min_height_cm_female": null,
+    "marital_status": null,
+    "other_ar": [
+     "[مقترح] شهادة الدكتوراه في الطب والترسيم بجدول عمادة الأطباء؛ قد يُشترط اختصاص (طب الشغل، الطب الشرعي، طب العائلة...) أو أقدمية مهنية — للتثبت",
+     "[مقترح] يُنتدب كذلك صيادلة مستشارون وأطباء أسنان مستشارون وفق نفس المنطق (شهادة الدكتوراه في الصيدلة أو في طب الأسنان) — غير مُدرج كخطة مستقلة في انتظار التثبت",
+     "[مقترح] الجنسية التونسية والتمتع بالحقوق المدنية وحسن السيرة (بطاقة عدد 3 نقية)",
+     "[مقترح] حدّ أقصى للسن يُحدَّد في بلاغ المناظرة (يُرجَّح أن يكون بين 35 و40 سنة حسب النظام الأساسي لأعوان الصندوق المعني) — غير مؤكد، لذلك لم يُعتمد كشرط آلي",
+     "[مقترح] تسوية الوضعية إزاء الخدمة الوطنية بالنسبة للذكور",
+     "[مقترح] شرط عدم الانتفاع بعمل قار أو التسجيل بمكتب التشغيل يرد أحيانا في مناظرات المؤسسات العمومية — للتثبت في كل بلاغ",
+     "[مقترح] القدرة البدنية والذهنية على العمل (شهادة طبية) والاستعداد للعمل بأي مكتب جهوي أو محلي للصندوق"
+    ],
+    "other_fr": [
+     "[Suggestion] Doctorat en médecine et inscription au tableau de l'Ordre des médecins ; une spécialité (médecine du travail, médecine légale, médecine de famille...) ou une ancienneté professionnelle peut être exigée — à vérifier",
+     "[Suggestion] Des pharmaciens conseils et des médecins dentistes conseils sont recrutés selon la même logique (doctorat en pharmacie ou en médecine dentaire) — non créés comme postes distincts en attendant vérification",
+     "[Suggestion] Nationalité tunisienne, jouissance des droits civiques et bonne moralité (bulletin n° 3 vierge)",
+     "[Suggestion] Âge maximal fixé par l'avis du concours (probablement entre 35 et 40 ans selon le statut du personnel de la caisse concernée) — non confirmé, donc non appliqué comme filtre automatique",
+     "[Suggestion] Situation régulière vis-à-vis du service national (hommes)",
+     "[Suggestion] Une condition de non-emploi ou d'inscription au bureau de l'emploi figure parfois dans les concours des établissements publics — à vérifier dans chaque avis",
+     "[Suggestion] Aptitude physique et mentale (certificat médical) et disponibilité pour servir dans tout bureau régional ou local de la caisse"
+    ],
+    "source_key": null,
+    "confidence": "LOW",
+    "needs_verification": true,
+    "source_quote": null
+   },
+   "phases": [
+    {
+     "order": 1,
+     "kind": "FILE_REVIEW",
+     "name_ar": "الترشح ودراسة الملفات (الشهائد والأعمال والخبرة)",
+     "name_fr": "Candidature et examen des dossiers (titres, travaux, expérience)",
+     "is_eliminatory": true,
+     "duration_minutes": null,
+     "description_ar": "[مقترح] تُنظَّم مناظرات الأطباء المستشارين عادة بالملفات (الشهائد والأعمال والأقدمية) وقد تُستكمل باختبار كتابي و/أو محادثة. الصيغة الدقيقة غير مؤكدة.",
+     "description_fr": "[Suggestion] Les concours de médecins conseils se font souvent sur dossiers (titres, travaux, ancienneté), éventuellement complétés par une épreuve écrite et/ou un entretien. Modalités exactes non confirmées.",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "order": 2,
+     "kind": "WRITTEN",
+     "name_ar": "اختبار كتابي في الرقابة الطبية والتأمين على المرض (إن وُجد)",
+     "name_fr": "Épreuve écrite de contrôle médical et d'assurance maladie (le cas échéant)",
+     "is_eliminatory": true,
+     "duration_minutes": null,
+     "description_ar": "[مقترح] أسئلة أو حالات حول تقييم العجز والرقابة الطبية على المنافع ونظام التأمين على المرض والأدوية القابلة للاسترجاع. وجود هذا الاختبار غير مؤكد.",
+     "description_fr": "[Suggestion] Questions ou cas pratiques sur l'évaluation de l'incapacité, le contrôle médical des prestations, le régime d'assurance maladie et les médicaments remboursables. Existence de l'épreuve non confirmée.",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "order": 3,
+     "kind": "INTERVIEW",
+     "name_ar": "محادثة مع لجنة المناظرة",
+     "name_fr": "Entretien avec le jury",
+     "is_eliminatory": true,
+     "duration_minutes": null,
+     "description_ar": "[مقترح] نقاش حول المسار المهني ومعرفة مهام الطبيب المستشار وأخلاقيات المهنة.",
+     "description_fr": "[Suggestion] Échange sur le parcours professionnel, la connaissance des missions du médecin conseil et la déontologie.",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "order": 4,
+     "kind": "MEDICAL",
+     "name_ar": "استكمال ملف الانتداب",
+     "name_fr": "Dossier de nomination",
+     "is_eliminatory": true,
+     "duration_minutes": null,
+     "description_ar": "[مقترح] الوثائق الأصلية وشهادة الترسيم بعمادة الأطباء وشهادة طبية في القدرة على العمل.",
+     "description_fr": "[Suggestion] Pièces originales, attestation d'inscription à l'Ordre des médecins et certificat médical d'aptitude.",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "order": 5,
+     "kind": "TRAINING",
+     "name_ar": "التكوين في الطب الاستشاري والتربص",
+     "name_fr": "Formation à la médecine conseil et stage",
+     "is_eliminatory": false,
+     "duration_minutes": null,
+     "description_ar": "[مقترح] تكوين داخلي في الرقابة الطبية وأنظمة الصندوق قبل الترسيم. المدة غير معروفة.",
+     "description_fr": "[Suggestion] Formation interne au contrôle médical et aux procédures de la caisse avant titularisation. Durée inconnue.",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    }
+   ],
+   "subjects": [
+    {
+     "phase_order": 2,
+     "domain": "SPECIALTY",
+     "specialty_key": "spec.securite-sociale.controle-medical",
+     "name_ar": "الرقابة الطبية وتقييم العجز",
+     "name_fr": "Contrôle médical et évaluation de l'incapacité",
+     "coefficient": null,
+     "duration_minutes": null,
+     "question_count": null,
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "phase_order": 2,
+     "domain": "SPECIALTY",
+     "specialty_key": "spec.sante",
+     "name_ar": "الصحة العمومية والوبائيات",
+     "name_fr": "Santé publique et épidémiologie",
+     "coefficient": null,
+     "duration_minutes": null,
+     "question_count": null,
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "phase_order": 2,
+     "domain": "SPECIALTY",
+     "specialty_key": "spec.securite-sociale.assurance-maladie",
+     "name_ar": "نظام التأمين على المرض والاتفاقيات مع مسدي الخدمات الصحية",
+     "name_fr": "Régime d'assurance maladie et conventions avec les prestataires de soins",
+     "coefficient": null,
+     "duration_minutes": null,
+     "question_count": null,
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "phase_order": 3,
+     "domain": "CULTURE_GENERALE",
+     "specialty_key": null,
+     "name_ar": "محادثة مع لجنة المناظرة",
+     "name_fr": "Entretien avec le jury",
+     "coefficient": null,
+     "duration_minutes": null,
+     "question_count": null,
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    }
+   ],
+   "physical_tests": [],
+   "required_documents": [
+    {
+     "text_ar": "[مقترح] مطلب ترشح (أو استمارة التسجيل عن بعد مطبوعة وممضاة) حسب الأنموذج المعتمد في البلاغ",
+     "text_fr": "[Suggestion] Demande de candidature (ou formulaire d'inscription en ligne imprimé et signé) selon le modèle de l'avis",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "text_ar": "[مقترح] نسخة من بطاقة التعريف الوطنية",
+     "text_fr": "[Suggestion] Copie de la carte d'identité nationale",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "text_ar": "[مقترح] نسخة مطابقة للأصل من الشهادة العلمية وكشوف الأعداد لكل سنوات الدراسة، وشهادة معادلة للشهادات الأجنبية",
+     "text_fr": "[Suggestion] Copie certifiée conforme du diplôme et des relevés de notes de toutes les années d'études, et attestation d'équivalence pour les diplômes étrangers",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "text_ar": "[مقترح] بطاقة عدد 3 (السجل العدلي) — تُطلب عادة عند الانتداب",
+     "text_fr": "[Suggestion] Bulletin n° 3 (extrait du casier judiciaire) — généralement exigé au moment du recrutement",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "text_ar": "[مقترح] وثيقة تثبت الوضعية إزاء الخدمة الوطنية (للذكور)",
+     "text_fr": "[Suggestion] Justificatif de la situation vis-à-vis du service national (hommes)",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "text_ar": "[مقترح] شهادة طبية في القدرة على العمل (عند الانتداب) وصورتان شمسيتان حديثتان",
+     "text_fr": "[Suggestion] Certificat médical d'aptitude (au recrutement) et deux photos d'identité récentes",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "text_ar": "[مقترح] شهادة في الترسيم بجدول عمادة الأطباء",
+     "text_fr": "[Suggestion] Attestation d'inscription au tableau de l'Ordre des médecins",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "text_ar": "[مقترح] شهادات الاختصاص والخبرة المهنية وقائمة الأعمال العلمية (للمناظرة بالملفات)",
+     "text_fr": "[Suggestion] Certificats de spécialité, attestations d'expérience et liste des travaux scientifiques (concours sur dossiers)",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    }
+   ],
+   "blueprint": {
+    "total_minutes": 120,
+    "fidelity": "APPROXIMATED",
+    "sections": [
+     {
+      "domain": "SPECIALTY",
+      "specialty_key": "spec.securite-sociale.controle-medical",
+      "count": 25,
+      "minutes": 40
+     },
+     {
+      "domain": "SPECIALTY",
+      "specialty_key": "spec.sante",
+      "count": 20,
+      "minutes": 30
+     },
+     {
+      "domain": "SPECIALTY",
+      "specialty_key": "spec.securite-sociale.assurance-maladie",
+      "count": 15,
+      "minutes": 20
+     },
+     {
+      "domain": "FRENCH",
+      "specialty_key": null,
+      "count": 10,
+      "minutes": 15
+     },
+     {
+      "domain": "CULTURE_GENERALE",
+      "specialty_key": null,
+      "count": 10,
+      "minutes": 15
+     }
+    ]
+   }
+  },
+  {
+   "slug": "ingenieur-informatique",
+   "title_ar": "مهندس إعلامية (منظومات المعلومات والخدمات الرقمية للصندوق)",
+   "title_fr": "Ingénieur informaticien (systèmes d'information et services numériques de la caisse)",
+   "diploma_level": "ENGINEER",
+   "eligibility": {
+    "min_age": null,
+    "max_age": null,
+    "genders": [
+     "M",
+     "F"
+    ],
+    "nationality": "TN",
+    "diplomas": [
+     "ENGINEER"
+    ],
+    "specialties": [],
+    "min_height_cm_male": null,
+    "min_height_cm_female": null,
+    "marital_status": null,
+    "other_ar": [
+     "[مقترح] شهادة مهندس في الإعلامية أو الشبكات أو ما يعادلها (قد تُقبل شهادة الماجستير في الإعلامية) — للتثبت",
+     "[مقترح] قد تُفتح خطط تقنيين ساميين في الإعلامية لحاملي شهادة تقني سام أو الإجازة التطبيقية — غير مُدرجة كخطة مستقلة",
+     "[مقترح] الجنسية التونسية والتمتع بالحقوق المدنية وحسن السيرة (بطاقة عدد 3 نقية)",
+     "[مقترح] حدّ أقصى للسن يُحدَّد في بلاغ المناظرة (يُرجَّح أن يكون بين 35 و40 سنة حسب النظام الأساسي لأعوان الصندوق المعني) — غير مؤكد، لذلك لم يُعتمد كشرط آلي",
+     "[مقترح] تسوية الوضعية إزاء الخدمة الوطنية بالنسبة للذكور",
+     "[مقترح] شرط عدم الانتفاع بعمل قار أو التسجيل بمكتب التشغيل يرد أحيانا في مناظرات المؤسسات العمومية — للتثبت في كل بلاغ",
+     "[مقترح] القدرة البدنية والذهنية على العمل (شهادة طبية) والاستعداد للعمل بأي مكتب جهوي أو محلي للصندوق"
+    ],
+    "other_fr": [
+     "[Suggestion] Diplôme d'ingénieur en informatique, réseaux ou équivalent (un master en informatique peut être admis) — à vérifier",
+     "[Suggestion] Des postes de techniciens supérieurs en informatique (BTS ou licence appliquée) peuvent aussi être ouverts — non créés comme postes distincts",
+     "[Suggestion] Nationalité tunisienne, jouissance des droits civiques et bonne moralité (bulletin n° 3 vierge)",
+     "[Suggestion] Âge maximal fixé par l'avis du concours (probablement entre 35 et 40 ans selon le statut du personnel de la caisse concernée) — non confirmé, donc non appliqué comme filtre automatique",
+     "[Suggestion] Situation régulière vis-à-vis du service national (hommes)",
+     "[Suggestion] Une condition de non-emploi ou d'inscription au bureau de l'emploi figure parfois dans les concours des établissements publics — à vérifier dans chaque avis",
+     "[Suggestion] Aptitude physique et mentale (certificat médical) et disponibilité pour servir dans tout bureau régional ou local de la caisse"
+    ],
+    "source_key": null,
+    "confidence": "LOW",
+    "needs_verification": true,
+    "source_quote": null
+   },
+   "phases": [
+    {
+     "order": 1,
+     "kind": "FILE_REVIEW",
+     "name_ar": "الترشح والانتقاء الأولي على الملفات",
+     "name_fr": "Candidature et présélection sur dossier",
+     "is_eliminatory": true,
+     "duration_minutes": null,
+     "description_ar": "[مقترح] إيداع مطلب الترشح عبر المنصة أو العنوان الذي يحدده بلاغ الصندوق (تسجيل عن بعد أو ملف بالبريد مضمون الوصول — غير مؤكد)، ثم انتقاء أولي حسب معايير معلنة مسبقا (معدلات سنوات الدراسة، سنة الحصول على الشهادة، الاختصاص). بعض مناظرات المؤسسات العمومية تُجرى «بالملفات» فقط دون اختبار كتابي.",
+     "description_fr": "[Suggestion] Dépôt de la candidature sur la plateforme ou à l'adresse indiquée par l'avis de la caisse (inscription en ligne ou dossier par courrier recommandé — non confirmé), puis présélection selon des critères publiés (moyennes, année d'obtention du diplôme, spécialité). Certains concours d'établissements publics se font uniquement « sur dossiers », sans épreuve écrite.",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "order": 2,
+     "kind": "WRITTEN",
+     "name_ar": "الاختبارات الكتابية (القبول الأولي)",
+     "name_fr": "Épreuves écrites d'admissibilité",
+     "is_eliminatory": true,
+     "duration_minutes": null,
+     "description_ar": "[مقترح] اختبار تقني في الإعلامية (قواعد البيانات، البرمجة، الشبكات والسلامة المعلوماتية، هندسة البرمجيات)، وربما اختبار لغة (الإنجليزية أو الفرنسية) وثقافة عامة. الشكل والمدد والضوارب غير معروفة.",
+     "description_fr": "[Suggestion] Épreuve technique d'informatique (bases de données, programmation, réseaux et sécurité, génie logiciel), éventuellement une épreuve de langue (anglais ou français) et de culture générale. Forme, durées et coefficients inconnus.",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "order": 3,
+     "kind": "ORAL",
+     "name_ar": "الاختبار الشفاهي (القبول النهائي)",
+     "name_fr": "Épreuve orale / entretien d'admission",
+     "is_eliminatory": true,
+     "duration_minutes": null,
+     "description_ar": "[مقترح] محادثة مع لجنة المناظرة حول الدوافع والثقافة العامة والمعلومات المهنية المتعلقة بالصندوق ومهامه. المدة والضارب غير معروفين.",
+     "description_fr": "[Suggestion] Entretien avec le jury portant sur la motivation, la culture générale et les connaissances professionnelles relatives à la caisse et à ses missions. Durée et coefficient inconnus.",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "order": 4,
+     "kind": "MEDICAL",
+     "name_ar": "الفحص الطبي واستكمال ملف الانتداب",
+     "name_fr": "Visite médicale et dossier de nomination",
+     "is_eliminatory": true,
+     "duration_minutes": null,
+     "description_ar": "[مقترح] تقديم الوثائق الأصلية وشهادة طبية في القدرة على العمل قبل الانتداب.",
+     "description_fr": "[Suggestion] Production des pièces originales et d'un certificat médical d'aptitude avant le recrutement.",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "order": 5,
+     "kind": "TRAINING",
+     "name_ar": "فترة التربص والترسيم",
+     "name_fr": "Période de stage et titularisation",
+     "is_eliminatory": false,
+     "duration_minutes": null,
+     "description_ar": "[مقترح] فترة تربص (تُقدَّر بسنة) مع تكوين داخلي في تشريع الضمان الاجتماعي وأنظمة المعلومات الخاصة بالصندوق قبل الترسيم. المدة غير مؤكدة.",
+     "description_fr": "[Suggestion] Période de stage (estimée à un an) avec formation interne à la législation de sécurité sociale et aux systèmes d'information de la caisse avant titularisation. Durée non confirmée.",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    }
+   ],
+   "subjects": [
+    {
+     "phase_order": 2,
+     "domain": "SPECIALTY",
+     "specialty_key": "spec.informatique",
+     "name_ar": "الإعلامية: قواعد البيانات، البرمجة، الشبكات، السلامة المعلوماتية",
+     "name_fr": "Informatique : bases de données, programmation, réseaux, sécurité",
+     "coefficient": null,
+     "duration_minutes": null,
+     "question_count": null,
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "phase_order": 2,
+     "domain": "SPECIALTY",
+     "specialty_key": "spec.securite-sociale.legislation",
+     "name_ar": "معارف عامة حول الضمان الاجتماعي",
+     "name_fr": "Notions générales de sécurité sociale",
+     "coefficient": null,
+     "duration_minutes": null,
+     "question_count": null,
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "phase_order": 2,
+     "domain": "ENGLISH",
+     "specialty_key": null,
+     "name_ar": "اللغة الإنجليزية التقنية",
+     "name_fr": "Anglais technique",
+     "coefficient": null,
+     "duration_minutes": null,
+     "question_count": null,
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "phase_order": 2,
+     "domain": "FRENCH",
+     "specialty_key": null,
+     "name_ar": "اللغة الفرنسية",
+     "name_fr": "Langue française",
+     "coefficient": null,
+     "duration_minutes": null,
+     "question_count": null,
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "phase_order": 3,
+     "domain": "CULTURE_GENERALE",
+     "specialty_key": null,
+     "name_ar": "محادثة شفاهية (مشروع تقني ودوافع)",
+     "name_fr": "Entretien oral (projet technique et motivation)",
+     "coefficient": null,
+     "duration_minutes": null,
+     "question_count": null,
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    }
+   ],
+   "physical_tests": [],
+   "required_documents": [
+    {
+     "text_ar": "[مقترح] مطلب ترشح (أو استمارة التسجيل عن بعد مطبوعة وممضاة) حسب الأنموذج المعتمد في البلاغ",
+     "text_fr": "[Suggestion] Demande de candidature (ou formulaire d'inscription en ligne imprimé et signé) selon le modèle de l'avis",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "text_ar": "[مقترح] نسخة من بطاقة التعريف الوطنية",
+     "text_fr": "[Suggestion] Copie de la carte d'identité nationale",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "text_ar": "[مقترح] نسخة مطابقة للأصل من الشهادة العلمية وكشوف الأعداد لكل سنوات الدراسة، وشهادة معادلة للشهادات الأجنبية",
+     "text_fr": "[Suggestion] Copie certifiée conforme du diplôme et des relevés de notes de toutes les années d'études, et attestation d'équivalence pour les diplômes étrangers",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "text_ar": "[مقترح] بطاقة عدد 3 (السجل العدلي) — تُطلب عادة عند الانتداب",
+     "text_fr": "[Suggestion] Bulletin n° 3 (extrait du casier judiciaire) — généralement exigé au moment du recrutement",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "text_ar": "[مقترح] وثيقة تثبت الوضعية إزاء الخدمة الوطنية (للذكور)",
+     "text_fr": "[Suggestion] Justificatif de la situation vis-à-vis du service national (hommes)",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "text_ar": "[مقترح] شهادة طبية في القدرة على العمل (عند الانتداب) وصورتان شمسيتان حديثتان",
+     "text_fr": "[Suggestion] Certificat médical d'aptitude (au recrutement) et deux photos d'identité récentes",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "text_ar": "[مقترح] ملخص مشروع ختم الدروس أو قائمة المشاريع التقنية المنجزة",
+     "text_fr": "[Suggestion] Résumé du projet de fin d'études ou liste des projets techniques réalisés",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    }
+   ],
+   "blueprint": {
+    "total_minutes": 130,
+    "fidelity": "APPROXIMATED",
+    "sections": [
+     {
+      "domain": "SPECIALTY",
+      "specialty_key": "spec.informatique",
+      "count": 35,
+      "minutes": 60
+     },
+     {
+      "domain": "SPECIALTY",
+      "specialty_key": "spec.securite-sociale.legislation",
+      "count": 10,
+      "minutes": 15
+     },
+     {
+      "domain": "LOGIC",
+      "specialty_key": null,
+      "count": 10,
+      "minutes": 15
+     },
+     {
+      "domain": "ENGLISH",
+      "specialty_key": null,
+      "count": 10,
+      "minutes": 15
+     },
+     {
+      "domain": "FRENCH",
+      "specialty_key": null,
+      "count": 10,
+      "minutes": 15
+     },
+     {
+      "domain": "CULTURE_GENERALE",
+      "specialty_key": null,
+      "count": 10,
+      "minutes": 10
+     }
+    ]
+   }
+  }
+ ],
+ "specialty_syllabus": [
+  {
+   "key": "spec.securite-sociale.legislation",
+   "parent_key": null,
+   "level": "UNIT",
+   "title_ar": "تشريع الضمان الاجتماعي في تونس",
+   "title_fr": "Législation de la sécurité sociale en Tunisie",
+   "scope": "SUGGESTED",
+   "source_key": null,
+   "objectives": [
+    {
+     "key": "spec.securite-sociale.legislation.o1",
+     "text_ar": "وصف هيكلة المنظومة: الصندوق الوطني للضمان الاجتماعي (القطاع الخاص)، الصندوق الوطني للتقاعد والحيطة الاجتماعية (القطاع العمومي)، الصندوق الوطني للتأمين على المرض، وإشراف وزارة الشؤون الاجتماعية",
+     "text_fr": "Décrire l'architecture du système : CNSS (secteur privé), CNRPS (secteur public), CNAM (assurance maladie) et la tutelle du ministère des Affaires sociales"
+    },
+    {
+     "key": "spec.securite-sociale.legislation.o2",
+     "text_ar": "معرفة النصوص المرجعية الكبرى: القانون عدد 30 لسنة 1960 المؤرخ في 14 ديسمبر 1960 (أنظمة الضمان الاجتماعي)، القانون عدد 12 لسنة 1985 المؤرخ في 5 مارس 1985 (نظام الجرايات المدنية والعسكرية)، القانون عدد 71 لسنة 2004 المؤرخ في 2 أوت 2004 (نظام التأمين على المرض) — المراجع للتثبت",
+     "text_fr": "Connaître les grands textes de référence : loi n° 60-30 du 14 décembre 1960 (régimes de sécurité sociale), loi n° 85-12 du 5 mars 1985 (régime des pensions civiles et militaires), loi n° 2004-71 du 2 août 2004 (régime d'assurance maladie) — références à vérifier"
+    },
+    {
+     "key": "spec.securite-sociale.legislation.o3",
+     "text_ar": "فهم مبادئ التمويل: التوزيع، اشتراكات المؤجر والأجير، التضامن بين الأجيال، وأسباب العجز المالي للصناديق",
+     "text_fr": "Comprendre les principes de financement : répartition, cotisations patronales et salariales, solidarité intergénérationnelle, et les causes du déficit financier des caisses"
+    },
+    {
+     "key": "spec.securite-sociale.legislation.o4",
+     "text_ar": "التمييز بين المنافع: جرايات الشيخوخة والعجز والباقين على قيد الحياة، المنح العائلية، رأس مال الوفاة، منافع حوادث الشغل",
+     "text_fr": "Distinguer les prestations : pensions de vieillesse, d'invalidité et de survivants, allocations familiales, capital-décès, prestations des accidents du travail"
+    },
+    {
+     "key": "spec.securite-sociale.legislation.o5",
+     "text_ar": "متابعة إصلاحات أنظمة التقاعد (الترفيع في سن الإحالة على التقاعد — إصلاح 2019 للقطاع العمومي، للتثبت)",
+     "text_fr": "Suivre les réformes des régimes de retraite (relèvement de l'âge de départ — réforme de 2019 pour le secteur public, à vérifier)"
+    }
+   ]
+  },
+  {
+   "key": "spec.securite-sociale.regimes-cnss",
+   "parent_key": "spec.securite-sociale.legislation",
+   "level": "TOPIC",
+   "title_ar": "أنظمة الصندوق الوطني للضمان الاجتماعي",
+   "title_fr": "Régimes gérés par la CNSS",
+   "scope": "SUGGESTED",
+   "source_key": null,
+   "objectives": [
+    {
+     "key": "spec.securite-sociale.regimes-cnss.o1",
+     "text_ar": "تحديد الأنظمة الرئيسية: الأجراء في القطاع غير الفلاحي، الأجراء في القطاع الفلاحي، العملة غير الأجراء، والأنظمة الخاصة (الفنانون والمبدعون، ذوو الدخل الضعيف، التونسيون بالخارج) — القائمة للتثبت",
+     "text_fr": "Identifier les principaux régimes : salariés non agricoles, salariés agricoles, travailleurs non salariés, régimes particuliers (artistes et créateurs, faibles revenus, Tunisiens à l'étranger) — liste à vérifier"
+    },
+    {
+     "key": "spec.securite-sociale.regimes-cnss.o2",
+     "text_ar": "شرح انخراط المؤجرين وتسجيل الأجراء والتصريح الثلاثي بالأجور",
+     "text_fr": "Expliquer l'immatriculation des employeurs, l'affiliation des salariés et la déclaration trimestrielle des salaires"
+    },
+    {
+     "key": "spec.securite-sociale.regimes-cnss.o3",
+     "text_ar": "معرفة الشروط العامة لفتح الحق في الجراية (السن، مدة الاشتراك) وطريقة احتسابها (الأجر المرجعي، النسبة عن كل سنة) — المعايير للتعلم من النصوص السارية",
+     "text_fr": "Connaître les conditions générales d'ouverture du droit à pension (âge, durée de cotisation) et son mode de calcul (salaire de référence, taux par année) — paramètres à apprendre sur les textes en vigueur"
+    },
+    {
+     "key": "spec.securite-sociale.regimes-cnss.o4",
+     "text_ar": "معرفة برامج توسيع التغطية الاجتماعية للفئات الهشة (مثل برنامج «أحميني» للعاملات في القطاع الفلاحي — للتثبت)",
+     "text_fr": "Connaître les programmes d'extension de la couverture aux populations vulnérables (par ex. programme « Ahmini » pour les travailleuses agricoles — à vérifier)"
+    }
+   ]
+  },
+  {
+   "key": "spec.securite-sociale.pensions-cnrps",
+   "parent_key": "spec.securite-sociale.legislation",
+   "level": "TOPIC",
+   "title_ar": "نظام الجرايات المدنية والعسكرية والحيطة الاجتماعية (الصندوق الوطني للتقاعد والحيطة الاجتماعية)",
+   "title_fr": "Pensions civiles et militaires et prévoyance sociale (CNRPS)",
+   "scope": "SUGGESTED",
+   "source_key": null,
+   "objectives": [
+    {
+     "key": "spec.securite-sociale.pensions-cnrps.o1",
+     "text_ar": "تحديد مجال تطبيق القانون عدد 12 لسنة 1985: أعوان الدولة والجماعات المحلية والمؤسسات العمومية الإدارية والعسكريون",
+     "text_fr": "Délimiter le champ d'application de la loi n° 85-12 : agents de l'État, des collectivités locales et des établissements publics administratifs, militaires"
+    },
+    {
+     "key": "spec.securite-sociale.pensions-cnrps.o2",
+     "text_ar": "التمييز بين جراية التقاعد وجراية العجز وجرايات الباقين على قيد الحياة، والتقاعد المبكر — المعايير للتثبت",
+     "text_fr": "Distinguer pension de retraite, pension d'invalidité, pensions de survivants et départ anticipé — paramètres à vérifier"
+    },
+    {
+     "key": "spec.securite-sociale.pensions-cnrps.o3",
+     "text_ar": "معرفة منافع الحيطة الاجتماعية التي يسديها الصندوق (القروض للمنخرطين، رأس مال الوفاة...) — للتثبت",
+     "text_fr": "Connaître les prestations de prévoyance servies par la caisse (prêts aux affiliés, capital-décès...) — à vérifier"
+    },
+    {
+     "key": "spec.securite-sociale.pensions-cnrps.o4",
+     "text_ar": "فهم قواعد التنسيق بين الأنظمة (احتساب فترات العمل في القطاعين العمومي والخاص) — للتثبت",
+     "text_fr": "Comprendre les règles de coordination entre régimes (prise en compte des périodes public/privé) — à vérifier"
+    }
+   ]
+  },
+  {
+   "key": "spec.securite-sociale.risques-professionnels",
+   "parent_key": "spec.securite-sociale.legislation",
+   "level": "TOPIC",
+   "title_ar": "حوادث الشغل والأمراض المهنية",
+   "title_fr": "Accidents du travail et maladies professionnelles",
+   "scope": "SUGGESTED",
+   "source_key": null,
+   "objectives": [
+    {
+     "key": "spec.securite-sociale.risques-professionnels.o1",
+     "text_ar": "تعريف حادث الشغل وحادث الطريق والمرض المهني حسب القانون عدد 28 لسنة 1994 المؤرخ في 21 فيفري 1994 — المرجع للتثبت",
+     "text_fr": "Définir l'accident du travail, l'accident de trajet et la maladie professionnelle selon la loi n° 94-28 du 21 février 1994 — référence à vérifier"
+    },
+    {
+     "key": "spec.securite-sociale.risques-professionnels.o2",
+     "text_ar": "معرفة إجراءات التصريح والتكفل والمنحة اليومية والجراية في حالة السقوط البدني المستمر",
+     "text_fr": "Connaître la déclaration, la prise en charge, l'indemnité journalière et la rente d'incapacité permanente"
+    },
+    {
+     "key": "spec.securite-sociale.risques-professionnels.o3",
+     "text_ar": "تحديد الهيكل المكلف بالتعويض عن الأضرار المهنية بعد إحداث الصندوق الوطني للتأمين على المرض — للتثبت",
+     "text_fr": "Identifier l'organisme chargé de la réparation des risques professionnels depuis la création de la CNAM — à vérifier"
+    }
+   ]
+  },
+  {
+   "key": "spec.securite-sociale.assurance-maladie",
+   "parent_key": null,
+   "level": "UNIT",
+   "title_ar": "نظام التأمين على المرض",
+   "title_fr": "Régime d'assurance maladie",
+   "scope": "SUGGESTED",
+   "source_key": null,
+   "objectives": [
+    {
+     "key": "spec.securite-sociale.assurance-maladie.o1",
+     "text_ar": "معرفة القانون عدد 71 لسنة 2004 وإحداث الصندوق الوطني للتأمين على المرض بتجميع فروع المرض للصناديق السابقة",
+     "text_fr": "Connaître la loi n° 2004-71 et la création de la CNAM par regroupement des branches maladie des anciennes caisses"
+    },
+    {
+     "key": "spec.securite-sociale.assurance-maladie.o2",
+     "text_ar": "التمييز بين المسالك العلاجية الثلاثة: المسلك العمومي، المسلك الخاص (طبيب العائلة)، ونظام استرجاع المصاريف",
+     "text_fr": "Distinguer les trois filières de soins : filière publique, filière privée (médecin de famille) et système de remboursement des frais"
+    },
+    {
+     "key": "spec.securite-sociale.assurance-maladie.o3",
+     "text_ar": "معرفة الأمراض المزمنة والثقيلة المتكفل بها كليا وإجراءات الموافقة المسبقة",
+     "text_fr": "Connaître les affections prises en charge intégralement (maladies chroniques et lourdes) et la procédure d'accord préalable"
+    },
+    {
+     "key": "spec.securite-sociale.assurance-maladie.o4",
+     "text_ar": "فهم الاتفاقيات القطاعية مع مسدي الخدمات الصحية ونظام الطرف الدافع",
+     "text_fr": "Comprendre les conventions sectorielles avec les prestataires de soins et le système du tiers payant"
+    },
+    {
+     "key": "spec.securite-sociale.assurance-maladie.o5",
+     "text_ar": "فهم رهانات التحكم في نفقات الصحة ومكافحة التحيل",
+     "text_fr": "Comprendre les enjeux de maîtrise des dépenses de santé et de lutte contre la fraude"
+    }
+   ]
+  },
+  {
+   "key": "spec.securite-sociale.recouvrement-controle",
+   "parent_key": null,
+   "level": "UNIT",
+   "title_ar": "الاشتراكات والاستخلاص والمراقبة",
+   "title_fr": "Cotisations, recouvrement et contrôle",
+   "scope": "SUGGESTED",
+   "source_key": null,
+   "objectives": [
+    {
+     "key": "spec.securite-sociale.recouvrement-controle.o1",
+     "text_ar": "تحديد قاعدة احتساب الاشتراكات ونسبتها الجملية وتوزيعها بين المؤجر والأجير — النسب للتعلم من النصوص السارية",
+     "text_fr": "Déterminer l'assiette des cotisations, le taux global et sa répartition employeur/salarié — taux à apprendre sur les textes en vigueur"
+    },
+    {
+     "key": "spec.securite-sociale.recouvrement-controle.o2",
+     "text_ar": "شرح إجراءات الاستخلاص: التصريح، الخلاص، خطايا التأخير، الاستخلاص الجبري، جدولة الديون",
+     "text_fr": "Expliquer la procédure de recouvrement : déclaration, paiement, majorations de retard, recouvrement forcé, échéanciers"
+    },
+    {
+     "key": "spec.securite-sociale.recouvrement-controle.o3",
+     "text_ar": "معرفة حقوق وواجبات عون المراقبة المحلف، وتحرير المحضر وإعادة التقدير",
+     "text_fr": "Connaître les droits et obligations de l'agent de contrôle assermenté, la rédaction du procès-verbal et le redressement"
+    },
+    {
+     "key": "spec.securite-sociale.recouvrement-controle.o4",
+     "text_ar": "معرفة نزاعات الضمان الاجتماعي وطرق الطعن والهياكل المختصة — للتثبت",
+     "text_fr": "Connaître le contentieux de la sécurité sociale, les voies de recours et les instances compétentes — à vérifier"
+    },
+    {
+     "key": "spec.securite-sociale.recouvrement-controle.o5",
+     "text_ar": "قراءة الوثائق المحاسبية والاجتماعية للمؤسسة: دفتر الأجور، بطاقات الخلاص، القوائم المالية",
+     "text_fr": "Lire les documents comptables et sociaux de l'entreprise : livre de paie, bulletins de salaire, états financiers"
+    }
+   ]
+  },
+  {
+   "key": "spec.securite-sociale.droit-travail",
+   "parent_key": null,
+   "level": "UNIT",
+   "title_ar": "قانون الشغل في علاقته بالضمان الاجتماعي",
+   "title_fr": "Droit du travail appliqué à la sécurité sociale",
+   "scope": "SUGGESTED",
+   "source_key": null,
+   "objectives": [
+    {
+     "key": "spec.securite-sociale.droit-travail.o1",
+     "text_ar": "معرفة أسس مجلة الشغل: عقد الشغل (غير محدد/محدد المدة)، الأجر والأجر الأدنى المضمون، مدة العمل، العطل",
+     "text_fr": "Connaître les bases du Code du travail : contrat de travail (CDI/CDD), salaire et SMIG/SMAG, durée du travail, congés"
+    },
+    {
+     "key": "spec.securite-sociale.droit-travail.o2",
+     "text_ar": "فهم العلاقة بين قانون الشغل وقانون الضمان الاجتماعي: صفة الأجير، علاقة التبعية، إجبارية الانخراط",
+     "text_fr": "Comprendre le lien entre droit du travail et droit de la sécurité sociale : qualité de salarié, lien de subordination, obligation d'affiliation"
+    },
+    {
+     "key": "spec.securite-sociale.droit-travail.o3",
+     "text_ar": "معرفة دور تفقدية الشغل والشركاء الاجتماعيين والحوار الاجتماعي",
+     "text_fr": "Connaître le rôle de l'inspection du travail, des partenaires sociaux et du dialogue social"
+    }
+   ]
+  },
+  {
+   "key": "spec.securite-sociale.controle-medical",
+   "parent_key": null,
+   "level": "UNIT",
+   "title_ar": "الرقابة الطبية والطب الاستشاري",
+   "title_fr": "Contrôle médical et médecine conseil",
+   "scope": "SUGGESTED",
+   "source_key": null,
+   "objectives": [
+    {
+     "key": "spec.securite-sociale.controle-medical.o1",
+     "text_ar": "تحديد مهام الطبيب المستشار: إبداء الرأي في المنافع، مراقبة العطل المرضية، الموافقات المسبقة",
+     "text_fr": "Définir les missions du médecin conseil : avis sur les prestations, contrôle des arrêts de maladie, accords préalables"
+    },
+    {
+     "key": "spec.securite-sociale.controle-medical.o2",
+     "text_ar": "تقييم العجز والسقوط البدني: الجدول المرجعي، نسبة السقوط المستمر، الاستقرار",
+     "text_fr": "Évaluer l'incapacité et l'invalidité : barème, taux d'incapacité permanente, consolidation"
+    },
+    {
+     "key": "spec.securite-sociale.controle-medical.o3",
+     "text_ar": "معرفة تسمية الأعمال المهنية والأدوية القابلة للاسترجاع والأدوية الجنيسة",
+     "text_fr": "Connaître la nomenclature des actes professionnels, les médicaments remboursables et les génériques"
+    },
+    {
+     "key": "spec.securite-sociale.controle-medical.o4",
+     "text_ar": "احترام أخلاقيات المهنة والسر الطبي والعلاقة مع مسدي الخدمات المتعاقدين",
+     "text_fr": "Respecter la déontologie, le secret médical et les relations avec les prestataires conventionnés"
+    },
+    {
+     "key": "spec.securite-sociale.controle-medical.o5",
+     "text_ar": "استعمال مؤشرات الاستهلاك والوبائيات لتوجيه الرقابة الطبية",
+     "text_fr": "Utiliser les indicateurs de consommation et d'épidémiologie pour orienter le contrôle médical"
+    }
+   ]
+  },
+  {
+   "key": "spec.securite-sociale.accueil-prestations",
+   "parent_key": null,
+   "level": "UNIT",
+   "title_ar": "استقبال المضمونين ومعالجة ملفات المنافع",
+   "title_fr": "Accueil des assurés et traitement des prestations",
+   "scope": "SUGGESTED",
+   "source_key": null,
+   "objectives": [
+    {
+     "key": "spec.securite-sociale.accueil-prestations.o1",
+     "text_ar": "استقبال وتوجيه المضمونين والمؤجرين وجودة الخدمة ومعالجة الشكاوى",
+     "text_fr": "Accueillir et orienter assurés et employeurs ; qualité de service ; traitement des réclamations"
+    },
+    {
+     "key": "spec.securite-sociale.accueil-prestations.o2",
+     "text_ar": "تكوين ودراسة ملفات المنافع (الجرايات، المنح العائلية، استرجاع مصاريف العلاج)",
+     "text_fr": "Constituer et instruire les dossiers de prestations (pensions, allocations familiales, remboursement des soins)"
+    },
+    {
+     "key": "spec.securite-sociale.accueil-prestations.o3",
+     "text_ar": "استعمال الخدمات عن بعد للصناديق (فضاءات المضمونين والمؤجرين) — الوظائف للتثبت",
+     "text_fr": "Utiliser les services en ligne des caisses (espaces assurés et employeurs) — fonctionnalités à vérifier"
+    },
+    {
+     "key": "spec.securite-sociale.accueil-prestations.o4",
+     "text_ar": "احترام واجبات العون العمومي: السر المهني، الحياد، حماية المعطيات الشخصية (القانون الأساسي عدد 63 لسنة 2004 — للتثبت)",
+     "text_fr": "Respecter les obligations de l'agent public : secret professionnel, neutralité, protection des données personnelles (loi organique n° 2004-63 — à vérifier)"
+    }
+   ]
+  }
+ ],
+ "past_exams": [],
+ "tips_ar": [
+  "تابع ركن «الانتداب/المناظرات» في مواقع الصناديق الثلاثة وفي الرائد الرسمي: كل صندوق ينشر بلاغاته بصفة مستقلة وآجال الترشح قصيرة عادة (تقدير: من أسبوعين إلى أربعة أسابيع).",
+  "ركّز على تشريع الضمان الاجتماعي (أنظمة الصندوق الوطني للضمان الاجتماعي والصندوق الوطني للتقاعد والتأمين على المرض): هي المادة التي تميز هذه المناظرات عن المناظرات الإدارية العامة.",
+  "تدرّب على تحرير مواضيع اقتصادية واجتماعية: ديمومة أنظمة التقاعد، التغطية الاجتماعية للعاملين في القطاع غير المنظم، التحكم في نفقات الصحة، رقمنة الخدمات العمومية.",
+  "حضّر وثائق الملف مسبقا (الشهائد وكشوف الأعداد المطابقة للأصل، شهادة المعادلة): الانتقاء الأولي يتم غالبا على الملفات وحسب المعدلات.",
+  "للاختبار الشفاهي: اعرف تنظيم الصندوق الذي تترشح إليه (الإدارات الجهوية، المكاتب المحلية، الخدمات عن بعد) وأرقامه الأساسية المنشورة في تقريره السنوي.",
+  "بالنسبة للأطباء المترشحين لخطة طبيب مستشار: راجعوا تقييم الضرر البدني وتشريع التأمين على المرض وليس فقط الجانب السريري.",
+  "احذر من صفحات التواصل الاجتماعي التي تعلن عن «مناظرات» للصناديق دون رابط رسمي، ولا تدفع أي مبلغ مقابل التسجيل: تثبّت دائما من موقع الصندوق."
+ ],
+ "tips_fr": [
+  "Surveillez la rubrique « Recrutement/Concours » des sites des trois caisses et le JORT : chaque caisse publie ses avis séparément et les délais de candidature sont généralement courts (estimation : 2 à 4 semaines).",
+  "Révisez en priorité la législation de sécurité sociale (régimes CNSS, CNRPS et assurance maladie) : c'est la matière qui distingue ces concours des concours administratifs généraux.",
+  "Entraînez-vous à la dissertation sur des sujets économiques et sociaux : pérennité des régimes de retraite, couverture sociale des travailleurs informels, maîtrise des dépenses de santé, numérisation des services publics.",
+  "Préparez à l'avance les pièces du dossier (diplômes et relevés certifiés, équivalence) : la présélection se fait souvent sur dossier, selon les moyennes.",
+  "Pour l'oral, connaissez l'organisation de la caisse visée (directions régionales, bureaux locaux, services en ligne) et ses chiffres clés publiés dans son rapport annuel.",
+  "Médecins candidats au poste de médecin conseil : révisez l'évaluation du dommage corporel et la réglementation de l'assurance maladie, pas seulement la clinique.",
+  "Méfiez-vous des pages de réseaux sociaux annonçant des « concours » des caisses sans lien officiel, et ne payez jamais pour vous inscrire : vérifiez toujours sur le site de la caisse."
+ ],
+ "research_notes": "LIMITE MÉTHODOLOGIQUE MAJEURE : lors de cette passe, le quota WebSearch partagé était épuisé dès la première requête (aucune recherche exécutée) et WebFetch renvoie EGRESS_BLOCKED pour tous les domaines testés (www.cnss.tn, www.cnam.nat.tn, www.cnrps.nat.tn, www.cnrps.tn, www.social.gov.tn, www.concours.gov.tn, www.iort.gov.tn, www.legislation.tn, fr/ar.wikipedia.org, www.lapresse.tn, www.orientini.com, www.tuniscope.com, www.kedma.tn, www.emploi.rn.tn, idaraty.tn ; www.pist.gov.tn : ENOTFOUND). AUCUNE page n'a été lue. Le journal de recherche interne (docs/research/01-market-raw.md) classe explicitement « CNSS/CNAM » parmi les éléments non trouvés. En conséquence : (1) editions = [] — aucune session 2023-2026 n'a pu être confirmée (dates, nombre de postes, nombre de candidats inconnus) ; aucune édition EXPECTED n'a été ajoutée pour ne pas suggérer un calendrier inventé ; (2) past_exams = [] — aucune annale officielle ou communautaire vue ; (3) TOUS les faits (éligibilité, phases, matières, pièces) portent needs_verification=true, confidence=LOW, source_key=null ; les sources s1-s6 sont des sites officiels cités uniquement comme lieux de vérification, non consultés ; (4) les 5 postes (cadre gestionnaire, contrôleur CNSS, agent administratif, médecin conseil, ingénieur informaticien) sont des profils PLAUSIBLES pour des caisses de sécurité sociale, pas des grades confirmés : les intitulés exacts des grades dépendent des statuts particuliers du personnel de chaque caisse (références non vérifiées) ; (5) les blueprints sont tous APPROXIMATED ; aucune épreuve physique n'est attendue pour ces postes administratifs (physical_tests vides) ; (6) critères d'éligibilité volontairement permissifs pour l'appariement automatique avec les profils (âge null, spécialités non filtrées, diplôme minimal seulement) ; les limites d'âge et spécialités suggérées sont dans other_ar/other_fr. Les références juridiques citées dans specialty_syllabus (loi 60-30 du 14/12/1960, loi 85-12 du 5/3/1985, loi 2004-71 du 2/8/2004, loi 94-28 du 21/2/1994, loi organique 2004-63, réforme des retraites de 2019, programme Ahmini) proviennent des connaissances générales et doivent être vérifiées sur legislation.tn (s6). À VÉRIFIER EN PRIORITÉ : (a) existence et dates des concours CNSS/CNAM/CNRPS depuis 2023 (sites des caisses, JORT, presse : lapresse.tn, tuniscope, mosaiquefm, orientini) ; (b) plateforme d'inscription (site de chaque caisse, concours.gov.tn ou dossier postal) ; (c) grades réellement ouverts, diplômes/spécialités admis, limite d'âge, condition de non-emploi ; (d) nature des épreuves (sur dossiers vs sur épreuves), matières, coefficients, durées ; (e) recrutement de médecins/pharmaciens/dentistes conseils à la CNAM ; (f) tutelle exacte et statut juridique (établissements publics non administratifs) de chaque caisse ; (g) impact des restrictions budgétaires de recrutement (circulaire budgétaire 2027) sur les caisses. Hors périmètre de cette famille : l'Institut national de santé et sécurité au travail et le Centre de recherches et d'études de sécurité sociale (à traiter séparément si pertinent)."
+}

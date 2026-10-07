@@ -1,0 +1,1745 @@
+{
+ "bank": "cg-sciences-numerique",
+ "domain": "CULTURE_GENERALE",
+ "specialty_syllabus": [],
+ "sources": [],
+ "research_notes": "Banque de 40 questions originales (AI_GENERATED), 20 sur cg.sciences.o1 et 20 sur cg.informatique-generale.o1 (le syllabus commun ne définit qu'un objectif o1 pour chacun de ces deux thèmes). Aucune vérification web n'a pu être faite lors de la rédaction : le budget WebSearch partagé était épuisé et WebFetch était bloqué par le proxy (ancs.tn, fr.wikipedia.org) ou en échec DNS (inpdp.nat.tn). Le contenu a donc été volontairement limité à des connaissances scientifiques et informatiques universelles et stables (aucun fait daté, aucun responsable, aucun chiffre conjoncturel : valid_until = null partout). Deux questions portent sur la Tunisie : l'extension .tn gérée par l'ATI (cg-sciences-numerique-0029) et la loi organique n° 2004-63 du 27 juillet 2004 sur la protection des données personnelles créant l'INPDP, avec en distracteurs la loi n° 2004-5 du 3 février 2004 (sécurité informatique), la loi organique n° 2016-22 du 24 mars 2016 (accès à l'information) et le décret-loi n° 2022-54 du 13 septembre 2022 (infractions liées aux systèmes d'information et de communication) (cg-sciences-numerique-0038, tag needs_verification). Ces références sont connues avec une forte certitude mais doivent être relues contre le JORT (legislation.tn / iort.gov.tn) avant publication. Volontairement évités car non vérifiables : le décret-loi de 2023 sur la cybersécurité et le nouveau nom de l'ex-ANSI, les services d'e-administration tunisiens (identifiant mobile, portails), les statistiques de pénétration Internet.",
+ "questions": [
+  {
+   "id": "cg-sciences-numerique-0001",
+   "type": "MCQ_SINGLE",
+   "language": "ar",
+   "stem": "خلال عملية التركيب الضوئي، تمتصّ النباتات الخضراء من الهواء غاز:",
+   "options": [
+    {
+     "id": "a",
+     "text": "ثاني أكسيد الكربون (CO₂)"
+    },
+    {
+     "id": "b",
+     "text": "الأكسجين (O₂)"
+    },
+    {
+     "id": "c",
+     "text": "الآزوت (N₂)"
+    },
+    {
+     "id": "d",
+     "text": "الهيدروجين (H₂)"
+    }
+   ],
+   "correct": [
+    "a"
+   ],
+   "explanation": "تستعمل النباتات الخضراء الطاقة الضوئية واليخضور لتحويل ثاني أكسيد الكربون والماء إلى مواد عضوية (سكريات). أما الأكسجين فهو الغاز الذي تطرحه النباتات نتيجة هذه العملية وليس الغاز الذي تمتصه لإنجازها.",
+   "difficulty": "EASY",
+   "topic_key": "cg.sciences",
+   "objective_key": "cg.sciences.o1",
+   "families": [
+    "*"
+   ],
+   "origin": "AI_GENERATED",
+   "source_key": null,
+   "year": null,
+   "valid_until": null,
+   "tags": [
+    "biologie",
+    "photosynthese"
+   ]
+  },
+  {
+   "id": "cg-sciences-numerique-0002",
+   "type": "MCQ_SINGLE",
+   "language": "fr",
+   "stem": "Quel est le symbole chimique du sodium ?",
+   "options": [
+    {
+     "id": "a",
+     "text": "S"
+    },
+    {
+     "id": "b",
+     "text": "So"
+    },
+    {
+     "id": "c",
+     "text": "Sd"
+    },
+    {
+     "id": "d",
+     "text": "Na"
+    }
+   ],
+   "correct": [
+    "d"
+   ],
+   "explanation": "Le symbole du sodium est Na, d'après son nom latin « natrium » ; on le retrouve dans le sel de cuisine (NaCl). Le symbole S désigne le soufre, ce qui en fait le piège le plus fréquent.",
+   "difficulty": "EASY",
+   "topic_key": "cg.sciences",
+   "objective_key": "cg.sciences.o1",
+   "families": [
+    "*"
+   ],
+   "origin": "AI_GENERATED",
+   "source_key": null,
+   "year": null,
+   "valid_until": null,
+   "tags": [
+    "chimie",
+    "elements"
+   ]
+  },
+  {
+   "id": "cg-sciences-numerique-0003",
+   "type": "TRUE_FALSE",
+   "language": "ar",
+   "stem": "يغلي الماء النقي تحت الضغط الجوي العادي (عند مستوى سطح البحر) في درجة حرارة تقارب 100 درجة مئوية.",
+   "options": [
+    {
+     "id": "a",
+     "text": "صحيح"
+    },
+    {
+     "id": "b",
+     "text": "خطأ"
+    }
+   ],
+   "correct": [
+    "a"
+   ],
+   "explanation": "العبارة صحيحة: تحت ضغط جوي يساوي 1 atm تقريبًا، يغلي الماء النقي في حدود 100 °C، وهي إحدى النقاط المرجعية لسلّم سلسيوس. وتنخفض درجة الغليان كلما انخفض الضغط، كما هو الحال في قمم الجبال العالية.",
+   "difficulty": "EASY",
+   "topic_key": "cg.sciences",
+   "objective_key": "cg.sciences.o1",
+   "families": [
+    "*"
+   ],
+   "origin": "AI_GENERATED",
+   "source_key": null,
+   "year": null,
+   "valid_until": null,
+   "tags": [
+    "physique",
+    "etats-de-la-matiere"
+   ]
+  },
+  {
+   "id": "cg-sciences-numerique-0004",
+   "type": "MCQ_SINGLE",
+   "language": "fr",
+   "stem": "Les antibiotiques sont des médicaments efficaces principalement contre :",
+   "options": [
+    {
+     "id": "a",
+     "text": "les infections bactériennes"
+    },
+    {
+     "id": "b",
+     "text": "les infections virales comme la grippe"
+    },
+    {
+     "id": "c",
+     "text": "les réactions allergiques"
+    },
+    {
+     "id": "d",
+     "text": "les maladies génétiques héréditaires"
+    }
+   ],
+   "correct": [
+    "a"
+   ],
+   "explanation": "Les antibiotiques agissent sur les bactéries en détruisant leur structure ou en bloquant leur multiplication. Ils sont inefficaces contre les virus (grippe, rhume), qui n'ont pas les cibles visées par ces molécules ; leur usage inutile favorise en outre l'antibiorésistance.",
+   "difficulty": "EASY",
+   "topic_key": "cg.sciences",
+   "objective_key": "cg.sciences.o1",
+   "families": [
+    "*"
+   ],
+   "origin": "AI_GENERATED",
+   "source_key": null,
+   "year": null,
+   "valid_until": null,
+   "tags": [
+    "sante",
+    "medicaments"
+   ]
+  },
+  {
+   "id": "cg-sciences-numerique-0005",
+   "type": "MCQ_SINGLE",
+   "language": "ar",
+   "stem": "ما هو الكوكب الأقرب إلى الشمس في المجموعة الشمسية؟",
+   "options": [
+    {
+     "id": "a",
+     "text": "الزهرة"
+    },
+    {
+     "id": "b",
+     "text": "المريخ"
+    },
+    {
+     "id": "c",
+     "text": "عطارد"
+    },
+    {
+     "id": "d",
+     "text": "الأرض"
+    }
+   ],
+   "correct": [
+    "c"
+   ],
+   "explanation": "عطارد هو أقرب كواكب المجموعة الشمسية إلى الشمس وأصغرها حجمًا. يليه كوكب الزهرة ثم الأرض ثم المريخ؛ ويُخلط أحيانًا بين عطارد والزهرة لأن الزهرة هو الكوكب الأكثر سطوعًا في السماء.",
+   "difficulty": "EASY",
+   "topic_key": "cg.sciences",
+   "objective_key": "cg.sciences.o1",
+   "families": [
+    "*"
+   ],
+   "origin": "AI_GENERATED",
+   "source_key": null,
+   "year": null,
+   "valid_until": null,
+   "tags": [
+    "astronomie",
+    "systeme-solaire"
+   ]
+  },
+  {
+   "id": "cg-sciences-numerique-0006",
+   "type": "MCQ_SINGLE",
+   "language": "fr",
+   "stem": "Le vaccin BCG est destiné à protéger contre :",
+   "options": [
+    {
+     "id": "a",
+     "text": "la rougeole"
+    },
+    {
+     "id": "b",
+     "text": "la tuberculose"
+    },
+    {
+     "id": "c",
+     "text": "la poliomyélite"
+    },
+    {
+     "id": "d",
+     "text": "le tétanos"
+    }
+   ],
+   "correct": [
+    "b"
+   ],
+   "explanation": "Le BCG (bacille de Calmette et Guérin) est le vaccin contre la tuberculose, maladie due au bacille de Koch. La rougeole et la poliomyélite sont prévenues par d'autres vaccins (ROR, vaccin polio), et le tétanos par un vaccin à base d'anatoxine.",
+   "difficulty": "EASY",
+   "topic_key": "cg.sciences",
+   "objective_key": "cg.sciences.o1",
+   "families": [
+    "*"
+   ],
+   "origin": "AI_GENERATED",
+   "source_key": null,
+   "year": null,
+   "valid_until": null,
+   "tags": [
+    "sante",
+    "vaccination"
+   ]
+  },
+  {
+   "id": "cg-sciences-numerique-0007",
+   "type": "MCQ_SINGLE",
+   "language": "ar",
+   "stem": "تحمي طبقة الأوزون الكائنات الحية على سطح الأرض أساسًا من:",
+   "options": [
+    {
+     "id": "a",
+     "text": "الأشعة تحت الحمراء"
+    },
+    {
+     "id": "b",
+     "text": "الموجات الراديوية"
+    },
+    {
+     "id": "c",
+     "text": "الأشعة فوق البنفسجية"
+    },
+    {
+     "id": "d",
+     "text": "النيازك والشهب"
+    }
+   ],
+   "correct": [
+    "c"
+   ],
+   "explanation": "يمتصّ غاز الأوزون الموجود في طبقة الستراتوسفير الجزء الأكبر من الأشعة فوق البنفسجية الضارة الصادرة عن الشمس، وهي أشعة تسبب سرطان الجلد وأمراض العيون. أما الأشعة تحت الحمراء فترتبط أساسًا بظاهرة الاحتباس الحراري وليس بدور طبقة الأوزون.",
+   "difficulty": "MEDIUM",
+   "topic_key": "cg.sciences",
+   "objective_key": "cg.sciences.o1",
+   "families": [
+    "*"
+   ],
+   "origin": "AI_GENERATED",
+   "source_key": null,
+   "year": null,
+   "valid_until": null,
+   "tags": [
+    "environnement",
+    "ozone"
+   ]
+  },
+  {
+   "id": "cg-sciences-numerique-0008",
+   "type": "MCQ_SINGLE",
+   "language": "fr",
+   "stem": "Dans le Système international (SI), la puissance s'exprime en :",
+   "options": [
+    {
+     "id": "a",
+     "text": "joules (J)"
+    },
+    {
+     "id": "b",
+     "text": "newtons (N)"
+    },
+    {
+     "id": "c",
+     "text": "pascals (Pa)"
+    },
+    {
+     "id": "d",
+     "text": "watts (W)"
+    }
+   ],
+   "correct": [
+    "d"
+   ],
+   "explanation": "La puissance est une énergie par unité de temps : 1 watt = 1 joule par seconde. Le joule mesure l'énergie elle-même, le newton une force et le pascal une pression ; la confusion la plus fréquente est entre watt (puissance) et joule ou kilowattheure (énergie).",
+   "difficulty": "MEDIUM",
+   "topic_key": "cg.sciences",
+   "objective_key": "cg.sciences.o1",
+   "families": [
+    "*"
+   ],
+   "origin": "AI_GENERATED",
+   "source_key": null,
+   "year": null,
+   "valid_until": null,
+   "tags": [
+    "physique",
+    "unites"
+   ]
+  },
+  {
+   "id": "cg-sciences-numerique-0009",
+   "type": "MCQ_SINGLE",
+   "language": "ar",
+   "stem": "ما هي فصيلة الدم التي يُطلق على صاحبها اسم «المعطي العام» في نقل كريات الدم الحمراء؟",
+   "options": [
+    {
+     "id": "a",
+     "text": "O سالب"
+    },
+    {
+     "id": "b",
+     "text": "AB موجب"
+    },
+    {
+     "id": "c",
+     "text": "A موجب"
+    },
+    {
+     "id": "d",
+     "text": "B سالب"
+    }
+   ],
+   "correct": [
+    "a"
+   ],
+   "explanation": "لا تحمل كريات الدم الحمراء من فصيلة O سالب المستضدّين A وB ولا العامل الريصي (Rh)، لذلك يمكن نقلها مبدئيًا إلى كل الفصائل. أما فصيلة AB موجب فتُسمّى «الآخذ العام» لأن صاحبها يستطيع أن يتلقى كريات حمراء من جميع الفصائل.",
+   "difficulty": "MEDIUM",
+   "topic_key": "cg.sciences",
+   "objective_key": "cg.sciences.o1",
+   "families": [
+    "*"
+   ],
+   "origin": "AI_GENERATED",
+   "source_key": null,
+   "year": null,
+   "valid_until": null,
+   "tags": [
+    "sante",
+    "groupes-sanguins"
+   ]
+  },
+  {
+   "id": "cg-sciences-numerique-0010",
+   "type": "MCQ_MULTI",
+   "language": "fr",
+   "stem": "Parmi les sources d'énergie suivantes, lesquelles sont renouvelables ? (plusieurs réponses)",
+   "options": [
+    {
+     "id": "a",
+     "text": "L'énergie solaire"
+    },
+    {
+     "id": "b",
+     "text": "L'énergie éolienne"
+    },
+    {
+     "id": "c",
+     "text": "Le gaz naturel"
+    },
+    {
+     "id": "d",
+     "text": "La géothermie"
+    },
+    {
+     "id": "e",
+     "text": "Le charbon"
+    }
+   ],
+   "correct": [
+    "a",
+    "b",
+    "d"
+   ],
+   "explanation": "Le soleil, le vent et la chaleur interne de la Terre (géothermie) se renouvellent à l'échelle humaine : ce sont des énergies renouvelables. Le gaz naturel et le charbon sont des combustibles fossiles formés en des millions d'années ; leurs réserves sont limitées et leur combustion émet du CO₂.",
+   "difficulty": "MEDIUM",
+   "topic_key": "cg.sciences",
+   "objective_key": "cg.sciences.o1",
+   "families": [
+    "*"
+   ],
+   "origin": "AI_GENERATED",
+   "source_key": null,
+   "year": null,
+   "valid_until": null,
+   "tags": [
+    "environnement",
+    "energie"
+   ]
+  },
+  {
+   "id": "cg-sciences-numerique-0011",
+   "type": "MCQ_MULTI",
+   "language": "ar",
+   "stem": "من بين الأمراض التالية، ما هي الأمراض التي يسببها فيروس؟ (عدة إجابات ممكنة)",
+   "options": [
+    {
+     "id": "a",
+     "text": "الأنفلونزا (النزلة الوافدة)"
+    },
+    {
+     "id": "b",
+     "text": "الحصبة"
+    },
+    {
+     "id": "c",
+     "text": "السل"
+    },
+    {
+     "id": "d",
+     "text": "الكوليرا"
+    },
+    {
+     "id": "e",
+     "text": "داء الكلب"
+    }
+   ],
+   "correct": [
+    "a",
+    "b",
+    "e"
+   ],
+   "explanation": "الأنفلونزا والحصبة وداء الكلب أمراض فيروسية، ولذلك لا تعالج بالمضادات الحيوية وتتم الوقاية منها أساسًا بالتلقيح. أما السل والكوليرا فتسببهما بكتيريا (عصية كوخ وضمة الكوليرا)، وهو الفخ الرئيسي في هذا السؤال.",
+   "difficulty": "MEDIUM",
+   "topic_key": "cg.sciences",
+   "objective_key": "cg.sciences.o1",
+   "families": [
+    "*"
+   ],
+   "origin": "AI_GENERATED",
+   "source_key": null,
+   "year": null,
+   "valid_until": null,
+   "tags": [
+    "sante",
+    "maladies-infectieuses"
+   ]
+  },
+  {
+   "id": "cg-sciences-numerique-0012",
+   "type": "TRUE_FALSE",
+   "language": "fr",
+   "stem": "La lumière se propage plus vite dans l'eau que dans le vide.",
+   "options": [
+    {
+     "id": "a",
+     "text": "Vrai"
+    },
+    {
+     "id": "b",
+     "text": "Faux"
+    }
+   ],
+   "correct": [
+    "b"
+   ],
+   "explanation": "Faux. La vitesse de la lumière est maximale dans le vide (environ 300 000 km/s) ; dans l'eau, d'indice de réfraction proche de 1,33, elle n'atteint qu'environ 225 000 km/s. C'est ce changement de vitesse qui explique la réfraction, par exemple l'aspect « brisé » d'un bâton plongé dans l'eau.",
+   "difficulty": "MEDIUM",
+   "topic_key": "cg.sciences",
+   "objective_key": "cg.sciences.o1",
+   "families": [
+    "*"
+   ],
+   "origin": "AI_GENERATED",
+   "source_key": null,
+   "year": null,
+   "valid_until": null,
+   "tags": [
+    "physique",
+    "optique"
+   ]
+  },
+  {
+   "id": "cg-sciences-numerique-0013",
+   "type": "NUMERIC",
+   "language": "ar",
+   "stem": "كم يبلغ عدد الصبغيات (الكروموسومات) في الخلية الجسدية العادية للإنسان؟",
+   "options": [],
+   "correct": {
+    "value": 46,
+    "tolerance": 0
+   },
+   "explanation": "تحتوي الخلية الجسدية للإنسان على 46 صبغيًا مرتبة في 23 زوجًا، منها زوج من الصبغيات الجنسية (XX عند الأنثى وXY عند الذكر). ولا ينبغي الخلط مع الخلايا الجنسية (البويضة والحيوان المنوي) التي تحتوي على 23 صبغيًا فقط.",
+   "difficulty": "MEDIUM",
+   "topic_key": "cg.sciences",
+   "objective_key": "cg.sciences.o1",
+   "families": [
+    "*"
+   ],
+   "origin": "AI_GENERATED",
+   "source_key": null,
+   "year": null,
+   "valid_until": null,
+   "tags": [
+    "biologie",
+    "genetique"
+   ]
+  },
+  {
+   "id": "cg-sciences-numerique-0014",
+   "type": "MATCHING",
+   "language": "fr",
+   "stem": "Associez chaque scientifique à la découverte ou à l'apport qui lui est principalement attribué.",
+   "options": [
+    {
+     "id": "l1",
+     "text": "Isaac Newton",
+     "side": "left"
+    },
+    {
+     "id": "l2",
+     "text": "Louis Pasteur",
+     "side": "left"
+    },
+    {
+     "id": "l3",
+     "text": "Alexander Fleming",
+     "side": "left"
+    },
+    {
+     "id": "l4",
+     "text": "Marie Curie",
+     "side": "left"
+    },
+    {
+     "id": "r1",
+     "text": "Découverte de la pénicilline",
+     "side": "right"
+    },
+    {
+     "id": "r2",
+     "text": "Découverte du polonium et du radium",
+     "side": "right"
+    },
+    {
+     "id": "r3",
+     "text": "Loi de la gravitation universelle",
+     "side": "right"
+    },
+    {
+     "id": "r4",
+     "text": "Premier vaccin contre la rage administré à l'homme",
+     "side": "right"
+    }
+   ],
+   "correct": {
+    "pairs": [
+     [
+      "l1",
+      "r3"
+     ],
+     [
+      "l2",
+      "r4"
+     ],
+     [
+      "l3",
+      "r1"
+     ],
+     [
+      "l4",
+      "r2"
+     ]
+    ]
+   },
+   "explanation": "Newton a formulé la loi de la gravitation universelle (1687) et Pasteur a mis au point le vaccin contre la rage, utilisé sur l'homme en 1885. Fleming a découvert la pénicilline en 1928, premier antibiotique, tandis que Marie Curie a découvert avec Pierre Curie le polonium et le radium en 1898. Il ne faut pas attribuer la pénicilline à Pasteur : celui-ci est surtout connu pour la vaccination et la pasteurisation.",
+   "difficulty": "MEDIUM",
+   "topic_key": "cg.sciences",
+   "objective_key": "cg.sciences.o1",
+   "families": [
+    "*"
+   ],
+   "origin": "AI_GENERATED",
+   "source_key": null,
+   "year": null,
+   "valid_until": null,
+   "tags": [
+    "histoire-des-sciences"
+   ]
+  },
+  {
+   "id": "cg-sciences-numerique-0015",
+   "type": "ORDERING",
+   "language": "ar",
+   "stem": "رتّب طبقات الغلاف الجوي التالية من الأقرب إلى سطح الأرض إلى الأبعد عنه.",
+   "options": [
+    {
+     "id": "a",
+     "text": "الميزوسفير"
+    },
+    {
+     "id": "b",
+     "text": "التروبوسفير"
+    },
+    {
+     "id": "c",
+     "text": "الثرموسفير"
+    },
+    {
+     "id": "d",
+     "text": "الستراتوسفير"
+    }
+   ],
+   "correct": {
+    "order": [
+     "b",
+     "d",
+     "a",
+     "c"
+    ]
+   },
+   "explanation": "تبدأ الطبقات من سطح الأرض بالتروبوسفير، حيث تحدث الظواهر الجوية كالسحب والأمطار، ثم الستراتوسفير التي تضم طبقة الأوزون، ثم الميزوسفير ثم الثرموسفير. والخطأ الشائع هو وضع الستراتوسفير أولًا، في حين أن الطائرات التجارية تحلّق عادة قرب الحد العلوي للتروبوسفير أو أسفل الستراتوسفير.",
+   "difficulty": "HARD",
+   "topic_key": "cg.sciences",
+   "objective_key": "cg.sciences.o1",
+   "families": [
+    "*"
+   ],
+   "origin": "AI_GENERATED",
+   "source_key": null,
+   "year": null,
+   "valid_until": null,
+   "tags": [
+    "environnement",
+    "atmosphere"
+   ]
+  },
+  {
+   "id": "cg-sciences-numerique-0016",
+   "type": "MCQ_SINGLE",
+   "language": "fr",
+   "stem": "À 25 °C, une solution de pH = 3 contient une concentration en ions H₃O⁺ combien de fois plus élevée qu'une solution de pH = 5 ?",
+   "options": [
+    {
+     "id": "a",
+     "text": "2 fois"
+    },
+    {
+     "id": "b",
+     "text": "20 fois"
+    },
+    {
+     "id": "c",
+     "text": "100 fois"
+    },
+    {
+     "id": "d",
+     "text": "1 000 fois"
+    }
+   ],
+   "correct": [
+    "c"
+   ],
+   "explanation": "Le pH est une échelle logarithmique : [H₃O⁺] = 10⁻ᵖᴴ, soit 10⁻³ mol/L pour pH 3 et 10⁻⁵ mol/L pour pH 5. Le rapport vaut 10⁻³ / 10⁻⁵ = 10² = 100. Répondre « 2 fois » revient à lire le pH comme une échelle linéaire, ce qui est faux.",
+   "difficulty": "HARD",
+   "topic_key": "cg.sciences",
+   "objective_key": "cg.sciences.o1",
+   "families": [
+    "*"
+   ],
+   "origin": "AI_GENERATED",
+   "source_key": null,
+   "year": null,
+   "valid_until": null,
+   "tags": [
+    "chimie",
+    "ph"
+   ]
+  },
+  {
+   "id": "cg-sciences-numerique-0017",
+   "type": "MCQ_SINGLE",
+   "language": "ar",
+   "stem": "نظير مشع عمر النصف لديه 8 أيام (مثل اليود 131). ما الكمية المتبقية منه بعد 24 يومًا مقارنة بالكمية الأولية؟",
+   "options": [
+    {
+     "id": "a",
+     "text": "الثلث"
+    },
+    {
+     "id": "b",
+     "text": "الربع"
+    },
+    {
+     "id": "c",
+     "text": "الثمن"
+    },
+    {
+     "id": "d",
+     "text": "لا يبقى منه شيء"
+    }
+   ],
+   "correct": [
+    "c"
+   ],
+   "explanation": "24 يومًا تعادل ثلاث فترات عمر نصف (24 ÷ 8 = 3)، وفي كل فترة تنقص الكمية إلى النصف: ½ × ½ × ½ = ⅛. أما إجابة «الثلث» فتنتج عن قسمة الكمية على عدد الفترات، وهو خطأ لأن التناقص الإشعاعي أُسّي وليس خطيًا، كما أن الكمية لا تنعدم تمامًا.",
+   "difficulty": "HARD",
+   "topic_key": "cg.sciences",
+   "objective_key": "cg.sciences.o1",
+   "families": [
+    "*"
+   ],
+   "origin": "AI_GENERATED",
+   "source_key": null,
+   "year": null,
+   "valid_until": null,
+   "tags": [
+    "physique",
+    "radioactivite"
+   ]
+  },
+  {
+   "id": "cg-sciences-numerique-0018",
+   "type": "MCQ_SINGLE",
+   "language": "fr",
+   "stem": "Le Protocole de Montréal (1987) est un accord international qui vise principalement à :",
+   "options": [
+    {
+     "id": "a",
+     "text": "réduire les émissions de gaz à effet de serre des pays industrialisés"
+    },
+    {
+     "id": "b",
+     "text": "éliminer les substances qui appauvrissent la couche d'ozone"
+    },
+    {
+     "id": "c",
+     "text": "protéger les zones humides d'importance internationale"
+    },
+    {
+     "id": "d",
+     "text": "contrôler les mouvements transfrontières de déchets dangereux"
+    }
+   ],
+   "correct": [
+    "b"
+   ],
+   "explanation": "Le Protocole de Montréal organise l'élimination progressive des substances appauvrissant la couche d'ozone, notamment les CFC. La réduction des gaz à effet de serre relève du Protocole de Kyoto (1997) puis de l'Accord de Paris (2015) ; les zones humides relèvent de la Convention de Ramsar et les déchets dangereux de la Convention de Bâle.",
+   "difficulty": "HARD",
+   "topic_key": "cg.sciences",
+   "objective_key": "cg.sciences.o1",
+   "families": [
+    "*"
+   ],
+   "origin": "AI_GENERATED",
+   "source_key": null,
+   "year": null,
+   "valid_until": null,
+   "tags": [
+    "environnement",
+    "accords-internationaux"
+   ]
+  },
+  {
+   "id": "cg-sciences-numerique-0019",
+   "type": "MCQ_SINGLE",
+   "language": "fr",
+   "stem": "Un radiateur électrique, assimilé à une résistance pure de 55 Ω, est alimenté sous une tension efficace de 220 V. Quelle est sa puissance ?",
+   "options": [
+    {
+     "id": "a",
+     "text": "4 W"
+    },
+    {
+     "id": "b",
+     "text": "880 W"
+    },
+    {
+     "id": "c",
+     "text": "12 100 W"
+    },
+    {
+     "id": "d",
+     "text": "48 400 W"
+    }
+   ],
+   "correct": [
+    "b"
+   ],
+   "explanation": "L'intensité vaut I = U / R = 220 / 55 = 4 A, d'où P = U × I = 220 × 4 = 880 W (ou directement P = U² / R = 48 400 / 55). La réponse 4 W confond l'intensité (en ampères) avec la puissance, et 48 400 W oublie de diviser U² par la résistance.",
+   "difficulty": "EXPERT",
+   "topic_key": "cg.sciences",
+   "objective_key": "cg.sciences.o1",
+   "families": [
+    "*"
+   ],
+   "origin": "AI_GENERATED",
+   "source_key": null,
+   "year": null,
+   "valid_until": null,
+   "tags": [
+    "physique",
+    "electricite"
+   ]
+  },
+  {
+   "id": "cg-sciences-numerique-0020",
+   "type": "MCQ_SINGLE",
+   "language": "ar",
+   "stem": "أب وأم كلاهما من فصيلة الدم AB. حسب قوانين الوراثة المندلية لنظام ABO، ما هي الفصيلة التي لا يمكن أن تكون لأحد أبنائهما؟",
+   "options": [
+    {
+     "id": "a",
+     "text": "A"
+    },
+    {
+     "id": "b",
+     "text": "B"
+    },
+    {
+     "id": "c",
+     "text": "AB"
+    },
+    {
+     "id": "d",
+     "text": "O"
+    }
+   ],
+   "correct": [
+    "d"
+   ],
+   "explanation": "يحمل كل من الأبوين الحليلين A وB، فيرث الطفل من كل منهما إما A أو B، فتكون الاحتمالات: AA (فصيلة A) أو AB أو BB (فصيلة B). أما الفصيلة O فتتطلب أن يرث الطفل حليل O من كل من الأبوين، وهو حليل لا يحمله أي منهما، لذلك هي الفصيلة المستحيلة.",
+   "difficulty": "EXPERT",
+   "topic_key": "cg.sciences",
+   "objective_key": "cg.sciences.o1",
+   "families": [
+    "*"
+   ],
+   "origin": "AI_GENERATED",
+   "source_key": null,
+   "year": null,
+   "valid_until": null,
+   "tags": [
+    "sante",
+    "genetique",
+    "groupes-sanguins"
+   ]
+  },
+  {
+   "id": "cg-sciences-numerique-0021",
+   "type": "MCQ_SINGLE",
+   "language": "fr",
+   "stem": "Parmi les éléments suivants, lequel est un périphérique d'entrée ?",
+   "options": [
+    {
+     "id": "a",
+     "text": "L'imprimante"
+    },
+    {
+     "id": "b",
+     "text": "Le clavier"
+    },
+    {
+     "id": "c",
+     "text": "Le haut-parleur"
+    },
+    {
+     "id": "d",
+     "text": "Le vidéoprojecteur"
+    }
+   ],
+   "correct": [
+    "b"
+   ],
+   "explanation": "Un périphérique d'entrée permet d'envoyer des informations vers l'ordinateur : c'est le cas du clavier, de la souris ou du scanner. L'imprimante, le haut-parleur et le vidéoprojecteur sont des périphériques de sortie, car ils restituent des informations produites par l'ordinateur.",
+   "difficulty": "EASY",
+   "topic_key": "cg.informatique-generale",
+   "objective_key": "cg.informatique-generale.o1",
+   "families": [
+    "*"
+   ],
+   "origin": "AI_GENERATED",
+   "source_key": null,
+   "year": null,
+   "valid_until": null,
+   "tags": [
+    "materiel",
+    "peripheriques"
+   ]
+  },
+  {
+   "id": "cg-sciences-numerique-0022",
+   "type": "MCQ_SINGLE",
+   "language": "ar",
+   "stem": "ما هي الذاكرة التي يُفقد محتواها عند انقطاع التيار الكهربائي عن الحاسوب؟",
+   "options": [
+    {
+     "id": "a",
+     "text": "القرص الصلب"
+    },
+    {
+     "id": "b",
+     "text": "ذاكرة القراءة فقط (ROM)"
+    },
+    {
+     "id": "c",
+     "text": "ذاكرة الوصول العشوائي (RAM)"
+    },
+    {
+     "id": "d",
+     "text": "قرص الحالة الصلبة (SSD)"
+    }
+   ],
+   "correct": [
+    "c"
+   ],
+   "explanation": "ذاكرة الوصول العشوائي (RAM) ذاكرة حيّة ومؤقتة تحفظ البرامج والمعطيات أثناء التشغيل، ويُمحى محتواها عند إطفاء الجهاز. أما ذاكرة ROM والقرص الصلب وقرص SSD فهي وسائط غير متطايرة تحتفظ بمحتواها حتى بعد انقطاع التيار.",
+   "difficulty": "EASY",
+   "topic_key": "cg.informatique-generale",
+   "objective_key": "cg.informatique-generale.o1",
+   "families": [
+    "*"
+   ],
+   "origin": "AI_GENERATED",
+   "source_key": null,
+   "year": null,
+   "valid_until": null,
+   "tags": [
+    "materiel",
+    "memoire"
+   ]
+  },
+  {
+   "id": "cg-sciences-numerique-0023",
+   "type": "TRUE_FALSE",
+   "language": "fr",
+   "stem": "Un octet est composé de 8 bits.",
+   "options": [
+    {
+     "id": "a",
+     "text": "Vrai"
+    },
+    {
+     "id": "b",
+     "text": "Faux"
+    }
+   ],
+   "correct": [
+    "a"
+   ],
+   "explanation": "Vrai. Le bit (0 ou 1) est la plus petite unité d'information, et un octet regroupe 8 bits. Il ne faut pas confondre l'octet (en anglais « byte », symbole o ou B) avec le bit (symbole b), notamment dans les débits Internet exprimés en Mbit/s.",
+   "difficulty": "EASY",
+   "topic_key": "cg.informatique-generale",
+   "objective_key": "cg.informatique-generale.o1",
+   "families": [
+    "*"
+   ],
+   "origin": "AI_GENERATED",
+   "source_key": null,
+   "year": null,
+   "valid_until": null,
+   "tags": [
+    "notions-de-base",
+    "unites"
+   ]
+  },
+  {
+   "id": "cg-sciences-numerique-0024",
+   "type": "MCQ_SINGLE",
+   "language": "ar",
+   "stem": "في نظام Windows، ما هو اختصار لوحة المفاتيح المستعمل لنسخ عنصر محدَّد؟",
+   "options": [
+    {
+     "id": "a",
+     "text": "Ctrl + V"
+    },
+    {
+     "id": "b",
+     "text": "Ctrl + X"
+    },
+    {
+     "id": "c",
+     "text": "Ctrl + Z"
+    },
+    {
+     "id": "d",
+     "text": "Ctrl + C"
+    }
+   ],
+   "correct": [
+    "d"
+   ],
+   "explanation": "يُستعمل Ctrl + C لنسخ العنصر المحدَّد مع الإبقاء عليه في مكانه الأصلي. أما Ctrl + V فيُستعمل للصق، وCtrl + X للقص (النقل)، وCtrl + Z للتراجع عن آخر عملية.",
+   "difficulty": "EASY",
+   "topic_key": "cg.informatique-generale",
+   "objective_key": "cg.informatique-generale.o1",
+   "families": [
+    "*"
+   ],
+   "origin": "AI_GENERATED",
+   "source_key": null,
+   "year": null,
+   "valid_until": null,
+   "tags": [
+    "bureautique",
+    "raccourcis"
+   ]
+  },
+  {
+   "id": "cg-sciences-numerique-0025",
+   "type": "MCQ_SINGLE",
+   "language": "fr",
+   "stem": "L'hameçonnage (phishing) consiste à :",
+   "options": [
+    {
+     "id": "a",
+     "text": "tromper une personne par un faux message ou un faux site pour lui soutirer des informations confidentielles"
+    },
+    {
+     "id": "b",
+     "text": "saturer un serveur de requêtes pour le rendre indisponible"
+    },
+    {
+     "id": "c",
+     "text": "chiffrer les fichiers d'une victime et exiger une rançon"
+    },
+    {
+     "id": "d",
+     "text": "copier et distribuer illégalement un logiciel payant"
+    }
+   ],
+   "correct": [
+    "a"
+   ],
+   "explanation": "Le phishing repose sur l'usurpation d'identité (banque, administration, opérateur) pour inciter la victime à révéler mots de passe ou coordonnées bancaires. La saturation d'un serveur correspond à une attaque par déni de service (DDoS) et le chiffrement contre rançon à un rançongiciel (ransomware).",
+   "difficulty": "EASY",
+   "topic_key": "cg.informatique-generale",
+   "objective_key": "cg.informatique-generale.o1",
+   "families": [
+    "*"
+   ],
+   "origin": "AI_GENERATED",
+   "source_key": null,
+   "year": null,
+   "valid_until": null,
+   "tags": [
+    "cybersecurite",
+    "menaces"
+   ]
+  },
+  {
+   "id": "cg-sciences-numerique-0026",
+   "type": "MCQ_SINGLE",
+   "language": "ar",
+   "stem": "أيّ مما يلي يُعدّ نظام تشغيل؟",
+   "options": [
+    {
+     "id": "a",
+     "text": "Microsoft Word"
+    },
+    {
+     "id": "b",
+     "text": "Linux"
+    },
+    {
+     "id": "c",
+     "text": "Google Chrome"
+    },
+    {
+     "id": "d",
+     "text": "Adobe Acrobat Reader"
+    }
+   ],
+   "correct": [
+    "b"
+   ],
+   "explanation": "لينكس (Linux) نظام تشغيل، أي البرنامج الأساسي الذي يدير مكونات الحاسوب ويتيح تشغيل التطبيقات، مثل Windows وmacOS وAndroid. أما Microsoft Word فهو برنامج لمعالجة النصوص، وGoogle Chrome متصفح للإنترنت، وAcrobat Reader برنامج لقراءة ملفات PDF، وكلها تطبيقات تعمل فوق نظام التشغيل.",
+   "difficulty": "EASY",
+   "topic_key": "cg.informatique-generale",
+   "objective_key": "cg.informatique-generale.o1",
+   "families": [
+    "*"
+   ],
+   "origin": "AI_GENERATED",
+   "source_key": null,
+   "year": null,
+   "valid_until": null,
+   "tags": [
+    "logiciels",
+    "systeme-exploitation"
+   ]
+  },
+  {
+   "id": "cg-sciences-numerique-0027",
+   "type": "MCQ_SINGLE",
+   "language": "fr",
+   "stem": "Que signifie le sigle « URL » ?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Uniform Resource Locator"
+    },
+    {
+     "id": "b",
+     "text": "Universal Remote Link"
+    },
+    {
+     "id": "c",
+     "text": "Unified Routing Language"
+    },
+    {
+     "id": "d",
+     "text": "User Registration Login"
+    }
+   ],
+   "correct": [
+    "a"
+   ],
+   "explanation": "Une URL (Uniform Resource Locator) est l'adresse qui permet de localiser une ressource sur Internet, par exemple une page web. Les autres propositions sont des sigles inventés ; il ne faut pas non plus confondre l'URL avec le protocole (http, https) qui n'en est que la première partie.",
+   "difficulty": "MEDIUM",
+   "topic_key": "cg.informatique-generale",
+   "objective_key": "cg.informatique-generale.o1",
+   "families": [
+    "*"
+   ],
+   "origin": "AI_GENERATED",
+   "source_key": null,
+   "year": null,
+   "valid_until": null,
+   "tags": [
+    "internet",
+    "sigles"
+   ]
+  },
+  {
+   "id": "cg-sciences-numerique-0028",
+   "type": "MCQ_SINGLE",
+   "language": "ar",
+   "stem": "ما هو البروتوكول الذي يضمن تشفير الاتصال بين المتصفح والموقع، ويُشار إليه عادة برمز القفل في شريط العنوان؟",
+   "options": [
+    {
+     "id": "a",
+     "text": "HTTP"
+    },
+    {
+     "id": "b",
+     "text": "FTP"
+    },
+    {
+     "id": "c",
+     "text": "SMTP"
+    },
+    {
+     "id": "d",
+     "text": "HTTPS"
+    }
+   ],
+   "correct": [
+    "d"
+   ],
+   "explanation": "يعتمد بروتوكول HTTPS على التشفير (TLS) لحماية المعطيات المتبادلة بين المتصفح والخادم، مثل كلمات السر وأرقام البطاقات البنكية. أما HTTP فينقل المعطيات دون تشفير، وFTP مخصص لنقل الملفات، وSMTP مخصص لإرسال البريد الإلكتروني.",
+   "difficulty": "MEDIUM",
+   "topic_key": "cg.informatique-generale",
+   "objective_key": "cg.informatique-generale.o1",
+   "families": [
+    "*"
+   ],
+   "origin": "AI_GENERATED",
+   "source_key": null,
+   "year": null,
+   "valid_until": null,
+   "tags": [
+    "internet",
+    "cybersecurite",
+    "protocoles"
+   ]
+  },
+  {
+   "id": "cg-sciences-numerique-0029",
+   "type": "MCQ_SINGLE",
+   "language": "fr",
+   "stem": "Quelle est l'extension du nom de domaine national de premier niveau attribuée à la Tunisie ?",
+   "options": [
+    {
+     "id": "a",
+     "text": ".tu"
+    },
+    {
+     "id": "b",
+     "text": ".tn"
+    },
+    {
+     "id": "c",
+     "text": ".tun"
+    },
+    {
+     "id": "d",
+     "text": ".ts"
+    }
+   ],
+   "correct": [
+    "b"
+   ],
+   "explanation": "Le domaine national de premier niveau (ccTLD) de la Tunisie est « .tn », géré par l'Agence Tunisienne d'Internet (ATI). Les codes pays sont formés de deux lettres issues de la norme ISO 3166 ; « .tu » ou « .tun » ne correspondent pas à la Tunisie.",
+   "difficulty": "MEDIUM",
+   "topic_key": "cg.informatique-generale",
+   "objective_key": "cg.informatique-generale.o1",
+   "families": [
+    "*"
+   ],
+   "origin": "AI_GENERATED",
+   "source_key": null,
+   "year": null,
+   "valid_until": null,
+   "tags": [
+    "internet",
+    "tunisie",
+    "noms-de-domaine"
+   ]
+  },
+  {
+   "id": "cg-sciences-numerique-0030",
+   "type": "MCQ_MULTI",
+   "language": "ar",
+   "stem": "من بين الممارسات التالية، ما هي الممارسات السليمة لحماية حساباتك الإلكترونية؟ (عدة إجابات ممكنة)",
+   "options": [
+    {
+     "id": "a",
+     "text": "تفعيل المصادقة الثنائية (التحقق بخطوتين)"
+    },
+    {
+     "id": "b",
+     "text": "استعمال كلمة سر مختلفة لكل حساب"
+    },
+    {
+     "id": "c",
+     "text": "تحديث نظام التشغيل والبرمجيات بانتظام"
+    },
+    {
+     "id": "d",
+     "text": "مشاركة كلمة السر مع زميل موثوق لتسهيل العمل"
+    },
+    {
+     "id": "e",
+     "text": "استعمال تاريخ الميلاد ككلمة سر لسهولة تذكّره"
+    }
+   ],
+   "correct": [
+    "a",
+    "b",
+    "c"
+   ],
+   "explanation": "المصادقة الثنائية واستعمال كلمة سر مختلفة لكل حساب والتحديث المنتظم للبرمجيات (لسدّ الثغرات الأمنية) ممارسات أساسية في الأمن الرقمي. أما مشاركة كلمة السر، حتى مع زميل موثوق، فتفقدها سريتها، وتاريخ الميلاد معلومة سهلة التخمين تُجرَّب عادة في أولى محاولات الاختراق.",
+   "difficulty": "MEDIUM",
+   "topic_key": "cg.informatique-generale",
+   "objective_key": "cg.informatique-generale.o1",
+   "families": [
+    "*"
+   ],
+   "origin": "AI_GENERATED",
+   "source_key": null,
+   "year": null,
+   "valid_until": null,
+   "tags": [
+    "cybersecurite",
+    "mots-de-passe"
+   ]
+  },
+  {
+   "id": "cg-sciences-numerique-0031",
+   "type": "MCQ_MULTI",
+   "language": "fr",
+   "stem": "Parmi les logiciels suivants, lesquels sont des navigateurs web ? (plusieurs réponses)",
+   "options": [
+    {
+     "id": "a",
+     "text": "Mozilla Firefox"
+    },
+    {
+     "id": "b",
+     "text": "Google Chrome"
+    },
+    {
+     "id": "c",
+     "text": "Microsoft Excel"
+    },
+    {
+     "id": "d",
+     "text": "Microsoft Edge"
+    },
+    {
+     "id": "e",
+     "text": "Mozilla Thunderbird"
+    }
+   ],
+   "correct": [
+    "a",
+    "b",
+    "d"
+   ],
+   "explanation": "Firefox, Chrome et Edge sont des navigateurs : ils permettent d'afficher les pages web. Excel est un tableur, et Thunderbird, bien qu'édité par Mozilla comme Firefox, est un client de messagerie électronique et non un navigateur.",
+   "difficulty": "MEDIUM",
+   "topic_key": "cg.informatique-generale",
+   "objective_key": "cg.informatique-generale.o1",
+   "families": [
+    "*"
+   ],
+   "origin": "AI_GENERATED",
+   "source_key": null,
+   "year": null,
+   "valid_until": null,
+   "tags": [
+    "logiciels",
+    "internet"
+   ]
+  },
+  {
+   "id": "cg-sciences-numerique-0032",
+   "type": "TRUE_FALSE",
+   "language": "ar",
+   "stem": "يجعل وضع التصفح الخاص (التصفح المتخفي) في المتصفح المستخدمَ مجهول الهوية تمامًا أمام مزوّد خدمة الإنترنت والمواقع التي يزورها.",
+   "options": [
+    {
+     "id": "a",
+     "text": "صحيح"
+    },
+    {
+     "id": "b",
+     "text": "خطأ"
+    }
+   ],
+   "correct": [
+    "b"
+   ],
+   "explanation": "العبارة خاطئة: يكتفي التصفح الخاص بعدم حفظ سجل التصفح وملفات تعريف الارتباط وبيانات النماذج على الجهاز نفسه بعد إغلاق النافذة. لكن مزوّد خدمة الإنترنت والمواقع المزارة وشبكة المؤسسة يمكنهم دائمًا رؤية الاتصال وعنوان IP.",
+   "difficulty": "MEDIUM",
+   "topic_key": "cg.informatique-generale",
+   "objective_key": "cg.informatique-generale.o1",
+   "families": [
+    "*"
+   ],
+   "origin": "AI_GENERATED",
+   "source_key": null,
+   "year": null,
+   "valid_until": null,
+   "tags": [
+    "cybersecurite",
+    "vie-privee"
+   ]
+  },
+  {
+   "id": "cg-sciences-numerique-0033",
+   "type": "NUMERIC",
+   "language": "fr",
+   "stem": "Combien de valeurs différentes peut-on représenter avec un octet (8 bits) ?",
+   "options": [],
+   "correct": {
+    "value": 256,
+    "tolerance": 0
+   },
+   "explanation": "Chaque bit peut prendre deux valeurs (0 ou 1), donc 8 bits permettent 2⁸ = 256 combinaisons, de 0 à 255 en binaire non signé. La réponse 255 est un piège fréquent : 255 est la plus grande valeur représentable, mais il y a bien 256 valeurs en comptant le zéro.",
+   "difficulty": "MEDIUM",
+   "topic_key": "cg.informatique-generale",
+   "objective_key": "cg.informatique-generale.o1",
+   "families": [
+    "*"
+   ],
+   "origin": "AI_GENERATED",
+   "source_key": null,
+   "year": null,
+   "valid_until": null,
+   "tags": [
+    "notions-de-base",
+    "binaire"
+   ]
+  },
+  {
+   "id": "cg-sciences-numerique-0034",
+   "type": "MATCHING",
+   "language": "ar",
+   "stem": "اربط كل امتداد ملف بنوع المحتوى الذي يدلّ عليه عادة.",
+   "options": [
+    {
+     "id": "l1",
+     "text": ".docx",
+     "side": "left"
+    },
+    {
+     "id": "l2",
+     "text": ".xlsx",
+     "side": "left"
+    },
+    {
+     "id": "l3",
+     "text": ".pptx",
+     "side": "left"
+    },
+    {
+     "id": "l4",
+     "text": ".mp3",
+     "side": "left"
+    },
+    {
+     "id": "r1",
+     "text": "عرض تقديمي (شرائح)",
+     "side": "right"
+    },
+    {
+     "id": "r2",
+     "text": "ملف صوتي",
+     "side": "right"
+    },
+    {
+     "id": "r3",
+     "text": "مستند معالجة نصوص",
+     "side": "right"
+    },
+    {
+     "id": "r4",
+     "text": "جدول بيانات (مُجَدْوِل)",
+     "side": "right"
+    }
+   ],
+   "correct": {
+    "pairs": [
+     [
+      "l1",
+      "r3"
+     ],
+     [
+      "l2",
+      "r4"
+     ],
+     [
+      "l3",
+      "r1"
+     ],
+     [
+      "l4",
+      "r2"
+     ]
+    ]
+   },
+   "explanation": "يدل الامتداد ‎.docx على مستند نصي (Word)، و‎.xlsx على جدول بيانات (Excel)، و‎.pptx على عرض تقديمي (PowerPoint)، بينما ‎.mp3 صيغة لملفات الصوت المضغوطة. ويقع الخلط أحيانًا بين ‎.xlsx و‎.pptx لأنهما من نفس الحزمة المكتبية، لكن الأول للحسابات والجداول والثاني للشرائح.",
+   "difficulty": "MEDIUM",
+   "topic_key": "cg.informatique-generale",
+   "objective_key": "cg.informatique-generale.o1",
+   "families": [
+    "*"
+   ],
+   "origin": "AI_GENERATED",
+   "source_key": null,
+   "year": null,
+   "valid_until": null,
+   "tags": [
+    "bureautique",
+    "formats-de-fichiers"
+   ]
+  },
+  {
+   "id": "cg-sciences-numerique-0035",
+   "type": "ORDERING",
+   "language": "fr",
+   "stem": "Classez les capacités de stockage suivantes de la plus petite à la plus grande.",
+   "options": [
+    {
+     "id": "a",
+     "text": "1 Go"
+    },
+    {
+     "id": "b",
+     "text": "1 To"
+    },
+    {
+     "id": "c",
+     "text": "900 Mo"
+    },
+    {
+     "id": "d",
+     "text": "2 000 000 Ko"
+    }
+   ],
+   "correct": {
+    "order": [
+     "c",
+     "a",
+     "d",
+     "b"
+    ]
+   },
+   "explanation": "Avec 1 Go = 1 000 Mo et 1 Mo = 1 000 Ko, on a 900 Mo < 1 Go ; 2 000 000 Ko = 2 000 Mo = 2 Go ; enfin 1 To = 1 000 Go. Le piège est de juger « 2 000 000 Ko » d'après la taille du nombre : il ne représente que 2 Go, bien moins qu'un téraoctet. L'ordre reste le même si l'on utilise les multiples binaires (1 024).",
+   "difficulty": "HARD",
+   "topic_key": "cg.informatique-generale",
+   "objective_key": "cg.informatique-generale.o1",
+   "families": [
+    "*"
+   ],
+   "origin": "AI_GENERATED",
+   "source_key": null,
+   "year": null,
+   "valid_until": null,
+   "tags": [
+    "notions-de-base",
+    "unites"
+   ]
+  },
+  {
+   "id": "cg-sciences-numerique-0036",
+   "type": "MCQ_SINGLE",
+   "language": "ar",
+   "stem": "ما هو نوع الهجوم الإلكتروني الذي يهدف إلى إغراق خادم أو موقع بعدد هائل من الطلبات الصادرة عن أجهزة متعددة لجعله غير متاح للمستخدمين؟",
+   "options": [
+    {
+     "id": "a",
+     "text": "التصيّد الاحتيالي (Phishing)"
+    },
+    {
+     "id": "b",
+     "text": "حصان طروادة (Trojan)"
+    },
+    {
+     "id": "c",
+     "text": "هجوم حجب الخدمة الموزّع (DDoS)"
+    },
+    {
+     "id": "d",
+     "text": "هجوم القوة الغاشمة على كلمات السر (Brute force)"
+    }
+   ],
+   "correct": [
+    "c"
+   ],
+   "explanation": "يعتمد هجوم حجب الخدمة الموزّع (DDoS) على شبكة من الأجهزة المخترقة ترسل في آن واحد كمًّا هائلًا من الطلبات حتى يعجز الخادم عن الاستجابة. أما هجوم القوة الغاشمة فيجرّب عددًا كبيرًا من كلمات السر لاختراق حساب، والتصيد الاحتيالي يخدع المستخدم للحصول على معطياته، وحصان طروادة برنامج خبيث متنكر في شكل برنامج سليم.",
+   "difficulty": "HARD",
+   "topic_key": "cg.informatique-generale",
+   "objective_key": "cg.informatique-generale.o1",
+   "families": [
+    "*"
+   ],
+   "origin": "AI_GENERATED",
+   "source_key": null,
+   "year": null,
+   "valid_until": null,
+   "tags": [
+    "cybersecurite",
+    "menaces"
+   ]
+  },
+  {
+   "id": "cg-sciences-numerique-0037",
+   "type": "MCQ_SINGLE",
+   "language": "fr",
+   "stem": "Dans un tableur, la cellule C1 contient la formule =A1*$B$1. On recopie C1 vers le bas dans la cellule C2. Quelle formule obtient-on en C2 ?",
+   "options": [
+    {
+     "id": "a",
+     "text": "=A1*$B$1"
+    },
+    {
+     "id": "b",
+     "text": "=A2*$B$2"
+    },
+    {
+     "id": "c",
+     "text": "=A2*$B$1"
+    },
+    {
+     "id": "d",
+     "text": "=B2*$B$1"
+    }
+   ],
+   "correct": [
+    "c"
+   ],
+   "explanation": "Lors d'une recopie vers le bas, la référence relative A1 devient A2, tandis que la référence absolue $B$1, bloquée par les symboles $, ne change pas. La réponse =A2*$B$2 ignore justement le rôle du $ devant le numéro de ligne, et =B2*$B$1 correspondrait à un décalage de colonne qui n'a pas lieu ici.",
+   "difficulty": "HARD",
+   "topic_key": "cg.informatique-generale",
+   "objective_key": "cg.informatique-generale.o1",
+   "families": [
+    "*"
+   ],
+   "origin": "AI_GENERATED",
+   "source_key": null,
+   "year": null,
+   "valid_until": null,
+   "tags": [
+    "bureautique",
+    "tableur"
+   ]
+  },
+  {
+   "id": "cg-sciences-numerique-0038",
+   "type": "MCQ_SINGLE",
+   "language": "ar",
+   "stem": "ما هو النص القانوني التونسي المتعلق بحماية المعطيات الشخصية، والذي أُحدثت بمقتضاه الهيئة الوطنية لحماية المعطيات الشخصية؟",
+   "options": [
+    {
+     "id": "a",
+     "text": "القانون عدد 5 لسنة 2004 المؤرخ في 3 فيفري 2004"
+    },
+    {
+     "id": "b",
+     "text": "القانون الأساسي عدد 22 لسنة 2016 المؤرخ في 24 مارس 2016"
+    },
+    {
+     "id": "c",
+     "text": "المرسوم عدد 54 لسنة 2022 المؤرخ في 13 سبتمبر 2022"
+    },
+    {
+     "id": "d",
+     "text": "القانون الأساسي عدد 63 لسنة 2004 المؤرخ في 27 جويلية 2004"
+    }
+   ],
+   "correct": [
+    "d"
+   ],
+   "explanation": "ينظّم القانون الأساسي عدد 63 لسنة 2004 المؤرخ في 27 جويلية 2004 حماية المعطيات الشخصية، وقد أحدث الهيئة الوطنية لحماية المعطيات الشخصية (INPDP). أما القانون عدد 5 لسنة 2004 فيتعلق بالسلامة المعلوماتية، والقانون الأساسي عدد 22 لسنة 2016 بالحق في النفاذ إلى المعلومة، والمرسوم عدد 54 لسنة 2022 بمكافحة الجرائم المتصلة بأنظمة المعلومات والاتصال.",
+   "difficulty": "HARD",
+   "topic_key": "cg.informatique-generale",
+   "objective_key": "cg.informatique-generale.o1",
+   "families": [
+    "*"
+   ],
+   "origin": "AI_GENERATED",
+   "source_key": null,
+   "year": null,
+   "valid_until": null,
+   "tags": [
+    "tunisie",
+    "donnees-personnelles",
+    "legislation",
+    "needs_verification"
+   ]
+  },
+  {
+   "id": "cg-sciences-numerique-0039",
+   "type": "MCQ_SINGLE",
+   "language": "fr",
+   "stem": "Une adresse IPv6 est codée sur :",
+   "options": [
+    {
+     "id": "a",
+     "text": "32 bits"
+    },
+    {
+     "id": "b",
+     "text": "64 bits"
+    },
+    {
+     "id": "c",
+     "text": "128 bits"
+    },
+    {
+     "id": "d",
+     "text": "256 bits"
+    }
+   ],
+   "correct": [
+    "c"
+   ],
+   "explanation": "Une adresse IPv6 comporte 128 bits, notés en huit groupes de quatre chiffres hexadécimaux, ce qui offre un espace d'adressage quasi illimité. La réponse 32 bits correspond à l'IPv4, dont l'épuisement des adresses a justement motivé le passage à l'IPv6.",
+   "difficulty": "EXPERT",
+   "topic_key": "cg.informatique-generale",
+   "objective_key": "cg.informatique-generale.o1",
+   "families": [
+    "*"
+   ],
+   "origin": "AI_GENERATED",
+   "source_key": null,
+   "year": null,
+   "valid_until": null,
+   "tags": [
+    "reseaux",
+    "internet"
+   ]
+  },
+  {
+   "id": "cg-sciences-numerique-0040",
+   "type": "MCQ_SINGLE",
+   "language": "ar",
+   "stem": "في التشفير غير المتماثل (التشفير بالمفتاح العمومي)، لإرسال رسالة سرية لا يستطيع قراءتها إلا المستقبِل، يقوم المرسِل بتشفيرها باستعمال:",
+   "options": [
+    {
+     "id": "a",
+     "text": "المفتاح العمومي للمستقبِل"
+    },
+    {
+     "id": "b",
+     "text": "المفتاح الخاص للمرسِل"
+    },
+    {
+     "id": "c",
+     "text": "المفتاح العمومي للمرسِل"
+    },
+    {
+     "id": "d",
+     "text": "المفتاح الخاص للمستقبِل"
+    }
+   ],
+   "correct": [
+    "a"
+   ],
+   "explanation": "يُشفِّر المرسِل الرسالة بالمفتاح العمومي للمستقبِل، فلا يمكن فك تشفيرها إلا بالمفتاح الخاص المقابل الذي يحتفظ به المستقبِل وحده. أما التشفير بالمفتاح الخاص للمرسِل فيُستعمل في التوقيع الإلكتروني لإثبات هوية المرسِل وليس لضمان السرية، والمرسِل لا يملك أصلًا المفتاح الخاص للمستقبِل.",
+   "difficulty": "EXPERT",
+   "topic_key": "cg.informatique-generale",
+   "objective_key": "cg.informatique-generale.o1",
+   "families": [
+    "*"
+   ],
+   "origin": "AI_GENERATED",
+   "source_key": null,
+   "year": null,
+   "valid_until": null,
+   "tags": [
+    "cybersecurite",
+    "cryptographie"
+   ]
+  }
+ ]
+}

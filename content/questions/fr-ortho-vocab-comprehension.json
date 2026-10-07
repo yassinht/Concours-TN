@@ -1,0 +1,2109 @@
+{
+  "bank": "fr-ortho-vocab-comprehension",
+  "domain": "FRENCH",
+  "specialty_syllabus": [],
+  "sources": [],
+  "research_notes": "Banque originale (AI_GENERATED) de 50 questions en français couvrant fr.orthographe (homophones grammaticaux, orthographe d'usage, écriture des nombres), fr.vocabulaire (synonymes, antonymes, paronymes ; vocabulaire administratif courant) et fr.comprehension (cinq textes courts originaux sur des thèmes de service public, plus un exercice de remise en ordre). Le contenu relève des règles générales de la langue française : aucune statistique, aucun responsable, aucun chiffre daté, d'où valid_until = null partout. Les textes de compréhension ont été rédigés pour ce projet ; ils ne citent ni chiffre ni institution réelle et ne présentent aucune information comme officielle. Aucune vérification web n'a pu être faite pendant cette session (quota de recherche épuisé) ; aucune question ne dépend toutefois d'un fait propre à la Tunisie, à l'exception de l'usage du terme « bureau d'ordre » (مكتب الضبط) pour le service d'enregistrement du courrier arrivée/départ, terme d'usage courant dans l'administration tunisienne. Points à faire relire par un professeur de français : (1) l'écriture de 280 en lettres (orthographe traditionnelle « deux cent quatre-vingts » ; la variante rectifiée 1990 avec traits d'union est mentionnée dans l'explication) ; (2) la définition d'« ampliation » (copie authentifiée d'un acte administratif) ; (3) la nuance forclusion/prescription (la prescription n'est volontairement pas proposée comme distracteur) ; (4) l'accord pluriel « ne relèvent pas » après plusieurs infinitifs coordonnés dans le texte D (accord pluriel admis). Le style imite les QCM de français des concours de la fonction publique tunisienne, sans reprise d'épreuves réelles ni d'ouvrages protégés.",
+  "questions": [
+    {
+      "id": "fr-ortho-vocab-comprehension-0001",
+      "type": "MCQ_SINGLE",
+      "language": "fr",
+      "stem": "Complétez la phrase : « Les candidats ___ reçu leur convocation hier. »",
+      "options": [
+        {
+          "id": "a",
+          "text": "on"
+        },
+        {
+          "id": "b",
+          "text": "ont"
+        },
+        {
+          "id": "c",
+          "text": "sont"
+        },
+        {
+          "id": "d",
+          "text": "en"
+        }
+      ],
+      "correct": [
+        "b"
+      ],
+      "explanation": "Il faut « ont », forme du verbe avoir au présent (3e personne du pluriel), qui sert ici d'auxiliaire au participe « reçu » : on peut le remplacer par « avaient » (« Les candidats avaient reçu… »). « On » est un pronom sujet et ne peut pas suivre un autre sujet. « Sont » (verbe être) ne convient pas car « recevoir » se conjugue avec l'auxiliaire avoir.",
+      "difficulty": "EASY",
+      "topic_key": "fr.orthographe",
+      "objective_key": "fr.orthographe.o1",
+      "families": [
+        "*"
+      ],
+      "origin": "AI_GENERATED",
+      "source_key": null,
+      "year": null,
+      "valid_until": null,
+      "tags": [
+        "homophones",
+        "on-ont"
+      ]
+    },
+    {
+      "id": "fr-ortho-vocab-comprehension-0002",
+      "type": "MCQ_SINGLE",
+      "language": "fr",
+      "stem": "Complétez la phrase : « Précisez la ville ___ vous souhaitez passer l'épreuve écrite. »",
+      "options": [
+        {
+          "id": "a",
+          "text": "ou"
+        },
+        {
+          "id": "b",
+          "text": "qui"
+        },
+        {
+          "id": "c",
+          "text": "quoi"
+        },
+        {
+          "id": "d",
+          "text": "où"
+        }
+      ],
+      "correct": [
+        "d"
+      ],
+      "explanation": "« Où » avec un accent grave est ici un pronom relatif qui exprime le lieu : il reprend « la ville » (= dans laquelle). « Ou » sans accent est une conjonction de coordination qui marque l'alternative et peut être remplacée par « ou bien », ce qui n'a aucun sens dans cette phrase. « Qui » et « quoi » ne peuvent pas introduire un complément de lieu.",
+      "difficulty": "EASY",
+      "topic_key": "fr.orthographe",
+      "objective_key": "fr.orthographe.o1",
+      "families": [
+        "*"
+      ],
+      "origin": "AI_GENERATED",
+      "source_key": null,
+      "year": null,
+      "valid_until": null,
+      "tags": [
+        "homophones",
+        "ou-ou"
+      ]
+    },
+    {
+      "id": "fr-ortho-vocab-comprehension-0003",
+      "type": "MCQ_SINGLE",
+      "language": "fr",
+      "stem": "Complétez la phrase : « Le candidat ___ présenté à l'examen sans sa convocation. »",
+      "options": [
+        {
+          "id": "a",
+          "text": "s'est"
+        },
+        {
+          "id": "b",
+          "text": "c'est"
+        },
+        {
+          "id": "c",
+          "text": "ces"
+        },
+        {
+          "id": "d",
+          "text": "ses"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "explanation": "On emploie « s'est » car il s'agit du verbe pronominal « se présenter » au passé composé (il se présente → il s'est présenté). « C'est » signifie « cela est » et ne peut pas être suivi d'un participe passé dans ce sens. « Ces » (démonstratif) et « ses » (possessif) sont des déterminants qui doivent précéder un nom.",
+      "difficulty": "EASY",
+      "topic_key": "fr.orthographe",
+      "objective_key": "fr.orthographe.o1",
+      "families": [
+        "*"
+      ],
+      "origin": "AI_GENERATED",
+      "source_key": null,
+      "year": null,
+      "valid_until": null,
+      "tags": [
+        "homophones",
+        "s-est-c-est"
+      ]
+    },
+    {
+      "id": "fr-ortho-vocab-comprehension-0004",
+      "type": "MCQ_SINGLE",
+      "language": "fr",
+      "stem": "Complétez la phrase : « Vous devez ___ votre dossier avant la date limite. »",
+      "options": [
+        {
+          "id": "a",
+          "text": "déposé"
+        },
+        {
+          "id": "b",
+          "text": "déposez"
+        },
+        {
+          "id": "c",
+          "text": "déposer"
+        },
+        {
+          "id": "d",
+          "text": "déposait"
+        }
+      ],
+      "correct": [
+        "c"
+      ],
+      "explanation": "Après un verbe conjugué comme « devez », le second verbe se met à l'infinitif : « déposer ». Pour vérifier, on remplace par un verbe du 3e groupe : « Vous devez remettre votre dossier » (et non « remis »). « Déposez » est une forme conjuguée (présent ou impératif) et « déposé » un participe passé : aucun des deux ne peut suivre directement « devez ».",
+      "difficulty": "EASY",
+      "topic_key": "fr.orthographe",
+      "objective_key": "fr.orthographe.o1",
+      "families": [
+        "*"
+      ],
+      "origin": "AI_GENERATED",
+      "source_key": null,
+      "year": null,
+      "valid_until": null,
+      "tags": [
+        "homophones",
+        "infinitif-participe",
+        "er-e-ez"
+      ]
+    },
+    {
+      "id": "fr-ortho-vocab-comprehension-0005",
+      "type": "MCQ_SINGLE",
+      "language": "fr",
+      "stem": "Quelle est l'orthographe correcte du nom désignant le service qui reçoit le public ?",
+      "options": [
+        {
+          "id": "a",
+          "text": "acceuil"
+        },
+        {
+          "id": "b",
+          "text": "accueuil"
+        },
+        {
+          "id": "c",
+          "text": "aceuil"
+        },
+        {
+          "id": "d",
+          "text": "accueil"
+        }
+      ],
+      "correct": [
+        "d"
+      ],
+      "explanation": "On écrit « accueil » : après les lettres c et g, le son [œj] s'écrit « ueil » pour que le c garde le son [k] (accueil, recueil, cercueil, orgueil). Dans « acceuil », la lettre c placée devant e se prononcerait [s], ce qui ne correspond pas à la prononciation du mot. « Aceuil » et « accueuil » sont des déformations sans fondement.",
+      "difficulty": "EASY",
+      "topic_key": "fr.orthographe",
+      "objective_key": "fr.orthographe.o1",
+      "families": [
+        "*"
+      ],
+      "origin": "AI_GENERATED",
+      "source_key": null,
+      "year": null,
+      "valid_until": null,
+      "tags": [
+        "orthographe-usage",
+        "ueil"
+      ]
+    },
+    {
+      "id": "fr-ortho-vocab-comprehension-0006",
+      "type": "TRUE_FALSE",
+      "language": "fr",
+      "stem": "Vrai ou faux : la préposition « parmi » s'écrit avec un « s » final (« parmis »).",
+      "options": [
+        {
+          "id": "a",
+          "text": "Vrai"
+        },
+        {
+          "id": "b",
+          "text": "Faux"
+        }
+      ],
+      "correct": [
+        "b"
+      ],
+      "explanation": "C'est faux : « parmi » s'écrit toujours sans « s », même devant un nom pluriel (« parmi les candidats »). La confusion vient souvent de « hormis » ou de « jadis », qui se terminent bien par un « s ». « Parmis » est donc une faute d'orthographe d'usage fréquente dans les copies.",
+      "difficulty": "EASY",
+      "topic_key": "fr.orthographe",
+      "objective_key": "fr.orthographe.o1",
+      "families": [
+        "*"
+      ],
+      "origin": "AI_GENERATED",
+      "source_key": null,
+      "year": null,
+      "valid_until": null,
+      "tags": [
+        "orthographe-usage",
+        "mots-invariables"
+      ]
+    },
+    {
+      "id": "fr-ortho-vocab-comprehension-0007",
+      "type": "MCQ_SINGLE",
+      "language": "fr",
+      "stem": "Complétez la phrase : « Je ne sais pas ___ sera la date de l'épreuve orale. »",
+      "options": [
+        {
+          "id": "a",
+          "text": "quel"
+        },
+        {
+          "id": "b",
+          "text": "quelle"
+        },
+        {
+          "id": "c",
+          "text": "qu'elle"
+        },
+        {
+          "id": "d",
+          "text": "quelles"
+        }
+      ],
+      "correct": [
+        "b"
+      ],
+      "explanation": "« Quelle » est ici un déterminant interrogatif (interrogation indirecte) employé comme attribut : il s'accorde avec « la date », féminin singulier. « Qu'elle » (que + elle) est impossible : en le remplaçant par « qu'il », on obtient « je ne sais pas qu'il sera la date », qui n'a pas de sens. « Quel » et « quelles » ne respectent pas l'accord en genre ou en nombre.",
+      "difficulty": "MEDIUM",
+      "topic_key": "fr.orthographe",
+      "objective_key": "fr.orthographe.o1",
+      "families": [
+        "*"
+      ],
+      "origin": "AI_GENERATED",
+      "source_key": null,
+      "year": null,
+      "valid_until": null,
+      "tags": [
+        "homophones",
+        "quelle-qu-elle"
+      ]
+    },
+    {
+      "id": "fr-ortho-vocab-comprehension-0008",
+      "type": "MCQ_SINGLE",
+      "language": "fr",
+      "stem": "Lequel de ces mots est mal orthographié ?",
+      "options": [
+        {
+          "id": "a",
+          "text": "développement"
+        },
+        {
+          "id": "b",
+          "text": "appartement"
+        },
+        {
+          "id": "c",
+          "text": "addresse"
+        },
+        {
+          "id": "d",
+          "text": "connexion"
+        }
+      ],
+      "correct": [
+        "c"
+      ],
+      "explanation": "En français, « adresse » s'écrit avec un seul d et deux s ; la graphie « addresse » est une confusion avec l'anglais « address ». Les trois autres mots sont corrects : « développement » (un l, deux p), « appartement » (deux p) et « connexion » (avec un x).",
+      "difficulty": "MEDIUM",
+      "topic_key": "fr.orthographe",
+      "objective_key": "fr.orthographe.o1",
+      "families": [
+        "*"
+      ],
+      "origin": "AI_GENERATED",
+      "source_key": null,
+      "year": null,
+      "valid_until": null,
+      "tags": [
+        "orthographe-usage",
+        "consonnes-doubles",
+        "anglicismes"
+      ]
+    },
+    {
+      "id": "fr-ortho-vocab-comprehension-0009",
+      "type": "MCQ_SINGLE",
+      "language": "fr",
+      "stem": "Complétez la phrase : « Les agents ont reçu ___ primes ; le directeur ___ a adressé ses félicitations. »",
+      "options": [
+        {
+          "id": "a",
+          "text": "leurs / leur"
+        },
+        {
+          "id": "b",
+          "text": "leur / leurs"
+        },
+        {
+          "id": "c",
+          "text": "leurs / leurs"
+        },
+        {
+          "id": "d",
+          "text": "leur / leur"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "explanation": "Devant le nom pluriel « primes », « leurs » est un déterminant possessif qui s'accorde : il prend un s. Devant le verbe « a adressé », « leur » est un pronom personnel (= à eux) qui est toujours invariable : il ne prend jamais de s. L'erreur la plus fréquente consiste à mettre un s au pronom « leur » parce qu'il renvoie à plusieurs personnes.",
+      "difficulty": "MEDIUM",
+      "topic_key": "fr.orthographe",
+      "objective_key": "fr.orthographe.o1",
+      "families": [
+        "*"
+      ],
+      "origin": "AI_GENERATED",
+      "source_key": null,
+      "year": null,
+      "valid_until": null,
+      "tags": [
+        "homophones",
+        "leur-leurs"
+      ]
+    },
+    {
+      "id": "fr-ortho-vocab-comprehension-0010",
+      "type": "MCQ_SINGLE",
+      "language": "fr",
+      "stem": "Quelle phrase contient une faute d'orthographe ?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Quand à moi, je préfère attendre."
+        },
+        {
+          "id": "b",
+          "text": "Quant aux résultats, ils seront affichés lundi."
+        },
+        {
+          "id": "c",
+          "text": "Quand le jury aura délibéré, la liste sera publiée."
+        },
+        {
+          "id": "d",
+          "text": "Qu'en pensez-vous ?"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "explanation": "Il faut écrire « Quant à moi » : la locution « quant à », qui signifie « en ce qui concerne », s'écrit avec un t. « Quand » est une conjonction ou un adverbe de temps (« lorsque », « à quel moment »), correctement employé dans la phrase c. Dans la phrase d, « qu'en » est la contraction de « que » et du pronom « en » (« que pensez-vous de cela ? »).",
+      "difficulty": "MEDIUM",
+      "topic_key": "fr.orthographe",
+      "objective_key": "fr.orthographe.o1",
+      "families": [
+        "*"
+      ],
+      "origin": "AI_GENERATED",
+      "source_key": null,
+      "year": null,
+      "valid_until": null,
+      "tags": [
+        "homophones",
+        "quand-quant-qu-en"
+      ]
+    },
+    {
+      "id": "fr-ortho-vocab-comprehension-0011",
+      "type": "MCQ_SINGLE",
+      "language": "fr",
+      "stem": "Complétez la phrase : « Il se ___ que la liste soit publiée un ___ plus tard que prévu. »",
+      "options": [
+        {
+          "id": "a",
+          "text": "peu / peut"
+        },
+        {
+          "id": "b",
+          "text": "peux / peu"
+        },
+        {
+          "id": "c",
+          "text": "peut / peu"
+        },
+        {
+          "id": "d",
+          "text": "peut / peut"
+        }
+      ],
+      "correct": [
+        "c"
+      ],
+      "explanation": "Le premier mot est le verbe « pouvoir » à la 3e personne du singulier : « il se peut » (on peut dire « il se pouvait »). Le second est l'adverbe de quantité « peu » : « un peu plus tard » signifie « légèrement plus tard » et ne se conjugue pas. « Peux » est réservé aux 1re et 2e personnes du singulier (je peux, tu peux).",
+      "difficulty": "MEDIUM",
+      "topic_key": "fr.orthographe",
+      "objective_key": "fr.orthographe.o1",
+      "families": [
+        "*"
+      ],
+      "origin": "AI_GENERATED",
+      "source_key": null,
+      "year": null,
+      "valid_until": null,
+      "tags": [
+        "homophones",
+        "peu-peut-peux"
+      ]
+    },
+    {
+      "id": "fr-ortho-vocab-comprehension-0012",
+      "type": "MCQ_MULTI",
+      "language": "fr",
+      "stem": "Parmi les phrases suivantes, lesquelles sont correctement orthographiées ? (Plusieurs réponses possibles)",
+      "options": [
+        {
+          "id": "a",
+          "text": "Se sont les candidats admis à l'oral."
+        },
+        {
+          "id": "b",
+          "text": "Il s'est trompé de salle d'examen."
+        },
+        {
+          "id": "c",
+          "text": "Les invités c'en sont allés avant la fin."
+        },
+        {
+          "id": "d",
+          "text": "Ce sont des règles qu'il faut respecter."
+        }
+      ],
+      "correct": [
+        "b",
+        "d"
+      ],
+      "explanation": "La phrase d est correcte : « ce » est un pronom démonstratif (= cela) suivi du verbe être. La phrase b est correcte : « s'est » appartient au verbe pronominal « se tromper ». La phrase a est fautive car le pronom réfléchi « se » ne s'emploie que devant un verbe pronominal : il faut « Ce sont ». La phrase c est fautive car il s'agit du verbe « s'en aller » : il faut « s'en sont allés » ; « c'en » (= cela en) s'emploie dans « c'en est trop ».",
+      "difficulty": "MEDIUM",
+      "topic_key": "fr.orthographe",
+      "objective_key": "fr.orthographe.o1",
+      "families": [
+        "*"
+      ],
+      "origin": "AI_GENERATED",
+      "source_key": null,
+      "year": null,
+      "valid_until": null,
+      "tags": [
+        "homophones",
+        "ce-se",
+        "s-en-c-en"
+      ]
+    },
+    {
+      "id": "fr-ortho-vocab-comprehension-0013",
+      "type": "NUMERIC",
+      "language": "fr",
+      "stem": "Combien de mots mal orthographiés la phrase suivante contient-elle ? « Le personel administratif doit communiquer son adresse et son numéro de téléfone au secrétariat avant la fin de la semmaine. » (Indiquez un nombre.)",
+      "options": [],
+      "correct": {
+        "value": 3,
+        "tolerance": 0
+      },
+      "explanation": "La phrase contient trois fautes : « personel » (il faut « personnel », avec deux n), « téléfone » (il faut « téléphone », avec ph) et « semmaine » (il faut « semaine », avec un seul m). Le mot « adresse » est un piège : il est correctement écrit avec un seul d. « Administratif », « numéro » et « secrétariat » sont également corrects.",
+      "difficulty": "MEDIUM",
+      "topic_key": "fr.orthographe",
+      "objective_key": "fr.orthographe.o1",
+      "families": [
+        "*"
+      ],
+      "origin": "AI_GENERATED",
+      "source_key": null,
+      "year": null,
+      "valid_until": null,
+      "tags": [
+        "orthographe-usage",
+        "relecture"
+      ]
+    },
+    {
+      "id": "fr-ortho-vocab-comprehension-0014",
+      "type": "TRUE_FALSE",
+      "language": "fr",
+      "stem": "Vrai ou faux : « quoique » en un seul mot a le sens de « bien que », tandis que « quoi que » en deux mots signifie « quelle que soit la chose que ».",
+      "options": [
+        {
+          "id": "a",
+          "text": "Vrai"
+        },
+        {
+          "id": "b",
+          "text": "Faux"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "explanation": "C'est vrai. On écrit « Quoiqu'il soit fatigué, il poursuit ses révisions » (= bien qu'il soit fatigué) mais « Quoi qu'il arrive, restez calme » (= quelle que soit la chose qui arrive). Le test le plus sûr consiste à remplacer par « bien que » : si la phrase garde son sens, on écrit « quoique » en un mot. Les deux formes sont suivies du subjonctif, ce qui explique qu'on les confonde souvent.",
+      "difficulty": "HARD",
+      "topic_key": "fr.orthographe",
+      "objective_key": "fr.orthographe.o1",
+      "families": [
+        "*"
+      ],
+      "origin": "AI_GENERATED",
+      "source_key": null,
+      "year": null,
+      "valid_until": null,
+      "tags": [
+        "homophones",
+        "quoique-quoi-que"
+      ]
+    },
+    {
+      "id": "fr-ortho-vocab-comprehension-0015",
+      "type": "MCQ_SINGLE",
+      "language": "fr",
+      "stem": "Quelle phrase est correctement orthographiée ?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Quelque soit votre diplôme, vous pouvez vous inscrire."
+        },
+        {
+          "id": "b",
+          "text": "Quels que soient vos diplômes, vous pouvez vous inscrire."
+        },
+        {
+          "id": "c",
+          "text": "Quelques soient vos diplômes, vous pouvez vous inscrire."
+        },
+        {
+          "id": "d",
+          "text": "Quelle que soient vos diplômes, vous pouvez vous inscrire."
+        }
+      ],
+      "correct": [
+        "b"
+      ],
+      "explanation": "Devant le verbe être au subjonctif, on écrit « quel que » en deux mots, et « quel » s'accorde avec le sujet du verbe : « vos diplômes » est masculin pluriel, d'où « Quels que soient ». « Quelque » en un seul mot s'emploie devant un nom ou un adjectif (« quelques diplômes », « quelque compétents qu'ils soient »), jamais directement devant « soit » ou « soient ». La phrase d est fautive car « quelle » est féminin singulier alors que le sujet est masculin pluriel.",
+      "difficulty": "HARD",
+      "topic_key": "fr.orthographe",
+      "objective_key": "fr.orthographe.o1",
+      "families": [
+        "*"
+      ],
+      "origin": "AI_GENERATED",
+      "source_key": null,
+      "year": null,
+      "valid_until": null,
+      "tags": [
+        "homophones",
+        "quel-que-quelque"
+      ]
+    },
+    {
+      "id": "fr-ortho-vocab-comprehension-0016",
+      "type": "MCQ_SINGLE",
+      "language": "fr",
+      "stem": "Quelle série de verbes est correctement orthographiée ?",
+      "options": [
+        {
+          "id": "a",
+          "text": "nourir, courrir, mourrir"
+        },
+        {
+          "id": "b",
+          "text": "nourrir, courrir, mourir"
+        },
+        {
+          "id": "c",
+          "text": "nourir, courir, mourrir"
+        },
+        {
+          "id": "d",
+          "text": "nourrir, courir, mourir"
+        }
+      ],
+      "correct": [
+        "d"
+      ],
+      "explanation": "« Nourrir » s'écrit avec deux r, alors que « courir » et « mourir » ne prennent qu'un seul r à l'infinitif. Les deux r de « courir » et « mourir » n'apparaissent qu'au futur et au conditionnel (je courrai, nous mourrions), ce qui explique la confusion. La série b est donc fautive à cause de « courrir ».",
+      "difficulty": "HARD",
+      "topic_key": "fr.orthographe",
+      "objective_key": "fr.orthographe.o1",
+      "families": [
+        "*"
+      ],
+      "origin": "AI_GENERATED",
+      "source_key": null,
+      "year": null,
+      "valid_until": null,
+      "tags": [
+        "orthographe-usage",
+        "consonnes-doubles"
+      ]
+    },
+    {
+      "id": "fr-ortho-vocab-comprehension-0017",
+      "type": "MCQ_SINGLE",
+      "language": "fr",
+      "stem": "En orthographe traditionnelle, comment écrire en toutes lettres le montant de 280 dinars ?",
+      "options": [
+        {
+          "id": "a",
+          "text": "deux cents quatre-vingts dinars"
+        },
+        {
+          "id": "b",
+          "text": "deux cent quatre-vingt dinars"
+        },
+        {
+          "id": "c",
+          "text": "deux cent quatre-vingts dinars"
+        },
+        {
+          "id": "d",
+          "text": "deux cents quatre-vingt dinars"
+        }
+      ],
+      "correct": [
+        "c"
+      ],
+      "explanation": "« Cent » et « vingt » prennent un s lorsqu'ils sont multipliés et qu'ils ne sont pas suivis d'un autre adjectif numéral. Ici, « cent » est suivi de « quatre-vingts » : il reste donc invariable (« deux cent »). « Quatre-vingts » termine le nombre (« dinars » est un nom, pas un numéral) : il prend un s. Les rectifications orthographiques de 1990 autorisent les traits d'union partout (« deux-cent-quatre-vingts »), mais ne modifient pas cette règle du s.",
+      "difficulty": "EXPERT",
+      "topic_key": "fr.orthographe",
+      "objective_key": "fr.orthographe.o1",
+      "families": [
+        "*"
+      ],
+      "origin": "AI_GENERATED",
+      "source_key": null,
+      "year": null,
+      "valid_until": null,
+      "tags": [
+        "nombres",
+        "cent-vingt",
+        "accord"
+      ]
+    },
+    {
+      "id": "fr-ortho-vocab-comprehension-0018",
+      "type": "MCQ_SINGLE",
+      "language": "fr",
+      "stem": "Dans la phrase « Le contrôle des dossiers est rigoureux », quel est le synonyme de « rigoureux » ?",
+      "options": [
+        {
+          "id": "a",
+          "text": "strict"
+        },
+        {
+          "id": "b",
+          "text": "négligent"
+        },
+        {
+          "id": "c",
+          "text": "rapide"
+        },
+        {
+          "id": "d",
+          "text": "facultatif"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "explanation": "« Rigoureux » qualifie ce qui est fait avec exactitude et sévérité, sans laisser passer d'erreur : son synonyme est « strict ». « Négligent » est au contraire un antonyme, puisqu'il désigne un manque de soin. « Rapide » concerne la vitesse et « facultatif » le caractère non obligatoire, ce qui ne correspond pas au sens du mot.",
+      "difficulty": "EASY",
+      "topic_key": "fr.vocabulaire",
+      "objective_key": "fr.vocabulaire.o1",
+      "families": [
+        "*"
+      ],
+      "origin": "AI_GENERATED",
+      "source_key": null,
+      "year": null,
+      "valid_until": null,
+      "tags": [
+        "synonymes"
+      ]
+    },
+    {
+      "id": "fr-ortho-vocab-comprehension-0019",
+      "type": "MCQ_SINGLE",
+      "language": "fr",
+      "stem": "Quel est l'antonyme de l'adjectif « fréquent » ?",
+      "options": [
+        {
+          "id": "a",
+          "text": "habituel"
+        },
+        {
+          "id": "b",
+          "text": "courant"
+        },
+        {
+          "id": "c",
+          "text": "répété"
+        },
+        {
+          "id": "d",
+          "text": "rare"
+        }
+      ],
+      "correct": [
+        "d"
+      ],
+      "explanation": "Est « fréquent » ce qui se produit souvent ; son contraire est « rare », ce qui se produit peu souvent. « Habituel », « courant » et « répété » sont au contraire des synonymes ou des mots de sens voisin, puisqu'ils expriment tous l'idée de répétition.",
+      "difficulty": "EASY",
+      "topic_key": "fr.vocabulaire",
+      "objective_key": "fr.vocabulaire.o1",
+      "families": [
+        "*"
+      ],
+      "origin": "AI_GENERATED",
+      "source_key": null,
+      "year": null,
+      "valid_until": null,
+      "tags": [
+        "antonymes"
+      ]
+    },
+    {
+      "id": "fr-ortho-vocab-comprehension-0020",
+      "type": "MCQ_MULTI",
+      "language": "fr",
+      "stem": "Parmi les verbes suivants, lesquels sont des synonymes de « diminuer » ? (Plusieurs réponses possibles)",
+      "options": [
+        {
+          "id": "a",
+          "text": "accroître"
+        },
+        {
+          "id": "b",
+          "text": "amoindrir"
+        },
+        {
+          "id": "c",
+          "text": "amplifier"
+        },
+        {
+          "id": "d",
+          "text": "réduire"
+        }
+      ],
+      "correct": [
+        "b",
+        "d"
+      ],
+      "explanation": "« Réduire » et « amoindrir » expriment tous deux l'idée de rendre plus petit ou moins important : ce sont des synonymes de « diminuer ». « Accroître » et « amplifier » signifient au contraire rendre plus grand ou plus fort : ce sont des antonymes. Le piège est le préfixe « a- » d'« amoindrir », qui ne marque pas ici le contraire.",
+      "difficulty": "MEDIUM",
+      "topic_key": "fr.vocabulaire",
+      "objective_key": "fr.vocabulaire.o1",
+      "families": [
+        "*"
+      ],
+      "origin": "AI_GENERATED",
+      "source_key": null,
+      "year": null,
+      "valid_until": null,
+      "tags": [
+        "synonymes",
+        "antonymes"
+      ]
+    },
+    {
+      "id": "fr-ortho-vocab-comprehension-0021",
+      "type": "MCQ_SINGLE",
+      "language": "fr",
+      "stem": "Complétez la phrase : « Le danger est ___ : il faut évacuer le bâtiment sans attendre. »",
+      "options": [
+        {
+          "id": "a",
+          "text": "éminent"
+        },
+        {
+          "id": "b",
+          "text": "imminent"
+        },
+        {
+          "id": "c",
+          "text": "immanent"
+        },
+        {
+          "id": "d",
+          "text": "émanant"
+        }
+      ],
+      "correct": [
+        "b"
+      ],
+      "explanation": "« Imminent » qualifie ce qui est sur le point de se produire, ce qui justifie l'évacuation immédiate. « Éminent » est un paronyme qui signifie « remarquable, supérieur » (un éminent professeur) et ne s'applique pas à un danger. « Immanent » est un terme de philosophie (qui est contenu dans la nature d'un être) et « émanant » est le participe présent d'« émaner » (provenir de).",
+      "difficulty": "MEDIUM",
+      "topic_key": "fr.vocabulaire",
+      "objective_key": "fr.vocabulaire.o1",
+      "families": [
+        "*"
+      ],
+      "origin": "AI_GENERATED",
+      "source_key": null,
+      "year": null,
+      "valid_until": null,
+      "tags": [
+        "paronymes"
+      ]
+    },
+    {
+      "id": "fr-ortho-vocab-comprehension-0022",
+      "type": "MCQ_SINGLE",
+      "language": "fr",
+      "stem": "Complétez la phrase : « La ___ économique actuelle impose une maîtrise rigoureuse des dépenses. »",
+      "options": [
+        {
+          "id": "a",
+          "text": "conjecture"
+        },
+        {
+          "id": "b",
+          "text": "conjoncture"
+        },
+        {
+          "id": "c",
+          "text": "conjonction"
+        },
+        {
+          "id": "d",
+          "text": "conjuration"
+        }
+      ],
+      "correct": [
+        "b"
+      ],
+      "explanation": "La « conjoncture » est la situation qui résulte d'un ensemble de circonstances à un moment donné ; on parle couramment de « conjoncture économique ». La « conjecture », son paronyme, est une simple supposition ou hypothèse (« se perdre en conjectures »). La « conjonction » désigne une union ou un mot grammatical, et la « conjuration » un complot.",
+      "difficulty": "MEDIUM",
+      "topic_key": "fr.vocabulaire",
+      "objective_key": "fr.vocabulaire.o1",
+      "families": [
+        "*"
+      ],
+      "origin": "AI_GENERATED",
+      "source_key": null,
+      "year": null,
+      "valid_until": null,
+      "tags": [
+        "paronymes",
+        "vocabulaire-economique"
+      ]
+    },
+    {
+      "id": "fr-ortho-vocab-comprehension-0023",
+      "type": "MCQ_SINGLE",
+      "language": "fr",
+      "stem": "Complétez la phrase : « Les services fiscaux ont engagé des procédures pour ___ les impôts impayés. »",
+      "options": [
+        {
+          "id": "a",
+          "text": "recouvrir"
+        },
+        {
+          "id": "b",
+          "text": "découvrir"
+        },
+        {
+          "id": "c",
+          "text": "couvrir"
+        },
+        {
+          "id": "d",
+          "text": "recouvrer"
+        }
+      ],
+      "correct": [
+        "d"
+      ],
+      "explanation": "« Recouvrer » signifie rentrer en possession de ce qui est dû ou perdu : on recouvre une créance, des impôts (d'où le « recouvrement » de l'impôt) ou encore la santé. « Recouvrir », son paronyme, signifie couvrir entièrement ou de nouveau (recouvrir un livre, un mur). « Découvrir » et « couvrir » n'ont aucun rapport avec la perception d'une somme.",
+      "difficulty": "HARD",
+      "topic_key": "fr.vocabulaire",
+      "objective_key": "fr.vocabulaire.o1",
+      "families": [
+        "*"
+      ],
+      "origin": "AI_GENERATED",
+      "source_key": null,
+      "year": null,
+      "valid_until": null,
+      "tags": [
+        "paronymes",
+        "vocabulaire-fiscal"
+      ]
+    },
+    {
+      "id": "fr-ortho-vocab-comprehension-0024",
+      "type": "TRUE_FALSE",
+      "language": "fr",
+      "stem": "Vrai ou faux : les adjectifs « prolixe » et « prolifique » sont synonymes.",
+      "options": [
+        {
+          "id": "a",
+          "text": "Vrai"
+        },
+        {
+          "id": "b",
+          "text": "Faux"
+        }
+      ],
+      "correct": [
+        "b"
+      ],
+      "explanation": "C'est faux : ce sont des paronymes. « Prolixe » se dit d'une personne ou d'un texte qui s'exprime trop longuement, avec trop de détails (un rapport prolixe). « Prolifique » signifie qui produit beaucoup, fécond (un auteur prolifique). Un écrivain peut donc être prolifique sans être prolixe.",
+      "difficulty": "HARD",
+      "topic_key": "fr.vocabulaire",
+      "objective_key": "fr.vocabulaire.o1",
+      "families": [
+        "*"
+      ],
+      "origin": "AI_GENERATED",
+      "source_key": null,
+      "year": null,
+      "valid_until": null,
+      "tags": [
+        "paronymes"
+      ]
+    },
+    {
+      "id": "fr-ortho-vocab-comprehension-0025",
+      "type": "MATCHING",
+      "language": "fr",
+      "stem": "Associez chaque mot à sa définition.",
+      "options": [
+        {
+          "id": "l1",
+          "text": "allocution",
+          "side": "left"
+        },
+        {
+          "id": "l2",
+          "text": "allocation",
+          "side": "left"
+        },
+        {
+          "id": "l3",
+          "text": "collision",
+          "side": "left"
+        },
+        {
+          "id": "l4",
+          "text": "collusion",
+          "side": "left"
+        },
+        {
+          "id": "r1",
+          "text": "Entente secrète entre des personnes au détriment d'un tiers",
+          "side": "right"
+        },
+        {
+          "id": "r2",
+          "text": "Discours bref prononcé en public",
+          "side": "right"
+        },
+        {
+          "id": "r3",
+          "text": "Choc entre deux corps ou deux véhicules",
+          "side": "right"
+        },
+        {
+          "id": "r4",
+          "text": "Somme d'argent attribuée à une personne",
+          "side": "right"
+        }
+      ],
+      "correct": {
+        "pairs": [
+          [
+            "l1",
+            "r2"
+          ],
+          [
+            "l2",
+            "r4"
+          ],
+          [
+            "l3",
+            "r3"
+          ],
+          [
+            "l4",
+            "r1"
+          ]
+        ]
+      },
+      "explanation": "Ces mots forment deux paires de paronymes. Une « allocution » est un discours bref (le ministre a prononcé une allocution), tandis qu'une « allocation » est une somme versée (allocation familiale). Une « collision » est un choc physique, alors qu'une « collusion » est une entente secrète et frauduleuse. On confond souvent « collision » et « collusion » parce que les deux évoquent une rencontre entre deux parties.",
+      "difficulty": "HARD",
+      "topic_key": "fr.vocabulaire",
+      "objective_key": "fr.vocabulaire.o1",
+      "families": [
+        "*"
+      ],
+      "origin": "AI_GENERATED",
+      "source_key": null,
+      "year": null,
+      "valid_until": null,
+      "tags": [
+        "paronymes"
+      ]
+    },
+    {
+      "id": "fr-ortho-vocab-comprehension-0026",
+      "type": "MCQ_SINGLE",
+      "language": "fr",
+      "stem": "Complétez la phrase : « Le mot « bureau » est employé ici dans son ___ la plus courante : la pièce où l'on travaille. »",
+      "options": [
+        {
+          "id": "a",
+          "text": "acception"
+        },
+        {
+          "id": "b",
+          "text": "acceptation"
+        },
+        {
+          "id": "c",
+          "text": "exception"
+        },
+        {
+          "id": "d",
+          "text": "accession"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "explanation": "L'« acception » d'un mot est le sens particulier dans lequel on le prend (un mot peut avoir plusieurs acceptions). « Acceptation » est un paronyme qui désigne le fait d'accepter (l'acceptation d'une offre, d'une démission). « Exception » et « accession » (le fait d'accéder à un poste, à l'indépendance) n'ont pas de rapport avec le sens d'un mot.",
+      "difficulty": "EXPERT",
+      "topic_key": "fr.vocabulaire",
+      "objective_key": "fr.vocabulaire.o1",
+      "families": [
+        "*"
+      ],
+      "origin": "AI_GENERATED",
+      "source_key": null,
+      "year": null,
+      "valid_until": null,
+      "tags": [
+        "paronymes"
+      ]
+    },
+    {
+      "id": "fr-ortho-vocab-comprehension-0027",
+      "type": "MCQ_SINGLE",
+      "language": "fr",
+      "stem": "Dans une administration tunisienne, le « bureau d'ordre » est principalement chargé :",
+      "options": [
+        {
+          "id": "a",
+          "text": "de verser les salaires du personnel"
+        },
+        {
+          "id": "b",
+          "text": "de faire respecter la discipline des agents"
+        },
+        {
+          "id": "c",
+          "text": "d'enregistrer le courrier reçu et le courrier expédié"
+        },
+        {
+          "id": "d",
+          "text": "d'organiser les concours de recrutement"
+        }
+      ],
+      "correct": [
+        "c"
+      ],
+      "explanation": "Le bureau d'ordre (مكتب الضبط) reçoit, enregistre et distribue le courrier « arrivée » et enregistre le courrier « départ » avant son expédition. Le paiement des salaires relève des services financiers ou de la paie, la discipline relève de la hiérarchie et des ressources humaines, et l'organisation des concours d'un service spécialisé.",
+      "difficulty": "EASY",
+      "topic_key": "fr.vocabulaire",
+      "objective_key": "fr.vocabulaire.o2",
+      "families": [
+        "*"
+      ],
+      "origin": "AI_GENERATED",
+      "source_key": null,
+      "year": null,
+      "valid_until": null,
+      "tags": [
+        "vocabulaire-administratif",
+        "courrier"
+      ]
+    },
+    {
+      "id": "fr-ortho-vocab-comprehension-0028",
+      "type": "MCQ_SINGLE",
+      "language": "fr",
+      "stem": "Au bas d'une lettre administrative, la mention « P.J. » signifie :",
+      "options": [
+        {
+          "id": "a",
+          "text": "pour justification"
+        },
+        {
+          "id": "b",
+          "text": "procédure judiciaire"
+        },
+        {
+          "id": "c",
+          "text": "par jour"
+        },
+        {
+          "id": "d",
+          "text": "pièce(s) jointe(s)"
+        }
+      ],
+      "correct": [
+        "d"
+      ],
+      "explanation": "« P.J. » est l'abréviation de « pièce(s) jointe(s) » : elle annonce la liste des documents joints à la lettre (copie du diplôme, certificat, etc.). Les autres propositions sont des développements inventés qui ne correspondent à aucun usage de la correspondance administrative. À ne pas confondre avec « N.B. » (nota bene), qui attire l'attention sur une remarque.",
+      "difficulty": "EASY",
+      "topic_key": "fr.vocabulaire",
+      "objective_key": "fr.vocabulaire.o2",
+      "families": [
+        "*"
+      ],
+      "origin": "AI_GENERATED",
+      "source_key": null,
+      "year": null,
+      "valid_until": null,
+      "tags": [
+        "vocabulaire-administratif",
+        "abreviations"
+      ]
+    },
+    {
+      "id": "fr-ortho-vocab-comprehension-0029",
+      "type": "MCQ_SINGLE",
+      "language": "fr",
+      "stem": "Comment appelle-t-on le document qui relate de façon officielle les débats et les décisions d'une réunion ou d'une séance ?",
+      "options": [
+        {
+          "id": "a",
+          "text": "un curriculum vitae"
+        },
+        {
+          "id": "b",
+          "text": "un procès-verbal"
+        },
+        {
+          "id": "c",
+          "text": "une demande d'emploi"
+        },
+        {
+          "id": "d",
+          "text": "un bon de commande"
+        }
+      ],
+      "correct": [
+        "b"
+      ],
+      "explanation": "Le procès-verbal (PV) est l'écrit officiel qui consigne le déroulement d'une séance, les décisions prises et, le cas échéant, les votes ; il est généralement signé et peut servir de preuve. Le curriculum vitae présente le parcours d'un candidat, la demande d'emploi sollicite un poste et le bon de commande sert à acheter des fournitures : aucun ne rend compte d'une réunion.",
+      "difficulty": "EASY",
+      "topic_key": "fr.vocabulaire",
+      "objective_key": "fr.vocabulaire.o2",
+      "families": [
+        "*"
+      ],
+      "origin": "AI_GENERATED",
+      "source_key": null,
+      "year": null,
+      "valid_until": null,
+      "tags": [
+        "vocabulaire-administratif",
+        "ecrits-administratifs"
+      ]
+    },
+    {
+      "id": "fr-ortho-vocab-comprehension-0030",
+      "type": "MCQ_SINGLE",
+      "language": "fr",
+      "stem": "Dans un acte administratif, le mot « ampliation » désigne :",
+      "options": [
+        {
+          "id": "a",
+          "text": "une augmentation de salaire accordée à un agent"
+        },
+        {
+          "id": "b",
+          "text": "l'annulation d'une décision par l'autorité supérieure"
+        },
+        {
+          "id": "c",
+          "text": "une copie authentifiée de l'acte, transmise aux services ou personnes concernés"
+        },
+        {
+          "id": "d",
+          "text": "un délai supplémentaire accordé à un candidat"
+        }
+      ],
+      "correct": [
+        "c"
+      ],
+      "explanation": "L'« ampliation » est le double officiel d'un acte administratif (arrêté, décision), certifié conforme et adressé aux destinataires concernés ; la mention « Pour ampliation » figure sur ces copies. Le mot évoque l'idée d'« amplifier », ce qui pousse à le confondre à tort avec une augmentation (de salaire ou de délai). Il n'a pas non plus le sens d'annulation.",
+      "difficulty": "MEDIUM",
+      "topic_key": "fr.vocabulaire",
+      "objective_key": "fr.vocabulaire.o2",
+      "families": [
+        "*"
+      ],
+      "origin": "AI_GENERATED",
+      "source_key": null,
+      "year": null,
+      "valid_until": null,
+      "tags": [
+        "vocabulaire-administratif",
+        "actes-administratifs"
+      ]
+    },
+    {
+      "id": "fr-ortho-vocab-comprehension-0031",
+      "type": "MCQ_SINGLE",
+      "language": "fr",
+      "stem": "Dans l'en-tête d'une lettre : « À Monsieur le Directeur général, s/c de Monsieur le Chef de service ». La mention « s/c » (sous couvert de) signifie que la lettre :",
+      "options": [
+        {
+          "id": "a",
+          "text": "est transmise au destinataire par l'intermédiaire du supérieur hiérarchique"
+        },
+        {
+          "id": "b",
+          "text": "est confidentielle et ne doit pas être ouverte"
+        },
+        {
+          "id": "c",
+          "text": "est adressée uniquement en copie au chef de service"
+        },
+        {
+          "id": "d",
+          "text": "doit être signée par le chef de service à la place de l'expéditeur"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "explanation": "« Sous couvert de » indique que la lettre suit la voie hiérarchique : elle est remise au supérieur direct, qui la fait parvenir, éventuellement avec son avis, au destinataire final. Il ne s'agit pas d'une simple copie (on écrirait alors « copie à »), ni d'une mention de confidentialité. L'expéditeur reste le signataire de sa lettre.",
+      "difficulty": "MEDIUM",
+      "topic_key": "fr.vocabulaire",
+      "objective_key": "fr.vocabulaire.o2",
+      "families": [
+        "*"
+      ],
+      "origin": "AI_GENERATED",
+      "source_key": null,
+      "year": null,
+      "valid_until": null,
+      "tags": [
+        "vocabulaire-administratif",
+        "voie-hierarchique"
+      ]
+    },
+    {
+      "id": "fr-ortho-vocab-comprehension-0032",
+      "type": "MCQ_SINGLE",
+      "language": "fr",
+      "stem": "« Le directeur a décidé de surseoir à l'exécution de la mutation. » Dans cette phrase, « surseoir à » signifie :",
+      "options": [
+        {
+          "id": "a",
+          "text": "remettre à plus tard, suspendre"
+        },
+        {
+          "id": "b",
+          "text": "exécuter immédiatement"
+        },
+        {
+          "id": "c",
+          "text": "annuler définitivement"
+        },
+        {
+          "id": "d",
+          "text": "confirmer officiellement"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "explanation": "« Surseoir à » signifie différer, suspendre provisoirement une action ; le nom correspondant est « sursis ». La mutation n'est donc ni exécutée ni supprimée : elle est simplement reportée. Le principal piège est « annuler définitivement », car le sursis est temporaire alors que l'annulation est définitive.",
+      "difficulty": "HARD",
+      "topic_key": "fr.vocabulaire",
+      "objective_key": "fr.vocabulaire.o2",
+      "families": [
+        "*"
+      ],
+      "origin": "AI_GENERATED",
+      "source_key": null,
+      "year": null,
+      "valid_until": null,
+      "tags": [
+        "vocabulaire-administratif",
+        "registre-soutenu"
+      ]
+    },
+    {
+      "id": "fr-ortho-vocab-comprehension-0033",
+      "type": "MCQ_SINGLE",
+      "language": "fr",
+      "stem": "Un avis précise : « Les dossiers doivent être envoyés par voie postale au plus tard le 30 juin, le cachet de la poste faisant foi. » Cela signifie que :",
+      "options": [
+        {
+          "id": "a",
+          "text": "le dossier doit être parvenu à l'administration au plus tard le 30 juin"
+        },
+        {
+          "id": "b",
+          "text": "seul un envoi recommandé avec accusé de réception est accepté"
+        },
+        {
+          "id": "c",
+          "text": "la date portée par le cachet de la poste au moment de l'envoi sert de preuve du respect du délai"
+        },
+        {
+          "id": "d",
+          "text": "le candidat doit faire certifier le contenu de son dossier par la poste"
+        }
+      ],
+      "correct": [
+        "c"
+      ],
+      "explanation": "« Faire foi » signifie « servir de preuve ». C'est donc la date d'expédition figurant sur le cachet de la poste qui compte : un dossier posté le 30 juin est dans les délais, même s'il arrive quelques jours plus tard. La proposition a correspond à une autre formule (« date de réception » ou « dernier délai d'arrivée »). La mention ne dit rien sur le mode d'envoi recommandé.",
+      "difficulty": "HARD",
+      "topic_key": "fr.vocabulaire",
+      "objective_key": "fr.vocabulaire.o2",
+      "families": [
+        "*"
+      ],
+      "origin": "AI_GENERATED",
+      "source_key": null,
+      "year": null,
+      "valid_until": null,
+      "tags": [
+        "vocabulaire-administratif",
+        "avis-de-concours"
+      ]
+    },
+    {
+      "id": "fr-ortho-vocab-comprehension-0034",
+      "type": "MCQ_SINGLE",
+      "language": "fr",
+      "stem": "Un candidat dépose son recours après l'expiration du délai fixé par les textes ; son recours est déclaré irrecevable. Quel terme désigne la perte d'un droit faute de l'avoir exercé dans le délai imparti ?",
+      "options": [
+        {
+          "id": "a",
+          "text": "l'abrogation"
+        },
+        {
+          "id": "b",
+          "text": "la forclusion"
+        },
+        {
+          "id": "c",
+          "text": "la promulgation"
+        },
+        {
+          "id": "d",
+          "text": "la ratification"
+        }
+      ],
+      "correct": [
+        "b"
+      ],
+      "explanation": "La « forclusion » est la sanction qui frappe celui qui n'a pas agi dans le délai prévu : il ne peut plus exercer son droit (on dit qu'il est « forclos »). L'« abrogation » est la suppression d'un texte pour l'avenir, la « promulgation » l'acte qui rend une loi exécutoire et la « ratification » l'approbation d'un acte ou d'un traité. Aucun de ces trois termes ne concerne un délai dépassé par un particulier.",
+      "difficulty": "EXPERT",
+      "topic_key": "fr.vocabulaire",
+      "objective_key": "fr.vocabulaire.o2",
+      "families": [
+        "*"
+      ],
+      "origin": "AI_GENERATED",
+      "source_key": null,
+      "year": null,
+      "valid_until": null,
+      "tags": [
+        "vocabulaire-administratif",
+        "vocabulaire-juridique"
+      ]
+    },
+    {
+      "id": "fr-ortho-vocab-comprehension-0035",
+      "type": "MCQ_SINGLE",
+      "language": "fr",
+      "stem": "Lisez le texte suivant :\n« Depuis quelques années, de nombreuses administrations proposent leurs services en ligne. Le citoyen peut désormais demander un document, suivre l'avancement de son dossier ou payer certains frais sans se déplacer. Ce progrès réduit les files d'attente et évite bien des déplacements inutiles. Pourtant, la dématérialisation ne profite pas à tous de la même manière : les personnes âgées, ou celles qui vivent dans des zones mal couvertes par Internet, risquent d'être laissées de côté. C'est pourquoi il est essentiel de maintenir des guichets d'accueil et d'accompagner les usagers dans l'apprentissage des outils numériques. La modernisation de l'administration n'a de sens que si elle reste au service de tous. »\nQuelle est l'idée principale de ce texte ?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Les services en ligne doivent remplacer complètement les guichets."
+        },
+        {
+          "id": "b",
+          "text": "Les personnes âgées refusent d'utiliser Internet."
+        },
+        {
+          "id": "c",
+          "text": "Les files d'attente ont totalement disparu des administrations."
+        },
+        {
+          "id": "d",
+          "text": "Les services en ligne sont un progrès, à condition de rester accessibles à tous les usagers."
+        }
+      ],
+      "correct": [
+        "d"
+      ],
+      "explanation": "Le texte reconnaît d'abord les avantages des services en ligne, puis, avec « Pourtant », souligne le risque d'exclusion de certains usagers ; la dernière phrase résume la thèse : la modernisation n'a de sens que si elle sert tout le monde. La proposition a contredit le texte, qui demande de maintenir les guichets. Les propositions b et c déforment ou exagèrent des détails du texte.",
+      "difficulty": "EASY",
+      "topic_key": "fr.comprehension",
+      "objective_key": "fr.comprehension.o1",
+      "families": [
+        "*"
+      ],
+      "origin": "AI_GENERATED",
+      "source_key": null,
+      "year": null,
+      "valid_until": null,
+      "tags": [
+        "idee-principale",
+        "administration-numerique"
+      ]
+    },
+    {
+      "id": "fr-ortho-vocab-comprehension-0036",
+      "type": "MCQ_SINGLE",
+      "language": "fr",
+      "stem": "Lisez le texte suivant :\n« Depuis quelques années, de nombreuses administrations proposent leurs services en ligne. Le citoyen peut désormais demander un document, suivre l'avancement de son dossier ou payer certains frais sans se déplacer. Ce progrès réduit les files d'attente et évite bien des déplacements inutiles. Pourtant, la dématérialisation ne profite pas à tous de la même manière : les personnes âgées, ou celles qui vivent dans des zones mal couvertes par Internet, risquent d'être laissées de côté. C'est pourquoi il est essentiel de maintenir des guichets d'accueil et d'accompagner les usagers dans l'apprentissage des outils numériques. La modernisation de l'administration n'a de sens que si elle reste au service de tous. »\nDans le texte, l'expression « être laissées de côté » signifie :",
+      "options": [
+        {
+          "id": "a",
+          "text": "être servies en priorité"
+        },
+        {
+          "id": "b",
+          "text": "être installées à part pour plus de confort"
+        },
+        {
+          "id": "c",
+          "text": "être exclues, oubliées"
+        },
+        {
+          "id": "d",
+          "text": "être aidées par leurs voisins"
+        }
+      ],
+      "correct": [
+        "c"
+      ],
+      "explanation": "« Laisser quelqu'un de côté », c'est ne pas le prendre en compte, l'exclure. Le contexte le confirme : ces personnes « ne profitent pas » de la dématérialisation, d'où la nécessité de les accompagner. « Être servies en priorité » exprime l'idée inverse, et les deux autres propositions prennent l'expression au sens littéral, ce qui ne convient pas ici.",
+      "difficulty": "EASY",
+      "topic_key": "fr.comprehension",
+      "objective_key": "fr.comprehension.o1",
+      "families": [
+        "*"
+      ],
+      "origin": "AI_GENERATED",
+      "source_key": null,
+      "year": null,
+      "valid_until": null,
+      "tags": [
+        "sens-expression",
+        "administration-numerique"
+      ]
+    },
+    {
+      "id": "fr-ortho-vocab-comprehension-0037",
+      "type": "MCQ_MULTI",
+      "language": "fr",
+      "stem": "Lisez le texte suivant :\n« Depuis quelques années, de nombreuses administrations proposent leurs services en ligne. Le citoyen peut désormais demander un document, suivre l'avancement de son dossier ou payer certains frais sans se déplacer. Ce progrès réduit les files d'attente et évite bien des déplacements inutiles. Pourtant, la dématérialisation ne profite pas à tous de la même manière : les personnes âgées, ou celles qui vivent dans des zones mal couvertes par Internet, risquent d'être laissées de côté. C'est pourquoi il est essentiel de maintenir des guichets d'accueil et d'accompagner les usagers dans l'apprentissage des outils numériques. La modernisation de l'administration n'a de sens que si elle reste au service de tous. »\nSelon le texte, quels avantages présentent les services administratifs en ligne ? (Plusieurs réponses possibles)",
+      "options": [
+        {
+          "id": "a",
+          "text": "Ils réduisent les files d'attente."
+        },
+        {
+          "id": "b",
+          "text": "Ils évitent des déplacements inutiles."
+        },
+        {
+          "id": "c",
+          "text": "Ils rendent tous les services gratuits."
+        },
+        {
+          "id": "d",
+          "text": "Ils permettent de supprimer les agents d'accueil."
+        }
+      ],
+      "correct": [
+        "a",
+        "b"
+      ],
+      "explanation": "Le texte affirme explicitement que ce progrès « réduit les files d'attente et évite bien des déplacements inutiles ». Il ne parle pas de gratuité : il précise au contraire qu'on peut « payer certains frais » en ligne. Quant à la suppression des agents d'accueil, elle est contraire à la recommandation de l'auteur, qui veut maintenir les guichets.",
+      "difficulty": "MEDIUM",
+      "topic_key": "fr.comprehension",
+      "objective_key": "fr.comprehension.o1",
+      "families": [
+        "*"
+      ],
+      "origin": "AI_GENERATED",
+      "source_key": null,
+      "year": null,
+      "valid_until": null,
+      "tags": [
+        "reperage-information",
+        "administration-numerique"
+      ]
+    },
+    {
+      "id": "fr-ortho-vocab-comprehension-0038",
+      "type": "TRUE_FALSE",
+      "language": "fr",
+      "stem": "Lisez le texte suivant :\n« Depuis quelques années, de nombreuses administrations proposent leurs services en ligne. Le citoyen peut désormais demander un document, suivre l'avancement de son dossier ou payer certains frais sans se déplacer. Ce progrès réduit les files d'attente et évite bien des déplacements inutiles. Pourtant, la dématérialisation ne profite pas à tous de la même manière : les personnes âgées, ou celles qui vivent dans des zones mal couvertes par Internet, risquent d'être laissées de côté. C'est pourquoi il est essentiel de maintenir des guichets d'accueil et d'accompagner les usagers dans l'apprentissage des outils numériques. La modernisation de l'administration n'a de sens que si elle reste au service de tous. »\nVrai ou faux : d'après le texte, l'auteur recommande de fermer les guichets d'accueil une fois les services mis en ligne.",
+      "options": [
+        {
+          "id": "a",
+          "text": "Vrai"
+        },
+        {
+          "id": "b",
+          "text": "Faux"
+        }
+      ],
+      "correct": [
+        "b"
+      ],
+      "explanation": "C'est faux : l'auteur écrit au contraire qu'« il est essentiel de maintenir des guichets d'accueil ». Selon lui, ces guichets restent nécessaires pour les usagers qui ne peuvent pas facilement utiliser Internet. Le connecteur « C'est pourquoi » montre que ce maintien est la conséquence du risque d'exclusion évoqué juste avant.",
+      "difficulty": "EASY",
+      "topic_key": "fr.comprehension",
+      "objective_key": "fr.comprehension.o1",
+      "families": [
+        "*"
+      ],
+      "origin": "AI_GENERATED",
+      "source_key": null,
+      "year": null,
+      "valid_until": null,
+      "tags": [
+        "reperage-information",
+        "administration-numerique"
+      ]
+    },
+    {
+      "id": "fr-ortho-vocab-comprehension-0039",
+      "type": "MCQ_MULTI",
+      "language": "fr",
+      "stem": "Lisez le texte suivant :\n« L'eau est une ressource précieuse, surtout dans les régions où les pluies sont rares et irrégulières. Chaque litre gaspillé est une perte pour toute la collectivité. Des gestes simples, comme fermer le robinet pendant le brossage des dents ou réparer rapidement une fuite, permettent d'économiser des quantités importantes. Mais la responsabilité ne repose pas uniquement sur les ménages : l'agriculture, grande consommatrice d'eau, doit généraliser des techniques d'irrigation plus économes, comme le goutte-à-goutte. Quant aux pouvoirs publics, il leur revient d'entretenir les réseaux de distribution afin de limiter les pertes. Préserver l'eau est l'affaire de tous. »\nSelon le texte, qui doit agir pour préserver l'eau ? (Plusieurs réponses possibles)",
+      "options": [
+        {
+          "id": "a",
+          "text": "Les pouvoirs publics"
+        },
+        {
+          "id": "b",
+          "text": "Les seuls habitants des régions pluvieuses"
+        },
+        {
+          "id": "c",
+          "text": "Les ménages"
+        },
+        {
+          "id": "d",
+          "text": "Le secteur agricole"
+        }
+      ],
+      "correct": [
+        "a",
+        "c",
+        "d"
+      ],
+      "explanation": "Le texte cite trois acteurs : les ménages (gestes simples du quotidien), l'agriculture (irrigation économe) et les pouvoirs publics (entretien des réseaux). La conclusion « Préserver l'eau est l'affaire de tous » confirme cette responsabilité partagée. La proposition b est fausse : le texte insiste au contraire sur les régions où les pluies sont rares, et le mot « seuls » contredit l'idée de responsabilité collective.",
+      "difficulty": "MEDIUM",
+      "topic_key": "fr.comprehension",
+      "objective_key": "fr.comprehension.o1",
+      "families": [
+        "*"
+      ],
+      "origin": "AI_GENERATED",
+      "source_key": null,
+      "year": null,
+      "valid_until": null,
+      "tags": [
+        "reperage-information",
+        "environnement"
+      ]
+    },
+    {
+      "id": "fr-ortho-vocab-comprehension-0040",
+      "type": "MCQ_SINGLE",
+      "language": "fr",
+      "stem": "Lisez le texte suivant :\n« L'eau est une ressource précieuse, surtout dans les régions où les pluies sont rares et irrégulières. Chaque litre gaspillé est une perte pour toute la collectivité. Des gestes simples, comme fermer le robinet pendant le brossage des dents ou réparer rapidement une fuite, permettent d'économiser des quantités importantes. Mais la responsabilité ne repose pas uniquement sur les ménages : l'agriculture, grande consommatrice d'eau, doit généraliser des techniques d'irrigation plus économes, comme le goutte-à-goutte. Quant aux pouvoirs publics, il leur revient d'entretenir les réseaux de distribution afin de limiter les pertes. Préserver l'eau est l'affaire de tous. »\nQuel titre conviendrait le mieux à ce texte ?",
+      "options": [
+        {
+          "id": "a",
+          "text": "L'eau, une responsabilité partagée"
+        },
+        {
+          "id": "b",
+          "text": "Les bienfaits du brossage des dents"
+        },
+        {
+          "id": "c",
+          "text": "L'agriculture, seule coupable du gaspillage"
+        },
+        {
+          "id": "d",
+          "text": "La pluie, une ressource inépuisable"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "explanation": "Un bon titre doit résumer l'idée principale : le texte montre que ménages, agriculture et pouvoirs publics doivent tous agir, ce que résume « L'eau, une responsabilité partagée ». Le brossage des dents n'est qu'un exemple secondaire. Le titre c contredit le texte, qui refuse justement de faire porter la responsabilité sur un seul acteur, et le titre d contredit l'idée de ressource précieuse et rare.",
+      "difficulty": "MEDIUM",
+      "topic_key": "fr.comprehension",
+      "objective_key": "fr.comprehension.o1",
+      "families": [
+        "*"
+      ],
+      "origin": "AI_GENERATED",
+      "source_key": null,
+      "year": null,
+      "valid_until": null,
+      "tags": [
+        "idee-principale",
+        "titre",
+        "environnement"
+      ]
+    },
+    {
+      "id": "fr-ortho-vocab-comprehension-0041",
+      "type": "MCQ_SINGLE",
+      "language": "fr",
+      "stem": "Lisez le texte suivant :\n« L'eau est une ressource précieuse, surtout dans les régions où les pluies sont rares et irrégulières. Chaque litre gaspillé est une perte pour toute la collectivité. Des gestes simples, comme fermer le robinet pendant le brossage des dents ou réparer rapidement une fuite, permettent d'économiser des quantités importantes. Mais la responsabilité ne repose pas uniquement sur les ménages : l'agriculture, grande consommatrice d'eau, doit généraliser des techniques d'irrigation plus économes, comme le goutte-à-goutte. Quant aux pouvoirs publics, il leur revient d'entretenir les réseaux de distribution afin de limiter les pertes. Préserver l'eau est l'affaire de tous. »\nDans le texte, l'expression « Quant aux pouvoirs publics » sert à :",
+      "options": [
+        {
+          "id": "a",
+          "text": "exprimer une conséquence de ce qui précède"
+        },
+        {
+          "id": "b",
+          "text": "marquer une opposition totale avec les ménages"
+        },
+        {
+          "id": "c",
+          "text": "introduire un exemple de geste quotidien"
+        },
+        {
+          "id": "d",
+          "text": "introduire un nouvel acteur concerné par la préservation de l'eau"
+        }
+      ],
+      "correct": [
+        "d"
+      ],
+      "explanation": "« Quant à » signifie « en ce qui concerne » : la locution permet de passer à un nouvel élément d'une énumération, ici le troisième acteur responsable après les ménages et l'agriculture. Elle n'exprime pas une conséquence (ce serait « donc », « c'est pourquoi »). Elle ne marque pas non plus une opposition totale, puisque les pouvoirs publics partagent la même responsabilité que les autres acteurs.",
+      "difficulty": "MEDIUM",
+      "topic_key": "fr.comprehension",
+      "objective_key": "fr.comprehension.o1",
+      "families": [
+        "*"
+      ],
+      "origin": "AI_GENERATED",
+      "source_key": null,
+      "year": null,
+      "valid_until": null,
+      "tags": [
+        "connecteurs",
+        "sens-expression",
+        "environnement"
+      ]
+    },
+    {
+      "id": "fr-ortho-vocab-comprehension-0042",
+      "type": "MCQ_SINGLE",
+      "language": "fr",
+      "stem": "Lisez le texte suivant :\n« Chaque année, les accidents de la route font de nombreuses victimes. Pourtant, les spécialistes s'accordent à dire que la majorité de ces drames pourraient être évités. L'excès de vitesse, l'usage du téléphone au volant et le non-respect des distances de sécurité figurent parmi leurs causes les plus fréquentes. Les contrôles et les sanctions jouent certes un rôle dissuasif, mais ils ne suffisent pas à eux seuls. Il faut aussi éduquer dès le plus jeune âge et rappeler sans cesse que la route est un espace partagé, où la prudence de chacun protège la vie de tous. »\nD'après le texte, les contrôles et les sanctions :",
+      "options": [
+        {
+          "id": "a",
+          "text": "sont inutiles et devraient être supprimés"
+        },
+        {
+          "id": "b",
+          "text": "sont utiles mais ne suffisent pas à eux seuls"
+        },
+        {
+          "id": "c",
+          "text": "suffisent à faire disparaître les accidents"
+        },
+        {
+          "id": "d",
+          "text": "concernent uniquement les jeunes conducteurs"
+        }
+      ],
+      "correct": [
+        "b"
+      ],
+      "explanation": "La phrase « Les contrôles et les sanctions jouent certes un rôle dissuasif, mais ils ne suffisent pas à eux seuls » repose sur une concession : « certes » reconnaît leur utilité, « mais » en marque la limite. La proposition a ignore la première partie de la phrase et la proposition c la seconde. Le texte ne réserve les sanctions à aucune catégorie de conducteurs.",
+      "difficulty": "MEDIUM",
+      "topic_key": "fr.comprehension",
+      "objective_key": "fr.comprehension.o1",
+      "families": [
+        "*"
+      ],
+      "origin": "AI_GENERATED",
+      "source_key": null,
+      "year": null,
+      "valid_until": null,
+      "tags": [
+        "concession",
+        "securite-routiere"
+      ]
+    },
+    {
+      "id": "fr-ortho-vocab-comprehension-0043",
+      "type": "MCQ_SINGLE",
+      "language": "fr",
+      "stem": "Lisez le texte suivant :\n« Chaque année, les accidents de la route font de nombreuses victimes. Pourtant, les spécialistes s'accordent à dire que la majorité de ces drames pourraient être évités. L'excès de vitesse, l'usage du téléphone au volant et le non-respect des distances de sécurité figurent parmi leurs causes les plus fréquentes. Les contrôles et les sanctions jouent certes un rôle dissuasif, mais ils ne suffisent pas à eux seuls. Il faut aussi éduquer dès le plus jeune âge et rappeler sans cesse que la route est un espace partagé, où la prudence de chacun protège la vie de tous. »\nDans le texte, l'expression « un rôle dissuasif » signifie que les contrôles et les sanctions :",
+      "options": [
+        {
+          "id": "a",
+          "text": "incitent les conducteurs à rouler plus vite"
+        },
+        {
+          "id": "b",
+          "text": "découragent les conducteurs de commettre des infractions"
+        },
+        {
+          "id": "c",
+          "text": "informent les conducteurs sur l'état des routes"
+        },
+        {
+          "id": "d",
+          "text": "punissent uniquement les piétons"
+        }
+      ],
+      "correct": [
+        "b"
+      ],
+      "explanation": "« Dissuader », c'est détourner quelqu'un d'une action en lui en montrant les conséquences ; un rôle « dissuasif » consiste donc à décourager les comportements dangereux par la crainte du contrôle et de la sanction. La proposition a exprime l'effet inverse. Les propositions c et d n'ont aucun lien avec le sens du mot ni avec le texte.",
+      "difficulty": "MEDIUM",
+      "topic_key": "fr.comprehension",
+      "objective_key": "fr.comprehension.o1",
+      "families": [
+        "*"
+      ],
+      "origin": "AI_GENERATED",
+      "source_key": null,
+      "year": null,
+      "valid_until": null,
+      "tags": [
+        "sens-expression",
+        "securite-routiere"
+      ]
+    },
+    {
+      "id": "fr-ortho-vocab-comprehension-0044",
+      "type": "TRUE_FALSE",
+      "language": "fr",
+      "stem": "Lisez le texte suivant :\n« Chaque année, les accidents de la route font de nombreuses victimes. Pourtant, les spécialistes s'accordent à dire que la majorité de ces drames pourraient être évités. L'excès de vitesse, l'usage du téléphone au volant et le non-respect des distances de sécurité figurent parmi leurs causes les plus fréquentes. Les contrôles et les sanctions jouent certes un rôle dissuasif, mais ils ne suffisent pas à eux seuls. Il faut aussi éduquer dès le plus jeune âge et rappeler sans cesse que la route est un espace partagé, où la prudence de chacun protège la vie de tous. »\nVrai ou faux : d'après le texte, la plupart des accidents de la route sont inévitables.",
+      "options": [
+        {
+          "id": "a",
+          "text": "Vrai"
+        },
+        {
+          "id": "b",
+          "text": "Faux"
+        }
+      ],
+      "correct": [
+        "b"
+      ],
+      "explanation": "C'est faux : le texte affirme que « la majorité de ces drames pourraient être évités ». Il cite d'ailleurs des causes liées au comportement des conducteurs (vitesse, téléphone, distances de sécurité), ce qui montre que ces accidents ne relèvent pas de la fatalité. L'affirmation proposée dit donc exactement le contraire du texte.",
+      "difficulty": "EASY",
+      "topic_key": "fr.comprehension",
+      "objective_key": "fr.comprehension.o1",
+      "families": [
+        "*"
+      ],
+      "origin": "AI_GENERATED",
+      "source_key": null,
+      "year": null,
+      "valid_until": null,
+      "tags": [
+        "reperage-information",
+        "securite-routiere"
+      ]
+    },
+    {
+      "id": "fr-ortho-vocab-comprehension-0045",
+      "type": "MCQ_MULTI",
+      "language": "fr",
+      "stem": "Lisez le texte suivant :\n« Le fonctionnaire n'est pas au service d'une personne, mais de l'intérêt général. Sa mission exige impartialité, discrétion et sens des responsabilités. Accueillir un usager avec courtoisie, l'écouter et lui fournir une information exacte ne relèvent pas de la simple politesse : ce sont de véritables obligations professionnelles. L'agent qui favorise un proche ou qui divulgue des informations confidentielles trahit la confiance que les citoyens placent dans l'administration. À l'inverse, un service rendu avec équité renforce cette confiance et donne de l'État une image positive. »\nSelon le texte, quels comportements trahissent la confiance des citoyens ? (Plusieurs réponses possibles)",
+      "options": [
+        {
+          "id": "a",
+          "text": "Favoriser un proche"
+        },
+        {
+          "id": "b",
+          "text": "Divulguer des informations confidentielles"
+        },
+        {
+          "id": "c",
+          "text": "Accueillir l'usager avec courtoisie"
+        },
+        {
+          "id": "d",
+          "text": "Fournir une information exacte"
+        }
+      ],
+      "correct": [
+        "a",
+        "b"
+      ],
+      "explanation": "Le texte indique que « l'agent qui favorise un proche ou qui divulgue des informations confidentielles trahit la confiance » des citoyens. L'accueil courtois et l'information exacte sont au contraire présentés comme des « obligations professionnelles » que le bon agent doit respecter. Il ne faut donc pas confondre les devoirs cités par l'auteur avec les manquements qu'il dénonce.",
+      "difficulty": "MEDIUM",
+      "topic_key": "fr.comprehension",
+      "objective_key": "fr.comprehension.o1",
+      "families": [
+        "*"
+      ],
+      "origin": "AI_GENERATED",
+      "source_key": null,
+      "year": null,
+      "valid_until": null,
+      "tags": [
+        "reperage-information",
+        "deontologie"
+      ]
+    },
+    {
+      "id": "fr-ortho-vocab-comprehension-0046",
+      "type": "MCQ_SINGLE",
+      "language": "fr",
+      "stem": "Lisez le texte suivant :\n« Le fonctionnaire n'est pas au service d'une personne, mais de l'intérêt général. Sa mission exige impartialité, discrétion et sens des responsabilités. Accueillir un usager avec courtoisie, l'écouter et lui fournir une information exacte ne relèvent pas de la simple politesse : ce sont de véritables obligations professionnelles. L'agent qui favorise un proche ou qui divulgue des informations confidentielles trahit la confiance que les citoyens placent dans l'administration. À l'inverse, un service rendu avec équité renforce cette confiance et donne de l'État une image positive. »\nQue veut dire l'auteur lorsqu'il affirme que l'accueil courtois de l'usager « ne relève pas de la simple politesse » ?",
+      "options": [
+        {
+          "id": "a",
+          "text": "La politesse est inutile dans l'administration."
+        },
+        {
+          "id": "b",
+          "text": "Seuls les agents affectés à l'accueil doivent être polis."
+        },
+        {
+          "id": "c",
+          "text": "La courtoisie est moins importante que la discrétion."
+        },
+        {
+          "id": "d",
+          "text": "Il s'agit d'un devoir lié à la fonction, et non d'une marque de bonne éducation laissée au choix de l'agent."
+        }
+      ],
+      "correct": [
+        "d"
+      ],
+      "explanation": "L'auteur précise aussitôt : « ce sont de véritables obligations professionnelles ». Il ne nie pas l'importance de la politesse : il affirme qu'elle va au-delà d'une simple qualité personnelle et devient un devoir du fonctionnaire. La proposition a interprète à tort la négation comme un rejet de la politesse, et les propositions b et c introduisent des idées absentes du texte.",
+      "difficulty": "HARD",
+      "topic_key": "fr.comprehension",
+      "objective_key": "fr.comprehension.o1",
+      "families": [
+        "*"
+      ],
+      "origin": "AI_GENERATED",
+      "source_key": null,
+      "year": null,
+      "valid_until": null,
+      "tags": [
+        "sens-expression",
+        "implicite",
+        "deontologie"
+      ]
+    },
+    {
+      "id": "fr-ortho-vocab-comprehension-0047",
+      "type": "MCQ_SINGLE",
+      "language": "fr",
+      "stem": "Lisez le texte suivant :\n« On présente souvent le concours comme la voie la plus juste pour accéder à la fonction publique : mêmes épreuves, même jour, mêmes critères pour tous les candidats. L'argument est solide, et personne ne songe sérieusement à revenir au recrutement par simple recommandation. Encore faut-il que l'égalité proclamée ne reste pas purement formelle. Le candidat qui a pu s'offrir des cours particuliers et celui qui a révisé seul, le soir, après sa journée de travail, ne partent pas tout à fait du même point. Défendre le concours, c'est donc aussi défendre l'accès de tous à une préparation de qualité. »\nQuelle est la position de l'auteur ?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Il approuve le concours, mais estime que l'égalité qu'il promet suppose un accès équitable à la préparation."
+        },
+        {
+          "id": "b",
+          "text": "Il souhaite remplacer le concours par un recrutement sur recommandation."
+        },
+        {
+          "id": "c",
+          "text": "Il pense que le concours garantit déjà une égalité parfaite entre tous les candidats."
+        },
+        {
+          "id": "d",
+          "text": "Il demande l'interdiction des cours particuliers."
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "explanation": "L'auteur juge l'argument en faveur du concours « solide », puis apporte une réserve : l'égalité ne doit pas rester théorique, d'où sa conclusion sur « l'accès de tous à une préparation de qualité ». La proposition c ne retient que la première partie du raisonnement et ignore la réserve. La proposition b contredit le texte (« personne ne songe sérieusement » à revenir à la recommandation), et le texte ne demande nulle part d'interdire les cours particuliers.",
+      "difficulty": "HARD",
+      "topic_key": "fr.comprehension",
+      "objective_key": "fr.comprehension.o1",
+      "families": [
+        "*"
+      ],
+      "origin": "AI_GENERATED",
+      "source_key": null,
+      "year": null,
+      "valid_until": null,
+      "tags": [
+        "these",
+        "argumentation",
+        "concours"
+      ]
+    },
+    {
+      "id": "fr-ortho-vocab-comprehension-0048",
+      "type": "MCQ_SINGLE",
+      "language": "fr",
+      "stem": "Lisez le texte suivant :\n« On présente souvent le concours comme la voie la plus juste pour accéder à la fonction publique : mêmes épreuves, même jour, mêmes critères pour tous les candidats. L'argument est solide, et personne ne songe sérieusement à revenir au recrutement par simple recommandation. Encore faut-il que l'égalité proclamée ne reste pas purement formelle. Le candidat qui a pu s'offrir des cours particuliers et celui qui a révisé seul, le soir, après sa journée de travail, ne partent pas tout à fait du même point. Défendre le concours, c'est donc aussi défendre l'accès de tous à une préparation de qualité. »\nDans la phrase « Encore faut-il que l'égalité proclamée ne reste pas purement formelle », la tournure « Encore faut-il que » :",
+      "options": [
+        {
+          "id": "a",
+          "text": "marque la répétition d'une action déjà accomplie"
+        },
+        {
+          "id": "b",
+          "text": "exprime la conséquence logique de l'argument précédent"
+        },
+        {
+          "id": "c",
+          "text": "introduit une condition restrictive, une réserve sur ce qui vient d'être admis"
+        },
+        {
+          "id": "d",
+          "text": "annonce un exemple chiffré"
+        }
+      ],
+      "correct": [
+        "c"
+      ],
+      "explanation": "Placé en tête de phrase et suivi de l'inversion du sujet, « encore » ne signifie pas « de nouveau » : « Encore faut-il que » équivaut à « mais il faut au moins que », « à condition toutefois que ». L'auteur vient d'admettre la valeur du concours et pose ici une condition qui limite cette approbation. Le piège principal est le sens courant d'« encore » (répétition), qui ne convient pas dans cette construction.",
+      "difficulty": "EXPERT",
+      "topic_key": "fr.comprehension",
+      "objective_key": "fr.comprehension.o1",
+      "families": [
+        "*"
+      ],
+      "origin": "AI_GENERATED",
+      "source_key": null,
+      "year": null,
+      "valid_until": null,
+      "tags": [
+        "connecteurs",
+        "argumentation",
+        "concours"
+      ]
+    },
+    {
+      "id": "fr-ortho-vocab-comprehension-0049",
+      "type": "MCQ_SINGLE",
+      "language": "fr",
+      "stem": "Lisez le texte suivant :\n« On présente souvent le concours comme la voie la plus juste pour accéder à la fonction publique : mêmes épreuves, même jour, mêmes critères pour tous les candidats. L'argument est solide, et personne ne songe sérieusement à revenir au recrutement par simple recommandation. Encore faut-il que l'égalité proclamée ne reste pas purement formelle. Le candidat qui a pu s'offrir des cours particuliers et celui qui a révisé seul, le soir, après sa journée de travail, ne partent pas tout à fait du même point. Défendre le concours, c'est donc aussi défendre l'accès de tous à une préparation de qualité. »\nDans le texte, une égalité « purement formelle » est une égalité :",
+      "options": [
+        {
+          "id": "a",
+          "text": "conforme aux formes prescrites, et donc incontestable"
+        },
+        {
+          "id": "b",
+          "text": "réelle et vérifiée dans les faits"
+        },
+        {
+          "id": "c",
+          "text": "exigée par les formulaires de candidature"
+        },
+        {
+          "id": "d",
+          "text": "qui existe dans les règles, mais pas forcément dans la réalité des situations de chacun"
+        }
+      ],
+      "correct": [
+        "d"
+      ],
+      "explanation": "« Formel » s'oppose ici à « réel » : l'égalité est formelle lorsqu'elle est inscrite dans les règles (mêmes épreuves, même jour) sans tenir compte des inégalités de préparation. L'adverbe « purement » renforce cette idée de façade. La proposition a reprend un autre sens de « formel » (conforme aux formes), mais l'auteur ne dit pas que cette égalité est incontestable : il la critique. La proposition c joue à tort sur la ressemblance avec « formulaire ».",
+      "difficulty": "EXPERT",
+      "topic_key": "fr.comprehension",
+      "objective_key": "fr.comprehension.o1",
+      "families": [
+        "*"
+      ],
+      "origin": "AI_GENERATED",
+      "source_key": null,
+      "year": null,
+      "valid_until": null,
+      "tags": [
+        "sens-expression",
+        "polysemie",
+        "concours"
+      ]
+    },
+    {
+      "id": "fr-ortho-vocab-comprehension-0050",
+      "type": "ORDERING",
+      "language": "fr",
+      "stem": "Remettez les phrases suivantes dans l'ordre pour obtenir un paragraphe cohérent.",
+      "options": [
+        {
+          "id": "a",
+          "text": "Une fois ces conditions vérifiées, il remplit le formulaire en ligne et joint les pièces demandées."
+        },
+        {
+          "id": "b",
+          "text": "Enfin, il reçoit un accusé de réception qui confirme l'enregistrement de sa candidature."
+        },
+        {
+          "id": "c",
+          "text": "Tout d'abord, le candidat lit attentivement l'avis de concours."
+        },
+        {
+          "id": "d",
+          "text": "Il s'assure ensuite qu'il remplit bien toutes les conditions exigées."
+        }
+      ],
+      "correct": {
+        "order": [
+          "c",
+          "d",
+          "a",
+          "b"
+        ]
+      },
+      "explanation": "Le connecteur « Tout d'abord » ouvre le paragraphe (c). La phrase d, avec « ensuite », évoque la vérification des conditions, que la phrase a reprend par « Une fois ces conditions vérifiées » : d précède donc nécessairement a. « Enfin » annonce la dernière étape (b). Placer a avant d est l'erreur la plus fréquente, mais l'expression « ces conditions » dans a renvoie à des conditions déjà mentionnées.",
+      "difficulty": "MEDIUM",
+      "topic_key": "fr.comprehension",
+      "objective_key": "fr.comprehension.o1",
+      "families": [
+        "*"
+      ],
+      "origin": "AI_GENERATED",
+      "source_key": null,
+      "year": null,
+      "valid_until": null,
+      "tags": [
+        "coherence-textuelle",
+        "connecteurs"
+      ]
+    }
+  ]
+}

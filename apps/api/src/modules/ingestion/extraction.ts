@@ -155,20 +155,29 @@ export function findDates(line: string): FoundDate[] {
 
 // ───────────── Keyword tables (folded with foldForMatch) ─────────────
 
+/** Keyword tables are written naturally and folded once here (e.g. "إقصائية" → "اقصاييه"), like the text they are matched against. */
+const K = (keys: string[]): string[] => keys.map((k) => foldForMatch(k)).filter(Boolean);
+const foldKeys = <T extends { keys: string[] }>(patterns: T[]): T[] => patterns.map((p) => ({ ...p, keys: K(p.keys) }));
+/** Substring match on folded text. */
 const has = (folded: string, keys: string[]) => keys.some((k) => folded.includes(k));
+/** Whole-word(s) match on folded text. */
+const hasWord = (folded: string, keys: string[]) => keys.some((k) => ` ${folded} `.includes(` ${k} `));
+/** Word-prefix match on folded text ("epreuve" matches "epreuves"). */
+const hasPrefix = (folded: string, keys: string[]) => keys.some((k) => ` ${folded}`.includes(` ${k}`));
 
-const DEADLINE_KEYS = ['اخر اجل', 'اخر موعد', 'غلق باب الترشح', 'غلق باب التسجيل', 'date limite', 'dernier delai', 'au plus tard', 'cloture des inscriptions', 'cloture des candidatures', 'jusqu au'];
-const OPEN_KEYS = ['فتح باب الترشح', 'فتح باب التسجيل', 'بدايه من', 'ابتداء من', 'انطلاق التسجيل', 'انطلاقا من', 'ouverture des inscriptions', 'a partir du', 'inscriptions sont ouvertes', 'inscriptions ouvertes', 'debut des inscriptions'];
-const REGISTRATION_CONTEXT = ['ترشح', 'الترشح', 'الترشحات', 'التسجيل', 'تسجيل', 'الترشحات', 'inscription', 'inscriptions', 'candidature', 'candidatures'];
-const EXAM_KEYS = ['تجرى المناظره', 'اجراء المناظره', 'تجري المناظره', 'يوم الاختبار', 'تاريخ المناظره', 'تاريخ اجراء', 'الاختبارات الكتابيه يوم', 'تنطلق الاختبارات', 'تجرى الاختبارات', 'date du concours', 'date de l examen', 'aura lieu le', 'auront lieu le', 'se deroulera le', 'se derouleront le', 'date des epreuves', 'le concours aura lieu'];
-const ANNOUNCE_KEYS = ['مناظره', 'مناظرات', 'انتداب', 'concours', 'recrutement'];
+const DEADLINE_KEYS = K(['اخر اجل', 'اخر موعد', 'غلق باب الترشح', 'غلق باب التسجيل', 'date limite', 'dernier delai', 'au plus tard', 'cloture des inscriptions', 'cloture des candidatures', 'jusqu au']);
+const OPEN_KEYS = K(['فتح باب الترشح', 'فتح باب التسجيل', 'بدايه من', 'ابتداء من', 'انطلاق التسجيل', 'انطلاقا من', 'ouverture des inscriptions', 'a partir du', 'inscriptions sont ouvertes', 'inscriptions ouvertes', 'debut des inscriptions']);
+const REGISTRATION_CONTEXT = K(['ترشح', 'الترشح', 'الترشحات', 'التسجيل', 'تسجيل', 'الترشحات', 'inscription', 'inscriptions', 'candidature', 'candidatures']);
+const EXAM_KEYS = K(['تجرى المناظره', 'اجراء المناظره', 'تجري المناظره', 'يوم الاختبار', 'تاريخ المناظره', 'تاريخ اجراء', 'الاختبارات الكتابيه يوم', 'تنطلق الاختبارات', 'تجرى الاختبارات', 'date du concours', 'date de l examen', 'aura lieu le', 'auront lieu le', 'se deroulera le', 'se derouleront le', 'date des epreuves', 'le concours aura lieu']);
+const ANNOUNCE_KEYS = K(['مناظره', 'مناظرات', 'انتداب', 'concours', 'recrutement']);
 
-const AGE_CONTEXT = ['السن', 'سن', 'سنه', 'سنها', 'عمر', 'العمر', 'عمره', 'عمرها', 'age', 'ages', 'agee', 'agees', 'ans'];
+const AGE_CONTEXT = K(['السن', 'سن', 'سنه', 'سنها', 'عمر', 'العمر', 'عمره', 'عمرها', 'age', 'ages', 'agee', 'agees', 'ans']);
 
-const DIPLOMA_CONTEXT = ['شهاده', 'متحصل', 'حامل', 'حاملا', 'مستوى', 'موهل', 'diplome', 'titulaire', 'niveau', 'detenteur', 'justifier', 'justifiant'];
+const DIPLOMA_CONTEXT = K(['شهاده', 'متحصل', 'حامل', 'حاملا', 'مستوى', 'موهل', 'diplome', 'titulaire', 'niveau', 'detenteur', 'justifier', 'justifiant']);
 
 /** Ordered from most to least specific; `suppresses` removes less specific levels matched by the same words. */
-const DIPLOMA_PATTERNS: { level: DiplomaLevel; keys: string[]; suppresses?: DiplomaLevel[] }[] = [
+type DiplomaPattern = { level: DiplomaLevel; keys: string[]; suppresses?: DiplomaLevel[] };
+const DIPLOMA_PATTERNS = foldKeys<DiplomaPattern>([
   { level: 'MEDICINE', keys: ['دكتوراه في الطب', 'doctorat en medecine'], suppresses: ['DOCTORATE'] },
   { level: 'DOCTORATE', keys: ['دكتوراه', 'الدكتوراه', 'doctorat'] },
   { level: 'ENGINEER', keys: ['شهاده مهندس', 'مهندس', 'diplome d ingenieur', 'ingenieur'] },
@@ -183,9 +192,10 @@ const DIPLOMA_PATTERNS: { level: DiplomaLevel; keys: string[]; suppresses?: Dipl
   { level: 'BAC', keys: ['باكالوريا', 'الباكالوريا', 'بكالوريا', 'البكالوريا', 'baccalaureat', 'bac'] },
   { level: 'NINTH', keys: ['التاسعه اساسي', 'السنه التاسعه', '9eme annee', '9 eme annee', 'neuvieme annee'] },
   { level: 'PRIMARY', keys: ['شهاده ختم التعليم الابتدائي', 'مستوى التعليم الابتدائي', 'مستوى الابتدائي', 'certificat de fin d etudes primaires', 'niveau primaire'] },
-];
+]);
 
-const PHASE_PATTERNS: { kind: PhaseKind; keys: string[]; ar: string; fr: string }[] = [
+type PhasePattern = { kind: PhaseKind; keys: string[]; ar: string; fr: string };
+const PHASE_PATTERNS = foldKeys<PhasePattern>([
   { kind: 'WRITTEN', keys: ['اختبار كتابي', 'اختبارات كتابيه', 'الاختبارات الكتابيه', 'الاختبار الكتابي', 'epreuve ecrite', 'epreuves ecrites', 'examen ecrit'], ar: 'الاختبارات الكتابية', fr: 'Épreuves écrites' },
   { kind: 'PHYSICAL', keys: ['اختبار رياضي', 'اختبارات رياضيه', 'الاختبارات الرياضيه', 'الاختبار الرياضي', 'الاختبارات البدنيه', 'اختبار بدني', 'epreuves sportives', 'epreuve sportive', 'epreuves physiques', 'epreuve physique', 'tests physiques'], ar: 'الاختبارات الرياضية', fr: 'Épreuves sportives' },
   { kind: 'PSYCHOTECH', keys: ['نفسي تقني', 'نفسيه تقنيه', 'نفسانيه', 'psychotechnique', 'psychotechniques'], ar: 'الاختبارات النفسية التقنية', fr: 'Tests psychotechniques' },
@@ -194,10 +204,11 @@ const PHASE_PATTERNS: { kind: PhaseKind; keys: string[]; ar: string; fr: string 
   { kind: 'FILE_REVIEW', keys: ['دراسه الملفات', 'على الملفات', 'بالملفات', 'sur dossier', 'sur dossiers', 'etude des dossiers'], ar: 'دراسة الملفات', fr: 'Étude des dossiers' },
   { kind: 'INTERVIEW', keys: ['مقابله', 'entretien', 'entrevue'], ar: 'المقابلة', fr: 'Entretien' },
   { kind: 'TRAINING', keys: ['فتره تكوين', 'مرحله تكوين', 'دوره تكوينيه', 'stage de formation', 'periode de formation', 'formation initiale'], ar: 'التكوين', fr: 'Formation' },
-];
+]);
 
-const SUBJECT_CONTEXT = ['ماده', 'مواد', 'اختبار في', 'اختبار كتابي في', 'ضارب', 'epreuve de', 'epreuve d', 'coefficient', 'coef', 'matiere', 'test de', 'examen de', 'مده الاختبار', 'duree'];
-const SUBJECT_PATTERNS: { domain: Domain; keys: string[] }[] = [
+const SUBJECT_CONTEXT = K(['ماده', 'مواد', 'اختبار في', 'اختبار كتابي في', 'ضارب', 'epreuve de', 'epreuve d', 'coefficient', 'coef', 'matiere', 'test de', 'examen de', 'مده الاختبار', 'duree']);
+type SubjectPattern = { domain: Domain; keys: string[] };
+const SUBJECT_PATTERNS = foldKeys<SubjectPattern>([
   { domain: 'CULTURE_GENERALE', keys: ['الثقافه العامه', 'ثقافه عامه', 'culture generale'] },
   { domain: 'ARABIC', keys: ['اللغه العربيه', 'العربيه', 'langue arabe', 'arabe'] },
   { domain: 'FRENCH', keys: ['اللغه الفرنسيه', 'الفرنسيه', 'langue francaise', 'francais'] },
@@ -206,16 +217,30 @@ const SUBJECT_PATTERNS: { domain: Domain; keys: string[] }[] = [
   { domain: 'NUMERICAL', keys: ['الرياضيات', 'الحساب', 'mathematiques', 'calcul'] },
   { domain: 'PSYCHOTECH', keys: ['نفسي تقني', 'psychotechnique'] },
   { domain: 'SPECIALTY', keys: ['الاختصاص', 'specialite', 'technique professionnelle'] },
-];
+]);
 
-const DOC_SECTION_HEADERS = ['الوثائق المطلوبه', 'ملف الترشح', 'يتكون ملف', 'يحتوي ملف', 'الوثائق التاليه', 'pieces a fournir', 'dossier de candidature', 'documents a fournir', 'pieces constitutives', 'le dossier comprend', 'documents requis', 'composition du dossier'];
-const DOC_KEYS = [
+const DOC_SECTION_HEADERS = K(['الوثائق المطلوبه', 'ملف الترشح', 'يتكون ملف', 'يحتوي ملف', 'الوثائق التاليه', 'pieces a fournir', 'dossier de candidature', 'documents a fournir', 'pieces constitutives', 'le dossier comprend', 'documents requis', 'composition du dossier']);
+const DOC_KEYS = K([
   'نسخه من', 'مضمون ولاده', 'شهاده طبيه', 'بطاقه التعريف', 'صور شمسيه', 'صورتين شمسيتين', 'البطاقه عدد 3', 'بطاقه عدد 3', 'ظرف', 'ظروف خالصه',
   'مطلب كتابي', 'مطلب ترشح', 'استماره', 'شهاده في الخدمه', 'شهاده عمل', 'سيره ذاتيه',
   'copie', 'extrait de naissance', 'bulletin n 3', 'certificat medical', 'photos d identite', 'photo d identite', 'enveloppe',
   'curriculum vitae', 'demande manuscrite', 'fiche de candidature', 'attestation de',
-];
-const SECTION_BREAK_KEYS = ['شروط', 'الاختبارات', 'تجرى', 'conditions', 'epreuves', 'deroulement', 'modalites'];
+]);
+const SECTION_BREAK_KEYS = K(['شروط', 'الاختبارات', 'تجرى', 'conditions', 'epreuves', 'deroulement', 'modalites']);
+
+const POSITION_CONTEXT = K(['انتداب', 'خطة', 'خطط', 'recrutement', 'poste', 'postes', 'places']);
+const HEIGHT_CONTEXT = K(['طول', 'القامة', 'taille']);
+const GENDER_BOTH = K(['ذكورا وإناثا', 'ذكور وإناث', 'للجنسين', 'deux sexes', 'candidats et candidates']);
+const GENDER_M = K(['للذكور فقط', 'ذكور فقط', 'sexe masculin']);
+const GENDER_F = K(['للإناث فقط', 'إناث فقط', 'sexe féminin']);
+const NATIONALITY_TN = K(['تونسي الجنسية', 'الجنسية التونسية', 'تونسيا', 'nationalité tunisienne']);
+const SINGLE_KEYS = K(['أعزب', 'عزباء', 'غير متزوج', 'غير متزوجة', 'célibataire']);
+const OTHER_ELIGIBILITY = K([
+  'حقوقه المدنية', 'بحقوقه المدنية', 'droits civiques', 'droits civils', 'الخدمة الوطنية', 'service national', 'اللياقة البدنية',
+  'aptitude physique', 'السوابق العدلية', 'casier judiciaire vierge', 'حسن السيرة', 'bonne moralité',
+]);
+const TEST_WORDS = K(['اختبار', 'épreuve']);
+const ELIMINATORY = K(['إقصائي', 'إقصائية', 'éliminatoire']);
 
 const BULLET = /^\s*(?:[-–—•·*▪●◦]|\(?[0-9٠-٩]{1,2}\s*[).\-–]|\(?[a-zA-Zء-ي]\s*[).]\s)/;
 
@@ -311,8 +336,10 @@ function extractEdition(lines: Line[]): EditionProposal[] {
       const s = /(دورة\s+[^\d\n،,.]{2,25}\s*\d{4}|session\s+(?:de\s+|d[’']\s*)?[a-zà-ÿ]+\s+\d{4})/i.exec(toAsciiDigits(l.raw));
       if (s) session = s[1].trim();
     }
-    if (positions === null && (has(l.folded, ['انتداب', 'خطه', 'خطط', 'recrutement', 'poste', 'postes', 'places']))) {
-      const p = /(?<![\d/.-])(\d{1,5})\s*(?:خطة|خطط|خطه|مركز|مراكز|منصب|مناصب|عونا|عون|أعوان|اعوان|ملازما|ملازم|مهندسا|postes?|places?|agents?|candidats? à recruter)(?![\p{L}])/iu.exec(toAsciiDigits(l.raw));
+    if (positions === null && has(l.folded, POSITION_CONTEXT)) {
+      const ascii = toAsciiDigits(l.raw);
+      const p = /(?:لانتداب|انتداب|الانتداب|recrutement\s+de|recruter|recrute)\s+(\d{1,5})(?!\d|[/.-]\d)/iu.exec(ascii)
+        ?? /(?<![\d/.-])(\d{1,5})\s*(?:خطة|خطط|مركز|مراكز|منصب|مناصب|عونا|عون|أعوان|اعوان|ملازما|ملازم|رقيبا|رقيب|عريفا|عريف|مهندسا|postes?|places?|agents?)(?![\p{L}])/iu.exec(ascii);
       if (p && +p[1] > 0) { positions = +p[1]; fields.positions_count = { source_quote: l.raw, page: l.page }; primary ??= l; }
     }
   }
@@ -327,7 +354,7 @@ function extractEdition(lines: Line[]): EditionProposal[] {
 
 function extractAges(l: Line, el: EligibilityProposal): void {
   const f = ` ${l.folded} `;
-  if (!AGE_CONTEXT.some((k) => f.includes(` ${k} `))) return;
+  if (!hasWord(f, AGE_CONTEXT)) return;
   if (!/\d{2} (?:سنه|سنوات|عاما|ans|an)(?![\p{L}])/u.test(f) && !/(?:بين|entre|de) \d{2} (?:و|et|a) ?\d{2}/.test(f)) return;
   const valid = (n: number) => n >= 15 && n <= 70;
   const set = (key: 'min_age' | 'max_age', n: number) => {
@@ -377,7 +404,7 @@ function extractDiplomas(l: Line, el: EligibilityProposal): void {
 }
 
 function extractHeights(l: Line, el: EligibilityProposal): void {
-  if (!has(l.folded, ['طول', 'القامه', 'taille'])) return;
+  if (!hasPrefix(l.folded, HEIGHT_CONTEXT)) return;
   const s = toAsciiDigits(l.raw);
   const measures: { cm: number; index: number }[] = [];
   for (const m of s.matchAll(/(?<!\d)([12])[.,](\d{2})\s*(?:م|متر|m)(?![\p{L}])/giu)) measures.push({ cm: +m[1] * 100 + +m[2], index: m.index ?? 0 });
@@ -418,17 +445,17 @@ function extractEligibilityLine(l: Line, el: EligibilityProposal): void {
   extractHeights(l, el);
 
   if (!el.genders) {
-    if (has(f, [' ذكورا واناثا ', ' ذكور واناث ', ' للجنسين ', ' deux sexes ', ' candidats et candidates '])) el.genders = { value: ['M', 'F'], ...q(l) };
-    else if (has(f, [' للذكور فقط ', ' ذكور فقط ', ' sexe masculin '])) el.genders = { value: ['M'], ...q(l) };
-    else if (has(f, [' للاناث فقط ', ' اناث فقط ', ' sexe feminin '])) el.genders = { value: ['F'], ...q(l) };
+    if (hasWord(f, GENDER_BOTH)) el.genders = { value: ['M', 'F'], ...q(l) };
+    else if (hasWord(f, GENDER_M)) el.genders = { value: ['M'], ...q(l) };
+    else if (hasWord(f, GENDER_F)) el.genders = { value: ['F'], ...q(l) };
   }
-  if (!el.nationality && has(f, [' تونسي الجنسيه ', ' الجنسيه التونسيه ', ' تونسيا ', ' nationalite tunisienne '])) {
+  if (!el.nationality && hasWord(f, NATIONALITY_TN)) {
     el.nationality = { value: 'TN', ...q(l) };
   }
-  if (!el.marital_status && has(f, [' اعزب ', ' عزباء ', ' غير متزوج ', ' غير متزوجه ', ' celibataire '])) {
+  if (!el.marital_status && hasWord(f, SINGLE_KEYS)) {
     el.marital_status = { value: 'SINGLE', ...q(l) };
   }
-  if (has(f, [' حقوقه المدنيه ', ' بحقوقه المدنيه ', ' droits civiques ', ' droits civils ', ' الخدمه الوطنيه ', ' service national ', ' اللياقه البدنيه ', ' aptitude physique ', ' السوابق العدليه ', ' casier judiciaire vierge ', ' حسن السيره ', ' bonne moralite '])) {
+  if (hasWord(f, OTHER_ELIGIBILITY)) {
     const text = stripBullet(l.raw);
     if (!el.other.some((o) => o.text === text)) el.other.push({ text, ...q(l) });
   }
@@ -440,10 +467,14 @@ function extractPhasesAndSubjects(lines: Line[]): { phases: PhaseProposal[]; sub
   let currentPhaseOrder: number | null = null;
   for (const l of lines) {
     const f = ` ${l.folded} `;
-    if (DOC_KEYS.some((k) => f.includes(` ${k} `)) && !has(f, [' اختبار', ' epreuve'])) continue;
+    if (DOC_KEYS.some((k) => f.includes(` ${k} `)) && !hasPrefix(f, TEST_WORDS)) continue;
     const lang = lineLang(l.raw);
+    const kindsOnLine = new Set<PhaseKind>();
     for (const p of PHASE_PATTERNS) {
       if (!p.keys.some((k) => f.includes(` ${k} `))) continue;
+      // "épreuve orale (entretien)" is one phase, not two.
+      if (p.kind === 'INTERVIEW' && kindsOnLine.has('ORAL')) continue;
+      kindsOnLine.add(p.kind);
       const existing = phases.find((x) => x.kind === p.kind);
       if (existing) {
         if (p.kind === 'WRITTEN' || p.kind === 'ORAL') currentPhaseOrder = existing.order;
@@ -452,7 +483,7 @@ function extractPhasesAndSubjects(lines: Line[]): { phases: PhaseProposal[]; sub
       const order = phases.length + 1;
       phases.push({
         order, kind: p.kind, name: lang === 'ar' ? p.ar : p.fr,
-        is_eliminatory: has(f, [' اقصائي', ' اقصائيه', ' eliminatoire', ' eliminatoires']) ? true : null,
+        is_eliminatory: hasPrefix(f, ELIMINATORY) ? true : null,
         duration_minutes: p.kind === 'WRITTEN' || p.kind === 'ORAL' ? null : parseDurationMinutes(l.raw),
         ...q(l),
       });

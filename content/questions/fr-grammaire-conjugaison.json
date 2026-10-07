@@ -1,0 +1,2132 @@
+{
+  "bank": "fr-grammaire-conjugaison",
+  "domain": "FRENCH",
+  "specialty_syllabus": [],
+  "questions": [
+    {
+      "id": "fr-grammaire-conjugaison-0001",
+      "type": "MCQ_SINGLE",
+      "language": "fr",
+      "stem": "Complétez : « Les candidates se sont ___ à l'heure au centre d'examen. »",
+      "options": [
+        {
+          "id": "a",
+          "text": "présentées"
+        },
+        {
+          "id": "b",
+          "text": "présenté"
+        },
+        {
+          "id": "c",
+          "text": "présentée"
+        },
+        {
+          "id": "d",
+          "text": "présentés"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "explanation": "« Se présenter » est ici un verbe pronominal réfléchi : le pronom « se » (mis pour « les candidates ») est complément d'objet direct placé avant le verbe. Le participe passé s'accorde donc avec le sujet, féminin pluriel : « présentées ». La forme « présenté » serait celle d'un participe sans COD antéposé, ce qui n'est pas le cas ici.",
+      "difficulty": "EASY",
+      "topic_key": "fr.grammaire",
+      "objective_key": "fr.grammaire.o1",
+      "families": [
+        "*"
+      ],
+      "origin": "AI_GENERATED",
+      "source_key": null,
+      "year": null,
+      "valid_until": null,
+      "tags": [
+        "participe passé",
+        "verbes pronominaux"
+      ]
+    },
+    {
+      "id": "fr-grammaire-conjugaison-0002",
+      "type": "MCQ_SINGLE",
+      "language": "fr",
+      "stem": "Complétez : « Chacun des candidats ___ remettre sa copie avant midi. »",
+      "options": [
+        {
+          "id": "a",
+          "text": "doivent"
+        },
+        {
+          "id": "b",
+          "text": "doit"
+        },
+        {
+          "id": "c",
+          "text": "devons"
+        },
+        {
+          "id": "d",
+          "text": "devez"
+        }
+      ],
+      "correct": [
+        "b"
+      ],
+      "explanation": "Le sujet du verbe est le pronom indéfini « chacun », qui est toujours singulier : le verbe se conjugue donc à la 3e personne du singulier, « doit ». Le complément « des candidats » est au pluriel, mais il ne commande pas l'accord ; c'est ce qui pousse à tort vers « doivent ». Le possessif « sa » confirme d'ailleurs le singulier.",
+      "difficulty": "EASY",
+      "topic_key": "fr.grammaire",
+      "objective_key": "fr.grammaire.o1",
+      "families": [
+        "*"
+      ],
+      "origin": "AI_GENERATED",
+      "source_key": null,
+      "year": null,
+      "valid_until": null,
+      "tags": [
+        "accord sujet-verbe",
+        "chacun"
+      ]
+    },
+    {
+      "id": "fr-grammaire-conjugaison-0003",
+      "type": "MCQ_SINGLE",
+      "language": "fr",
+      "stem": "Quelle phrase est correctement écrite ?",
+      "options": [
+        {
+          "id": "a",
+          "text": "La plupart des candidats a réussi l'épreuve écrite."
+        },
+        {
+          "id": "b",
+          "text": "La plupart des candidats ont réussi l'épreuve écrite."
+        },
+        {
+          "id": "c",
+          "text": "La plupart des candidats ont réussis l'épreuve écrite."
+        },
+        {
+          "id": "d",
+          "text": "La plupart des candidats a réussis l'épreuve écrite."
+        }
+      ],
+      "correct": [
+        "b"
+      ],
+      "explanation": "Après « la plupart », le verbe s'accorde avec le complément (ici « des candidats ») et se met donc au pluriel : « ont ». Le participe passé employé avec « avoir » ne s'accorde pas avec le sujet ; son COD « l'épreuve écrite » est placé après, donc « réussi » reste invariable. Les options c et d accordent à tort le participe avec le sujet.",
+      "difficulty": "EASY",
+      "topic_key": "fr.grammaire",
+      "objective_key": "fr.grammaire.o1",
+      "families": [
+        "*"
+      ],
+      "origin": "AI_GENERATED",
+      "source_key": null,
+      "year": null,
+      "valid_until": null,
+      "tags": [
+        "accord sujet-verbe",
+        "la plupart",
+        "participe passé"
+      ]
+    },
+    {
+      "id": "fr-grammaire-conjugaison-0004",
+      "type": "MCQ_SINGLE",
+      "language": "fr",
+      "stem": "Complétez : « Les décisions que le ministre a ___ ont été publiées hier. »",
+      "options": [
+        {
+          "id": "a",
+          "text": "signés"
+        },
+        {
+          "id": "b",
+          "text": "signée"
+        },
+        {
+          "id": "c",
+          "text": "signées"
+        },
+        {
+          "id": "d",
+          "text": "signé"
+        }
+      ],
+      "correct": [
+        "c"
+      ],
+      "explanation": "Avec l'auxiliaire « avoir », le participe passé s'accorde avec le complément d'objet direct lorsque celui-ci est placé avant le verbe. Ici, le COD est le pronom relatif « que », mis pour « les décisions » (féminin pluriel) : on écrit « signées ». La forme « signé » ne conviendrait que si le COD était placé après le verbe (« le ministre a signé les décisions »).",
+      "difficulty": "EASY",
+      "topic_key": "fr.grammaire",
+      "objective_key": "fr.grammaire.o1",
+      "families": [
+        "*"
+      ],
+      "origin": "AI_GENERATED",
+      "source_key": null,
+      "year": null,
+      "valid_until": null,
+      "tags": [
+        "participe passé",
+        "auxiliaire avoir",
+        "COD antéposé"
+      ]
+    },
+    {
+      "id": "fr-grammaire-conjugaison-0005",
+      "type": "MCQ_SINGLE",
+      "language": "fr",
+      "stem": "Complétez : « Les agents d'accueil portaient des vestes ___. »",
+      "options": [
+        {
+          "id": "a",
+          "text": "marronnes"
+        },
+        {
+          "id": "b",
+          "text": "marronne"
+        },
+        {
+          "id": "c",
+          "text": "marrons"
+        },
+        {
+          "id": "d",
+          "text": "marron"
+        }
+      ],
+      "correct": [
+        "d"
+      ],
+      "explanation": "« Marron » est à l'origine un nom (le fruit) employé comme adjectif de couleur : il reste invariable, comme « orange », « olive » ou « crème ». On écrit donc « des vestes marron ». Le distracteur « marrons » applique à tort la règle des adjectifs de couleur simples (« des vestes vertes ») ; seuls quelques noms comme « rose », « mauve » ou « fauve » font exception et s'accordent.",
+      "difficulty": "MEDIUM",
+      "topic_key": "fr.grammaire",
+      "objective_key": "fr.grammaire.o1",
+      "families": [
+        "*"
+      ],
+      "origin": "AI_GENERATED",
+      "source_key": null,
+      "year": null,
+      "valid_until": null,
+      "tags": [
+        "adjectif de couleur",
+        "accord de l'adjectif"
+      ]
+    },
+    {
+      "id": "fr-grammaire-conjugaison-0006",
+      "type": "MCQ_SINGLE",
+      "language": "fr",
+      "stem": "Complétez : « L'épreuve de français dure deux heures et ___. »",
+      "options": [
+        {
+          "id": "a",
+          "text": "demie"
+        },
+        {
+          "id": "b",
+          "text": "demis"
+        },
+        {
+          "id": "c",
+          "text": "demies"
+        },
+        {
+          "id": "d",
+          "text": "demi"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "explanation": "Placé après le nom et relié par « et », « demi » s'accorde en genre seulement avec ce nom : « heures » est féminin, d'où « demie ». Il ne prend jamais la marque du pluriel dans cette position, car il s'agit d'une seule moitié d'heure : « demies » est donc fautif. Placé devant le nom avec un trait d'union, il reste invariable (« une demi-heure »).",
+      "difficulty": "MEDIUM",
+      "topic_key": "fr.grammaire",
+      "objective_key": "fr.grammaire.o1",
+      "families": [
+        "*"
+      ],
+      "origin": "AI_GENERATED",
+      "source_key": null,
+      "year": null,
+      "valid_until": null,
+      "tags": [
+        "demi",
+        "accord de l'adjectif"
+      ]
+    },
+    {
+      "id": "fr-grammaire-conjugaison-0007",
+      "type": "MCQ_MULTI",
+      "language": "fr",
+      "stem": "Parmi les écritures suivantes, lesquelles sont correctes ?",
+      "options": [
+        {
+          "id": "a",
+          "text": "quatre-vingts candidats"
+        },
+        {
+          "id": "b",
+          "text": "deux cent cinquante postes"
+        },
+        {
+          "id": "c",
+          "text": "trois cent agents"
+        },
+        {
+          "id": "d",
+          "text": "quatre-vingts-deux dossiers"
+        }
+      ],
+      "correct": [
+        "a",
+        "b"
+      ],
+      "explanation": "« Vingt » et « cent » prennent un « s » lorsqu'ils sont multipliés et qu'ils terminent le nombre : « quatre-vingts », « trois cents ». Ils restent invariables lorsqu'ils sont suivis d'un autre nombre : « deux cent cinquante », « quatre-vingt-deux ». L'option c est donc fautive (il faut « trois cents agents ») et l'option d aussi (il faut « quatre-vingt-deux »). Les rectifications de 1990 autorisent les traits d'union partout (« deux-cent-cinquante ») sans modifier ces règles d'accord.",
+      "difficulty": "MEDIUM",
+      "topic_key": "fr.grammaire",
+      "objective_key": "fr.grammaire.o1",
+      "families": [
+        "*"
+      ],
+      "origin": "AI_GENERATED",
+      "source_key": null,
+      "year": null,
+      "valid_until": null,
+      "tags": [
+        "adjectifs numéraux",
+        "vingt",
+        "cent"
+      ]
+    },
+    {
+      "id": "fr-grammaire-conjugaison-0008",
+      "type": "TRUE_FALSE",
+      "language": "fr",
+      "stem": "Vrai ou faux : dans la phrase « Les deux responsables se sont téléphoné toute la matinée », le participe passé « téléphoné » est correctement orthographié.",
+      "options": [
+        {
+          "id": "a",
+          "text": "Vrai"
+        },
+        {
+          "id": "b",
+          "text": "Faux"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "explanation": "On téléphone « à » quelqu'un : le pronom « se » est donc complément d'objet indirect et non COD. En l'absence de COD placé avant, le participe passé reste invariable : « ils se sont téléphoné ». Il en va de même pour « se parler », « se sourire », « se succéder » ou « se nuire ». L'erreur fréquente consiste à accorder systématiquement avec le sujet dès qu'on voit l'auxiliaire « être ».",
+      "difficulty": "MEDIUM",
+      "topic_key": "fr.grammaire",
+      "objective_key": "fr.grammaire.o1",
+      "families": [
+        "*"
+      ],
+      "origin": "AI_GENERATED",
+      "source_key": null,
+      "year": null,
+      "valid_until": null,
+      "tags": [
+        "participe passé",
+        "verbes pronominaux",
+        "COI"
+      ]
+    },
+    {
+      "id": "fr-grammaire-conjugaison-0009",
+      "type": "NUMERIC",
+      "language": "fr",
+      "stem": "Dans la phrase suivante, combien des participes passés placés entre parenthèses doivent s'écrire au pluriel ? « Les candidates (arrivé) en retard ont (présenté) leurs excuses ; les excuses qu'elles ont (formulé) ont été (accepté) par le jury, qui a (examiné) chaque situation. »",
+      "options": [],
+      "correct": {
+        "value": 3,
+        "tolerance": 0
+      },
+      "explanation": "Trois participes prennent la marque du pluriel : « arrivées » (participe employé sans auxiliaire, accordé avec « candidates »), « formulées » (COD « qu' », mis pour « les excuses », placé avant l'auxiliaire « avoir ») et « acceptées » (auxiliaire « être », accord avec le sujet « les excuses »). En revanche, « présenté » et « examiné » restent invariables : leurs COD (« leurs excuses », « chaque situation ») sont placés après le verbe.",
+      "difficulty": "MEDIUM",
+      "topic_key": "fr.grammaire",
+      "objective_key": "fr.grammaire.o1",
+      "families": [
+        "*"
+      ],
+      "origin": "AI_GENERATED",
+      "source_key": null,
+      "year": null,
+      "valid_until": null,
+      "tags": [
+        "participe passé",
+        "analyse de phrase"
+      ]
+    },
+    {
+      "id": "fr-grammaire-conjugaison-0010",
+      "type": "MCQ_MULTI",
+      "language": "fr",
+      "stem": "Parmi les phrases suivantes, lesquelles sont correctement orthographiées ?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Plusieurs directeurs se sont succédé à la tête de l'établissement."
+        },
+        {
+          "id": "b",
+          "text": "Les notes qu'il a obtenu sont excellentes."
+        },
+        {
+          "id": "c",
+          "text": "Les candidates se sont rendu compte de leur erreur."
+        },
+        {
+          "id": "d",
+          "text": "Ils se sont aperçu de leur erreur trop tard."
+        }
+      ],
+      "correct": [
+        "a",
+        "c"
+      ],
+      "explanation": "En a, on succède « à » quelqu'un : « se » est COI, donc « succédé » reste invariable. En c, le COD de « rendre » est « compte », placé après : « rendu » reste invariable. En b, le COD « qu' » (= les notes) est placé avant l'auxiliaire « avoir » : il faut « obtenues ». En d, « s'apercevoir de » est un pronominal dont le pronom n'a pas de fonction analysable : le participe s'accorde avec le sujet, « ils se sont aperçus ».",
+      "difficulty": "HARD",
+      "topic_key": "fr.grammaire",
+      "objective_key": "fr.grammaire.o1",
+      "families": [
+        "*"
+      ],
+      "origin": "AI_GENERATED",
+      "source_key": null,
+      "year": null,
+      "valid_until": null,
+      "tags": [
+        "participe passé",
+        "verbes pronominaux"
+      ]
+    },
+    {
+      "id": "fr-grammaire-conjugaison-0011",
+      "type": "MCQ_SINGLE",
+      "language": "fr",
+      "stem": "Complétez : « La lauréate était ___ émue en recevant son attestation de réussite. »",
+      "options": [
+        {
+          "id": "a",
+          "text": "touts"
+        },
+        {
+          "id": "b",
+          "text": "tout"
+        },
+        {
+          "id": "c",
+          "text": "toute"
+        },
+        {
+          "id": "d",
+          "text": "toutes"
+        }
+      ],
+      "correct": [
+        "b"
+      ],
+      "explanation": "Devant un adjectif, « tout » est un adverbe signifiant « tout à fait » ; il est invariable, sauf devant un adjectif féminin commençant par une consonne ou un h aspiré, où il s'accorde pour l'euphonie (« toute contente », « toute honteuse »). « Émue » commence par une voyelle : on écrit donc « tout émue ». Le distracteur « toute » applique à tort l'exception réservée aux adjectifs à initiale consonantique.",
+      "difficulty": "HARD",
+      "topic_key": "fr.grammaire",
+      "objective_key": "fr.grammaire.o1",
+      "families": [
+        "*"
+      ],
+      "origin": "AI_GENERATED",
+      "source_key": null,
+      "year": null,
+      "valid_until": null,
+      "tags": [
+        "tout",
+        "adverbe",
+        "accord"
+      ]
+    },
+    {
+      "id": "fr-grammaire-conjugaison-0012",
+      "type": "MCQ_SINGLE",
+      "language": "fr",
+      "stem": "Complétez : « Les efforts que cette préparation m'a ___ ont fini par être récompensés. »",
+      "options": [
+        {
+          "id": "a",
+          "text": "coûté"
+        },
+        {
+          "id": "b",
+          "text": "coûtée"
+        },
+        {
+          "id": "c",
+          "text": "coûtés"
+        },
+        {
+          "id": "d",
+          "text": "coûtées"
+        }
+      ],
+      "correct": [
+        "c"
+      ],
+      "explanation": "Au sens figuré (« causer, occasionner »), « coûter » est transitif : le pronom relatif « que », mis pour « les efforts », est un COD placé avant l'auxiliaire « avoir », d'où l'accord « coûtés ». Au sens propre (le prix), « que » n'est qu'un complément de mesure et le participe reste invariable : « les cent dinars que ce manuel m'a coûté ». Le distracteur « coûté » applique donc à tort la règle du sens propre.",
+      "difficulty": "EXPERT",
+      "topic_key": "fr.grammaire",
+      "objective_key": "fr.grammaire.o1",
+      "families": [
+        "*"
+      ],
+      "origin": "AI_GENERATED",
+      "source_key": null,
+      "year": null,
+      "valid_until": null,
+      "tags": [
+        "participe passé",
+        "coûter",
+        "valoir",
+        "complément de mesure"
+      ]
+    },
+    {
+      "id": "fr-grammaire-conjugaison-0013",
+      "type": "MCQ_SINGLE",
+      "language": "fr",
+      "stem": "Quelle phrase respecte la règle d'accord de « ci-joint » ?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Ci-jointe la copie de mon diplôme."
+        },
+        {
+          "id": "b",
+          "text": "Veuillez trouver les pièces justificatives ci-joint."
+        },
+        {
+          "id": "c",
+          "text": "Ci-joint la copie de mon diplôme."
+        },
+        {
+          "id": "d",
+          "text": "Les factures ci-joint sont à régler avant la fin du mois."
+        }
+      ],
+      "correct": [
+        "c"
+      ],
+      "explanation": "« Ci-joint » est invariable lorsqu'il est placé en tête de phrase (ou devant un nom sans déterminant) : « Ci-joint la copie de mon diplôme ». Placé après le nom auquel il se rapporte, il a la valeur d'un adjectif et s'accorde : il fallait écrire « les pièces justificatives ci-jointes » et « les factures ci-jointes ». L'option a accorde à tort un « ci-joint » placé en tête de phrase.",
+      "difficulty": "EXPERT",
+      "topic_key": "fr.grammaire",
+      "objective_key": "fr.grammaire.o1",
+      "families": [
+        "*"
+      ],
+      "origin": "AI_GENERATED",
+      "source_key": null,
+      "year": null,
+      "valid_until": null,
+      "tags": [
+        "ci-joint",
+        "correspondance administrative",
+        "accord"
+      ]
+    },
+    {
+      "id": "fr-grammaire-conjugaison-0014",
+      "type": "MCQ_SINGLE",
+      "language": "fr",
+      "stem": "Complétez : « Le dossier ___ je vous ai parlé est incomplet. »",
+      "options": [
+        {
+          "id": "a",
+          "text": "où"
+        },
+        {
+          "id": "b",
+          "text": "lequel"
+        },
+        {
+          "id": "c",
+          "text": "que"
+        },
+        {
+          "id": "d",
+          "text": "dont"
+        }
+      ],
+      "correct": [
+        "d"
+      ],
+      "explanation": "On dit « parler de quelque chose » : le pronom relatif doit donc remplacer un complément introduit par « de », ce qui est le rôle de « dont ». « Que » remplace un complément d'objet direct, ce que n'est pas « le dossier » par rapport à « parler ». « Où » exprime le lieu ou le temps, et « lequel » sans préposition ne convient pas ici.",
+      "difficulty": "EASY",
+      "topic_key": "fr.grammaire",
+      "objective_key": "fr.grammaire.o2",
+      "families": [
+        "*"
+      ],
+      "origin": "AI_GENERATED",
+      "source_key": null,
+      "year": null,
+      "valid_until": null,
+      "tags": [
+        "pronom relatif",
+        "dont"
+      ]
+    },
+    {
+      "id": "fr-grammaire-conjugaison-0015",
+      "type": "MCQ_SINGLE",
+      "language": "fr",
+      "stem": "Complétez : « Ce candidat a obtenu sa licence ___ Tunisie avant de s'installer ___ Sousse. »",
+      "options": [
+        {
+          "id": "a",
+          "text": "en / à"
+        },
+        {
+          "id": "b",
+          "text": "au / en"
+        },
+        {
+          "id": "c",
+          "text": "à / à"
+        },
+        {
+          "id": "d",
+          "text": "en / en"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "explanation": "Devant un nom de pays féminin (la Tunisie, la France), on emploie « en » ; devant un nom de ville sans article, on emploie « à ». On écrit donc « en Tunisie » et « à Sousse ». « Au » s'utilise devant les pays masculins commençant par une consonne (« au Maroc », « au Canada ») et ne convient pas ici.",
+      "difficulty": "EASY",
+      "topic_key": "fr.grammaire",
+      "objective_key": "fr.grammaire.o2",
+      "families": [
+        "*"
+      ],
+      "origin": "AI_GENERATED",
+      "source_key": null,
+      "year": null,
+      "valid_until": null,
+      "tags": [
+        "prépositions",
+        "noms de lieux"
+      ]
+    },
+    {
+      "id": "fr-grammaire-conjugaison-0016",
+      "type": "MCQ_SINGLE",
+      "language": "fr",
+      "stem": "Complétez la réponse : « Avez-vous écrit au directeur régional ? — Oui, je ___ ai écrit hier. »",
+      "options": [
+        {
+          "id": "a",
+          "text": "l'"
+        },
+        {
+          "id": "b",
+          "text": "lui"
+        },
+        {
+          "id": "c",
+          "text": "leur"
+        },
+        {
+          "id": "d",
+          "text": "y"
+        }
+      ],
+      "correct": [
+        "b"
+      ],
+      "explanation": "On écrit « à » quelqu'un : « au directeur régional » est un complément d'objet indirect désignant une seule personne, que l'on remplace par « lui ». « L' » remplacerait un COD, « leur » un COI au pluriel, et « y » remplace en principe un complément désignant une chose ou un lieu.",
+      "difficulty": "EASY",
+      "topic_key": "fr.grammaire",
+      "objective_key": "fr.grammaire.o2",
+      "families": [
+        "*"
+      ],
+      "origin": "AI_GENERATED",
+      "source_key": null,
+      "year": null,
+      "valid_until": null,
+      "tags": [
+        "pronoms personnels",
+        "COI"
+      ]
+    },
+    {
+      "id": "fr-grammaire-conjugaison-0017",
+      "type": "MCQ_SINGLE",
+      "language": "fr",
+      "stem": "Quel est le type de la phrase « Veuillez remettre votre copie au surveillant avant de quitter la salle. » ?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Déclaratif"
+        },
+        {
+          "id": "b",
+          "text": "Interrogatif"
+        },
+        {
+          "id": "c",
+          "text": "Injonctif (impératif)"
+        },
+        {
+          "id": "d",
+          "text": "Exclamatif"
+        }
+      ],
+      "correct": [
+        "c"
+      ],
+      "explanation": "La phrase exprime une consigne adressée à quelqu'un, au moyen du verbe « vouloir » à l'impératif (« veuillez ») : c'est une phrase injonctive (ou impérative). Elle ne se contente pas de transmettre une information comme une phrase déclarative. Elle ne pose pas de question et ne traduit pas une émotion marquée par un point d'exclamation.",
+      "difficulty": "EASY",
+      "topic_key": "fr.grammaire",
+      "objective_key": "fr.grammaire.o2",
+      "families": [
+        "*"
+      ],
+      "origin": "AI_GENERATED",
+      "source_key": null,
+      "year": null,
+      "valid_until": null,
+      "tags": [
+        "types de phrases",
+        "impératif"
+      ]
+    },
+    {
+      "id": "fr-grammaire-conjugaison-0018",
+      "type": "MCQ_SINGLE",
+      "language": "fr",
+      "stem": "Complétez la réponse : « Pensez-vous à préparer votre dossier ? — Oui, j'___ pense. »",
+      "options": [
+        {
+          "id": "a",
+          "text": "le"
+        },
+        {
+          "id": "b",
+          "text": "lui"
+        },
+        {
+          "id": "c",
+          "text": "en"
+        },
+        {
+          "id": "d",
+          "text": "y"
+        }
+      ],
+      "correct": [
+        "d"
+      ],
+      "explanation": "Le verbe « penser » se construit avec « à » ; lorsque le complément désigne une chose ou une action, il est remplacé par « y » : « j'y pense ». « En » remplace un complément introduit par « de » (« j'en parle »). Quand il s'agit d'une personne, on ne dit pas « je lui pense » mais « je pense à lui », avec un pronom tonique après la préposition.",
+      "difficulty": "MEDIUM",
+      "topic_key": "fr.grammaire",
+      "objective_key": "fr.grammaire.o2",
+      "families": [
+        "*"
+      ],
+      "origin": "AI_GENERATED",
+      "source_key": null,
+      "year": null,
+      "valid_until": null,
+      "tags": [
+        "pronoms adverbiaux",
+        "y",
+        "en"
+      ]
+    },
+    {
+      "id": "fr-grammaire-conjugaison-0019",
+      "type": "MCQ_SINGLE",
+      "language": "fr",
+      "stem": "Complétez : « Le concours ___ je me suis inscrit aura lieu au mois de mai. »",
+      "options": [
+        {
+          "id": "a",
+          "text": "auquel"
+        },
+        {
+          "id": "b",
+          "text": "dont"
+        },
+        {
+          "id": "c",
+          "text": "lequel"
+        },
+        {
+          "id": "d",
+          "text": "duquel"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "explanation": "On dit « s'inscrire à un concours » : le pronom relatif doit intégrer la préposition « à ». « À + lequel » se contracte en « auquel ». « Dont » et « duquel » correspondent à la préposition « de » (« le concours dont je parle »), et « lequel » sans préposition ne peut pas être complément d'un verbe construit avec « à ».",
+      "difficulty": "MEDIUM",
+      "topic_key": "fr.grammaire",
+      "objective_key": "fr.grammaire.o2",
+      "families": [
+        "*"
+      ],
+      "origin": "AI_GENERATED",
+      "source_key": null,
+      "year": null,
+      "valid_until": null,
+      "tags": [
+        "pronom relatif",
+        "relatifs composés"
+      ]
+    },
+    {
+      "id": "fr-grammaire-conjugaison-0020",
+      "type": "ORDERING",
+      "language": "fr",
+      "stem": "Remettez les éléments dans l'ordre pour obtenir la phrase correcte qui remplace « Le directeur a remis le rapport au ministre », les deux compléments étant pronominalisés.",
+      "options": [
+        {
+          "id": "a",
+          "text": "le"
+        },
+        {
+          "id": "b",
+          "text": "Le directeur"
+        },
+        {
+          "id": "c",
+          "text": "a remis"
+        },
+        {
+          "id": "d",
+          "text": "lui"
+        }
+      ],
+      "correct": {
+        "order": [
+          "b",
+          "a",
+          "d",
+          "c"
+        ]
+      },
+      "explanation": "La phrase correcte est « Le directeur le lui a remis ». Lorsqu'un pronom COD de 3e personne (le, la, les) se combine avec un pronom COI de 3e personne (lui, leur), le COD se place en premier. L'ordre « lui le » est fautif ; en revanche, avec me, te, nous, vous, ce sont ces pronoms qui précèdent le COD (« il me le remet »). Les pronoms se placent devant l'auxiliaire.",
+      "difficulty": "MEDIUM",
+      "topic_key": "fr.grammaire",
+      "objective_key": "fr.grammaire.o2",
+      "families": [
+        "*"
+      ],
+      "origin": "AI_GENERATED",
+      "source_key": null,
+      "year": null,
+      "valid_until": null,
+      "tags": [
+        "pronoms personnels",
+        "ordre des pronoms"
+      ]
+    },
+    {
+      "id": "fr-grammaire-conjugaison-0021",
+      "type": "MCQ_MULTI",
+      "language": "fr",
+      "stem": "Parmi les phrases suivantes, lesquelles contiennent une interrogation indirecte ?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Le président du jury demande si tous les candidats sont présents."
+        },
+        {
+          "id": "b",
+          "text": "Tous les candidats sont-ils présents ?"
+        },
+        {
+          "id": "c",
+          "text": "J'ignore pourquoi il a quitté la salle."
+        },
+        {
+          "id": "d",
+          "text": "À quelle heure commence l'épreuve ?"
+        }
+      ],
+      "correct": [
+        "a",
+        "c"
+      ],
+      "explanation": "L'interrogation indirecte est une proposition subordonnée introduite par un verbe comme « demander », « ignorer » ou « savoir » ; elle ne comporte ni inversion du sujet ni point d'interrogation. C'est le cas en a (introduite par « si ») et en c (introduite par « pourquoi »). Les phrases b et d sont des interrogations directes : inversion du sujet et point d'interrogation final.",
+      "difficulty": "MEDIUM",
+      "topic_key": "fr.grammaire",
+      "objective_key": "fr.grammaire.o2",
+      "families": [
+        "*"
+      ],
+      "origin": "AI_GENERATED",
+      "source_key": null,
+      "year": null,
+      "valid_until": null,
+      "tags": [
+        "types de phrases",
+        "interrogation indirecte"
+      ]
+    },
+    {
+      "id": "fr-grammaire-conjugaison-0022",
+      "type": "TRUE_FALSE",
+      "language": "fr",
+      "stem": "Vrai ou faux : la phrase « Je me souviens de cette réunion » peut se réécrire, avec un pronom, « Je m'y souviens ».",
+      "options": [
+        {
+          "id": "a",
+          "text": "Vrai"
+        },
+        {
+          "id": "b",
+          "text": "Faux"
+        }
+      ],
+      "correct": [
+        "b"
+      ],
+      "explanation": "C'est faux. Le verbe « se souvenir » se construit avec la préposition « de » ; le complément introduit par « de » est remplacé par le pronom « en » : « Je m'en souviens ». Le pronom « y » remplace un complément introduit par « à » (« Je pense à cette réunion » → « J'y pense »).",
+      "difficulty": "MEDIUM",
+      "topic_key": "fr.grammaire",
+      "objective_key": "fr.grammaire.o2",
+      "families": [
+        "*"
+      ],
+      "origin": "AI_GENERATED",
+      "source_key": null,
+      "year": null,
+      "valid_until": null,
+      "tags": [
+        "pronoms adverbiaux",
+        "en",
+        "y"
+      ]
+    },
+    {
+      "id": "fr-grammaire-conjugaison-0023",
+      "type": "MCQ_SINGLE",
+      "language": "fr",
+      "stem": "Quelle phrase respecte la norme du français soutenu ?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Il faut pallier à ce manque de personnel."
+        },
+        {
+          "id": "b",
+          "text": "Il faut pallier ce manque de personnel."
+        },
+        {
+          "id": "c",
+          "text": "Il faut pallier de ce manque de personnel."
+        },
+        {
+          "id": "d",
+          "text": "Il faut pallier sur ce manque de personnel."
+        }
+      ],
+      "correct": [
+        "b"
+      ],
+      "explanation": "« Pallier » est un verbe transitif direct : on pallie quelque chose, sans préposition. La construction « pallier à », très répandue, est critiquée par l'Académie française ; elle vient d'une confusion avec « remédier à ». Les constructions avec « de » ou « sur » sont, elles, sans fondement.",
+      "difficulty": "HARD",
+      "topic_key": "fr.grammaire",
+      "objective_key": "fr.grammaire.o2",
+      "families": [
+        "*"
+      ],
+      "origin": "AI_GENERATED",
+      "source_key": null,
+      "year": null,
+      "valid_until": null,
+      "tags": [
+        "prépositions",
+        "construction des verbes",
+        "pallier"
+      ]
+    },
+    {
+      "id": "fr-grammaire-conjugaison-0024",
+      "type": "MCQ_SINGLE",
+      "language": "fr",
+      "stem": "Complétez : « Le nouveau directeur régional a été affecté ___ Kef. »",
+      "options": [
+        {
+          "id": "a",
+          "text": "dans"
+        },
+        {
+          "id": "b",
+          "text": "à"
+        },
+        {
+          "id": "c",
+          "text": "au"
+        },
+        {
+          "id": "d",
+          "text": "en"
+        }
+      ],
+      "correct": [
+        "c"
+      ],
+      "explanation": "Le nom de cette ville comporte un article : « Le Kef ». Devant un nom de ville, on emploie « à », et « à + le » se contracte en « au » : on dit « au Kef », comme on dit « au Caire » ou « au Havre ». « À » seul convient aux noms de villes sans article (« à Béja », « à Jendouba »), et « en » s'emploie surtout devant les noms de pays féminins.",
+      "difficulty": "HARD",
+      "topic_key": "fr.grammaire",
+      "objective_key": "fr.grammaire.o2",
+      "families": [
+        "*"
+      ],
+      "origin": "AI_GENERATED",
+      "source_key": null,
+      "year": null,
+      "valid_until": null,
+      "tags": [
+        "prépositions",
+        "noms de lieux",
+        "article contracté"
+      ]
+    },
+    {
+      "id": "fr-grammaire-conjugaison-0025",
+      "type": "MCQ_SINGLE",
+      "language": "fr",
+      "stem": "Dans quelle phrase « que » introduit-il une proposition subordonnée relative ?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Je crois que le jury a délibéré."
+        },
+        {
+          "id": "b",
+          "text": "L'idée que le jury puisse se tromper l'inquiète."
+        },
+        {
+          "id": "c",
+          "text": "La décision que le jury a prise est définitive."
+        },
+        {
+          "id": "d",
+          "text": "Le jury était si fatigué qu'il a reporté la délibération."
+        }
+      ],
+      "correct": [
+        "c"
+      ],
+      "explanation": "En c, « que » est un pronom relatif : il reprend l'antécédent « la décision » et occupe une fonction dans la subordonnée (COD de « a prise », d'où l'accord du participe). Le piège principal est b : malgré le nom « idée » placé avant, « que » y est une conjonction, car la proposition « le jury puisse se tromper » est complète. C'est une complétive, complément du nom « idée ». En a, la complétive est COD de « crois » ; en d, la subordonnée exprime la conséquence.",
+      "difficulty": "EXPERT",
+      "topic_key": "fr.grammaire",
+      "objective_key": "fr.grammaire.o2",
+      "families": [
+        "*"
+      ],
+      "origin": "AI_GENERATED",
+      "source_key": null,
+      "year": null,
+      "valid_until": null,
+      "tags": [
+        "types de propositions",
+        "relative",
+        "complétive"
+      ]
+    },
+    {
+      "id": "fr-grammaire-conjugaison-0026",
+      "type": "MCQ_SINGLE",
+      "language": "fr",
+      "stem": "Complétez avec le verbe « envoyer » au futur simple : « Nous vous ___ la convocation par voie postale. »",
+      "options": [
+        {
+          "id": "a",
+          "text": "envoyerons"
+        },
+        {
+          "id": "b",
+          "text": "envoirons"
+        },
+        {
+          "id": "c",
+          "text": "envoierons"
+        },
+        {
+          "id": "d",
+          "text": "enverrons"
+        }
+      ],
+      "correct": [
+        "d"
+      ],
+      "explanation": "Le verbe « envoyer » a un futur irrégulier, construit sur le radical « enverr- » : j'enverrai, nous enverrons, vous enverrez. Les formes « envoierons » et « envoyerons » appliquent à tort la règle des verbes réguliers en -yer (comme « nettoyer » → « nous nettoierons »). « Envoirons » n'existe pas.",
+      "difficulty": "EASY",
+      "topic_key": "fr.conjugaison",
+      "objective_key": "fr.conjugaison.o1",
+      "families": [
+        "*"
+      ],
+      "origin": "AI_GENERATED",
+      "source_key": null,
+      "year": null,
+      "valid_until": null,
+      "tags": [
+        "futur simple",
+        "verbes irréguliers"
+      ]
+    },
+    {
+      "id": "fr-grammaire-conjugaison-0027",
+      "type": "MCQ_SINGLE",
+      "language": "fr",
+      "stem": "Complétez avec le verbe « faire » : « Il faut que vous ___ légaliser votre signature à la municipalité. »",
+      "options": [
+        {
+          "id": "a",
+          "text": "fassiez"
+        },
+        {
+          "id": "b",
+          "text": "fesiez"
+        },
+        {
+          "id": "c",
+          "text": "ferez"
+        },
+        {
+          "id": "d",
+          "text": "faites"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "explanation": "La locution « il faut que » exige le subjonctif. Au subjonctif présent, « faire » se conjugue sur le radical « fass- » : que je fasse, que nous fassions, que vous fassiez. « Faites » est l'indicatif présent (ou l'impératif), « ferez » le futur, et « fesiez » n'existe pas.",
+      "difficulty": "EASY",
+      "topic_key": "fr.conjugaison",
+      "objective_key": "fr.conjugaison.o1",
+      "families": [
+        "*"
+      ],
+      "origin": "AI_GENERATED",
+      "source_key": null,
+      "year": null,
+      "valid_until": null,
+      "tags": [
+        "subjonctif présent",
+        "il faut que"
+      ]
+    },
+    {
+      "id": "fr-grammaire-conjugaison-0028",
+      "type": "TRUE_FALSE",
+      "language": "fr",
+      "stem": "Vrai ou faux : au présent de l'indicatif, on écrit « il appelle », avec deux « l ».",
+      "options": [
+        {
+          "id": "a",
+          "text": "Vrai"
+        },
+        {
+          "id": "b",
+          "text": "Faux"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "explanation": "C'est vrai. Le verbe « appeler » double le « l » devant un « e » muet : j'appelle, il appelle, ils appellent. En revanche, le « l » reste simple lorsque la terminaison ne commence pas par un « e » muet : nous appelons, vous appelez. « Appeler » et « jeter » (avec leurs dérivés) conservent ce doublement, même après les rectifications orthographiques de 1990.",
+      "difficulty": "EASY",
+      "topic_key": "fr.conjugaison",
+      "objective_key": "fr.conjugaison.o1",
+      "families": [
+        "*"
+      ],
+      "origin": "AI_GENERATED",
+      "source_key": null,
+      "year": null,
+      "valid_until": null,
+      "tags": [
+        "présent de l'indicatif",
+        "verbes en -eler"
+      ]
+    },
+    {
+      "id": "fr-grammaire-conjugaison-0029",
+      "type": "MCQ_SINGLE",
+      "language": "fr",
+      "stem": "Pour formuler poliment une demande, on emploie le conditionnel présent. Complétez : « ___-vous me transmettre une copie de l'arrêté ? »",
+      "options": [
+        {
+          "id": "a",
+          "text": "Pourrez"
+        },
+        {
+          "id": "b",
+          "text": "Pourriez"
+        },
+        {
+          "id": "c",
+          "text": "Pouvriez"
+        },
+        {
+          "id": "d",
+          "text": "Pourriiez"
+        }
+      ],
+      "correct": [
+        "b"
+      ],
+      "explanation": "Le conditionnel présent se forme sur le radical du futur (« pourr- ») auquel on ajoute les terminaisons de l'imparfait (-ais, -ait, -iez…) : « vous pourriez ». « Pourrez » est le futur simple, qui ne correspond pas au conditionnel de politesse demandé. « Pouvriez » repose sur un radical erroné et « Pourriiez » sur une terminaison erronée.",
+      "difficulty": "EASY",
+      "topic_key": "fr.conjugaison",
+      "objective_key": "fr.conjugaison.o1",
+      "families": [
+        "*"
+      ],
+      "origin": "AI_GENERATED",
+      "source_key": null,
+      "year": null,
+      "valid_until": null,
+      "tags": [
+        "conditionnel présent",
+        "politesse"
+      ]
+    },
+    {
+      "id": "fr-grammaire-conjugaison-0030",
+      "type": "MCQ_SINGLE",
+      "language": "fr",
+      "stem": "Complétez avec le verbe « étudier » à l'imparfait : « Autrefois, nous ___ ensemble à la bibliothèque municipale. »",
+      "options": [
+        {
+          "id": "a",
+          "text": "étudiyons"
+        },
+        {
+          "id": "b",
+          "text": "étudions"
+        },
+        {
+          "id": "c",
+          "text": "étudiions"
+        },
+        {
+          "id": "d",
+          "text": "étudierions"
+        }
+      ],
+      "correct": [
+        "c"
+      ],
+      "explanation": "L'imparfait se forme en ajoutant -ions au radical « étudi- » : « nous étudiions », avec deux « i ». La forme « étudions » est celle du présent, ce qui constitue le piège principal, car on entend à peine la différence à l'oral. « Étudierions » est un conditionnel présent et « étudiyons » n'existe pas.",
+      "difficulty": "MEDIUM",
+      "topic_key": "fr.conjugaison",
+      "objective_key": "fr.conjugaison.o1",
+      "families": [
+        "*"
+      ],
+      "origin": "AI_GENERATED",
+      "source_key": null,
+      "year": null,
+      "valid_until": null,
+      "tags": [
+        "imparfait",
+        "verbes en -ier"
+      ]
+    },
+    {
+      "id": "fr-grammaire-conjugaison-0031",
+      "type": "MCQ_SINGLE",
+      "language": "fr",
+      "stem": "Au passé simple de l'indicatif, le verbe « venir » à la 3e personne du pluriel s'écrit :",
+      "options": [
+        {
+          "id": "a",
+          "text": "ils venirent"
+        },
+        {
+          "id": "b",
+          "text": "ils vienrent"
+        },
+        {
+          "id": "c",
+          "text": "ils vinèrent"
+        },
+        {
+          "id": "d",
+          "text": "ils vinrent"
+        }
+      ],
+      "correct": [
+        "d"
+      ],
+      "explanation": "« Venir » (comme « tenir » et leurs dérivés) a un passé simple particulier en « vin- » : je vins, il vint, nous vînmes, ils vinrent. « Venirent » imite à tort les verbes en -ir comme « finir » (« ils finirent »), et « vinèrent » mélange ce radical avec la terminaison des verbes en -er. « Vienrent » n'existe pas.",
+      "difficulty": "MEDIUM",
+      "topic_key": "fr.conjugaison",
+      "objective_key": "fr.conjugaison.o1",
+      "families": [
+        "*"
+      ],
+      "origin": "AI_GENERATED",
+      "source_key": null,
+      "year": null,
+      "valid_until": null,
+      "tags": [
+        "passé simple",
+        "verbes irréguliers"
+      ]
+    },
+    {
+      "id": "fr-grammaire-conjugaison-0032",
+      "type": "MCQ_SINGLE",
+      "language": "fr",
+      "stem": "Complétez avec le verbe « croire » : « Il est possible qu'ils ne nous ___ pas. »",
+      "options": [
+        {
+          "id": "a",
+          "text": "croient"
+        },
+        {
+          "id": "b",
+          "text": "croyent"
+        },
+        {
+          "id": "c",
+          "text": "croiraient"
+        },
+        {
+          "id": "d",
+          "text": "croyaient"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "explanation": "« Il est possible que » exprime une éventualité et commande le subjonctif. Au subjonctif présent, « croire » donne « qu'ils croient » (et « que nous croyions », « que vous croyiez »). La forme « croyent » n'existe pas : le « y » n'apparaît qu'aux 1re et 2e personnes du pluriel. « Croiraient » (conditionnel) et « croyaient » (imparfait) ne conviennent pas après cette locution.",
+      "difficulty": "MEDIUM",
+      "topic_key": "fr.conjugaison",
+      "objective_key": "fr.conjugaison.o1",
+      "families": [
+        "*"
+      ],
+      "origin": "AI_GENERATED",
+      "source_key": null,
+      "year": null,
+      "valid_until": null,
+      "tags": [
+        "subjonctif présent",
+        "verbes en -oire"
+      ]
+    },
+    {
+      "id": "fr-grammaire-conjugaison-0033",
+      "type": "MCQ_SINGLE",
+      "language": "fr",
+      "stem": "Dans la phrase « Quand vous aurez terminé, vous remettrez votre copie », la forme « aurez terminé » est au :",
+      "options": [
+        {
+          "id": "a",
+          "text": "futur simple"
+        },
+        {
+          "id": "b",
+          "text": "futur antérieur"
+        },
+        {
+          "id": "c",
+          "text": "passé composé"
+        },
+        {
+          "id": "d",
+          "text": "conditionnel passé"
+        }
+      ],
+      "correct": [
+        "b"
+      ],
+      "explanation": "« Aurez terminé » est formé de l'auxiliaire « avoir » au futur simple suivi du participe passé : c'est un futur antérieur. Il exprime une action future accomplie avant une autre action future (« vous remettrez »). Le passé composé utilise l'auxiliaire au présent (« vous avez terminé »), et le conditionnel passé l'auxiliaire au conditionnel (« vous auriez terminé »).",
+      "difficulty": "MEDIUM",
+      "topic_key": "fr.conjugaison",
+      "objective_key": "fr.conjugaison.o1",
+      "families": [
+        "*"
+      ],
+      "origin": "AI_GENERATED",
+      "source_key": null,
+      "year": null,
+      "valid_until": null,
+      "tags": [
+        "futur antérieur",
+        "temps composés"
+      ]
+    },
+    {
+      "id": "fr-grammaire-conjugaison-0034",
+      "type": "MCQ_MULTI",
+      "language": "fr",
+      "stem": "Parmi les formes suivantes, lesquelles sont au subjonctif présent ?",
+      "options": [
+        {
+          "id": "a",
+          "text": "que nous soyons"
+        },
+        {
+          "id": "b",
+          "text": "que vous puissiez"
+        },
+        {
+          "id": "c",
+          "text": "qu'il finit"
+        },
+        {
+          "id": "d",
+          "text": "qu'elles aillent"
+        }
+      ],
+      "correct": [
+        "a",
+        "b",
+        "d"
+      ],
+      "explanation": "« Que nous soyons » (être), « que vous puissiez » (pouvoir) et « qu'elles aillent » (aller) sont des formes du subjonctif présent. En revanche, « finit » est une forme de l'indicatif (présent ou passé simple) : le subjonctif présent de « finir » est « qu'il finisse ». La présence de « que » ne suffit donc pas à identifier un subjonctif.",
+      "difficulty": "MEDIUM",
+      "topic_key": "fr.conjugaison",
+      "objective_key": "fr.conjugaison.o1",
+      "families": [
+        "*"
+      ],
+      "origin": "AI_GENERATED",
+      "source_key": null,
+      "year": null,
+      "valid_until": null,
+      "tags": [
+        "subjonctif présent",
+        "identification des temps"
+      ]
+    },
+    {
+      "id": "fr-grammaire-conjugaison-0035",
+      "type": "MCQ_SINGLE",
+      "language": "fr",
+      "stem": "Complétez avec le verbe « acquérir » au futur simple : « Au cours du stage, vous ___ une solide expérience. »",
+      "options": [
+        {
+          "id": "a",
+          "text": "acquerirez"
+        },
+        {
+          "id": "b",
+          "text": "acquérirez"
+        },
+        {
+          "id": "c",
+          "text": "acquerrez"
+        },
+        {
+          "id": "d",
+          "text": "acquièrerez"
+        }
+      ],
+      "correct": [
+        "c"
+      ],
+      "explanation": "Au futur simple, « acquérir » (comme « conquérir » et « requérir ») se conjugue sur le radical « acquerr- », avec deux « r » et sans accent : j'acquerrai, vous acquerrez. « Acquérirez » applique à tort la formation régulière des verbes en -ir (infinitif + terminaison). « Acquièrerez » et « acquerirez » n'existent pas.",
+      "difficulty": "HARD",
+      "topic_key": "fr.conjugaison",
+      "objective_key": "fr.conjugaison.o1",
+      "families": [
+        "*"
+      ],
+      "origin": "AI_GENERATED",
+      "source_key": null,
+      "year": null,
+      "valid_until": null,
+      "tags": [
+        "futur simple",
+        "verbes irréguliers"
+      ]
+    },
+    {
+      "id": "fr-grammaire-conjugaison-0036",
+      "type": "MCQ_SINGLE",
+      "language": "fr",
+      "stem": "Complétez avec le verbe « résoudre » au passé simple : « Le comité ___ le litige en une seule séance. »",
+      "options": [
+        {
+          "id": "a",
+          "text": "résouda"
+        },
+        {
+          "id": "b",
+          "text": "résolva"
+        },
+        {
+          "id": "c",
+          "text": "résoudit"
+        },
+        {
+          "id": "d",
+          "text": "résolut"
+        }
+      ],
+      "correct": [
+        "d"
+      ],
+      "explanation": "« Résoudre » fait son passé simple en -u sur le radical « résol- » : je résolus, il résolut, ils résolurent. « Résouda » et « résolva » appliquent à tort la terminaison -a des verbes en -er, et « résoudit » imite la terminaison en -it de verbes comme « dire » ou « finir ».",
+      "difficulty": "HARD",
+      "topic_key": "fr.conjugaison",
+      "objective_key": "fr.conjugaison.o1",
+      "families": [
+        "*"
+      ],
+      "origin": "AI_GENERATED",
+      "source_key": null,
+      "year": null,
+      "valid_until": null,
+      "tags": [
+        "passé simple",
+        "verbes irréguliers"
+      ]
+    },
+    {
+      "id": "fr-grammaire-conjugaison-0037",
+      "type": "MATCHING",
+      "language": "fr",
+      "stem": "Associez chaque forme du verbe « venir » au temps et au mode correspondants.",
+      "options": [
+        {
+          "id": "l1",
+          "text": "qu'il soit venu",
+          "side": "left"
+        },
+        {
+          "id": "l2",
+          "text": "il serait venu",
+          "side": "left"
+        },
+        {
+          "id": "l3",
+          "text": "il fut venu",
+          "side": "left"
+        },
+        {
+          "id": "l4",
+          "text": "il était venu",
+          "side": "left"
+        },
+        {
+          "id": "r1",
+          "text": "Plus-que-parfait de l'indicatif",
+          "side": "right"
+        },
+        {
+          "id": "r2",
+          "text": "Subjonctif passé",
+          "side": "right"
+        },
+        {
+          "id": "r3",
+          "text": "Passé antérieur de l'indicatif",
+          "side": "right"
+        },
+        {
+          "id": "r4",
+          "text": "Conditionnel passé",
+          "side": "right"
+        }
+      ],
+      "correct": {
+        "pairs": [
+          [
+            "l1",
+            "r2"
+          ],
+          [
+            "l2",
+            "r4"
+          ],
+          [
+            "l3",
+            "r3"
+          ],
+          [
+            "l4",
+            "r1"
+          ]
+        ]
+      },
+      "explanation": "Dans un temps composé, c'est le temps de l'auxiliaire qui le détermine. « Soit » est au subjonctif présent, d'où le subjonctif passé ; « serait » est au conditionnel présent, d'où le conditionnel passé. « Fut » est au passé simple, d'où le passé antérieur ; « était » est à l'imparfait, d'où le plus-que-parfait. Attention à ne pas confondre « il fut venu » (passé antérieur, sans accent) avec « qu'il fût venu » (subjonctif plus-que-parfait, avec accent circonflexe).",
+      "difficulty": "HARD",
+      "topic_key": "fr.conjugaison",
+      "objective_key": "fr.conjugaison.o1",
+      "families": [
+        "*"
+      ],
+      "origin": "AI_GENERATED",
+      "source_key": null,
+      "year": null,
+      "valid_until": null,
+      "tags": [
+        "temps composés",
+        "identification des temps",
+        "modes"
+      ]
+    },
+    {
+      "id": "fr-grammaire-conjugaison-0038",
+      "type": "MCQ_SINGLE",
+      "language": "fr",
+      "stem": "Dans la phrase « Il eût mieux valu reporter l'épreuve », la forme « eût valu » a la valeur d'un :",
+      "options": [
+        {
+          "id": "a",
+          "text": "conditionnel passé (deuxième forme)"
+        },
+        {
+          "id": "b",
+          "text": "subjonctif passé"
+        },
+        {
+          "id": "c",
+          "text": "plus-que-parfait de l'indicatif"
+        },
+        {
+          "id": "d",
+          "text": "passé antérieur de l'indicatif"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "explanation": "« Eût valu », avec l'accent circonflexe, a la forme d'un subjonctif plus-que-parfait, mais il est employé ici, en langue soutenue, avec la valeur d'un conditionnel passé : la phrase équivaut à « Il aurait mieux valu reporter l'épreuve ». Les grammaires parlent de « conditionnel passé deuxième forme ». Le passé antérieur s'écrirait « il eut valu », sans accent, et le subjonctif passé serait « qu'il ait valu ».",
+      "difficulty": "EXPERT",
+      "topic_key": "fr.conjugaison",
+      "objective_key": "fr.conjugaison.o1",
+      "families": [
+        "*"
+      ],
+      "origin": "AI_GENERATED",
+      "source_key": null,
+      "year": null,
+      "valid_until": null,
+      "tags": [
+        "conditionnel passé",
+        "subjonctif plus-que-parfait",
+        "langue soutenue"
+      ]
+    },
+    {
+      "id": "fr-grammaire-conjugaison-0039",
+      "type": "MCQ_SINGLE",
+      "language": "fr",
+      "stem": "Complétez : « Si le candidat révisait plus régulièrement, il ___ le concours. »",
+      "options": [
+        {
+          "id": "a",
+          "text": "réussira"
+        },
+        {
+          "id": "b",
+          "text": "réussirait"
+        },
+        {
+          "id": "c",
+          "text": "réussisse"
+        },
+        {
+          "id": "d",
+          "text": "réussissait"
+        }
+      ],
+      "correct": [
+        "b"
+      ],
+      "explanation": "Dans un système hypothétique, « si » suivi de l'imparfait appelle le conditionnel présent dans la principale : « il réussirait ». Le futur « réussira » s'emploie après « si » suivi du présent (« s'il révise, il réussira »). Le subjonctif « réussisse » et l'imparfait « réussissait » ne conviennent pas dans la principale de ce système.",
+      "difficulty": "EASY",
+      "topic_key": "fr.conjugaison",
+      "objective_key": "fr.conjugaison.o2",
+      "families": [
+        "*"
+      ],
+      "origin": "AI_GENERATED",
+      "source_key": null,
+      "year": null,
+      "valid_until": null,
+      "tags": [
+        "système hypothétique",
+        "conditionnel présent"
+      ]
+    },
+    {
+      "id": "fr-grammaire-conjugaison-0040",
+      "type": "MCQ_SINGLE",
+      "language": "fr",
+      "stem": "Complétez : « Si tu m'envoies ton CV aujourd'hui, je le ___ au service du personnel demain. »",
+      "options": [
+        {
+          "id": "a",
+          "text": "transmis"
+        },
+        {
+          "id": "b",
+          "text": "transmettrais"
+        },
+        {
+          "id": "c",
+          "text": "transmettrai"
+        },
+        {
+          "id": "d",
+          "text": "transmette"
+        }
+      ],
+      "correct": [
+        "c"
+      ],
+      "explanation": "Lorsque « si » est suivi du présent de l'indicatif (« si tu m'envoies »), la principale se met au futur simple : « je le transmettrai ». Le conditionnel « transmettrais », qui se prononce presque de la même façon, correspondrait à « si » suivi de l'imparfait (« si tu m'envoyais »). « Transmette » est un subjonctif et « transmis » un participe passé ou un passé simple.",
+      "difficulty": "EASY",
+      "topic_key": "fr.conjugaison",
+      "objective_key": "fr.conjugaison.o2",
+      "families": [
+        "*"
+      ],
+      "origin": "AI_GENERATED",
+      "source_key": null,
+      "year": null,
+      "valid_until": null,
+      "tags": [
+        "système hypothétique",
+        "futur simple"
+      ]
+    },
+    {
+      "id": "fr-grammaire-conjugaison-0041",
+      "type": "TRUE_FALSE",
+      "language": "fr",
+      "stem": "Vrai ou faux : la phrase « Si le candidat aurait révisé, il aurait réussi » est correcte.",
+      "options": [
+        {
+          "id": "a",
+          "text": "Vrai"
+        },
+        {
+          "id": "b",
+          "text": "Faux"
+        }
+      ],
+      "correct": [
+        "b"
+      ],
+      "explanation": "C'est faux. Après le « si » de condition, on n'emploie jamais le conditionnel. Pour exprimer une hypothèse non réalisée dans le passé, on utilise le plus-que-parfait après « si » et le conditionnel passé dans la principale : « Si le candidat avait révisé, il aurait réussi ».",
+      "difficulty": "EASY",
+      "topic_key": "fr.conjugaison",
+      "objective_key": "fr.conjugaison.o2",
+      "families": [
+        "*"
+      ],
+      "origin": "AI_GENERATED",
+      "source_key": null,
+      "year": null,
+      "valid_until": null,
+      "tags": [
+        "système hypothétique",
+        "fautes fréquentes"
+      ]
+    },
+    {
+      "id": "fr-grammaire-conjugaison-0042",
+      "type": "MCQ_SINGLE",
+      "language": "fr",
+      "stem": "Complétez : « Si j'avais su que le concours était ouvert, je ___ ma candidature. »",
+      "options": [
+        {
+          "id": "a",
+          "text": "avais déposé"
+        },
+        {
+          "id": "b",
+          "text": "déposerai"
+        },
+        {
+          "id": "c",
+          "text": "aurai déposé"
+        },
+        {
+          "id": "d",
+          "text": "aurais déposé"
+        }
+      ],
+      "correct": [
+        "d"
+      ],
+      "explanation": "Pour une hypothèse non réalisée dans le passé (l'irréel du passé), « si » suivi du plus-que-parfait appelle le conditionnel passé dans la principale : « j'aurais déposé ». « Aurai déposé » est un futur antérieur : il se distingue du conditionnel passé à l'écrit par l'absence du « s » final. « Déposerai » (futur) et « avais déposé » (plus-que-parfait) ne conviennent pas dans la principale.",
+      "difficulty": "MEDIUM",
+      "topic_key": "fr.conjugaison",
+      "objective_key": "fr.conjugaison.o2",
+      "families": [
+        "*"
+      ],
+      "origin": "AI_GENERATED",
+      "source_key": null,
+      "year": null,
+      "valid_until": null,
+      "tags": [
+        "système hypothétique",
+        "irréel du passé",
+        "conditionnel passé"
+      ]
+    },
+    {
+      "id": "fr-grammaire-conjugaison-0043",
+      "type": "MCQ_SINGLE",
+      "language": "fr",
+      "stem": "Complétez avec le verbe « prendre » : « Remettez votre dossier avant que la commission ne ___ sa décision. »",
+      "options": [
+        {
+          "id": "a",
+          "text": "prenne"
+        },
+        {
+          "id": "b",
+          "text": "prenait"
+        },
+        {
+          "id": "c",
+          "text": "prend"
+        },
+        {
+          "id": "d",
+          "text": "prendra"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "explanation": "La locution conjonctive « avant que » exige le subjonctif, car l'action qu'elle introduit n'est pas encore réalisée : « avant qu'elle ne prenne ». Le « ne » qui l'accompagne est explétif ; il est facultatif et n'a pas de valeur négative. Le futur « prendra » est le distracteur le plus fréquent, mais l'indicatif ne peut pas suivre « avant que ».",
+      "difficulty": "MEDIUM",
+      "topic_key": "fr.conjugaison",
+      "objective_key": "fr.conjugaison.o2",
+      "families": [
+        "*"
+      ],
+      "origin": "AI_GENERATED",
+      "source_key": null,
+      "year": null,
+      "valid_until": null,
+      "tags": [
+        "subjonctif",
+        "avant que",
+        "ne explétif"
+      ]
+    },
+    {
+      "id": "fr-grammaire-conjugaison-0044",
+      "type": "MCQ_SINGLE",
+      "language": "fr",
+      "stem": "Transformez au discours indirect : « Le directeur déclara : \"Je signerai le contrat demain.\" » → « Le directeur déclara qu'il ___ le contrat le lendemain. »",
+      "options": [
+        {
+          "id": "a",
+          "text": "signera"
+        },
+        {
+          "id": "b",
+          "text": "signerait"
+        },
+        {
+          "id": "c",
+          "text": "signait"
+        },
+        {
+          "id": "d",
+          "text": "signa"
+        }
+      ],
+      "correct": [
+        "b"
+      ],
+      "explanation": "Lorsque le verbe introducteur est au passé (« déclara »), le futur du discours direct devient un conditionnel présent, qui exprime le futur dans le passé : « qu'il signerait ». Le futur « signera » ne respecte pas la concordance des temps. L'imparfait « signait » exprimerait une action simultanée, et non postérieure, à la déclaration.",
+      "difficulty": "MEDIUM",
+      "topic_key": "fr.conjugaison",
+      "objective_key": "fr.conjugaison.o2",
+      "families": [
+        "*"
+      ],
+      "origin": "AI_GENERATED",
+      "source_key": null,
+      "year": null,
+      "valid_until": null,
+      "tags": [
+        "discours indirect",
+        "futur dans le passé"
+      ]
+    },
+    {
+      "id": "fr-grammaire-conjugaison-0045",
+      "type": "MCQ_SINGLE",
+      "language": "fr",
+      "stem": "Selon la concordance des temps, transformez au discours indirect : « Elle a affirmé : \"J'ai envoyé le dossier.\" » → « Elle a affirmé qu'elle ___ le dossier. »",
+      "options": [
+        {
+          "id": "a",
+          "text": "envoyait"
+        },
+        {
+          "id": "b",
+          "text": "a envoyé"
+        },
+        {
+          "id": "c",
+          "text": "avait envoyé"
+        },
+        {
+          "id": "d",
+          "text": "aurait envoyé"
+        }
+      ],
+      "correct": [
+        "c"
+      ],
+      "explanation": "Avec un verbe introducteur au passé, une action antérieure exprimée au passé composé dans le discours direct se met au plus-que-parfait : « qu'elle avait envoyé ». Garder le passé composé « a envoyé » ne respecte pas la concordance des temps. Le conditionnel passé « aurait envoyé » exprimerait une hypothèse ou un fait non confirmé, et l'imparfait une action en cours, non achevée.",
+      "difficulty": "MEDIUM",
+      "topic_key": "fr.conjugaison",
+      "objective_key": "fr.conjugaison.o2",
+      "families": [
+        "*"
+      ],
+      "origin": "AI_GENERATED",
+      "source_key": null,
+      "year": null,
+      "valid_until": null,
+      "tags": [
+        "discours indirect",
+        "plus-que-parfait",
+        "antériorité"
+      ]
+    },
+    {
+      "id": "fr-grammaire-conjugaison-0046",
+      "type": "MCQ_MULTI",
+      "language": "fr",
+      "stem": "Quelles phrases respectent les règles d'emploi des modes et des temps ?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Si j'aurais su, je serais venu."
+        },
+        {
+          "id": "b",
+          "text": "Si j'avais su, je serais venu."
+        },
+        {
+          "id": "c",
+          "text": "Au cas où vous seriez absent, prévenez le secrétariat."
+        },
+        {
+          "id": "d",
+          "text": "Bien qu'il est fatigué, il a terminé l'épreuve."
+        }
+      ],
+      "correct": [
+        "b",
+        "c"
+      ],
+      "explanation": "La phrase b applique le système de l'irréel du passé : plus-que-parfait après « si » et conditionnel passé dans la principale. La phrase c est correcte, car « au cas où » est suivi du conditionnel. La phrase a est fautive : on n'emploie pas le conditionnel après le « si » de condition. La phrase d l'est aussi : « bien que » exige le subjonctif (« bien qu'il soit fatigué »).",
+      "difficulty": "MEDIUM",
+      "topic_key": "fr.conjugaison",
+      "objective_key": "fr.conjugaison.o2",
+      "families": [
+        "*"
+      ],
+      "origin": "AI_GENERATED",
+      "source_key": null,
+      "year": null,
+      "valid_until": null,
+      "tags": [
+        "système hypothétique",
+        "au cas où",
+        "bien que",
+        "subjonctif"
+      ]
+    },
+    {
+      "id": "fr-grammaire-conjugaison-0047",
+      "type": "MCQ_SINGLE",
+      "language": "fr",
+      "stem": "Complétez : « Après que le jury ___ les copies, les résultats seront affichés. »",
+      "options": [
+        {
+          "id": "a",
+          "text": "corrige"
+        },
+        {
+          "id": "b",
+          "text": "aurait corrigé"
+        },
+        {
+          "id": "c",
+          "text": "ait corrigé"
+        },
+        {
+          "id": "d",
+          "text": "aura corrigé"
+        }
+      ],
+      "correct": [
+        "d"
+      ],
+      "explanation": "« Après que » présente un fait considéré comme accompli : il se construit, selon la norme, avec l'indicatif. L'action de corriger étant antérieure à une action future (« seront affichés »), on emploie le futur antérieur : « aura corrigé ». Le subjonctif « ait corrigé » est très répandu par analogie avec « avant que », mais il est déconseillé par l'Académie française.",
+      "difficulty": "HARD",
+      "topic_key": "fr.conjugaison",
+      "objective_key": "fr.conjugaison.o2",
+      "families": [
+        "*"
+      ],
+      "origin": "AI_GENERATED",
+      "source_key": null,
+      "year": null,
+      "valid_until": null,
+      "tags": [
+        "après que",
+        "indicatif",
+        "futur antérieur"
+      ]
+    },
+    {
+      "id": "fr-grammaire-conjugaison-0048",
+      "type": "ORDERING",
+      "language": "fr",
+      "stem": "Classez les actions dans l'ordre chronologique où elles se produisent : « Le secrétaire, qui avait reçu les dossiers la veille, les vérifia dès qu'il eut pris son service, puis annonça qu'il les transmettrait au jury. »",
+      "options": [
+        {
+          "id": "a",
+          "text": "Vérifier les dossiers"
+        },
+        {
+          "id": "b",
+          "text": "Recevoir les dossiers"
+        },
+        {
+          "id": "c",
+          "text": "Prendre son service"
+        },
+        {
+          "id": "d",
+          "text": "Transmettre les dossiers au jury"
+        }
+      ],
+      "correct": {
+        "order": [
+          "b",
+          "c",
+          "a",
+          "d"
+        ]
+      },
+      "explanation": "Le plus-que-parfait « avait reçu » (la veille) marque l'action la plus ancienne. Le passé antérieur « eut pris » exprime une action immédiatement antérieure à celle du passé simple « vérifia ». Enfin, le conditionnel présent « transmettrait » exprime un futur dans le passé, c'est-à-dire une action postérieure à l'annonce. L'ordre est donc : recevoir, prendre son service, vérifier, transmettre.",
+      "difficulty": "HARD",
+      "topic_key": "fr.conjugaison",
+      "objective_key": "fr.conjugaison.o2",
+      "families": [
+        "*"
+      ],
+      "origin": "AI_GENERATED",
+      "source_key": null,
+      "year": null,
+      "valid_until": null,
+      "tags": [
+        "valeurs des temps",
+        "antériorité",
+        "postériorité"
+      ]
+    },
+    {
+      "id": "fr-grammaire-conjugaison-0049",
+      "type": "TRUE_FALSE",
+      "language": "fr",
+      "stem": "Vrai ou faux : la phrase « Je me demande si le jury se réunira demain » est incorrecte, car « si » ne peut jamais être suivi du futur.",
+      "options": [
+        {
+          "id": "a",
+          "text": "Vrai"
+        },
+        {
+          "id": "b",
+          "text": "Faux"
+        }
+      ],
+      "correct": [
+        "b"
+      ],
+      "explanation": "C'est faux. L'interdiction du futur et du conditionnel ne vaut que pour le « si » de condition (« S'il viendra, je partirai » est fautif). Ici, « si » introduit une interrogation indirecte (= « Le jury se réunira-t-il demain ? ») : le futur y est parfaitement correct, comme dans « J'ignore s'il viendra ».",
+      "difficulty": "HARD",
+      "topic_key": "fr.conjugaison",
+      "objective_key": "fr.conjugaison.o2",
+      "families": [
+        "*"
+      ],
+      "origin": "AI_GENERATED",
+      "source_key": null,
+      "year": null,
+      "valid_until": null,
+      "tags": [
+        "si interrogatif",
+        "si conditionnel",
+        "interrogation indirecte"
+      ]
+    },
+    {
+      "id": "fr-grammaire-conjugaison-0050",
+      "type": "MCQ_SINGLE",
+      "language": "fr",
+      "stem": "Selon la concordance classique de la langue littéraire, complétez : « Il fallait que le candidat ___ présent dès huit heures. »",
+      "options": [
+        {
+          "id": "a",
+          "text": "fût"
+        },
+        {
+          "id": "b",
+          "text": "fut"
+        },
+        {
+          "id": "c",
+          "text": "serait"
+        },
+        {
+          "id": "d",
+          "text": "était"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "explanation": "Dans la concordance classique, lorsque le verbe principal est au passé (« il fallait »), la subordonnée au subjonctif se met au subjonctif imparfait : « qu'il fût », avec un accent circonflexe. Dans l'usage courant d'aujourd'hui, on emploie le subjonctif présent (« qu'il soit »). « Fut », sans accent, est le passé simple de l'indicatif : il ne peut pas suivre « il fallait que », qui exige le subjonctif. « Serait » et « était » sont également des formes de l'indicatif ou du conditionnel.",
+      "difficulty": "EXPERT",
+      "topic_key": "fr.conjugaison",
+      "objective_key": "fr.conjugaison.o2",
+      "families": [
+        "*"
+      ],
+      "origin": "AI_GENERATED",
+      "source_key": null,
+      "year": null,
+      "valid_until": null,
+      "tags": [
+        "subjonctif imparfait",
+        "concordance classique",
+        "langue soutenue"
+      ]
+    }
+  ]
+}

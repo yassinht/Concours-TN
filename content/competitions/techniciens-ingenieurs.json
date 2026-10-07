@@ -1,0 +1,2545 @@
+{
+ "family": {
+  "slug": "techniciens-ingenieurs",
+  "field": "TECHNICAL",
+  "organization": {
+   "slug": "fonction-publique-tn",
+   "name_ar": "الوظيفة العمومية – الوزارات والمؤسسات العمومية الإدارية (إطار ترتيبي تضبطه رئاسة الحكومة)",
+   "name_fr": "Fonction publique – ministères et établissements publics administratifs (cadre fixé par la Présidence du gouvernement)",
+   "ministry_fr": "Présidence du gouvernement (fonction publique) ; chaque ministère ou établissement organise ses propres concours",
+   "website": "https://www.concours.gov.tn"
+  },
+  "name_ar": "مناظرات انتداب المهندسين والتقنيين والمحللين في الإعلامية بالإدارات والمؤسسات العمومية",
+  "name_fr": "Concours de recrutement des ingénieurs, techniciens et informaticiens de l'État et des établissements publics",
+  "description_ar": "تنظم كل وزارة أو مؤسسة عمومية مناظراتها الخارجية لانتداب الإطارات التقنية بعد صدور قرار فتح المناظرة وبلاغ على موقعها أو على البوابة الوطنية للمناظرات. تجمع هذه العائلة: السلك المشترك لمهندسي الإدارات العمومية (تُفتح خاصة رتبة مهندس أول لحاملي شهادة مهندس)، السلك التقني المشترك للإدارات العمومية (رتب تقني ومساعد تقني)، سلك المحللين والتقنيين في الإعلامية (محلل...)، والرتب المماثلة بالمؤسسات العمومية (المركز الوطني للإعلامية، المعهد الوطني للرصد الجوي، الوكالة الوطنية للتصرف في النفايات، الهيئة الوطنية للاتصالات...). حسب الصحافة (للتثبت من النصوص الرسمية) شهدت سنة 2026 مناظرات منها: 25 مهندسا أول بوزارة التربية (هندسة مدنية، إعلامية، كهرباء، موائع؛ اختبارات 6 أكتوبر)، 20 مهندسا أول و21 تقنيا بوزارة أملاك الدولة (30 جويلية)، 16 تقنيا بوزارة المالية، 8 خطط بمركز الإعلامية لوزارة الداخلية، ومناظرات مفتوحة في أكتوبر 2026 بديوان رجيم معتوق (إلى 9 أكتوبر) والهيئة الوطنية للاتصالات (إلى 22 أكتوبر) ووكالة التعمير لتونس الكبرى (إلى 30 أكتوبر). تنبيه: لم يكن ممكنا فتح أي صفحة رسمية أو صحفية أثناء هذا البحث، لذلك كل المعطيات تحتاج إلى تثبت.",
+  "description_fr": "Chaque ministère ou établissement public organise ses propres concours externes de recrutement de cadres techniques, après un arrêté d'ouverture et un avis publié sur son site ou sur le portail national des concours. Cette famille regroupe : le corps commun des ingénieurs des administrations publiques (surtout le grade d'ingénieur principal, ouvert aux titulaires du diplôme d'ingénieur), le corps technique commun des administrations publiques (techniciens, assistants techniques), le corps des analystes et techniciens de l'informatique (analystes…) et les grades équivalents des établissements publics (CNI, INM, ANGED, INTT, offices…). Selon la presse (à vérifier dans les textes officiels), 2026 a vu notamment : 25 ingénieurs principaux au ministère de l'Éducation (génie civil, informatique, électricité, fluides ; épreuves le 6 octobre), 20 ingénieurs principaux et 21 techniciens aux Domaines de l'État (30 juillet), 16 techniciens aux Finances, 8 postes au Centre informatique du ministère de l'Intérieur, et des concours ouverts en octobre 2026 à l'Office de Régim Maâtoug (jusqu'au 9/10), à l'INTT (jusqu'au 22/10) et à l'Agence d'urbanisme du Grand Tunis (jusqu'au 30/10). Attention : aucune page officielle ni de presse n'a pu être ouverte pendant cette recherche ; toutes les données sont à vérifier.",
+  "frequency": "IRREGULAR",
+  "frequency_confidence": "LOW",
+  "popularity": 3,
+  "keywords": [
+   "ingénieur",
+   "ingénieur principal",
+   "ingénieurs",
+   "technicien",
+   "technicien supérieur",
+   "assistant technique",
+   "adjoint technique",
+   "analyste",
+   "programmeur",
+   "informaticien",
+   "CNI",
+   "Centre national de l'informatique",
+   "corps commun des ingénieurs",
+   "corps technique commun",
+   "génie civil",
+   "électricité",
+   "informatique",
+   "fluides",
+   "مهندس",
+   "مهندس أول",
+   "مهندسين",
+   "تقني",
+   "تقنيين",
+   "تقني سام",
+   "مساعد تقني",
+   "محلل",
+   "مبرمج",
+   "إعلامية",
+   "السلك المشترك لمهندسي الإدارات العمومية",
+   "السلك التقني المشترك",
+   "المركز الوطني للإعلامية",
+   "هندسة مدنية",
+   "كهرباء",
+   "مناظرة مهندسين",
+   "concours ingénieurs Tunisie",
+   "concours techniciens Tunisie"
+  ]
+ },
+ "sources": [
+  {
+   "key": "s1",
+   "title": "Portail national des concours de la fonction publique (البوابة الوطنية للمناظرات)",
+   "url": "https://www.concours.gov.tn",
+   "publisher": "Administration tunisienne (Présidence du gouvernement)",
+   "source_type": "OFFICIAL",
+   "publication_date": null,
+   "retrieved_at": "2026-10-07",
+   "confidence": "LOW",
+   "notes": "Portail officiel de référence (avis d'ouverture, inscriptions en ligne, résultats). NON CONSULTÉ : WebFetch renvoie EGRESS_BLOCKED pour www.concours.gov.tn depuis ce conteneur. Aucun fait de ce fichier n'en est tiré directement ; point de vérification prioritaire."
+  },
+  {
+   "key": "s2",
+   "title": "Éducation : 25 postes d'ingénieurs à pourvoir, les inscriptions ouvrent le 7 septembre",
+   "url": "https://www.webdo.tn/fr/actualite/national/education-25-postes-dingenieurs-a-pourvoir-les-inscriptions-ouvrent-le-7-septembre/402951/",
+   "publisher": "Webdo",
+   "source_type": "SECONDARY",
+   "publication_date": null,
+   "retrieved_at": "2026-10-07",
+   "confidence": "MEDIUM",
+   "notes": "PAGE NON OUVERTE : WebSearch indisponible (quota partagé épuisé dès la première requête) et WebFetch renvoie EGRESS_BLOCKED pour ce domaine le 07/10/2026. URL et faits repris de la veille consignée le même jour par l'équipe (content/competitions/_openings.json), fondée sur des résumés de moteur de recherche. Faits attribués : 25 ingénieurs principaux du corps commun des ingénieurs des administrations publiques au profit du ministère de l'Éducation, spécialités génie civil, informatique, électricité, fluides ; inscriptions à partir du 07/09/2026 (d'après le titre/URL de l'article), clôture 17/09/2026, épreuves 06/10/2026."
+  },
+  {
+   "key": "s3",
+   "title": "Tunisie : le ministère des Domaines de l'État ouvre trois concours externes",
+   "url": "https://directinfo.webmanagercenter.com/2026/06/04/tunisie-le-ministere-des-domaines-de-letat-ouvre-trois-concours-externes/",
+   "publisher": "Directinfo (Webmanagercenter)",
+   "source_type": "SECONDARY",
+   "publication_date": "2026-06-04",
+   "retrieved_at": "2026-10-07",
+   "confidence": "MEDIUM",
+   "notes": "PAGE NON OUVERTE : WebSearch indisponible (quota partagé épuisé dès la première requête) et WebFetch renvoie EGRESS_BLOCKED pour ce domaine le 07/10/2026. URL et faits repris de la veille consignée le même jour par l'équipe (content/competitions/_openings.json), fondée sur des résumés de moteur de recherche. Faits attribués : concours externes sur épreuves pour 20 ingénieurs principaux et 21 techniciens (ministère des Domaines de l'État et des Affaires foncières), épreuves le 30/07/2026."
+  },
+  {
+   "key": "s4",
+   "title": "Concours externe pour le recrutement de 16 techniciens au ministère des Finances (analyse chimique, génie civil)",
+   "url": "https://www.lapresse.tn/?p=4343475",
+   "publisher": "La Presse de Tunisie",
+   "source_type": "SECONDARY",
+   "publication_date": null,
+   "retrieved_at": "2026-10-07",
+   "confidence": "MEDIUM",
+   "notes": "PAGE NON OUVERTE : WebSearch indisponible (quota partagé épuisé dès la première requête) et WebFetch renvoie EGRESS_BLOCKED pour ce domaine le 07/10/2026. URL et faits repris de la veille consignée le même jour par l'équipe (content/competitions/_openings.json), fondée sur des résumés de moteur de recherche. Faits attribués : 16 techniciens du corps technique commun au profit du ministère des Finances, spécialités analyses chimiques et génie civil, niveau bac+2/licence. Dates non relevées."
+  },
+  {
+   "key": "s5",
+   "title": "Concours : 8 postes ouverts au Centre informatique du ministère de l'Intérieur",
+   "url": "https://directinfo.webmanagercenter.com/2026/10/05/concours-8-postes-ouverts-au-centre-informatique-du-ministere-de-linterieur/",
+   "publisher": "Directinfo (Webmanagercenter)",
+   "source_type": "SECONDARY",
+   "publication_date": "2026-10-05",
+   "retrieved_at": "2026-10-07",
+   "confidence": "LOW",
+   "notes": "PAGE NON OUVERTE : WebSearch indisponible (quota partagé épuisé dès la première requête) et WebFetch renvoie EGRESS_BLOCKED pour ce domaine le 07/10/2026. URL et faits repris de la veille consignée le même jour par l'équipe (content/competitions/_openings.json), fondée sur des résumés de moteur de recherche. Faits attribués : 8 postes au Centre informatique du ministère de l'Intérieur. Grades, diplômes et dates non relevés."
+  },
+  {
+   "key": "s6",
+   "title": "Concours de recrutement : l'Office de Régim Maâtoug offre huit postes techniques",
+   "url": "https://www.lapresse.tn/2026/09/21/concours-de-recrutement-loffice-de-regim-maatoug-offre-huit-postes-techniques",
+   "publisher": "La Presse de Tunisie",
+   "source_type": "SECONDARY",
+   "publication_date": "2026-09-21",
+   "retrieved_at": "2026-10-07",
+   "confidence": "MEDIUM",
+   "notes": "PAGE NON OUVERTE : WebSearch indisponible (quota partagé épuisé dès la première requête) et WebFetch renvoie EGRESS_BLOCKED pour ce domaine le 07/10/2026. URL et faits repris de la veille consignée le même jour par l'équipe (content/competitions/_openings.json), fondée sur des résumés de moteur de recherche. Faits attribués : concours externe, 8 agents (5 techniciens, 3 assistants techniques), niveau bac à bac+2, âge maximum 40 ans, clôture des candidatures le 09/10/2026."
+  },
+  {
+   "key": "s7",
+   "title": "L'Office des eaux minérales et du thermalisme ouvre un concours de recrutement",
+   "url": "https://www.lapresse.tn/2026/09/04/loffice-des-eaux-minerales-et-du-thermalisme-ouvre-un-concours-de-recrutement",
+   "publisher": "La Presse de Tunisie",
+   "source_type": "SECONDARY",
+   "publication_date": "2026-09-04",
+   "retrieved_at": "2026-10-07",
+   "confidence": "MEDIUM",
+   "notes": "PAGE NON OUVERTE : WebSearch indisponible (quota partagé épuisé dès la première requête) et WebFetch renvoie EGRESS_BLOCKED pour ce domaine le 07/10/2026. URL et faits repris de la veille consignée le même jour par l'équipe (content/competitions/_openings.json), fondée sur des résumés de moteur de recherche. Faits attribués : 13 agents (ingénieurs, analyste, administrateurs, techniciens supérieurs) au titre de 2025/2026, clôture 04/10/2026."
+  },
+  {
+   "key": "s8",
+   "title": "Recrutement : l'ANGED ouvre un concours pour renforcer ses équipes techniques et administratives",
+   "url": "https://www.lapresse.tn/2026/07/25/recrutement-langed-ouvre-un-concours-pour-renforcer-ses-equipes-techniques-et-administratives/",
+   "publisher": "La Presse de Tunisie",
+   "source_type": "SECONDARY",
+   "publication_date": "2026-07-25",
+   "retrieved_at": "2026-10-07",
+   "confidence": "MEDIUM",
+   "notes": "PAGE NON OUVERTE : WebSearch indisponible (quota partagé épuisé dès la première requête) et WebFetch renvoie EGRESS_BLOCKED pour ce domaine le 07/10/2026. URL et faits repris de la veille consignée le même jour par l'équipe (content/competitions/_openings.json), fondée sur des résumés de moteur de recherche. Faits attribués : 11 cadres (3 ingénieurs, 5 administrateurs, 3 techniciens supérieurs), clôture 24/08/2026."
+  },
+  {
+   "key": "s9",
+   "title": "Institut national de la météorologie : concours externe sur dossiers complété par un oral (22 cadres et agents)",
+   "url": "https://fr.allafrica.com/stories/202606300589.html",
+   "publisher": "AllAfrica (reprise de presse tunisienne)",
+   "source_type": "SECONDARY",
+   "publication_date": null,
+   "retrieved_at": "2026-10-07",
+   "confidence": "MEDIUM",
+   "notes": "PAGE NON OUVERTE : WebSearch indisponible (quota partagé épuisé dès la première requête) et WebFetch renvoie EGRESS_BLOCKED pour ce domaine le 07/10/2026. URL et faits repris de la veille consignée le même jour par l'équipe (content/competitions/_openings.json), fondée sur des résumés de moteur de recherche. Faits attribués : concours externe sur dossiers complété par une épreuve orale, 22 cadres et agents (ingénieurs, administrateurs, techniciens supérieurs), clôture 27/07/2026."
+  },
+  {
+   "key": "s10",
+   "title": "Concours INTT 2026 : recrutement de 6 agents et ingénieurs",
+   "url": "https://www.kedma.tn/2026/09/Concours%20INTT%202026.html",
+   "publisher": "Kedma.tn (site d'annonces d'emploi)",
+   "source_type": "SECONDARY",
+   "publication_date": null,
+   "retrieved_at": "2026-10-07",
+   "confidence": "LOW",
+   "notes": "PAGE NON OUVERTE : WebSearch indisponible (quota partagé épuisé dès la première requête) et WebFetch renvoie EGRESS_BLOCKED pour ce domaine le 07/10/2026. URL et faits repris de la veille consignée le même jour par l'équipe (content/competitions/_openings.json), fondée sur des résumés de moteur de recherche. Faits attribués : Instance nationale des télécommunications, 6 postes (statistique, communications, informatique, droit, comptabilité, sécurité), clôture 22/10/2026. Site d'agrégation : fiabilité moyenne, à recouper avec l'avis officiel."
+  },
+  {
+   "key": "s11",
+   "title": "Agence d'Urbanisme du Grand Tunis : concours de recrutement d'ingénieurs et de techniciens 2026",
+   "url": "https://www.kedma.tn/2026/10/concours-agence-urbanisme-grand-tunis-2026.html",
+   "publisher": "Kedma.tn (site d'annonces d'emploi)",
+   "source_type": "SECONDARY",
+   "publication_date": null,
+   "retrieved_at": "2026-10-07",
+   "confidence": "LOW",
+   "notes": "PAGE NON OUVERTE : WebSearch indisponible (quota partagé épuisé dès la première requête) et WebFetch renvoie EGRESS_BLOCKED pour ce domaine le 07/10/2026. URL et faits repris de la veille consignée le même jour par l'équipe (content/competitions/_openings.json), fondée sur des résumés de moteur de recherche. Faits attribués : ingénieurs et techniciens dans plusieurs spécialités, clôture 30/10/2026 ; nombre de postes non relevé."
+  },
+  {
+   "key": "s12",
+   "title": "Ministère du Transport : concours externe sur épreuves pour le recrutement d'assistants techniques (électricité, menuiserie)",
+   "url": "https://www.orientini.com/FR/Annonces_Orientation_Formation_Emploi/17282/",
+   "publisher": "Orientini (site d'annonces)",
+   "source_type": "SECONDARY",
+   "publication_date": null,
+   "retrieved_at": "2026-10-07",
+   "confidence": "LOW",
+   "notes": "PAGE NON OUVERTE : WebSearch indisponible (quota partagé épuisé dès la première requête) et WebFetch renvoie EGRESS_BLOCKED pour ce domaine le 07/10/2026. URL et faits repris de la veille consignée le même jour par l'équipe (content/competitions/_openings.json), fondée sur des résumés de moteur de recherche. Faits attribués : 2 assistants techniques (électricité, menuiserie de meubles), clôture 19/06/2026, épreuves 20/07/2026."
+  }
+ ],
+ "editions": [
+  {
+   "year": 2026,
+   "session_label": "وزارة التربية: مناظرة خارجية لانتداب 25 مهندسا أول بالسلك المشترك لمهندسي الإدارات العمومية (هندسة مدنية، إعلامية، كهرباء، موائع) / Ministère de l'Éducation : concours externe pour le recrutement de 25 ingénieurs principaux du corps commun des ingénieurs des administrations publiques (génie civil, informatique, électricité, fluides)",
+   "status": "EXAM_DONE",
+   "registration_open": "2026-09-07",
+   "registration_deadline": "2026-09-17",
+   "exam_date": "2026-10-06",
+   "positions_count": 25,
+   "candidates_count": null,
+   "position_slugs": [
+    "ingenieur-principal",
+    "ingenieur-principal-informatique",
+    "ingenieur-principal-genie-civil",
+    "ingenieur-principal-electricite"
+   ],
+   "source_key": "s2",
+   "confidence": "MEDIUM",
+   "needs_verification": true
+  },
+  {
+   "year": 2026,
+   "session_label": "وزارة أملاك الدولة والشؤون العقارية: مناظرة خارجية بالاختبارات لانتداب 20 مهندسا أول / Ministère des Domaines de l'État et des Affaires foncières : concours externe sur épreuves pour le recrutement de 20 ingénieurs principaux",
+   "status": "EXAM_DONE",
+   "registration_open": null,
+   "registration_deadline": null,
+   "exam_date": "2026-07-30",
+   "positions_count": 20,
+   "candidates_count": null,
+   "position_slugs": [
+    "ingenieur-principal",
+    "ingenieur-principal-informatique",
+    "ingenieur-principal-genie-civil",
+    "ingenieur-principal-electricite"
+   ],
+   "source_key": "s3",
+   "confidence": "MEDIUM",
+   "needs_verification": true
+  },
+  {
+   "year": 2026,
+   "session_label": "وزارة أملاك الدولة والشؤون العقارية: مناظرة خارجية بالاختبارات لانتداب 21 تقنيا / Ministère des Domaines de l'État et des Affaires foncières : concours externe sur épreuves pour le recrutement de 21 techniciens",
+   "status": "EXAM_DONE",
+   "registration_open": null,
+   "registration_deadline": null,
+   "exam_date": "2026-07-30",
+   "positions_count": 21,
+   "candidates_count": null,
+   "position_slugs": [
+    "technicien"
+   ],
+   "source_key": "s3",
+   "confidence": "MEDIUM",
+   "needs_verification": true
+  },
+  {
+   "year": 2026,
+   "session_label": "مناظرة خارجية لانتداب 16 تقنيا بالسلك التقني المشترك لفائدة وزارة المالية (تحاليل كيميائية وهندسة مدنية) / Concours externe pour le recrutement de 16 techniciens (analyse chimique, génie civil) au ministère des Finances - 2026",
+   "status": "CLOSED",
+   "registration_open": null,
+   "registration_deadline": null,
+   "exam_date": null,
+   "positions_count": 16,
+   "candidates_count": null,
+   "position_slugs": [
+    "technicien"
+   ],
+   "source_key": "s4",
+   "confidence": "MEDIUM",
+   "needs_verification": true
+  },
+  {
+   "year": 2026,
+   "session_label": "مركز الإعلامية لوزارة الداخلية: مناظرة لانتداب 8 خطط / Concours : 8 postes ouverts au Centre informatique du ministère de l'Intérieur",
+   "status": "ANNOUNCED",
+   "registration_open": null,
+   "registration_deadline": null,
+   "exam_date": null,
+   "positions_count": 8,
+   "candidates_count": null,
+   "position_slugs": [
+    "ingenieur-principal-informatique",
+    "analyste-informatique",
+    "technicien"
+   ],
+   "source_key": "s5",
+   "confidence": "LOW",
+   "needs_verification": true
+  },
+  {
+   "year": 2026,
+   "session_label": "ديوان تنمية رجيم معتوق: مناظرة خارجية لانتداب 8 أعوان (5 تقنيين و3 مساعدين تقنيين، السن القصوى 40 سنة) / Office de développement de Régim Maâtoug : concours externe pour le recrutement de 8 agents techniques (5 techniciens, 3 assistants techniques ; âge maximum 40 ans)",
+   "status": "OPEN",
+   "registration_open": null,
+   "registration_deadline": "2026-10-09",
+   "exam_date": null,
+   "positions_count": 8,
+   "candidates_count": null,
+   "position_slugs": [
+    "technicien",
+    "assistant-technique"
+   ],
+   "source_key": "s6",
+   "confidence": "MEDIUM",
+   "needs_verification": true
+  },
+  {
+   "year": 2026,
+   "session_label": "الديوان الوطني للمياه المعدنية والاستشفاء بالمياه: مناظرة لانتداب 13 عونا (مهندسون، محلل، متصرفون، تقنيون سامون) بعنوان 2025-2026 / Office national des eaux minérales et du thermalisme : concours de recrutement de 13 agents (ingénieurs, analyste, administrateurs, techniciens supérieurs) au titre de 2025-2026",
+   "status": "CLOSED",
+   "registration_open": null,
+   "registration_deadline": "2026-10-04",
+   "exam_date": null,
+   "positions_count": 13,
+   "candidates_count": null,
+   "position_slugs": [
+    "ingenieur-principal",
+    "analyste-informatique",
+    "technicien"
+   ],
+   "source_key": "s7",
+   "confidence": "MEDIUM",
+   "needs_verification": true
+  },
+  {
+   "year": 2026,
+   "session_label": "الوكالة الوطنية للتصرف في النفايات: مناظرة خارجية لانتداب 11 إطارا (3 مهندسين و5 متصرفين و3 تقنيين سامين) / ANGED : concours externe pour le recrutement de 11 cadres (3 ingénieurs, 5 administrateurs, 3 techniciens supérieurs)",
+   "status": "CLOSED",
+   "registration_open": null,
+   "registration_deadline": "2026-08-24",
+   "exam_date": null,
+   "positions_count": 11,
+   "candidates_count": null,
+   "position_slugs": [
+    "ingenieur-principal",
+    "technicien"
+   ],
+   "source_key": "s8",
+   "confidence": "MEDIUM",
+   "needs_verification": true
+  },
+  {
+   "year": 2026,
+   "session_label": "المعهد الوطني للرصد الجوي: مناظرة خارجية بالملفات مشفوعة باختبار شفاهي لانتداب 22 إطارا وعونا (مهندسون، متصرفون، تقنيون سامون) / Institut national de la météorologie : concours externe sur dossiers complété par un oral pour le recrutement de 22 cadres et agents (ingénieurs, administrateurs, techniciens supérieurs)",
+   "status": "CLOSED",
+   "registration_open": null,
+   "registration_deadline": "2026-07-27",
+   "exam_date": null,
+   "positions_count": 22,
+   "candidates_count": null,
+   "position_slugs": [
+    "ingenieur-principal",
+    "technicien"
+   ],
+   "source_key": "s9",
+   "confidence": "MEDIUM",
+   "needs_verification": true
+  },
+  {
+   "year": 2026,
+   "session_label": "الهيئة الوطنية للاتصالات: مناظرة لانتداب 6 أعوان ومهندسين (إحصاء، اتصالات، إعلامية، قانون، محاسبة، سلامة) / Instance nationale des télécommunications (INTT) : concours de recrutement de 6 agents et ingénieurs (statistique, communications, informatique, droit, comptabilité, sécurité)",
+   "status": "OPEN",
+   "registration_open": null,
+   "registration_deadline": "2026-10-22",
+   "exam_date": null,
+   "positions_count": 6,
+   "candidates_count": null,
+   "position_slugs": [
+    "ingenieur-principal",
+    "ingenieur-principal-informatique",
+    "analyste-informatique"
+   ],
+   "source_key": "s10",
+   "confidence": "LOW",
+   "needs_verification": true
+  },
+  {
+   "year": 2026,
+   "session_label": "وكالة التعمير لتونس الكبرى: مناظرة لانتداب مهندسين وتقنيين في عدة اختصاصات / Agence d'Urbanisme du Grand Tunis : concours de recrutement d'ingénieurs et de techniciens (plusieurs spécialités)",
+   "status": "OPEN",
+   "registration_open": null,
+   "registration_deadline": "2026-10-30",
+   "exam_date": null,
+   "positions_count": null,
+   "candidates_count": null,
+   "position_slugs": [
+    "ingenieur-principal",
+    "ingenieur-principal-genie-civil",
+    "technicien"
+   ],
+   "source_key": "s11",
+   "confidence": "LOW",
+   "needs_verification": true
+  },
+  {
+   "year": 2026,
+   "session_label": "وزارة النقل: مناظرة خارجية بالاختبارات لانتداب مساعدين تقنيين (كهرباء، نجارة الأثاث) / Ministère du Transport : concours externe sur épreuves pour le recrutement de 2 assistants techniques (électricité, menuiserie)",
+   "status": "EXAM_DONE",
+   "registration_open": null,
+   "registration_deadline": "2026-06-19",
+   "exam_date": "2026-07-20",
+   "positions_count": 2,
+   "candidates_count": null,
+   "position_slugs": [
+    "assistant-technique"
+   ],
+   "source_key": "s12",
+   "confidence": "LOW",
+   "needs_verification": true
+  }
+ ],
+ "positions": [
+  {
+   "slug": "ingenieur-principal",
+   "title_ar": "مهندس أول — السلك المشترك لمهندسي الإدارات العمومية (كل الاختصاصات)",
+   "title_fr": "Ingénieur principal — corps commun des ingénieurs des administrations publiques (toutes spécialités)",
+   "diploma_level": "ENGINEER",
+   "eligibility": {
+    "min_age": 18,
+    "max_age": null,
+    "genders": [
+     "M",
+     "F"
+    ],
+    "nationality": "TN",
+    "diplomas": [
+     "ENGINEER"
+    ],
+    "specialties": [],
+    "min_height_cm_male": null,
+    "min_height_cm_female": null,
+    "marital_status": null,
+    "other_ar": [
+     "شهادة مهندس وطني أو شهادة معادلة لها في الاختصاص الذي يحدده قرار فتح المناظرة (مثال وزارة التربية 2026: هندسة مدنية، إعلامية، كهرباء، موائع)",
+     "[مقترح] الاختصاصات تختلف من مناظرة إلى أخرى ولا تُطبّق آليا هنا؛ المرجع هو قائمة الاختصاصات وعدد الخطط لكل اختصاص في قرار فتح المناظرة",
+     "[مقترح] الشروط العامة للانتداب بالوظيفة العمومية (القانون الأساسي العام لأعوان الدولة، القانون عدد 112 لسنة 1983، للتثبت): الجنسية التونسية، التمتع بالحقوق المدنية، حسن السيرة، بلوغ 18 سنة على الأقل، القدرة البدنية على العمل، وضعية قانونية إزاء الخدمة الوطنية",
+     "[مقترح] يضبط قرار فتح المناظرة حدا أقصى للسن (كثيرا ما يكون 40 سنة في تاريخ ختم الترشحات، مع إمكانية الترفيع بمدة الخدمة الوطنية؛ مثال: 40 سنة في مناظرة ديوان رجيم معتوق 2026) — غير مطبّق آليا هنا تفاديا لإقصاء مترشحين عن خطأ",
+     "[مقترح] حاملو الشهادات الأجنبية يرفقون قرار معادلة صادرا عن وزارة التعليم العالي",
+     "[مقترح] نفس الرتب تُفتح أيضا في المؤسسات العمومية (المركز الوطني للإعلامية، المعهد الوطني للرصد الجوي، الوكالة الوطنية للتصرف في النفايات، الهيئة الوطنية للاتصالات...) وفق أنظمتها الأساسية الخاصة: الشروط والتسميات قد تختلف"
+    ],
+    "other_fr": [
+     "Diplôme national d'ingénieur ou diplôme équivalent dans la spécialité fixée par l'arrêté d'ouverture (ex. ministère de l'Éducation 2026 : génie civil, informatique, électricité, fluides)",
+     "[Suggestion] Les spécialités varient d'un concours à l'autre et ne sont pas appliquées automatiquement ici ; seule la liste (et le nombre de postes par spécialité) de l'arrêté d'ouverture fait foi",
+     "[Suggestion] Conditions générales d'accès à la fonction publique (statut général des personnels de l'État, loi n° 83-112, à vérifier) : nationalité tunisienne, jouissance des droits civiques, bonne moralité, 18 ans au moins, aptitude physique, situation régulière vis-à-vis du service national",
+     "[Suggestion] L'arrêté d'ouverture fixe un âge maximum (souvent 40 ans à la clôture des candidatures, avec report possible pour service national ; ex. 40 ans au concours de l'Office de Régim Maâtoug 2026) — volontairement non appliqué automatiquement",
+     "[Suggestion] Les titulaires de diplômes étrangers joignent l'arrêté/attestation d'équivalence du ministère de l'Enseignement supérieur",
+     "[Suggestion] Les mêmes grades sont aussi ouverts dans les établissements publics (CNI, INM, ANGED, INTT, offices…) selon leurs statuts particuliers : conditions et intitulés peuvent différer"
+    ],
+    "source_key": "s2",
+    "confidence": "LOW",
+    "needs_verification": true,
+    "source_quote": null
+   },
+   "phases": [
+    {
+     "order": 1,
+     "kind": "FILE_REVIEW",
+     "name_ar": "الترشح عن بعد ودراسة قبول الملفات",
+     "name_fr": "Inscription en ligne et recevabilité des dossiers",
+     "is_eliminatory": true,
+     "duration_minutes": null,
+     "description_ar": "[مقترح] التسجيل عن بعد عبر البوابة الوطنية للمناظرات (concours.gov.tn) أو منصة الوزارة/المؤسسة حسب البلاغ، ثم إرسال الملف في الآجال عند الاقتضاء. في المناظرات «بالملفات» (مثل المعهد الوطني للرصد الجوي 2026) تمثل هذه المرحلة الانتقاء الأساسي وفق مقاييس معلنة (المعدل، سنة التخرج، الملاحظة، الخبرة...).",
+     "description_fr": "[Suggestion] Inscription en ligne sur le portail national des concours (concours.gov.tn) ou la plateforme du ministère/de l'établissement selon l'avis, puis envoi du dossier dans les délais si demandé. Dans les concours « sur dossiers » (ex. INM 2026), cette étape constitue la sélection principale selon des critères annoncés (moyenne, année d'obtention du diplôme, mention, expérience…).",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "order": 2,
+     "kind": "WRITTEN",
+     "name_ar": "الاختبارات الكتابية للقبول الأولي",
+     "name_fr": "Épreuves écrites d'admissibilité",
+     "is_eliminatory": true,
+     "duration_minutes": null,
+     "description_ar": "مناظرات المهندسين الأول بالوزارات تُنظّم عادة «بالاختبارات» (مثال: وزارة أملاك الدولة، اختبارات 30 جويلية 2026). [مقترح] تتكون غالبا من اختبار في الاختصاص (الاختصاص المطلوب (هندسة مدنية، موائع وطاقة، ميكانيك، كيمياء، فلاحة...)) في شكل مسائل أو دراسة حالة، واختبار ثان في التحرير الفني أو اللغة؛ المدد والضوارب تضبطها قرارات فتح المناظرة وتُراجع فيها.",
+     "description_fr": "Les concours d'ingénieurs principaux des ministères sont généralement « sur épreuves » (ex. Domaines de l'État, épreuves le 30/07/2026). [Suggestion] Ils comportent le plus souvent une épreuve de spécialité (spécialité demandée (génie civil, fluides et énergie, mécanique, chimie, agronomie…)) sous forme de problèmes ou d'étude de cas, et une seconde épreuve de rédaction technique ou de langue ; durées et coefficients fixés par l'arrêté d'ouverture, à vérifier.",
+     "source_key": "s3",
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "order": 3,
+     "kind": "ORAL",
+     "name_ar": "الاختبار الشفاهي للقبول النهائي",
+     "name_fr": "Épreuve orale d'admission",
+     "is_eliminatory": true,
+     "duration_minutes": null,
+     "description_ar": "[مقترح] مقابلة مع لجنة للمقبولين كتابيا: تقديم مشروع ختم الدروس والتجارب، أسئلة تقنية في الاختصاص، معرفة الإدارة والصفقات العمومية. بعض المؤسسات العمومية تكتفي بالملفات مع اختبار شفاهي (المعهد الوطني للرصد الجوي 2026).",
+     "description_fr": "[Suggestion] Entretien avec le jury pour les admissibles : présentation du projet de fin d'études et des expériences, questions techniques de spécialité, connaissance de l'administration et des marchés publics. Certains établissements publics procèdent sur dossiers complétés par un oral (INM 2026).",
+     "source_key": "s9",
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "order": 4,
+     "kind": "TRAINING",
+     "name_ar": "التربص قبل الترسيم",
+     "name_fr": "Stage probatoire avant titularisation",
+     "is_eliminatory": false,
+     "duration_minutes": null,
+     "description_ar": "[مقترح] يُسمّى الناجحون بصفة متربصين لمدة سنة (قابلة للتجديد مرة واحدة حسب القانون الأساسي العام، للتثبت) قبل الترسيم.",
+     "description_fr": "[Suggestion] Les lauréats sont nommés stagiaires pour un an (renouvelable une fois selon le statut général, à vérifier) avant titularisation.",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    }
+   ],
+   "subjects": [
+    {
+     "phase_order": 2,
+     "domain": "SPECIALTY",
+     "specialty_key": null,
+     "name_ar": "اختبار كتابي في الاختصاص: الاختصاص المطلوب (هندسة مدنية، موائع وطاقة، ميكانيك، كيمياء، فلاحة...)",
+     "name_fr": "Épreuve écrite de spécialité : spécialité demandée (génie civil, fluides et énergie, mécanique, chimie, agronomie…)",
+     "coefficient": 2,
+     "duration_minutes": 180,
+     "question_count": null,
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "phase_order": 2,
+     "domain": "FRENCH",
+     "specialty_key": null,
+     "name_ar": "تحرير تقرير فني أو مذكرة باللغة الفرنسية",
+     "name_fr": "Rédaction d'un rapport ou d'une note technique en français",
+     "coefficient": 1,
+     "duration_minutes": 120,
+     "question_count": null,
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "phase_order": 3,
+     "domain": "SPECIALTY",
+     "specialty_key": "spec.techniciens-ingenieurs.marches-publics",
+     "name_ar": "الاختبار الشفاهي: الاختصاص، مشروع ختم الدروس، الصفقات العمومية والإدارة",
+     "name_fr": "Oral : spécialité, projet de fin d'études, marchés publics et administration",
+     "coefficient": 1,
+     "duration_minutes": null,
+     "question_count": null,
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    }
+   ],
+   "physical_tests": [],
+   "required_documents": [
+    {
+     "text_ar": "استمارة الترشح المعمّرة عن بعد أو وصل التسجيل (نسخة مطبوعة وممضاة إن طُلبت)",
+     "text_fr": "Formulaire de candidature rempli en ligne ou accusé d'inscription (copie imprimée et signée si demandée)",
+     "source_key": "s1",
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "text_ar": "نسخة من بطاقة التعريف الوطنية",
+     "text_fr": "Copie de la carte d'identité nationale (CIN)",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "text_ar": "نسخة من الشهادة العلمية المطلوبة وكشوف الأعداد لكامل سنوات الدراسة",
+     "text_fr": "Copie du diplôme exigé et des relevés de notes de toutes les années d'études",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "text_ar": "قرار معادلة بالنسبة للشهادات الأجنبية",
+     "text_fr": "Attestation d'équivalence pour les diplômes étrangers",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "text_ar": "وثيقة تثبت الوضعية إزاء الخدمة الوطنية (للذكور)",
+     "text_fr": "Justificatif de la situation vis-à-vis du service national (candidats hommes)",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "text_ar": "في المناظرات بالملفات: سيرة ذاتية وشهادات التربصات والخبرة المهنية حسب مقاييس التقييم المعلنة",
+     "text_fr": "Concours sur dossiers : CV et attestations de stages/expérience professionnelle selon la grille d'évaluation annoncée",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "text_ar": "بعد النجاح عادة: بطاقة عدد 3 حديثة وشهادة طبية في القدرة على العمل ومضمون ولادة",
+     "text_fr": "Généralement après admission : bulletin n° 3 récent, certificat médical d'aptitude et extrait de naissance",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    }
+   ],
+   "blueprint": {
+    "total_minutes": 140,
+    "fidelity": "APPROXIMATED",
+    "sections": [
+     {
+      "domain": "SPECIALTY",
+      "specialty_key": "spec.techniciens-ingenieurs.marches-publics",
+      "count": 15,
+      "minutes": 25
+     },
+     {
+      "domain": "SPECIALTY",
+      "specialty_key": "spec.techniciens-ingenieurs.gestion-projets",
+      "count": 15,
+      "minutes": 25
+     },
+     {
+      "domain": "SPECIALTY",
+      "specialty_key": "spec.droit-administratif",
+      "count": 10,
+      "minutes": 15
+     },
+     {
+      "domain": "SPECIALTY",
+      "specialty_key": "spec.redaction-administrative",
+      "count": 10,
+      "minutes": 15
+     },
+     {
+      "domain": "FRENCH",
+      "specialty_key": null,
+      "count": 10,
+      "minutes": 15
+     },
+     {
+      "domain": "ENGLISH",
+      "specialty_key": null,
+      "count": 10,
+      "minutes": 15
+     },
+     {
+      "domain": "NUMERICAL",
+      "specialty_key": null,
+      "count": 10,
+      "minutes": 20
+     },
+     {
+      "domain": "LOGIC",
+      "specialty_key": null,
+      "count": 5,
+      "minutes": 10
+     }
+    ]
+   }
+  },
+  {
+   "slug": "ingenieur-principal-informatique",
+   "title_ar": "مهندس أول اختصاص إعلامية (الوزارات، المركز الوطني للإعلامية، مراكز الإعلامية)",
+   "title_fr": "Ingénieur principal en informatique (ministères, CNI, centres informatiques)",
+   "diploma_level": "ENGINEER",
+   "eligibility": {
+    "min_age": 18,
+    "max_age": null,
+    "genders": [
+     "M",
+     "F"
+    ],
+    "nationality": "TN",
+    "diplomas": [
+     "ENGINEER"
+    ],
+    "specialties": [
+     "informatique",
+     "إعلامية",
+     "اعلامية",
+     "معلوماتية",
+     "génie logiciel",
+     "systèmes d'information",
+     "réseaux",
+     "télécom",
+     "اتصالات"
+    ],
+    "min_height_cm_male": null,
+    "min_height_cm_female": null,
+    "marital_status": null,
+    "other_ar": [
+     "شهادة مهندس وطني أو شهادة معادلة لها في الاختصاص الذي يحدده قرار فتح المناظرة (مثال وزارة التربية 2026: هندسة مدنية، إعلامية، كهرباء، موائع)",
+     "[مقترح] الاختصاصات المقبولة عادة: هندسة الإعلامية، البرمجيات، الشبكات والاتصالات، أنظمة المعلومات — للتثبت في كل قرار",
+     "[مقترح] الشروط العامة للانتداب بالوظيفة العمومية (القانون الأساسي العام لأعوان الدولة، القانون عدد 112 لسنة 1983، للتثبت): الجنسية التونسية، التمتع بالحقوق المدنية، حسن السيرة، بلوغ 18 سنة على الأقل، القدرة البدنية على العمل، وضعية قانونية إزاء الخدمة الوطنية",
+     "[مقترح] يضبط قرار فتح المناظرة حدا أقصى للسن (كثيرا ما يكون 40 سنة في تاريخ ختم الترشحات، مع إمكانية الترفيع بمدة الخدمة الوطنية؛ مثال: 40 سنة في مناظرة ديوان رجيم معتوق 2026) — غير مطبّق آليا هنا تفاديا لإقصاء مترشحين عن خطأ",
+     "[مقترح] حاملو الشهادات الأجنبية يرفقون قرار معادلة صادرا عن وزارة التعليم العالي",
+     "[مقترح] نفس الرتب تُفتح أيضا في المؤسسات العمومية (المركز الوطني للإعلامية، المعهد الوطني للرصد الجوي، الوكالة الوطنية للتصرف في النفايات، الهيئة الوطنية للاتصالات...) وفق أنظمتها الأساسية الخاصة: الشروط والتسميات قد تختلف"
+    ],
+    "other_fr": [
+     "Diplôme national d'ingénieur ou diplôme équivalent dans la spécialité fixée par l'arrêté d'ouverture (ex. ministère de l'Éducation 2026 : génie civil, informatique, électricité, fluides)",
+     "[Suggestion] Spécialités généralement admises : génie informatique, génie logiciel, réseaux et télécommunications, systèmes d'information — à vérifier dans chaque arrêté",
+     "[Suggestion] Conditions générales d'accès à la fonction publique (statut général des personnels de l'État, loi n° 83-112, à vérifier) : nationalité tunisienne, jouissance des droits civiques, bonne moralité, 18 ans au moins, aptitude physique, situation régulière vis-à-vis du service national",
+     "[Suggestion] L'arrêté d'ouverture fixe un âge maximum (souvent 40 ans à la clôture des candidatures, avec report possible pour service national ; ex. 40 ans au concours de l'Office de Régim Maâtoug 2026) — volontairement non appliqué automatiquement",
+     "[Suggestion] Les titulaires de diplômes étrangers joignent l'arrêté/attestation d'équivalence du ministère de l'Enseignement supérieur",
+     "[Suggestion] Les mêmes grades sont aussi ouverts dans les établissements publics (CNI, INM, ANGED, INTT, offices…) selon leurs statuts particuliers : conditions et intitulés peuvent différer"
+    ],
+    "source_key": "s2",
+    "confidence": "LOW",
+    "needs_verification": true,
+    "source_quote": null
+   },
+   "phases": [
+    {
+     "order": 1,
+     "kind": "FILE_REVIEW",
+     "name_ar": "الترشح عن بعد ودراسة قبول الملفات",
+     "name_fr": "Inscription en ligne et recevabilité des dossiers",
+     "is_eliminatory": true,
+     "duration_minutes": null,
+     "description_ar": "[مقترح] التسجيل عن بعد عبر البوابة الوطنية للمناظرات (concours.gov.tn) أو منصة الوزارة/المؤسسة حسب البلاغ، ثم إرسال الملف في الآجال عند الاقتضاء. في المناظرات «بالملفات» (مثل المعهد الوطني للرصد الجوي 2026) تمثل هذه المرحلة الانتقاء الأساسي وفق مقاييس معلنة (المعدل، سنة التخرج، الملاحظة، الخبرة...).",
+     "description_fr": "[Suggestion] Inscription en ligne sur le portail national des concours (concours.gov.tn) ou la plateforme du ministère/de l'établissement selon l'avis, puis envoi du dossier dans les délais si demandé. Dans les concours « sur dossiers » (ex. INM 2026), cette étape constitue la sélection principale selon des critères annoncés (moyenne, année d'obtention du diplôme, mention, expérience…).",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "order": 2,
+     "kind": "WRITTEN",
+     "name_ar": "الاختبارات الكتابية للقبول الأولي",
+     "name_fr": "Épreuves écrites d'admissibilité",
+     "is_eliminatory": true,
+     "duration_minutes": null,
+     "description_ar": "مناظرات المهندسين الأول بالوزارات تُنظّم عادة «بالاختبارات» (مثال: وزارة أملاك الدولة، اختبارات 30 جويلية 2026). [مقترح] تتكون غالبا من اختبار في الاختصاص (الإعلامية: خوارزميات وبرمجة، قواعد بيانات، شبكات، سلامة معلوماتية، هندسة البرمجيات) في شكل مسائل أو دراسة حالة، واختبار ثان في التحرير الفني أو اللغة؛ المدد والضوارب تضبطها قرارات فتح المناظرة وتُراجع فيها.",
+     "description_fr": "Les concours d'ingénieurs principaux des ministères sont généralement « sur épreuves » (ex. Domaines de l'État, épreuves le 30/07/2026). [Suggestion] Ils comportent le plus souvent une épreuve de spécialité (informatique : algorithmique et programmation, bases de données, réseaux, sécurité, génie logiciel) sous forme de problèmes ou d'étude de cas, et une seconde épreuve de rédaction technique ou de langue ; durées et coefficients fixés par l'arrêté d'ouverture, à vérifier.",
+     "source_key": "s3",
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "order": 3,
+     "kind": "ORAL",
+     "name_ar": "الاختبار الشفاهي للقبول النهائي",
+     "name_fr": "Épreuve orale d'admission",
+     "is_eliminatory": true,
+     "duration_minutes": null,
+     "description_ar": "[مقترح] مقابلة مع لجنة للمقبولين كتابيا: تقديم مشروع ختم الدروس والتجارب، أسئلة تقنية في الاختصاص، معرفة الإدارة والصفقات العمومية. بعض المؤسسات العمومية تكتفي بالملفات مع اختبار شفاهي (المعهد الوطني للرصد الجوي 2026).",
+     "description_fr": "[Suggestion] Entretien avec le jury pour les admissibles : présentation du projet de fin d'études et des expériences, questions techniques de spécialité, connaissance de l'administration et des marchés publics. Certains établissements publics procèdent sur dossiers complétés par un oral (INM 2026).",
+     "source_key": "s9",
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "order": 4,
+     "kind": "TRAINING",
+     "name_ar": "التربص قبل الترسيم",
+     "name_fr": "Stage probatoire avant titularisation",
+     "is_eliminatory": false,
+     "duration_minutes": null,
+     "description_ar": "[مقترح] يُسمّى الناجحون بصفة متربصين لمدة سنة (قابلة للتجديد مرة واحدة حسب القانون الأساسي العام، للتثبت) قبل الترسيم.",
+     "description_fr": "[Suggestion] Les lauréats sont nommés stagiaires pour un an (renouvelable une fois selon le statut général, à vérifier) avant titularisation.",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    }
+   ],
+   "subjects": [
+    {
+     "phase_order": 2,
+     "domain": "SPECIALTY",
+     "specialty_key": "spec.informatique",
+     "name_ar": "اختبار كتابي في الاختصاص: الإعلامية: خوارزميات وبرمجة، قواعد بيانات، شبكات، سلامة معلوماتية، هندسة البرمجيات",
+     "name_fr": "Épreuve écrite de spécialité : informatique : algorithmique et programmation, bases de données, réseaux, sécurité, génie logiciel",
+     "coefficient": 2,
+     "duration_minutes": 180,
+     "question_count": null,
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "phase_order": 2,
+     "domain": "FRENCH",
+     "specialty_key": null,
+     "name_ar": "تحرير تقرير فني أو مذكرة باللغة الفرنسية",
+     "name_fr": "Rédaction d'un rapport ou d'une note technique en français",
+     "coefficient": 1,
+     "duration_minutes": 120,
+     "question_count": null,
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "phase_order": 3,
+     "domain": "SPECIALTY",
+     "specialty_key": "spec.techniciens-ingenieurs.marches-publics",
+     "name_ar": "الاختبار الشفاهي: الاختصاص، مشروع ختم الدروس، الصفقات العمومية والإدارة",
+     "name_fr": "Oral : spécialité, projet de fin d'études, marchés publics et administration",
+     "coefficient": 1,
+     "duration_minutes": null,
+     "question_count": null,
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    }
+   ],
+   "physical_tests": [],
+   "required_documents": [
+    {
+     "text_ar": "استمارة الترشح المعمّرة عن بعد أو وصل التسجيل (نسخة مطبوعة وممضاة إن طُلبت)",
+     "text_fr": "Formulaire de candidature rempli en ligne ou accusé d'inscription (copie imprimée et signée si demandée)",
+     "source_key": "s1",
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "text_ar": "نسخة من بطاقة التعريف الوطنية",
+     "text_fr": "Copie de la carte d'identité nationale (CIN)",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "text_ar": "نسخة من الشهادة العلمية المطلوبة وكشوف الأعداد لكامل سنوات الدراسة",
+     "text_fr": "Copie du diplôme exigé et des relevés de notes de toutes les années d'études",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "text_ar": "قرار معادلة بالنسبة للشهادات الأجنبية",
+     "text_fr": "Attestation d'équivalence pour les diplômes étrangers",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "text_ar": "وثيقة تثبت الوضعية إزاء الخدمة الوطنية (للذكور)",
+     "text_fr": "Justificatif de la situation vis-à-vis du service national (candidats hommes)",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "text_ar": "في المناظرات بالملفات: سيرة ذاتية وشهادات التربصات والخبرة المهنية حسب مقاييس التقييم المعلنة",
+     "text_fr": "Concours sur dossiers : CV et attestations de stages/expérience professionnelle selon la grille d'évaluation annoncée",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "text_ar": "بعد النجاح عادة: بطاقة عدد 3 حديثة وشهادة طبية في القدرة على العمل ومضمون ولادة",
+     "text_fr": "Généralement après admission : bulletin n° 3 récent, certificat médical d'aptitude et extrait de naissance",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    }
+   ],
+   "blueprint": {
+    "total_minutes": 120,
+    "fidelity": "APPROXIMATED",
+    "sections": [
+     {
+      "domain": "SPECIALTY",
+      "specialty_key": "spec.informatique",
+      "count": 45,
+      "minutes": 65
+     },
+     {
+      "domain": "SPECIALTY",
+      "specialty_key": "spec.techniciens-ingenieurs.marches-publics",
+      "count": 10,
+      "minutes": 15
+     },
+     {
+      "domain": "ENGLISH",
+      "specialty_key": null,
+      "count": 10,
+      "minutes": 15
+     },
+     {
+      "domain": "FRENCH",
+      "specialty_key": null,
+      "count": 5,
+      "minutes": 10
+     },
+     {
+      "domain": "LOGIC",
+      "specialty_key": null,
+      "count": 10,
+      "minutes": 15
+     }
+    ]
+   }
+  },
+  {
+   "slug": "ingenieur-principal-genie-civil",
+   "title_ar": "مهندس أول اختصاص هندسة مدنية",
+   "title_fr": "Ingénieur principal en génie civil",
+   "diploma_level": "ENGINEER",
+   "eligibility": {
+    "min_age": 18,
+    "max_age": null,
+    "genders": [
+     "M",
+     "F"
+    ],
+    "nationality": "TN",
+    "diplomas": [
+     "ENGINEER"
+    ],
+    "specialties": [
+     "génie civil",
+     "هندسة مدنية",
+     "الهندسة المدنية",
+     "bâtiment",
+     "travaux publics",
+     "hydraulique",
+     "géotechnique"
+    ],
+    "min_height_cm_male": null,
+    "min_height_cm_female": null,
+    "marital_status": null,
+    "other_ar": [
+     "شهادة مهندس وطني أو شهادة معادلة لها في الاختصاص الذي يحدده قرار فتح المناظرة (مثال وزارة التربية 2026: هندسة مدنية، إعلامية، كهرباء، موائع)",
+     "[مقترح] قد تُقبل أيضا اختصاصات قريبة (هيدروليك، أشغال عمومية، جيوتقنية) حسب القرار",
+     "[مقترح] الشروط العامة للانتداب بالوظيفة العمومية (القانون الأساسي العام لأعوان الدولة، القانون عدد 112 لسنة 1983، للتثبت): الجنسية التونسية، التمتع بالحقوق المدنية، حسن السيرة، بلوغ 18 سنة على الأقل، القدرة البدنية على العمل، وضعية قانونية إزاء الخدمة الوطنية",
+     "[مقترح] يضبط قرار فتح المناظرة حدا أقصى للسن (كثيرا ما يكون 40 سنة في تاريخ ختم الترشحات، مع إمكانية الترفيع بمدة الخدمة الوطنية؛ مثال: 40 سنة في مناظرة ديوان رجيم معتوق 2026) — غير مطبّق آليا هنا تفاديا لإقصاء مترشحين عن خطأ",
+     "[مقترح] حاملو الشهادات الأجنبية يرفقون قرار معادلة صادرا عن وزارة التعليم العالي",
+     "[مقترح] نفس الرتب تُفتح أيضا في المؤسسات العمومية (المركز الوطني للإعلامية، المعهد الوطني للرصد الجوي، الوكالة الوطنية للتصرف في النفايات، الهيئة الوطنية للاتصالات...) وفق أنظمتها الأساسية الخاصة: الشروط والتسميات قد تختلف"
+    ],
+    "other_fr": [
+     "Diplôme national d'ingénieur ou diplôme équivalent dans la spécialité fixée par l'arrêté d'ouverture (ex. ministère de l'Éducation 2026 : génie civil, informatique, électricité, fluides)",
+     "[Suggestion] Des spécialités voisines (hydraulique, travaux publics, géotechnique) peuvent être admises selon l'arrêté",
+     "[Suggestion] Conditions générales d'accès à la fonction publique (statut général des personnels de l'État, loi n° 83-112, à vérifier) : nationalité tunisienne, jouissance des droits civiques, bonne moralité, 18 ans au moins, aptitude physique, situation régulière vis-à-vis du service national",
+     "[Suggestion] L'arrêté d'ouverture fixe un âge maximum (souvent 40 ans à la clôture des candidatures, avec report possible pour service national ; ex. 40 ans au concours de l'Office de Régim Maâtoug 2026) — volontairement non appliqué automatiquement",
+     "[Suggestion] Les titulaires de diplômes étrangers joignent l'arrêté/attestation d'équivalence du ministère de l'Enseignement supérieur",
+     "[Suggestion] Les mêmes grades sont aussi ouverts dans les établissements publics (CNI, INM, ANGED, INTT, offices…) selon leurs statuts particuliers : conditions et intitulés peuvent différer"
+    ],
+    "source_key": "s2",
+    "confidence": "LOW",
+    "needs_verification": true,
+    "source_quote": null
+   },
+   "phases": [
+    {
+     "order": 1,
+     "kind": "FILE_REVIEW",
+     "name_ar": "الترشح عن بعد ودراسة قبول الملفات",
+     "name_fr": "Inscription en ligne et recevabilité des dossiers",
+     "is_eliminatory": true,
+     "duration_minutes": null,
+     "description_ar": "[مقترح] التسجيل عن بعد عبر البوابة الوطنية للمناظرات (concours.gov.tn) أو منصة الوزارة/المؤسسة حسب البلاغ، ثم إرسال الملف في الآجال عند الاقتضاء. في المناظرات «بالملفات» (مثل المعهد الوطني للرصد الجوي 2026) تمثل هذه المرحلة الانتقاء الأساسي وفق مقاييس معلنة (المعدل، سنة التخرج، الملاحظة، الخبرة...).",
+     "description_fr": "[Suggestion] Inscription en ligne sur le portail national des concours (concours.gov.tn) ou la plateforme du ministère/de l'établissement selon l'avis, puis envoi du dossier dans les délais si demandé. Dans les concours « sur dossiers » (ex. INM 2026), cette étape constitue la sélection principale selon des critères annoncés (moyenne, année d'obtention du diplôme, mention, expérience…).",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "order": 2,
+     "kind": "WRITTEN",
+     "name_ar": "الاختبارات الكتابية للقبول الأولي",
+     "name_fr": "Épreuves écrites d'admissibilité",
+     "is_eliminatory": true,
+     "duration_minutes": null,
+     "description_ar": "مناظرات المهندسين الأول بالوزارات تُنظّم عادة «بالاختبارات» (مثال: وزارة أملاك الدولة، اختبارات 30 جويلية 2026). [مقترح] تتكون غالبا من اختبار في الاختصاص (الهندسة المدنية: مقاومة المواد، الخرسانة المسلحة، الجيوتقنية، الطوبوغرافيا، القياسات وتتبع الأشغال) في شكل مسائل أو دراسة حالة، واختبار ثان في التحرير الفني أو اللغة؛ المدد والضوارب تضبطها قرارات فتح المناظرة وتُراجع فيها.",
+     "description_fr": "Les concours d'ingénieurs principaux des ministères sont généralement « sur épreuves » (ex. Domaines de l'État, épreuves le 30/07/2026). [Suggestion] Ils comportent le plus souvent une épreuve de spécialité (génie civil : RDM, béton armé, géotechnique, topographie, métré et suivi de chantier) sous forme de problèmes ou d'étude de cas, et une seconde épreuve de rédaction technique ou de langue ; durées et coefficients fixés par l'arrêté d'ouverture, à vérifier.",
+     "source_key": "s3",
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "order": 3,
+     "kind": "ORAL",
+     "name_ar": "الاختبار الشفاهي للقبول النهائي",
+     "name_fr": "Épreuve orale d'admission",
+     "is_eliminatory": true,
+     "duration_minutes": null,
+     "description_ar": "[مقترح] مقابلة مع لجنة للمقبولين كتابيا: تقديم مشروع ختم الدروس والتجارب، أسئلة تقنية في الاختصاص، معرفة الإدارة والصفقات العمومية. بعض المؤسسات العمومية تكتفي بالملفات مع اختبار شفاهي (المعهد الوطني للرصد الجوي 2026).",
+     "description_fr": "[Suggestion] Entretien avec le jury pour les admissibles : présentation du projet de fin d'études et des expériences, questions techniques de spécialité, connaissance de l'administration et des marchés publics. Certains établissements publics procèdent sur dossiers complétés par un oral (INM 2026).",
+     "source_key": "s9",
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "order": 4,
+     "kind": "TRAINING",
+     "name_ar": "التربص قبل الترسيم",
+     "name_fr": "Stage probatoire avant titularisation",
+     "is_eliminatory": false,
+     "duration_minutes": null,
+     "description_ar": "[مقترح] يُسمّى الناجحون بصفة متربصين لمدة سنة (قابلة للتجديد مرة واحدة حسب القانون الأساسي العام، للتثبت) قبل الترسيم.",
+     "description_fr": "[Suggestion] Les lauréats sont nommés stagiaires pour un an (renouvelable une fois selon le statut général, à vérifier) avant titularisation.",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    }
+   ],
+   "subjects": [
+    {
+     "phase_order": 2,
+     "domain": "SPECIALTY",
+     "specialty_key": "spec.techniciens-ingenieurs.genie-civil",
+     "name_ar": "اختبار كتابي في الاختصاص: الهندسة المدنية: مقاومة المواد، الخرسانة المسلحة، الجيوتقنية، الطوبوغرافيا، القياسات وتتبع الأشغال",
+     "name_fr": "Épreuve écrite de spécialité : génie civil : RDM, béton armé, géotechnique, topographie, métré et suivi de chantier",
+     "coefficient": 2,
+     "duration_minutes": 180,
+     "question_count": null,
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "phase_order": 2,
+     "domain": "FRENCH",
+     "specialty_key": null,
+     "name_ar": "تحرير تقرير فني أو مذكرة باللغة الفرنسية",
+     "name_fr": "Rédaction d'un rapport ou d'une note technique en français",
+     "coefficient": 1,
+     "duration_minutes": 120,
+     "question_count": null,
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "phase_order": 3,
+     "domain": "SPECIALTY",
+     "specialty_key": "spec.techniciens-ingenieurs.marches-publics",
+     "name_ar": "الاختبار الشفاهي: الاختصاص، مشروع ختم الدروس، الصفقات العمومية والإدارة",
+     "name_fr": "Oral : spécialité, projet de fin d'études, marchés publics et administration",
+     "coefficient": 1,
+     "duration_minutes": null,
+     "question_count": null,
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    }
+   ],
+   "physical_tests": [],
+   "required_documents": [
+    {
+     "text_ar": "استمارة الترشح المعمّرة عن بعد أو وصل التسجيل (نسخة مطبوعة وممضاة إن طُلبت)",
+     "text_fr": "Formulaire de candidature rempli en ligne ou accusé d'inscription (copie imprimée et signée si demandée)",
+     "source_key": "s1",
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "text_ar": "نسخة من بطاقة التعريف الوطنية",
+     "text_fr": "Copie de la carte d'identité nationale (CIN)",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "text_ar": "نسخة من الشهادة العلمية المطلوبة وكشوف الأعداد لكامل سنوات الدراسة",
+     "text_fr": "Copie du diplôme exigé et des relevés de notes de toutes les années d'études",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "text_ar": "قرار معادلة بالنسبة للشهادات الأجنبية",
+     "text_fr": "Attestation d'équivalence pour les diplômes étrangers",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "text_ar": "وثيقة تثبت الوضعية إزاء الخدمة الوطنية (للذكور)",
+     "text_fr": "Justificatif de la situation vis-à-vis du service national (candidats hommes)",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "text_ar": "في المناظرات بالملفات: سيرة ذاتية وشهادات التربصات والخبرة المهنية حسب مقاييس التقييم المعلنة",
+     "text_fr": "Concours sur dossiers : CV et attestations de stages/expérience professionnelle selon la grille d'évaluation annoncée",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "text_ar": "بعد النجاح عادة: بطاقة عدد 3 حديثة وشهادة طبية في القدرة على العمل ومضمون ولادة",
+     "text_fr": "Généralement après admission : bulletin n° 3 récent, certificat médical d'aptitude et extrait de naissance",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    }
+   ],
+   "blueprint": {
+    "total_minutes": 120,
+    "fidelity": "APPROXIMATED",
+    "sections": [
+     {
+      "domain": "SPECIALTY",
+      "specialty_key": "spec.techniciens-ingenieurs.genie-civil",
+      "count": 40,
+      "minutes": 65
+     },
+     {
+      "domain": "SPECIALTY",
+      "specialty_key": "spec.techniciens-ingenieurs.marches-publics",
+      "count": 15,
+      "minutes": 20
+     },
+     {
+      "domain": "NUMERICAL",
+      "specialty_key": null,
+      "count": 10,
+      "minutes": 20
+     },
+     {
+      "domain": "FRENCH",
+      "specialty_key": null,
+      "count": 10,
+      "minutes": 15
+     }
+    ]
+   }
+  },
+  {
+   "slug": "ingenieur-principal-electricite",
+   "title_ar": "مهندس أول اختصاص كهرباء (هندسة كهربائية، كهروميكانيك)",
+   "title_fr": "Ingénieur principal en électricité (génie électrique, électromécanique)",
+   "diploma_level": "ENGINEER",
+   "eligibility": {
+    "min_age": 18,
+    "max_age": null,
+    "genders": [
+     "M",
+     "F"
+    ],
+    "nationality": "TN",
+    "diplomas": [
+     "ENGINEER"
+    ],
+    "specialties": [
+     "électrique",
+     "électricité",
+     "électrotechnique",
+     "électromécanique",
+     "كهرباء",
+     "كهربائية",
+     "كهروميكانيك",
+     "automatique"
+    ],
+    "min_height_cm_male": null,
+    "min_height_cm_female": null,
+    "marital_status": null,
+    "other_ar": [
+     "شهادة مهندس وطني أو شهادة معادلة لها في الاختصاص الذي يحدده قرار فتح المناظرة (مثال وزارة التربية 2026: هندسة مدنية، إعلامية، كهرباء، موائع)",
+     "[مقترح] قد تُقبل اختصاصات الكهروميكانيك والآليات الصناعية حسب القرار",
+     "[مقترح] الشروط العامة للانتداب بالوظيفة العمومية (القانون الأساسي العام لأعوان الدولة، القانون عدد 112 لسنة 1983، للتثبت): الجنسية التونسية، التمتع بالحقوق المدنية، حسن السيرة، بلوغ 18 سنة على الأقل، القدرة البدنية على العمل، وضعية قانونية إزاء الخدمة الوطنية",
+     "[مقترح] يضبط قرار فتح المناظرة حدا أقصى للسن (كثيرا ما يكون 40 سنة في تاريخ ختم الترشحات، مع إمكانية الترفيع بمدة الخدمة الوطنية؛ مثال: 40 سنة في مناظرة ديوان رجيم معتوق 2026) — غير مطبّق آليا هنا تفاديا لإقصاء مترشحين عن خطأ",
+     "[مقترح] حاملو الشهادات الأجنبية يرفقون قرار معادلة صادرا عن وزارة التعليم العالي",
+     "[مقترح] نفس الرتب تُفتح أيضا في المؤسسات العمومية (المركز الوطني للإعلامية، المعهد الوطني للرصد الجوي، الوكالة الوطنية للتصرف في النفايات، الهيئة الوطنية للاتصالات...) وفق أنظمتها الأساسية الخاصة: الشروط والتسميات قد تختلف"
+    ],
+    "other_fr": [
+     "Diplôme national d'ingénieur ou diplôme équivalent dans la spécialité fixée par l'arrêté d'ouverture (ex. ministère de l'Éducation 2026 : génie civil, informatique, électricité, fluides)",
+     "[Suggestion] L'électromécanique et l'automatique industrielle peuvent être admises selon l'arrêté",
+     "[Suggestion] Conditions générales d'accès à la fonction publique (statut général des personnels de l'État, loi n° 83-112, à vérifier) : nationalité tunisienne, jouissance des droits civiques, bonne moralité, 18 ans au moins, aptitude physique, situation régulière vis-à-vis du service national",
+     "[Suggestion] L'arrêté d'ouverture fixe un âge maximum (souvent 40 ans à la clôture des candidatures, avec report possible pour service national ; ex. 40 ans au concours de l'Office de Régim Maâtoug 2026) — volontairement non appliqué automatiquement",
+     "[Suggestion] Les titulaires de diplômes étrangers joignent l'arrêté/attestation d'équivalence du ministère de l'Enseignement supérieur",
+     "[Suggestion] Les mêmes grades sont aussi ouverts dans les établissements publics (CNI, INM, ANGED, INTT, offices…) selon leurs statuts particuliers : conditions et intitulés peuvent différer"
+    ],
+    "source_key": "s2",
+    "confidence": "LOW",
+    "needs_verification": true,
+    "source_quote": null
+   },
+   "phases": [
+    {
+     "order": 1,
+     "kind": "FILE_REVIEW",
+     "name_ar": "الترشح عن بعد ودراسة قبول الملفات",
+     "name_fr": "Inscription en ligne et recevabilité des dossiers",
+     "is_eliminatory": true,
+     "duration_minutes": null,
+     "description_ar": "[مقترح] التسجيل عن بعد عبر البوابة الوطنية للمناظرات (concours.gov.tn) أو منصة الوزارة/المؤسسة حسب البلاغ، ثم إرسال الملف في الآجال عند الاقتضاء. في المناظرات «بالملفات» (مثل المعهد الوطني للرصد الجوي 2026) تمثل هذه المرحلة الانتقاء الأساسي وفق مقاييس معلنة (المعدل، سنة التخرج، الملاحظة، الخبرة...).",
+     "description_fr": "[Suggestion] Inscription en ligne sur le portail national des concours (concours.gov.tn) ou la plateforme du ministère/de l'établissement selon l'avis, puis envoi du dossier dans les délais si demandé. Dans les concours « sur dossiers » (ex. INM 2026), cette étape constitue la sélection principale selon des critères annoncés (moyenne, année d'obtention du diplôme, mention, expérience…).",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "order": 2,
+     "kind": "WRITTEN",
+     "name_ar": "الاختبارات الكتابية للقبول الأولي",
+     "name_fr": "Épreuves écrites d'admissibilité",
+     "is_eliminatory": true,
+     "duration_minutes": null,
+     "description_ar": "مناظرات المهندسين الأول بالوزارات تُنظّم عادة «بالاختبارات» (مثال: وزارة أملاك الدولة، اختبارات 30 جويلية 2026). [مقترح] تتكون غالبا من اختبار في الاختصاص (الهندسة الكهربائية: الدوائر، الآلات الكهربائية، التركيبات والحماية، الإلكترونيات والآليات) في شكل مسائل أو دراسة حالة، واختبار ثان في التحرير الفني أو اللغة؛ المدد والضوارب تضبطها قرارات فتح المناظرة وتُراجع فيها.",
+     "description_fr": "Les concours d'ingénieurs principaux des ministères sont généralement « sur épreuves » (ex. Domaines de l'État, épreuves le 30/07/2026). [Suggestion] Ils comportent le plus souvent une épreuve de spécialité (génie électrique : circuits, machines électriques, installations et protection, électronique et automatismes) sous forme de problèmes ou d'étude de cas, et une seconde épreuve de rédaction technique ou de langue ; durées et coefficients fixés par l'arrêté d'ouverture, à vérifier.",
+     "source_key": "s3",
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "order": 3,
+     "kind": "ORAL",
+     "name_ar": "الاختبار الشفاهي للقبول النهائي",
+     "name_fr": "Épreuve orale d'admission",
+     "is_eliminatory": true,
+     "duration_minutes": null,
+     "description_ar": "[مقترح] مقابلة مع لجنة للمقبولين كتابيا: تقديم مشروع ختم الدروس والتجارب، أسئلة تقنية في الاختصاص، معرفة الإدارة والصفقات العمومية. بعض المؤسسات العمومية تكتفي بالملفات مع اختبار شفاهي (المعهد الوطني للرصد الجوي 2026).",
+     "description_fr": "[Suggestion] Entretien avec le jury pour les admissibles : présentation du projet de fin d'études et des expériences, questions techniques de spécialité, connaissance de l'administration et des marchés publics. Certains établissements publics procèdent sur dossiers complétés par un oral (INM 2026).",
+     "source_key": "s9",
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "order": 4,
+     "kind": "TRAINING",
+     "name_ar": "التربص قبل الترسيم",
+     "name_fr": "Stage probatoire avant titularisation",
+     "is_eliminatory": false,
+     "duration_minutes": null,
+     "description_ar": "[مقترح] يُسمّى الناجحون بصفة متربصين لمدة سنة (قابلة للتجديد مرة واحدة حسب القانون الأساسي العام، للتثبت) قبل الترسيم.",
+     "description_fr": "[Suggestion] Les lauréats sont nommés stagiaires pour un an (renouvelable une fois selon le statut général, à vérifier) avant titularisation.",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    }
+   ],
+   "subjects": [
+    {
+     "phase_order": 2,
+     "domain": "SPECIALTY",
+     "specialty_key": "spec.electricite",
+     "name_ar": "اختبار كتابي في الاختصاص: الهندسة الكهربائية: الدوائر، الآلات الكهربائية، التركيبات والحماية، الإلكترونيات والآليات",
+     "name_fr": "Épreuve écrite de spécialité : génie électrique : circuits, machines électriques, installations et protection, électronique et automatismes",
+     "coefficient": 2,
+     "duration_minutes": 180,
+     "question_count": null,
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "phase_order": 2,
+     "domain": "FRENCH",
+     "specialty_key": null,
+     "name_ar": "تحرير تقرير فني أو مذكرة باللغة الفرنسية",
+     "name_fr": "Rédaction d'un rapport ou d'une note technique en français",
+     "coefficient": 1,
+     "duration_minutes": 120,
+     "question_count": null,
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "phase_order": 3,
+     "domain": "SPECIALTY",
+     "specialty_key": "spec.techniciens-ingenieurs.marches-publics",
+     "name_ar": "الاختبار الشفاهي: الاختصاص، مشروع ختم الدروس، الصفقات العمومية والإدارة",
+     "name_fr": "Oral : spécialité, projet de fin d'études, marchés publics et administration",
+     "coefficient": 1,
+     "duration_minutes": null,
+     "question_count": null,
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    }
+   ],
+   "physical_tests": [],
+   "required_documents": [
+    {
+     "text_ar": "استمارة الترشح المعمّرة عن بعد أو وصل التسجيل (نسخة مطبوعة وممضاة إن طُلبت)",
+     "text_fr": "Formulaire de candidature rempli en ligne ou accusé d'inscription (copie imprimée et signée si demandée)",
+     "source_key": "s1",
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "text_ar": "نسخة من بطاقة التعريف الوطنية",
+     "text_fr": "Copie de la carte d'identité nationale (CIN)",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "text_ar": "نسخة من الشهادة العلمية المطلوبة وكشوف الأعداد لكامل سنوات الدراسة",
+     "text_fr": "Copie du diplôme exigé et des relevés de notes de toutes les années d'études",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "text_ar": "قرار معادلة بالنسبة للشهادات الأجنبية",
+     "text_fr": "Attestation d'équivalence pour les diplômes étrangers",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "text_ar": "وثيقة تثبت الوضعية إزاء الخدمة الوطنية (للذكور)",
+     "text_fr": "Justificatif de la situation vis-à-vis du service national (candidats hommes)",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "text_ar": "في المناظرات بالملفات: سيرة ذاتية وشهادات التربصات والخبرة المهنية حسب مقاييس التقييم المعلنة",
+     "text_fr": "Concours sur dossiers : CV et attestations de stages/expérience professionnelle selon la grille d'évaluation annoncée",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "text_ar": "بعد النجاح عادة: بطاقة عدد 3 حديثة وشهادة طبية في القدرة على العمل ومضمون ولادة",
+     "text_fr": "Généralement après admission : bulletin n° 3 récent, certificat médical d'aptitude et extrait de naissance",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    }
+   ],
+   "blueprint": {
+    "total_minutes": 120,
+    "fidelity": "APPROXIMATED",
+    "sections": [
+     {
+      "domain": "SPECIALTY",
+      "specialty_key": "spec.electricite",
+      "count": 40,
+      "minutes": 60
+     },
+     {
+      "domain": "SPECIALTY",
+      "specialty_key": "spec.techniciens-ingenieurs.fluides-energie",
+      "count": 10,
+      "minutes": 15
+     },
+     {
+      "domain": "SPECIALTY",
+      "specialty_key": "spec.techniciens-ingenieurs.marches-publics",
+      "count": 10,
+      "minutes": 15
+     },
+     {
+      "domain": "FRENCH",
+      "specialty_key": null,
+      "count": 10,
+      "minutes": 15
+     },
+     {
+      "domain": "ENGLISH",
+      "specialty_key": null,
+      "count": 10,
+      "minutes": 15
+     }
+    ]
+   }
+  },
+  {
+   "slug": "analyste-informatique",
+   "title_ar": "محلل في الإعلامية (سلك المحللين والتقنيين في الإعلامية — التسمية للتثبت)",
+   "title_fr": "Analyste en informatique (corps des analystes et techniciens de l'informatique — intitulé à vérifier)",
+   "diploma_level": "LICENCE",
+   "eligibility": {
+    "min_age": 18,
+    "max_age": null,
+    "genders": [
+     "M",
+     "F"
+    ],
+    "nationality": "TN",
+    "diplomas": [
+     "LICENCE"
+    ],
+    "specialties": [
+     "informatique",
+     "إعلامية",
+     "اعلامية",
+     "معلوماتية",
+     "génie logiciel",
+     "systèmes d'information",
+     "réseaux",
+     "télécom",
+     "اتصالات"
+    ],
+    "min_height_cm_male": null,
+    "min_height_cm_female": null,
+    "marital_status": null,
+    "other_ar": [
+     "الإجازة في الإعلامية أو شهادة معادلة (رتبة «محلل» وردت في مناظرة الديوان الوطني للمياه المعدنية 2025-2026؛ الشهادة المطلوبة للتثبت)",
+     "[مقترح] الرتب المعروفة بهذا السلك: محلل، محلل مركزي، محلل رئيس، محلل عام، إضافة إلى رتب المبرمجين والتقنيين في الإعلامية — التسميات والشهادات المطلوبة لكل رتبة للتثبت في النظام الأساسي الخاص",
+     "[مقترح] الشروط العامة للانتداب بالوظيفة العمومية (القانون الأساسي العام لأعوان الدولة، القانون عدد 112 لسنة 1983، للتثبت): الجنسية التونسية، التمتع بالحقوق المدنية، حسن السيرة، بلوغ 18 سنة على الأقل، القدرة البدنية على العمل، وضعية قانونية إزاء الخدمة الوطنية",
+     "[مقترح] يضبط قرار فتح المناظرة حدا أقصى للسن (كثيرا ما يكون 40 سنة في تاريخ ختم الترشحات، مع إمكانية الترفيع بمدة الخدمة الوطنية؛ مثال: 40 سنة في مناظرة ديوان رجيم معتوق 2026) — غير مطبّق آليا هنا تفاديا لإقصاء مترشحين عن خطأ",
+     "[مقترح] حاملو الشهادات الأجنبية يرفقون قرار معادلة صادرا عن وزارة التعليم العالي",
+     "[مقترح] نفس الرتب تُفتح أيضا في المؤسسات العمومية (المركز الوطني للإعلامية، المعهد الوطني للرصد الجوي، الوكالة الوطنية للتصرف في النفايات، الهيئة الوطنية للاتصالات...) وفق أنظمتها الأساسية الخاصة: الشروط والتسميات قد تختلف"
+    ],
+    "other_fr": [
+     "Licence en informatique ou diplôme équivalent (le grade d'« analyste » figure au concours de l'Office des eaux minérales 2025-2026 ; diplôme exigé à vérifier)",
+     "[Suggestion] Grades connus de ce corps : analyste, analyste central, analyste en chef, analyste général, ainsi que des grades de programmeurs et techniciens en informatique — intitulés et diplômes exigés par grade à vérifier dans le statut particulier",
+     "[Suggestion] Conditions générales d'accès à la fonction publique (statut général des personnels de l'État, loi n° 83-112, à vérifier) : nationalité tunisienne, jouissance des droits civiques, bonne moralité, 18 ans au moins, aptitude physique, situation régulière vis-à-vis du service national",
+     "[Suggestion] L'arrêté d'ouverture fixe un âge maximum (souvent 40 ans à la clôture des candidatures, avec report possible pour service national ; ex. 40 ans au concours de l'Office de Régim Maâtoug 2026) — volontairement non appliqué automatiquement",
+     "[Suggestion] Les titulaires de diplômes étrangers joignent l'arrêté/attestation d'équivalence du ministère de l'Enseignement supérieur",
+     "[Suggestion] Les mêmes grades sont aussi ouverts dans les établissements publics (CNI, INM, ANGED, INTT, offices…) selon leurs statuts particuliers : conditions et intitulés peuvent différer"
+    ],
+    "source_key": "s7",
+    "confidence": "LOW",
+    "needs_verification": true,
+    "source_quote": null
+   },
+   "phases": [
+    {
+     "order": 1,
+     "kind": "FILE_REVIEW",
+     "name_ar": "الترشح عن بعد ودراسة قبول الملفات",
+     "name_fr": "Inscription en ligne et recevabilité des dossiers",
+     "is_eliminatory": true,
+     "duration_minutes": null,
+     "description_ar": "[مقترح] التسجيل عن بعد عبر البوابة الوطنية للمناظرات (concours.gov.tn) أو منصة الوزارة/المؤسسة حسب البلاغ، ثم إرسال الملف في الآجال عند الاقتضاء. في المناظرات «بالملفات» (مثل المعهد الوطني للرصد الجوي 2026) تمثل هذه المرحلة الانتقاء الأساسي وفق مقاييس معلنة (المعدل، سنة التخرج، الملاحظة، الخبرة...).",
+     "description_fr": "[Suggestion] Inscription en ligne sur le portail national des concours (concours.gov.tn) ou la plateforme du ministère/de l'établissement selon l'avis, puis envoi du dossier dans les délais si demandé. Dans les concours « sur dossiers » (ex. INM 2026), cette étape constitue la sélection principale selon des critères annoncés (moyenne, année d'obtention du diplôme, mention, expérience…).",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "order": 2,
+     "kind": "WRITTEN",
+     "name_ar": "الاختبارات الكتابية",
+     "name_fr": "Épreuves écrites",
+     "is_eliminatory": true,
+     "duration_minutes": null,
+     "description_ar": "[مقترح] اختبار في الخوارزميات والبرمجة واختبار في أنظمة المعلومات وقواعد البيانات والشبكات؛ المدد والضوارب للتثبت.",
+     "description_fr": "[Suggestion] Une épreuve d'algorithmique et programmation et une épreuve de systèmes d'information, bases de données et réseaux ; durées et coefficients à vérifier.",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "order": 3,
+     "kind": "ORAL",
+     "name_ar": "الاختبار الشفاهي",
+     "name_fr": "Épreuve orale",
+     "is_eliminatory": true,
+     "duration_minutes": null,
+     "description_ar": "[مقترح] مقابلة تقنية حول المشاريع المنجزة وأسئلة في الاختصاص.",
+     "description_fr": "[Suggestion] Entretien technique sur les projets réalisés et questions de spécialité.",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "order": 4,
+     "kind": "TRAINING",
+     "name_ar": "التربص قبل الترسيم",
+     "name_fr": "Stage probatoire avant titularisation",
+     "is_eliminatory": false,
+     "duration_minutes": null,
+     "description_ar": "[مقترح] يُسمّى الناجحون بصفة متربصين لمدة سنة (قابلة للتجديد مرة واحدة حسب القانون الأساسي العام، للتثبت) قبل الترسيم.",
+     "description_fr": "[Suggestion] Les lauréats sont nommés stagiaires pour un an (renouvelable une fois selon le statut général, à vérifier) avant titularisation.",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    }
+   ],
+   "subjects": [
+    {
+     "phase_order": 2,
+     "domain": "SPECIALTY",
+     "specialty_key": "spec.informatique",
+     "name_ar": "الخوارزميات والبرمجة",
+     "name_fr": "Algorithmique et programmation",
+     "coefficient": 2,
+     "duration_minutes": 180,
+     "question_count": null,
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "phase_order": 2,
+     "domain": "SPECIALTY",
+     "specialty_key": "spec.informatique",
+     "name_ar": "أنظمة المعلومات وقواعد البيانات والشبكات",
+     "name_fr": "Systèmes d'information, bases de données et réseaux",
+     "coefficient": 1,
+     "duration_minutes": 120,
+     "question_count": null,
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "phase_order": 3,
+     "domain": "SPECIALTY",
+     "specialty_key": "spec.informatique",
+     "name_ar": "مقابلة تقنية",
+     "name_fr": "Entretien technique",
+     "coefficient": 1,
+     "duration_minutes": null,
+     "question_count": null,
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    }
+   ],
+   "physical_tests": [],
+   "required_documents": [
+    {
+     "text_ar": "استمارة الترشح المعمّرة عن بعد أو وصل التسجيل (نسخة مطبوعة وممضاة إن طُلبت)",
+     "text_fr": "Formulaire de candidature rempli en ligne ou accusé d'inscription (copie imprimée et signée si demandée)",
+     "source_key": "s1",
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "text_ar": "نسخة من بطاقة التعريف الوطنية",
+     "text_fr": "Copie de la carte d'identité nationale (CIN)",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "text_ar": "نسخة من الشهادة العلمية المطلوبة وكشوف الأعداد لكامل سنوات الدراسة",
+     "text_fr": "Copie du diplôme exigé et des relevés de notes de toutes les années d'études",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "text_ar": "قرار معادلة بالنسبة للشهادات الأجنبية",
+     "text_fr": "Attestation d'équivalence pour les diplômes étrangers",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "text_ar": "وثيقة تثبت الوضعية إزاء الخدمة الوطنية (للذكور)",
+     "text_fr": "Justificatif de la situation vis-à-vis du service national (candidats hommes)",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "text_ar": "في المناظرات بالملفات: سيرة ذاتية وشهادات التربصات والخبرة المهنية حسب مقاييس التقييم المعلنة",
+     "text_fr": "Concours sur dossiers : CV et attestations de stages/expérience professionnelle selon la grille d'évaluation annoncée",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "text_ar": "بعد النجاح عادة: بطاقة عدد 3 حديثة وشهادة طبية في القدرة على العمل ومضمون ولادة",
+     "text_fr": "Généralement après admission : bulletin n° 3 récent, certificat médical d'aptitude et extrait de naissance",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    }
+   ],
+   "blueprint": {
+    "total_minutes": 120,
+    "fidelity": "APPROXIMATED",
+    "sections": [
+     {
+      "domain": "SPECIALTY",
+      "specialty_key": "spec.informatique",
+      "count": 45,
+      "minutes": 65
+     },
+     {
+      "domain": "LOGIC",
+      "specialty_key": null,
+      "count": 15,
+      "minutes": 20
+     },
+     {
+      "domain": "ENGLISH",
+      "specialty_key": null,
+      "count": 10,
+      "minutes": 15
+     },
+     {
+      "domain": "FRENCH",
+      "specialty_key": null,
+      "count": 10,
+      "minutes": 10
+     },
+     {
+      "domain": "NUMERICAL",
+      "specialty_key": null,
+      "count": 5,
+      "minutes": 10
+     }
+    ]
+   }
+  },
+  {
+   "slug": "technicien",
+   "title_ar": "تقني — السلك التقني المشترك للإدارات العمومية (وتقنيون سامون بالمؤسسات العمومية)",
+   "title_fr": "Technicien — corps technique commun des administrations publiques (et techniciens supérieurs des établissements publics)",
+   "diploma_level": "BAC_PLUS_2",
+   "eligibility": {
+    "min_age": 18,
+    "max_age": null,
+    "genders": [
+     "M",
+     "F"
+    ],
+    "nationality": "TN",
+    "diplomas": [
+     "BAC_PLUS_2"
+    ],
+    "specialties": [],
+    "min_height_cm_male": null,
+    "min_height_cm_female": null,
+    "marital_status": null,
+    "other_ar": [
+     "شهادة جامعية من المرحلة الأولى (مؤهل تقني سام، إجازة تطبيقية) أو شهادة تقني سام أو معادلة في الاختصاص المطلوب (المستوى المعلن في مناظرات وزارة المالية ووزارة أملاك الدولة 2026: باكالوريا + 2 إلى الإجازة)",
+     "[مقترح] الاختصاصات تختلف حسب المناظرة (هندسة مدنية، تحاليل كيميائية، كهرباء، ميكانيك، إعلامية، طوبوغرافيا...) ولا تُطبّق آليا هنا",
+     "[مقترح] الشروط العامة للانتداب بالوظيفة العمومية (القانون الأساسي العام لأعوان الدولة، القانون عدد 112 لسنة 1983، للتثبت): الجنسية التونسية، التمتع بالحقوق المدنية، حسن السيرة، بلوغ 18 سنة على الأقل، القدرة البدنية على العمل، وضعية قانونية إزاء الخدمة الوطنية",
+     "[مقترح] يضبط قرار فتح المناظرة حدا أقصى للسن (كثيرا ما يكون 40 سنة في تاريخ ختم الترشحات، مع إمكانية الترفيع بمدة الخدمة الوطنية؛ مثال: 40 سنة في مناظرة ديوان رجيم معتوق 2026) — غير مطبّق آليا هنا تفاديا لإقصاء مترشحين عن خطأ",
+     "[مقترح] حاملو الشهادات الأجنبية يرفقون قرار معادلة صادرا عن وزارة التعليم العالي",
+     "[مقترح] نفس الرتب تُفتح أيضا في المؤسسات العمومية (المركز الوطني للإعلامية، المعهد الوطني للرصد الجوي، الوكالة الوطنية للتصرف في النفايات، الهيئة الوطنية للاتصالات...) وفق أنظمتها الأساسية الخاصة: الشروط والتسميات قد تختلف"
+    ],
+    "other_fr": [
+     "Diplôme universitaire du 1er cycle (licence appliquée, diplôme de technicien supérieur/BTS) ou équivalent dans la spécialité demandée (niveau annoncé pour les concours des Finances et des Domaines de l'État 2026 : bac+2 à licence)",
+     "[Suggestion] Spécialités variables selon le concours (génie civil, analyses chimiques, électricité, mécanique, informatique, topographie…) — non appliquées automatiquement",
+     "[Suggestion] Conditions générales d'accès à la fonction publique (statut général des personnels de l'État, loi n° 83-112, à vérifier) : nationalité tunisienne, jouissance des droits civiques, bonne moralité, 18 ans au moins, aptitude physique, situation régulière vis-à-vis du service national",
+     "[Suggestion] L'arrêté d'ouverture fixe un âge maximum (souvent 40 ans à la clôture des candidatures, avec report possible pour service national ; ex. 40 ans au concours de l'Office de Régim Maâtoug 2026) — volontairement non appliqué automatiquement",
+     "[Suggestion] Les titulaires de diplômes étrangers joignent l'arrêté/attestation d'équivalence du ministère de l'Enseignement supérieur",
+     "[Suggestion] Les mêmes grades sont aussi ouverts dans les établissements publics (CNI, INM, ANGED, INTT, offices…) selon leurs statuts particuliers : conditions et intitulés peuvent différer"
+    ],
+    "source_key": "s4",
+    "confidence": "LOW",
+    "needs_verification": true,
+    "source_quote": null
+   },
+   "phases": [
+    {
+     "order": 1,
+     "kind": "FILE_REVIEW",
+     "name_ar": "الترشح عن بعد ودراسة قبول الملفات",
+     "name_fr": "Inscription en ligne et recevabilité des dossiers",
+     "is_eliminatory": true,
+     "duration_minutes": null,
+     "description_ar": "[مقترح] التسجيل عن بعد عبر البوابة الوطنية للمناظرات (concours.gov.tn) أو منصة الوزارة/المؤسسة حسب البلاغ، ثم إرسال الملف في الآجال عند الاقتضاء. في المناظرات «بالملفات» (مثل المعهد الوطني للرصد الجوي 2026) تمثل هذه المرحلة الانتقاء الأساسي وفق مقاييس معلنة (المعدل، سنة التخرج، الملاحظة، الخبرة...).",
+     "description_fr": "[Suggestion] Inscription en ligne sur le portail national des concours (concours.gov.tn) ou la plateforme du ministère/de l'établissement selon l'avis, puis envoi du dossier dans les délais si demandé. Dans les concours « sur dossiers » (ex. INM 2026), cette étape constitue la sélection principale selon des critères annoncés (moyenne, année d'obtention du diplôme, mention, expérience…).",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "order": 2,
+     "kind": "WRITTEN",
+     "name_ar": "الاختبارات الكتابية",
+     "name_fr": "Épreuves écrites",
+     "is_eliminatory": true,
+     "duration_minutes": null,
+     "description_ar": "مناظرة وزارة أملاك الدولة لانتداب 21 تقنيا كانت «بالاختبارات» (30 جويلية 2026). [مقترح] اختبار تقني في الاختصاص (مسائل تطبيقية، قراءة مخططات، قياسات) واختبار في التحرير أو اللغة؛ المدد والضوارب للتثبت.",
+     "description_fr": "Le concours des Domaines de l'État pour 21 techniciens était « sur épreuves » (30/07/2026). [Suggestion] Une épreuve technique de spécialité (exercices appliqués, lecture de plans, métré/mesures) et une épreuve de rédaction ou de langue ; durées et coefficients à vérifier.",
+     "source_key": "s3",
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "order": 3,
+     "kind": "ORAL",
+     "name_ar": "الاختبار الشفاهي أو التطبيقي (حسب القرار)",
+     "name_fr": "Épreuve orale ou pratique (selon l'arrêté)",
+     "is_eliminatory": true,
+     "duration_minutes": null,
+     "description_ar": "[مقترح] بعض المناظرات تضيف مقابلة أو اختبارا تطبيقيا في الاختصاص.",
+     "description_fr": "[Suggestion] Certains concours ajoutent un entretien ou une épreuve pratique de spécialité.",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "order": 4,
+     "kind": "TRAINING",
+     "name_ar": "التربص قبل الترسيم",
+     "name_fr": "Stage probatoire avant titularisation",
+     "is_eliminatory": false,
+     "duration_minutes": null,
+     "description_ar": "[مقترح] يُسمّى الناجحون بصفة متربصين لمدة سنة (قابلة للتجديد مرة واحدة حسب القانون الأساسي العام، للتثبت) قبل الترسيم.",
+     "description_fr": "[Suggestion] Les lauréats sont nommés stagiaires pour un an (renouvelable une fois selon le statut général, à vérifier) avant titularisation.",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    }
+   ],
+   "subjects": [
+    {
+     "phase_order": 2,
+     "domain": "SPECIALTY",
+     "specialty_key": null,
+     "name_ar": "اختبار تقني في الاختصاص",
+     "name_fr": "Épreuve technique de spécialité",
+     "coefficient": 2,
+     "duration_minutes": 180,
+     "question_count": null,
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "phase_order": 2,
+     "domain": "FRENCH",
+     "specialty_key": null,
+     "name_ar": "تحرير تقرير فني قصير",
+     "name_fr": "Rédaction d'un court rapport technique",
+     "coefficient": 1,
+     "duration_minutes": 90,
+     "question_count": null,
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "phase_order": 3,
+     "domain": "SPECIALTY",
+     "specialty_key": "spec.techniciens-ingenieurs.culture-technique",
+     "name_ar": "مقابلة أو اختبار تطبيقي",
+     "name_fr": "Entretien ou épreuve pratique",
+     "coefficient": 1,
+     "duration_minutes": null,
+     "question_count": null,
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    }
+   ],
+   "physical_tests": [],
+   "required_documents": [
+    {
+     "text_ar": "استمارة الترشح المعمّرة عن بعد أو وصل التسجيل (نسخة مطبوعة وممضاة إن طُلبت)",
+     "text_fr": "Formulaire de candidature rempli en ligne ou accusé d'inscription (copie imprimée et signée si demandée)",
+     "source_key": "s1",
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "text_ar": "نسخة من بطاقة التعريف الوطنية",
+     "text_fr": "Copie de la carte d'identité nationale (CIN)",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "text_ar": "نسخة من الشهادة العلمية المطلوبة وكشوف الأعداد لكامل سنوات الدراسة",
+     "text_fr": "Copie du diplôme exigé et des relevés de notes de toutes les années d'études",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "text_ar": "قرار معادلة بالنسبة للشهادات الأجنبية",
+     "text_fr": "Attestation d'équivalence pour les diplômes étrangers",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "text_ar": "وثيقة تثبت الوضعية إزاء الخدمة الوطنية (للذكور)",
+     "text_fr": "Justificatif de la situation vis-à-vis du service national (candidats hommes)",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "text_ar": "في المناظرات بالملفات: سيرة ذاتية وشهادات التربصات والخبرة المهنية حسب مقاييس التقييم المعلنة",
+     "text_fr": "Concours sur dossiers : CV et attestations de stages/expérience professionnelle selon la grille d'évaluation annoncée",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "text_ar": "بعد النجاح عادة: بطاقة عدد 3 حديثة وشهادة طبية في القدرة على العمل ومضمون ولادة",
+     "text_fr": "Généralement après admission : bulletin n° 3 récent, certificat médical d'aptitude et extrait de naissance",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    }
+   ],
+   "blueprint": {
+    "total_minutes": 120,
+    "fidelity": "APPROXIMATED",
+    "sections": [
+     {
+      "domain": "SPECIALTY",
+      "specialty_key": "spec.techniciens-ingenieurs.culture-technique",
+      "count": 25,
+      "minutes": 35
+     },
+     {
+      "domain": "SPECIALTY",
+      "specialty_key": "spec.techniciens-ingenieurs.genie-civil",
+      "count": 10,
+      "minutes": 15
+     },
+     {
+      "domain": "SPECIALTY",
+      "specialty_key": "spec.electricite",
+      "count": 10,
+      "minutes": 15
+     },
+     {
+      "domain": "SPECIALTY",
+      "specialty_key": "spec.informatique",
+      "count": 10,
+      "minutes": 15
+     },
+     {
+      "domain": "NUMERICAL",
+      "specialty_key": null,
+      "count": 15,
+      "minutes": 25
+     },
+     {
+      "domain": "FRENCH",
+      "specialty_key": null,
+      "count": 10,
+      "minutes": 15
+     }
+    ]
+   }
+  },
+  {
+   "slug": "assistant-technique",
+   "title_ar": "مساعد تقني — السلك التقني المشترك للإدارات العمومية",
+   "title_fr": "Assistant technique (adjoint technique) — corps technique commun des administrations publiques",
+   "diploma_level": "SECONDARY",
+   "eligibility": {
+    "min_age": 18,
+    "max_age": null,
+    "genders": [
+     "M",
+     "F"
+    ],
+    "nationality": "TN",
+    "diplomas": [
+     "SECONDARY"
+    ],
+    "specialties": [],
+    "min_height_cm_male": null,
+    "min_height_cm_female": null,
+    "marital_status": null,
+    "other_ar": [
+     "[مقترح] شهادة تكوين مهني (شهادة مؤهل تقني مهني BTP أو ما يعادلها) أو مستوى تعليمي ثانوي في الاختصاص المطلوب (كهرباء، نجارة، ترصيص، ميكانيك...) — المستوى الدقيق للتثبت في كل قرار؛ مناظرة ديوان رجيم معتوق 2026 أعلنت مستوى الباكالوريا إلى باكالوريا + 2 وسنا قصوى 40 سنة",
+     "[مقترح] الشروط العامة للانتداب بالوظيفة العمومية (القانون الأساسي العام لأعوان الدولة، القانون عدد 112 لسنة 1983، للتثبت): الجنسية التونسية، التمتع بالحقوق المدنية، حسن السيرة، بلوغ 18 سنة على الأقل، القدرة البدنية على العمل، وضعية قانونية إزاء الخدمة الوطنية",
+     "[مقترح] يضبط قرار فتح المناظرة حدا أقصى للسن (كثيرا ما يكون 40 سنة في تاريخ ختم الترشحات، مع إمكانية الترفيع بمدة الخدمة الوطنية؛ مثال: 40 سنة في مناظرة ديوان رجيم معتوق 2026) — غير مطبّق آليا هنا تفاديا لإقصاء مترشحين عن خطأ",
+     "[مقترح] نفس الرتب تُفتح أيضا في المؤسسات العمومية (المركز الوطني للإعلامية، المعهد الوطني للرصد الجوي، الوكالة الوطنية للتصرف في النفايات، الهيئة الوطنية للاتصالات...) وفق أنظمتها الأساسية الخاصة: الشروط والتسميات قد تختلف"
+    ],
+    "other_fr": [
+     "[Suggestion] Diplôme de formation professionnelle (brevet de technicien professionnel – BTP – ou équivalent) ou niveau secondaire dans la spécialité demandée (électricité, menuiserie, plomberie, mécanique…) — niveau exact à vérifier dans chaque arrêté ; le concours de l'Office de Régim Maâtoug 2026 annonçait un niveau bac à bac+2 et un âge maximum de 40 ans",
+     "[Suggestion] Conditions générales d'accès à la fonction publique (statut général des personnels de l'État, loi n° 83-112, à vérifier) : nationalité tunisienne, jouissance des droits civiques, bonne moralité, 18 ans au moins, aptitude physique, situation régulière vis-à-vis du service national",
+     "[Suggestion] L'arrêté d'ouverture fixe un âge maximum (souvent 40 ans à la clôture des candidatures, avec report possible pour service national ; ex. 40 ans au concours de l'Office de Régim Maâtoug 2026) — volontairement non appliqué automatiquement",
+     "[Suggestion] Les mêmes grades sont aussi ouverts dans les établissements publics (CNI, INM, ANGED, INTT, offices…) selon leurs statuts particuliers : conditions et intitulés peuvent différer"
+    ],
+    "source_key": "s6",
+    "confidence": "LOW",
+    "needs_verification": true,
+    "source_quote": null
+   },
+   "phases": [
+    {
+     "order": 1,
+     "kind": "FILE_REVIEW",
+     "name_ar": "الترشح عن بعد ودراسة قبول الملفات",
+     "name_fr": "Inscription en ligne et recevabilité des dossiers",
+     "is_eliminatory": true,
+     "duration_minutes": null,
+     "description_ar": "[مقترح] التسجيل عن بعد عبر البوابة الوطنية للمناظرات (concours.gov.tn) أو منصة الوزارة/المؤسسة حسب البلاغ، ثم إرسال الملف في الآجال عند الاقتضاء. في المناظرات «بالملفات» (مثل المعهد الوطني للرصد الجوي 2026) تمثل هذه المرحلة الانتقاء الأساسي وفق مقاييس معلنة (المعدل، سنة التخرج، الملاحظة، الخبرة...).",
+     "description_fr": "[Suggestion] Inscription en ligne sur le portail national des concours (concours.gov.tn) ou la plateforme du ministère/de l'établissement selon l'avis, puis envoi du dossier dans les délais si demandé. Dans les concours « sur dossiers » (ex. INM 2026), cette étape constitue la sélection principale selon des critères annoncés (moyenne, année d'obtention du diplôme, mention, expérience…).",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "order": 2,
+     "kind": "WRITTEN",
+     "name_ar": "الاختبار الكتابي",
+     "name_fr": "Épreuve écrite",
+     "is_eliminatory": true,
+     "duration_minutes": null,
+     "description_ar": "مناظرة وزارة النقل لانتداب مساعدين تقنيين (كهرباء، نجارة الأثاث) كانت «بالاختبارات» (20 جويلية 2026). [مقترح] أسئلة تقنية بسيطة في الاختصاص وحساب تطبيقي.",
+     "description_fr": "Le concours du ministère du Transport (assistants techniques électricité / menuiserie) était « sur épreuves » (20/07/2026). [Suggestion] Questions techniques simples de spécialité et calcul appliqué.",
+     "source_key": "s12",
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "order": 3,
+     "kind": "ORAL",
+     "name_ar": "اختبار تطبيقي أو مقابلة (حسب القرار)",
+     "name_fr": "Épreuve pratique ou entretien (selon l'arrêté)",
+     "is_eliminatory": true,
+     "duration_minutes": null,
+     "description_ar": "[مقترح] اختبار تطبيقي في الورشة (إنجاز تركيب كهربائي، قطعة نجارة...) أو مقابلة مهنية.",
+     "description_fr": "[Suggestion] Épreuve pratique en atelier (réaliser un montage électrique, une pièce de menuiserie…) ou entretien professionnel.",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "order": 4,
+     "kind": "TRAINING",
+     "name_ar": "التربص قبل الترسيم",
+     "name_fr": "Stage probatoire avant titularisation",
+     "is_eliminatory": false,
+     "duration_minutes": null,
+     "description_ar": "[مقترح] يُسمّى الناجحون بصفة متربصين لمدة سنة (قابلة للتجديد مرة واحدة حسب القانون الأساسي العام، للتثبت) قبل الترسيم.",
+     "description_fr": "[Suggestion] Les lauréats sont nommés stagiaires pour un an (renouvelable une fois selon le statut général, à vérifier) avant titularisation.",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    }
+   ],
+   "subjects": [
+    {
+     "phase_order": 2,
+     "domain": "SPECIALTY",
+     "specialty_key": "spec.techniciens-ingenieurs.culture-technique",
+     "name_ar": "اختبار تقني كتابي في الاختصاص",
+     "name_fr": "Épreuve technique écrite de spécialité",
+     "coefficient": null,
+     "duration_minutes": null,
+     "question_count": null,
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "phase_order": 2,
+     "domain": "NUMERICAL",
+     "specialty_key": null,
+     "name_ar": "حساب تطبيقي (قياسات، نسب، مساحات)",
+     "name_fr": "Calcul appliqué (mesures, proportions, surfaces)",
+     "coefficient": null,
+     "duration_minutes": null,
+     "question_count": null,
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "phase_order": 3,
+     "domain": "SPECIALTY",
+     "specialty_key": "spec.techniciens-ingenieurs.culture-technique",
+     "name_ar": "اختبار تطبيقي في الورشة",
+     "name_fr": "Épreuve pratique en atelier",
+     "coefficient": null,
+     "duration_minutes": null,
+     "question_count": null,
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    }
+   ],
+   "physical_tests": [],
+   "required_documents": [
+    {
+     "text_ar": "استمارة الترشح المعمّرة عن بعد أو وصل التسجيل (نسخة مطبوعة وممضاة إن طُلبت)",
+     "text_fr": "Formulaire de candidature rempli en ligne ou accusé d'inscription (copie imprimée et signée si demandée)",
+     "source_key": "s1",
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "text_ar": "نسخة من بطاقة التعريف الوطنية",
+     "text_fr": "Copie de la carte d'identité nationale (CIN)",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "text_ar": "نسخة من الشهادة العلمية المطلوبة وكشوف الأعداد لكامل سنوات الدراسة",
+     "text_fr": "Copie du diplôme exigé et des relevés de notes de toutes les années d'études",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "text_ar": "وثيقة تثبت الوضعية إزاء الخدمة الوطنية (للذكور)",
+     "text_fr": "Justificatif de la situation vis-à-vis du service national (candidats hommes)",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "text_ar": "بعد النجاح عادة: بطاقة عدد 3 حديثة وشهادة طبية في القدرة على العمل ومضمون ولادة",
+     "text_fr": "Généralement après admission : bulletin n° 3 récent, certificat médical d'aptitude et extrait de naissance",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    }
+   ],
+   "blueprint": {
+    "total_minutes": 90,
+    "fidelity": "APPROXIMATED",
+    "sections": [
+     {
+      "domain": "SPECIALTY",
+      "specialty_key": "spec.techniciens-ingenieurs.culture-technique",
+      "count": 20,
+      "minutes": 30
+     },
+     {
+      "domain": "SPECIALTY",
+      "specialty_key": "spec.electricite",
+      "count": 10,
+      "minutes": 15
+     },
+     {
+      "domain": "NUMERICAL",
+      "specialty_key": null,
+      "count": 15,
+      "minutes": 25
+     },
+     {
+      "domain": "ARABIC",
+      "specialty_key": null,
+      "count": 10,
+      "minutes": 10
+     },
+     {
+      "domain": "LOGIC",
+      "specialty_key": null,
+      "count": 5,
+      "minutes": 10
+     }
+    ]
+   }
+  }
+ ],
+ "specialty_syllabus": [
+  {
+   "key": "spec.techniciens-ingenieurs.marches-publics",
+   "parent_key": null,
+   "level": "UNIT",
+   "title_ar": "الصفقات العمومية (الإطار الترتيبي والإجراءات)",
+   "title_fr": "Marchés publics (cadre réglementaire et procédures)",
+   "scope": "SUGGESTED",
+   "source_key": null,
+   "objectives": [
+    {
+     "key": "spec.techniciens-ingenieurs.marches-publics.o1",
+     "text_ar": "معرفة مبادئ الطلب العمومي والإطار الترتيبي للصفقات العمومية (الأمر عدد 1039 لسنة 2014 حسب علمنا، للتثبت)",
+     "text_fr": "Connaître les principes de la commande publique et le cadre réglementaire des marchés publics (décret n° 2014-1039 à notre connaissance, à vérifier)"
+    },
+    {
+     "key": "spec.techniciens-ingenieurs.marches-publics.o2",
+     "text_ar": "تطبيق مراحل إبرام الصفقة وتنفيذها على حالات عملية",
+     "text_fr": "Appliquer les étapes de passation et d'exécution d'un marché à des cas pratiques"
+    }
+   ]
+  },
+  {
+   "key": "spec.techniciens-ingenieurs.marches-publics.passation",
+   "parent_key": "spec.techniciens-ingenieurs.marches-publics",
+   "level": "TOPIC",
+   "title_ar": "طرق الإبرام وكراس الشروط",
+   "title_fr": "Modes de passation et cahier des charges",
+   "scope": "SUGGESTED",
+   "source_key": null,
+   "objectives": [
+    {
+     "key": "spec.techniciens-ingenieurs.marches-publics.passation.o1",
+     "text_ar": "التمييز بين طلب العروض المفتوح والمضيق والاستشارة والتفاوض المباشر",
+     "text_fr": "Distinguer appel d'offres ouvert, restreint, consultation et procédure négociée"
+    },
+    {
+     "key": "spec.techniciens-ingenieurs.marches-publics.passation.o2",
+     "text_ar": "تحديد محتوى كراس الشروط الإدارية والفنية",
+     "text_fr": "Identifier le contenu des cahiers des clauses administratives et techniques"
+    }
+   ]
+  },
+  {
+   "key": "spec.techniciens-ingenieurs.marches-publics.evaluation",
+   "parent_key": "spec.techniciens-ingenieurs.marches-publics",
+   "level": "TOPIC",
+   "title_ar": "فتح العروض وتقييمها وإسناد الصفقة",
+   "title_fr": "Ouverture des plis, évaluation et attribution",
+   "scope": "SUGGESTED",
+   "source_key": null,
+   "objectives": [
+    {
+     "key": "spec.techniciens-ingenieurs.marches-publics.evaluation.o1",
+     "text_ar": "وصف دور لجان فتح العروض وتقييمها",
+     "text_fr": "Décrire le rôle des commissions d'ouverture et d'évaluation des offres"
+    },
+    {
+     "key": "spec.techniciens-ingenieurs.marches-publics.evaluation.o2",
+     "text_ar": "حساب العرض الأفضل وفق منهجية تقييم معلنة",
+     "text_fr": "Déterminer l'offre la mieux-disante selon une méthode d'évaluation annoncée"
+    }
+   ]
+  },
+  {
+   "key": "spec.techniciens-ingenieurs.marches-publics.execution",
+   "parent_key": "spec.techniciens-ingenieurs.marches-publics",
+   "level": "TOPIC",
+   "title_ar": "تنفيذ الصفقة والقبول",
+   "title_fr": "Exécution, réception et règlement",
+   "scope": "SUGGESTED",
+   "source_key": null,
+   "objectives": [
+    {
+     "key": "spec.techniciens-ingenieurs.marches-publics.execution.o1",
+     "text_ar": "فهم أذون الخدمة والملاحق وغرامات التأخير والضمانات",
+     "text_fr": "Comprendre ordres de service, avenants, pénalités de retard et cautionnements"
+    },
+    {
+     "key": "spec.techniciens-ingenieurs.marches-publics.execution.o2",
+     "text_ar": "التمييز بين القبول الوقتي والقبول النهائي وختم الصفقة",
+     "text_fr": "Distinguer réception provisoire, réception définitive et clôture du marché"
+    }
+   ]
+  },
+  {
+   "key": "spec.techniciens-ingenieurs.marches-publics.tuneps",
+   "parent_key": "spec.techniciens-ingenieurs.marches-publics",
+   "level": "TOPIC",
+   "title_ar": "منظومة الشراءات العمومية على الخط (TUNEPS) وهيئات الرقابة",
+   "title_fr": "Achats publics en ligne (TUNEPS) et organes de contrôle",
+   "scope": "SUGGESTED",
+   "source_key": null,
+   "objectives": [
+    {
+     "key": "spec.techniciens-ingenieurs.marches-publics.tuneps.o1",
+     "text_ar": "معرفة مبادئ الإبرام الإلكتروني عبر TUNEPS",
+     "text_fr": "Connaître les principes de la passation électronique via TUNEPS"
+    },
+    {
+     "key": "spec.techniciens-ingenieurs.marches-publics.tuneps.o2",
+     "text_ar": "ذكر هياكل الرقابة على الصفقات العمومية",
+     "text_fr": "Citer les organes de contrôle et de régulation des marchés publics"
+    }
+   ]
+  },
+  {
+   "key": "spec.techniciens-ingenieurs.genie-civil",
+   "parent_key": null,
+   "level": "UNIT",
+   "title_ar": "الهندسة المدنية والبناء والأشغال العمومية",
+   "title_fr": "Génie civil, bâtiment et travaux publics",
+   "scope": "SUGGESTED",
+   "source_key": null,
+   "objectives": [
+    {
+     "key": "spec.techniciens-ingenieurs.genie-civil.o1",
+     "text_ar": "حل مسائل أساسية في مقاومة المواد والإنشاءات",
+     "text_fr": "Résoudre des problèmes de base de résistance des matériaux et de structures"
+    },
+    {
+     "key": "spec.techniciens-ingenieurs.genie-civil.o2",
+     "text_ar": "تحضير وتتبع ملف أشغال (قياسات، تقدير، متابعة حضيرة)",
+     "text_fr": "Préparer et suivre un dossier de travaux (métré, estimation, suivi de chantier)"
+    }
+   ]
+  },
+  {
+   "key": "spec.techniciens-ingenieurs.genie-civil.rdm-structures",
+   "parent_key": "spec.techniciens-ingenieurs.genie-civil",
+   "level": "TOPIC",
+   "title_ar": "مقاومة المواد والإنشاءات",
+   "title_fr": "Résistance des matériaux et structures",
+   "scope": "SUGGESTED",
+   "source_key": null,
+   "objectives": [
+    {
+     "key": "spec.techniciens-ingenieurs.genie-civil.rdm-structures.o1",
+     "text_ar": "حساب ردود الأفعال والعزوم والجهود في عارضة بسيطة",
+     "text_fr": "Calculer réactions, moments et efforts dans une poutre simple"
+    },
+    {
+     "key": "spec.techniciens-ingenieurs.genie-civil.rdm-structures.o2",
+     "text_ar": "التعرف على الإجهادات والتشوهات الأساسية",
+     "text_fr": "Identifier les contraintes et déformations élémentaires"
+    }
+   ]
+  },
+  {
+   "key": "spec.techniciens-ingenieurs.genie-civil.beton-arme",
+   "parent_key": "spec.techniciens-ingenieurs.genie-civil",
+   "level": "TOPIC",
+   "title_ar": "الخرسانة المسلحة والمواد",
+   "title_fr": "Béton armé et matériaux de construction",
+   "scope": "SUGGESTED",
+   "source_key": null,
+   "objectives": [
+    {
+     "key": "spec.techniciens-ingenieurs.genie-civil.beton-arme.o1",
+     "text_ar": "معرفة مبادئ تصميم العناصر الخرسانية المسلحة (BAEL/Eurocode 2)",
+     "text_fr": "Connaître les principes de dimensionnement des éléments en béton armé (BAEL/Eurocode 2)"
+    },
+    {
+     "key": "spec.techniciens-ingenieurs.genie-civil.beton-arme.o2",
+     "text_ar": "معرفة خصائص مواد البناء ومراقبة جودتها",
+     "text_fr": "Connaître les propriétés des matériaux de construction et leur contrôle qualité"
+    }
+   ]
+  },
+  {
+   "key": "spec.techniciens-ingenieurs.genie-civil.geotechnique-hydraulique",
+   "parent_key": "spec.techniciens-ingenieurs.genie-civil",
+   "level": "TOPIC",
+   "title_ar": "الجيوتقنية والهيدروليك والتطهير",
+   "title_fr": "Géotechnique, hydraulique et assainissement",
+   "scope": "SUGGESTED",
+   "source_key": null,
+   "objectives": [
+    {
+     "key": "spec.techniciens-ingenieurs.genie-civil.geotechnique-hydraulique.o1",
+     "text_ar": "اختيار نوع الأساسات حسب نتائج دراسة التربة",
+     "text_fr": "Choisir un type de fondation selon l'étude de sol"
+    },
+    {
+     "key": "spec.techniciens-ingenieurs.genie-civil.geotechnique-hydraulique.o2",
+     "text_ar": "حساب تدفقات بسيطة في القنوات وشبكات التطهير",
+     "text_fr": "Calculer des débits simples en conduites et réseaux d'assainissement"
+    }
+   ]
+  },
+  {
+   "key": "spec.techniciens-ingenieurs.genie-civil.topographie-metre",
+   "parent_key": "spec.techniciens-ingenieurs.genie-civil",
+   "level": "TOPIC",
+   "title_ar": "الطوبوغرافيا والقياسات وتتبع الأشغال",
+   "title_fr": "Topographie, métré et suivi de chantier",
+   "scope": "SUGGESTED",
+   "source_key": null,
+   "objectives": [
+    {
+     "key": "spec.techniciens-ingenieurs.genie-civil.topographie-metre.o1",
+     "text_ar": "قراءة مخطط وإنجاز قياسات وكميات",
+     "text_fr": "Lire un plan et établir un métré / avant-métré"
+    },
+    {
+     "key": "spec.techniciens-ingenieurs.genie-civil.topographie-metre.o2",
+     "text_ar": "إعداد كشف حساب وتقرير تقدم أشغال",
+     "text_fr": "Établir un décompte et un rapport d'avancement des travaux"
+    }
+   ]
+  },
+  {
+   "key": "spec.techniciens-ingenieurs.gestion-projets",
+   "parent_key": null,
+   "level": "UNIT",
+   "title_ar": "إدارة المشاريع والتحرير الفني والجودة والسلامة",
+   "title_fr": "Gestion de projet, rédaction technique, qualité et sécurité",
+   "scope": "SUGGESTED",
+   "source_key": null,
+   "objectives": [
+    {
+     "key": "spec.techniciens-ingenieurs.gestion-projets.o1",
+     "text_ar": "تخطيط مشروع تقني ومتابعته",
+     "text_fr": "Planifier et suivre un projet technique"
+    },
+    {
+     "key": "spec.techniciens-ingenieurs.gestion-projets.o2",
+     "text_ar": "تحرير تقرير فني أو مذكرة واضحة وموجهة لصاحب القرار",
+     "text_fr": "Rédiger un rapport ou une note technique clair et orienté décision"
+    }
+   ]
+  },
+  {
+   "key": "spec.techniciens-ingenieurs.gestion-projets.planification",
+   "parent_key": "spec.techniciens-ingenieurs.gestion-projets",
+   "level": "TOPIC",
+   "title_ar": "التخطيط (غانت، بيرت، المسار الحرج)",
+   "title_fr": "Planification (Gantt, PERT, chemin critique)",
+   "scope": "SUGGESTED",
+   "source_key": null,
+   "objectives": [
+    {
+     "key": "spec.techniciens-ingenieurs.gestion-projets.planification.o1",
+     "text_ar": "بناء مخطط غانت وتحديد المسار الحرج",
+     "text_fr": "Construire un diagramme de Gantt et identifier le chemin critique"
+    },
+    {
+     "key": "spec.techniciens-ingenieurs.gestion-projets.planification.o2",
+     "text_ar": "تقدير الكلفة والآجال ومتابعة الانحرافات",
+     "text_fr": "Estimer coûts et délais et suivre les écarts"
+    }
+   ]
+  },
+  {
+   "key": "spec.techniciens-ingenieurs.gestion-projets.redaction-technique",
+   "parent_key": "spec.techniciens-ingenieurs.gestion-projets",
+   "level": "TOPIC",
+   "title_ar": "التحرير الفني (تقرير، كراس شروط فني، محضر)",
+   "title_fr": "Rédaction technique (rapport, CCTP, procès-verbal)",
+   "scope": "SUGGESTED",
+   "source_key": null,
+   "objectives": [
+    {
+     "key": "spec.techniciens-ingenieurs.gestion-projets.redaction-technique.o1",
+     "text_ar": "هيكلة تقرير فني (سياق، تحليل، مقترحات)",
+     "text_fr": "Structurer un rapport technique (contexte, analyse, propositions)"
+    },
+    {
+     "key": "spec.techniciens-ingenieurs.gestion-projets.redaction-technique.o2",
+     "text_ar": "تحرير بنود فنية في كراس الشروط",
+     "text_fr": "Rédiger des clauses techniques d'un cahier des charges"
+    }
+   ]
+  },
+  {
+   "key": "spec.techniciens-ingenieurs.gestion-projets.qualite-securite-maintenance",
+   "parent_key": "spec.techniciens-ingenieurs.gestion-projets",
+   "level": "TOPIC",
+   "title_ar": "الجودة والصحة والسلامة المهنية والصيانة",
+   "title_fr": "Qualité, santé-sécurité au travail et maintenance",
+   "scope": "SUGGESTED",
+   "source_key": null,
+   "objectives": [
+    {
+     "key": "spec.techniciens-ingenieurs.gestion-projets.qualite-securite-maintenance.o1",
+     "text_ar": "معرفة مبادئ أنظمة الجودة (ISO 9001) والسلامة المهنية",
+     "text_fr": "Connaître les principes des systèmes qualité (ISO 9001) et de la sécurité au travail"
+    },
+    {
+     "key": "spec.techniciens-ingenieurs.gestion-projets.qualite-securite-maintenance.o2",
+     "text_ar": "التمييز بين الصيانة الوقائية والإصلاحية وتنظيمها",
+     "text_fr": "Distinguer et organiser maintenance préventive et corrective"
+    }
+   ]
+  },
+  {
+   "key": "spec.techniciens-ingenieurs.fluides-energie",
+   "parent_key": null,
+   "level": "UNIT",
+   "title_ar": "الموائع والطاقة (تكييف، ترصيص، نجاعة طاقية)",
+   "title_fr": "Fluides et énergie (CVC, plomberie, efficacité énergétique)",
+   "scope": "SUGGESTED",
+   "source_key": null,
+   "objectives": [
+    {
+     "key": "spec.techniciens-ingenieurs.fluides-energie.o1",
+     "text_ar": "فهم مبادئ التكييف والتدفئة والتهوئة في البنايات العمومية",
+     "text_fr": "Comprendre les principes du chauffage, de la ventilation et de la climatisation des bâtiments publics"
+    },
+    {
+     "key": "spec.techniciens-ingenieurs.fluides-energie.o2",
+     "text_ar": "اقتراح إجراءات للنجاعة الطاقية والطاقات المتجددة",
+     "text_fr": "Proposer des mesures d'efficacité énergétique et d'énergies renouvelables"
+    }
+   ]
+  },
+  {
+   "key": "spec.techniciens-ingenieurs.fluides-energie.cvc-plomberie",
+   "parent_key": "spec.techniciens-ingenieurs.fluides-energie",
+   "level": "TOPIC",
+   "title_ar": "التكييف والترصيص والسوائل الصحية",
+   "title_fr": "CVC, plomberie et fluides sanitaires",
+   "scope": "SUGGESTED",
+   "source_key": null,
+   "objectives": [
+    {
+     "key": "spec.techniciens-ingenieurs.fluides-energie.cvc-plomberie.o1",
+     "text_ar": "حساب حاجيات حرارية بسيطة",
+     "text_fr": "Calculer des besoins thermiques simples"
+    },
+    {
+     "key": "spec.techniciens-ingenieurs.fluides-energie.cvc-plomberie.o2",
+     "text_ar": "التعرف على مكونات شبكات الماء والصرف داخل البنايات",
+     "text_fr": "Identifier les composants des réseaux d'eau et d'évacuation des bâtiments"
+    }
+   ]
+  },
+  {
+   "key": "spec.techniciens-ingenieurs.fluides-energie.efficacite-energetique",
+   "parent_key": "spec.techniciens-ingenieurs.fluides-energie",
+   "level": "TOPIC",
+   "title_ar": "النجاعة الطاقية والطاقات المتجددة",
+   "title_fr": "Efficacité énergétique et énergies renouvelables",
+   "scope": "SUGGESTED",
+   "source_key": null,
+   "objectives": [
+    {
+     "key": "spec.techniciens-ingenieurs.fluides-energie.efficacite-energetique.o1",
+     "text_ar": "تحليل فاتورة طاقة واقتراح حلول للاقتصاد في الطاقة",
+     "text_fr": "Analyser une facture énergétique et proposer des économies"
+    },
+    {
+     "key": "spec.techniciens-ingenieurs.fluides-energie.efficacite-energetique.o2",
+     "text_ar": "معرفة مبادئ الطاقة الشمسية الفولطاضوئية والحرارية",
+     "text_fr": "Connaître les principes du solaire photovoltaïque et thermique"
+    }
+   ]
+  },
+  {
+   "key": "spec.techniciens-ingenieurs.culture-technique",
+   "parent_key": null,
+   "level": "UNIT",
+   "title_ar": "الثقافة التقنية العامة للتقنيين والمساعدين التقنيين",
+   "title_fr": "Culture technique générale (techniciens et assistants techniques)",
+   "scope": "SUGGESTED",
+   "source_key": null,
+   "objectives": [
+    {
+     "key": "spec.techniciens-ingenieurs.culture-technique.o1",
+     "text_ar": "قراءة رسم فني ومخطط واستعمال وحدات القيس",
+     "text_fr": "Lire un dessin technique / un plan et utiliser les unités de mesure"
+    },
+    {
+     "key": "spec.techniciens-ingenieurs.culture-technique.o2",
+     "text_ar": "تطبيق قواعد السلامة في الورشة والحضيرة",
+     "text_fr": "Appliquer les règles de sécurité en atelier et sur chantier"
+    }
+   ]
+  },
+  {
+   "key": "spec.techniciens-ingenieurs.culture-technique.dessin-mesures",
+   "parent_key": "spec.techniciens-ingenieurs.culture-technique",
+   "level": "TOPIC",
+   "title_ar": "الرسم الفني والقياسات والوحدات",
+   "title_fr": "Dessin technique, mesures et unités",
+   "scope": "SUGGESTED",
+   "source_key": null,
+   "objectives": [
+    {
+     "key": "spec.techniciens-ingenieurs.culture-technique.dessin-mesures.o1",
+     "text_ar": "تحويل الوحدات وحساب المساحات والأحجام",
+     "text_fr": "Convertir des unités et calculer surfaces et volumes"
+    },
+    {
+     "key": "spec.techniciens-ingenieurs.culture-technique.dessin-mesures.o2",
+     "text_ar": "قراءة المساقط والمقاطع في رسم فني",
+     "text_fr": "Lire vues et coupes d'un dessin technique"
+    }
+   ]
+  },
+  {
+   "key": "spec.techniciens-ingenieurs.culture-technique.materiaux-outillage",
+   "parent_key": "spec.techniciens-ingenieurs.culture-technique",
+   "level": "TOPIC",
+   "title_ar": "المواد والأدوات وطرق العمل",
+   "title_fr": "Matériaux, outillage et méthodes",
+   "scope": "SUGGESTED",
+   "source_key": null,
+   "objectives": [
+    {
+     "key": "spec.techniciens-ingenieurs.culture-technique.materiaux-outillage.o1",
+     "text_ar": "اختيار المادة والأداة المناسبة لعمل معين",
+     "text_fr": "Choisir le matériau et l'outil adaptés à une tâche"
+    },
+    {
+     "key": "spec.techniciens-ingenieurs.culture-technique.materiaux-outillage.o2",
+     "text_ar": "وصف مراحل إنجاز عمل تقني بسيط",
+     "text_fr": "Décrire les étapes de réalisation d'un ouvrage technique simple"
+    }
+   ]
+  },
+  {
+   "key": "spec.techniciens-ingenieurs.culture-technique.securite-travail",
+   "parent_key": "spec.techniciens-ingenieurs.culture-technique",
+   "level": "TOPIC",
+   "title_ar": "الصحة والسلامة المهنية",
+   "title_fr": "Hygiène et sécurité au travail",
+   "scope": "SUGGESTED",
+   "source_key": null,
+   "objectives": [
+    {
+     "key": "spec.techniciens-ingenieurs.culture-technique.securite-travail.o1",
+     "text_ar": "التعرف على المخاطر الكهربائية والميكانيكية ووسائل الوقاية",
+     "text_fr": "Identifier les risques électriques et mécaniques et les équipements de protection"
+    },
+    {
+     "key": "spec.techniciens-ingenieurs.culture-technique.securite-travail.o2",
+     "text_ar": "معرفة السلوك الواجب عند حادث شغل",
+     "text_fr": "Connaître la conduite à tenir en cas d'accident du travail"
+    }
+   ]
+  },
+  {
+   "key": "spec.techniciens-ingenieurs.chimie-analyse",
+   "parent_key": null,
+   "level": "UNIT",
+   "title_ar": "التحاليل الكيميائية والمخبرية",
+   "title_fr": "Analyses chimiques et de laboratoire",
+   "scope": "SUGGESTED",
+   "source_key": "s4",
+   "objectives": [
+    {
+     "key": "spec.techniciens-ingenieurs.chimie-analyse.o1",
+     "text_ar": "إنجاز معايرات وتحاليل كمية بسيطة",
+     "text_fr": "Réaliser des dosages et analyses quantitatives simples"
+    },
+    {
+     "key": "spec.techniciens-ingenieurs.chimie-analyse.o2",
+     "text_ar": "تطبيق قواعد الجودة والسلامة في المخبر",
+     "text_fr": "Appliquer les règles de qualité et de sécurité au laboratoire"
+    }
+   ]
+  },
+  {
+   "key": "spec.techniciens-ingenieurs.chimie-analyse.chimie-analytique",
+   "parent_key": "spec.techniciens-ingenieurs.chimie-analyse",
+   "level": "TOPIC",
+   "title_ar": "الكيمياء التحليلية (معايرة، pH، تحاليل حجمية)",
+   "title_fr": "Chimie analytique (titrages, pH, volumétrie)",
+   "scope": "SUGGESTED",
+   "source_key": null,
+   "objectives": [
+    {
+     "key": "spec.techniciens-ingenieurs.chimie-analyse.chimie-analytique.o1",
+     "text_ar": "حساب تركيز محلول من نتائج معايرة",
+     "text_fr": "Calculer une concentration à partir d'un titrage"
+    },
+    {
+     "key": "spec.techniciens-ingenieurs.chimie-analyse.chimie-analytique.o2",
+     "text_ar": "تحضير محاليل ومعايرة الأجهزة",
+     "text_fr": "Préparer des solutions et étalonner les appareils"
+    }
+   ]
+  },
+  {
+   "key": "spec.techniciens-ingenieurs.chimie-analyse.techniques-instrumentales",
+   "parent_key": "spec.techniciens-ingenieurs.chimie-analyse",
+   "level": "TOPIC",
+   "title_ar": "التقنيات الآلية والجودة في المخبر",
+   "title_fr": "Techniques instrumentales et qualité au laboratoire",
+   "scope": "SUGGESTED",
+   "source_key": null,
+   "objectives": [
+    {
+     "key": "spec.techniciens-ingenieurs.chimie-analyse.techniques-instrumentales.o1",
+     "text_ar": "معرفة مبادئ القياس الطيفي والكروماتوغرافيا",
+     "text_fr": "Connaître les principes de la spectrophotométrie et de la chromatographie"
+    },
+    {
+     "key": "spec.techniciens-ingenieurs.chimie-analyse.techniques-instrumentales.o2",
+     "text_ar": "معرفة متطلبات اعتماد المخابر (ISO/IEC 17025)",
+     "text_fr": "Connaître les exigences d'accréditation des laboratoires (ISO/IEC 17025)"
+    }
+   ]
+  }
+ ],
+ "past_exams": [],
+ "tips_ar": [
+  "تابع البوابة الوطنية للمناظرات (concours.gov.tn) ومواقع الوزارات والمؤسسات العمومية والرائد الرسمي: مناظرات المهندسين والتقنيين تُفتح وزارة بوزارة وبأعداد صغيرة (من 2 إلى 25 خطة)، وآجال الترشح قصيرة (أحيانا 10 أيام فقط كما في مناظرة وزارة التربية 2026).",
+  "اقرأ قرار فتح المناظرة بدقة: عدد الخطط لكل اختصاص، قائمة الشهادات المقبولة، طريقة المناظرة (بالاختبارات أو بالملفات)، والسن القصوى. الترشح في اختصاص غير مذكور يؤدي إلى رفض الملف.",
+  "حضّر الصفقات العمومية (طرق الإبرام، تقييم العروض، القبول الوقتي والنهائي، منظومة TUNEPS): هي قاسم مشترك لعمل المهندس والتقني في الإدارة وتُطرح كثيرا في الشفاهي.",
+  "راجع أساسيات اختصاصك من دروس السنوات الأولى (مقاومة المواد، الدوائر الكهربائية، الخوارزميات وقواعد البيانات...) أكثر من المواضيع المتقدمة: الاختبارات الكتابية تقيس التمكن من الأساسيات وحل المسائل.",
+  "تدرّب على تحرير تقرير فني منظم باللغة الفرنسية (سياق، تشخيص، حلول، توصية) في وقت محدد.",
+  "جهّز عرضا قصيرا (3 إلى 5 دقائق) حول مشروع ختم الدروس وتجاربك المهنية للاختبار الشفاهي، مع ربطه بمهام الوزارة أو المؤسسة المعنية.",
+  "في المناظرات بالملفات، الترتيب يعتمد غالبا على مقاييس موضوعية (المعدل، الملاحظة، سنة التخرج، الخبرة): جهّز نسخا رقمية واضحة لكل الوثائق وتأكد من صحة كل معطى تصرّح به.",
+  "احذر من الصفحات والأشخاص الذين يطلبون مالا مقابل «ضمان» النجاح أو تسريب المواضيع: الترشح للمناظرات العمومية مجاني."
+ ],
+ "tips_fr": [
+  "Surveillez le portail national des concours (concours.gov.tn), les sites des ministères et établissements publics et le JORT : les concours d'ingénieurs et de techniciens sont ouverts ministère par ministère, avec peu de postes (2 à 25) et des délais courts (parfois une dizaine de jours, comme au ministère de l'Éducation en 2026).",
+  "Lisez attentivement l'arrêté d'ouverture : nombre de postes par spécialité, diplômes admis, mode du concours (sur épreuves ou sur dossiers) et âge maximum. Une candidature dans une spécialité non prévue est rejetée.",
+  "Préparez les marchés publics (modes de passation, évaluation des offres, réceptions provisoire et définitive, TUNEPS) : c'est le socle commun du travail de l'ingénieur et du technicien dans l'administration, souvent abordé à l'oral.",
+  "Révisez les fondamentaux de votre spécialité (RDM, circuits électriques, algorithmique et bases de données…) plutôt que les sujets pointus : l'écrit évalue la maîtrise des bases et la résolution de problèmes.",
+  "Entraînez-vous à rédiger en temps limité un rapport technique structuré en français (contexte, diagnostic, solutions, recommandation).",
+  "Préparez une présentation de 3 à 5 minutes de votre projet de fin d'études et de vos expériences pour l'oral, en la reliant aux missions du ministère ou de l'établissement.",
+  "Dans un concours sur dossiers, le classement repose souvent sur des critères objectifs (moyenne, mention, année du diplôme, expérience) : préparez des copies numériques lisibles et vérifiez chaque information déclarée.",
+  "Méfiez-vous des pages et personnes qui demandent de l'argent pour « garantir » la réussite ou vendre des sujets : la candidature aux concours publics est gratuite."
+ ],
+ "research_notes": "LIMITE MÉTHODOLOGIQUE MAJEURE (07/10/2026) : le quota WebSearch partagé de la session était épuisé dès la première requête, et WebFetch renvoie EGRESS_BLOCKED pour tous les domaines testés (www.webdo.tn, directinfo.webmanagercenter.com, www.lapresse.tn, www.legislation.tn, www.concours.gov.tn, www.iort.gov.tn, www.cni.tn, fr.allafrica.com, www.kedma.tn). AUCUNE page n'a été lue directement. Les faits rattachés aux sources s2–s12 proviennent de la veille consignée le même jour par l'équipe (content/competitions/_openings.json), elle-même fondée sur des résumés de moteur de recherche : c'est pourquoi TOUS les faits portent needs_verification=true, aucun source_quote n'est fourni et 0 fait est publiable comme officiel en l'état. ÉDITIONS : 12 éditions 2026, aucune édition 2023–2025 documentée (à rechercher). Les éditions datées reprennent exactement les dates de _openings.json pour que le seed des ouvertures les reconnaisse comme doublons ; les deux ouvertures sans date (Finances 16 techniciens, Centre informatique de l'Intérieur 8 postes) reprennent à l'identique le session_label de _openings.json pour éviter un doublon (le seed des ouvertures, exécuté après, écrasera alors statut/sources de ces deux lignes). position_slugs cible les postes concernés pour les alertes de profil. Trois sont OPEN au 07/10/2026 : Office de Régim Maâtoug (clôture 09/10), INTT (22/10), Agence d'urbanisme du Grand Tunis (30/10). Le statut ANNOUNCED du Centre informatique de l'Intérieur est une hypothèse (article du 05/10/2026, dates inconnues). Le concours du ministère du Transport (2 assistants techniques) n'avait pas de famille dans _openings.json : rattaché ici. Établissements publics (ONTH, ANGED, INM, INTT, AUGT, Régim Maâtoug) : statuts propres, rattachés aux postes génériques faute de mieux. À VÉRIFIER EN PRIORITÉ : (1) statut particulier du corps commun des ingénieurs des administrations publiques (souvenir non vérifié : décret n° 99-12 du 4 janvier 1999, modifié) — grades (ingénieur des travaux, ingénieur principal, ingénieur en chef, ingénieur général), diplôme exigé pour le grade d'ingénieur des travaux (non modélisé comme poste faute de source) ; (2) statut particulier du corps technique commun (grades exacts : agent technique ? assistant/adjoint technique, technicien, technicien principal, technicien en chef ; diplômes exigés — le niveau BTP de l'assistant technique est une hypothèse) ; (3) intitulé exact du corps des informaticiens (analystes, programmeurs, techniciens en informatique) et diplômes par grade ; (4) arrêtés d'organisation des concours : composition des épreuves, durées, coefficients, existence de l'oral — tous les coefficients/durées de ce fichier (spécialité 3 h coef 2, rédaction 2 h coef 1, oral coef 1) sont des SUGGESTIONS ; (5) âge maximum (40 ans seulement attesté pour Régim Maâtoug via la presse) ; (6) réglementation des marchés publics citée dans le syllabus (décret n° 2014-1039 du 13 mars 2014, de mémoire). Les blueprints sont APPROXIMATED (QCM d'entraînement, pas le format officiel, qui est rédactionnel). Aucune annale officielle ou communautaire n'a pu être consultée : past_exams vide. Pas d'épreuves physiques connues pour ces corps (physical_tests vides). Hors périmètre : architectes, enseignants technologues (ISET), techniciens de la santé, sociétés publiques à statut d'entreprise (STEG, SNCFT, TRANSTU… couvertes ailleurs ou à créer)."
+}

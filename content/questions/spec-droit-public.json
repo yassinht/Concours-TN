@@ -1,0 +1,2237 @@
+{
+ "bank": "spec-droit-public",
+ "domain": "SPECIALTY",
+ "specialty_syllabus": [
+  {
+   "key": "spec.droit-public",
+   "parent_key": null,
+   "level": "SUBJECT",
+   "domain": "SPECIALTY",
+   "title_ar": "القانون العام: القانون الدستوري والمؤسسات السياسية والحريات العامة",
+   "title_fr": "Droit public : droit constitutionnel, institutions politiques et libertés publiques",
+   "scope": "SUGGESTED",
+   "source_key": null,
+   "objectives": []
+  },
+  {
+   "key": "spec.droit-public.theorie-etat-constitution",
+   "parent_key": "spec.droit-public",
+   "level": "TOPIC",
+   "domain": "SPECIALTY",
+   "title_ar": "النظرية العامة للدولة والدستور",
+   "title_fr": "Théorie générale de l'État et de la Constitution",
+   "scope": "SUGGESTED",
+   "source_key": null,
+   "objectives": [
+    {
+     "key": "spec.droit-public.theorie-etat-constitution.o1",
+     "text_ar": "عناصر الدولة والسيادة وأشكال الدولة (الموحدة، الفدرالية) واللامركزية",
+     "text_fr": "Identifier les éléments constitutifs de l'État, la souveraineté et les formes de l'État (unitaire, fédéral, décentralisé)"
+    },
+    {
+     "key": "spec.droit-public.theorie-etat-constitution.o2",
+     "text_ar": "مفهوم الدستور وطرق وضعه وتعديله وتدرّج القواعد القانونية ومراقبة دستورية القوانين",
+     "text_fr": "Maîtriser la notion de Constitution, son établissement et sa révision, la hiérarchie des normes et le contrôle de constitutionnalité"
+    }
+   ]
+  },
+  {
+   "key": "spec.droit-public.regimes-politiques",
+   "parent_key": "spec.droit-public",
+   "level": "TOPIC",
+   "domain": "SPECIALTY",
+   "title_ar": "الأنظمة السياسية والفصل بين السلط والانتخابات",
+   "title_fr": "Régimes politiques, séparation des pouvoirs et élections",
+   "scope": "SUGGESTED",
+   "source_key": null,
+   "objectives": [
+    {
+     "key": "spec.droit-public.regimes-politiques.o1",
+     "text_ar": "مبدأ الفصل بين السلط وتصنيف الأنظمة السياسية (برلماني، رئاسي)",
+     "text_fr": "Expliquer la séparation des pouvoirs et classer les régimes politiques (parlementaire, présidentiel)"
+    },
+    {
+     "key": "spec.droit-public.regimes-politiques.o2",
+     "text_ar": "السيادة والتمثيل والاستفتاء وطرق الاقتراع",
+     "text_fr": "Distinguer les théories de la souveraineté, la représentation, le référendum et les modes de scrutin"
+    }
+   ]
+  },
+  {
+   "key": "spec.droit-public.histoire-constitutionnelle",
+   "parent_key": "spec.droit-public",
+   "level": "TOPIC",
+   "domain": "SPECIALTY",
+   "title_ar": "التاريخ الدستوري التونسي",
+   "title_fr": "Histoire constitutionnelle tunisienne",
+   "scope": "SUGGESTED",
+   "source_key": null,
+   "objectives": [
+    {
+     "key": "spec.droit-public.histoire-constitutionnelle.o1",
+     "text_ar": "من عهد الأمان ودستور 1861 إلى دستور 1959 وتنقيحاته",
+     "text_fr": "Retracer l'évolution du Pacte fondamental et de la Constitution de 1861 à la Constitution de 1959 et ses révisions"
+    },
+    {
+     "key": "spec.droit-public.histoire-constitutionnelle.o2",
+     "text_ar": "مرحلة الانتقال 2011-2022: التنظيم المؤقت للسلط ودستور 2014 والتدابير الاستثنائية",
+     "text_fr": "Situer la transition 2011-2022 : organisation provisoire des pouvoirs, Constitution de 2014, mesures exceptionnelles"
+    }
+   ]
+  },
+  {
+   "key": "spec.droit-public.constitution-2022",
+   "parent_key": "spec.droit-public",
+   "level": "TOPIC",
+   "domain": "SPECIALTY",
+   "title_ar": "دستور 2022: المبادئ والوظيفتان التشريعية والتنفيذية",
+   "title_fr": "Constitution de 2022 : principes, fonctions législative et exécutive",
+   "scope": "SUGGESTED",
+   "source_key": null,
+   "objectives": [
+    {
+     "key": "spec.droit-public.constitution-2022.o1",
+     "text_ar": "المبادئ العامة والوظيفة التشريعية (مجلس نواب الشعب والمجلس الوطني للجهات والأقاليم)",
+     "text_fr": "Connaître les principes généraux et la fonction législative (ARP et Conseil national des régions et des districts)"
+    },
+    {
+     "key": "spec.droit-public.constitution-2022.o2",
+     "text_ar": "الوظيفة التنفيذية والعلاقة بين الوظائف",
+     "text_fr": "Analyser la fonction exécutive et les rapports entre les fonctions"
+    }
+   ]
+  },
+  {
+   "key": "spec.droit-public.juridictions-instances",
+   "parent_key": "spec.droit-public",
+   "level": "TOPIC",
+   "domain": "SPECIALTY",
+   "title_ar": "الوظيفة القضائية والقضاء الدستوري وهيئة الانتخابات والسلطة المحلية",
+   "title_fr": "Fonction juridictionnelle, justice constitutionnelle, ISIE et pouvoir local",
+   "scope": "SUGGESTED",
+   "source_key": null,
+   "objectives": [
+    {
+     "key": "spec.droit-public.juridictions-instances.o1",
+     "text_ar": "ضمانات استقلال القضاء ومراقبة دستورية القوانين في تونس",
+     "text_fr": "Connaître les garanties d'indépendance de la justice et le contrôle de constitutionnalité en Tunisie"
+    },
+    {
+     "key": "spec.droit-public.juridictions-instances.o2",
+     "text_ar": "الهيئة العليا المستقلة للانتخابات والسلطة المحلية والجهوية",
+     "text_fr": "Connaître l'ISIE et l'organisation du pouvoir local et régional"
+    }
+   ]
+  },
+  {
+   "key": "spec.droit-public.libertes-publiques",
+   "parent_key": "spec.droit-public",
+   "level": "TOPIC",
+   "domain": "SPECIALTY",
+   "title_ar": "الحقوق والحريات العامة",
+   "title_fr": "Droits et libertés publiques",
+   "scope": "SUGGESTED",
+   "source_key": null,
+   "objectives": [
+    {
+     "key": "spec.droit-public.libertes-publiques.o1",
+     "text_ar": "الأنظمة القانونية لممارسة الحريات وضوابط تقييدها والظروف الاستثنائية",
+     "text_fr": "Distinguer les régimes juridiques d'exercice des libertés, leurs limites et les régimes d'exception"
+    },
+    {
+     "key": "spec.droit-public.libertes-publiques.o2",
+     "text_ar": "الحقوق والحريات في الدستور التونسي والنصوص التطبيقية (الجمعيات، الأحزاب، الصحافة)",
+     "text_fr": "Connaître les droits et libertés dans la Constitution tunisienne et les textes d'application (associations, partis, presse)"
+    }
+   ]
+  }
+ ],
+ "sources": [],
+ "research_notes": "Banque originale (origin AI_GENERATED), 40 questions, langues arabe et française, rédigée le 07/10/2026. LIMITE MÉTHODOLOGIQUE : aucune vérification web n'a pu être faite lors de cette passe. Le quota WebSearch partagé était épuisé dès la première requête, et WebFetch renvoyait EGRESS_BLOCKED pour constituteproject.org, fr.wikipedia.org, ar.wikisource.org, legislation.tn, iort.gov.tn et jurisitetunisie.com ; pist.gov.tn ne résout pas. Aucune source n'est donc citée (sources vide, source_key null partout). Les questions s'appuient sur des connaissances retenues avec un haut degré de certitude. Les faits les moins sûrs ont été ÉCARTÉS : intérim en cas de vacance définitive de la présidence (président de la Cour constitutionnelle ?), interdiction pour un député de rejoindre un autre bloc, limites de l'immunité parlementaire, numérotation exacte des articles de la Constitution de 2022 (sauf l'art. 5), nombre de chapitres, majorités d'adoption des lois organiques en 2022 et éventuel ajout des magistrats à l'exclusion du droit de grève. Les questions taguées 'needs_verification' reposent sur la formulation du texte de 2022 ou d'un texte précis et doivent être relues contre le JORT (iort.gov.tn) ou legislation.tn avant toute publication comme fait. Points à vérifier en priorité : (1) art. 5 C.2022, formule exacte des maqasid ; (2) soumission obligatoire au CNRD des projets relatifs au budget et aux plans de développement régionaux, de district et nationaux ; (3) conditions d'éligibilité présidentielle (pas d'autre nationalité, confession musulmane, 40 ans) ; (4) 161 sièges à l'ARP 2022-2023 (151 + 10), valid_until 2027-10-07 car lié à la loi électorale ; (5) scrutin uninominal majoritaire à deux tours (décret-loi de septembre 2022) et second tour le 29/01/2023 ; (6) contenu du décret présidentiel 2021-117 (suppression de l'IPCCPL, décrets-lois, maintien du préambule et des chapitres I-II) ; (7) clause de limitation art. 49 C.2014 / art. 55 C.2022 (le texte de 2014 citait aussi les bonnes mœurs, dont la reprise en 2022 est à vérifier) ; (8) interdiction de la censure préalable reprise en 2022 ; (9) interdiction d'extrader un citoyen ou de le déchoir de sa nationalité reprise en 2022 ; (10) procédure de déclaration du décret-loi 2011-88 (lettre recommandée au Secrétaire général du gouvernement) ; (11) loi organique 2012-23 du 20/12/2012 (ISIE) ; (12) conseil local par délégation, une imada par circonscription. Les questions de théorie générale (État, constitution, régimes, scrutins, libertés) ne dépendent pas d'un texte tunisien. Les questions EXPERT sont réservées aux familles de niveau supérieur (administration-generale, bct, collectivites-locales, douane, ena, police-inspecteur, police-officier). Aucune question ne porte sur les titulaires actuels de fonctions (président de l'ARP, du CNRD, etc.), pour éviter l'obsolescence. Familles : celles dont les fichiers competitions/*.json référencent spec.droit-public.",
+ "questions": [
+  {
+   "id": "spec-droit-public-0001",
+   "type": "MCQ_SINGLE",
+   "language": "fr",
+   "stem": "Selon la doctrine classique du droit constitutionnel, les éléments constitutifs de l'État sont :",
+   "options": [
+    {
+     "id": "a",
+     "text": "un territoire, une Constitution écrite et une armée"
+    },
+    {
+     "id": "b",
+     "text": "un territoire, une population et un pouvoir politique souverain"
+    },
+    {
+     "id": "c",
+     "text": "une population, une langue officielle et une religion d'État"
+    },
+    {
+     "id": "d",
+     "text": "un territoire, une monnaie et la reconnaissance internationale"
+    }
+   ],
+   "correct": [
+    "b"
+   ],
+   "explanation": "La théorie classique retient trois éléments : une population, un territoire délimité et un pouvoir politique organisé et souverain. La reconnaissance internationale n'est pas un élément constitutif : selon l'opinion dominante, elle est seulement déclarative, elle constate l'existence de l'État. La Constitution écrite, la monnaie ou la langue officielle sont des attributs fréquents, mais un État peut exister sans eux (le Royaume-Uni n'a pas de constitution écrite codifiée).",
+   "difficulty": "EASY",
+   "topic_key": "spec.droit-public.theorie-etat-constitution",
+   "objective_key": "spec.droit-public.theorie-etat-constitution.o1",
+   "families": [
+    "administration-generale",
+    "bct",
+    "collectivites-locales",
+    "douane",
+    "ena",
+    "garde-nationale",
+    "police-gardien-paix",
+    "police-inspecteur",
+    "police-officier",
+    "prisons-reeducation",
+    "protection-civile"
+   ],
+   "origin": "AI_GENERATED",
+   "source_key": null,
+   "year": null,
+   "valid_until": null,
+   "tags": [
+    "theorie-generale",
+    "etat"
+   ]
+  },
+  {
+   "id": "spec-droit-public-0002",
+   "type": "MCQ_SINGLE",
+   "language": "ar",
+   "stem": "تُسمّى الدولة المركّبة التي يوزّع فيها دستور واحد الاختصاصات بين سلطة مركزية ودويلات أو ولايات أعضاء تتمتّع كلٌّ منها بدستور وبمؤسسات تشريعية وتنفيذية وقضائية خاصة بها:",
+   "options": [
+    {
+     "id": "a",
+     "text": "الدولة الاتحادية (الفدرالية)"
+    },
+    {
+     "id": "b",
+     "text": "الدولة البسيطة الموحّدة"
+    },
+    {
+     "id": "c",
+     "text": "الدولة اللامركزية إداريًا"
+    },
+    {
+     "id": "d",
+     "text": "الاتحاد الكونفدرالي (التعاهدي)"
+    }
+   ],
+   "correct": [
+    "a"
+   ],
+   "explanation": "الدولة الفدرالية دولة واحدة ذات سيادة على الصعيد الدولي، يقوم فيها دستور اتحادي بتوزيع الاختصاصات بين الدولة الاتحادية والدول الأعضاء التي تملك مؤسساتها الدستورية الخاصة (مثل الولايات المتحدة وألمانيا). أما الاتحاد الكونفدرالي فيقوم على معاهدة بين دول تحتفظ كل منها بسيادتها الكاملة، ولا يقوم على دستور واحد. واللامركزية الإدارية لا تمنح الجماعات المحلية سلطة تشريعية أو دستورية، فتبقى الدولة بسيطة موحّدة.",
+   "difficulty": "MEDIUM",
+   "topic_key": "spec.droit-public.theorie-etat-constitution",
+   "objective_key": "spec.droit-public.theorie-etat-constitution.o1",
+   "families": [
+    "administration-generale",
+    "bct",
+    "collectivites-locales",
+    "douane",
+    "ena",
+    "garde-nationale",
+    "police-gardien-paix",
+    "police-inspecteur",
+    "police-officier",
+    "prisons-reeducation",
+    "protection-civile"
+   ],
+   "origin": "AI_GENERATED",
+   "source_key": null,
+   "year": null,
+   "valid_until": null,
+   "tags": [
+    "theorie-generale",
+    "formes-etat"
+   ]
+  },
+  {
+   "id": "spec-droit-public-0003",
+   "type": "TRUE_FALSE",
+   "language": "ar",
+   "stem": "تؤدّي اللامركزية الإدارية، أي منح جماعات محلية الشخصية القانونية والاستقلال الإداري والمالي، إلى تحويل الدولة الموحّدة إلى دولة فدرالية.",
+   "options": [
+    {
+     "id": "a",
+     "text": "صحيح"
+    },
+    {
+     "id": "b",
+     "text": "خطأ"
+    }
+   ],
+   "correct": [
+    "b"
+   ],
+   "explanation": "خطأ. اللامركزية الإدارية أسلوب في التنظيم الإداري داخل الدولة الموحّدة: تتمتّع الجماعات المحلية بالشخصية القانونية وتدير شؤونها بنفسها، لكنها لا تملك سلطة تشريعية أصلية ولا دستورًا خاصًا وتبقى خاضعة لرقابة الدولة. أما الدولة الفدرالية فتقوم على توزيع دستوري للوظيفة التشريعية نفسها بين الدولة الاتحادية والدول الأعضاء.",
+   "difficulty": "EASY",
+   "topic_key": "spec.droit-public.theorie-etat-constitution",
+   "objective_key": "spec.droit-public.theorie-etat-constitution.o1",
+   "families": [
+    "administration-generale",
+    "bct",
+    "collectivites-locales",
+    "douane",
+    "ena",
+    "garde-nationale",
+    "police-gardien-paix",
+    "police-inspecteur",
+    "police-officier",
+    "prisons-reeducation",
+    "protection-civile"
+   ],
+   "origin": "AI_GENERATED",
+   "source_key": null,
+   "year": null,
+   "valid_until": null,
+   "tags": [
+    "theorie-generale",
+    "decentralisation"
+   ]
+  },
+  {
+   "id": "spec-droit-public-0004",
+   "type": "MCQ_SINGLE",
+   "language": "fr",
+   "stem": "Une constitution est dite « rigide » lorsque :",
+   "options": [
+    {
+     "id": "a",
+     "text": "elle est écrite et rassemblée dans un document unique"
+    },
+    {
+     "id": "b",
+     "text": "elle a été adoptée par voie de référendum"
+    },
+    {
+     "id": "c",
+     "text": "aucune de ses dispositions ne peut jamais être modifiée"
+    },
+    {
+     "id": "d",
+     "text": "sa révision obéit à une procédure plus exigeante que celle de l'adoption ou de la modification d'une loi ordinaire"
+    }
+   ],
+   "correct": [
+    "d"
+   ],
+   "explanation": "La rigidité tient à la procédure de révision : la constitution rigide ne peut être modifiée que selon une procédure renforcée (majorités qualifiées, référendum, organe spécial), distincte de la procédure législative ordinaire. Elle ne signifie pas que la constitution est intangible : seules certaines clauses peuvent être déclarées non révisables. Le caractère écrit ou le mode d'adoption n'est pas le critère : une constitution écrite peut être souple et une constitution adoptée par une assemblée peut être rigide.",
+   "difficulty": "MEDIUM",
+   "topic_key": "spec.droit-public.theorie-etat-constitution",
+   "objective_key": "spec.droit-public.theorie-etat-constitution.o2",
+   "families": [
+    "administration-generale",
+    "bct",
+    "collectivites-locales",
+    "douane",
+    "ena",
+    "garde-nationale",
+    "police-gardien-paix",
+    "police-inspecteur",
+    "police-officier",
+    "prisons-reeducation",
+    "protection-civile"
+   ],
+   "origin": "AI_GENERATED",
+   "source_key": null,
+   "year": null,
+   "valid_until": null,
+   "tags": [
+    "theorie-generale",
+    "revision"
+   ]
+  },
+  {
+   "id": "spec-droit-public-0005",
+   "type": "ORDERING",
+   "language": "ar",
+   "stem": "رتّب القواعد القانونية التالية حسب مبدأ تدرّج القواعد القانونية (هرم كلسن) من الأعلى إلى الأدنى:",
+   "options": [
+    {
+     "id": "a",
+     "text": "القرار الوزاري"
+    },
+    {
+     "id": "b",
+     "text": "الدستور"
+    },
+    {
+     "id": "c",
+     "text": "الأمر الترتيبي"
+    },
+    {
+     "id": "d",
+     "text": "القانون"
+    }
+   ],
+   "correct": {
+    "order": [
+     "b",
+     "d",
+     "c",
+     "a"
+    ]
+   },
+   "explanation": "يحتلّ الدستور قمّة الهرم، ثم يأتي القانون الذي يصادق عليه البرلمان ويجب أن يكون مطابقًا للدستور. تليه الأوامر الترتيبية التي تصدرها السلطة التنفيذية لتطبيق القوانين، ثم القرارات الوزارية التي يجب أن تحترم القوانين والأوامر معًا. ويترتّب على هذا التدرّج أن القاعدة الأدنى لا يجوز أن تخالف القاعدة الأعلى منها، وإلا كانت عرضة للإلغاء أو لعدم التطبيق.",
+   "difficulty": "EASY",
+   "topic_key": "spec.droit-public.theorie-etat-constitution",
+   "objective_key": "spec.droit-public.theorie-etat-constitution.o2",
+   "families": [
+    "administration-generale",
+    "bct",
+    "collectivites-locales",
+    "douane",
+    "ena",
+    "garde-nationale",
+    "police-gardien-paix",
+    "police-inspecteur",
+    "police-officier",
+    "prisons-reeducation",
+    "protection-civile"
+   ],
+   "origin": "AI_GENERATED",
+   "source_key": null,
+   "year": null,
+   "valid_until": null,
+   "tags": [
+    "theorie-generale",
+    "hierarchie-normes"
+   ]
+  },
+  {
+   "id": "spec-droit-public-0006",
+   "type": "TRUE_FALSE",
+   "language": "fr",
+   "stem": "Le pouvoir constituant dérivé (pouvoir de révision) est, comme le pouvoir constituant originaire, juridiquement illimité : il n'est tenu par aucune règle de forme ni de fond.",
+   "options": [
+    {
+     "id": "a",
+     "text": "Vrai"
+    },
+    {
+     "id": "b",
+     "text": "Faux"
+    }
+   ],
+   "correct": [
+    "b"
+   ],
+   "explanation": "Faux. Le pouvoir constituant originaire intervient hors de tout ordre constitutionnel (indépendance, révolution) et n'est juridiquement lié par aucune règle. Le pouvoir constituant dérivé, au contraire, est institué par la Constitution en vigueur : il doit respecter la procédure qu'elle fixe et, le cas échéant, les limites de fond qu'elle pose. Ainsi, la Constitution tunisienne de 2014 interdisait la révision de ses articles 1er et 2 (clauses dites « d'éternité »).",
+   "difficulty": "HARD",
+   "topic_key": "spec.droit-public.theorie-etat-constitution",
+   "objective_key": "spec.droit-public.theorie-etat-constitution.o2",
+   "families": [
+    "administration-generale",
+    "bct",
+    "collectivites-locales",
+    "douane",
+    "ena",
+    "garde-nationale",
+    "police-gardien-paix",
+    "police-inspecteur",
+    "police-officier",
+    "prisons-reeducation",
+    "protection-civile"
+   ],
+   "origin": "AI_GENERATED",
+   "source_key": null,
+   "year": null,
+   "valid_until": null,
+   "tags": [
+    "theorie-generale",
+    "pouvoir-constituant",
+    "constitution-2014"
+   ]
+  },
+  {
+   "id": "spec-droit-public-0007",
+   "type": "MCQ_SINGLE",
+   "language": "fr",
+   "stem": "Le contrôle de constitutionnalité « par voie d'exception », dont l'arrêt Marbury v. Madison (Cour suprême des États-Unis, 1803) est l'acte fondateur, se caractérise par le fait que :",
+   "options": [
+    {
+     "id": "a",
+     "text": "il est exercé avant la promulgation de la loi, sur saisine d'autorités politiques"
+    },
+    {
+     "id": "b",
+     "text": "il aboutit à l'annulation de la loi avec effet à l'égard de tous (erga omnes) à la suite d'un recours direct"
+    },
+    {
+     "id": "c",
+     "text": "il est soulevé par un justiciable à l'occasion d'un procès, et le juge écarte l'application de la loi inconstitutionnelle au litige sans l'annuler"
+    },
+    {
+     "id": "d",
+     "text": "il est confié à un organe politique, généralement une chambre du Parlement"
+    }
+   ],
+   "correct": [
+    "c"
+   ],
+   "explanation": "Dans le contrôle par voie d'exception, l'inconstitutionnalité est invoquée comme moyen de défense dans un litige concret ; le juge refuse d'appliquer la loi au cas d'espèce, sans l'annuler (effet relatif, renforcé aux États-Unis par la règle du précédent). Le contrôle a priori sur saisine d'autorités politiques et l'annulation erga omnes sur recours direct caractérisent au contraire le contrôle par voie d'action, généralement confié à une cour constitutionnelle spécialisée (modèle européen). Un contrôle confié à un organe politique ne relève pas de la logique juridictionnelle de Marbury v. Madison.",
+   "difficulty": "EXPERT",
+   "topic_key": "spec.droit-public.theorie-etat-constitution",
+   "objective_key": "spec.droit-public.theorie-etat-constitution.o2",
+   "families": [
+    "administration-generale",
+    "bct",
+    "collectivites-locales",
+    "douane",
+    "ena",
+    "police-inspecteur",
+    "police-officier"
+   ],
+   "origin": "AI_GENERATED",
+   "source_key": null,
+   "year": null,
+   "valid_until": null,
+   "tags": [
+    "theorie-generale",
+    "controle-constitutionnalite",
+    "droit-compare"
+   ]
+  },
+  {
+   "id": "spec-droit-public-0008",
+   "type": "MCQ_SINGLE",
+   "language": "ar",
+   "stem": "ارتبطت نظرية الفصل بين السلط بالفيلسوف الذي ألّف كتاب «روح القوانين» (1748)، وهو:",
+   "options": [
+    {
+     "id": "a",
+     "text": "جان جاك روسو"
+    },
+    {
+     "id": "b",
+     "text": "مونتسكيو"
+    },
+    {
+     "id": "c",
+     "text": "توماس هوبز"
+    },
+    {
+     "id": "d",
+     "text": "نيكولا مكيافيلي"
+    }
+   ],
+   "correct": [
+    "b"
+   ],
+   "explanation": "صاغ مونتسكيو في كتاب «روح القوانين» (1748) نظرية الفصل بين السلط التشريعية والتنفيذية والقضائية، انطلاقًا من فكرة أن «السلطة تحدّ السلطة» لحماية الحرية. أما روسو فهو صاحب «العقد الاجتماعي» (1762) ونظرية سيادة الشعب، وهوبز صاحب «اللوياثان» الذي دافع عن سلطة مطلقة، ومكيافيلي صاحب «الأمير».",
+   "difficulty": "EASY",
+   "topic_key": "spec.droit-public.regimes-politiques",
+   "objective_key": "spec.droit-public.regimes-politiques.o1",
+   "families": [
+    "administration-generale",
+    "bct",
+    "collectivites-locales",
+    "douane",
+    "ena",
+    "garde-nationale",
+    "police-gardien-paix",
+    "police-inspecteur",
+    "police-officier",
+    "prisons-reeducation",
+    "protection-civile"
+   ],
+   "origin": "AI_GENERATED",
+   "source_key": null,
+   "year": null,
+   "valid_until": null,
+   "tags": [
+    "theorie-generale",
+    "separation-pouvoirs"
+   ]
+  },
+  {
+   "id": "spec-droit-public-0009",
+   "type": "MCQ_SINGLE",
+   "language": "fr",
+   "stem": "Le régime présidentiel de type américain se caractérise notamment par :",
+   "options": [
+    {
+     "id": "a",
+     "text": "une séparation rigide des pouvoirs : le Président ne peut dissoudre le Congrès et le Congrès ne peut le renverser par une motion de censure"
+    },
+    {
+     "id": "b",
+     "text": "le droit du Président de dissoudre la Chambre des représentants"
+    },
+    {
+     "id": "c",
+     "text": "la responsabilité politique du Gouvernement devant le Congrès"
+    },
+    {
+     "id": "d",
+     "text": "un exécutif bicéphale composé d'un chef de l'État et d'un Premier ministre"
+    }
+   ],
+   "correct": [
+    "a"
+   ],
+   "explanation": "Le régime présidentiel repose sur une séparation rigide : le Président, élu, est à la fois chef de l'État et chef de l'exécutif, ses secrétaires ne sont pas responsables devant le Congrès et il ne dispose pas du droit de dissolution. La procédure d'impeachment est une procédure de nature pénale et non une mise en jeu de la responsabilité politique. La responsabilité gouvernementale, le droit de dissolution et l'exécutif bicéphale sont, au contraire, des traits du régime parlementaire.",
+   "difficulty": "MEDIUM",
+   "topic_key": "spec.droit-public.regimes-politiques",
+   "objective_key": "spec.droit-public.regimes-politiques.o1",
+   "families": [
+    "administration-generale",
+    "bct",
+    "collectivites-locales",
+    "douane",
+    "ena",
+    "garde-nationale",
+    "police-gardien-paix",
+    "police-inspecteur",
+    "police-officier",
+    "prisons-reeducation",
+    "protection-civile"
+   ],
+   "origin": "AI_GENERATED",
+   "source_key": null,
+   "year": null,
+   "valid_until": null,
+   "tags": [
+    "theorie-generale",
+    "regimes-politiques",
+    "droit-compare"
+   ]
+  },
+  {
+   "id": "spec-droit-public-0010",
+   "type": "MCQ_MULTI",
+   "language": "ar",
+   "stem": "أيّ من الخصائص التالية تميّز النظام البرلماني؟ (اختر كل الإجابات الصحيحة)",
+   "options": [
+    {
+     "id": "a",
+     "text": "ثنائية السلطة التنفيذية: رئيس دولة غير مسؤول سياسيًا وحكومة يرأسها وزير أول أو رئيس حكومة"
+    },
+    {
+     "id": "b",
+     "text": "المسؤولية السياسية للحكومة أمام البرلمان"
+    },
+    {
+     "id": "c",
+     "text": "حق السلطة التنفيذية في حلّ البرلمان"
+    },
+    {
+     "id": "d",
+     "text": "انتخاب رئيس الحكومة مباشرة من الشعب بالاقتراع العام"
+    }
+   ],
+   "correct": [
+    "a",
+    "b",
+    "c"
+   ],
+   "explanation": "يقوم النظام البرلماني على تعاون السلط وتوازنها: سلطة تنفيذية ثنائية، وحكومة مسؤولة سياسيًا أمام البرلمان الذي يمكنه إسقاطها، مقابل حق السلطة التنفيذية في حلّ البرلمان. أما رئيس الحكومة فينبثق عادة عن الأغلبية البرلمانية ولا يُنتخب مباشرة من الشعب؛ فالانتخاب المباشر لرئيس السلطة التنفيذية سمة من سمات النظام الرئاسي.",
+   "difficulty": "MEDIUM",
+   "topic_key": "spec.droit-public.regimes-politiques",
+   "objective_key": "spec.droit-public.regimes-politiques.o1",
+   "families": [
+    "administration-generale",
+    "bct",
+    "collectivites-locales",
+    "douane",
+    "ena",
+    "garde-nationale",
+    "police-gardien-paix",
+    "police-inspecteur",
+    "police-officier",
+    "prisons-reeducation",
+    "protection-civile"
+   ],
+   "origin": "AI_GENERATED",
+   "source_key": null,
+   "year": null,
+   "valid_until": null,
+   "tags": [
+    "theorie-generale",
+    "regimes-politiques"
+   ]
+  },
+  {
+   "id": "spec-droit-public-0011",
+   "type": "MCQ_SINGLE",
+   "language": "fr",
+   "stem": "Lorsque le peuple est appelé à voter sur un texte, mais qu'en réalité le scrutin vise surtout à approuver ou à rejeter la personne qui le propose, la doctrine parle de :",
+   "options": [
+    {
+     "id": "a",
+     "text": "initiative populaire"
+    },
+    {
+     "id": "b",
+     "text": "référendum abrogatif"
+    },
+    {
+     "id": "c",
+     "text": "veto populaire"
+    },
+    {
+     "id": "d",
+     "text": "plébiscite"
+    }
+   ],
+   "correct": [
+    "d"
+   ],
+   "explanation": "Le plébiscite est un détournement du référendum : derrière la question posée, l'électeur se prononce en réalité sur la confiance qu'il accorde à un homme. Le référendum abrogatif permet d'abroger une loi en vigueur, le veto populaire permet aux électeurs de s'opposer à une loi votée, et l'initiative populaire leur permet de proposer eux-mêmes un texte. Ces trois mécanismes portent sur un texte et non sur une personnalité.",
+   "difficulty": "MEDIUM",
+   "topic_key": "spec.droit-public.regimes-politiques",
+   "objective_key": "spec.droit-public.regimes-politiques.o2",
+   "families": [
+    "administration-generale",
+    "bct",
+    "collectivites-locales",
+    "douane",
+    "ena",
+    "garde-nationale",
+    "police-gardien-paix",
+    "police-inspecteur",
+    "police-officier",
+    "prisons-reeducation",
+    "protection-civile"
+   ],
+   "origin": "AI_GENERATED",
+   "source_key": null,
+   "year": null,
+   "valid_until": null,
+   "tags": [
+    "theorie-generale",
+    "democratie-semi-directe"
+   ]
+  },
+  {
+   "id": "spec-droit-public-0012",
+   "type": "MCQ_SINGLE",
+   "language": "ar",
+   "stem": "تترتّب على نظرية سيادة الشعب، كما صاغها جان جاك روسو في «العقد الاجتماعي»، النتيجةُ التالية:",
+   "options": [
+    {
+     "id": "a",
+     "text": "اعتبار الانتخاب وظيفة لا يمارسها إلا من تتوفر فيهم شروط الكفاءة أو النصاب المالي"
+    },
+    {
+     "id": "b",
+     "text": "اعتبار النائب ممثلًا للأمة كلها لا يتلقى أي تعليمات من ناخبيه"
+    },
+    {
+     "id": "c",
+     "text": "اعتبار الانتخاب حقًّا لكل مواطن، والأخذ بالاقتراع العام وبالوكالة الإلزامية"
+    },
+    {
+     "id": "d",
+     "text": "منع كل أشكال الديمقراطية المباشرة"
+    }
+   ],
+   "correct": [
+    "c"
+   ],
+   "explanation": "حسب روسو، السيادة مجزأة بين المواطنين، فلكل مواطن جزء منها، ومن ثَمّ يكون الانتخاب حقًّا للجميع (الاقتراع العام) ويكون النائب مرتبطًا بإرادة ناخبيه (الوكالة الإلزامية)، مع تفضيل الديمقراطية المباشرة. أما اعتبار الانتخاب وظيفة واعتبار النائب ممثلًا للأمة كلها (الوكالة التمثيلية) فهما من نتائج نظرية سيادة الأمة المرتبطة بسييس.",
+   "difficulty": "MEDIUM",
+   "topic_key": "spec.droit-public.regimes-politiques",
+   "objective_key": "spec.droit-public.regimes-politiques.o2",
+   "families": [
+    "administration-generale",
+    "bct",
+    "collectivites-locales",
+    "douane",
+    "ena",
+    "garde-nationale",
+    "police-gardien-paix",
+    "police-inspecteur",
+    "police-officier",
+    "prisons-reeducation",
+    "protection-civile"
+   ],
+   "origin": "AI_GENERATED",
+   "source_key": null,
+   "year": null,
+   "valid_until": null,
+   "tags": [
+    "theorie-generale",
+    "souverainete"
+   ]
+  },
+  {
+   "id": "spec-droit-public-0013",
+   "type": "MCQ_SINGLE",
+   "language": "ar",
+   "stem": "بالنسبة إلى انتخاب أعضاء مجلس نواب الشعب في انتخابات ديسمبر 2022 - جانفي 2023، اعتمد القانون الانتخابي كما نُقّح سنة 2022:",
+   "options": [
+    {
+     "id": "a",
+     "text": "التمثيل النسبي على القائمات مع الأخذ بأكبر البقايا"
+    },
+    {
+     "id": "b",
+     "text": "الاقتراع على الأفراد في دوائر ذات مقعد واحد، بالأغلبية في دورتين"
+    },
+    {
+     "id": "c",
+     "text": "الاقتراع على القائمات بالأغلبية في دورة واحدة"
+    },
+    {
+     "id": "d",
+     "text": "القرعة بين أعضاء المجالس المحلية"
+    }
+   ],
+   "correct": [
+    "b"
+   ],
+   "explanation": "نُقّح القانون الانتخابي بمرسوم في سبتمبر 2022 فعوّض الاقتراع على القائمات بالاقتراع على الأفراد: يُنتخب نائب واحد في كل دائرة بالأغلبية المطلقة، وإن لم يُحرزها أحد نُظّمت دورة ثانية (أُجريت يوم 29 جانفي 2023 في الدوائر المعنية). أما التمثيل النسبي مع أكبر البقايا فهو النظام الذي طُبّق في انتخابات 2011 و2014 و2019، والقرعة تُستعمل لتكوين المجالس الجهوية انطلاقًا من أعضاء المجالس المحلية.",
+   "difficulty": "MEDIUM",
+   "topic_key": "spec.droit-public.regimes-politiques",
+   "objective_key": "spec.droit-public.regimes-politiques.o2",
+   "families": [
+    "administration-generale",
+    "bct",
+    "collectivites-locales",
+    "douane",
+    "ena",
+    "garde-nationale",
+    "police-gardien-paix",
+    "police-inspecteur",
+    "police-officier",
+    "prisons-reeducation",
+    "protection-civile"
+   ],
+   "origin": "AI_GENERATED",
+   "source_key": null,
+   "year": null,
+   "valid_until": null,
+   "tags": [
+    "tunisie",
+    "elections",
+    "needs_verification"
+   ]
+  },
+  {
+   "id": "spec-droit-public-0014",
+   "type": "NUMERIC",
+   "language": "fr",
+   "stem": "Une circonscription élit 5 députés à la représentation proportionnelle avec quotient électoral (Hare) et répartition des sièges restants au plus fort reste. Sur 10 000 suffrages exprimés, la liste A obtient 4 600 voix, la liste B 2 700, la liste C 1 600 et la liste D 1 100. Combien de sièges obtient la liste A ?",
+   "options": [],
+   "correct": {
+    "value": 2,
+    "tolerance": 0
+   },
+   "explanation": "Le quotient électoral est de 10 000 / 5 = 2 000 voix. Au quotient, A obtient 2 sièges (reste 600), B 1 siège (reste 700), C et D aucun (restes 1 600 et 1 100). Les 2 sièges restants vont aux plus forts restes, C (1 600) puis D (1 100) : A a donc 2 sièges, et non 3. Cet exemple montre que le plus fort reste favorise les petites listes ; c'est le mode de scrutin appliqué en Tunisie à l'élection de l'Assemblée nationale constituante (2011) et aux élections législatives de 2014 et 2019.",
+   "difficulty": "HARD",
+   "topic_key": "spec.droit-public.regimes-politiques",
+   "objective_key": "spec.droit-public.regimes-politiques.o2",
+   "families": [
+    "administration-generale",
+    "bct",
+    "collectivites-locales",
+    "douane",
+    "ena",
+    "garde-nationale",
+    "police-gardien-paix",
+    "police-inspecteur",
+    "police-officier",
+    "prisons-reeducation",
+    "protection-civile"
+   ],
+   "origin": "AI_GENERATED",
+   "source_key": null,
+   "year": null,
+   "valid_until": null,
+   "tags": [
+    "modes-de-scrutin",
+    "calcul"
+   ]
+  },
+  {
+   "id": "spec-droit-public-0015",
+   "type": "MCQ_SINGLE",
+   "language": "fr",
+   "stem": "Le Pacte fondamental (عهد الأمان), proclamé en 1857 sous le règne de M'hamed Bey, garantissait notamment :",
+   "options": [
+    {
+     "id": "a",
+     "text": "la sécurité des personnes et des biens et l'égalité devant la loi et l'impôt de tous les habitants, sans distinction de religion"
+    },
+    {
+     "id": "b",
+     "text": "l'élection d'une assemblée législative au suffrage universel direct"
+    },
+    {
+     "id": "c",
+     "text": "l'abolition de la monarchie beylicale et la proclamation de la République"
+    },
+    {
+     "id": "d",
+     "text": "l'indépendance de la Tunisie vis-à-vis de l'Empire ottoman"
+    }
+   ],
+   "correct": [
+    "a"
+   ],
+   "explanation": "Le Pacte fondamental de 1857 proclame la sécurité de la personne et des biens de tous les sujets, quelle que soit leur religion, ainsi que l'égalité devant la loi et devant l'impôt ; il prépare la Constitution de 1861. Il ne crée aucune assemblée élue au suffrage universel (le Grand conseil institué par la Constitution de 1861 n'était pas élu au suffrage universel). La République ne sera proclamée que le 25 juillet 1957.",
+   "difficulty": "MEDIUM",
+   "topic_key": "spec.droit-public.histoire-constitutionnelle",
+   "objective_key": "spec.droit-public.histoire-constitutionnelle.o1",
+   "families": [
+    "administration-generale",
+    "bct",
+    "collectivites-locales",
+    "douane",
+    "ena",
+    "garde-nationale",
+    "police-gardien-paix",
+    "police-inspecteur",
+    "police-officier",
+    "prisons-reeducation",
+    "protection-civile"
+   ],
+   "origin": "AI_GENERATED",
+   "source_key": null,
+   "year": null,
+   "valid_until": null,
+   "tags": [
+    "tunisie",
+    "histoire-constitutionnelle"
+   ]
+  },
+  {
+   "id": "spec-droit-public-0016",
+   "type": "ORDERING",
+   "language": "ar",
+   "stem": "رتّب الأحداث التالية من الأقدم إلى الأحدث:",
+   "options": [
+    {
+     "id": "a",
+     "text": "إعلان الجمهورية"
+    },
+    {
+     "id": "b",
+     "text": "دخول دستور 1861 حيز التطبيق"
+    },
+    {
+     "id": "c",
+     "text": "ختم دستور 1 جوان 1959"
+    },
+    {
+     "id": "d",
+     "text": "انتخاب المجلس القومي التأسيسي"
+    }
+   ],
+   "correct": {
+    "order": [
+     "b",
+     "d",
+     "a",
+     "c"
+    ]
+   },
+   "explanation": "دخل دستور 1861 حيز التطبيق في عهد محمد الصادق باي، ثم انتُخب المجلس القومي التأسيسي يوم 25 مارس 1956 بعيد الاستقلال. أعلن هذا المجلس الجمهورية يوم 25 جويلية 1957 وألغى النظام الملكي، ثم خُتم الدستور يوم 1 جوان 1959. ومن الأخطاء الشائعة الاعتقاد بأن الجمهورية أُعلنت بعد صدور الدستور، والحال أنها سبقته بنحو سنتين.",
+   "difficulty": "EASY",
+   "topic_key": "spec.droit-public.histoire-constitutionnelle",
+   "objective_key": "spec.droit-public.histoire-constitutionnelle.o1",
+   "families": [
+    "administration-generale",
+    "bct",
+    "collectivites-locales",
+    "douane",
+    "ena",
+    "garde-nationale",
+    "police-gardien-paix",
+    "police-inspecteur",
+    "police-officier",
+    "prisons-reeducation",
+    "protection-civile"
+   ],
+   "origin": "AI_GENERATED",
+   "source_key": null,
+   "year": null,
+   "valid_until": null,
+   "tags": [
+    "tunisie",
+    "histoire-constitutionnelle",
+    "chronologie"
+   ]
+  },
+  {
+   "id": "spec-droit-public-0017",
+   "type": "MCQ_SINGLE",
+   "language": "ar",
+   "stem": "أيّ تنقيح لدستور 1 جوان 1959 أحدث «مجلس المستشارين» كغرفة ثانية وألغى تحديد عدد الدورات الرئاسية؟",
+   "options": [
+    {
+     "id": "a",
+     "text": "تنقيح سنة 1975"
+    },
+    {
+     "id": "b",
+     "text": "تنقيح 25 جويلية 1988"
+    },
+    {
+     "id": "c",
+     "text": "دستور 27 جانفي 2014"
+    },
+    {
+     "id": "d",
+     "text": "التنقيح الذي عُرض على استفتاء 26 ماي 2002"
+    }
+   ],
+   "correct": [
+    "d"
+   ],
+   "explanation": "صادق الناخبون في استفتاء 26 ماي 2002 على تنقيح واسع أحدث مجلس المستشارين (الذي تكوّن سنة 2005)، وألغى تحديد عدد الدورات الرئاسية، ورفع السن القصوى للترشح. أما تنقيح 1975 فقد أقرّ الرئاسة مدى الحياة لفائدة الحبيب بورقيبة، وتنقيح 1988 ألغى الرئاسة مدى الحياة وحدّد عدد الدورات. ودستور 2014 ليس تنقيحًا لدستور 1959 بل دستور جديد وضعه المجلس الوطني التأسيسي.",
+   "difficulty": "HARD",
+   "topic_key": "spec.droit-public.histoire-constitutionnelle",
+   "objective_key": "spec.droit-public.histoire-constitutionnelle.o1",
+   "families": [
+    "administration-generale",
+    "bct",
+    "collectivites-locales",
+    "douane",
+    "ena",
+    "garde-nationale",
+    "police-gardien-paix",
+    "police-inspecteur",
+    "police-officier",
+    "prisons-reeducation",
+    "protection-civile"
+   ],
+   "origin": "AI_GENERATED",
+   "source_key": null,
+   "year": null,
+   "valid_until": null,
+   "tags": [
+    "tunisie",
+    "histoire-constitutionnelle",
+    "constitution-1959"
+   ]
+  },
+  {
+   "id": "spec-droit-public-0018",
+   "type": "MCQ_SINGLE",
+   "language": "fr",
+   "stem": "L'Assemblée nationale constituante, qui a adopté la Constitution du 27 janvier 2014, avait été élue le :",
+   "options": [
+    {
+     "id": "a",
+     "text": "14 janvier 2011"
+    },
+    {
+     "id": "b",
+     "text": "26 octobre 2014"
+    },
+    {
+     "id": "c",
+     "text": "23 octobre 2011"
+    },
+    {
+     "id": "d",
+     "text": "17 décembre 2022"
+    }
+   ],
+   "correct": [
+    "c"
+   ],
+   "explanation": "L'Assemblée nationale constituante a été élue le 23 octobre 2011, lors des premières élections libres après la révolution ; elle a adopté la Constitution le 26 janvier 2014, promulguée le 27 janvier 2014. Le 14 janvier 2011 correspond au départ de l'ancien président, le 26 octobre 2014 aux premières élections législatives organisées sous la nouvelle Constitution, et le 17 décembre 2022 au premier tour des élections législatives tenues sous la Constitution de 2022.",
+   "difficulty": "EASY",
+   "topic_key": "spec.droit-public.histoire-constitutionnelle",
+   "objective_key": "spec.droit-public.histoire-constitutionnelle.o2",
+   "families": [
+    "administration-generale",
+    "bct",
+    "collectivites-locales",
+    "douane",
+    "ena",
+    "garde-nationale",
+    "police-gardien-paix",
+    "police-inspecteur",
+    "police-officier",
+    "prisons-reeducation",
+    "protection-civile"
+   ],
+   "origin": "AI_GENERATED",
+   "source_key": null,
+   "year": null,
+   "valid_until": null,
+   "tags": [
+    "tunisie",
+    "transition-2011",
+    "dates"
+   ]
+  },
+  {
+   "id": "spec-droit-public-0019",
+   "type": "MCQ_SINGLE",
+   "language": "ar",
+   "stem": "النص الذي نظّم السلط العمومية بصفة مؤقتة إثر انتخاب المجلس الوطني التأسيسي، والذي عُرف بـ«الدستور الصغير»، هو:",
+   "options": [
+    {
+     "id": "a",
+     "text": "المرسوم عدد 14 لسنة 2011 المؤرخ في 23 مارس 2011"
+    },
+    {
+     "id": "b",
+     "text": "القانون التأسيسي عدد 6 لسنة 2011 المؤرخ في 16 ديسمبر 2011"
+    },
+    {
+     "id": "c",
+     "text": "الأمر الرئاسي عدد 117 لسنة 2021 المؤرخ في 22 سبتمبر 2021"
+    },
+    {
+     "id": "d",
+     "text": "القانون الأساسي عدد 16 لسنة 2014 المؤرخ في 26 ماي 2014"
+    }
+   ],
+   "correct": [
+    "b"
+   ],
+   "explanation": "بعد انتخابه، صادق المجلس الوطني التأسيسي على القانون التأسيسي عدد 6 لسنة 2011 المؤرخ في 16 ديسمبر 2011 المتعلق بالتنظيم المؤقت للسلط العمومية، الذي سُمّي «الدستور الصغير»، وظلّ ساريًا إلى حين دخول دستور 2014 حيز التطبيق. أما المرسوم عدد 14 لسنة 2011 فقد نظّم السلط العمومية في المرحلة السابقة لانتخاب المجلس التأسيسي، والأمر الرئاسي عدد 117 لسنة 2021 يتعلق بالتدابير الاستثنائية، والقانون الأساسي عدد 16 لسنة 2014 هو القانون الانتخابي.",
+   "difficulty": "HARD",
+   "topic_key": "spec.droit-public.histoire-constitutionnelle",
+   "objective_key": "spec.droit-public.histoire-constitutionnelle.o2",
+   "families": [
+    "administration-generale",
+    "bct",
+    "collectivites-locales",
+    "douane",
+    "ena",
+    "garde-nationale",
+    "police-gardien-paix",
+    "police-inspecteur",
+    "police-officier",
+    "prisons-reeducation",
+    "protection-civile"
+   ],
+   "origin": "AI_GENERATED",
+   "source_key": null,
+   "year": null,
+   "valid_until": null,
+   "tags": [
+    "tunisie",
+    "transition-2011"
+   ]
+  },
+  {
+   "id": "spec-droit-public-0020",
+   "type": "MCQ_MULTI",
+   "language": "fr",
+   "stem": "Parmi les mesures suivantes, lesquelles figurent dans le décret présidentiel n° 2021-117 du 22 septembre 2021 relatif aux mesures exceptionnelles ? (plusieurs réponses)",
+   "options": [
+    {
+     "id": "a",
+     "text": "la suppression de l'Instance provisoire de contrôle de la constitutionnalité des projets de loi"
+    },
+    {
+     "id": "b",
+     "text": "le maintien en vigueur du préambule et des chapitres premier et deuxième de la Constitution de 2014, ainsi que des dispositions constitutionnelles non contraires au décret"
+    },
+    {
+     "id": "c",
+     "text": "l'adoption des textes à caractère législatif sous forme de décrets-lois promulgués par le Président de la République"
+    },
+    {
+     "id": "d",
+     "text": "la convocation d'élections législatives anticipées dans un délai de quatre-vingt-dix jours"
+    }
+   ],
+   "correct": [
+    "a",
+    "b",
+    "c"
+   ],
+   "explanation": "Le décret présidentiel n° 2021-117 organise l'exercice des pouvoirs pendant la période exceptionnelle : les textes législatifs prennent la forme de décrets-lois, l'Instance provisoire de contrôle de la constitutionnalité des projets de loi est supprimée, et seuls le préambule, les chapitres I et II et les dispositions non contraires de la Constitution de 2014 restent applicables. Il ne fixe aucune élection législative anticipée à 90 jours : les élections législatives n'ont eu lieu qu'en décembre 2022 – janvier 2023, après l'adoption de la nouvelle Constitution.",
+   "difficulty": "EXPERT",
+   "topic_key": "spec.droit-public.histoire-constitutionnelle",
+   "objective_key": "spec.droit-public.histoire-constitutionnelle.o2",
+   "families": [
+    "administration-generale",
+    "bct",
+    "collectivites-locales",
+    "douane",
+    "ena",
+    "police-inspecteur",
+    "police-officier"
+   ],
+   "origin": "AI_GENERATED",
+   "source_key": null,
+   "year": null,
+   "valid_until": null,
+   "tags": [
+    "tunisie",
+    "mesures-exceptionnelles-2021",
+    "needs_verification"
+   ]
+  },
+  {
+   "id": "spec-droit-public-0021",
+   "type": "MCQ_SINGLE",
+   "language": "ar",
+   "stem": "حسب دستور 2022، تُعرض وجوبًا على المجلس الوطني للجهات والأقاليم مشاريعُ القوانين المتعلقة بـ:",
+   "options": [
+    {
+     "id": "a",
+     "text": "ميزانية الدولة ومخططات التنمية الجهوية والإقليمية والوطنية"
+    },
+    {
+     "id": "b",
+     "text": "تعيين رئيس الحكومة وأعضائها"
+    },
+    {
+     "id": "c",
+     "text": "تنقيح القانون الانتخابي فقط"
+    },
+    {
+     "id": "d",
+     "text": "المعاهدات العسكرية دون سواها"
+    }
+   ],
+   "correct": [
+    "a"
+   ],
+   "explanation": "أحدث دستور 2022 غرفة ثانية تمثّل الجهات والأقاليم، وجعل عرض مشاريع القوانين المتعلقة بميزانية الدولة وبمخططات التنمية الجهوية والإقليمية والوطنية عليها وجوبيًا، بما يربط التشريع المالي والتنموي بالتمثيل الترابي. أما تعيين رئيس الحكومة وأعضائها فهو من صلاحيات رئيس الجمهورية ولا يتوقف على تصويت أي من المجلسين.",
+   "difficulty": "MEDIUM",
+   "topic_key": "spec.droit-public.constitution-2022",
+   "objective_key": "spec.droit-public.constitution-2022.o1",
+   "families": [
+    "administration-generale",
+    "bct",
+    "collectivites-locales",
+    "douane",
+    "ena",
+    "garde-nationale",
+    "police-gardien-paix",
+    "police-inspecteur",
+    "police-officier",
+    "prisons-reeducation",
+    "protection-civile"
+   ],
+   "origin": "AI_GENERATED",
+   "source_key": null,
+   "year": null,
+   "valid_until": null,
+   "tags": [
+    "constitution-2022",
+    "cnrd",
+    "needs_verification"
+   ]
+  },
+  {
+   "id": "spec-droit-public-0022",
+   "type": "TRUE_FALSE",
+   "language": "fr",
+   "stem": "Selon la Constitution de 2022, les membres de l'Assemblée des représentants du peuple sont élus pour un mandat de cinq ans.",
+   "options": [
+    {
+     "id": "a",
+     "text": "Vrai"
+    },
+    {
+     "id": "b",
+     "text": "Faux"
+    }
+   ],
+   "correct": [
+    "a"
+   ],
+   "explanation": "Vrai. La Constitution de 2022 fixe à cinq ans la durée du mandat de l'ARP, comme le faisait la Constitution de 2014. Le mode de scrutin et le nombre de sièges ne sont pas fixés par la Constitution, mais par la loi électorale.",
+   "difficulty": "EASY",
+   "topic_key": "spec.droit-public.constitution-2022",
+   "objective_key": "spec.droit-public.constitution-2022.o1",
+   "families": [
+    "administration-generale",
+    "bct",
+    "collectivites-locales",
+    "douane",
+    "ena",
+    "garde-nationale",
+    "police-gardien-paix",
+    "police-inspecteur",
+    "police-officier",
+    "prisons-reeducation",
+    "protection-civile"
+   ],
+   "origin": "AI_GENERATED",
+   "source_key": null,
+   "year": null,
+   "valid_until": null,
+   "tags": [
+    "constitution-2022",
+    "arp"
+   ]
+  },
+  {
+   "id": "spec-droit-public-0023",
+   "type": "MCQ_SINGLE",
+   "language": "ar",
+   "stem": "ينصّ دستور 2022 على أن تونس جزء من الأمة الإسلامية، وعلى أن الدولة وحدها تعمل، في ظل نظام ديمقراطي، على:",
+   "options": [
+    {
+     "id": "a",
+     "text": "توحيد المذاهب الفقهية في جميع المؤسسات التربوية"
+    },
+    {
+     "id": "b",
+     "text": "جعل الشريعة الإسلامية المصدر الوحيد للتشريع"
+    },
+    {
+     "id": "c",
+     "text": "إحداث مجلس إسلامي أعلى يراقب دستورية القوانين"
+    },
+    {
+     "id": "d",
+     "text": "تحقيق مقاصد الإسلام الحنيف في الحفاظ على النفس والعرض والمال والدين والحرية"
+    }
+   ],
+   "correct": [
+    "d"
+   ],
+   "explanation": "يُعدّ هذا الحكم (الفصل 5) من أبرز مستجدات دستور 2022: فهو يُسند إلى الدولة وحدها، في إطار نظام ديمقراطي، العمل على تحقيق مقاصد الإسلام في حفظ النفس والعرض والمال والدين والحرية. ولا ينصّ الدستور على اعتماد الشريعة مصدرًا وحيدًا للتشريع، ولا يُسند مراقبة دستورية القوانين إلا إلى المحكمة الدستورية.",
+   "difficulty": "MEDIUM",
+   "topic_key": "spec.droit-public.constitution-2022",
+   "objective_key": "spec.droit-public.constitution-2022.o1",
+   "families": [
+    "administration-generale",
+    "bct",
+    "collectivites-locales",
+    "douane",
+    "ena",
+    "garde-nationale",
+    "police-gardien-paix",
+    "police-inspecteur",
+    "police-officier",
+    "prisons-reeducation",
+    "protection-civile"
+   ],
+   "origin": "AI_GENERATED",
+   "source_key": null,
+   "year": null,
+   "valid_until": null,
+   "tags": [
+    "constitution-2022",
+    "principes-generaux",
+    "needs_verification"
+   ]
+  },
+  {
+   "id": "spec-droit-public-0024",
+   "type": "NUMERIC",
+   "language": "fr",
+   "stem": "Combien de sièges compte l'Assemblée des représentants du peuple élue lors des élections législatives de décembre 2022 – janvier 2023 (circonscriptions de l'étranger comprises) ?",
+   "options": [],
+   "correct": {
+    "value": 161,
+    "tolerance": 0
+   },
+   "explanation": "L'ARP issue des élections de 2022-2023 compte 161 sièges : 151 pour les circonscriptions du territoire national et 10 pour les Tunisiens de l'étranger. Ce nombre résulte du découpage fixé par la loi électorale révisée en 2022 et non de la Constitution ; l'ARP élue en 2019 comptait, elle, 217 sièges. Ce chiffre peut changer si la loi électorale est de nouveau modifiée.",
+   "difficulty": "HARD",
+   "topic_key": "spec.droit-public.constitution-2022",
+   "objective_key": "spec.droit-public.constitution-2022.o1",
+   "families": [
+    "administration-generale",
+    "bct",
+    "collectivites-locales",
+    "douane",
+    "ena",
+    "garde-nationale",
+    "police-gardien-paix",
+    "police-inspecteur",
+    "police-officier",
+    "prisons-reeducation",
+    "protection-civile"
+   ],
+   "origin": "AI_GENERATED",
+   "source_key": null,
+   "year": null,
+   "valid_until": "2027-10-07",
+   "tags": [
+    "constitution-2022",
+    "arp",
+    "chiffres",
+    "needs_verification"
+   ]
+  },
+  {
+   "id": "spec-droit-public-0025",
+   "type": "MCQ_SINGLE",
+   "language": "fr",
+   "stem": "Sous la Constitution de 2014, la politique générale de l'État était déterminée principalement par le Gouvernement. Selon la Constitution de 2022, elle est définie, ainsi que ses choix fondamentaux, par :",
+   "options": [
+    {
+     "id": "a",
+     "text": "l'Assemblée des représentants du peuple"
+    },
+    {
+     "id": "b",
+     "text": "le Chef du Gouvernement"
+    },
+    {
+     "id": "c",
+     "text": "le Président de la République"
+    },
+    {
+     "id": "d",
+     "text": "le Conseil national des régions et des districts"
+    }
+   ],
+   "correct": [
+    "c"
+   ],
+   "explanation": "La Constitution de 2022 confie au Président de la République la définition de la politique générale de l'État et de ses choix fondamentaux ; le Gouvernement veille à la mettre en œuvre et est responsable de sa gestion devant le Président. Le Chef du Gouvernement, nommé par le Président, dirige l'action gouvernementale mais ne fixe plus la politique générale comme sous la Constitution de 2014. Les chambres législatives votent les lois et peuvent censurer le Gouvernement, mais elles ne définissent pas la politique générale.",
+   "difficulty": "MEDIUM",
+   "topic_key": "spec.droit-public.constitution-2022",
+   "objective_key": "spec.droit-public.constitution-2022.o2",
+   "families": [
+    "administration-generale",
+    "bct",
+    "collectivites-locales",
+    "douane",
+    "ena",
+    "garde-nationale",
+    "police-gardien-paix",
+    "police-inspecteur",
+    "police-officier",
+    "prisons-reeducation",
+    "protection-civile"
+   ],
+   "origin": "AI_GENERATED",
+   "source_key": null,
+   "year": null,
+   "valid_until": null,
+   "tags": [
+    "constitution-2022",
+    "executif",
+    "comparaison-2014"
+   ]
+  },
+  {
+   "id": "spec-droit-public-0026",
+   "type": "MCQ_SINGLE",
+   "language": "ar",
+   "stem": "تميّزت لائحة اللوم في دستور 2014 عن نظيرتها في دستور 2022 بكونها «لائحة لوم بنّاءة». ويعني ذلك أنه كان يُشترط لسحب الثقة من الحكومة:",
+   "options": [
+    {
+     "id": "a",
+     "text": "موافقة ثلثي أعضاء مجلس نواب الشعب والمجلس الوطني للجهات والأقاليم مجتمعين"
+    },
+    {
+     "id": "b",
+     "text": "موافقة الأغلبية المطلقة لأعضاء مجلس نواب الشعب وتقديم مرشح بديل لرئيس الحكومة يُصادَق على ترشيحه في نفس التصويت"
+    },
+    {
+     "id": "c",
+     "text": "عرض لائحة اللوم على الاستفتاء الشعبي"
+    },
+    {
+     "id": "d",
+     "text": "صدور رأي مطابق من المحكمة الدستورية"
+    }
+   ],
+   "correct": [
+    "b"
+   ],
+   "explanation": "في دستور 2014 كان سحب الثقة من الحكومة يقتضي موافقة الأغلبية المطلقة لأعضاء مجلس نواب الشعب وتقديم مرشح بديل لرئيس الحكومة يُصادَق عليه في نفس التصويت، لتفادي الفراغ الحكومي، ومن هنا وصفها بـ«البنّاءة». أما اشتراط أغلبية الثلثين للمجلسين مجتمعين فهو حكم دستور 2022 الذي أحدث غرفتين، ولا ينطبق على دستور 2014 الذي لم يعرف إلا غرفة واحدة.",
+   "difficulty": "EXPERT",
+   "topic_key": "spec.droit-public.constitution-2022",
+   "objective_key": "spec.droit-public.constitution-2022.o2",
+   "families": [
+    "administration-generale",
+    "bct",
+    "collectivites-locales",
+    "douane",
+    "ena",
+    "police-inspecteur",
+    "police-officier"
+   ],
+   "origin": "AI_GENERATED",
+   "source_key": null,
+   "year": null,
+   "valid_until": null,
+   "tags": [
+    "constitution-2022",
+    "constitution-2014",
+    "motion-de-censure",
+    "comparaison-2014"
+   ]
+  },
+  {
+   "id": "spec-droit-public-0027",
+   "type": "MCQ_MULTI",
+   "language": "fr",
+   "stem": "Parmi les conditions suivantes, lesquelles sont exigées par la Constitution de 2022 pour se porter candidat à la présidence de la République ? (plusieurs réponses)",
+   "options": [
+    {
+     "id": "a",
+     "text": "être de confession musulmane"
+    },
+    {
+     "id": "b",
+     "text": "ne pas être titulaire d'une autre nationalité"
+    },
+    {
+     "id": "c",
+     "text": "être âgé d'au moins quarante ans le jour du dépôt de la candidature"
+    },
+    {
+     "id": "d",
+     "text": "être titulaire d'un diplôme universitaire en droit"
+    },
+    {
+     "id": "e",
+     "text": "avoir exercé un mandat de député"
+    }
+   ],
+   "correct": [
+    "a",
+    "b",
+    "c"
+   ],
+   "explanation": "La Constitution de 2022 réserve la candidature au Tunisien ou à la Tunisienne qui n'a pas d'autre nationalité, né de père et de mère tunisiens et de grands-pères paternel et maternel tunisiens, de confession musulmane, âgé d'au moins quarante ans et jouissant de ses droits civils et politiques. Elle n'impose aucune condition de diplôme ni d'expérience parlementaire. Piège fréquent : la Constitution de 2014 fixait l'âge minimal à 35 ans.",
+   "difficulty": "MEDIUM",
+   "topic_key": "spec.droit-public.constitution-2022",
+   "objective_key": "spec.droit-public.constitution-2022.o2",
+   "families": [
+    "administration-generale",
+    "bct",
+    "collectivites-locales",
+    "douane",
+    "ena",
+    "garde-nationale",
+    "police-gardien-paix",
+    "police-inspecteur",
+    "police-officier",
+    "prisons-reeducation",
+    "protection-civile"
+   ],
+   "origin": "AI_GENERATED",
+   "source_key": null,
+   "year": null,
+   "valid_until": null,
+   "tags": [
+    "constitution-2022",
+    "president",
+    "needs_verification"
+   ]
+  },
+  {
+   "id": "spec-droit-public-0028",
+   "type": "MCQ_SINGLE",
+   "language": "ar",
+   "stem": "تُسمّى الضمانة التي تقضي بأنه لا يجوز نقل القاضي دون رضاه ولا عزله أو إيقافه عن العمل إلا في الحالات وطبق الضمانات التي يضبطها القانون:",
+   "options": [
+    {
+     "id": "a",
+     "text": "عدم قابلية القاضي للنقل والعزل"
+    },
+    {
+     "id": "b",
+     "text": "الحصانة البرلمانية"
+    },
+    {
+     "id": "c",
+     "text": "واجب التحفظ"
+    },
+    {
+     "id": "d",
+     "text": "مبدأ التقاضي على درجتين"
+    }
+   ],
+   "correct": [
+    "a"
+   ],
+   "explanation": "عدم قابلية القاضي للنقل والعزل (l'inamovibilité) من أهم ضمانات استقلال القضاء، لأنها تحمي القاضي من الضغوط التي قد تُمارس عليه عبر النقلة أو العزل. أما الحصانة البرلمانية فتخصّ النواب، وواجب التحفظ التزام محمول على القاضي لا ضمانة له، والتقاضي على درجتين مبدأ إجرائي يتعلق بحق الطعن بالاستئناف.",
+   "difficulty": "EASY",
+   "topic_key": "spec.droit-public.juridictions-instances",
+   "objective_key": "spec.droit-public.juridictions-instances.o1",
+   "families": [
+    "administration-generale",
+    "bct",
+    "collectivites-locales",
+    "douane",
+    "ena",
+    "garde-nationale",
+    "police-gardien-paix",
+    "police-inspecteur",
+    "police-officier",
+    "prisons-reeducation",
+    "protection-civile"
+   ],
+   "origin": "AI_GENERATED",
+   "source_key": null,
+   "year": null,
+   "valid_until": null,
+   "tags": [
+    "independance-justice"
+   ]
+  },
+  {
+   "id": "spec-droit-public-0029",
+   "type": "MCQ_SINGLE",
+   "language": "fr",
+   "stem": "Quel organe a été chargé, à titre transitoire, du contrôle de la constitutionnalité des projets de loi après l'adoption de la Constitution de 2014, en attendant la mise en place de la Cour constitutionnelle ?",
+   "options": [
+    {
+     "id": "a",
+     "text": "le Conseil constitutionnel"
+    },
+    {
+     "id": "b",
+     "text": "l'Instance supérieure indépendante pour les élections"
+    },
+    {
+     "id": "c",
+     "text": "le Tribunal administratif"
+    },
+    {
+     "id": "d",
+     "text": "l'Instance provisoire de contrôle de la constitutionnalité des projets de loi"
+    }
+   ],
+   "correct": [
+    "d"
+   ],
+   "explanation": "L'Instance provisoire de contrôle de la constitutionnalité des projets de loi a été créée par la loi organique n° 2014-14 du 18 avril 2014, la Cour constitutionnelle prévue en 2014 n'ayant jamais été mise en place ; elle a été supprimée par le décret présidentiel n° 2021-117. Le Conseil constitutionnel appartenait au régime de la Constitution de 1959 et a été dissous en 2011. Le Tribunal administratif juge le contentieux administratif et l'ISIE gère les élections ; aucun des deux n'était juge de la constitutionnalité des projets de loi.",
+   "difficulty": "MEDIUM",
+   "topic_key": "spec.droit-public.juridictions-instances",
+   "objective_key": "spec.droit-public.juridictions-instances.o1",
+   "families": [
+    "administration-generale",
+    "bct",
+    "collectivites-locales",
+    "douane",
+    "ena",
+    "garde-nationale",
+    "police-gardien-paix",
+    "police-inspecteur",
+    "police-officier",
+    "prisons-reeducation",
+    "protection-civile"
+   ],
+   "origin": "AI_GENERATED",
+   "source_key": null,
+   "year": null,
+   "valid_until": null,
+   "tags": [
+    "tunisie",
+    "controle-constitutionnalite",
+    "constitution-2014"
+   ]
+  },
+  {
+   "id": "spec-droit-public-0030",
+   "type": "NUMERIC",
+   "language": "ar",
+   "stem": "حسب دستور 27 جانفي 2014، كم كان عدد أعضاء المحكمة الدستورية (التي لم يقع إرساؤها)؟",
+   "options": [],
+   "correct": {
+    "value": 12,
+    "tolerance": 0
+   },
+   "explanation": "نصّ دستور 2014 على محكمة دستورية تتركّب من اثني عشر عضوًا، يعيّن كلٌّ من رئيس الجمهورية ومجلس نواب الشعب والمجلس الأعلى للقضاء أربعةً منهم، لفترة واحدة مدتها تسع سنوات. أما دستور 2022 فقد اعتمد تركيبة من تسعة قضاة يُعيَّنون بأمر بالنظر إلى أقدميتهم في محكمة التعقيب والمحكمة الإدارية ومحكمة المحاسبات، فلا يجب الخلط بين الرقمين.",
+   "difficulty": "HARD",
+   "topic_key": "spec.droit-public.juridictions-instances",
+   "objective_key": "spec.droit-public.juridictions-instances.o1",
+   "families": [
+    "administration-generale",
+    "bct",
+    "collectivites-locales",
+    "douane",
+    "ena",
+    "garde-nationale",
+    "police-gardien-paix",
+    "police-inspecteur",
+    "police-officier",
+    "prisons-reeducation",
+    "protection-civile"
+   ],
+   "origin": "AI_GENERATED",
+   "source_key": null,
+   "year": null,
+   "valid_until": null,
+   "tags": [
+    "constitution-2014",
+    "cour-constitutionnelle",
+    "comparaison-2014"
+   ]
+  },
+  {
+   "id": "spec-droit-public-0031",
+   "type": "MCQ_SINGLE",
+   "language": "ar",
+   "stem": "أُحدثت الهيئة العليا المستقلة للانتخابات بصيغتها الدائمة بمقتضى:",
+   "options": [
+    {
+     "id": "a",
+     "text": "المرسوم عدد 27 لسنة 2011 المؤرخ في 18 أفريل 2011"
+    },
+    {
+     "id": "b",
+     "text": "القانون الأساسي عدد 16 لسنة 2014 المؤرخ في 26 ماي 2014"
+    },
+    {
+     "id": "c",
+     "text": "القانون الأساسي عدد 23 لسنة 2012 المؤرخ في 20 ديسمبر 2012"
+    },
+    {
+     "id": "d",
+     "text": "القانون الأساسي عدد 22 لسنة 2016 المؤرخ في 24 مارس 2016"
+    }
+   ],
+   "correct": [
+    "c"
+   ],
+   "explanation": "صدر القانون الأساسي عدد 23 لسنة 2012 المؤرخ في 20 ديسمبر 2012 لإحداث الهيئة العليا المستقلة للانتخابات بصفة دائمة، وقد عُدّلت تركيبتها وطريقة تعيين أعضائها لاحقًا بمرسوم سنة 2022. أما مرسوم أفريل 2011 فقد أحدث الهيئة التي أشرفت على انتخابات المجلس الوطني التأسيسي فقط، والقانون الأساسي عدد 16 لسنة 2014 هو القانون الانتخابي، والقانون الأساسي عدد 22 لسنة 2016 يتعلق بالحق في النفاذ إلى المعلومة.",
+   "difficulty": "HARD",
+   "topic_key": "spec.droit-public.juridictions-instances",
+   "objective_key": "spec.droit-public.juridictions-instances.o2",
+   "families": [
+    "administration-generale",
+    "bct",
+    "collectivites-locales",
+    "douane",
+    "ena",
+    "garde-nationale",
+    "police-gardien-paix",
+    "police-inspecteur",
+    "police-officier",
+    "prisons-reeducation",
+    "protection-civile"
+   ],
+   "origin": "AI_GENERATED",
+   "source_key": null,
+   "year": null,
+   "valid_until": null,
+   "tags": [
+    "tunisie",
+    "isie",
+    "needs_verification"
+   ]
+  },
+  {
+   "id": "spec-droit-public-0032",
+   "type": "MCQ_SINGLE",
+   "language": "fr",
+   "stem": "Dans l'organisation du pouvoir local issue de la Constitution de 2022, le conseil local (المجلس المحلي), élu au suffrage direct lors des élections de décembre 2023 – février 2024, est institué au niveau :",
+   "options": [
+    {
+     "id": "a",
+     "text": "de chaque gouvernorat (ولاية)"
+    },
+    {
+     "id": "b",
+     "text": "de chaque délégation (معتمدية)"
+    },
+    {
+     "id": "c",
+     "text": "de chaque district (إقليم)"
+    },
+    {
+     "id": "d",
+     "text": "de chaque commune (بلدية)"
+    }
+   ],
+   "correct": [
+    "b"
+   ],
+   "explanation": "Un conseil local est institué dans chaque délégation ; ses membres sont élus au scrutin uninominal, chaque imada formant une circonscription. Les conseils régionaux (au niveau du gouvernorat) et les conseils de district ne sont pas élus directement : ils sont constitués à partir des membres des conseils de niveau inférieur. La commune relève d'un autre échelon de la décentralisation, distinct du conseil local.",
+   "difficulty": "EASY",
+   "topic_key": "spec.droit-public.juridictions-instances",
+   "objective_key": "spec.droit-public.juridictions-instances.o2",
+   "families": [
+    "administration-generale",
+    "bct",
+    "collectivites-locales",
+    "douane",
+    "ena",
+    "garde-nationale",
+    "police-gardien-paix",
+    "police-inspecteur",
+    "police-officier",
+    "prisons-reeducation",
+    "protection-civile"
+   ],
+   "origin": "AI_GENERATED",
+   "source_key": null,
+   "year": null,
+   "valid_until": null,
+   "tags": [
+    "constitution-2022",
+    "pouvoir-local",
+    "needs_verification"
+   ]
+  },
+  {
+   "id": "spec-droit-public-0033",
+   "type": "ORDERING",
+   "language": "ar",
+   "stem": "رتّب المجالس التالية المنبثقة عن التنظيم الذي أرساه دستور 2022 من أضيقها نطاقًا ترابيًا إلى أوسعها:",
+   "options": [
+    {
+     "id": "a",
+     "text": "المجلس الجهوي"
+    },
+    {
+     "id": "b",
+     "text": "المجلس الوطني للجهات والأقاليم"
+    },
+    {
+     "id": "c",
+     "text": "المجلس المحلي"
+    },
+    {
+     "id": "d",
+     "text": "مجلس الإقليم"
+    }
+   ],
+   "correct": {
+    "order": [
+     "c",
+     "a",
+     "d",
+     "b"
+    ]
+   },
+   "explanation": "يقوم البناء من القاعدة: المجلس المحلي على مستوى المعتمدية، ثم المجلس الجهوي على مستوى الولاية، ثم مجلس الإقليم الذي يجمع عدة ولايات، وأخيرًا المجلس الوطني للجهات والأقاليم على المستوى الوطني. والخطأ الشائع هو وضع الإقليم تحت الولاية، والحال أن الإقليم أوسع منها لأنه يضمّ عدة ولايات.",
+   "difficulty": "EASY",
+   "topic_key": "spec.droit-public.juridictions-instances",
+   "objective_key": "spec.droit-public.juridictions-instances.o2",
+   "families": [
+    "administration-generale",
+    "bct",
+    "collectivites-locales",
+    "douane",
+    "ena",
+    "garde-nationale",
+    "police-gardien-paix",
+    "police-inspecteur",
+    "police-officier",
+    "prisons-reeducation",
+    "protection-civile"
+   ],
+   "origin": "AI_GENERATED",
+   "source_key": null,
+   "year": null,
+   "valid_until": null,
+   "tags": [
+    "constitution-2022",
+    "pouvoir-local",
+    "cnrd"
+   ]
+  },
+  {
+   "id": "spec-droit-public-0034",
+   "type": "MCQ_SINGLE",
+   "language": "fr",
+   "stem": "Le régime juridique d'exercice d'une liberté dans lequel chacun agit librement, sous réserve de répondre a posteriori devant le juge des abus qu'il commet, est appelé :",
+   "options": [
+    {
+     "id": "a",
+     "text": "le régime répressif"
+    },
+    {
+     "id": "b",
+     "text": "le régime préventif d'autorisation préalable"
+    },
+    {
+     "id": "c",
+     "text": "le régime de la déclaration préalable"
+    },
+    {
+     "id": "d",
+     "text": "le régime d'exception"
+    }
+   ],
+   "correct": [
+    "a"
+   ],
+   "explanation": "Le régime répressif est le plus favorable à la liberté : aucune formalité préalable n'est exigée, seuls les abus définis par la loi sont sanctionnés après coup par le juge. Le régime préventif soumet au contraire l'exercice de la liberté à une autorisation administrative préalable, ce qui permet d'empêcher l'activité avant tout abus. La déclaration préalable est un régime intermédiaire : l'administration est simplement informée, sans pouvoir d'autoriser.",
+   "difficulty": "EASY",
+   "topic_key": "spec.droit-public.libertes-publiques",
+   "objective_key": "spec.droit-public.libertes-publiques.o1",
+   "families": [
+    "administration-generale",
+    "bct",
+    "collectivites-locales",
+    "douane",
+    "ena",
+    "garde-nationale",
+    "police-gardien-paix",
+    "police-inspecteur",
+    "police-officier",
+    "prisons-reeducation",
+    "protection-civile"
+   ],
+   "origin": "AI_GENERATED",
+   "source_key": null,
+   "year": null,
+   "valid_until": null,
+   "tags": [
+    "theorie-generale",
+    "regimes-libertes"
+   ]
+  },
+  {
+   "id": "spec-droit-public-0035",
+   "type": "MCQ_SINGLE",
+   "language": "ar",
+   "stem": "النص الذي ينظّم حالة الطوارئ في تونس، والذي طالما انتُقد لكونه نصًّا ترتيبيًا يقيّد حريات يُفترض أن يُنظّم ضوابطها القانون، هو:",
+   "options": [
+    {
+     "id": "a",
+     "text": "القانون الأساسي عدد 22 لسنة 2016 المؤرخ في 24 مارس 2016"
+    },
+    {
+     "id": "b",
+     "text": "القانون عدد 4 لسنة 1969 المؤرخ في 24 جانفي 1969"
+    },
+    {
+     "id": "c",
+     "text": "المرسوم عدد 88 لسنة 2011 المؤرخ في 24 سبتمبر 2011"
+    },
+    {
+     "id": "d",
+     "text": "الأمر عدد 50 لسنة 1978 المؤرخ في 26 جانفي 1978"
+    }
+   ],
+   "correct": [
+    "d"
+   ],
+   "explanation": "تُنظَّم حالة الطوارئ بالأمر عدد 50 لسنة 1978 المؤرخ في 26 جانفي 1978، الذي يخوّل لوزير الداخلية والولاة صلاحيات واسعة تقيّد حرية التنقل والاجتماع، وهو ما يطرح إشكالًا لأن الدستور يشترط أن تُوضع القيود على الحقوق والحريات بقانون. أما القانون عدد 4 لسنة 1969 فيتعلق بالاجتماعات العامة والمواكب والاستعراضات والمظاهرات والتجمهر، والمرسوم عدد 88 لسنة 2011 بالجمعيات، والقانون الأساسي عدد 22 لسنة 2016 بالحق في النفاذ إلى المعلومة.",
+   "difficulty": "HARD",
+   "topic_key": "spec.droit-public.libertes-publiques",
+   "objective_key": "spec.droit-public.libertes-publiques.o1",
+   "families": [
+    "administration-generale",
+    "bct",
+    "collectivites-locales",
+    "douane",
+    "ena",
+    "garde-nationale",
+    "police-gardien-paix",
+    "police-inspecteur",
+    "police-officier",
+    "prisons-reeducation",
+    "protection-civile"
+   ],
+   "origin": "AI_GENERATED",
+   "source_key": null,
+   "year": null,
+   "valid_until": null,
+   "tags": [
+    "tunisie",
+    "etat-d-urgence",
+    "regimes-exception"
+   ]
+  },
+  {
+   "id": "spec-droit-public-0036",
+   "type": "MCQ_MULTI",
+   "language": "fr",
+   "stem": "La clause générale de limitation des droits et libertés de la Constitution de 2014 (art. 49), dont l'économie est reprise par la Constitution de 2022, subordonne les restrictions aux droits et libertés à certaines conditions. Lesquelles ? (plusieurs réponses)",
+   "options": [
+    {
+     "id": "a",
+     "text": "elles doivent être fixées par la loi"
+    },
+    {
+     "id": "b",
+     "text": "elles ne doivent pas porter atteinte à la substance (l'essence) des droits et libertés"
+    },
+    {
+     "id": "c",
+     "text": "elles doivent être proportionnées à leurs justifications"
+    },
+    {
+     "id": "d",
+     "text": "elles doivent être approuvées au préalable par référendum"
+    },
+    {
+     "id": "e",
+     "text": "elles peuvent être décidées librement par arrêté ministériel"
+    }
+   ],
+   "correct": [
+    "a",
+    "b",
+    "c"
+   ],
+   "explanation": "La clause de limitation exige une base législative, une nécessité liée à une société démocratique et à des objectifs définis (notamment les droits d'autrui, la sécurité publique, la défense nationale et la santé publique), le respect de l'essence du droit et la proportionnalité entre la restriction et ses motifs. Elle n'impose aucun référendum, et un simple arrêté ministériel ne peut pas, à lui seul, fonder une restriction : c'est précisément l'exigence d'une loi qui protège la liberté. Le juge est chargé de protéger les droits et libertés contre toute violation.",
+   "difficulty": "EXPERT",
+   "topic_key": "spec.droit-public.libertes-publiques",
+   "objective_key": "spec.droit-public.libertes-publiques.o1",
+   "families": [
+    "administration-generale",
+    "bct",
+    "collectivites-locales",
+    "douane",
+    "ena",
+    "police-inspecteur",
+    "police-officier"
+   ],
+   "origin": "AI_GENERATED",
+   "source_key": null,
+   "year": null,
+   "valid_until": null,
+   "tags": [
+    "constitution-2014",
+    "constitution-2022",
+    "limitation-droits",
+    "needs_verification"
+   ]
+  },
+  {
+   "id": "spec-droit-public-0037",
+   "type": "MCQ_SINGLE",
+   "language": "ar",
+   "stem": "حسب المرسوم عدد 88 لسنة 2011 المؤرخ في 24 سبتمبر 2011 المتعلق بتنظيم الجمعيات، يخضع تأسيس الجمعيات إلى:",
+   "options": [
+    {
+     "id": "a",
+     "text": "نظام الترخيص المسبق من وزارة الداخلية"
+    },
+    {
+     "id": "b",
+     "text": "موافقة الوالي المختص ترابيًا"
+    },
+    {
+     "id": "c",
+     "text": "نظام التصريح، بتوجيه مكتوب مضمون الوصول مع الإعلام بالبلوغ إلى الكاتب العام للحكومة"
+    },
+    {
+     "id": "d",
+     "text": "حكم صادر عن المحكمة الابتدائية بالمصادقة على النظام الأساسي"
+    }
+   ],
+   "correct": [
+    "c"
+   ],
+   "explanation": "كرّس المرسوم عدد 88 لسنة 2011 نظام التصريح: يوجّه المؤسسون إلى الكاتب العام للحكومة مكتوبًا مضمون الوصول مع الإعلام بالبلوغ مرفقًا بالوثائق المطلوبة، ولا تملك الإدارة سلطة الترخيص. وهذا عكس نظام الترخيص المسبق الذي يمكّن الإدارة من منع تأسيس الجمعية قبل أي نشاط، ولم يشترط المرسوم موافقة الوالي ولا حكمًا قضائيًا لتأسيس الجمعية.",
+   "difficulty": "MEDIUM",
+   "topic_key": "spec.droit-public.libertes-publiques",
+   "objective_key": "spec.droit-public.libertes-publiques.o2",
+   "families": [
+    "administration-generale",
+    "bct",
+    "collectivites-locales",
+    "douane",
+    "ena",
+    "garde-nationale",
+    "police-gardien-paix",
+    "police-inspecteur",
+    "police-officier",
+    "prisons-reeducation",
+    "protection-civile"
+   ],
+   "origin": "AI_GENERATED",
+   "source_key": null,
+   "year": null,
+   "valid_until": null,
+   "tags": [
+    "tunisie",
+    "associations",
+    "needs_verification"
+   ]
+  },
+  {
+   "id": "spec-droit-public-0038",
+   "type": "MATCHING",
+   "language": "fr",
+   "stem": "Associez chaque décret-loi de 2011 à son objet.",
+   "options": [
+    {
+     "id": "l1",
+     "text": "Décret-loi n° 2011-87 du 24 septembre 2011",
+     "side": "left"
+    },
+    {
+     "id": "l2",
+     "text": "Décret-loi n° 2011-88 du 24 septembre 2011",
+     "side": "left"
+    },
+    {
+     "id": "l3",
+     "text": "Décret-loi n° 2011-115 du 2 novembre 2011",
+     "side": "left"
+    },
+    {
+     "id": "l4",
+     "text": "Décret-loi n° 2011-116 du 2 novembre 2011",
+     "side": "left"
+    },
+    {
+     "id": "r1",
+     "text": "Liberté de la presse, de l'impression et de l'édition",
+     "side": "right"
+    },
+    {
+     "id": "r2",
+     "text": "Organisation des partis politiques",
+     "side": "right"
+    },
+    {
+     "id": "r3",
+     "text": "Liberté de la communication audiovisuelle et création de la HAICA",
+     "side": "right"
+    },
+    {
+     "id": "r4",
+     "text": "Organisation des associations",
+     "side": "right"
+    }
+   ],
+   "correct": {
+    "pairs": [
+     [
+      "l1",
+      "r2"
+     ],
+     [
+      "l2",
+      "r4"
+     ],
+     [
+      "l3",
+      "r1"
+     ],
+     [
+      "l4",
+      "r3"
+     ]
+    ]
+   },
+   "explanation": "Le même jour, le 24 septembre 2011, ont été pris les décrets-lois n° 87 sur les partis politiques et n° 88 sur les associations, tous deux fondés sur un régime de déclaration. Le 2 novembre 2011 ont suivi le décret-loi n° 115 (presse, impression et édition) et le décret-loi n° 116 (communication audiovisuelle et création de la Haute autorité indépendante de la communication audiovisuelle, HAICA). Le piège consiste à inverser les numéros 87 et 88, ou 115 et 116, adoptés à la même date.",
+   "difficulty": "MEDIUM",
+   "topic_key": "spec.droit-public.libertes-publiques",
+   "objective_key": "spec.droit-public.libertes-publiques.o2",
+   "families": [
+    "administration-generale",
+    "bct",
+    "collectivites-locales",
+    "douane",
+    "ena",
+    "garde-nationale",
+    "police-gardien-paix",
+    "police-inspecteur",
+    "police-officier",
+    "prisons-reeducation",
+    "protection-civile"
+   ],
+   "origin": "AI_GENERATED",
+   "source_key": null,
+   "year": null,
+   "valid_until": null,
+   "tags": [
+    "tunisie",
+    "libertes-publiques",
+    "textes"
+   ]
+  },
+  {
+   "id": "spec-droit-public-0039",
+   "type": "TRUE_FALSE",
+   "language": "ar",
+   "stem": "يحجّر دستور 2022 ممارسة رقابة مسبقة على حرية الرأي والفكر والتعبير والإعلام والنشر.",
+   "options": [
+    {
+     "id": "a",
+     "text": "صحيح"
+    },
+    {
+     "id": "b",
+     "text": "خطأ"
+    }
+   ],
+   "correct": [
+    "a"
+   ],
+   "explanation": "صحيح. يضمن دستور 2022، على غرار دستور 2014، حرية الرأي والفكر والتعبير والإعلام والنشر، وينصّ على أنه لا يجوز ممارسة رقابة مسبقة عليها. ولا يعني ذلك أن هذه الحريات مطلقة: يمكن تقييدها بقانون وفي حدود الضرورة والتناسب، وتبقى المسؤولية عن التجاوزات قائمة بعد النشر (النظام الزجري).",
+   "difficulty": "EASY",
+   "topic_key": "spec.droit-public.libertes-publiques",
+   "objective_key": "spec.droit-public.libertes-publiques.o2",
+   "families": [
+    "administration-generale",
+    "bct",
+    "collectivites-locales",
+    "douane",
+    "ena",
+    "garde-nationale",
+    "police-gardien-paix",
+    "police-inspecteur",
+    "police-officier",
+    "prisons-reeducation",
+    "protection-civile"
+   ],
+   "origin": "AI_GENERATED",
+   "source_key": null,
+   "year": null,
+   "valid_until": null,
+   "tags": [
+    "constitution-2022",
+    "liberte-expression",
+    "needs_verification"
+   ]
+  },
+  {
+   "id": "spec-droit-public-0040",
+   "type": "MCQ_SINGLE",
+   "language": "fr",
+   "stem": "La Constitution tunisienne (texte de 2014 comme texte de 2022) interdit expressément, à l'égard d'un citoyen tunisien :",
+   "options": [
+    {
+     "id": "a",
+     "text": "de le soumettre à l'impôt"
+    },
+    {
+     "id": "b",
+     "text": "de l'extrader ou de le déchoir de sa nationalité"
+    },
+    {
+     "id": "c",
+     "text": "de l'appeler à accomplir le service national"
+    },
+    {
+     "id": "d",
+     "text": "d'exécuter à son encontre une décision de justice définitive ordonnant son incarcération"
+    }
+   ],
+   "correct": [
+    "b"
+   ],
+   "explanation": "La Constitution interdit de déchoir un citoyen de sa nationalité, de l'exiler, de l'extrader ou de l'empêcher de retourner dans son pays. Payer l'impôt et accomplir le service national sont au contraire des devoirs du citoyen, et l'exécution d'une décision de justice définitive est conforme à l'État de droit, à condition que les garanties d'un procès équitable aient été respectées.",
+   "difficulty": "MEDIUM",
+   "topic_key": "spec.droit-public.libertes-publiques",
+   "objective_key": "spec.droit-public.libertes-publiques.o2",
+   "families": [
+    "administration-generale",
+    "bct",
+    "collectivites-locales",
+    "douane",
+    "ena",
+    "garde-nationale",
+    "police-gardien-paix",
+    "police-inspecteur",
+    "police-officier",
+    "prisons-reeducation",
+    "protection-civile"
+   ],
+   "origin": "AI_GENERATED",
+   "source_key": null,
+   "year": null,
+   "valid_until": null,
+   "tags": [
+    "constitution-2014",
+    "constitution-2022",
+    "nationalite",
+    "needs_verification"
+   ]
+  }
+ ]
+}

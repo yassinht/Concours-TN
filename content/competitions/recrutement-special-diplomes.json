@@ -1,0 +1,616 @@
+{
+ "family": {
+  "slug": "recrutement-special-diplomes",
+  "field": "ADMINISTRATION",
+  "organization": {
+   "slug": "recrutement-exceptionnel-etat",
+   "name_ar": "الدولة التونسية – آليات الانتداب الاستثنائي لحاملي الشهادات العليا (رئاسة الحكومة والوزارة المكلفة بالتشغيل، للتثبت)",
+   "name_fr": "État tunisien – dispositifs de recrutement exceptionnel des diplômés du supérieur (Présidence du gouvernement et ministère chargé de l'emploi, à vérifier)",
+   "ministry_fr": "Présidence du gouvernement ; ministère de l'Emploi et de la Formation professionnelle / ANETI (rôles exacts à confirmer par le décret d'application)",
+   "website": "https://www.concours.gov.tn"
+  },
+  "name_ar": "الانتداب الاستثنائي لحاملي الشهادات العليا ممن طالت بطالتهم وبرامج الانتداب الخاصة (قانون 2025-18 وقانون المالية 2026)",
+  "name_fr": "Recrutement exceptionnel des diplômés chômeurs de longue durée et programmes spéciaux (loi 2025-18, loi de finances 2026)",
+  "description_ar": "حسب الصحافة (للتثبت من الرائد الرسمي)، صدر القانون عدد 18 لسنة 2025 المؤرخ في 22 ديسمبر 2025 المتعلق بالانتداب الاستثنائي لحاملي الشهادات العليا ممن طالت بطالتهم. هذه الآلية ليست مناظرة بالاختبارات: لا يوجد اختبار كتابي، ويتم الانتقاء بالملفات عبر منصة رقمية مع أولوية لمن تجاوز سنهم 40 سنة ولمن مرّ على تخرجهم أكثر من 10 سنوات، وبمعدل منتفع واحد عن كل عائلة، ثم مرحلة «تأهيل» قبل المباشرة، على أن يتم الانتداب على دفعات في أجل أقصاه 3 سنوات. إلى حدود سبتمبر 2026 لم يصدر الأمر التطبيقي حسب الصحافة، لذلك لم تُفتح المنصة بعد ولا توجد رزنامة رسمية. تضم هذه العائلة أيضا إطار قانون المالية لسنة 2026: 51878 انتدابا وتسوية وضعية (جزء كبير منها تسويات لأعوان يعملون أصلا، مثل 12942 من عملة الحضائر)، منها حسب الصحافة 1350 خطة لحاملي شهادة الدكتوراه. تنبيه: لم يكن ممكنا فتح أي نص رسمي أثناء هذا البحث؛ كل المعطيات مقترحة وتحتاج إلى تثبت من الإدارة قبل نشرها كمعلومة رسمية.",
+  "description_fr": "Selon la presse (à vérifier au JORT), la loi n° 2025-18 du 22 décembre 2025 organise le recrutement exceptionnel, dans le secteur public, des diplômés du supérieur en chômage de longue durée. Ce n'est PAS un concours sur épreuves : il n'y a pas d'épreuve écrite ; la sélection se fait sur dossier via une plateforme numérique, avec priorité aux candidats de plus de 40 ans et à ceux diplômés depuis plus de 10 ans, un seul bénéficiaire par famille, puis une phase de « qualification » avant la prise de fonctions ; les recrutements se feraient par vagues sur trois ans au plus. En septembre 2026, le décret d'application n'était toujours pas publié selon la presse : la plateforme n'est pas ouverte et aucun calendrier officiel n'existe. La famille couvre aussi le cadre de la loi de finances 2026 : 51 878 recrutements et régularisations (dont une large part de régularisations d'agents déjà en poste, p. ex. 12 942 ouvriers de chantiers), parmi lesquels, selon la presse, 1 350 postes destinés aux titulaires du doctorat. Avertissement : aucun texte officiel n'a pu être consulté pendant cette recherche ; toutes les données sont des suggestions à faire vérifier par l'équipe avant publication comme information officielle.",
+  "frequency": "IRREGULAR",
+  "frequency_confidence": "LOW",
+  "popularity": 4,
+  "keywords": [
+   "loi 2025-18",
+   "قانون عدد 18 لسنة 2025",
+   "chômeurs de longue durée",
+   "diplômés chômeurs",
+   "recrutement exceptionnel",
+   "الانتداب الاستثنائي",
+   "حاملي الشهادات العليا",
+   "طالت بطالتهم",
+   "المعطلين عن العمل",
+   "أصحاب الشهادات المعطلين",
+   "plateforme numérique",
+   "منصة رقمية",
+   "loi de finances 2026",
+   "قانون المالية 2026",
+   "docteurs chômeurs",
+   "الدكاترة المعطلين عن العمل",
+   "ANETI",
+   "مكتب التشغيل",
+   "recrutement sur dossier",
+   "انتداب بالملفات"
+  ]
+ },
+ "sources": [
+  {
+   "key": "s1",
+   "title": "Recrutement des diplômés du supérieur en chômage de longue durée : publication de la loi relative au JORT et entrée en vigueur de ses dispositions",
+   "url": "https://www.lapresse.tn/2025/12/24/recrutement-des-diplomes-du-superieur-en-chomage-de-longue-duree-publication-de-la-loi-relative-au-jort-et-entree-en-vigueur-de-ses-dispositions/",
+   "publisher": "La Presse de Tunisie",
+   "source_type": "SECONDARY",
+   "publication_date": "2025-12-24",
+   "retrieved_at": "2026-10-07",
+   "confidence": "MEDIUM",
+   "notes": "PAGE NON OUVERTE dans cette passe : quota WebSearch partagé épuisé dès la première requête et WebFetch refusé par le proxy (EGRESS_BLOCKED) pour ce domaine. URL et faits repris du journal de recherche de l'équipe du même jour (docs/research/01-market-raw.md), lui-même fondé sur des résumés de moteur de recherche de cette page. Faits attribués : loi n° 2025-18 du 22/12/2025 publiée au JORT ; recrutement exceptionnel SANS épreuve écrite ; inscription via une plateforme numérique ; priorité aux candidats de plus de 40 ans et à ceux diplômés depuis plus de 10 ans ; un seul bénéficiaire par famille ; sélection sur dossier suivie d'une phase de « qualification » ; recrutement par vagues sur 3 ans au plus. Aucun extrait verbatim disponible : à relire et à recouper avec le texte du JORT."
+  },
+  {
+   "key": "s2",
+   "title": "Diplômés chômeurs : neuf mois après la loi, l'union réclame toujours son application",
+   "url": "https://www.webdo.tn/fr/actualite/national/diplomes-chomeurs-neuf-mois-apres-la-loi-lunion-reclame-toujours-son-application/403473/",
+   "publisher": "Webdo",
+   "source_type": "SECONDARY",
+   "publication_date": null,
+   "retrieved_at": "2026-10-07",
+   "confidence": "MEDIUM",
+   "notes": "PAGE NON OUVERTE dans cette passe : quota WebSearch partagé épuisé dès la première requête et WebFetch refusé par le proxy (EGRESS_BLOCKED) pour ce domaine. URL et faits repris du journal de recherche de l'équipe du même jour (docs/research/01-market-raw.md), lui-même fondé sur des résumés de moteur de recherche de cette page. Date de publication inconnue (le titre « neuf mois après la loi » situe l'article vers septembre 2026). Fait attribué : en septembre 2026, le décret d'application de la loi n° 2025-18 n'était pas publié et « l'union » (vraisemblablement l'Union des diplômés chômeurs – اتحاد أصحاب الشهادات المعطلين عن العمل, à vérifier) réclamait toujours son application."
+  },
+  {
+   "key": "s3",
+   "title": "Fonction publique : l'État tunisien relance les recrutements en 2026",
+   "url": "https://lapresse.tn/2025/10/16/fonction-publique-letat-tunisien-relance-les-recrutements-en-2026/",
+   "publisher": "La Presse de Tunisie",
+   "source_type": "SECONDARY",
+   "publication_date": "2025-10-16",
+   "retrieved_at": "2026-10-07",
+   "confidence": "MEDIUM",
+   "notes": "PAGE NON OUVERTE dans cette passe : quota WebSearch partagé épuisé dès la première requête et WebFetch refusé par le proxy (EGRESS_BLOCKED) pour ce domaine. URL et faits repris du journal de recherche de l'équipe du même jour (docs/research/01-market-raw.md), lui-même fondé sur des résumés de moteur de recherche de cette page. Faits attribués (projet puis loi de finances 2026) : 51 878 recrutements ET régularisations ; l'article 9 plafonne l'effectif autorisé à 687 000 agents ; environ 23 000 recrutements nets. À recouper avec le texte de la LF 2026 publié au JORT."
+  },
+  {
+   "key": "s4",
+   "title": "Tunisie – Loi de finances 2026 : catégories de recrutements dans la fonction publique",
+   "url": "https://fr.allafrica.com/stories/202510240500.html",
+   "publisher": "AllAfrica (reprise de presse tunisienne)",
+   "source_type": "SECONDARY",
+   "publication_date": "2025-10-24",
+   "retrieved_at": "2026-10-07",
+   "confidence": "MEDIUM",
+   "notes": "PAGE NON OUVERTE dans cette passe : quota WebSearch partagé épuisé dès la première requête et WebFetch refusé par le proxy (EGRESS_BLOCKED) pour ce domaine. URL et faits repris du journal de recherche de l'équipe du même jour (docs/research/01-market-raw.md), lui-même fondé sur des résumés de moteur de recherche de cette page. Faits attribués : parmi les recrutements 2026, 12 942 ouvriers de chantiers régularisés, 1 350 postes pour les titulaires du doctorat, 1 066 enseignants d'éducation physique, 2 601 titulaires de la licence appliquée. Le mécanisme de recrutement des docteurs n'est pas décrit dans le résumé."
+  },
+  {
+   "key": "s5",
+   "title": "Loi de finances 2026 : répartition des recrutements par ministère",
+   "url": "https://fr.allafrica.com/stories/202510300467.html",
+   "publisher": "AllAfrica (reprise de presse tunisienne)",
+   "source_type": "SECONDARY",
+   "publication_date": "2025-10-30",
+   "retrieved_at": "2026-10-07",
+   "confidence": "MEDIUM",
+   "notes": "PAGE NON OUVERTE dans cette passe : quota WebSearch partagé épuisé dès la première requête et WebFetch refusé par le proxy (EGRESS_BLOCKED) pour ce domaine. URL et faits repris du journal de recherche de l'équipe du même jour (docs/research/01-market-raw.md), lui-même fondé sur des résumés de moteur de recherche de cette page. Faits attribués (ordres de grandeur) : Éducation ~18 079, Santé ~4 000, Défense 3 728, Intérieur 2 695, Finances 1 754, Justice 1 196 recrutements prévus en 2026."
+  },
+  {
+   "key": "s6",
+   "title": "Recrutement dans la fonction publique : les départements qui recruteront le plus et le moins en 2026",
+   "url": "https://www.webmanagercenter.com/2025/11/03/554950/recrutement-dans-la-fonction-publique-les-departements-qui-recruteront-le-plus-et-le-moins-en-2026/",
+   "publisher": "WebManagerCenter",
+   "source_type": "SECONDARY",
+   "publication_date": "2025-11-03",
+   "retrieved_at": "2026-10-07",
+   "confidence": "MEDIUM",
+   "notes": "PAGE NON OUVERTE dans cette passe : quota WebSearch partagé épuisé dès la première requête et WebFetch refusé par le proxy (EGRESS_BLOCKED) pour ce domaine. URL et faits repris du journal de recherche de l'équipe du même jour (docs/research/01-market-raw.md), lui-même fondé sur des résumés de moteur de recherche de cette page. Cité en appui des chiffres globaux de la LF 2026 (51 878 recrutements et régularisations) et de leur répartition par ministère."
+  },
+  {
+   "key": "s7",
+   "title": "Budget 2027 : circulaire n° 2 du 14 avril 2026 limitant les recrutements aux secteurs prioritaires",
+   "url": "https://fr.allafrica.com/stories/202604200506.html",
+   "publisher": "AllAfrica (reprise de presse tunisienne)",
+   "source_type": "SECONDARY",
+   "publication_date": "2026-04-20",
+   "retrieved_at": "2026-10-07",
+   "confidence": "MEDIUM",
+   "notes": "PAGE NON OUVERTE dans cette passe : quota WebSearch partagé épuisé dès la première requête et WebFetch refusé par le proxy (EGRESS_BLOCKED) pour ce domaine. URL et faits repris du journal de recherche de l'équipe du même jour (docs/research/01-market-raw.md), lui-même fondé sur des résumés de moteur de recherche de cette page. Fait attribué : la circulaire budgétaire n° 2 du 14/04/2026 (préparation du budget 2027) restreint les recrutements aux secteurs prioritaires. Le titre ci-dessus est descriptif (titre exact de l'article non relevé)."
+  },
+  {
+   "key": "s8",
+   "title": "Tunisie : plus de 130 mille diplômés du supérieur inscrits au chômage en 2026",
+   "url": "https://www.espacemanager.com/tunisie-plus-de-130-mille-diplomes-du-superieur-inscrits-au-chomage-en-2026.html",
+   "publisher": "Espace Manager",
+   "source_type": "SECONDARY",
+   "publication_date": null,
+   "retrieved_at": "2026-10-07",
+   "confidence": "MEDIUM",
+   "notes": "PAGE NON OUVERTE dans cette passe : quota WebSearch partagé épuisé dès la première requête et WebFetch refusé par le proxy (EGRESS_BLOCKED) pour ce domaine. URL et faits repris du journal de recherche de l'équipe du même jour (docs/research/01-market-raw.md), lui-même fondé sur des résumés de moteur de recherche de cette page. Faits attribués : plus de 130 000 diplômés du supérieur inscrits dans les bureaux de l'emploi (février 2026), dont environ 87 % âgés de plus de 30 ans (taille du public potentiellement concerné)."
+  },
+  {
+   "key": "s9",
+   "title": "Chômage en Tunisie : le taux recule à 14,9 % au T2 2026 selon l'INS",
+   "url": "https://www.challenges.tn/economie/chomage-en-tunisie-le-taux-recule-a-14-9-au-t2-2026-selon-l-ins/",
+   "publisher": "Challenges.tn (relayant l'INS)",
+   "source_type": "SECONDARY",
+   "publication_date": null,
+   "retrieved_at": "2026-10-07",
+   "confidence": "MEDIUM",
+   "notes": "PAGE NON OUVERTE dans cette passe : quota WebSearch partagé épuisé dès la première requête et WebFetch refusé par le proxy (EGRESS_BLOCKED) pour ce domaine. URL et faits repris du journal de recherche de l'équipe du même jour (docs/research/01-market-raw.md), lui-même fondé sur des résumés de moteur de recherche de cette page. Faits attribués : taux de chômage des diplômés du supérieur 26,6 % au T2 2026 (hommes 14,2 %, femmes 35,6 %) ; chômage global 14,9 %."
+  },
+  {
+   "key": "s10",
+   "title": "Portail national des concours de la fonction publique (البوابة الوطنية للمناظرات)",
+   "url": "https://www.concours.gov.tn",
+   "publisher": "Présidence du gouvernement",
+   "source_type": "OFFICIAL",
+   "publication_date": null,
+   "retrieved_at": "2026-10-07",
+   "confidence": "LOW",
+   "notes": "NON CONSULTÉ (accès bloqué depuis ce conteneur). Point de vérification prioritaire pour tout avis d'ouverture ou plateforme liée au recrutement exceptionnel. Aucun fait de ce fichier n'en est tiré."
+  },
+  {
+   "key": "s11",
+   "title": "Imprimerie Officielle de la République Tunisienne – Journal Officiel (الرائد الرسمي للجمهورية التونسية)",
+   "url": "http://www.iort.gov.tn",
+   "publisher": "IORT",
+   "source_type": "OFFICIAL",
+   "publication_date": null,
+   "retrieved_at": "2026-10-07",
+   "confidence": "LOW",
+   "notes": "NON CONSULTÉ (accès bloqué). Source officielle à utiliser pour vérifier le texte de la loi n° 2025-18, la loi de finances 2026 et le futur décret d'application. Aucun fait de ce fichier n'en est tiré."
+  }
+ ],
+ "editions": [
+  {
+   "year": 2026,
+   "session_label": "القانون عدد 18 لسنة 2025 – الدفعة الأولى من الانتداب الاستثنائي (التسجيل بالمنصة الرقمية بعد صدور الأمر التطبيقي) / Loi n° 2025-18 – 1re vague de recrutement exceptionnel (inscription sur la plateforme numérique après publication du décret d'application)",
+   "status": "EXPECTED",
+   "registration_open": null,
+   "registration_deadline": null,
+   "exam_date": null,
+   "positions_count": null,
+   "candidates_count": null,
+   "position_slugs": [
+    "diplome-chomage-longue-duree"
+   ],
+   "source_key": "s2",
+   "confidence": "LOW",
+   "needs_verification": true
+  },
+  {
+   "year": 2026,
+   "session_label": "قانون المالية 2026 – 1350 خطة مبرمجة لحاملي شهادة الدكتوراه (الآلية والرزنامة للتثبت) / Loi de finances 2026 – 1 350 postes prévus pour les titulaires du doctorat (mécanisme et calendrier à vérifier)",
+   "status": "EXPECTED",
+   "registration_open": null,
+   "registration_deadline": null,
+   "exam_date": null,
+   "positions_count": 1350,
+   "candidates_count": null,
+   "position_slugs": [
+    "docteur-recrutement-exceptionnel"
+   ],
+   "source_key": "s4",
+   "confidence": "LOW",
+   "needs_verification": true
+  }
+ ],
+ "positions": [
+  {
+   "slug": "diplome-chomage-longue-duree",
+   "title_ar": "انتداب استثنائي لحاملي الشهادات العليا ممن طالت بطالتهم (القانون عدد 18 لسنة 2025)",
+   "title_fr": "Recrutement exceptionnel des diplômés du supérieur en chômage de longue durée (loi n° 2025-18)",
+   "diploma_level": "BAC_PLUS_2",
+   "eligibility": {
+    "min_age": null,
+    "max_age": null,
+    "genders": [
+     "M",
+     "F"
+    ],
+    "nationality": "TN",
+    "diplomas": [
+     "BAC_PLUS_2"
+    ],
+    "specialties": [],
+    "min_height_cm_male": null,
+    "min_height_cm_female": null,
+    "marital_status": null,
+    "other_ar": [
+     "[حسب الصحافة، للتثبت] أن يكون المترشح حاملا لشهادة من شهادات التعليم العالي وفي وضعية بطالة طويلة المدة",
+     "[حسب الصحافة] الأولوية لمن تجاوز سنهم 40 سنة ولمن مرّ على حصولهم على الشهادة أكثر من 10 سنوات — ليست حدا أدنى للسن مطبّقا آليا، لأن النص الرسمي لم يُطّلع عليه",
+     "[حسب الصحافة] منتفع واحد عن كل عائلة",
+     "[مقترح] الترسيم بمكتب التشغيل وعدم ممارسة أي نشاط مهني مأجور أو لحسابه الخاص (عدم الانخراط في الضمان الاجتماعي كأجير، عدم امتلاك معرّف جبائي نشيط) — شروط يُنتظر أن يضبطها الأمر التطبيقي",
+     "[مقترح] الشروط العامة للانتداب في الوظيفة العمومية: الجنسية التونسية، التمتع بالحقوق المدنية، حسن السيرة، القدرة البدنية، الوضعية القانونية إزاء الخدمة الوطنية",
+     "[مقترح] المستوى الأدنى المعتمد هنا (باكالوريا + 2) تقديري لتغطية الشهادات الجامعية القديمة (شهادة الدراسات الجامعية للمرحلة الأولى، التقني السامي)؛ قائمة الشهادات المقبولة يضبطها النص الرسمي",
+     "حسب الصحافة لم يصدر الأمر التطبيقي إلى حدود سبتمبر 2026: كل الشروط قابلة للتغيير"
+    ],
+    "other_fr": [
+     "[Presse, à vérifier] Être titulaire d'un diplôme de l'enseignement supérieur et en situation de chômage de longue durée",
+     "[Presse] Priorité aux candidats de plus de 40 ans et à ceux dont le diplôme date de plus de 10 ans — non appliqué comme âge minimum automatique, faute d'avoir lu le texte officiel",
+     "[Presse] Un seul bénéficiaire par famille",
+     "[Suggestion] Inscription au bureau de l'emploi et absence de toute activité salariée ou indépendante (pas d'affiliation active à la sécurité sociale comme salarié, pas d'identifiant fiscal actif) — conditions que le décret d'application devrait préciser",
+     "[Suggestion] Conditions générales d'accès à la fonction publique : nationalité tunisienne, jouissance des droits civiques, bonne moralité, aptitude physique, situation régulière vis-à-vis du service national",
+     "[Suggestion] Le niveau minimum retenu ici (bac + 2) est une estimation destinée à couvrir les anciens diplômes (DEUPL, technicien supérieur) ; la liste des diplômes admis sera fixée par le texte officiel",
+     "Selon la presse, le décret d'application n'était pas publié en septembre 2026 : toutes ces conditions peuvent évoluer"
+    ],
+    "source_key": "s1",
+    "confidence": "LOW",
+    "needs_verification": true,
+    "source_quote": null
+   },
+   "phases": [
+    {
+     "order": 1,
+     "kind": "FILE_REVIEW",
+     "name_ar": "التسجيل عن بعد بالمنصة الرقمية ودراسة الملفات وترتيب المترشحين حسب معايير الأولوية",
+     "name_fr": "Inscription sur la plateforme numérique, examen des dossiers et classement selon les critères de priorité",
+     "is_eliminatory": true,
+     "duration_minutes": null,
+     "description_ar": "حسب الصحافة: يتم الترشح عبر منصة رقمية تُحدث للغرض، ثم تُدرس الملفات ويُرتّب المترشحون حسب معايير الأولوية (السن، أقدمية الشهادة، منتفع واحد عن كل عائلة). لا يوجد اختبار كتابي. [مقترح] تُقصى الملفات غير المستوفية للشروط أو التي تتضمن تصريحات غير صحيحة. عنوان المنصة وآجال التسجيل غير معروفة إلى حين صدور الأمر التطبيقي.",
+     "description_fr": "Selon la presse : candidature via une plateforme numérique dédiée, puis examen des dossiers et classement selon les critères de priorité (âge, ancienneté du diplôme, un bénéficiaire par famille). Pas d'épreuve écrite. [Suggestion] Les dossiers incomplets ou comportant de fausses déclarations sont écartés. Adresse de la plateforme et délais inconnus tant que le décret d'application n'est pas publié.",
+     "source_key": "s1",
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "order": 2,
+     "kind": "TRAINING",
+     "name_ar": "مرحلة التأهيل قبل المباشرة",
+     "name_fr": "Phase de qualification avant la prise de fonctions",
+     "is_eliminatory": false,
+     "duration_minutes": null,
+     "description_ar": "حسب الصحافة تلي دراسةَ الملفات مرحلةُ «تأهيل». [مقترح] يُرجّح أن تكون دورة تكوين تأهيلي أو إعادة تأهيل لتمكين المنتدبين الذين ابتعدوا طويلا عن مجال اختصاصهم من الاندماج في الإدارة؛ مدتها ومحتواها وطابعها الإقصائي غير معروفة.",
+     "description_fr": "Selon la presse, l'examen des dossiers est suivi d'une phase de « qualification ». [Suggestion] Il s'agirait d'une formation de qualification ou de requalification pour faciliter l'intégration d'agents éloignés depuis longtemps de leur domaine ; durée, contenu et caractère éliminatoire inconnus.",
+     "source_key": "s1",
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "order": 3,
+     "kind": "MEDICAL",
+     "name_ar": "الفحص الطبي والتعيين",
+     "name_fr": "Visite médicale d'aptitude et affectation",
+     "is_eliminatory": true,
+     "duration_minutes": null,
+     "description_ar": "[مقترح] كما في كل انتداب بالوظيفة العمومية، يُطلب عادة إثبات القدرة البدنية والذهنية (شهادة طبية) قبل التعيين في رتبة تتماشى مع الشهادة، على دفعات خلال 3 سنوات على أقصى تقدير حسب الصحافة.",
+     "description_fr": "[Suggestion] Comme pour tout recrutement public, une attestation d'aptitude physique et mentale est généralement exigée avant l'affectation dans un grade correspondant au diplôme, par vagues sur trois ans au plus selon la presse.",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    }
+   ],
+   "subjects": [],
+   "physical_tests": [],
+   "required_documents": [
+    {
+     "text_ar": "نسخة من بطاقة التعريف الوطنية",
+     "text_fr": "Copie de la carte d'identité nationale",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "text_ar": "نسخة من الشهادة العلمية (وقرار معادلة بالنسبة إلى الشهادات الأجنبية) مع إثبات تاريخ الحصول عليها",
+     "text_fr": "Copie du diplôme (et arrêté d'équivalence pour les diplômes étrangers) justifiant la date d'obtention",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "text_ar": "شهادة ترسيم بمكتب التشغيل تثبت أقدمية البطالة",
+     "text_fr": "Attestation d'inscription au bureau de l'emploi justifiant l'ancienneté du chômage",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "text_ar": "شهادة في عدم الانخراط بالصندوق الوطني للضمان الاجتماعي وبالصندوق الوطني للتقاعد والحيطة الاجتماعية",
+     "text_fr": "Attestation de non-affiliation à la CNSS et à la CNRPS",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "text_ar": "وثائق تثبت التركيبة العائلية (للتثبت من شرط منتفع واحد عن كل عائلة) حسب ما يضبطه الأمر التطبيقي",
+     "text_fr": "Pièces établissant la composition familiale (contrôle « un bénéficiaire par famille ») selon le décret d'application",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "text_ar": "تصريح على الشرف بعدم ممارسة أي نشاط مهني وبصحة المعطيات المصرّح بها",
+     "text_fr": "Déclaration sur l'honneur de non-exercice d'une activité professionnelle et d'exactitude des informations déclarées",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "text_ar": "بطاقة السوابق العدلية (بطاقة عدد 3) عند التعيين",
+     "text_fr": "Extrait du casier judiciaire (bulletin n° 3) lors de l'affectation",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "text_ar": "شهادة طبية تثبت القدرة البدنية والذهنية عند التعيين",
+     "text_fr": "Certificat médical d'aptitude physique et mentale lors de l'affectation",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "text_ar": "وثيقة تثبت الوضعية إزاء الخدمة الوطنية (للذكور)",
+     "text_fr": "Justificatif de la situation vis-à-vis du service national (candidats masculins)",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    }
+   ],
+   "blueprint": {
+    "total_minutes": 60,
+    "fidelity": "APPROXIMATED",
+    "sections": [
+     {
+      "domain": "CULTURE_GENERALE",
+      "specialty_key": null,
+      "count": 15,
+      "minutes": 15
+     },
+     {
+      "domain": "ARABIC",
+      "specialty_key": null,
+      "count": 10,
+      "minutes": 10
+     },
+     {
+      "domain": "FRENCH",
+      "specialty_key": null,
+      "count": 10,
+      "minutes": 10
+     },
+     {
+      "domain": "SPECIALTY",
+      "specialty_key": "spec.redaction-administrative",
+      "count": 8,
+      "minutes": 13
+     },
+     {
+      "domain": "SPECIALTY",
+      "specialty_key": "spec.droit-administratif",
+      "count": 8,
+      "minutes": 7
+     },
+     {
+      "domain": "LOGIC",
+      "specialty_key": null,
+      "count": 5,
+      "minutes": 5
+     }
+    ]
+   }
+  },
+  {
+   "slug": "docteur-recrutement-exceptionnel",
+   "title_ar": "انتداب حاملي شهادة الدكتوراه في إطار خطط قانون المالية 2026",
+   "title_fr": "Recrutement des titulaires du doctorat dans le cadre des postes de la loi de finances 2026",
+   "diploma_level": "DOCTORATE",
+   "eligibility": {
+    "min_age": null,
+    "max_age": null,
+    "genders": [
+     "M",
+     "F"
+    ],
+    "nationality": "TN",
+    "diplomas": [
+     "DOCTORATE"
+    ],
+    "specialties": [],
+    "min_height_cm_male": null,
+    "min_height_cm_female": null,
+    "marital_status": null,
+    "other_ar": [
+     "[حسب الصحافة] قانون المالية 2026 يتضمن 1350 خطة لحاملي شهادة الدكتوراه",
+     "[مقترح] حاملو الدكتوراه غير المنتدبين بالقطاع العام؛ الأولوية والاختصاصات المطلوبة والهياكل المنتدِبة (جامعات، مراكز بحث، وزارات) غير معروفة",
+     "[مقترح] الشروط العامة للانتداب في الوظيفة العمومية (الجنسية التونسية، الحقوق المدنية، حسن السيرة، القدرة البدنية)"
+    ],
+    "other_fr": [
+     "[Presse] La loi de finances 2026 prévoit 1 350 postes pour les titulaires du doctorat",
+     "[Suggestion] Docteurs non recrutés dans le secteur public ; priorités, spécialités demandées et structures d'accueil (universités, centres de recherche, ministères) inconnues",
+     "[Suggestion] Conditions générales d'accès à la fonction publique (nationalité tunisienne, droits civiques, bonne moralité, aptitude physique)"
+    ],
+    "source_key": "s4",
+    "confidence": "LOW",
+    "needs_verification": true,
+    "source_quote": null
+   },
+   "phases": [
+    {
+     "order": 1,
+     "kind": "FILE_REVIEW",
+     "name_ar": "الترشح ودراسة الملف العلمي",
+     "name_fr": "Candidature et examen du dossier scientifique",
+     "is_eliminatory": true,
+     "duration_minutes": null,
+     "description_ar": "[مقترح] يُرجّح الانتقاء بالملفات (الشهادة، الاختصاص، المنشورات العلمية، الخبرة) عبر منصة أو بلاغ من الوزارة المعنية؛ الآلية الفعلية لتوزيع الخطط الـ1350 غير معروفة.",
+     "description_fr": "[Suggestion] Sélection probable sur dossier (diplôme, spécialité, publications, expérience) via une plateforme ou un avis du ministère concerné ; le mécanisme réel de répartition des 1 350 postes est inconnu.",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "order": 2,
+     "kind": "INTERVIEW",
+     "name_ar": "مقابلة أو عرض أمام لجنة (حسب الهيكل المنتدِب)",
+     "name_fr": "Entretien ou présentation devant un jury (selon la structure d'accueil)",
+     "is_eliminatory": true,
+     "duration_minutes": null,
+     "description_ar": "[مقترح] في مناظرات الانتداب بالتعليم العالي والبحث يُطلب عادة عرض الأعمال العلمية أمام لجنة؛ وجود هذه المرحلة في هذا البرنامج غير مؤكد.",
+     "description_fr": "[Suggestion] Dans les recrutements de l'enseignement supérieur et de la recherche, une présentation des travaux devant un jury est courante ; son existence dans ce programme n'est pas confirmée.",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    }
+   ],
+   "subjects": [],
+   "physical_tests": [],
+   "required_documents": [
+    {
+     "text_ar": "نسخة من بطاقة التعريف الوطنية",
+     "text_fr": "Copie de la carte d'identité nationale",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "text_ar": "نسخة من شهادة الدكتوراه (وقرار معادلة للشهادات الأجنبية)",
+     "text_fr": "Copie du diplôme de doctorat (et équivalence pour les diplômes étrangers)",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "text_ar": "سيرة ذاتية وقائمة الأعمال والمنشورات العلمية",
+     "text_fr": "CV et liste des travaux et publications scientifiques",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    },
+    {
+     "text_ar": "شهادة ترسيم بمكتب التشغيل أو ما يثبت عدم الانتداب بالقطاع العام",
+     "text_fr": "Attestation d'inscription au bureau de l'emploi ou justificatif de non-recrutement dans le secteur public",
+     "source_key": null,
+     "confidence": "LOW",
+     "needs_verification": true
+    }
+   ],
+   "blueprint": {
+    "total_minutes": 60,
+    "fidelity": "APPROXIMATED",
+    "sections": [
+     {
+      "domain": "CULTURE_GENERALE",
+      "specialty_key": null,
+      "count": 15,
+      "minutes": 15
+     },
+     {
+      "domain": "FRENCH",
+      "specialty_key": null,
+      "count": 10,
+      "minutes": 10
+     },
+     {
+      "domain": "ENGLISH",
+      "specialty_key": null,
+      "count": 10,
+      "minutes": 10
+     },
+     {
+      "domain": "LOGIC",
+      "specialty_key": null,
+      "count": 8,
+      "minutes": 10
+     },
+     {
+      "domain": "SPECIALTY",
+      "specialty_key": "spec.redaction-administrative",
+      "count": 8,
+      "minutes": 15
+     }
+    ]
+   }
+  }
+ ],
+ "specialty_syllabus": [
+  {
+   "key": "spec.recrutement-special-diplomes.integration",
+   "parent_key": null,
+   "level": "UNIT",
+   "title_ar": "الاندماج في الوظيفة العمومية بعد بطالة طويلة: الحقوق والواجبات وأخلاقيات العون العمومي",
+   "title_fr": "Intégration dans la fonction publique après un chômage de longue durée : droits, obligations et déontologie de l'agent public",
+   "scope": "SUGGESTED",
+   "source_key": null,
+   "objectives": [
+    {
+     "key": "spec.recrutement-special-diplomes.integration.o1",
+     "text_ar": "فهم آلية الانتداب الاستثنائي ومراحلها (منصة، ملف، أولويات، تأهيل)",
+     "text_fr": "Comprendre le dispositif de recrutement exceptionnel et ses étapes (plateforme, dossier, priorités, qualification)"
+    },
+    {
+     "key": "spec.recrutement-special-diplomes.integration.o2",
+     "text_ar": "الاستعداد لمرحلة التأهيل والاندماج في محيط العمل الإداري",
+     "text_fr": "Se préparer à la phase de qualification et à l'intégration dans le milieu administratif"
+    }
+   ]
+  },
+  {
+   "key": "spec.recrutement-special-diplomes.integration.droits-obligations",
+   "parent_key": "spec.recrutement-special-diplomes.integration",
+   "level": "TOPIC",
+   "title_ar": "حقوق وواجبات العون العمومي (التربص، الترسيم، الانضباط، السر المهني)",
+   "title_fr": "Droits et obligations de l'agent public (stage, titularisation, discipline, secret professionnel)",
+   "scope": "SUGGESTED",
+   "source_key": null,
+   "objectives": [
+    {
+     "key": "spec.recrutement-special-diplomes.integration.droits-obligations.o1",
+     "text_ar": "تعداد أهم واجبات العون العمومي (الحياد، كتمان السر المهني، المواظبة، الطاعة الرئاسية)",
+     "text_fr": "Énumérer les principales obligations de l'agent public (neutralité, secret professionnel, assiduité, obéissance hiérarchique)"
+    },
+    {
+     "key": "spec.recrutement-special-diplomes.integration.droits-obligations.o2",
+     "text_ar": "التمييز بين فترة التربص والترسيم وفهم آثارهما",
+     "text_fr": "Distinguer stage et titularisation et en comprendre les effets"
+    }
+   ]
+  },
+  {
+   "key": "spec.recrutement-special-diplomes.integration.service-usager",
+   "parent_key": "spec.recrutement-special-diplomes.integration",
+   "level": "TOPIC",
+   "title_ar": "العلاقة بين الإدارة والمواطن وجودة الخدمات العمومية والإدارة الرقمية",
+   "title_fr": "Relation administration-usager, qualité du service public et administration numérique",
+   "scope": "SUGGESTED",
+   "source_key": null,
+   "objectives": [
+    {
+     "key": "spec.recrutement-special-diplomes.integration.service-usager.o1",
+     "text_ar": "تطبيق قواعد الاستقبال والإرشاد ومعالجة مطالب المواطنين",
+     "text_fr": "Appliquer les règles d'accueil, d'orientation et de traitement des demandes des usagers"
+    },
+    {
+     "key": "spec.recrutement-special-diplomes.integration.service-usager.o2",
+     "text_ar": "استعمال الأدوات الرقمية الأساسية في العمل الإداري (البريد الإلكتروني، معالجة النصوص، المنصات الحكومية)",
+     "text_fr": "Utiliser les outils numériques de base du travail administratif (messagerie, traitement de texte, plateformes publiques)"
+    }
+   ]
+  }
+ ],
+ "past_exams": [],
+ "tips_ar": [
+  "هذه الآلية انتقاء بالملفات وليست مناظرة كتابية: لا تدفع أي مبلغ لأي جهة تعدك بـ«التحضير» أو بـ«ضمان» الانتداب في إطار قانون 2025-18.",
+  "احذر الصفحات والمنصات المزيفة التي تطلب معطياتك الشخصية أو أموالا: اعتمد فقط الرابط المعلن في بلاغ رسمي (رئاسة الحكومة، الوزارة المكلفة بالتشغيل) أو في الرائد الرسمي.",
+  "حيّن ترسيمك بمكتب التشغيل واحتفظ بما يثبت أقدمية البطالة وتاريخ الحصول على الشهادة: يُرجّح أن تكون معايير الأولوية مبنية عليها.",
+  "جهّز مسبقا نسخا رقمية واضحة (PDF) من بطاقة التعريف والشهادة ومعادلتها: التسجيل سيكون عن بعد.",
+  "صرّح بمعطيات صحيحة (التركيبة العائلية، الوضعية المهنية): أي تصريح خاطئ قد يؤدي إلى الإقصاء.",
+  "فعّل تنبيهات التطبيق لهذه العائلة: سنعلمك عند صدور الأمر التطبيقي أو فتح المنصة بعد تثبت فريقنا من المصدر الرسمي.",
+  "لا تنتظر هذه الآلية وحدها: واصل الترشح للمناظرات الخارجية التي تطابق ملفك، فالانتداب الاستثنائي سيتم على دفعات خلال 3 سنوات.",
+  "استعد لمرحلة التأهيل: راجع أساسيات التحرير الإداري والقانون الإداري واستعمال الحاسوب، فقد يُعيّنك الانتداب في خطة إدارية بعيدة عن اختصاصك.",
+  "حاملو الدكتوراه: حيّنوا سيرتكم الذاتية وقائمة منشوراتكم وتابعوا بلاغات وزارة التعليم العالي والبحث العلمي والوزارات المعنية بالخطط الـ1350."
+ ],
+ "tips_fr": [
+  "Ce dispositif est une sélection sur dossier, pas un concours écrit : ne payez personne qui promet une « préparation » ou une « garantie » de recrutement au titre de la loi 2025-18.",
+  "Méfiez-vous des pages et plateformes frauduleuses qui demandent vos données personnelles ou de l'argent : n'utilisez que le lien publié dans un avis officiel (Présidence du gouvernement, ministère chargé de l'emploi) ou au JORT.",
+  "Mettez à jour votre inscription au bureau de l'emploi et conservez les justificatifs de l'ancienneté du chômage et de la date d'obtention du diplôme : les critères de priorité devraient s'appuyer dessus.",
+  "Préparez à l'avance des copies numériques lisibles (PDF) de votre CIN, de votre diplôme et de son équivalence : l'inscription se fera en ligne.",
+  "Déclarez des informations exactes (composition familiale, situation professionnelle) : une fausse déclaration peut entraîner l'exclusion.",
+  "Activez les alertes de l'application pour cette famille : nous vous préviendrons de la publication du décret d'application ou de l'ouverture de la plateforme, après vérification de la source officielle par notre équipe.",
+  "Ne misez pas uniquement sur ce dispositif : continuez à postuler aux concours externes correspondant à votre profil, car le recrutement exceptionnel se fera par vagues sur trois ans.",
+  "Préparez la phase de qualification : révisez les bases de la rédaction administrative, du droit administratif et de la bureautique, car l'affectation peut se faire sur un poste administratif éloigné de votre spécialité.",
+  "Titulaires du doctorat : mettez à jour votre CV et votre liste de publications et suivez les avis du ministère de l'Enseignement supérieur et des ministères concernés par les 1 350 postes."
+ ],
+ "research_notes": "LIMITE MÉTHODOLOGIQUE MAJEURE (07/10/2026) : le quota WebSearch partagé (200 appels/tour) était déjà épuisé à la première requête de cette passe (requêtes AR « قانون عدد 18 لسنة 2025 انتداب حاملي الشهادات العليا الذين طالت بطالتهم » et FR « loi 2025-18 recrutement diplômés chômage longue durée » non exécutées), et WebFetch est refusé par le proxy (EGRESS_BLOCKED) pour tous les domaines testés : www.lapresse.tn, www.webdo.tn, fr.allafrica.com, www.webmanagercenter.com, www.tap.info.tn, www.arp.tn, www.legislation.tn, fr.wikipedia.org. AUCUNE page n'a été lue directement. Les URLs s1–s9 et les faits qui leur sont attribués proviennent du journal de recherche de l'équipe du même jour (docs/research/01-market-raw.md §1-2), lui-même fondé sur des résumés de moteur de recherche ; s10 (concours.gov.tn) et s11 (iort.gov.tn) sont des points de vérification officiels non consultés. En conséquence : 0 fait publiable comme officiel ; TOUS les faits portent needs_verification=true et aucun source_quote. À VÉRIFIER EN PRIORITÉ AU JORT : (1) numéro, date et intitulé exacts de la loi (n° 2025-18 du 22/12/2025 selon la presse ; intitulé arabe supposé « أحكام استثنائية لانتداب حاملي الشهادات العليا ممن طالت بطالتهم ») ; (2) champ d'application (État, collectivités locales, établissements et entreprises publics ?) ; (3) les critères sont-ils des CONDITIONS (âge ≥ 40 ans, diplôme > 10 ans) ou seulement des PRIORITÉS ? — ils sont traités ici comme priorités, donc min_age laissé à null pour ne pas exclure à tort des utilisateurs des alertes ; (4) diplômes admis (le niveau minimum bac+2 est une estimation) ; (5) nature de la phase de « qualification » (formation ? test ? entretien ?) et son caractère éliminatoire ; (6) volume total, répartition par vague et calendrier sur 3 ans ; (7) adresse officielle de la plateforme numérique et organisme gestionnaire (Présidence du gouvernement, ministère de l'Emploi, ANETI ?) ; (8) date de publication du décret d'application (non publié en septembre 2026 selon s2) ; (9) liste officielle des pièces (toutes les pièces listées sont des SUGGESTIONS calquées sur les recrutements publics habituels). LOI DE FINANCES 2026 (presse, à recouper avec le JORT) : 51 878 recrutements et régularisations, plafond d'effectif de 687 000 (art. 9), ~23 000 recrutements nets ; Éducation ~18 079, Santé ~4 000, Défense 3 728, Intérieur 2 695, Finances 1 754, Justice 1 196 ; catégories : 12 942 ouvriers de chantiers régularisés, 1 350 docteurs, 1 066 enseignants d'EPS, 2 601 titulaires de la licence appliquée. Calcul de l'équipe : au moins 26 779 des 51 878 sont des régularisations, le volume réellement ouvert par concours est donc bien plus faible. Budget 2027 : circulaire n° 2 du 14/04/2026 restreignant les recrutements aux secteurs prioritaires (s7) — risque de vagues réduites en 2027. POSTE « docteur-recrutement-exceptionnel » : seul le chiffre de 1 350 postes est sourcé (presse) ; mécanisme (sur dossier ? entretien ? répartition entre universités, centres de recherche et ministères ?), calendrier et conditions sont des SUGGESTIONS ; s'il s'avère que ces postes passent par les concours habituels d'assistants/maîtres-assistants, ce poste devra être déplacé vers une famille enseignement supérieur. ÉDITIONS : deux éditions 2026 au statut EXPECTED, sans dates (aucune date officielle) : elles ne déclenchent aucune alerte tant qu'un administrateur ne les passe pas en ANNOUNCED/OPEN après vérification ; position_slugs ciblent le poste concerné pour les alertes de profil. Aucune édition 2023-2025 : le dispositif est nouveau (loi de décembre 2025). Nombre de candidats inconnu ; public potentiel : plus de 130 000 diplômés inscrits au chômage (février 2026, ~87 % de plus de 30 ans, s8) ; taux de chômage des diplômés 26,6 % au T2 2026 (s9). SUJETS ET BLUEPRINTS : aucune épreuve écrite n'existe (selon la presse) ; subjects et physical_tests sont donc vides et past_exams est vide. Les blueprints (APPROXIMATED, 60 min) ne reproduisent AUCUN format officiel : ce sont des tests d'auto-évaluation de préparation à la phase de qualification / à l'entretien et à la prise de poste administratif (culture générale, langues, rédaction administrative, droit administratif, logique). Le specialty_syllabus « spec.recrutement-special-diplomes.integration » est entièrement SUGGÉRÉ (aucune banque de questions associée). Hors périmètre de cette famille mais signalé : la régularisation des ouvriers de chantiers (12 942) et le recrutement direct des titulaires de la licence appliquée en éducation (famille enseignement-primaire)."
+}

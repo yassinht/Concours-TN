@@ -2,7 +2,7 @@ import { INestApplication } from '@nestjs/common';
 import { Test } from '@nestjs/testing';
 import cookieParser from 'cookie-parser';
 import { randomBytes } from 'crypto';
-import { and, eq, inArray, isNull } from 'drizzle-orm';
+import { and, eq, inArray, isNull, like, sql } from 'drizzle-orm';
 import request from 'supertest';
 import webpush from 'web-push';
 import { CommonModule } from '../../common/common.module';
@@ -95,8 +95,14 @@ describe('notifications & concours alerts (e2e)', () => {
     return row.id;
   }
 
+  // Concours notifications are scoped to this run's families: other suites running in parallel on the same database may
+  // publish OPEN editions (e.g. a family without positions, which matches anyone following its field as "to verify").
   const notifsOf = (userId: string, type?: string) =>
-    db.select().from(notifications).where(and(eq(notifications.userId, userId), type ? eq(notifications.type, type) : undefined));
+    db.select().from(notifications).where(and(
+      eq(notifications.userId, userId),
+      type ? eq(notifications.type, type) : undefined,
+      type?.startsWith('CONCOURS_') ? like(sql`${notifications.data}->>'familySlug'`, `notif-fam%-${run}`) : undefined,
+    ));
   const deliveriesOf = (notificationId: string) =>
     db.select().from(notificationDeliveries).where(eq(notificationDeliveries.notificationId, notificationId));
 

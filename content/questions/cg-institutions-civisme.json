@@ -1,0 +1,1941 @@
+{
+ "bank": "cg-institutions-civisme",
+ "domain": "CULTURE_GENERALE",
+ "specialty_syllabus": [],
+ "sources": [],
+ "research_notes": "Questions originales (AI_GENERATED). Aucune vérification web n'a pu être faite lors de la rédaction : le budget WebSearch de la session était épuisé et WebFetch était bloqué par le proxy pour tous les domaines essayés (legislation.tn, iort.gov.tn, arp.tn, isie.tn, constituteproject.org, wikipedia, wikisource, wipo.int). Seuls des faits connus avec une forte certitude ont été retenus ; les questions qui reposent sur le texte de la Constitution de 2022 ou sur une loi/date précise portent le tag 'needs_verification' et doivent être relues contre le JORT avant publication. Points à vérifier en priorité : majorité des deux tiers des deux chambres réunies pour la motion de censure ; composition de la Cour constitutionnelle (9 magistrats) ; maintien de la seule ISIE parmi les instances constitutionnelles de 2014 ; exclusion de l'armée, des forces de sécurité intérieure et de la douane du droit de grève dans le texte de 2022 ; tirage au sort avec rotation pour les conseils régionaux (décret-loi de 2023) ; décret de septembre 2023 créant 5 districts ; loi organique 2018-29 du 9 mai 2018 ; sanctions du premier degré (avertissement, blâme) de la loi 83-112 ; âge de retraite à 62 ans (réforme de 2019) ; délai de 20 jours / 48 heures de la loi organique 2016-22 ; loi 2018-46 du 1er août 2018 ; unification de la majorité civile à 18 ans (loi de 2010). Volontairement évités car non vérifiables : devise de la République dans le texte de 2022, numéros d'articles de la Constitution de 2022, âge d'éligibilité des députés, nombre de sièges de l'ARP, noms de responsables en exercice.",
+ "questions": [
+  {
+   "id": "cg-institutions-civisme-0001",
+   "type": "MCQ_SINGLE",
+   "language": "ar",
+   "stem": "عُرض مشروع دستور الجمهورية التونسية المعمول به حاليًا على الاستفتاء الشعبي يوم:",
+   "options": [
+    {
+     "id": "a",
+     "text": "14 جانفي 2011"
+    },
+    {
+     "id": "b",
+     "text": "26 جانفي 2014"
+    },
+    {
+     "id": "c",
+     "text": "25 جويلية 2022"
+    },
+    {
+     "id": "d",
+     "text": "17 ديسمبر 2022"
+    }
+   ],
+   "correct": [
+    "c"
+   ],
+   "explanation": "جرى الاستفتاء على مشروع الدستور الجديد يوم 25 جويلية 2022، ثم خُتم الدستور ونُشر بالرائد الرسمي في أوت 2022 ليعوّض دستور 2014. أما تاريخ 26 جانفي 2014 فيوافق مصادقة المجلس الوطني التأسيسي على دستور 2014 دون استفتاء، و17 ديسمبر 2022 هو تاريخ الدورة الأولى للانتخابات التشريعية.",
+   "difficulty": "EASY",
+   "topic_key": "cg.tunisie-institutions",
+   "objective_key": "cg.tunisie-institutions.o1",
+   "families": [
+    "*"
+   ],
+   "origin": "AI_GENERATED",
+   "source_key": null,
+   "year": null,
+   "valid_until": null,
+   "tags": [
+    "constitution-2022",
+    "dates"
+   ]
+  },
+  {
+   "id": "cg-institutions-civisme-0002",
+   "type": "MCQ_SINGLE",
+   "language": "ar",
+   "stem": "حسب دستور 2022، تُمارَس الوظيفة التشريعية من قبل:",
+   "options": [
+    {
+     "id": "a",
+     "text": "مجلس نواب الشعب وحده"
+    },
+    {
+     "id": "b",
+     "text": "المجلس الوطني التأسيسي"
+    },
+    {
+     "id": "c",
+     "text": "مجلس النواب ومجلس المستشارين"
+    },
+    {
+     "id": "d",
+     "text": "مجلس نواب الشعب والمجلس الوطني للجهات والأقاليم"
+    }
+   ],
+   "correct": [
+    "d"
+   ],
+   "explanation": "أقرّ دستور 2022 نظامًا تشريعيًا بغرفتين: مجلس نواب الشعب، والمجلس الوطني للجهات والأقاليم الذي يمثّل الجهات والأقاليم. أما مجلس المستشارين فكان غرفة ثانية في ظل دستور 1959 بين 2005 و2011، والمجلس الوطني التأسيسي هو الذي صاغ دستور 2014 ثم انتهت مهامه.",
+   "difficulty": "EASY",
+   "topic_key": "cg.tunisie-institutions",
+   "objective_key": "cg.tunisie-institutions.o1",
+   "families": [
+    "*"
+   ],
+   "origin": "AI_GENERATED",
+   "source_key": null,
+   "year": null,
+   "valid_until": null,
+   "tags": [
+    "constitution-2022",
+    "pouvoir-legislatif",
+    "needs_verification"
+   ]
+  },
+  {
+   "id": "cg-institutions-civisme-0003",
+   "type": "TRUE_FALSE",
+   "language": "fr",
+   "stem": "Selon la Constitution de 2022, le Président de la République est élu pour un mandat de cinq ans et ne peut exercer plus de deux mandats.",
+   "options": [
+    {
+     "id": "a",
+     "text": "Vrai"
+    },
+    {
+     "id": "b",
+     "text": "Faux"
+    }
+   ],
+   "correct": [
+    "a"
+   ],
+   "explanation": "Vrai. Le Président est élu au suffrage universel, libre, direct et secret pour cinq ans, et la Constitution limite l'exercice de la fonction à deux mandats. Le piège consiste à croire que le mandat serait renouvelable sans limite, comme le permettait la Constitution de 1959 après la révision de 2002.",
+   "difficulty": "EASY",
+   "topic_key": "cg.tunisie-institutions",
+   "objective_key": "cg.tunisie-institutions.o1",
+   "families": [
+    "*"
+   ],
+   "origin": "AI_GENERATED",
+   "source_key": null,
+   "year": null,
+   "valid_until": null,
+   "tags": [
+    "constitution-2022",
+    "president",
+    "needs_verification"
+   ]
+  },
+  {
+   "id": "cg-institutions-civisme-0004",
+   "type": "MCQ_SINGLE",
+   "language": "ar",
+   "stem": "من شروط الترشح لمنصب رئيس الجمهورية حسب دستور 2022 أن يكون المترشح بالغًا يوم تقديم ترشحه من العمر على الأقل:",
+   "options": [
+    {
+     "id": "a",
+     "text": "30 سنة"
+    },
+    {
+     "id": "b",
+     "text": "35 سنة"
+    },
+    {
+     "id": "c",
+     "text": "40 سنة"
+    },
+    {
+     "id": "d",
+     "text": "45 سنة"
+    }
+   ],
+   "correct": [
+    "c"
+   ],
+   "explanation": "يشترط دستور 2022 أن يكون المترشح بالغًا من العمر أربعين سنة على الأقل يوم تقديم ترشحه، إضافة إلى شروط أخرى منها ألا يكون حاملًا لجنسية أخرى وأن يكون دينه الإسلام ومتمتعًا بجميع حقوقه المدنية والسياسية. أما سن 35 سنة فهي الحد الأدنى الذي كان ينص عليه دستور 2014، وهو الخطأ الأكثر شيوعًا في هذا السؤال.",
+   "difficulty": "MEDIUM",
+   "topic_key": "cg.tunisie-institutions",
+   "objective_key": "cg.tunisie-institutions.o1",
+   "families": [
+    "*"
+   ],
+   "origin": "AI_GENERATED",
+   "source_key": null,
+   "year": null,
+   "valid_until": null,
+   "tags": [
+    "constitution-2022",
+    "president",
+    "needs_verification"
+   ]
+  },
+  {
+   "id": "cg-institutions-civisme-0005",
+   "type": "TRUE_FALSE",
+   "language": "ar",
+   "stem": "يتحدث دستور 2022 عن «الوظيفة التشريعية» و«الوظيفة التنفيذية» و«الوظيفة القضائية» بدل عبارة «السلطة» التي اعتمدها دستور 2014.",
+   "options": [
+    {
+     "id": "a",
+     "text": "صحيح"
+    },
+    {
+     "id": "b",
+     "text": "خطأ"
+    }
+   ],
+   "correct": [
+    "a"
+   ],
+   "explanation": "صحيح. اعتمد دستور 2022 مصطلح «الوظيفة» للحديث عن التشريع والتنفيذ والقضاء، في حين كان دستور 2014 يتحدث عن «السلطة التشريعية» و«السلطة التنفيذية» و«السلطة القضائية». ويُعدّ هذا الفرق في المصطلحات من الأسئلة المتكررة في اختبارات الثقافة العامة.",
+   "difficulty": "MEDIUM",
+   "topic_key": "cg.tunisie-institutions",
+   "objective_key": "cg.tunisie-institutions.o1",
+   "families": [
+    "*"
+   ],
+   "origin": "AI_GENERATED",
+   "source_key": null,
+   "year": null,
+   "valid_until": null,
+   "tags": [
+    "constitution-2022",
+    "needs_verification"
+   ]
+  },
+  {
+   "id": "cg-institutions-civisme-0006",
+   "type": "MCQ_MULTI",
+   "language": "ar",
+   "stem": "حسب دستور 2022، أيّ من الصلاحيات التالية يتولاها رئيس الجمهورية؟ (اختر كل الإجابات الصحيحة)",
+   "options": [
+    {
+     "id": "a",
+     "text": "تعيين رئيس الحكومة"
+    },
+    {
+     "id": "b",
+     "text": "القيادة العليا للقوات المسلحة"
+    },
+    {
+     "id": "c",
+     "text": "ضبط السياسة العامة للدولة"
+    },
+    {
+     "id": "d",
+     "text": "مراقبة دستورية القوانين"
+    }
+   ],
+   "correct": [
+    "a",
+    "b",
+    "c"
+   ],
+   "explanation": "يمارس رئيس الجمهورية الوظيفة التنفيذية بمساعدة حكومة يرأسها رئيس حكومة يعيّنه هو، ويضبط السياسة العامة للدولة، وهو القائد الأعلى للقوات المسلحة. أما مراقبة دستورية القوانين فهي من اختصاص المحكمة الدستورية، وهي هيئة قضائية مستقلة لا تتبع رئيس الجمهورية.",
+   "difficulty": "MEDIUM",
+   "topic_key": "cg.tunisie-institutions",
+   "objective_key": "cg.tunisie-institutions.o1",
+   "families": [
+    "*"
+   ],
+   "origin": "AI_GENERATED",
+   "source_key": null,
+   "year": null,
+   "valid_until": null,
+   "tags": [
+    "constitution-2022",
+    "president",
+    "needs_verification"
+   ]
+  },
+  {
+   "id": "cg-institutions-civisme-0007",
+   "type": "MCQ_SINGLE",
+   "language": "ar",
+   "stem": "تسمح آلية «سحب الوكالة» المنصوص عليها في دستور 2022 بـ:",
+   "options": [
+    {
+     "id": "a",
+     "text": "سحب الثقة من الحكومة بأغلبية أعضاء مجلس نواب الشعب"
+    },
+    {
+     "id": "b",
+     "text": "حلّ مجلس نواب الشعب من قبل رئيس الجمهورية"
+    },
+    {
+     "id": "c",
+     "text": "إنهاء نيابة عضو مجلس نواب الشعب بمبادرة من الناخبين في دائرته وفق الشروط التي يضبطها القانون الانتخابي"
+    },
+    {
+     "id": "d",
+     "text": "إعفاء الوالي من مهامه بطلب من المجلس الجهوي"
+    }
+   ],
+   "correct": [
+    "c"
+   ],
+   "explanation": "سحب الوكالة آلية تمكّن ناخبي الدائرة من إنهاء نيابة النائب الذي انتخبوه، وفق شروط وإجراءات يضبطها القانون الانتخابي. ولا علاقة لها بمسؤولية الحكومة التي تُثار عبر لائحة اللوم، ولا بحلّ البرلمان، ولا بالولاة الذين يُعيَّنون ولا يُنتخبون.",
+   "difficulty": "MEDIUM",
+   "topic_key": "cg.tunisie-institutions",
+   "objective_key": "cg.tunisie-institutions.o1",
+   "families": [
+    "*"
+   ],
+   "origin": "AI_GENERATED",
+   "source_key": null,
+   "year": null,
+   "valid_until": null,
+   "tags": [
+    "constitution-2022",
+    "pouvoir-legislatif",
+    "needs_verification"
+   ]
+  },
+  {
+   "id": "cg-institutions-civisme-0008",
+   "type": "MCQ_SINGLE",
+   "language": "fr",
+   "stem": "Selon la Constitution de 2022, pour contraindre le Gouvernement à démissionner, une motion de censure doit être adoptée :",
+   "options": [
+    {
+     "id": "a",
+     "text": "à la majorité des deux tiers des membres des deux chambres réunies (ARP et Conseil national des régions et des districts)"
+    },
+    {
+     "id": "b",
+     "text": "à la majorité absolue des membres de l'Assemblée des représentants du peuple"
+    },
+    {
+     "id": "c",
+     "text": "à la majorité des trois cinquièmes des membres du Conseil national des régions et des districts"
+    },
+    {
+     "id": "d",
+     "text": "à la majorité simple des députés présents"
+    }
+   ],
+   "correct": [
+    "a"
+   ],
+   "explanation": "La Constitution de 2022 confie la motion de censure à l'ARP et au Conseil national des régions et des districts réunis, et exige une majorité renforcée des deux tiers de leurs membres. La majorité absolue des seuls députés correspond à la logique de la Constitution de 2014, où le Gouvernement était responsable devant l'ARP ; en 2022, il est d'abord responsable devant le Président de la République.",
+   "difficulty": "HARD",
+   "topic_key": "cg.tunisie-institutions",
+   "objective_key": "cg.tunisie-institutions.o1",
+   "families": [
+    "*"
+   ],
+   "origin": "AI_GENERATED",
+   "source_key": null,
+   "year": null,
+   "valid_until": null,
+   "tags": [
+    "constitution-2022",
+    "gouvernement",
+    "needs_verification"
+   ]
+  },
+  {
+   "id": "cg-institutions-civisme-0009",
+   "type": "MCQ_SINGLE",
+   "language": "fr",
+   "stem": "D'après la Constitution de 2022, la Cour constitutionnelle est composée de :",
+   "options": [
+    {
+     "id": "a",
+     "text": "douze membres : quatre désignés par le Président, quatre élus par l'ARP et quatre désignés par le Conseil supérieur de la magistrature"
+    },
+    {
+     "id": "b",
+     "text": "sept membres, dont le président de l'Instance supérieure indépendante pour les élections"
+    },
+    {
+     "id": "c",
+     "text": "neuf membres élus par les deux chambres réunies parmi les professeurs de droit"
+    },
+    {
+     "id": "d",
+     "text": "neuf membres nommés par décret, choisis parmi les magistrats les plus anciens de la Cour de cassation, du Tribunal administratif et de la Cour des comptes (trois par juridiction)"
+    }
+   ],
+   "correct": [
+    "d"
+   ],
+   "explanation": "La Constitution de 2022 prévoit une Cour constitutionnelle de neuf membres, tous magistrats, nommés par décret : les trois plus anciens présidents de chambre de la Cour de cassation, les trois plus anciens présidents de chambre (de cassation ou consultative) du Tribunal administratif et les trois plus anciens membres de la Cour des comptes. La composition à douze membres est celle de la Cour prévue par la Constitution de 2014 (douze membres répartis entre le Président, l'ARP et le CSM), qui n'a jamais été installée.",
+   "difficulty": "HARD",
+   "topic_key": "cg.tunisie-institutions",
+   "objective_key": "cg.tunisie-institutions.o1",
+   "families": [
+    "*"
+   ],
+   "origin": "AI_GENERATED",
+   "source_key": null,
+   "year": null,
+   "valid_until": null,
+   "tags": [
+    "constitution-2022",
+    "cour-constitutionnelle",
+    "needs_verification"
+   ]
+  },
+  {
+   "id": "cg-institutions-civisme-0010",
+   "type": "MCQ_SINGLE",
+   "language": "ar",
+   "stem": "من بين الهيئات الدستورية المستقلة التي نصّ عليها دستور 2014، احتفظ دستور 2022 بـ:",
+   "options": [
+    {
+     "id": "a",
+     "text": "هيئة الاتصال السمعي البصري"
+    },
+    {
+     "id": "b",
+     "text": "الهيئة العليا المستقلة للانتخابات"
+    },
+    {
+     "id": "c",
+     "text": "هيئة الحوكمة الرشيدة ومكافحة الفساد"
+    },
+    {
+     "id": "d",
+     "text": "هيئة حقوق الإنسان"
+    }
+   ],
+   "correct": [
+    "b"
+   ],
+   "explanation": "خصّص دستور 2014 بابًا لخمس هيئات دستورية مستقلة (الانتخابات، الاتصال السمعي البصري، حقوق الإنسان، التنمية المستدامة وحقوق الأجيال القادمة، الحوكمة الرشيدة ومكافحة الفساد). أما دستور 2022 فلم يحتفظ من بينها إلا بالهيئة العليا المستقلة للانتخابات التي تتولى إدارة الانتخابات والاستفتاءات وتنظيمها والإشراف عليها، ولم تعد الهيئات الأخرى مكرّسة في نص الدستور.",
+   "difficulty": "HARD",
+   "topic_key": "cg.tunisie-institutions",
+   "objective_key": "cg.tunisie-institutions.o1",
+   "families": [
+    "*"
+   ],
+   "origin": "AI_GENERATED",
+   "source_key": null,
+   "year": null,
+   "valid_until": null,
+   "tags": [
+    "constitution-2022",
+    "isie",
+    "needs_verification"
+   ]
+  },
+  {
+   "id": "cg-institutions-civisme-0011",
+   "type": "NUMERIC",
+   "language": "fr",
+   "stem": "Le 25 juillet 2021, le Président de la République a annoncé des mesures exceptionnelles (dont le gel des activités de l'ARP) en se fondant sur l'article de la Constitution de 2014 relatif au péril imminent. Indiquez le numéro de cet article.",
+   "options": [],
+   "correct": {
+    "value": 80,
+    "tolerance": 0
+   },
+   "explanation": "Il s'agit de l'article 80 de la Constitution de 2014, qui permettait au Président, en cas de péril imminent menaçant l'intégrité nationale, la sécurité ou l'indépendance du pays, de prendre les mesures exigées par cette situation exceptionnelle. Ces mesures ont été suivies du décret présidentiel n° 2021-117 du 22 septembre 2021, puis du référendum constitutionnel du 25 juillet 2022. Ne pas confondre avec le 25 juillet 1957, date de la proclamation de la République.",
+   "difficulty": "EXPERT",
+   "topic_key": "cg.tunisie-institutions",
+   "objective_key": "cg.tunisie-institutions.o1",
+   "families": [
+    "*"
+   ],
+   "origin": "AI_GENERATED",
+   "source_key": null,
+   "year": null,
+   "valid_until": null,
+   "tags": [
+    "constitution-2014",
+    "transition-2021-2022"
+   ]
+  },
+  {
+   "id": "cg-institutions-civisme-0012",
+   "type": "MATCHING",
+   "language": "ar",
+   "stem": "اربط كل هيكل بالمهمة الأساسية الموكولة إليه.",
+   "options": [
+    {
+     "id": "l1",
+     "text": "محكمة التعقيب",
+     "side": "left"
+    },
+    {
+     "id": "l2",
+     "text": "المحكمة الإدارية",
+     "side": "left"
+    },
+    {
+     "id": "l3",
+     "text": "محكمة المحاسبات",
+     "side": "left"
+    },
+    {
+     "id": "l4",
+     "text": "الهيئة العليا المستقلة للانتخابات",
+     "side": "left"
+    },
+    {
+     "id": "r1",
+     "text": "إدارة الانتخابات والاستفتاءات وتنظيمها والإشراف عليها",
+     "side": "right"
+    },
+    {
+     "id": "r2",
+     "text": "أعلى درجة في القضاء العدلي",
+     "side": "right"
+    },
+    {
+     "id": "r3",
+     "text": "النظر في النزاعات الإدارية ودعاوى تجاوز السلطة",
+     "side": "right"
+    },
+    {
+     "id": "r4",
+     "text": "الرقابة على التصرف في المال العام",
+     "side": "right"
+    }
+   ],
+   "correct": {
+    "pairs": [
+     [
+      "l1",
+      "r2"
+     ],
+     [
+      "l2",
+      "r3"
+     ],
+     [
+      "l3",
+      "r4"
+     ],
+     [
+      "l4",
+      "r1"
+     ]
+    ]
+   },
+   "explanation": "ينقسم القضاء في تونس إلى ثلاثة أصناف: عدلي على رأسه محكمة التعقيب، وإداري تمثله المحكمة الإدارية التي تنظر في دعاوى تجاوز السلطة ضد قرارات الإدارة، ومالي تمثله محكمة المحاسبات المكلفة بمراقبة التصرف في المال العام. أما الهيئة العليا المستقلة للانتخابات فليست محكمة، بل هيئة تتولى إدارة الانتخابات والاستفتاءات.",
+   "difficulty": "MEDIUM",
+   "topic_key": "cg.tunisie-institutions",
+   "objective_key": "cg.tunisie-institutions.o1",
+   "families": [
+    "*"
+   ],
+   "origin": "AI_GENERATED",
+   "source_key": null,
+   "year": null,
+   "valid_until": null,
+   "tags": [
+    "institutions",
+    "justice"
+   ]
+  },
+  {
+   "id": "cg-institutions-civisme-0013",
+   "type": "NUMERIC",
+   "language": "ar",
+   "stem": "كم يبلغ عدد ولايات الجمهورية التونسية؟",
+   "options": [],
+   "correct": {
+    "value": 24,
+    "tolerance": 0
+   },
+   "explanation": "تنقسم البلاد التونسية إداريًا إلى 24 ولاية يسيّر كلًّا منها والٍ يمثّل الدولة في الجهة، وآخر ولاية أُحدثت هي ولاية منوبة سنة 2000 باقتطاعها من ولاية أريانة. ولا ينبغي الخلط بين عدد الولايات (24) وعدد الأقاليم (5) التي أُحدثت سنة 2023.",
+   "difficulty": "EASY",
+   "topic_key": "cg.tunisie-institutions",
+   "objective_key": "cg.tunisie-institutions.o2",
+   "families": [
+    "*"
+   ],
+   "origin": "AI_GENERATED",
+   "source_key": null,
+   "year": null,
+   "valid_until": null,
+   "tags": [
+    "organisation-administrative",
+    "gouvernorats"
+   ]
+  },
+  {
+   "id": "cg-institutions-civisme-0014",
+   "type": "MCQ_SINGLE",
+   "language": "ar",
+   "stem": "ممثل الدولة في الولاية والمسؤول الأول عن الإدارة الجهوية هو:",
+   "options": [
+    {
+     "id": "a",
+     "text": "رئيس المجلس الجهوي"
+    },
+    {
+     "id": "b",
+     "text": "المعتمد"
+    },
+    {
+     "id": "c",
+     "text": "الوالي"
+    },
+    {
+     "id": "d",
+     "text": "الكاتب العام للولاية"
+    }
+   ],
+   "correct": [
+    "c"
+   ],
+   "explanation": "الوالي هو ممثل الدولة في الولاية، يُعيَّن بأمر رئاسي ويسهر على تنفيذ السياسة العامة للدولة في الجهة وعلى حفظ النظام العام. أما المعتمد فيمثّل الإدارة في المعتمدية تحت إشراف الوالي، والكاتب العام للولاية يساعد الوالي في تسيير المصالح الإدارية، ورئيس المجلس الجهوي يرأس هيكلًا منتخبًا وليس ممثلًا معيَّنًا للدولة.",
+   "difficulty": "EASY",
+   "topic_key": "cg.tunisie-institutions",
+   "objective_key": "cg.tunisie-institutions.o2",
+   "families": [
+    "*"
+   ],
+   "origin": "AI_GENERATED",
+   "source_key": null,
+   "year": null,
+   "valid_until": null,
+   "tags": [
+    "organisation-administrative",
+    "deconcentration"
+   ]
+  },
+  {
+   "id": "cg-institutions-civisme-0015",
+   "type": "TRUE_FALSE",
+   "language": "ar",
+   "stem": "العمادة هي أصغر وحدة ترابية في التقسيم الإداري التونسي، ويشرف عليها العمدة.",
+   "options": [
+    {
+     "id": "a",
+     "text": "صحيح"
+    },
+    {
+     "id": "b",
+     "text": "خطأ"
+    }
+   ],
+   "correct": [
+    "a"
+   ],
+   "explanation": "صحيح. يتدرّج التقسيم الإداري من الولاية إلى المعتمدية ثم إلى العمادة التي تمثّل أصغر وحدة ترابية، ويتولاها العمدة الذي يمثّل الإدارة لدى المواطنين في الحي أو القرية. ولا ينبغي الخلط بين العمادة والبلدية، فهذه الأخيرة جماعة محلية تتمتع بالشخصية القانونية.",
+   "difficulty": "EASY",
+   "topic_key": "cg.tunisie-institutions",
+   "objective_key": "cg.tunisie-institutions.o2",
+   "families": [
+    "*"
+   ],
+   "origin": "AI_GENERATED",
+   "source_key": null,
+   "year": null,
+   "valid_until": null,
+   "tags": [
+    "organisation-administrative"
+   ]
+  },
+  {
+   "id": "cg-institutions-civisme-0016",
+   "type": "ORDERING",
+   "language": "ar",
+   "stem": "رتّب الوحدات الترابية التالية من الأوسع إلى الأضيق:",
+   "options": [
+    {
+     "id": "a",
+     "text": "المعتمدية"
+    },
+    {
+     "id": "b",
+     "text": "الإقليم"
+    },
+    {
+     "id": "c",
+     "text": "العمادة"
+    },
+    {
+     "id": "d",
+     "text": "الولاية"
+    }
+   ],
+   "correct": {
+    "order": [
+     "b",
+     "d",
+     "a",
+     "c"
+    ]
+   },
+   "explanation": "الإقليم، الذي أُحدث في إطار التنظيم الترابي الجديد سنة 2023، يجمع عدة ولايات، والولاية تتكوّن من عدة معتمديات، والمعتمدية تنقسم بدورها إلى عمادات. لذلك يكون الترتيب: الإقليم ثم الولاية ثم المعتمدية ثم العمادة. والخطأ الشائع هو اعتبار الإقليم جزءًا من الولاية، بينما هو أوسع منها.",
+   "difficulty": "MEDIUM",
+   "topic_key": "cg.tunisie-institutions",
+   "objective_key": "cg.tunisie-institutions.o2",
+   "families": [
+    "*"
+   ],
+   "origin": "AI_GENERATED",
+   "source_key": null,
+   "year": null,
+   "valid_until": null,
+   "tags": [
+    "organisation-administrative",
+    "districts"
+   ]
+  },
+  {
+   "id": "cg-institutions-civisme-0017",
+   "type": "MCQ_MULTI",
+   "language": "fr",
+   "stem": "Parmi les autorités suivantes, lesquelles relèvent de l'administration déconcentrée, c'est-à-dire d'agents nommés représentant l'État ? (plusieurs réponses)",
+   "options": [
+    {
+     "id": "a",
+     "text": "le gouverneur (والي)"
+    },
+    {
+     "id": "b",
+     "text": "le délégué (معتمد)"
+    },
+    {
+     "id": "c",
+     "text": "l'omda (عمدة)"
+    },
+    {
+     "id": "d",
+     "text": "le conseil local élu (المجلس المحلي)"
+    }
+   ],
+   "correct": [
+    "a",
+    "b",
+    "c"
+   ],
+   "explanation": "La déconcentration consiste pour l'État à confier des pouvoirs de décision à ses propres agents, nommés dans les circonscriptions territoriales : c'est le cas du gouverneur, du délégué et de l'omda. Le conseil local, élu par les citoyens, n'est pas un agent nommé de l'État : il relève de la logique élective propre à la décentralisation.",
+   "difficulty": "MEDIUM",
+   "topic_key": "cg.tunisie-institutions",
+   "objective_key": "cg.tunisie-institutions.o2",
+   "families": [
+    "*"
+   ],
+   "origin": "AI_GENERATED",
+   "source_key": null,
+   "year": null,
+   "valid_until": null,
+   "tags": [
+    "organisation-administrative",
+    "deconcentration"
+   ]
+  },
+  {
+   "id": "cg-institutions-civisme-0018",
+   "type": "MCQ_SINGLE",
+   "language": "ar",
+   "stem": "صدرت مجلة الجماعات المحلية بمقتضى:",
+   "options": [
+    {
+     "id": "a",
+     "text": "القانون الأساسي عدد 63 لسنة 2004 المؤرخ في 27 جويلية 2004"
+    },
+    {
+     "id": "b",
+     "text": "القانون عدد 112 لسنة 1983 المؤرخ في 12 ديسمبر 1983"
+    },
+    {
+     "id": "c",
+     "text": "القانون الأساسي عدد 22 لسنة 2016 المؤرخ في 24 مارس 2016"
+    },
+    {
+     "id": "d",
+     "text": "القانون الأساسي عدد 29 لسنة 2018 المؤرخ في 9 ماي 2018"
+    }
+   ],
+   "correct": [
+    "d"
+   ],
+   "explanation": "صدرت مجلة الجماعات المحلية بمقتضى القانون الأساسي عدد 29 لسنة 2018 المؤرخ في 9 ماي 2018، وهي تنظم البلديات والجهات وصلاحياتها وعلاقتها بالسلطة المركزية. أما القانون عدد 112 لسنة 1983 فهو النظام الأساسي العام لأعوان الوظيفة العمومية، والقانون الأساسي عدد 22 لسنة 2016 يتعلق بالحق في النفاذ إلى المعلومة، والقانون الأساسي عدد 63 لسنة 2004 يتعلق بحماية المعطيات الشخصية.",
+   "difficulty": "MEDIUM",
+   "topic_key": "cg.tunisie-institutions",
+   "objective_key": "cg.tunisie-institutions.o2",
+   "families": [
+    "*"
+   ],
+   "origin": "AI_GENERATED",
+   "source_key": null,
+   "year": null,
+   "valid_until": null,
+   "tags": [
+    "collectivites-locales",
+    "textes-juridiques",
+    "needs_verification"
+   ]
+  },
+  {
+   "id": "cg-institutions-civisme-0019",
+   "type": "MCQ_SINGLE",
+   "language": "ar",
+   "stem": "أُجريت الدورة الأولى لانتخابات أعضاء المجالس المحلية، التي ينبثق عنها المجلس الوطني للجهات والأقاليم، يوم:",
+   "options": [
+    {
+     "id": "a",
+     "text": "6 ماي 2018"
+    },
+    {
+     "id": "b",
+     "text": "17 ديسمبر 2022"
+    },
+    {
+     "id": "c",
+     "text": "24 ديسمبر 2023"
+    },
+    {
+     "id": "d",
+     "text": "6 أكتوبر 2024"
+    }
+   ],
+   "correct": [
+    "c"
+   ],
+   "explanation": "جرت الدورة الأولى لانتخابات المجالس المحلية يوم 24 ديسمبر 2023 والدورة الثانية يوم 4 فيفري 2024، ومن أعضاء هذه المجالس تتكوّن المجالس الجهوية ومجالس الأقاليم ثم المجلس الوطني للجهات والأقاليم. أما 6 ماي 2018 فتاريخ الانتخابات البلدية، و17 ديسمبر 2022 تاريخ الدورة الأولى للانتخابات التشريعية، و6 أكتوبر 2024 تاريخ الانتخابات الرئاسية.",
+   "difficulty": "MEDIUM",
+   "topic_key": "cg.tunisie-institutions",
+   "objective_key": "cg.tunisie-institutions.o2",
+   "families": [
+    "*"
+   ],
+   "origin": "AI_GENERATED",
+   "source_key": null,
+   "year": null,
+   "valid_until": null,
+   "tags": [
+    "collectivites-locales",
+    "elections",
+    "dates"
+   ]
+  },
+  {
+   "id": "cg-institutions-civisme-0020",
+   "type": "MCQ_SINGLE",
+   "language": "ar",
+   "stem": "ما الإجراء الذي اتُّخذ في مارس 2023 بخصوص المجالس البلدية المنتخبة سنة 2018؟",
+   "options": [
+    {
+     "id": "a",
+     "text": "تمديد مدة نيابتها إلى غاية سنة 2028"
+    },
+    {
+     "id": "b",
+     "text": "تنظيم انتخابات جزئية في جميع البلديات"
+    },
+    {
+     "id": "c",
+     "text": "تحويلها إلى مجالس جهوية"
+    },
+    {
+     "id": "d",
+     "text": "حلّها بمقتضى مرسوم قبل انتهاء مدة نيابتها"
+    }
+   ],
+   "correct": [
+    "d"
+   ],
+   "explanation": "في مارس 2023 صدر مرسوم يقضي بحلّ المجالس البلدية المنتخبة في ماي 2018 قبل انتهاء مدة نيابتها، وأُوكل تسيير البلديات بصفة وقتية إلى الكتّاب العامين للبلديات تحت إشراف الولاة. ولم تُحوَّل هذه المجالس إلى مجالس جهوية، إذ تتكوّن المجالس الجهوية من أعضاء المجالس المحلية المنتخبة سنتي 2023 و2024.",
+   "difficulty": "HARD",
+   "topic_key": "cg.tunisie-institutions",
+   "objective_key": "cg.tunisie-institutions.o2",
+   "families": [
+    "*"
+   ],
+   "origin": "AI_GENERATED",
+   "source_key": null,
+   "year": null,
+   "valid_until": null,
+   "tags": [
+    "collectivites-locales",
+    "communes",
+    "needs_verification"
+   ]
+  },
+  {
+   "id": "cg-institutions-civisme-0021",
+   "type": "MCQ_SINGLE",
+   "language": "fr",
+   "stem": "Dans le cadre de la nouvelle organisation territoriale issue de la Constitution de 2022, les gouvernorats ont été regroupés en 2023 en districts (أقاليم). Combien de districts ont été créés ?",
+   "options": [
+    {
+     "id": "a",
+     "text": "3"
+    },
+    {
+     "id": "b",
+     "text": "5"
+    },
+    {
+     "id": "c",
+     "text": "7"
+    },
+    {
+     "id": "d",
+     "text": "24"
+    }
+   ],
+   "correct": [
+    "b"
+   ],
+   "explanation": "Un décret présidentiel de septembre 2023 a réparti les 24 gouvernorats en cinq districts (أقاليم), chacun regroupant plusieurs gouvernorats. Chaque district dispose d'un conseil de district et est représenté au Conseil national des régions et des districts. Le chiffre 24 correspond au nombre de gouvernorats, pas à celui des districts.",
+   "difficulty": "HARD",
+   "topic_key": "cg.tunisie-institutions",
+   "objective_key": "cg.tunisie-institutions.o2",
+   "families": [
+    "*"
+   ],
+   "origin": "AI_GENERATED",
+   "source_key": null,
+   "year": null,
+   "valid_until": null,
+   "tags": [
+    "collectivites-locales",
+    "districts",
+    "needs_verification"
+   ]
+  },
+  {
+   "id": "cg-institutions-civisme-0022",
+   "type": "MCQ_SINGLE",
+   "language": "fr",
+   "stem": "Le contrôle qu'exerce l'État sur les collectivités locales et sur les établissements publics, dans les seuls cas et formes prévus par la loi, s'appelle :",
+   "options": [
+    {
+     "id": "a",
+     "text": "le pouvoir hiérarchique"
+    },
+    {
+     "id": "b",
+     "text": "le contrôle juridictionnel"
+    },
+    {
+     "id": "c",
+     "text": "la tutelle administrative"
+    },
+    {
+     "id": "d",
+     "text": "la délégation de signature"
+    }
+   ],
+   "correct": [
+    "c"
+   ],
+   "explanation": "La tutelle administrative est un contrôle exercé par l'État sur des personnes morales distinctes de lui (collectivités locales, établissements publics) ; elle n'existe que dans les cas prévus par les textes. Le pouvoir hiérarchique, lui, s'exerce à l'intérieur d'une même administration sur des agents subordonnés, auxquels le supérieur peut donner des ordres. Le contrôle juridictionnel est exercé par un juge, et non par l'administration.",
+   "difficulty": "MEDIUM",
+   "topic_key": "cg.tunisie-institutions",
+   "objective_key": "cg.tunisie-institutions.o2",
+   "families": [
+    "*"
+   ],
+   "origin": "AI_GENERATED",
+   "source_key": null,
+   "year": null,
+   "valid_until": null,
+   "tags": [
+    "droit-administratif",
+    "tutelle"
+   ]
+  },
+  {
+   "id": "cg-institutions-civisme-0023",
+   "type": "MCQ_SINGLE",
+   "language": "ar",
+   "stem": "حسب التنظيم الذي أُرسي سنة 2023، كيف يقع اختيار ممثلي المجالس المحلية في المجلس الجهوي؟",
+   "options": [
+    {
+     "id": "a",
+     "text": "بالقرعة من بين أعضاء المجالس المحلية مع التداول الدوري"
+    },
+    {
+     "id": "b",
+     "text": "بالانتخاب العام المباشر من قبل ناخبي الولاية"
+    },
+    {
+     "id": "c",
+     "text": "بالتعيين بأمر رئاسي باقتراح من الوالي"
+    },
+    {
+     "id": "d",
+     "text": "بالتزكية من قبل المجلس الوطني للجهات والأقاليم"
+    }
+   ],
+   "correct": [
+    "a"
+   ],
+   "explanation": "يتكوّن المجلس الجهوي من ممثلين عن المجالس المحلية للولاية يقع اختيارهم بالقرعة من بين أعضائها مع مبدأ التداول الدوري، وفق المرسوم المنظم لانتخاب المجالس المحلية وتركيبة المجالس الجهوية ومجالس الأقاليم. فأعضاء المجلس الجهوي لا يُنتخبون مباشرة من الناخبين ولا يُعيَّنون من السلطة التنفيذية، والمجلس الوطني للجهات والأقاليم ينبثق عن المجالس الجهوية ومجالس الأقاليم وليس العكس.",
+   "difficulty": "EXPERT",
+   "topic_key": "cg.tunisie-institutions",
+   "objective_key": "cg.tunisie-institutions.o2",
+   "families": [
+    "*"
+   ],
+   "origin": "AI_GENERATED",
+   "source_key": null,
+   "year": null,
+   "valid_until": null,
+   "tags": [
+    "collectivites-locales",
+    "conseils-regionaux",
+    "needs_verification"
+   ]
+  },
+  {
+   "id": "cg-institutions-civisme-0024",
+   "type": "MCQ_SINGLE",
+   "language": "fr",
+   "stem": "La Déclaration universelle des droits de l'homme a été adoptée par l'Assemblée générale des Nations unies le :",
+   "options": [
+    {
+     "id": "a",
+     "text": "26 juin 1945"
+    },
+    {
+     "id": "b",
+     "text": "10 décembre 1948"
+    },
+    {
+     "id": "c",
+     "text": "16 décembre 1966"
+    },
+    {
+     "id": "d",
+     "text": "20 novembre 1989"
+    }
+   ],
+   "correct": [
+    "b"
+   ],
+   "explanation": "La DUDH a été adoptée à Paris le 10 décembre 1948, date célébrée chaque année comme Journée des droits de l'homme. Le 26 juin 1945 correspond à la signature de la Charte des Nations unies, le 16 décembre 1966 à l'adoption des deux Pactes internationaux et le 20 novembre 1989 à la Convention relative aux droits de l'enfant.",
+   "difficulty": "EASY",
+   "topic_key": "cg.civisme-fonction-publique",
+   "objective_key": "cg.civisme-fonction-publique.o1",
+   "families": [
+    "*"
+   ],
+   "origin": "AI_GENERATED",
+   "source_key": null,
+   "year": null,
+   "valid_until": null,
+   "tags": [
+    "droits-de-l-homme",
+    "dates"
+   ]
+  },
+  {
+   "id": "cg-institutions-civisme-0025",
+   "type": "TRUE_FALSE",
+   "language": "ar",
+   "stem": "السن الدنيا المطلوبة لممارسة حق الاقتراع في الانتخابات التونسية هي 20 سنة كاملة.",
+   "options": [
+    {
+     "id": "a",
+     "text": "صحيح"
+    },
+    {
+     "id": "b",
+     "text": "خطأ"
+    }
+   ],
+   "correct": [
+    "b"
+   ],
+   "explanation": "خطأ. يحق الاقتراع لكل تونسي أو تونسية بلغ 18 سنة كاملة، متمتع بحقوقه المدنية والسياسية وغير مشمول بأي صورة من صور الحرمان التي يضبطها القانون الانتخابي. ويتولى الناخب التسجيل في السجل الانتخابي الذي تمسكه الهيئة العليا المستقلة للانتخابات.",
+   "difficulty": "EASY",
+   "topic_key": "cg.civisme-fonction-publique",
+   "objective_key": "cg.civisme-fonction-publique.o1",
+   "families": [
+    "*"
+   ],
+   "origin": "AI_GENERATED",
+   "source_key": null,
+   "year": null,
+   "valid_until": null,
+   "tags": [
+    "citoyennete",
+    "elections"
+   ]
+  },
+  {
+   "id": "cg-institutions-civisme-0026",
+   "type": "MCQ_SINGLE",
+   "language": "ar",
+   "stem": "صدرت مجلة الأحوال الشخصية التي منعت تعدد الزوجات وجعلت الطلاق لا يقع إلا لدى المحكمة يوم:",
+   "options": [
+    {
+     "id": "a",
+     "text": "13 أوت 1956"
+    },
+    {
+     "id": "b",
+     "text": "20 مارس 1956"
+    },
+    {
+     "id": "c",
+     "text": "25 جويلية 1957"
+    },
+    {
+     "id": "d",
+     "text": "1 جوان 1959"
+    }
+   ],
+   "correct": [
+    "a"
+   ],
+   "explanation": "صدرت مجلة الأحوال الشخصية يوم 13 أوت 1956، أي بعد أشهر قليلة من الاستقلال، ويُحتفل بهذا التاريخ عيدًا وطنيًا للمرأة. أما 20 مارس 1956 فهو تاريخ الاستقلال، و25 جويلية 1957 تاريخ إعلان الجمهورية، و1 جوان 1959 تاريخ ختم أول دستور للجمهورية.",
+   "difficulty": "EASY",
+   "topic_key": "cg.civisme-fonction-publique",
+   "objective_key": "cg.civisme-fonction-publique.o1",
+   "families": [
+    "*"
+   ],
+   "origin": "AI_GENERATED",
+   "source_key": null,
+   "year": null,
+   "valid_until": null,
+   "tags": [
+    "droits-des-femmes",
+    "dates"
+   ]
+  },
+  {
+   "id": "cg-institutions-civisme-0027",
+   "type": "MCQ_SINGLE",
+   "language": "ar",
+   "stem": "المبدأ الذي يقضي بأن «المتهم بريء إلى أن تثبت إدانته في محاكمة عادلة» يُعرف بـ:",
+   "options": [
+    {
+     "id": "a",
+     "text": "مبدأ شرعية الجرائم والعقوبات"
+    },
+    {
+     "id": "b",
+     "text": "مبدأ التقاضي على درجتين"
+    },
+    {
+     "id": "c",
+     "text": "مبدأ عدم رجعية القوانين"
+    },
+    {
+     "id": "d",
+     "text": "قرينة البراءة"
+    }
+   ],
+   "correct": [
+    "d"
+   ],
+   "explanation": "قرينة البراءة تعني أن كل متهم يُعتبر بريئًا ما لم تثبت إدانته بحكم صادر عن محكمة في إطار محاكمة تُكفل فيها ضمانات الدفاع، وهو مبدأ يكرّسه الدستور التونسي والمواثيق الدولية. أما مبدأ شرعية الجرائم والعقوبات فيعني أنه لا جريمة ولا عقوبة إلا بنص قانوني سابق الوضع، وهو مبدأ مختلف وإن كان مكمّلًا له.",
+   "difficulty": "EASY",
+   "topic_key": "cg.civisme-fonction-publique",
+   "objective_key": "cg.civisme-fonction-publique.o1",
+   "families": [
+    "*"
+   ],
+   "origin": "AI_GENERATED",
+   "source_key": null,
+   "year": null,
+   "valid_until": null,
+   "tags": [
+    "droits-et-libertes",
+    "justice"
+   ]
+  },
+  {
+   "id": "cg-institutions-civisme-0028",
+   "type": "MCQ_SINGLE",
+   "language": "ar",
+   "stem": "حُدّدت سن الرشد المدني في تونس، منذ توحيدها بقانون صدر سنة 2010، بـ:",
+   "options": [
+    {
+     "id": "a",
+     "text": "18 سنة كاملة"
+    },
+    {
+     "id": "b",
+     "text": "20 سنة كاملة"
+    },
+    {
+     "id": "c",
+     "text": "21 سنة كاملة"
+    },
+    {
+     "id": "d",
+     "text": "16 سنة كاملة"
+    }
+   ],
+   "correct": [
+    "a"
+   ],
+   "explanation": "وحّد قانون سنة 2010 سن الرشد المدني وحدّدها بثماني عشرة سنة كاملة للذكور والإناث، بعد أن كانت عشرين سنة. ويصبح الشخص الرشيد أهلًا لإبرام التصرفات القانونية بنفسه. ولا ينبغي الخلط بين سن الرشد المدني وسن الترشح للمناصب السياسية التي يحددها الدستور والقانون الانتخابي.",
+   "difficulty": "MEDIUM",
+   "topic_key": "cg.civisme-fonction-publique",
+   "objective_key": "cg.civisme-fonction-publique.o1",
+   "families": [
+    "*"
+   ],
+   "origin": "AI_GENERATED",
+   "source_key": null,
+   "year": null,
+   "valid_until": null,
+   "tags": [
+    "citoyennete",
+    "needs_verification"
+   ]
+  },
+  {
+   "id": "cg-institutions-civisme-0029",
+   "type": "MCQ_MULTI",
+   "language": "ar",
+   "stem": "أيّ مما يلي يُعدّ من واجبات المواطن؟ (اختر كل الإجابات الصحيحة)",
+   "options": [
+    {
+     "id": "a",
+     "text": "أداء الضريبة والمساهمة في التكاليف العامة"
+    },
+    {
+     "id": "b",
+     "text": "أداء الخدمة الوطنية وفق الشروط التي يضبطها القانون"
+    },
+    {
+     "id": "c",
+     "text": "احترام القانون والمحافظة على الملك العمومي"
+    },
+    {
+     "id": "d",
+     "text": "الانخراط في حزب سياسي"
+    }
+   ],
+   "correct": [
+    "a",
+    "b",
+    "c"
+   ],
+   "explanation": "أداء الضريبة والخدمة الوطنية واحترام القانون والمحافظة على الممتلكات العمومية من الواجبات الأساسية للمواطن التي تكرّسها النصوص الدستورية والقانونية. أما الانخراط في حزب سياسي فهو حرية يمارسها المواطن باختياره (حرية تكوين الأحزاب والانضمام إليها)، وليس واجبًا مفروضًا عليه.",
+   "difficulty": "MEDIUM",
+   "topic_key": "cg.civisme-fonction-publique",
+   "objective_key": "cg.civisme-fonction-publique.o1",
+   "families": [
+    "*"
+   ],
+   "origin": "AI_GENERATED",
+   "source_key": null,
+   "year": null,
+   "valid_until": null,
+   "tags": [
+    "citoyennete",
+    "devoirs"
+   ]
+  },
+  {
+   "id": "cg-institutions-civisme-0030",
+   "type": "MATCHING",
+   "language": "fr",
+   "stem": "Associez chaque loi tunisienne à son objet.",
+   "options": [
+    {
+     "id": "l1",
+     "text": "Loi organique n° 2004-63 du 27 juillet 2004",
+     "side": "left"
+    },
+    {
+     "id": "l2",
+     "text": "Loi organique n° 2016-22 du 24 mars 2016",
+     "side": "left"
+    },
+    {
+     "id": "l3",
+     "text": "Loi organique n° 2017-58 du 11 août 2017",
+     "side": "left"
+    },
+    {
+     "id": "l4",
+     "text": "Loi organique n° 2018-50 du 23 octobre 2018",
+     "side": "left"
+    },
+    {
+     "id": "r1",
+     "text": "Élimination de la violence à l'égard des femmes",
+     "side": "right"
+    },
+    {
+     "id": "r2",
+     "text": "Protection des données à caractère personnel",
+     "side": "right"
+    },
+    {
+     "id": "r3",
+     "text": "Élimination de toutes les formes de discrimination raciale",
+     "side": "right"
+    },
+    {
+     "id": "r4",
+     "text": "Droit d'accès à l'information",
+     "side": "right"
+    }
+   ],
+   "correct": {
+    "pairs": [
+     [
+      "l1",
+      "r2"
+     ],
+     [
+      "l2",
+      "r4"
+     ],
+     [
+      "l3",
+      "r1"
+     ],
+     [
+      "l4",
+      "r3"
+     ]
+    ]
+   },
+   "explanation": "La loi organique de 2004 protège les données personnelles et a créé l'Instance nationale de protection des données à caractère personnel (INPDP). Celle de 2016 consacre le droit d'accès à l'information détenue par les organismes publics, celle de 2017 vise à éliminer toutes les formes de violence à l'égard des femmes, et celle de 2018 incrimine la discrimination raciale. Retenir l'année de chaque texte évite de confondre ces lois souvent citées ensemble.",
+   "difficulty": "MEDIUM",
+   "topic_key": "cg.civisme-fonction-publique",
+   "objective_key": "cg.civisme-fonction-publique.o1",
+   "families": [
+    "*"
+   ],
+   "origin": "AI_GENERATED",
+   "source_key": null,
+   "year": null,
+   "valid_until": null,
+   "tags": [
+    "droits-et-libertes",
+    "textes-juridiques"
+   ]
+  },
+  {
+   "id": "cg-institutions-civisme-0031",
+   "type": "MCQ_SINGLE",
+   "language": "fr",
+   "stem": "En quelle année Ahmed Bey a-t-il aboli l'esclavage en Tunisie, faisant du pays un précurseur dans le monde arabo-musulman ?",
+   "options": [
+    {
+     "id": "a",
+     "text": "1846"
+    },
+    {
+     "id": "b",
+     "text": "1857"
+    },
+    {
+     "id": "c",
+     "text": "1861"
+    },
+    {
+     "id": "d",
+     "text": "1881"
+    }
+   ],
+   "correct": [
+    "a"
+   ],
+   "explanation": "Ahmed Bey a décrété l'abolition de l'esclavage le 23 janvier 1846, ce qui fait de la Tunisie un pionnier dans la région ; cette date est aujourd'hui commémorée en Tunisie. 1857 correspond au Pacte fondamental (عهد الأمان), 1861 à la Constitution de 1861, considérée comme le premier texte constitutionnel du monde arabe, et 1881 au traité du Bardo instaurant le protectorat français.",
+   "difficulty": "MEDIUM",
+   "topic_key": "cg.civisme-fonction-publique",
+   "objective_key": "cg.civisme-fonction-publique.o1",
+   "families": [
+    "*"
+   ],
+   "origin": "AI_GENERATED",
+   "source_key": null,
+   "year": null,
+   "valid_until": null,
+   "tags": [
+    "droits-de-l-homme",
+    "histoire"
+   ]
+  },
+  {
+   "id": "cg-institutions-civisme-0032",
+   "type": "MCQ_SINGLE",
+   "language": "ar",
+   "stem": "يضمن الدستور التونسي الحق النقابي بما في ذلك حق الإضراب، غير أن هذا الحق لا ينطبق على:",
+   "options": [
+    {
+     "id": "a",
+     "text": "مدرّسي التعليم الثانوي"
+    },
+    {
+     "id": "b",
+     "text": "الجيش الوطني"
+    },
+    {
+     "id": "c",
+     "text": "أعوان الصحة العمومية"
+    },
+    {
+     "id": "d",
+     "text": "أعوان المنشآت العمومية"
+    }
+   ],
+   "correct": [
+    "b"
+   ],
+   "explanation": "يكرّس الدستور الحق النقابي وحق الإضراب، لكنه يستثني منه صراحة الجيش الوطني، كما يستثني قوات الأمن الداخلي والديوانة. أما المدرّسون وأعوان الصحة وأعوان المنشآت العمومية فيتمتعون بحق الإضراب وفق الشروط والإجراءات التي يضبطها القانون، كالإعلام المسبق.",
+   "difficulty": "HARD",
+   "topic_key": "cg.civisme-fonction-publique",
+   "objective_key": "cg.civisme-fonction-publique.o1",
+   "families": [
+    "*"
+   ],
+   "origin": "AI_GENERATED",
+   "source_key": null,
+   "year": null,
+   "valid_until": null,
+   "tags": [
+    "droits-et-libertes",
+    "droit-de-greve",
+    "needs_verification"
+   ]
+  },
+  {
+   "id": "cg-institutions-civisme-0033",
+   "type": "MCQ_MULTI",
+   "language": "fr",
+   "stem": "Parmi les droits suivants, lesquels sont classés parmi les droits de « première génération » (droits civils et politiques) ? (plusieurs réponses)",
+   "options": [
+    {
+     "id": "a",
+     "text": "le droit de vote"
+    },
+    {
+     "id": "b",
+     "text": "la liberté d'expression"
+    },
+    {
+     "id": "c",
+     "text": "le droit à la santé"
+    },
+    {
+     "id": "d",
+     "text": "le droit à un environnement sain"
+    }
+   ],
+   "correct": [
+    "a",
+    "b"
+   ],
+   "explanation": "Les droits de première génération sont les droits civils et politiques (liberté d'expression, de réunion, droit de vote, droit à un procès équitable), consacrés notamment par le Pacte international relatif aux droits civils et politiques de 1966. Le droit à la santé est un droit économique et social (deuxième génération), tandis que le droit à un environnement sain relève des droits dits de solidarité (troisième génération).",
+   "difficulty": "HARD",
+   "topic_key": "cg.civisme-fonction-publique",
+   "objective_key": "cg.civisme-fonction-publique.o1",
+   "families": [
+    "*"
+   ],
+   "origin": "AI_GENERATED",
+   "source_key": null,
+   "year": null,
+   "valid_until": null,
+   "tags": [
+    "droits-de-l-homme"
+   ]
+  },
+  {
+   "id": "cg-institutions-civisme-0034",
+   "type": "MCQ_SINGLE",
+   "language": "ar",
+   "stem": "حسب القانون الأساسي المتعلق بالحق في النفاذ إلى المعلومة (2016)، يتعيّن على الهيكل العمومي الرد على مطلب النفاذ، في الحالات العادية، في أجل أقصاه:",
+   "options": [
+    {
+     "id": "a",
+     "text": "10 أيام"
+    },
+    {
+     "id": "b",
+     "text": "20 يومًا"
+    },
+    {
+     "id": "c",
+     "text": "30 يومًا"
+    },
+    {
+     "id": "d",
+     "text": "60 يومًا"
+    }
+   ],
+   "correct": [
+    "b"
+   ],
+   "explanation": "يُلزم القانون الأساسي عدد 22 لسنة 2016 الهيكل المعني بالرد على مطلب النفاذ في أجل أقصاه عشرون يومًا من تاريخ توصله به، ويُختصر هذا الأجل إلى 48 ساعة إذا كان للمعلومة تأثير على حياة شخص أو حريته. وفي صورة الرفض أو عدم الرد، يمكن لطالب النفاذ أن يطعن في القرار لدى هيئة النفاذ إلى المعلومة.",
+   "difficulty": "EXPERT",
+   "topic_key": "cg.civisme-fonction-publique",
+   "objective_key": "cg.civisme-fonction-publique.o1",
+   "families": [
+    "*"
+   ],
+   "origin": "AI_GENERATED",
+   "source_key": null,
+   "year": null,
+   "valid_until": null,
+   "tags": [
+    "acces-information",
+    "textes-juridiques",
+    "needs_verification"
+   ]
+  },
+  {
+   "id": "cg-institutions-civisme-0035",
+   "type": "MCQ_SINGLE",
+   "language": "ar",
+   "stem": "يضبط القانون عدد 112 لسنة 1983 المؤرخ في 12 ديسمبر 1983:",
+   "options": [
+    {
+     "id": "a",
+     "text": "مجلة الجماعات المحلية"
+    },
+    {
+     "id": "b",
+     "text": "مجلة الشغل المنطبقة على أجراء القطاع الخاص"
+    },
+    {
+     "id": "c",
+     "text": "النظام الأساسي العام لأعوان الدولة والجماعات المحلية والمؤسسات العمومية ذات الصبغة الإدارية"
+    },
+    {
+     "id": "d",
+     "text": "النظام الأساسي العام لأعوان الدواوين والمؤسسات العمومية ذات الصبغة الصناعية والتجارية"
+    }
+   ],
+   "correct": [
+    "c"
+   ],
+   "explanation": "القانون عدد 112 لسنة 1983 هو النظام الأساسي العام للوظيفة العمومية، وينطبق على أعوان الدولة والجماعات المحلية والمؤسسات العمومية ذات الصبغة الإدارية، ويضبط حقوقهم وواجباتهم وانتدابهم وترقيتهم وتأديبهم. أما أعوان الدواوين والمؤسسات العمومية ذات الصبغة الصناعية والتجارية فيخضعون لنظام أساسي عام آخر (القانون عدد 78 لسنة 1985)، وأجراء القطاع الخاص لمجلة الشغل.",
+   "difficulty": "EASY",
+   "topic_key": "cg.civisme-fonction-publique",
+   "objective_key": "cg.civisme-fonction-publique.o2",
+   "families": [
+    "*"
+   ],
+   "origin": "AI_GENERATED",
+   "source_key": null,
+   "year": null,
+   "valid_until": null,
+   "tags": [
+    "fonction-publique",
+    "loi-83-112"
+   ]
+  },
+  {
+   "id": "cg-institutions-civisme-0036",
+   "type": "MCQ_SINGLE",
+   "language": "fr",
+   "stem": "Le principe selon lequel le service public doit fonctionner de manière régulière, sans interruptions injustifiées, est le principe de :",
+   "options": [
+    {
+     "id": "a",
+     "text": "spécialité"
+    },
+    {
+     "id": "b",
+     "text": "gratuité"
+    },
+    {
+     "id": "c",
+     "text": "rentabilité"
+    },
+    {
+     "id": "d",
+     "text": "continuité"
+    }
+   ],
+   "correct": [
+    "d"
+   ],
+   "explanation": "Le principe de continuité impose que le service public fonctionne de façon régulière, car il répond à des besoins permanents de la population ; il justifie par exemple l'encadrement du droit de grève de certains agents. La gratuité n'est pas un principe général : de nombreux services publics donnent lieu à des redevances. Les deux autres grands principes classiques sont l'égalité des usagers et l'adaptabilité (ou mutabilité).",
+   "difficulty": "EASY",
+   "topic_key": "cg.civisme-fonction-publique",
+   "objective_key": "cg.civisme-fonction-publique.o2",
+   "families": [
+    "*"
+   ],
+   "origin": "AI_GENERATED",
+   "source_key": null,
+   "year": null,
+   "valid_until": null,
+   "tags": [
+    "service-public",
+    "principes"
+   ]
+  },
+  {
+   "id": "cg-institutions-civisme-0037",
+   "type": "TRUE_FALSE",
+   "language": "ar",
+   "stem": "ينتهي واجب المحافظة على السر المهني بمجرد انتهاء العون العمومي من ساعات عمله اليومية.",
+   "options": [
+    {
+     "id": "a",
+     "text": "صحيح"
+    },
+    {
+     "id": "b",
+     "text": "خطأ"
+    }
+   ],
+   "correct": [
+    "b"
+   ],
+   "explanation": "خطأ. يلتزم العون العمومي بكتمان السر المهني بخصوص الوقائع والمعلومات والوثائق التي اطّلع عليها بمناسبة ممارسة وظيفته، ولا يسقط هذا الواجب خارج أوقات العمل. ولا يُعفى العون منه إلا في الحالات التي يرخّص فيها القانون أو السلطة المختصة.",
+   "difficulty": "EASY",
+   "topic_key": "cg.civisme-fonction-publique",
+   "objective_key": "cg.civisme-fonction-publique.o2",
+   "families": [
+    "*"
+   ],
+   "origin": "AI_GENERATED",
+   "source_key": null,
+   "year": null,
+   "valid_until": null,
+   "tags": [
+    "fonction-publique",
+    "obligations-agent"
+   ]
+  },
+  {
+   "id": "cg-institutions-civisme-0038",
+   "type": "MCQ_SINGLE",
+   "language": "ar",
+   "stem": "يُعتمد أسلوب المناظرة كطريقة أساسية للانتداب في الوظيفة العمومية، وذلك أساسًا تكريسًا لمبدأ:",
+   "options": [
+    {
+     "id": "a",
+     "text": "التدرّج الإداري (السلّم الإداري)"
+    },
+    {
+     "id": "b",
+     "text": "التقليص من عدد المترشحين"
+    },
+    {
+     "id": "c",
+     "text": "استمرارية المرفق العام"
+    },
+    {
+     "id": "d",
+     "text": "المساواة وتكافؤ الفرص في النفاذ إلى الوظائف العمومية"
+    }
+   ],
+   "correct": [
+    "d"
+   ],
+   "explanation": "تقوم المناظرة على شروط وقواعد معلنة مسبقًا وعلى تقييم موضوعي لكفاءة المترشحين، مما يضمن المساواة وتكافؤ الفرص بين جميع المواطنين الذين تتوفر فيهم الشروط في النفاذ إلى الوظائف العمومية. أما مبدأ الاستمرارية فيتعلق بسير المرفق العام بانتظام، ولا علاقة مباشرة له بطريقة الانتداب.",
+   "difficulty": "EASY",
+   "topic_key": "cg.civisme-fonction-publique",
+   "objective_key": "cg.civisme-fonction-publique.o2",
+   "families": [
+    "*"
+   ],
+   "origin": "AI_GENERATED",
+   "source_key": null,
+   "year": null,
+   "valid_until": null,
+   "tags": [
+    "fonction-publique",
+    "recrutement"
+   ]
+  },
+  {
+   "id": "cg-institutions-civisme-0039",
+   "type": "MCQ_SINGLE",
+   "language": "ar",
+   "stem": "يقتضي مبدأ حياد الإدارة أن يقوم العون العمومي بـ:",
+   "options": [
+    {
+     "id": "a",
+     "text": "عدم الانتماء إلى أي جمعية أو نقابة"
+    },
+    {
+     "id": "b",
+     "text": "الامتناع عن التصويت في الانتخابات"
+    },
+    {
+     "id": "c",
+     "text": "معاملة جميع المتعاملين مع الإدارة على قدم المساواة دون اعتبار لانتماءاتهم أو آرائهم السياسية أو الدينية"
+    },
+    {
+     "id": "d",
+     "text": "تطبيق التعليمات الإدارية دون الرجوع إلى القانون"
+    }
+   ],
+   "correct": [
+    "c"
+   ],
+   "explanation": "الحياد يعني أن تؤدي الإدارة وأعوانها خدماتهم بموضوعية ودون تمييز، فلا يجوز للعون أن يجعل آراءه أو انتماءاته، أو آراء المرتفق ومعتقداته، معيارًا في المعاملة أثناء أداء الوظيفة. ولا يعني الحياد حرمان العون المدني من حقوقه كمواطن، فهو يحتفظ بحقه في الانتخاب وفي الانتماء النقابي في حدود القانون.",
+   "difficulty": "MEDIUM",
+   "topic_key": "cg.civisme-fonction-publique",
+   "objective_key": "cg.civisme-fonction-publique.o2",
+   "families": [
+    "*"
+   ],
+   "origin": "AI_GENERATED",
+   "source_key": null,
+   "year": null,
+   "valid_until": null,
+   "tags": [
+    "service-public",
+    "neutralite"
+   ]
+  },
+  {
+   "id": "cg-institutions-civisme-0040",
+   "type": "MCQ_MULTI",
+   "language": "ar",
+   "stem": "حسب النظام الأساسي العام لأعوان الدولة (القانون عدد 112 لسنة 1983)، أيّ من العقوبات التالية تُصنَّف ضمن العقوبات التأديبية من الدرجة الأولى؟ (اختر كل الإجابات الصحيحة)",
+   "options": [
+    {
+     "id": "a",
+     "text": "الإنذار"
+    },
+    {
+     "id": "b",
+     "text": "التوبيخ"
+    },
+    {
+     "id": "c",
+     "text": "النقلة الوجوبية"
+    },
+    {
+     "id": "d",
+     "text": "العزل"
+    }
+   ],
+   "correct": [
+    "a",
+    "b"
+   ],
+   "explanation": "يميّز القانون عدد 112 لسنة 1983 بين عقوبات من الدرجة الأولى، وهي الإنذار والتوبيخ، وعقوبات من الدرجة الثانية أشدّ، ومنها النقلة الوجوبية والعزل. وتُتخذ عقوبات الدرجة الثانية بعد استشارة مجلس التأديب، مما يوفّر ضمانات أكبر للعون المحال على التأديب.",
+   "difficulty": "MEDIUM",
+   "topic_key": "cg.civisme-fonction-publique",
+   "objective_key": "cg.civisme-fonction-publique.o2",
+   "families": [
+    "*"
+   ],
+   "origin": "AI_GENERATED",
+   "source_key": null,
+   "year": null,
+   "valid_until": null,
+   "tags": [
+    "fonction-publique",
+    "discipline",
+    "loi-83-112",
+    "needs_verification"
+   ]
+  },
+  {
+   "id": "cg-institutions-civisme-0041",
+   "type": "MCQ_SINGLE",
+   "language": "ar",
+   "stem": "عون عمومي عضو في لجنة فتح العروض لصفقة عمومية، تبيّن له أن شركة يملكها شقيقه تقدّمت بعرض. ما السلوك المطابق لأخلاقيات الوظيفة العمومية؟",
+   "options": [
+    {
+     "id": "a",
+     "text": "يُعلم رئيسه أو رئيس اللجنة بوضعية تضارب المصالح ويتنحّى عن دراسة الملف"
+    },
+    {
+     "id": "b",
+     "text": "يواصل المشاركة في أعمال اللجنة مع الحرص على أن يكون موضوعيًا"
+    },
+    {
+     "id": "c",
+     "text": "يقترح على شقيقه سحب عرضه دون إعلام الإدارة"
+    },
+    {
+     "id": "d",
+     "text": "يطلب إلغاء الصفقة برمّتها"
+    }
+   ],
+   "correct": [
+    "a"
+   ],
+   "explanation": "تقتضي قواعد النزاهة أن يصرّح العون بكل وضعية تضارب مصالح، أي كل حالة قد تؤثر فيها مصلحته الشخصية أو مصلحة أقاربه في أداء مهامه بموضوعية، وأن يتنحّى عن الملف. فالمشاركة «مع الحرص على الموضوعية» لا تكفي لأن مجرد وجود الشبهة يمسّ بمصداقية الإجراءات وبمبدأ المساواة بين العارضين، كما أن التدخل لدى شقيقه دون إعلام الإدارة سلوك يفتقر إلى الشفافية.",
+   "difficulty": "MEDIUM",
+   "topic_key": "cg.civisme-fonction-publique",
+   "objective_key": "cg.civisme-fonction-publique.o2",
+   "families": [
+    "*"
+   ],
+   "origin": "AI_GENERATED",
+   "source_key": null,
+   "year": null,
+   "valid_until": null,
+   "tags": [
+    "deontologie",
+    "conflit-d-interets"
+   ]
+  },
+  {
+   "id": "cg-institutions-civisme-0042",
+   "type": "MCQ_SINGLE",
+   "language": "fr",
+   "stem": "Un candidat estime qu'une décision administrative l'excluant d'un concours est illégale. La juridiction compétente pour en prononcer l'annulation pour excès de pouvoir est :",
+   "options": [
+    {
+     "id": "a",
+     "text": "l'Instance supérieure indépendante pour les élections"
+    },
+    {
+     "id": "b",
+     "text": "la Cour des comptes"
+    },
+    {
+     "id": "c",
+     "text": "le tribunal de première instance"
+    },
+    {
+     "id": "d",
+     "text": "le Tribunal administratif"
+    }
+   ],
+   "correct": [
+    "d"
+   ],
+   "explanation": "Le recours pour excès de pouvoir, qui vise l'annulation d'un acte administratif illégal, relève de la juridiction administrative, c'est-à-dire du Tribunal administratif. La Cour des comptes contrôle la gestion des deniers publics et ne juge pas la légalité des décisions individuelles, tandis que le tribunal de première instance appartient à l'ordre judiciaire. L'ISIE, enfin, n'est pas une juridiction.",
+   "difficulty": "MEDIUM",
+   "topic_key": "cg.civisme-fonction-publique",
+   "objective_key": "cg.civisme-fonction-publique.o2",
+   "families": [
+    "*"
+   ],
+   "origin": "AI_GENERATED",
+   "source_key": null,
+   "year": null,
+   "valid_until": null,
+   "tags": [
+    "droit-administratif",
+    "recours"
+   ]
+  },
+  {
+   "id": "cg-institutions-civisme-0043",
+   "type": "MCQ_SINGLE",
+   "language": "ar",
+   "stem": "بعد إصلاح أنظمة الجرايات سنة 2019، أصبحت السن القانونية للإحالة على التقاعد بالنسبة إلى أغلب أعوان القطاع العمومي:",
+   "options": [
+    {
+     "id": "a",
+     "text": "60 سنة"
+    },
+    {
+     "id": "b",
+     "text": "62 سنة"
+    },
+    {
+     "id": "c",
+     "text": "65 سنة"
+    },
+    {
+     "id": "d",
+     "text": "57 سنة"
+    }
+   ],
+   "correct": [
+    "b"
+   ],
+   "explanation": "رفع إصلاح سنة 2019 السن القانونية للإحالة على التقاعد في القطاع العمومي من 60 إلى 62 سنة، مع إمكانية مواصلة العمل اختياريًا لمدة إضافية وفق شروط يضبطها القانون. فسن 60 سنة هي السن التي كانت معتمدة قبل الإصلاح، أما 65 سنة فليست السن القانونية العادية بل حدًّا أقصى مرتبطًا بالتمديد الاختياري.",
+   "difficulty": "HARD",
+   "topic_key": "cg.civisme-fonction-publique",
+   "objective_key": "cg.civisme-fonction-publique.o2",
+   "families": [
+    "*"
+   ],
+   "origin": "AI_GENERATED",
+   "source_key": null,
+   "year": null,
+   "valid_until": "2027-10-07",
+   "tags": [
+    "fonction-publique",
+    "retraite",
+    "needs_verification"
+   ]
+  },
+  {
+   "id": "cg-institutions-civisme-0044",
+   "type": "MCQ_SINGLE",
+   "language": "ar",
+   "stem": "يتعلق القانون الأساسي عدد 10 لسنة 2017 المؤرخ في 7 مارس 2017 بـ:",
+   "options": [
+    {
+     "id": "a",
+     "text": "التصريح بالمكاسب والمصالح"
+    },
+    {
+     "id": "b",
+     "text": "الإبلاغ عن الفساد وحماية المبلّغين"
+    },
+    {
+     "id": "c",
+     "text": "الحق في النفاذ إلى المعلومة"
+    },
+    {
+     "id": "d",
+     "text": "حماية المعطيات الشخصية"
+    }
+   ],
+   "correct": [
+    "b"
+   ],
+   "explanation": "يهدف القانون الأساسي عدد 10 لسنة 2017 إلى ضبط صيغ وإجراءات الإبلاغ عن الفساد وآليات حماية المبلّغين من كل أشكال الانتقام، كالنقلة التعسفية أو التتبعات التأديبية بسبب الإبلاغ. أما التصريح بالمكاسب والمصالح فينظمه القانون عدد 46 لسنة 2018، والنفاذ إلى المعلومة القانون الأساسي عدد 22 لسنة 2016، وحماية المعطيات الشخصية القانون الأساسي عدد 63 لسنة 2004.",
+   "difficulty": "HARD",
+   "topic_key": "cg.civisme-fonction-publique",
+   "objective_key": "cg.civisme-fonction-publique.o2",
+   "families": [
+    "*"
+   ],
+   "origin": "AI_GENERATED",
+   "source_key": null,
+   "year": null,
+   "valid_until": null,
+   "tags": [
+    "deontologie",
+    "lutte-contre-la-corruption",
+    "textes-juridiques"
+   ]
+  },
+  {
+   "id": "cg-institutions-civisme-0045",
+   "type": "MCQ_SINGLE",
+   "language": "fr",
+   "stem": "Quel texte organise l'obligation, pour les personnes exerçant certaines fonctions publiques, de déclarer leurs biens et leurs intérêts ?",
+   "options": [
+    {
+     "id": "a",
+     "text": "La loi organique n° 2016-22 du 24 mars 2016"
+    },
+    {
+     "id": "b",
+     "text": "La loi organique n° 2017-10 du 7 mars 2017"
+    },
+    {
+     "id": "c",
+     "text": "La loi n° 2018-46 du 1er août 2018"
+    },
+    {
+     "id": "d",
+     "text": "La loi n° 83-112 du 12 décembre 1983"
+    }
+   ],
+   "correct": [
+    "c"
+   ],
+   "explanation": "La loi n° 2018-46 du 1er août 2018 porte sur la déclaration des biens et des intérêts, la lutte contre l'enrichissement illicite et les conflits d'intérêts dans les secteurs public et privé ; elle soumet de nombreux responsables et agents publics à une obligation de déclaration. La loi organique n° 2017-10 concerne le signalement des faits de corruption et la protection des lanceurs d'alerte, la loi organique n° 2016-22 l'accès à l'information, et la loi n° 83-112 le statut général de la fonction publique.",
+   "difficulty": "EXPERT",
+   "topic_key": "cg.civisme-fonction-publique",
+   "objective_key": "cg.civisme-fonction-publique.o2",
+   "families": [
+    "*"
+   ],
+   "origin": "AI_GENERATED",
+   "source_key": null,
+   "year": null,
+   "valid_until": null,
+   "tags": [
+    "deontologie",
+    "lutte-contre-la-corruption",
+    "textes-juridiques",
+    "needs_verification"
+   ]
+  }
+ ]
+}

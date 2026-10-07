@@ -1,0 +1,1743 @@
+{
+ "bank": "num-calcul-pourcentages",
+ "domain": "NUMERICAL",
+ "specialty_syllabus": [],
+ "sources": [],
+ "research_notes": "Original numerical-reasoning questions (calculation with integers, decimals and fractions; percentages; proportionality and rule of three) written for this bank; origin AI_GENERATED, no copyrighted book was used. 15 questions per syllabus topic (nu.calcul, nu.pourcentages, nu.proportionnalite), each mapped to the topic's single objective .o1. Every expected answer and every distractor value quoted in the explanations was recomputed with exact rational arithmetic by a script. Amounts are in Tunisian dinars (DT / د); the only real-world convention used is 1 DT = 1 000 millimes. No Tunisia-specific legal or time-sensitive fact is asserted, so no source is cited and valid_until is null. Item 0025 (TVA/أداء على القيمة المضافة) gives its 19 % rate as conditional exercise data ('إذا كانت نسبة هذا الأداء 19 %'); it is not presented as the official rate, so the question stays valid even if the legal rate changes. NUMERIC answers are integers (amounts expressed in DT or millimes as stated in each stem) to avoid decimal-separator ambiguity when candidates type the answer.",
+ "questions": [
+  {
+   "id": "num-calcul-pourcentages-0001",
+   "type": "MCQ_SINGLE",
+   "language": "fr",
+   "stem": "Calculer : 3/4 + 5/6.",
+   "options": [
+    {
+     "id": "a",
+     "text": "8/10"
+    },
+    {
+     "id": "b",
+     "text": "19/12"
+    },
+    {
+     "id": "c",
+     "text": "15/24"
+    },
+    {
+     "id": "d",
+     "text": "19/24"
+    }
+   ],
+   "correct": [
+    "b"
+   ],
+   "explanation": "Pour additionner deux fractions, on les réduit d'abord au même dénominateur : le plus petit multiple commun de 4 et de 6 est 12, donc 3/4 = 9/12 et 5/6 = 10/12. La somme vaut 9/12 + 10/12 = 19/12. La réponse 8/10 provient de l'erreur classique qui consiste à additionner séparément les numérateurs et les dénominateurs. Quant à 15/24, c'est le produit des deux fractions et non leur somme.",
+   "difficulty": "EASY",
+   "topic_key": "nu.calcul",
+   "objective_key": "nu.calcul.o1",
+   "families": [
+    "*"
+   ],
+   "origin": "AI_GENERATED",
+   "source_key": null,
+   "year": null,
+   "valid_until": null,
+   "tags": [
+    "fractions",
+    "addition"
+   ]
+  },
+  {
+   "id": "num-calcul-pourcentages-0002",
+   "type": "NUMERIC",
+   "language": "ar",
+   "stem": "احسب: 12 × 25 − 180 ÷ 4 (أدخل عددًا)",
+   "options": [],
+   "correct": {
+    "value": 255,
+    "tolerance": 0
+   },
+   "explanation": "حسب أولويّة العمليّات، نُنجز الضرب والقسمة قبل الطرح: 12 × 25 = 300 و180 ÷ 4 = 45، ثمّ 300 − 45 = 255. ومن الخطأ إنجاز العمليّات بالترتيب الذي كُتبت به دون مراعاة الأولويّة، أي (300 − 180) ÷ 4 = 30.",
+   "difficulty": "EASY",
+   "topic_key": "nu.calcul",
+   "objective_key": "nu.calcul.o1",
+   "families": [
+    "*"
+   ],
+   "origin": "AI_GENERATED",
+   "source_key": null,
+   "year": null,
+   "valid_until": null,
+   "tags": [
+    "أولوية العمليات",
+    "priorite-operations"
+   ]
+  },
+  {
+   "id": "num-calcul-pourcentages-0003",
+   "type": "MCQ_SINGLE",
+   "language": "ar",
+   "stem": "ما ناتج: 2/3 × 9/4 ؟",
+   "options": [
+    {
+     "id": "a",
+     "text": "11/7"
+    },
+    {
+     "id": "b",
+     "text": "8/27"
+    },
+    {
+     "id": "c",
+     "text": "3/2"
+    },
+    {
+     "id": "d",
+     "text": "2/3"
+    }
+   ],
+   "correct": [
+    "c"
+   ],
+   "explanation": "لضرب كسرين نضرب البسط في البسط والمقام في المقام: (2 × 9)/(3 × 4) = 18/12، وبالاختزال على 6 نحصل على 3/2. أمّا 8/27 فهو ناتج قسمة الكسرين (2/3 × 4/9) لا ضربهما، و11/7 ناتج جمع البسطين معًا والمقامين معًا وهي طريقة خاطئة.",
+   "difficulty": "EASY",
+   "topic_key": "nu.calcul",
+   "objective_key": "nu.calcul.o1",
+   "families": [
+    "*"
+   ],
+   "origin": "AI_GENERATED",
+   "source_key": null,
+   "year": null,
+   "valid_until": null,
+   "tags": [
+    "كسور",
+    "fractions",
+    "multiplication"
+   ]
+  },
+  {
+   "id": "num-calcul-pourcentages-0004",
+   "type": "TRUE_FALSE",
+   "language": "fr",
+   "stem": "Vrai ou faux : 0,2 × 0,3 = 0,6.",
+   "options": [
+    {
+     "id": "a",
+     "text": "Vrai"
+    },
+    {
+     "id": "b",
+     "text": "Faux"
+    }
+   ],
+   "correct": [
+    "b"
+   ],
+   "explanation": "C'est faux : 0,2 × 0,3 = 2/10 × 3/10 = 6/100 = 0,06. Le produit de deux nombres ayant chacun un chiffre après la virgule comporte deux chiffres après la virgule. Le résultat 0,6 vient de l'oubli d'un rang décimal.",
+   "difficulty": "EASY",
+   "topic_key": "nu.calcul",
+   "objective_key": "nu.calcul.o1",
+   "families": [
+    "*"
+   ],
+   "origin": "AI_GENERATED",
+   "source_key": null,
+   "year": null,
+   "valid_until": null,
+   "tags": [
+    "nombres décimaux",
+    "multiplication"
+   ]
+  },
+  {
+   "id": "num-calcul-pourcentages-0005",
+   "type": "NUMERIC",
+   "language": "fr",
+   "stem": "Un candidat achète 3 cahiers à 1,750 DT l'un et un stylo à 0,850 DT. Combien paie-t-il au total, en millimes ? (1 DT = 1 000 millimes ; réponse : un nombre entier)",
+   "options": [],
+   "correct": {
+    "value": 6100,
+    "tolerance": 0
+   },
+   "explanation": "Les 3 cahiers coûtent 3 × 1,750 = 5,250 DT ; avec le stylo, le total est 5,250 + 0,850 = 6,100 DT. Comme 1 DT = 1 000 millimes, cela fait 6 100 millimes. Oublier de multiplier le prix du cahier par 3 donnerait 1,750 + 0,850 = 2,600 DT, soit 2 600 millimes, ce qui est faux.",
+   "difficulty": "EASY",
+   "topic_key": "nu.calcul",
+   "objective_key": "nu.calcul.o1",
+   "families": [
+    "*"
+   ],
+   "origin": "AI_GENERATED",
+   "source_key": null,
+   "year": null,
+   "valid_until": null,
+   "tags": [
+    "nombres décimaux",
+    "dinar-millime",
+    "conversion"
+   ]
+  },
+  {
+   "id": "num-calcul-pourcentages-0006",
+   "type": "MCQ_SINGLE",
+   "language": "fr",
+   "stem": "Calculer : (2/5 − 1/3) ÷ (1/15).",
+   "options": [
+    {
+     "id": "a",
+     "text": "1"
+    },
+    {
+     "id": "b",
+     "text": "1/225"
+    },
+    {
+     "id": "c",
+     "text": "15"
+    },
+    {
+     "id": "d",
+     "text": "1/15"
+    }
+   ],
+   "correct": [
+    "a"
+   ],
+   "explanation": "On calcule d'abord la parenthèse : 2/5 − 1/3 = 6/15 − 5/15 = 1/15. Diviser par 1/15 revient à multiplier par 15, donc (1/15) × 15 = 1. La réponse 1/225 correspond à une multiplication par 1/15 au lieu d'une division, et 1/15 n'est que la valeur de la parenthèse.",
+   "difficulty": "MEDIUM",
+   "topic_key": "nu.calcul",
+   "objective_key": "nu.calcul.o1",
+   "families": [
+    "*"
+   ],
+   "origin": "AI_GENERATED",
+   "source_key": null,
+   "year": null,
+   "valid_until": null,
+   "tags": [
+    "fractions",
+    "division",
+    "priorite-operations"
+   ]
+  },
+  {
+   "id": "num-calcul-pourcentages-0007",
+   "type": "NUMERIC",
+   "language": "ar",
+   "stem": "ينفق موظّف 1/4 من راتبه الشهري على الكراء و2/5 منه على الغذاء، فيبقى له 630 د. كم يبلغ راتبه الشهري بالدينار؟ (أدخل عددًا)",
+   "options": [],
+   "correct": {
+    "value": 1800,
+    "tolerance": 0
+   },
+   "explanation": "الجزء المُنفَق هو 1/4 + 2/5 = 5/20 + 8/20 = 13/20 من الراتب، فيكون الباقي 7/20 من الراتب ويساوي 630 د. إذن الراتب = 630 × 20 ÷ 7 = 1800 د. ومن الأخطاء الشائعة اعتبار 630 د مساويةً لـ 13/20 من الراتب، أي الخلط بين الجزء المُنفَق والجزء الباقي.",
+   "difficulty": "MEDIUM",
+   "topic_key": "nu.calcul",
+   "objective_key": "nu.calcul.o1",
+   "families": [
+    "*"
+   ],
+   "origin": "AI_GENERATED",
+   "source_key": null,
+   "year": null,
+   "valid_until": null,
+   "tags": [
+    "كسور",
+    "fractions",
+    "probleme"
+   ]
+  },
+  {
+   "id": "num-calcul-pourcentages-0008",
+   "type": "MCQ_MULTI",
+   "language": "fr",
+   "stem": "Parmi les égalités suivantes, lesquelles sont justes ? (plusieurs réponses possibles)",
+   "options": [
+    {
+     "id": "a",
+     "text": "1/4 + 1/4 = 2/8"
+    },
+    {
+     "id": "b",
+     "text": "1/2 + 1/3 = 5/6"
+    },
+    {
+     "id": "c",
+     "text": "3/5 ÷ 3 = 9/5"
+    },
+    {
+     "id": "d",
+     "text": "2/3 × 3/5 = 2/5"
+    }
+   ],
+   "correct": [
+    "b",
+    "d"
+   ],
+   "explanation": "1/2 + 1/3 = 3/6 + 2/6 = 5/6 et 2/3 × 3/5 = 6/15 = 2/5 : ces deux égalités sont justes. En revanche 1/4 + 1/4 = 2/4 = 1/2, et non 2/8 (qui vaut 1/4) : on n'additionne jamais les dénominateurs. Enfin, diviser 3/5 par 3 donne 3/15 = 1/5 ; 9/5 correspond à une multiplication par 3.",
+   "difficulty": "MEDIUM",
+   "topic_key": "nu.calcul",
+   "objective_key": "nu.calcul.o1",
+   "families": [
+    "*"
+   ],
+   "origin": "AI_GENERATED",
+   "source_key": null,
+   "year": null,
+   "valid_until": null,
+   "tags": [
+    "fractions"
+   ]
+  },
+  {
+   "id": "num-calcul-pourcentages-0009",
+   "type": "ORDERING",
+   "language": "ar",
+   "stem": "رتّب الأعداد التالية ترتيبًا تصاعديًّا (من الأصغر إلى الأكبر):",
+   "options": [
+    {
+     "id": "a",
+     "text": "3/5"
+    },
+    {
+     "id": "b",
+     "text": "0,58"
+    },
+    {
+     "id": "c",
+     "text": "5/8"
+    },
+    {
+     "id": "d",
+     "text": "2/3"
+    }
+   ],
+   "correct": {
+    "order": [
+     "b",
+     "a",
+     "c",
+     "d"
+    ]
+   },
+   "explanation": "نحوّل الكسور إلى أعداد عشريّة لتسهيل المقارنة: 3/5 = 0,6 و5/8 = 0,625 و2/3 ≈ 0,667. فيكون الترتيب التصاعدي: 0,58 ثمّ 3/5 ثمّ 5/8 ثمّ 2/3. ولا يصحّ الحكم على الكسر من مقامه وحده، فالكسر 5/8 أكبر من 3/5 رغم أنّ مقامه أكبر.",
+   "difficulty": "MEDIUM",
+   "topic_key": "nu.calcul",
+   "objective_key": "nu.calcul.o1",
+   "families": [
+    "*"
+   ],
+   "origin": "AI_GENERATED",
+   "source_key": null,
+   "year": null,
+   "valid_until": null,
+   "tags": [
+    "كسور",
+    "مقارنة",
+    "fractions"
+   ]
+  },
+  {
+   "id": "num-calcul-pourcentages-0010",
+   "type": "MATCHING",
+   "language": "fr",
+   "stem": "Associer chaque fraction à son écriture décimale :",
+   "options": [
+    {
+     "id": "l1",
+     "text": "1/8",
+     "side": "left"
+    },
+    {
+     "id": "l2",
+     "text": "3/5",
+     "side": "left"
+    },
+    {
+     "id": "l3",
+     "text": "7/4",
+     "side": "left"
+    },
+    {
+     "id": "l4",
+     "text": "1/20",
+     "side": "left"
+    },
+    {
+     "id": "r1",
+     "text": "0,6",
+     "side": "right"
+    },
+    {
+     "id": "r2",
+     "text": "0,05",
+     "side": "right"
+    },
+    {
+     "id": "r3",
+     "text": "0,125",
+     "side": "right"
+    },
+    {
+     "id": "r4",
+     "text": "1,75",
+     "side": "right"
+    }
+   ],
+   "correct": {
+    "pairs": [
+     [
+      "l1",
+      "r3"
+     ],
+     [
+      "l2",
+      "r1"
+     ],
+     [
+      "l3",
+      "r4"
+     ],
+     [
+      "l4",
+      "r2"
+     ]
+    ]
+   },
+   "explanation": "On divise le numérateur par le dénominateur : 1 ÷ 8 = 0,125 ; 3 ÷ 5 = 0,6 ; 7 ÷ 4 = 1,75 ; 1 ÷ 20 = 0,05. Une fraction dont le numérateur dépasse le dénominateur, comme 7/4, est supérieure à 1. Attention à ne pas confondre 1/20 = 0,05 avec 0,5, qui vaut 1/2.",
+   "difficulty": "MEDIUM",
+   "topic_key": "nu.calcul",
+   "objective_key": "nu.calcul.o1",
+   "families": [
+    "*"
+   ],
+   "origin": "AI_GENERATED",
+   "source_key": null,
+   "year": null,
+   "valid_until": null,
+   "tags": [
+    "fractions",
+    "nombres décimaux"
+   ]
+  },
+  {
+   "id": "num-calcul-pourcentages-0011",
+   "type": "NUMERIC",
+   "language": "fr",
+   "stem": "Calculer A = 2,5 × 4,8 − 1,2 × 5 + 18 ÷ 0,6. (réponse : un nombre)",
+   "options": [],
+   "correct": {
+    "value": 36,
+    "tolerance": 0
+   },
+   "explanation": "On effectue d'abord les multiplications et la division : 2,5 × 4,8 = 12 ; 1,2 × 5 = 6 ; 18 ÷ 0,6 = 30. On calcule ensuite de gauche à droite : 12 − 6 + 30 = 36. L'erreur fréquente est d'écrire 18 ÷ 0,6 = 3 : diviser par un nombre inférieur à 1 donne un résultat plus grand que le nombre de départ.",
+   "difficulty": "MEDIUM",
+   "topic_key": "nu.calcul",
+   "objective_key": "nu.calcul.o1",
+   "families": [
+    "*"
+   ],
+   "origin": "AI_GENERATED",
+   "source_key": null,
+   "year": null,
+   "valid_until": null,
+   "tags": [
+    "nombres décimaux",
+    "priorite-operations"
+   ]
+  },
+  {
+   "id": "num-calcul-pourcentages-0012",
+   "type": "MCQ_SINGLE",
+   "language": "ar",
+   "stem": "خزّان ماء مملوء إلى 3/5 من سعته. بعد إضافة 220 لترًا أصبح مملوءًا إلى 7/8 من سعته. ما سعة الخزّان؟",
+   "options": [
+    {
+     "id": "a",
+     "text": "550 لترًا"
+    },
+    {
+     "id": "b",
+     "text": "1100 لتر"
+    },
+    {
+     "id": "c",
+     "text": "352 لترًا"
+    },
+    {
+     "id": "d",
+     "text": "800 لتر"
+    }
+   ],
+   "correct": [
+    "d"
+   ],
+   "explanation": "الكمّية المضافة تمثّل الفرق بين الكسرين: 7/8 − 3/5 = 35/40 − 24/40 = 11/40 من السعة. إذن 11/40 من السعة = 220 لترًا، فتكون السعة 220 × 40 ÷ 11 = 800 لتر. أمّا 550 لترًا فتنتج عن اعتبار أنّ الـ220 لترًا ملأت الجزء الفارغ كلّه (2/5 من السعة)، وهذا غير صحيح لأنّ الخزّان لم يُملأ إلّا إلى 7/8.",
+   "difficulty": "HARD",
+   "topic_key": "nu.calcul",
+   "objective_key": "nu.calcul.o1",
+   "families": [
+    "*"
+   ],
+   "origin": "AI_GENERATED",
+   "source_key": null,
+   "year": null,
+   "valid_until": null,
+   "tags": [
+    "كسور",
+    "fractions",
+    "probleme"
+   ]
+  },
+  {
+   "id": "num-calcul-pourcentages-0013",
+   "type": "NUMERIC",
+   "language": "fr",
+   "stem": "Une somme est partagée entre trois frères. Le premier reçoit le tiers de la somme, le deuxième reçoit les 2/5 du reste, et le troisième reçoit les 1 200 DT restants. Quelle est la somme totale, en DT ? (réponse : un nombre entier)",
+   "options": [],
+   "correct": {
+    "value": 3000,
+    "tolerance": 0
+   },
+   "explanation": "Après la part du premier, il reste 2/3 de la somme. Le deuxième reçoit 2/5 × 2/3 = 4/15 de la somme, donc le troisième reçoit 2/3 − 4/15 = 6/15 = 2/5 de la somme. Ainsi 2/5 de la somme valent 1 200 DT, d'où une somme totale de 3 000 DT. L'erreur courante consiste à calculer la part du deuxième sur la somme totale au lieu du reste, ce qui donne à tort 4 500 DT.",
+   "difficulty": "HARD",
+   "topic_key": "nu.calcul",
+   "objective_key": "nu.calcul.o1",
+   "families": [
+    "*"
+   ],
+   "origin": "AI_GENERATED",
+   "source_key": null,
+   "year": null,
+   "valid_until": null,
+   "tags": [
+    "fractions",
+    "partage",
+    "probleme"
+   ]
+  },
+  {
+   "id": "num-calcul-pourcentages-0014",
+   "type": "MCQ_SINGLE",
+   "language": "ar",
+   "stem": "ما قيمة العبارة: A = (3/4)² − (1/2)³ × 4 ÷ (2/3) ؟",
+   "options": [
+    {
+     "id": "a",
+     "text": "3/16"
+    },
+    {
+     "id": "b",
+     "text": "0"
+    },
+    {
+     "id": "c",
+     "text": "−3/16"
+    },
+    {
+     "id": "d",
+     "text": "−7/16"
+    }
+   ],
+   "correct": [
+    "c"
+   ],
+   "explanation": "نحسب القوى أوّلًا: (3/4)² = 9/16 و(1/2)³ = 1/8. ثمّ الضرب والقسمة من اليسار إلى اليمين: 1/8 × 4 = 1/2، و1/2 ÷ 2/3 = 1/2 × 3/2 = 3/4 = 12/16. وأخيرًا A = 9/16 − 12/16 = −3/16. أمّا الجواب 3/16 فخاطئ لأنّه يُهمل الإشارة، إذ إنّ المطروح (12/16) أكبر من المطروح منه (9/16).",
+   "difficulty": "HARD",
+   "topic_key": "nu.calcul",
+   "objective_key": "nu.calcul.o1",
+   "families": [
+    "*"
+   ],
+   "origin": "AI_GENERATED",
+   "source_key": null,
+   "year": null,
+   "valid_until": null,
+   "tags": [
+    "كسور",
+    "قوى",
+    "fractions",
+    "puissances"
+   ]
+  },
+  {
+   "id": "num-calcul-pourcentages-0015",
+   "type": "NUMERIC",
+   "language": "ar",
+   "stem": "نعتبر المجموع S = 1/(1×2) + 1/(2×3) + 1/(3×4) + … + 1/(19×20). إذا كتبنا S في شكل كسر غير قابل للاختزال a/b، فما قيمة a + b ؟ (أدخل عددًا)",
+   "options": [],
+   "correct": {
+    "value": 39,
+    "tolerance": 0
+   },
+   "explanation": "كلّ حدّ يُكتب على شكل فرق: 1/(n(n+1)) = 1/n − 1/(n+1). عند الجمع تتلاشى الحدود الوسطى فيبقى S = 1 − 1/20 = 19/20، وهو كسر غير قابل للاختزال، إذن a + b = 19 + 20 = 39. ومن الخطأ اعتبار S = 1 − 1/19 = 18/19 (أي 37)، لأنّ الحدّ الأخير 1/(19×20) يساوي 1/19 − 1/20.",
+   "difficulty": "EXPERT",
+   "topic_key": "nu.calcul",
+   "objective_key": "nu.calcul.o1",
+   "families": [
+    "*"
+   ],
+   "origin": "AI_GENERATED",
+   "source_key": null,
+   "year": null,
+   "valid_until": null,
+   "tags": [
+    "كسور",
+    "مجموع تلسكوبي",
+    "fractions"
+   ]
+  },
+  {
+   "id": "num-calcul-pourcentages-0016",
+   "type": "MCQ_SINGLE",
+   "language": "fr",
+   "stem": "Combien vaut 15 % de 240 DT ?",
+   "options": [
+    {
+     "id": "a",
+     "text": "36 DT"
+    },
+    {
+     "id": "b",
+     "text": "24 DT"
+    },
+    {
+     "id": "c",
+     "text": "16 DT"
+    },
+    {
+     "id": "d",
+     "text": "3,6 DT"
+    }
+   ],
+   "correct": [
+    "a"
+   ],
+   "explanation": "15 % de 240 = 240 × 15/100 = 36 DT. On peut aussi raisonner ainsi : 10 % de 240 = 24 et 5 % de 240 = 12, soit 24 + 12 = 36 DT. La réponse 24 DT ne correspond qu'à 10 % de la somme, et 3,6 DT résulte d'une erreur de virgule.",
+   "difficulty": "EASY",
+   "topic_key": "nu.pourcentages",
+   "objective_key": "nu.pourcentages.o1",
+   "families": [
+    "*"
+   ],
+   "origin": "AI_GENERATED",
+   "source_key": null,
+   "year": null,
+   "valid_until": null,
+   "tags": [
+    "pourcentage d'une quantité"
+   ]
+  },
+  {
+   "id": "num-calcul-pourcentages-0017",
+   "type": "NUMERIC",
+   "language": "ar",
+   "stem": "ثمن حاسوب 1200 د. تحصّل المشتري على تخفيض بنسبة 20 %. كم يدفع بالدينار؟ (أدخل عددًا)",
+   "options": [],
+   "correct": {
+    "value": 960,
+    "tolerance": 0
+   },
+   "explanation": "قيمة التخفيض هي 20 % من 1200 أي 1200 × 20 ÷ 100 = 240 د، فيدفع المشتري 1200 − 240 = 960 د. ويمكن الحساب مباشرة: 1200 × 0,8 = 960 د. ومن الخطأ تقديم 240 كإجابة لأنّها قيمة التخفيض وليست المبلغ المدفوع.",
+   "difficulty": "EASY",
+   "topic_key": "nu.pourcentages",
+   "objective_key": "nu.pourcentages.o1",
+   "families": [
+    "*"
+   ],
+   "origin": "AI_GENERATED",
+   "source_key": null,
+   "year": null,
+   "valid_until": null,
+   "tags": [
+    "تخفيض",
+    "remise"
+   ]
+  },
+  {
+   "id": "num-calcul-pourcentages-0018",
+   "type": "MCQ_SINGLE",
+   "language": "ar",
+   "stem": "نجح 36 مترشّحًا من أصل 120 مترشّحًا في اختبار كتابي. ما نسبة النجاح؟",
+   "options": [
+    {
+     "id": "a",
+     "text": "36 %"
+    },
+    {
+     "id": "b",
+     "text": "30 %"
+    },
+    {
+     "id": "c",
+     "text": "33 %"
+    },
+    {
+     "id": "d",
+     "text": "12 %"
+    }
+   ],
+   "correct": [
+    "b"
+   ],
+   "explanation": "نسبة النجاح = عدد الناجحين ÷ العدد الجملي × 100 = 36 ÷ 120 × 100 = 30 %. أمّا 36 % فهي خلط بين عدد الناجحين والنسبة المائويّة، ولا تصحّ إلّا لو كان العدد الجملي 100 مترشّح.",
+   "difficulty": "EASY",
+   "topic_key": "nu.pourcentages",
+   "objective_key": "nu.pourcentages.o1",
+   "families": [
+    "*"
+   ],
+   "origin": "AI_GENERATED",
+   "source_key": null,
+   "year": null,
+   "valid_until": null,
+   "tags": [
+    "نسبة مائوية",
+    "taux"
+   ]
+  },
+  {
+   "id": "num-calcul-pourcentages-0019",
+   "type": "TRUE_FALSE",
+   "language": "fr",
+   "stem": "Vrai ou faux : augmenter un prix de 25 % revient à le multiplier par 1,25.",
+   "options": [
+    {
+     "id": "a",
+     "text": "Vrai"
+    },
+    {
+     "id": "b",
+     "text": "Faux"
+    }
+   ],
+   "correct": [
+    "a"
+   ],
+   "explanation": "C'est vrai : augmenter de 25 %, c'est ajouter au prix 25/100 de ce prix, soit P + 0,25 × P = 1,25 × P. Le coefficient multiplicateur d'une hausse de t % est donc 1 + t/100. Multiplier par 0,25 donnerait seulement le montant de la hausse, et non le nouveau prix.",
+   "difficulty": "EASY",
+   "topic_key": "nu.pourcentages",
+   "objective_key": "nu.pourcentages.o1",
+   "families": [
+    "*"
+   ],
+   "origin": "AI_GENERATED",
+   "source_key": null,
+   "year": null,
+   "valid_until": null,
+   "tags": [
+    "coefficient multiplicateur",
+    "hausse"
+   ]
+  },
+  {
+   "id": "num-calcul-pourcentages-0020",
+   "type": "MATCHING",
+   "language": "ar",
+   "stem": "صِلْ كلّ نسبة مائويّة بالكسر المساوي لها:",
+   "options": [
+    {
+     "id": "l1",
+     "text": "12,5 %",
+     "side": "left"
+    },
+    {
+     "id": "l2",
+     "text": "25 %",
+     "side": "left"
+    },
+    {
+     "id": "l3",
+     "text": "20 %",
+     "side": "left"
+    },
+    {
+     "id": "l4",
+     "text": "75 %",
+     "side": "left"
+    },
+    {
+     "id": "r1",
+     "text": "1/5",
+     "side": "right"
+    },
+    {
+     "id": "r2",
+     "text": "3/4",
+     "side": "right"
+    },
+    {
+     "id": "r3",
+     "text": "1/8",
+     "side": "right"
+    },
+    {
+     "id": "r4",
+     "text": "1/4",
+     "side": "right"
+    }
+   ],
+   "correct": {
+    "pairs": [
+     [
+      "l1",
+      "r3"
+     ],
+     [
+      "l2",
+      "r4"
+     ],
+     [
+      "l3",
+      "r1"
+     ],
+     [
+      "l4",
+      "r2"
+     ]
+    ]
+   },
+   "explanation": "النسبة المائويّة كسر مقامه 100: 25 % = 25/100 = 1/4 و20 % = 20/100 = 1/5 و75 % = 75/100 = 3/4، أمّا 12,5 % = 12,5/100 = 1/8. ومن الخطأ ربط 20 % بالكسر 1/4، فالكسر 1/4 يساوي 25 % لأنّ 100 ÷ 4 = 25.",
+   "difficulty": "EASY",
+   "topic_key": "nu.pourcentages",
+   "objective_key": "nu.pourcentages.o1",
+   "families": [
+    "*"
+   ],
+   "origin": "AI_GENERATED",
+   "source_key": null,
+   "year": null,
+   "valid_until": null,
+   "tags": [
+    "نسبة مائوية",
+    "كسور",
+    "fractions"
+   ]
+  },
+  {
+   "id": "num-calcul-pourcentages-0021",
+   "type": "MCQ_SINGLE",
+   "language": "fr",
+   "stem": "Le salaire mensuel d'un agent passe de 1 250 DT à 1 400 DT. Quel est le pourcentage d'augmentation ?",
+   "options": [
+    {
+     "id": "a",
+     "text": "15 %"
+    },
+    {
+     "id": "b",
+     "text": "10,7 %"
+    },
+    {
+     "id": "c",
+     "text": "150 %"
+    },
+    {
+     "id": "d",
+     "text": "12 %"
+    }
+   ],
+   "correct": [
+    "d"
+   ],
+   "explanation": "L'augmentation est de 1 400 − 1 250 = 150 DT. On la rapporte à la valeur de départ : 150 ÷ 1 250 = 0,12, soit 12 %. La réponse 10,7 % vient de l'erreur qui consiste à diviser par la valeur d'arrivée (150 ÷ 1 400) au lieu de la valeur de départ ; 150 % confond l'augmentation en dinars avec un pourcentage.",
+   "difficulty": "MEDIUM",
+   "topic_key": "nu.pourcentages",
+   "objective_key": "nu.pourcentages.o1",
+   "families": [
+    "*"
+   ],
+   "origin": "AI_GENERATED",
+   "source_key": null,
+   "year": null,
+   "valid_until": null,
+   "tags": [
+    "taux d'évolution",
+    "hausse"
+   ]
+  },
+  {
+   "id": "num-calcul-pourcentages-0022",
+   "type": "NUMERIC",
+   "language": "fr",
+   "stem": "Après une remise de 30 %, un article coûte 84 DT. Quel était son prix avant la remise, en DT ? (réponse : un nombre)",
+   "options": [],
+   "correct": {
+    "value": 120,
+    "tolerance": 0
+   },
+   "explanation": "Après une remise de 30 %, on paie 70 % du prix initial : P × 0,70 = 84, donc P = 84 ÷ 0,70 = 120 DT. Vérification : 30 % de 120 = 36 et 120 − 36 = 84. L'erreur classique est d'ajouter 30 % à 84 (84 × 1,30 = 109,2 DT), alors que les 30 % se calculent sur le prix initial et non sur le prix remisé.",
+   "difficulty": "MEDIUM",
+   "topic_key": "nu.pourcentages",
+   "objective_key": "nu.pourcentages.o1",
+   "families": [
+    "*"
+   ],
+   "origin": "AI_GENERATED",
+   "source_key": null,
+   "year": null,
+   "valid_until": null,
+   "tags": [
+    "remise",
+    "prix initial",
+    "pourcentage inverse"
+   ]
+  },
+  {
+   "id": "num-calcul-pourcentages-0023",
+   "type": "MCQ_SINGLE",
+   "language": "ar",
+   "stem": "ارتفع سعر سلعة بنسبة 10 % ثمّ انخفض السعر الجديد بنسبة 10 %. كيف يكون السعر النهائي مقارنةً بالسعر الأصلي؟",
+   "options": [
+    {
+     "id": "a",
+     "text": "يساويه"
+    },
+    {
+     "id": "b",
+     "text": "أكبر منه بـ 1 %"
+    },
+    {
+     "id": "c",
+     "text": "أقلّ منه بـ 1 %"
+    },
+    {
+     "id": "d",
+     "text": "أقلّ منه بـ 2 %"
+    }
+   ],
+   "correct": [
+    "c"
+   ],
+   "explanation": "الضارب الجملي هو 1,10 × 0,90 = 0,99، أي أنّ السعر النهائي يمثّل 99 % من السعر الأصلي، فهو أقلّ منه بـ 1 %. مثلًا: 100 د تصبح 110 د، ثمّ 110 − 11 = 99 د. أمّا الجواب «يساويه» فخاطئ لأنّ الانخفاض يُحسب على السعر الجديد الأكبر، فتكون قيمته أكبر من قيمة الارتفاع.",
+   "difficulty": "MEDIUM",
+   "topic_key": "nu.pourcentages",
+   "objective_key": "nu.pourcentages.o1",
+   "families": [
+    "*"
+   ],
+   "origin": "AI_GENERATED",
+   "source_key": null,
+   "year": null,
+   "valid_until": null,
+   "tags": [
+    "نسب متتالية",
+    "taux successifs"
+   ]
+  },
+  {
+   "id": "num-calcul-pourcentages-0024",
+   "type": "MCQ_MULTI",
+   "language": "fr",
+   "stem": "Un prix de 200 DT augmente de 15 %. Quelles expressions donnent le nouveau prix ? (plusieurs réponses possibles)",
+   "options": [
+    {
+     "id": "a",
+     "text": "200 × 0,15"
+    },
+    {
+     "id": "b",
+     "text": "200 × 1,15"
+    },
+    {
+     "id": "c",
+     "text": "200 + 15"
+    },
+    {
+     "id": "d",
+     "text": "200 + 200 × 0,15"
+    }
+   ],
+   "correct": [
+    "b",
+    "d"
+   ],
+   "explanation": "Le nouveau prix est 200 + 15 % de 200 = 200 + 200 × 0,15 = 230 DT, ce qui équivaut à 200 × 1,15 = 230 DT. L'expression 200 × 0,15 = 30 ne donne que le montant de la hausse. Quant à 200 + 15, elle confond une hausse de 15 % avec une hausse de 15 DT.",
+   "difficulty": "MEDIUM",
+   "topic_key": "nu.pourcentages",
+   "objective_key": "nu.pourcentages.o1",
+   "families": [
+    "*"
+   ],
+   "origin": "AI_GENERATED",
+   "source_key": null,
+   "year": null,
+   "valid_until": null,
+   "tags": [
+    "coefficient multiplicateur",
+    "hausse"
+   ]
+  },
+  {
+   "id": "num-calcul-pourcentages-0025",
+   "type": "NUMERIC",
+   "language": "ar",
+   "stem": "ثمن سلعة دون اعتبار الأداء على القيمة المضافة هو 300 د. إذا كانت نسبة هذا الأداء 19 %، فكم يكون ثمنها بكلّ الأداءات، بالدينار؟ (أدخل عددًا)",
+   "options": [],
+   "correct": {
+    "value": 357,
+    "tolerance": 0
+   },
+   "explanation": "الثمن بكلّ الأداءات = الثمن دون أداء × (1 + 19/100) = 300 × 1,19 = 357 د، أي 300 د تُضاف إليها 57 د قيمة الأداء. ومن الخطأ تقديم 57 كإجابة، فهي قيمة الأداء فقط وليست الثمن الجملي.",
+   "difficulty": "MEDIUM",
+   "topic_key": "nu.pourcentages",
+   "objective_key": "nu.pourcentages.o1",
+   "families": [
+    "*"
+   ],
+   "origin": "AI_GENERATED",
+   "source_key": null,
+   "year": null,
+   "valid_until": null,
+   "tags": [
+    "أداء على القيمة المضافة",
+    "HT-TTC"
+   ]
+  },
+  {
+   "id": "num-calcul-pourcentages-0026",
+   "type": "MCQ_SINGLE",
+   "language": "ar",
+   "stem": "تضمّ إدارة 40 موظّفًا، 35 % منهم نساء. كم عدد الرجال؟",
+   "options": [
+    {
+     "id": "a",
+     "text": "26"
+    },
+    {
+     "id": "b",
+     "text": "14"
+    },
+    {
+     "id": "c",
+     "text": "35"
+    },
+    {
+     "id": "d",
+     "text": "25"
+    }
+   ],
+   "correct": [
+    "a"
+   ],
+   "explanation": "نسبة الرجال هي 100 % − 35 % = 65 %، فعددهم 40 × 65 ÷ 100 = 26. ويمكن أيضًا حساب عدد النساء (40 × 0,35 = 14) ثمّ طرحه: 40 − 14 = 26. أمّا الجواب 14 فهو عدد النساء لا عدد الرجال.",
+   "difficulty": "MEDIUM",
+   "topic_key": "nu.pourcentages",
+   "objective_key": "nu.pourcentages.o1",
+   "families": [
+    "*"
+   ],
+   "origin": "AI_GENERATED",
+   "source_key": null,
+   "year": null,
+   "valid_until": null,
+   "tags": [
+    "نسبة مائوية",
+    "pourcentage d'une quantité"
+   ]
+  },
+  {
+   "id": "num-calcul-pourcentages-0027",
+   "type": "MCQ_SINGLE",
+   "language": "fr",
+   "stem": "Le prix d'un article augmente de 20 %, puis baisse de 20 %, puis augmente de 25 %. Quelle est la variation globale du prix ?",
+   "options": [
+    {
+     "id": "a",
+     "text": "+25 %"
+    },
+    {
+     "id": "b",
+     "text": "+24 %"
+    },
+    {
+     "id": "c",
+     "text": "+15 %"
+    },
+    {
+     "id": "d",
+     "text": "+20 %"
+    }
+   ],
+   "correct": [
+    "d"
+   ],
+   "explanation": "Des pourcentages successifs se combinent en multipliant les coefficients : 1,20 × 0,80 × 1,25 = 1,20. Le prix final vaut donc 120 % du prix initial, soit une hausse globale de 20 %. La réponse +25 % vient de l'addition des pourcentages (+20 − 20 + 25), ce qui est faux car chaque pourcentage s'applique à un prix différent.",
+   "difficulty": "HARD",
+   "topic_key": "nu.pourcentages",
+   "objective_key": "nu.pourcentages.o1",
+   "families": [
+    "*"
+   ],
+   "origin": "AI_GENERATED",
+   "source_key": null,
+   "year": null,
+   "valid_until": null,
+   "tags": [
+    "taux successifs",
+    "coefficient multiplicateur"
+   ]
+  },
+  {
+   "id": "num-calcul-pourcentages-0028",
+   "type": "NUMERIC",
+   "language": "ar",
+   "stem": "ارتفع عدد المترشّحين لمناظرة بنسبة 25 % مقارنةً بالسنة الماضية فبلغ 4500 مترشّح. بأيّ نسبة مائويّة يجب أن ينخفض هذا العدد في السنة القادمة ليعود إلى عدد السنة الماضية؟ (أدخل العدد دون الرمز %)",
+   "options": [],
+   "correct": {
+    "value": 20,
+    "tolerance": 0
+   },
+   "explanation": "عدد السنة الماضية هو 4500 ÷ 1,25 = 3600 مترشّح. للعودة إليه يجب أن ينخفض العدد بـ 900، أي بنسبة 900 ÷ 4500 × 100 = 20 %. أمّا الإجابة 25 فخاطئة لأنّ الانخفاض يُحسب على القيمة الجديدة 4500 لا على 3600.",
+   "difficulty": "HARD",
+   "topic_key": "nu.pourcentages",
+   "objective_key": "nu.pourcentages.o1",
+   "families": [
+    "*"
+   ],
+   "origin": "AI_GENERATED",
+   "source_key": null,
+   "year": null,
+   "valid_until": null,
+   "tags": [
+    "نسبة عكسية",
+    "taux réciproque"
+   ]
+  },
+  {
+   "id": "num-calcul-pourcentages-0029",
+   "type": "MCQ_SINGLE",
+   "language": "fr",
+   "stem": "Un commerçant achète un article 80 DT. Il veut réaliser un bénéfice égal à 20 % du prix de vente. À quel prix doit-il le vendre ?",
+   "options": [
+    {
+     "id": "a",
+     "text": "96 DT"
+    },
+    {
+     "id": "b",
+     "text": "100 DT"
+    },
+    {
+     "id": "c",
+     "text": "104 DT"
+    },
+    {
+     "id": "d",
+     "text": "120 DT"
+    }
+   ],
+   "correct": [
+    "b"
+   ],
+   "explanation": "Si le bénéfice représente 20 % du prix de vente PV, le prix d'achat en représente 80 % : 0,8 × PV = 80, d'où PV = 100 DT (bénéfice de 20 DT, soit bien 20 % de 100). La réponse 96 DT est fausse car elle calcule 20 % du prix d'achat (80 × 1,2), alors que l'énoncé rapporte le bénéfice au prix de vente.",
+   "difficulty": "HARD",
+   "topic_key": "nu.pourcentages",
+   "objective_key": "nu.pourcentages.o1",
+   "families": [
+    "*"
+   ],
+   "origin": "AI_GENERATED",
+   "source_key": null,
+   "year": null,
+   "valid_until": null,
+   "tags": [
+    "bénéfice",
+    "prix de vente"
+   ]
+  },
+  {
+   "id": "num-calcul-pourcentages-0030",
+   "type": "MCQ_SINGLE",
+   "language": "ar",
+   "stem": "وُضع 200 كغ من الطماطم الطازجة للتجفيف، ويمثّل الماء 95 % من كتلتها. بعد مدّة أصبح الماء يمثّل 90 % فقط من كتلة الطماطم. ما كتلتها الجديدة؟",
+   "options": [
+    {
+     "id": "a",
+     "text": "190 كغ"
+    },
+    {
+     "id": "b",
+     "text": "180 كغ"
+    },
+    {
+     "id": "c",
+     "text": "100 كغ"
+    },
+    {
+     "id": "d",
+     "text": "105 كغ"
+    }
+   ],
+   "correct": [
+    "c"
+   ],
+   "explanation": "المادّة الجافّة لا تتغيّر أثناء التجفيف: هي 5 % من 200 كغ أي 10 كغ. بعد التجفيف تمثّل هذه المادّة 10 % من الكتلة الجديدة، فتكون الكتلة 10 ÷ 0,10 = 100 كغ. أمّا 190 كغ فتنتج عن طرح 5 % من الكتلة (200 − 10)، وهو استدلال خاطئ لأنّ النسبة تُحسب على كتلة متغيّرة.",
+   "difficulty": "EXPERT",
+   "topic_key": "nu.pourcentages",
+   "objective_key": "nu.pourcentages.o1",
+   "families": [
+    "*"
+   ],
+   "origin": "AI_GENERATED",
+   "source_key": null,
+   "year": null,
+   "valid_until": null,
+   "tags": [
+    "نسبة مائوية",
+    "مسألة"
+   ]
+  },
+  {
+   "id": "num-calcul-pourcentages-0031",
+   "type": "MCQ_SINGLE",
+   "language": "fr",
+   "stem": "5 kg de pommes coûtent 17,500 DT. Combien coûtent 3 kg de ces mêmes pommes ?",
+   "options": [
+    {
+     "id": "a",
+     "text": "7,000 DT"
+    },
+    {
+     "id": "b",
+     "text": "12,500 DT"
+    },
+    {
+     "id": "c",
+     "text": "10,000 DT"
+    },
+    {
+     "id": "d",
+     "text": "10,500 DT"
+    }
+   ],
+   "correct": [
+    "d"
+   ],
+   "explanation": "Le prix d'un kilogramme est 17,500 ÷ 5 = 3,500 DT ; pour 3 kg on paie donc 3 × 3,500 = 10,500 DT. La réponse 7,000 DT correspond au prix de 2 kg (5 − 3 = 2), c'est-à-dire à ce que l'on économise, et non au prix de 3 kg.",
+   "difficulty": "EASY",
+   "topic_key": "nu.proportionnalite",
+   "objective_key": "nu.proportionnalite.o1",
+   "families": [
+    "*"
+   ],
+   "origin": "AI_GENERATED",
+   "source_key": null,
+   "year": null,
+   "valid_until": null,
+   "tags": [
+    "règle de trois",
+    "prix unitaire"
+   ]
+  },
+  {
+   "id": "num-calcul-pourcentages-0032",
+   "type": "NUMERIC",
+   "language": "ar",
+   "stem": "تستهلك سيّارة 6 لترات من الوقود لكلّ 100 كم. كم لترًا تستهلك لقطع مسافة 350 كم؟ (أدخل عددًا)",
+   "options": [],
+   "correct": {
+    "value": 21,
+    "tolerance": 0
+   },
+   "explanation": "الاستهلاك متناسب مع المسافة: 350 كم تساوي 3,5 مرّات 100 كم، فيكون الاستهلاك 6 × 3,5 = 21 لترًا. ويمكن استعمال القاعدة الثلاثيّة: 6 × 350 ÷ 100 = 21. أمّا الإجابة 18 لترًا (6 × 3) فتُهمل الـ50 كم المتبقّية.",
+   "difficulty": "EASY",
+   "topic_key": "nu.proportionnalite",
+   "objective_key": "nu.proportionnalite.o1",
+   "families": [
+    "*"
+   ],
+   "origin": "AI_GENERATED",
+   "source_key": null,
+   "year": null,
+   "valid_until": null,
+   "tags": [
+    "قاعدة ثلاثية",
+    "règle de trois"
+   ]
+  },
+  {
+   "id": "num-calcul-pourcentages-0033",
+   "type": "TRUE_FALSE",
+   "language": "ar",
+   "stem": "صحيح أم خطأ: إذا كان ثمن قلم واحد 0,800 د، فإنّ ثمن 5 أقلام من النوع نفسه هو 4 د.",
+   "options": [
+    {
+     "id": "a",
+     "text": "صحيح"
+    },
+    {
+     "id": "b",
+     "text": "خطأ"
+    }
+   ],
+   "correct": [
+    "a"
+   ],
+   "explanation": "العبارة صحيحة: ثمن الأقلام يتناسب مع عددها، و5 × 0,800 = 4,000 د، أي 4 د بالضبط (4000 مليم). ومن يحسب 5 × 800 = 4000 دون الانتباه إلى أنّ 0,800 د تساوي 800 مليم قد يظنّ خطأً أنّ الثمن 4000 د.",
+   "difficulty": "EASY",
+   "topic_key": "nu.proportionnalite",
+   "objective_key": "nu.proportionnalite.o1",
+   "families": [
+    "*"
+   ],
+   "origin": "AI_GENERATED",
+   "source_key": null,
+   "year": null,
+   "valid_until": null,
+   "tags": [
+    "تناسب",
+    "dinar-millime"
+   ]
+  },
+  {
+   "id": "num-calcul-pourcentages-0034",
+   "type": "MCQ_SINGLE",
+   "language": "fr",
+   "stem": "Sur une carte à l'échelle 1/50 000, deux villages sont distants de 6 cm. Quelle est la distance réelle entre ces deux villages ?",
+   "options": [
+    {
+     "id": "a",
+     "text": "3 km"
+    },
+    {
+     "id": "b",
+     "text": "30 km"
+    },
+    {
+     "id": "c",
+     "text": "300 m"
+    },
+    {
+     "id": "d",
+     "text": "300 km"
+    }
+   ],
+   "correct": [
+    "a"
+   ],
+   "explanation": "L'échelle 1/50 000 signifie que 1 cm sur la carte représente 50 000 cm en réalité. Donc 6 cm représentent 6 × 50 000 = 300 000 cm = 3 000 m = 3 km. La réponse 30 km résulte d'une erreur de conversion : 1 km = 100 000 cm, et non 10 000 cm.",
+   "difficulty": "EASY",
+   "topic_key": "nu.proportionnalite",
+   "objective_key": "nu.proportionnalite.o1",
+   "families": [
+    "*"
+   ],
+   "origin": "AI_GENERATED",
+   "source_key": null,
+   "year": null,
+   "valid_until": null,
+   "tags": [
+    "échelle",
+    "conversion"
+   ]
+  },
+  {
+   "id": "num-calcul-pourcentages-0035",
+   "type": "MCQ_SINGLE",
+   "language": "ar",
+   "stem": "ينجز 6 عمّال أشغال صيانة في 15 يومًا. في كم يومًا ينجز 9 عمّال الأشغال نفسها بنفس نسق العمل؟",
+   "options": [
+    {
+     "id": "a",
+     "text": "22,5 يومًا"
+    },
+    {
+     "id": "b",
+     "text": "10 أيّام"
+    },
+    {
+     "id": "c",
+     "text": "12 يومًا"
+    },
+    {
+     "id": "d",
+     "text": "18 يومًا"
+    }
+   ],
+   "correct": [
+    "b"
+   ],
+   "explanation": "كلّما زاد عدد العمّال نقصت المدّة: إنّه تناسب عكسيّ. حجم العمل ثابت ويساوي 6 × 15 = 90 يوم عمل، فيلزم 9 عمّالٍ 90 ÷ 9 = 10 أيّام. أمّا 22,5 يومًا فهي نتيجة تطبيق تناسب طرديّ (15 × 9 ÷ 6)، وهو غير منطقيّ لأنّ زيادة العمّال لا تُطيل المدّة.",
+   "difficulty": "MEDIUM",
+   "topic_key": "nu.proportionnalite",
+   "objective_key": "nu.proportionnalite.o1",
+   "families": [
+    "*"
+   ],
+   "origin": "AI_GENERATED",
+   "source_key": null,
+   "year": null,
+   "valid_until": null,
+   "tags": [
+    "تناسب عكسي",
+    "proportionnalité inverse"
+   ]
+  },
+  {
+   "id": "num-calcul-pourcentages-0036",
+   "type": "NUMERIC",
+   "language": "fr",
+   "stem": "Une prime de 7 200 DT est partagée entre trois agents proportionnellement aux nombres 2, 3 et 4. Quelle est la plus grande part, en DT ? (réponse : un nombre entier)",
+   "options": [],
+   "correct": {
+    "value": 3200,
+    "tolerance": 0
+   },
+   "explanation": "On additionne les parts : 2 + 3 + 4 = 9, donc une part vaut 7 200 ÷ 9 = 800 DT. La plus grande part correspond à 4 parts : 4 × 800 = 3 200 DT (les deux autres agents reçoivent 1 600 DT et 2 400 DT, total 7 200 DT). Diviser 7 200 par 3 (2 400 DT chacun) serait un partage égal, et non proportionnel.",
+   "difficulty": "MEDIUM",
+   "topic_key": "nu.proportionnalite",
+   "objective_key": "nu.proportionnalite.o1",
+   "families": [
+    "*"
+   ],
+   "origin": "AI_GENERATED",
+   "source_key": null,
+   "year": null,
+   "valid_until": null,
+   "tags": [
+    "partage proportionnel"
+   ]
+  },
+  {
+   "id": "num-calcul-pourcentages-0037",
+   "type": "MCQ_MULTI",
+   "language": "fr",
+   "stem": "Parmi les situations suivantes, lesquelles relèvent de la proportionnalité ? (plusieurs réponses possibles)",
+   "options": [
+    {
+     "id": "a",
+     "text": "Le prix payé et le nombre de baguettes achetées, au même prix unitaire"
+    },
+    {
+     "id": "b",
+     "text": "L'âge d'un enfant et sa taille"
+    },
+    {
+     "id": "c",
+     "text": "Le périmètre d'un carré et la longueur de son côté"
+    },
+    {
+     "id": "d",
+     "text": "L'aire d'un carré et la longueur de son côté"
+    }
+   ],
+   "correct": [
+    "a",
+    "c"
+   ],
+   "explanation": "Le prix payé est égal au nombre de baguettes multiplié par le prix unitaire, et le périmètre d'un carré vaut 4 fois son côté : dans ces deux cas, on passe d'une grandeur à l'autre en multipliant par un même nombre. La taille d'un enfant n'est pas proportionnelle à son âge : elle ne double pas entre 5 et 10 ans. L'aire d'un carré vaut côté × côté : si le côté double, l'aire est multipliée par 4, il n'y a donc pas proportionnalité.",
+   "difficulty": "MEDIUM",
+   "topic_key": "nu.proportionnalite",
+   "objective_key": "nu.proportionnalite.o1",
+   "families": [
+    "*"
+   ],
+   "origin": "AI_GENERATED",
+   "source_key": null,
+   "year": null,
+   "valid_until": null,
+   "tags": [
+    "reconnaître la proportionnalité"
+   ]
+  },
+  {
+   "id": "num-calcul-pourcentages-0038",
+   "type": "TRUE_FALSE",
+   "language": "fr",
+   "stem": "Vrai ou faux : le tableau suivant est un tableau de proportionnalité. Ligne 1 : 3 ; 4 ; 6 ; 10. Ligne 2 : 7,5 ; 10 ; 15 ; 24.",
+   "options": [
+    {
+     "id": "a",
+     "text": "Vrai"
+    },
+    {
+     "id": "b",
+     "text": "Faux"
+    }
+   ],
+   "correct": [
+    "b"
+   ],
+   "explanation": "C'est faux. Dans un tableau de proportionnalité, le quotient (ligne 2 ÷ ligne 1) est constant. Ici 7,5 ÷ 3 = 2,5 ; 10 ÷ 4 = 2,5 ; 15 ÷ 6 = 2,5, mais 24 ÷ 10 = 2,4. Une seule colonne qui ne respecte pas le coefficient suffit : il aurait fallu 25 sous le 10.",
+   "difficulty": "MEDIUM",
+   "topic_key": "nu.proportionnalite",
+   "objective_key": "nu.proportionnalite.o1",
+   "families": [
+    "*"
+   ],
+   "origin": "AI_GENERATED",
+   "source_key": null,
+   "year": null,
+   "valid_until": null,
+   "tags": [
+    "tableau de proportionnalité",
+    "coefficient"
+   ]
+  },
+  {
+   "id": "num-calcul-pourcentages-0039",
+   "type": "MCQ_SINGLE",
+   "language": "ar",
+   "stem": "لتحضير الخرسانة يُخلط الإسمنت والرمل والحصى بالنسب 1 : 2 : 3 (بالكتلة). ما كمّية الرمل اللازمة لتحضير 4,8 أطنان من هذا الخليط؟",
+   "options": [
+    {
+     "id": "a",
+     "text": "0,8 طنّ"
+    },
+    {
+     "id": "b",
+     "text": "2,4 طنّ"
+    },
+    {
+     "id": "c",
+     "text": "1,6 طنّ"
+    },
+    {
+     "id": "d",
+     "text": "9,6 أطنان"
+    }
+   ],
+   "correct": [
+    "c"
+   ],
+   "explanation": "مجموع الأجزاء 1 + 2 + 3 = 6، فالجزء الواحد يساوي 4,8 ÷ 6 = 0,8 طنّ. للرمل جزءان، أي 2 × 0,8 = 1,6 طنّ. أمّا 0,8 طنّ فهي كمّية الإسمنت (جزء واحد)، و2,4 طنّ هي كمّية الحصى (ثلاثة أجزاء).",
+   "difficulty": "MEDIUM",
+   "topic_key": "nu.proportionnalite",
+   "objective_key": "nu.proportionnalite.o1",
+   "families": [
+    "*"
+   ],
+   "origin": "AI_GENERATED",
+   "source_key": null,
+   "year": null,
+   "valid_until": null,
+   "tags": [
+    "تقسيم تناسبي",
+    "partage proportionnel"
+   ]
+  },
+  {
+   "id": "num-calcul-pourcentages-0040",
+   "type": "NUMERIC",
+   "language": "ar",
+   "stem": "تطبع آلة 1800 ورقة في 12 دقيقة. كم ورقة تطبع في 20 دقيقة بالسرعة نفسها؟ (أدخل عددًا)",
+   "options": [],
+   "correct": {
+    "value": 3000,
+    "tolerance": 0
+   },
+   "explanation": "نحسب عدد الأوراق المطبوعة في الدقيقة الواحدة: 1800 ÷ 12 = 150 ورقة، ثمّ نضرب في 20: 150 × 20 = 3000 ورقة. ومن الخطأ استعمال تناسب عكسيّ (1800 × 12 ÷ 20 = 1080) لأنّ عدد الأوراق يزداد بازدياد المدّة.",
+   "difficulty": "MEDIUM",
+   "topic_key": "nu.proportionnalite",
+   "objective_key": "nu.proportionnalite.o1",
+   "families": [
+    "*"
+   ],
+   "origin": "AI_GENERATED",
+   "source_key": null,
+   "year": null,
+   "valid_until": null,
+   "tags": [
+    "قاعدة ثلاثية",
+    "règle de trois"
+   ]
+  },
+  {
+   "id": "num-calcul-pourcentages-0041",
+   "type": "MCQ_SINGLE",
+   "language": "fr",
+   "stem": "8 ouvriers, travaillant 6 heures par jour, terminent un chantier en 15 jours. Combien de jours faudra-t-il à 10 ouvriers travaillant 8 heures par jour pour réaliser le même chantier ?",
+   "options": [
+    {
+     "id": "a",
+     "text": "9 jours"
+    },
+    {
+     "id": "b",
+     "text": "25 jours"
+    },
+    {
+     "id": "c",
+     "text": "12 jours"
+    },
+    {
+     "id": "d",
+     "text": "11,25 jours"
+    }
+   ],
+   "correct": [
+    "a"
+   ],
+   "explanation": "Le travail total vaut 8 × 6 × 15 = 720 heures-ouvrier. Avec 10 ouvriers à 8 h par jour, on effectue 80 heures-ouvrier par jour, donc il faut 720 ÷ 80 = 9 jours. La réponse 12 jours ne tient compte que de l'augmentation du nombre d'ouvriers et oublie celle des heures quotidiennes ; 25 jours vient d'une proportionnalité directe, alors que davantage de main-d'œuvre réduit la durée.",
+   "difficulty": "HARD",
+   "topic_key": "nu.proportionnalite",
+   "objective_key": "nu.proportionnalite.o1",
+   "families": [
+    "*"
+   ],
+   "origin": "AI_GENERATED",
+   "source_key": null,
+   "year": null,
+   "valid_until": null,
+   "tags": [
+    "règle de trois composée",
+    "proportionnalité inverse"
+   ]
+  },
+  {
+   "id": "num-calcul-pourcentages-0042",
+   "type": "NUMERIC",
+   "language": "ar",
+   "stem": "وُزّعت منحة قدرها 2600 د على ثلاثة أعوان تناسبًا عكسيًّا مع عدد أيّام غيابهم، وهي على التوالي 2 و3 و4 أيّام. كم يتحصّل العون الذي تغيّب يومين؟ (أدخل عددًا بالدينار)",
+   "options": [],
+   "correct": {
+    "value": 1200,
+    "tolerance": 0
+   },
+   "explanation": "التوزيع العكسيّ مع 2 و3 و4 يعني التوزيع الطرديّ مع 1/2 و1/3 و1/4، أي (بالضرب في 12) مع 6 و4 و3. مجموع الأجزاء 13، فالجزء الواحد = 2600 ÷ 13 = 200 د، ونصيب من تغيّب يومين = 6 × 200 = 1200 د. ومن الخطأ توزيع المنحة توزيعًا طرديًّا مع 2 و3 و4، لأنّ ذلك يمنح الأكثر غيابًا النصيب الأكبر.",
+   "difficulty": "HARD",
+   "topic_key": "nu.proportionnalite",
+   "objective_key": "nu.proportionnalite.o1",
+   "families": [
+    "*"
+   ],
+   "origin": "AI_GENERATED",
+   "source_key": null,
+   "year": null,
+   "valid_until": null,
+   "tags": [
+    "تقسيم تناسبي عكسي",
+    "partage inverse"
+   ]
+  },
+  {
+   "id": "num-calcul-pourcentages-0043",
+   "type": "MCQ_SINGLE",
+   "language": "fr",
+   "stem": "Sur un plan à l'échelle 1/200, une salle rectangulaire mesure 2,5 cm sur 2 cm. Quelle est l'aire réelle de cette salle ?",
+   "options": [
+    {
+     "id": "a",
+     "text": "0,1 m²"
+    },
+    {
+     "id": "b",
+     "text": "2 m²"
+    },
+    {
+     "id": "c",
+     "text": "40 m²"
+    },
+    {
+     "id": "d",
+     "text": "20 m²"
+    }
+   ],
+   "correct": [
+    "d"
+   ],
+   "explanation": "On convertit d'abord les longueurs : 2,5 cm × 200 = 500 cm = 5 m et 2 cm × 200 = 400 cm = 4 m. L'aire réelle est donc 5 × 4 = 20 m². La réponse 0,1 m² vient de l'erreur qui consiste à multiplier l'aire du plan (5 cm²) par 200 seulement : les aires sont multipliées par le carré de l'échelle (200² = 40 000).",
+   "difficulty": "HARD",
+   "topic_key": "nu.proportionnalite",
+   "objective_key": "nu.proportionnalite.o1",
+   "families": [
+    "*"
+   ],
+   "origin": "AI_GENERATED",
+   "source_key": null,
+   "year": null,
+   "valid_until": null,
+   "tags": [
+    "échelle",
+    "aire"
+   ]
+  },
+  {
+   "id": "num-calcul-pourcentages-0044",
+   "type": "MCQ_MULTI",
+   "language": "fr",
+   "stem": "Deux grandeurs x et y sont inversement proportionnelles, et y = 12 lorsque x = 5. Quelles affirmations sont vraies ? (plusieurs réponses possibles)",
+   "options": [
+    {
+     "id": "a",
+     "text": "La somme x + y est constante."
+    },
+    {
+     "id": "b",
+     "text": "Si x = 10, alors y = 6."
+    },
+    {
+     "id": "c",
+     "text": "Si x = 15, alors y = 4."
+    },
+    {
+     "id": "d",
+     "text": "Si x augmente de 25 %, alors y diminue de 25 %."
+    }
+   ],
+   "correct": [
+    "b",
+    "c"
+   ],
+   "explanation": "Pour deux grandeurs inversement proportionnelles, c'est le produit x × y qui est constant : ici x × y = 5 × 12 = 60. Ainsi x = 10 donne y = 6 et x = 15 donne y = 4 ; la somme, elle, varie (17, 16, 19). Enfin, si x est multiplié par 1,25, y est multiplié par 1/1,25 = 0,8 : il diminue de 20 % et non de 25 %.",
+   "difficulty": "EXPERT",
+   "topic_key": "nu.proportionnalite",
+   "objective_key": "nu.proportionnalite.o1",
+   "families": [
+    "*"
+   ],
+   "origin": "AI_GENERATED",
+   "source_key": null,
+   "year": null,
+   "valid_until": null,
+   "tags": [
+    "proportionnalité inverse",
+    "pourcentages"
+   ]
+  },
+  {
+   "id": "num-calcul-pourcentages-0045",
+   "type": "MCQ_SINGLE",
+   "language": "ar",
+   "stem": "يحتوي وعاء على 40 لترًا من مشروب مكوّن من عصير البرتقال والماء بنسبة 3 : 1. ما كمّية المشروب التي يجب سحبها من الوعاء وتعويضها بالكمّية نفسها من الماء لتصبح النسبة 3 : 2 ؟",
+   "options": [
+    {
+     "id": "a",
+     "text": "10 لترات"
+    },
+    {
+     "id": "b",
+     "text": "8 لترات"
+    },
+    {
+     "id": "c",
+     "text": "6 لترات"
+    },
+    {
+     "id": "d",
+     "text": "12 لترًا"
+    }
+   ],
+   "correct": [
+    "b"
+   ],
+   "explanation": "في البداية يحتوي الوعاء على 30 لترًا من العصير و10 لترات من الماء. يبقى الحجم 40 لترًا بعد التعويض، والنسبة 3 : 2 تعني أنّ العصير يمثّل 3/5 من الحجم أي 24 لترًا، فيجب التخلّص من 6 لترات من العصير. وبما أنّ العصير يمثّل 3/4 من كلّ لتر مسحوب، فالكمّية المسحوبة = 6 ÷ 3/4 = 8 لترات. أمّا 6 لترات فهي كمّية العصير وحدها، و10 لترات تُناسب إضافة الماء دون سحب.",
+   "difficulty": "EXPERT",
+   "topic_key": "nu.proportionnalite",
+   "objective_key": "nu.proportionnalite.o1",
+   "families": [
+    "*"
+   ],
+   "origin": "AI_GENERATED",
+   "source_key": null,
+   "year": null,
+   "valid_until": null,
+   "tags": [
+    "نسبة",
+    "خليط",
+    "mélange"
+   ]
+  }
+ ]
+}
