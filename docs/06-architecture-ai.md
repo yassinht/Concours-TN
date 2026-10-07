@@ -25,14 +25,15 @@
 | طبقة | الاختيار | لماذا |
 |---|---|---|
 | Frontend | **Next.js (React) + TypeScript + Tailwind**، RTL أصلي | SSR للـ SEO، PWA، نظام واحد |
-| Backend | **NestJS** (modular monolith) | اقترحته؛ بنية واضحة، DI، يناسب monolith منظّم |
-| DB | **PostgreSQL 16 + pgvector** | علاقات + FTS + embeddings في مكان واحد |
-| Queue/Cache | **Redis + BullMQ** | jobs للـ OCR/AI، rate-limit، leaderboards (sorted sets) |
+| Backend | **NestJS 11** (modular monolith) + **Drizzle ORM** | اقترحته؛ بنية واضحة، DI؛ Drizzle بدون محرك ثنائي (أبسط للنشر) |
+| DB | **PostgreSQL 16** | علاقات + jsonb + بحث نصي؛ pgvector لاحقًا |
+| Jobs | `@nestjs/schedule` (cron) + مهام داخل العملية | كافٍ لـ V1؛ Redis/BullMQ عند الحاجة للتوسع (docker-compose جاهز) |
 | Storage | S3-compatible (Cloudflare R2 أو Backblaze B2) | PDFs، صور الأسئلة |
 | OCR | Tesseract (ara+fra) محليًا أولًا؛ OCR سحابي فقط للملفات الرديئة | التكلفة |
 | AI | LLM API (Claude: نموذج قوي للتوليد/المراجعة، نموذج سريع ورخيص للـ tutor) | لا تدريب نماذج خاصة في V1 |
 | Auth | Email magic link + Google. (رقم الهاتف OTP لاحقًا إن ثبتت الحاجة — كلفة SMS) | Apple Sign-In غير ضروري لـ PWA |
-| Payments | انظر `08-monetization-financial.md` (Konnect/Flouci/ClicToPay + D17/تحويل يدوي) | |
+| Payments | Konnect + Flouci + يدوي (D17/تحويل) + Mock للتطوير — انظر `08-monetization-financial.md` | Stripe غير متاح للمقيمين |
+| Notifications | In-app + **Web Push (VAPID)** + Email (SMTP/Brevo) — محرك تنبيهات حسب الملف | |
 | Hosting | VPS واحد (Docker Compose) + Postgres مُدار أو backup يومي إلى S3 | ~20–40 USD/شهر |
 | Monitoring | Sentry + Uptime Kuma + PostHog (analytics, self-host أو cloud) | |
 | Email | Resend/Brevo | |
@@ -169,7 +170,7 @@ coverage       = نسبة مواضيع المنهج التي جُرّب فيها
 [7] Generate Qs      لكل objective: N أسئلة بـ prompt مقيّد بالمقاطع المصدرية + أمثلة من امتحانات سابقة (style)
       ↓
 [8] Auto-validate    (أ) JSON schema  (ب) إجابة صحيحة واحدة بالضبط  (ج) LLM ثانٍ يحل السؤال بدون معرفة الإجابة → يجب أن يتفق
-      ↓                (د) كشف التكرار (embedding similarity > 0.92)  (هـ) لغة/إملاء  (و) لا خيار "كل ما سبق" عشوائيًا
+      ↓                (د) كشف التكرار (تشابه Jaccard للكلمات > 0.8؛ embeddings في V2)  (هـ) لغة/إملاء  (و) لا خيار "كل ما سبق" عشوائيًا
       ↓                → AI_REVIEWED  (أو مرفوض تلقائيًا مع السبب)
 [9] Human review     واجهة سريعة: قبول / تعديل / رفض (اختصارات لوحة المفاتيح) → HUMAN_REVIEWED
       ↓
@@ -184,3 +185,23 @@ coverage       = نسبة مواضيع المنهج التي جُرّب فيها
 3. Culture générale / الأحداث الجارية: كل سؤال يحمل `valid_until` لأن الإجابات تتقادم (وزراء، أرقام).
 4. Psychotechnique (متتاليات، مصفوفات، إلخ): يمكن توليدها **خوارزميًا** (parametric generators) بدل LLM ⇒ صحيحة رياضيًا 100% وغير محدودة العدد.
 5. KPI المراجعة: هدف ~60–100 سؤال/ساعة للمراجعة السريعة. 1500 سؤال MVP ≈ 20–30 ساعة مراجعة.
+
+
+---
+
+## Alerts engine — "نبّهني عندما تُفتح مناظرة تناسب ملفي"
+
+```
+Admin opens/announces an edition  ─┐
+Watcher detects a new announcement ─┼─► AlertsService.matchCompetition(edition)
+Hourly cron (alerts_sent_at null)  ─┘        │
+                                             ├─ candidates = users with alerts on ∧ (field ∈ alert_fields ∨ follows/enrolled)
+                                             ├─ for each targeted position: checkEligibility(rules, profile, refDate) (@ctn/shared)
+                                             ├─ ELIGIBLE / PARTIAL ⇒ alert_matches + ONE notification per user (dedupe key)
+                                             └─ deliver: in-app · Web Push · Email (per user channels)
+Profile updated / user registers ──────► AlertsService.matchUser(user) (all open editions)
+Daily 08:00 (Africa/Tunis) ───────────► deadline reminders D-7/D-2/D-0 · exam reminders D-7/D-1
+```
+- المطابقة **حتمية** (لا AI) وقابلة للتفسير: كل تنبيه يحمل قائمة الشروط (✓/✗/؟).
+- PARTIAL = ملف ناقص ⇒ ننبه مع دعوة لإكمال الملف بدل تفويت المناظرة.
+- شروط غير موثقة (`needs_verification`) ⇒ التنبيه يقول صراحة "الشروط بحاجة إلى تحقق — ارجع للبلاغ الرسمي".

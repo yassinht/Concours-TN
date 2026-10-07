@@ -1,7 +1,8 @@
 # E. Data Model — نموذج البيانات
 
 > المبدأ: **كل معلومة عن المناظرة قابلة للتتبّع إلى مصدر**. لا يوجد حقل "حقيقة" بدون `source`.
-> قاعدة البيانات: PostgreSQL. الـ ORM المقترح: Prisma (أو Drizzle). الأسماء بالإنجليزية، المحتوى ثنائي اللغة (ar/fr).
+> قاعدة البيانات: PostgreSQL 16 + **Drizzle ORM**. **المخطط المنفَّذ فعليًا: [`apps/api/src/db/schema.ts`](../apps/api/src/db/schema.ts)** (هذا الملف يشرح المبادئ؛ المخطط هو المرجع). الأسماء بالإنجليزية، المحتوى ثنائي اللغة (ar/fr).
+> فروق التنفيذ عن هذه الوثيقة: `pgvector` مؤجل (V1 يستعمل البحث النصي + تشابه Jaccard لكشف التكرار)؛ أُضيفت جداول التنبيهات (`alert_matches`, `notifications`, `push_subscriptions`)، الإحالة، الـ waitlist، تتبع الاختبارات البدنية، checklist الوثائق، ومراقبة المصادر الرسمية (`watched_sources`, `ingest_candidates`).
 
 ---
 
@@ -64,8 +65,7 @@ source_document (                         -- الملف نفسه (PDF، صورة
 source_chunk (                            -- مقاطع نصية لكل صفحة (للـ traceability و RAG)
   id, document_id → source_document,
   page int, chunk_index int,
-  text text, embedding vector(1024),      -- pgvector
-  tsv tsvector                            -- PostgreSQL FTS
+  text text                               -- (V2: embedding vector + tsvector)
 )
 ```
 
@@ -256,5 +256,5 @@ ai_job (id, kind, input_ref, output_ref, model, prompt_version, tokens_in, token
 
 - **جدول واحد للحقائق** (`competition_fact`) بدل عشرات الأعمدة المتغيرة لكل مناظرة: المناظرات التونسية تختلف كثيرًا في البنية.
 - `jsonb` للأجزاء المتغيرة (options, blueprint sections) بدون تعقيد.
-- `pgvector` + `tsvector` داخل نفس PostgreSQL ⇒ لا حاجة لـ OpenSearch في V1.
+- البحث داخل PostgreSQL (ILIKE/FTS) ⇒ لا حاجة لـ OpenSearch في V1؛ pgvector عند الحاجة لـ RAG واسع.
 - `content_status` موحد لكل أنواع المحتوى ⇒ dashboard مراجعة واحد.
