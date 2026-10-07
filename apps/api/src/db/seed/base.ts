@@ -30,6 +30,9 @@ function referralCode(): string {
 
 /** Admin account from ADMIN_EMAIL / ADMIN_PASSWORD. The password is only set at creation (never reset by a re-seed). */
 export async function seedAdmin(db: Db, log: SeedLog): Promise<void> {
+  if (env().NODE_ENV === 'production' && env().ADMIN_PASSWORD === 'admin12345') {
+    throw new Error('ADMIN_PASSWORD is still the development default: set a strong password before seeding production');
+  }
   const email = env().ADMIN_EMAIL.trim().toLowerCase();
   const [existing] = await db.select({ id: users.id, passwordHash: users.passwordHash }).from(users).where(sql`lower(${users.email}) = ${email}`).limit(1);
   let userId: string;

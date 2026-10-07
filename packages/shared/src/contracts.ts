@@ -48,6 +48,8 @@ export const ProfileInput = z.object({
   alertFields: z.array(z.enum(FIELDS)).optional(),
   alertChannels: z.array(z.enum(NOTIFICATION_CHANNELS)).optional(),
   dailyReminderHour: z.number().int().min(0).max(23).nullable().optional(),
+  /** Hide me from public leaderboards. */
+  leaderboardOptOut: z.boolean().optional(),
 });
 export type ProfileInput = z.infer<typeof ProfileInput>;
 
@@ -189,6 +191,10 @@ export interface MeDTO {
   premium: { active: boolean; planCode: string | null; endsAt: string | null };
   stats: { xp: number; level: number; streak: number };
   onboarding: { hasProfile: boolean; hasEnrollment: boolean; diagnosticDone: boolean };
+  /** Registered user confirmed their email address (EMAIL alerts are only sent to confirmed addresses). */
+  emailVerified: boolean;
+  /** Free-tier usage today (any session, guests included). Null for premium users (no limits). */
+  usageToday?: { questions: number; questionsLimit: number | null; tutor: number; tutorLimit: number | null } | null;
 }
 
 export interface ProfileDTO {
@@ -196,6 +202,7 @@ export interface ProfileDTO {
   birthDate: string | null; gender: Gender | null; diplomaLevel: DiplomaLevel | null; specialties: string[];
   governorate: string | null; heightCm: number | null; maritalStatus: 'SINGLE' | 'MARRIED' | 'OTHER' | null;
   alertsEnabled: boolean; alertFields: Field[]; alertChannels: ('IN_APP' | 'PUSH' | 'EMAIL')[]; dailyReminderHour: number | null;
+  leaderboardOptOut: boolean;
 }
 
 export interface OrganizationDTO { slug: string; name_ar: string; name_fr: string; ministry_fr: string | null; website: string | null }
@@ -255,18 +262,35 @@ export interface QuestionDTO {
   correct?: unknown; explanation?: string;
 }
 
+/** A MOCK section as served: `start`/`end` index the question list; `served` came from the intended pool, `filled` from fallbacks. */
+export interface AttemptSectionDTO { domain: Domain; specialtyKey: string | null; count: number; minutes: number; served: number; filled: number; start: number; end: number }
+
 export interface AttemptSessionDTO {
   id: string; kind: AttemptKind; mode: 'instant' | 'exam';
   startedAt: string; expiresAt: string | null; durationMinutes: number | null;
   familySlug: string | null; positionSlug: string | null; blueprintFidelity: 'OFFICIAL_FORMAT' | 'APPROXIMATED' | null;
   questions: QuestionDTO[];
   answered: Record<string, unknown>;
+  /** Server clock, so the client timer is not fooled by a wrong device clock. */
+  serverTime?: string;
+  sections?: AttemptSectionDTO[];
+  /** MOCK: questions that had to come from outside their blueprint section (or are missing). */
+  shortfall?: number;
+  /** Instant mode: correctness of the questions already answered (resuming a session). */
+  results?: Record<string, boolean>;
 }
 
-export interface AnswerFeedbackDTO { saved: true; isCorrect?: boolean; correct?: unknown; explanation?: string; xpGained?: number; limitReached?: boolean }
+export interface AnswerFeedbackDTO {
+  saved: true; isCorrect?: boolean; correct?: unknown; explanation?: string; xpGained?: number; limitReached?: boolean;
+  /** Free questions left today (null = unlimited). */
+  remainingToday?: number | null;
+  newBadges?: string[];
+}
 
 export interface AttemptResultDTO {
   id: string; kind: AttemptKind; score: number; correctCount: number; total: number; durationS: number; accuracy: number;
+  familySlug?: string | null; positionSlug?: string | null;
+  answeredCount?: number; avgTimeS?: number | null; shortfall?: number | null; sections?: AttemptSectionDTO[];
   byDomain: { domain: Domain; correct: number; total: number; score: number }[];
   weakTopics: { key: string; title_ar: string; title_fr: string; score: number }[];
   strongTopics: { key: string; title_ar: string; title_fr: string; score: number }[];
@@ -286,7 +310,7 @@ export interface TutorResponseDTO {
 
 export interface TodayPlanDTO { date: string; enrollmentId: string | null; familySlug: string | null; daysToExam: number | null; items: (PlanItem & { done: boolean })[] }
 
-export interface ReadinessDTO extends ReadinessResult { familySlug: string; topicTitles: Record<string, { ar: string; fr: string }>; history: { date: string; preparation: number }[] }
+export interface ReadinessDTO extends ReadinessResult { familySlug: string; topicTitles: Record<string, { ar: string; fr: string; key?: string }>; history: { date: string; preparation: number }[] }
 
 export interface NotificationDTO { id: string; type: NotificationType; title: string; body: string; url: string | null; readAt: string | null; createdAt: string; data: Record<string, unknown> }
 
@@ -294,8 +318,28 @@ export interface GamificationDTO { xp: number; level: number; levelProgress: { c
 export interface LeaderboardDTO { period: 'week' | 'all'; familySlug: string | null; top: { rank: number; name: string; xp: number; isMe: boolean }[]; me: { rank: number; xp: number } | null }
 
 export interface PlanDTO { code: string; name_ar: string; name_fr: string; priceMillimes: number; period: string; durationDays: number; features: Record<string, unknown> }
-export interface CheckoutResultDTO { paymentId: string; provider: PaymentProvider; redirectUrl: string | null; instructions_ar?: string; instructions_fr?: string; amountMillimes: number }
-export interface BillingMeDTO { subscription: { planCode: string; status: string; startsAt: string; endsAt: string } | null; payments: { id: string; amountMillimes: number; provider: PaymentProvider; status: PaymentStatus; createdAt: string; planCode: string }[] }
+export interface CheckoutSummaryDTO {
+  plan: { code: string; name_ar: string; name_fr: string; durationDays: number; period: string };
+  priceMillimes: number; discountMillimes: number; amountMillimes: number; percentOff: number; promoCode: string | null;
+  currency: string; taxIncluded: boolean; currentPremiumEndsAt: string | null;
+}
+export interface CheckoutResultDTO {
+  paymentId: string; provider: PaymentProvider; redirectUrl: string | null; instructions_ar?: string; instructions_fr?: string; amountMillimes: number;
+  status?: PaymentStatus; reference?: string; summary?: CheckoutSummaryDTO;
+}
+export interface BillingMeDTO {
+  subscription: {
+    planCode: string; status: string; startsAt: string; endsAt: string;
+    planName_ar?: string; planName_fr?: string; source?: string; daysLeft?: number;
+  } | null;
+  payments: {
+    id: string; amountMillimes: number; provider: PaymentProvider; status: PaymentStatus; createdAt: string; planCode: string;
+    planName_ar?: string; planName_fr?: string; paidAt?: string | null; manualReference?: string | null; instructions_ar?: string; instructions_fr?: string;
+  }[];
+  entitlements?: unknown;
+  usageToday?: { date: string; questions: number; tutor: number };
+  providers?: { code: PaymentProvider; available: boolean }[];
+}
 
 export interface AdminStatsDTO {
   users: { total: number; registered: number; guests: number; active7d: number; premium: number };
@@ -304,6 +348,10 @@ export interface AdminStatsDTO {
   funnel: { visitors: number; diagnostic: number; registered: number; paid: number };
   weakTopics: { key: string; title_ar: string; title_fr: string; errorRate: number; answers: number }[];
   waitlist: number;
+  /** Extras (see docs/api-contract.md): funnel provenance, alert delivery stats, AI availability. */
+  funnelDetail?: Record<string, unknown>;
+  alerts?: Record<string, unknown>;
+  aiEnabled?: boolean;
 }
 
 export type { EligibilityResult, EligibilityRules, PlanItem, ReadinessResult, ReadinessLabel, ContentStatus };

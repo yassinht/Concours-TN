@@ -113,7 +113,7 @@ export class AuthService {
   async guest(session: SessionUser | null, locale: Locale | undefined, res: Response): Promise<{ user: MeDTO }> {
     if (session) {
       const existing = await this.me.findActive(session.id);
-      if (existing) {
+      if (existing && (session.tv ?? 0) === existing.tokenVersion) {
         this.issueSession(res, existing);
         return { user: await this.me.buildFor(existing) };
       }
@@ -180,7 +180,8 @@ export class AuthService {
   async currentUser(session: SessionUser | null, res: Response): Promise<{ user: MeDTO | null }> {
     if (!session) return { user: null };
     const u = await this.me.findActive(session.id);
-    if (!u) {
+    // Revoked: account deleted/merged, or the password changed since this token was signed.
+    if (!u || (session.tv ?? 0) !== u.tokenVersion) {
       clearSessionCookie(res);
       return { user: null };
     }
@@ -207,8 +208,8 @@ export class AuthService {
     return this.me.buildFor(u);
   }
 
-  issueSession(res: Response, u: Pick<UserRow, 'id' | 'role' | 'isGuest'>) {
-    setSessionCookie(res, { id: u.id, role: u.role, isGuest: u.isGuest });
+  issueSession(res: Response, u: Pick<UserRow, 'id' | 'role' | 'isGuest' | 'tokenVersion'>) {
+    setSessionCookie(res, { id: u.id, role: u.role, isGuest: u.isGuest, tv: u.tokenVersion });
   }
 
   // ───────────── Magic link ─────────────
@@ -247,7 +248,7 @@ export class AuthService {
     const u = await this.findByEmail(email);
     if (!u || u.isGuest || !u.email) return { ok: true };
     const token = await this.createToken(u.id, 'RESET', RESET_TTL_MS);
-    const link = appUrl(`/reset-password?token=${encodeURIComponent(token)}`);
+    const link = appUrl(`/reset?token=${encodeURIComponent(token)}`);
     await this.safeSend(u.email, resetPasswordMail(link, RESET_TTL_MS / 60_000));
     return isProduction() ? { ok: true } : { ok: true, devLink: link };
   }
@@ -260,7 +261,8 @@ export class AuthService {
     const passwordHash = await bcrypt.hash(password, BCRYPT_COST);
     const [updated] = await this.db
       .update(users)
-      .set({ passwordHash, emailVerifiedAt: u.emailVerifiedAt ?? new Date() })
+      // Signs out every other device: their JWTs carry the previous token_version.
+      .set({ passwordHash, emailVerifiedAt: u.emailVerifiedAt ?? new Date(), tokenVersion: sql`${users.tokenVersion} + 1` })
       .where(eq(users.id, u.id))
       .returning();
     await this.revokeTokens(u.id, ['RESET', 'MAGIC_LINK']);
@@ -268,8 +270,11 @@ export class AuthService {
     return { user: await this.signInAs(updated, session, res) };
   }
 
-  /** Registered users change (or, for Google/magic-link accounts, set) their password. */
-  async changePassword(userId: string, currentPassword: string | undefined, newPassword: string): Promise<{ ok: true }> {
+  /**
+   * Registered users change (or, for Google/magic-link accounts, set) their password. Other devices are signed out
+   * (token_version bump); this device gets a fresh session cookie when `res` is given.
+   */
+  async changePassword(userId: string, currentPassword: string | undefined, newPassword: string, res?: Response): Promise<{ ok: true }> {
     const u = await this.me.findActive(userId);
     if (!u || u.isGuest) throw new UnauthorizedException('REGISTRATION_REQUIRED');
     if (u.passwordHash) {
@@ -282,7 +287,12 @@ export class AuthService {
       }
       rateLimiter.clear(failKey);
     }
-    await this.db.update(users).set({ passwordHash: await bcrypt.hash(newPassword, BCRYPT_COST) }).where(eq(users.id, u.id));
+    const [updated] = await this.db
+      .update(users)
+      .set({ passwordHash: await bcrypt.hash(newPassword, BCRYPT_COST), tokenVersion: sql`${users.tokenVersion} + 1` })
+      .where(eq(users.id, u.id))
+      .returning();
+    if (res && updated) this.issueSession(res, updated);
     await this.revokeTokens(u.id, ['RESET', 'MAGIC_LINK']);
     if (u.email) await this.safeSend(u.email, passwordChangedMail());
     return { ok: true };

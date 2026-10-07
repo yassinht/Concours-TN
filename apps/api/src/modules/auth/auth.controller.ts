@@ -5,12 +5,13 @@ import { ForgotPasswordInput, LoginInput, MagicLinkInput, RegisterInput, ResetPa
 import { CurrentUser, RegisteredGuard } from '../../common/auth.guards';
 import type { SessionUser } from '../../common/session';
 import { ZodPipe } from '../../common/zod.pipe';
+import { env } from '../../config/env';
 import { AuthService } from './auth.service';
 import { GoogleOAuthService } from './google-oauth.service';
 import { RateLimit } from './rate-limit';
 
 /** Per IP per route and minute on credential endpoints (configurable for carrier-grade NAT deployments). */
-const AUTH_LIMIT = Number(process.env.AUTH_RATE_LIMIT_PER_MIN) || 10;
+const AUTH_LIMIT = env().AUTH_RATE_LIMIT_PER_MIN;
 
 const GuestBody = z.object({ locale: z.enum(['ar', 'fr']).optional() }).optional();
 const ChangePasswordBody = z.object({
@@ -113,8 +114,12 @@ export class AuthController {
   @Post('password/change')
   @HttpCode(200)
   @UseGuards(RegisteredGuard, RateLimit(AUTH_LIMIT))
-  changePassword(@Body(new ZodPipe(ChangePasswordBody)) body: z.infer<typeof ChangePasswordBody>, @CurrentUser() user: SessionUser) {
-    return this.auth.changePassword(user.id, body.currentPassword, body.newPassword);
+  changePassword(
+    @Body(new ZodPipe(ChangePasswordBody)) body: z.infer<typeof ChangePasswordBody>,
+    @CurrentUser() user: SessionUser,
+    @Res({ passthrough: true }) res: Response,
+  ) {
+    return this.auth.changePassword(user.id, body.currentPassword, body.newPassword, res);
   }
 
   /** Extra: email confirmation link sent with the welcome email. */

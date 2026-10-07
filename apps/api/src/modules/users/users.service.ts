@@ -51,6 +51,7 @@ export function toProfileDTO(u: Pick<UserRow, 'name' | 'email' | 'phone' | 'loca
     alertFields: (p?.alertFields ?? []) as Field[],
     alertChannels: (p?.alertChannels ?? ['IN_APP', 'PUSH', 'EMAIL']) as ProfileDTO['alertChannels'],
     dailyReminderHour: p?.dailyReminderHour ?? null,
+    leaderboardOptOut: p?.leaderboardOptOut ?? false,
   };
 }
 
@@ -99,6 +100,7 @@ export class UsersService {
       p.alertChannels = uniq<NotificationChannel>(['IN_APP', ...input.alertChannels]);
     }
     if (input.dailyReminderHour !== undefined) p.dailyReminderHour = input.dailyReminderHour;
+    if (input.leaderboardOptOut !== undefined) p.leaderboardOptOut = input.leaderboardOptOut;
 
     await this.db.transaction(async (tx) => {
       if (Object.keys(userPatch).length) await tx.update(users).set(userPatch).where(eq(users.id, userId));
@@ -265,7 +267,7 @@ export class UsersService {
     await this.db.transaction(async (tx) => {
       await tx
         .update(users)
-        .set({ email: null, name: null, phone: null, passwordHash: null, googleSub: null, emailVerifiedAt: null, deletedAt: new Date() })
+        .set({ email: null, name: null, phone: null, passwordHash: null, googleSub: null, emailVerifiedAt: null, deletedAt: new Date(), tokenVersion: sql`${users.tokenVersion} + 1` })
         .where(eq(users.id, userId));
       await tx
         .update(userProfiles)

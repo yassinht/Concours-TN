@@ -1,5 +1,6 @@
 import { z } from 'zod';
 
+const DEV_JWT_SECRET_DEFAULT = 'dev-secret-change-me-please-32chars!!';
 const bool = z.union([z.boolean(), z.string()]).transform((v) => v === true || v === 'true' || v === '1');
 
 const EnvSchema = z.object({
@@ -11,12 +12,14 @@ const EnvSchema = z.object({
   APP_URL: z.string().default('http://localhost:3000'),
   /** Public URL where the API is reachable from the outside (payment webhooks). Through the web proxy by default. */
   API_PUBLIC_URL: z.string().default('http://localhost:3000/api'),
-  JWT_SECRET: z.string().min(16).default('dev-secret-change-me-please-32chars!!'),
+  JWT_SECRET: z.string().min(16).default(DEV_JWT_SECRET_DEFAULT),
   COOKIE_SECURE: bool.default(false),
   /** Serve AI_REVIEWED (not yet human-reviewed) questions with a "beta" badge. Must be false in production once the bank is reviewed. */
   CONTENT_BETA_MODE: bool.default(true),
   ADMIN_EMAIL: z.string().default('admin@concours.tn'),
   ADMIN_PASSWORD: z.string().default('admin12345'),
+  /** Per-IP cap on login/register/magic-link/reset requests per minute (raise behind carrier-grade NAT). */
+  AUTH_RATE_LIMIT_PER_MIN: z.coerce.number().int().min(1).default(10),
   // AI
   ANTHROPIC_API_KEY: z.string().optional(),
   AI_MODEL_TUTOR: z.string().default('claude-haiku-4-5-20251001'),
@@ -52,8 +55,19 @@ const EnvSchema = z.object({
 
 export type Env = z.infer<typeof EnvSchema>;
 
+const DEV_JWT_SECRET = DEV_JWT_SECRET_DEFAULT;
+
 let cached: Env | null = null;
 export function env(): Env {
-  if (!cached) cached = EnvSchema.parse(process.env);
+  if (!cached) {
+    const parsed = EnvSchema.parse(process.env);
+    if (parsed.NODE_ENV === 'production') {
+      // Fail fast instead of signing sessions with a public secret or shipping unreviewed content by accident.
+      if (parsed.JWT_SECRET === DEV_JWT_SECRET || parsed.JWT_SECRET.startsWith('change-me') || parsed.JWT_SECRET.length < 32) {
+        throw new Error('JWT_SECRET must be set to a random string of at least 32 characters in production');
+      }
+    }
+    cached = parsed;
+  }
   return cached;
 }

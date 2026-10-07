@@ -1,5 +1,6 @@
 import { describe, expect, it } from 'vitest';
-import { ageAt, checkEligibility, shouldAlert } from './eligibility';
+import { ageAt, ageRangeText, checkEligibility, shouldAlert } from './eligibility';
+import { READINESS_LABEL_TEXT } from './enums';
 import { buildDailyPlan, computeReadiness, gradeAnswer, levelFromXp, shrunkMastery, updateRating, updateStreak } from './learning';
 
 describe('eligibility', () => {
@@ -84,5 +85,35 @@ describe('learning', () => {
     expect(s.current).toBe(4);
     const broken = updateStreak({ current: 3, longest: 5, lastActive: '2026-10-01', freezes: 0 }, '2026-10-07');
     expect(broken.current).toBe(1);
+  });
+  it('plan items carry bilingual titles and the topic key', () => {
+    const items = buildDailyPlan({
+      topics: [{ topicId: 'a', topicKey: 'fr.grammaire', domain: 'FRENCH', title: 'Grammaire', title_ar: 'القواعد', title_fr: 'Grammaire', examWeight: 1, mastery: 0.2, dueForReview: true, daysSinceSeen: null }],
+      dailyMinutes: 40, daysToExam: 60, dayOfWeek: 1, mistakesPending: 3,
+    });
+    const mistakes = items.find((i) => i.kind === 'MISTAKES')!;
+    expect(mistakes.title_fr).toBe('Revoir mes erreurs');
+    expect(mistakes.title_ar).toBe('مراجعة الأخطاء');
+    const practice = items.find((i) => i.kind === 'PRACTICE')!;
+    expect(practice).toEqual(expect.objectContaining({ topicKey: 'fr.grammaire', title_ar: 'القواعد', title_fr: 'Grammaire' }));
+  });
+});
+
+describe('wording', () => {
+  it('describes age conditions without dangling dashes', () => {
+    expect(ageRangeText(null, 27).fr).toBe('27 ans au plus');
+    expect(ageRangeText(18, null).ar).toBe('18 سنة على الأقل');
+    expect(ageRangeText(20, 35).fr).toBe('de 20 à 35 ans');
+    const r = checkEligibility({ max_age: 27 }, { birth_date: '1990-01-01' }, '2026-10-07');
+    expect(r.checks[0].message_fr).not.toContain('—');
+  });
+  it('readiness labels and reasons are French in the fr field', () => {
+    expect(READINESS_LABEL_TEXT.EXCELLENT.fr).toBe('Excellente préparation');
+    const r = computeReadiness({
+      topics: [{ topicId: 't', domain: 'NUMERICAL', rating: 700, attempts: 30 }],
+      weights: [{ domain: 'NUMERICAL', weight: 1, topicCount: 1 }], mockScores: [], formatOfficial: true,
+    });
+    expect(r.reasons.some((x) => x.fr.includes('Calcul') && x.ar.includes('الحساب'))).toBe(true);
+    expect(r.reasons.some((x) => x.fr.includes('NUMERICAL'))).toBe(false);
   });
 });

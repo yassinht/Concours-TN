@@ -177,7 +177,7 @@ export function BillingView() {
       subtitle={tr({ ar: 'دفع لمرة واحدة، دون تجديد تلقائي. الأسعار بالدينار التونسي وتشمل كل الأداءات.', fr: 'Paiement unique, sans renouvellement automatique. Prix en dinars, toutes taxes comprises.' })}
     />
   );
-  if (billing.loading || plans.loading) return <>{header}<div className="flex flex-col gap-4"><Skeleton className="h-28" /><Skeleton className="h-80" /></div></>;
+  if (!registered || billing.loading || plans.loading || (!billing.data && !billing.error) || (!plans.data && !plans.error)) return <>{header}<div className="flex flex-col gap-4"><Skeleton className="h-28" /><Skeleton className="h-80" /></div></>;
   if (billing.error || plans.error) return <>{header}<ErrorState error={billing.error ?? plans.error} onRetry={() => { void billing.reload(); void plans.reload(); }} /></>;
 
   const b = billing.data!;

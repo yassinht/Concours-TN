@@ -1,4 +1,4 @@
-import { Difficulty, Domain, QuestionType, ReadinessLabel } from './enums';
+import { DOMAIN_LABELS, Difficulty, Domain, QuestionType, ReadinessLabel } from './enums';
 
 // ───────────────────────────── Grading ─────────────────────────────
 
@@ -156,8 +156,8 @@ export function computeReadiness(input: ReadinessInput): ReadinessResult {
   const weakest = [...byDomain].sort((a, b) => a.score - b.score)[0];
   if (weakest && weakest.score < 0.55) {
     reasons.push({
-      ar: `أضعف مادة: ${weakest.domain} (${Math.round(weakest.score * 100)}%) ووزنها ${Math.round((weakest.weight / totalW) * 100)}% من الامتحان.`,
-      fr: `Matière la plus faible : ${weakest.domain} (${Math.round(weakest.score * 100)} %), soit ${Math.round((weakest.weight / totalW) * 100)} % de l’examen.`,
+      ar: `أضعف مادة: ${DOMAIN_LABELS[weakest.domain]?.ar ?? weakest.domain} (${Math.round(weakest.score * 100)}%) ووزنها ${Math.round((weakest.weight / totalW) * 100)}% من الامتحان.`,
+      fr: `Matière la plus faible : ${DOMAIN_LABELS[weakest.domain]?.fr ?? weakest.domain} (${Math.round(weakest.score * 100)} %), soit ${Math.round((weakest.weight / totalW) * 100)} % de l’examen.`,
     });
   }
   if (!input.formatOfficial) reasons.push({ ar: 'توزيع المواد تقديري لأن الصيغة الرسمية للامتحان غير منشورة.', fr: 'Pondération estimée : le format officiel n’est pas publié.' });
@@ -194,8 +194,12 @@ export function computeReadiness(input: ReadinessInput): ReadinessResult {
 
 export interface PlanTopic {
   topicId: string;
+  /** Syllabus key (used by the web app to start a practice session or open the lesson). */
+  topicKey?: string;
   domain: Domain;
   title: string;
+  title_ar?: string;
+  title_fr?: string;
   examWeight: number; // domain weight in the exam
   mastery: number; // 0..1 (shrunk)
   dueForReview: boolean;
@@ -205,10 +209,24 @@ export interface PlanTopic {
 export interface PlanItem {
   kind: 'PRACTICE' | 'REVIEW' | 'LESSON' | 'MOCK' | 'MISTAKES';
   topicId?: string;
+  topicKey?: string;
   domain?: Domain;
+  /** Title in the requester's locale (API) — English fallback when built without locale. */
   title: string;
+  title_ar?: string;
+  title_fr?: string;
   questions?: number;
   minutes: number;
+}
+
+const PLAN_TITLES = {
+  MOCK: { title: 'Mock exam', title_ar: 'امتحان تجريبي', title_fr: 'Examen blanc' },
+  MISTAKES: { title: 'Mistakes review', title_ar: 'مراجعة الأخطاء', title_fr: 'Revoir mes erreurs' },
+  REVIEW: { title: 'Spaced review', title_ar: 'مراجعة متباعدة', title_fr: 'Révision espacée' },
+} as const;
+
+function topicTitles(t: PlanTopic) {
+  return { title: t.title, title_ar: t.title_ar ?? t.title, title_fr: t.title_fr ?? t.title, ...(t.topicKey ? { topicKey: t.topicKey } : {}) };
 }
 
 /**
@@ -229,20 +247,20 @@ export function buildDailyPlan(opts: {
   const closeToExam = opts.daysToExam != null && opts.daysToExam <= 21 && opts.daysToExam >= 0;
   const mockDay = closeToExam ? opts.dayOfWeek === 2 || opts.dayOfWeek === 5 : opts.dayOfWeek === 5;
   if (mockDay && budget >= 30 && opts.daysToExam !== null) {
-    items.push({ kind: 'MOCK', title: 'Mock exam', minutes: Math.min(budget, 90) });
+    items.push({ kind: 'MOCK', ...PLAN_TITLES.MOCK, minutes: Math.min(budget, 90) });
     budget -= Math.min(budget, 90);
   }
 
   if (opts.mistakesPending > 0 && budget > 0) {
     const m = Math.min(10, opts.mistakesPending, Math.ceil(budget * 0.2));
-    items.push({ kind: 'MISTAKES', title: 'Mistakes review', questions: m, minutes: m });
+    items.push({ kind: 'MISTAKES', ...PLAN_TITLES.MISTAKES, questions: m, minutes: m });
     budget -= m;
   }
 
   const reviewDue = opts.topics.filter((t) => t.dueForReview);
   if (reviewDue.length && budget > 0) {
     const m = Math.max(5, Math.round(budget * 0.2));
-    items.push({ kind: 'REVIEW', title: 'Spaced review', questions: m, minutes: m });
+    items.push({ kind: 'REVIEW', ...PLAN_TITLES.REVIEW, questions: m, minutes: m });
     budget -= m;
   }
 
@@ -260,9 +278,9 @@ export function buildDailyPlan(opts: {
     const q = Math.max(5, Math.round((budget * p) / totalP / 5) * 5);
     const minutes = Math.min(budget, q);
     if (t.mastery < 0.4 && t.daysSinceSeen == null) {
-      items.push({ kind: 'LESSON', topicId: t.topicId, domain: t.domain, title: t.title, minutes: Math.min(10, minutes) });
+      items.push({ kind: 'LESSON', topicId: t.topicId, domain: t.domain, ...topicTitles(t), minutes: Math.min(10, minutes) });
     }
-    items.push({ kind: 'PRACTICE', topicId: t.topicId, domain: t.domain, title: t.title, questions: minutes, minutes });
+    items.push({ kind: 'PRACTICE', topicId: t.topicId, domain: t.domain, ...topicTitles(t), questions: minutes, minutes });
     budget -= minutes;
   }
   return items;

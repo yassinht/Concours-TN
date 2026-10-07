@@ -60,6 +60,14 @@ export function ageAt(birthDate: string, ref: Date | string): number {
   return age;
 }
 
+/** Human wording of an age condition, readable in RTL Arabic too (no dangling dashes when one bound is missing). */
+export function ageRangeText(min: number | null, max: number | null): { ar: string; fr: string } {
+  if (min != null && max != null) return { ar: `من ${min} إلى ${max} سنة`, fr: `de ${min} à ${max} ans` };
+  if (max != null) return { ar: `${max} سنة على الأكثر`, fr: `${max} ans au plus` };
+  if (min != null) return { ar: `${min} سنة على الأقل`, fr: `${min} ans au moins` };
+  return { ar: 'دون شرط سن', fr: 'sans condition d’âge' };
+}
+
 const norm = (s: string) => s.trim().toLowerCase().normalize('NFKD').replace(/[̀-ͯ]/g, '');
 
 /**
@@ -77,11 +85,11 @@ export function checkEligibility(rules: EligibilityRules, profile: CandidateProf
       const age = ageAt(profile.birth_date, refDate);
       const okMin = rules.min_age == null || age >= rules.min_age;
       const okMax = rules.max_age == null || age <= rules.max_age;
-      const range = `${rules.min_age ?? '—'}–${rules.max_age ?? '—'}`;
+      const range = ageRangeText(rules.min_age ?? null, rules.max_age ?? null);
       checks.push(
         okMin && okMax
-          ? { code: 'AGE', status: 'OK', message_ar: `سنك (${age}) ضمن المجال المطلوب ${range}`, message_fr: `Votre âge (${age}) est dans l’intervalle ${range}` }
-          : { code: 'AGE', status: 'FAIL', message_ar: `سنك (${age}) خارج المجال المطلوب ${range}`, message_fr: `Votre âge (${age}) est hors de l’intervalle ${range}` },
+          ? { code: 'AGE', status: 'OK', message_ar: `سنك (${age}) يستوفي شرط السن: ${range.ar}`, message_fr: `Votre âge (${age}) respecte la condition : ${range.fr}` }
+          : { code: 'AGE', status: 'FAIL', message_ar: `سنك (${age}) لا يستوفي شرط السن: ${range.ar}`, message_fr: `Votre âge (${age}) ne respecte pas la condition : ${range.fr}` },
       );
     }
   }

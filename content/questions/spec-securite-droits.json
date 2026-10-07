@@ -1,0 +1,2053 @@
+{
+  "bank": "spec-securite-droits",
+  "domain": "SPECIALTY",
+  "specialty_syllabus": [
+    {
+      "key": "spec.securite-droits",
+      "parent_key": null,
+      "level": "SUBJECT",
+      "domain": "SPECIALTY",
+      "title_ar": "حقوق الإنسان والحريات وأخلاقيات العمل الأمني ومبادئ الإجراءات الجزائية",
+      "title_fr": "Droits de l'homme, libertés, déontologie sécuritaire et notions de procédure pénale",
+      "scope": "SUGGESTED",
+      "source_key": null,
+      "objectives": []
+    },
+    {
+      "key": "spec.securite-droits.droits-homme",
+      "parent_key": "spec.securite-droits",
+      "level": "TOPIC",
+      "domain": "SPECIALTY",
+      "title_ar": "حقوق الإنسان والحريات الأساسية",
+      "title_fr": "Droits de l'homme et libertés fondamentales",
+      "scope": "SUGGESTED",
+      "source_key": null,
+      "objectives": [
+        {
+          "key": "spec.securite-droits.droits-homme.o1",
+          "text_ar": "معرفة أهم المواثيق والمعايير الدولية لحقوق الإنسان (الإعلان العالمي، العهدان الدوليان، اتفاقية مناهضة التعذيب، قواعد الأمم المتحدة النموذجية) وتواريخها والحقوق غير القابلة للتعليق",
+          "text_fr": "Connaître les principaux instruments et standards internationaux (DUDH, Pactes, Convention contre la torture, règles minima des Nations unies), leurs dates et les droits indérogeables"
+        },
+        {
+          "key": "spec.securite-droits.droits-homme.o2",
+          "text_ar": "فهم خصائص حقوق الإنسان (الكونية، عدم القابلية للتجزئة)، وقرينة البراءة، وضوابط تقييد الحقوق والحريات وشروط التحلل منها في حالات الطوارئ",
+          "text_fr": "Comprendre les caractéristiques des droits de l'homme, la présomption d'innocence, les conditions de limitation des droits et de dérogation en cas d'urgence"
+        }
+      ]
+    },
+    {
+      "key": "spec.securite-droits.code-conduite",
+      "parent_key": "spec.securite-droits",
+      "level": "TOPIC",
+      "domain": "SPECIALTY",
+      "title_ar": "مدونة سلوك الموظفين المكلفين بإنفاذ القوانين واستعمال القوة",
+      "title_fr": "Code de conduite des responsables de l'application des lois et recours à la force",
+      "scope": "SUGGESTED",
+      "source_key": null,
+      "objectives": [
+        {
+          "key": "spec.securite-droits.code-conduite.o1",
+          "text_ar": "معرفة مبادئ مدونة الأمم المتحدة لقواعد سلوك الموظفين المكلفين بإنفاذ القوانين (1979): الكرامة الإنسانية، حظر التعذيب، السرية، صحة المحتجزين، مكافحة الفساد، الإبلاغ عن الانتهاكات",
+          "text_fr": "Connaître les principes du Code de conduite des Nations unies pour les responsables de l'application des lois (1979)"
+        },
+        {
+          "key": "spec.securite-droits.code-conduite.o2",
+          "text_ar": "تطبيق المبادئ الأساسية بشأن استخدام القوة والأسلحة النارية (1990): الشرعية، الضرورة، التناسب، المساءلة، الإنذار، التعامل مع التجمعات",
+          "text_fr": "Appliquer les Principes de base sur le recours à la force et l'utilisation des armes à feu (1990) : légalité, nécessité, proportionnalité, responsabilité, sommation, rassemblements"
+        }
+      ]
+    },
+    {
+      "key": "spec.securite-droits.police-judiciaire",
+      "parent_key": "spec.securite-droits",
+      "level": "TOPIC",
+      "domain": "SPECIALTY",
+      "title_ar": "الضابطة العدلية ومبادئ الإجراءات الجزائية",
+      "title_fr": "Police judiciaire et notions de procédure pénale",
+      "scope": "SUGGESTED",
+      "source_key": null,
+      "objectives": [
+        {
+          "key": "spec.securite-droits.police-judiciaire.o1",
+          "text_ar": "معرفة مهام الضابطة العدلية وتركيبتها والإشراف القضائي عليها والإنابة العدلية",
+          "text_fr": "Connaître les missions, la composition et le contrôle judiciaire de la police judiciaire ; la commission rogatoire"
+        },
+        {
+          "key": "spec.securite-droits.police-judiciaire.o2",
+          "text_ar": "التمييز بين الجنايات والجنح والمخالفات، وحالات التلبس، وأسباب انقضاء الدعوى العمومية وآجال تقادمها",
+          "text_fr": "Distinguer crimes, délits et contraventions ; identifier la flagrance ; connaître l'extinction et la prescription de l'action publique"
+        }
+      ]
+    },
+    {
+      "key": "spec.securite-droits.garde-a-vue",
+      "parent_key": "spec.securite-droits",
+      "level": "TOPIC",
+      "domain": "SPECIALTY",
+      "title_ar": "الاحتفاظ وضمانات ذي الشبهة",
+      "title_fr": "Garde à vue et garanties de la personne gardée à vue",
+      "scope": "SUGGESTED",
+      "source_key": null,
+      "objectives": [
+        {
+          "key": "spec.securite-droits.garde-a-vue.o1",
+          "text_ar": "معرفة شروط الاحتفاظ وآجاله وتمديده كما ضبطها تنقيح مجلة الإجراءات الجزائية بالقانون عدد 5 لسنة 2016",
+          "text_fr": "Connaître les conditions, durées et prolongation de la garde à vue issues de la loi n° 2016-5 modifiant le Code de procédure pénale"
+        },
+        {
+          "key": "spec.securite-droits.garde-a-vue.o2",
+          "text_ar": "معرفة حقوق المحتفظ به (الإعلام، المحامي، الفحص الطبي) وآليات الرقابة على أماكن الحرمان من الحرية",
+          "text_fr": "Connaître les droits de la personne gardée à vue (information, avocat, examen médical) et les mécanismes de contrôle des lieux de privation de liberté"
+        }
+      ]
+    },
+    {
+      "key": "spec.securite-droits.ethique",
+      "parent_key": "spec.securite-droits",
+      "level": "TOPIC",
+      "domain": "SPECIALTY",
+      "title_ar": "أخلاقيات العمل الأمني",
+      "title_fr": "Éthique et déontologie de l'agent de sécurité",
+      "scope": "SUGGESTED",
+      "source_key": null,
+      "objectives": [
+        {
+          "key": "spec.securite-droits.ethique.o1",
+          "text_ar": "معرفة الواجبات المهنية لعون الأمن: الحياد، السر المهني، واجب التحفظ، الانضباط وحدود ممارسة الحقوق",
+          "text_fr": "Connaître les obligations professionnelles de l'agent : neutralité, secret professionnel, devoir de réserve, discipline et limites de l'exercice des droits"
+        },
+        {
+          "key": "spec.securite-droits.ethique.o2",
+          "text_ar": "التصرف بنزاهة إزاء الفساد وتضارب المصالح، والتعامل المهني مع الضحايا والفئات الهشة",
+          "text_fr": "Agir avec intégrité face à la corruption et aux conflits d'intérêts ; traiter avec professionnalisme les victimes et les publics vulnérables"
+        }
+      ]
+    }
+  ],
+  "sources": [],
+  "research_notes": "Banque originale (origin AI_GENERATED) de 40 questions ; tout le specialty_syllabus est en scope SUGGESTED : aucun programme officiel de l'épreuve « droits de l'homme / déontologie / procédure pénale » n'a été consulté. Le découpage suit l'intitulé de l'épreuve dans les familles qui référencent spec.securite-droits (police-gardien-paix, police-inspecteur, police-officier, garde-nationale, prisons-reeducation, protection-civile). VÉRIFICATION WEB IMPOSSIBLE (2026-10-07) : le quota WebSearch partagé était épuisé dès la première requête, et WebFetch a été bloqué (EGRESS_BLOCKED) pour www.ohchr.org, www.un.org, ar.wikipedia.org, fr.wikipedia.org et www.jurisitetunisie.com. Aucune source n'a donc été lue : sources[] est vide et tous les source_key sont null. (1) Les questions sur les instruments internationaux reposent sur des faits stables : DUDH (10/12/1948, rés. 217 A (III)), PIDCP (1966 ; art. 4 : conditions de dérogation et droits indérogeables), CAT (1984), CDE (1989), Règles Nelson Mandela (2015), Beijing (1985), Tokyo (1990), Bangkok (2010), Havane mineurs (1990), Déclaration de Vienne (1993), Code de conduite ONU (rés. 34/169 du 17/12/1979, art. 4 à 8), Principes de base de La Havane (1990, principes 9, 10, 13, 14). Elles ne portent pas le tag needs_verification. (2) TOUTES les questions de droit tunisien portent le tag 'needs_verification' et doivent être relues contre le JORT / legislation.tn avant publication. Points précis à vérifier : 0007 — clause de limitation des droits de la Constitution de 2022 (reprise de l'art. 49 de 2014 : loi, nécessité dans un régime démocratique, objectifs, proportionnalité, essence du droit ; numéro d'article non cité volontairement) ; 0017 — art. 9 CPP (mission de la PJ) ; 0018 — liste de l'art. 10 CPP ; 0020 — supervision de la PJ par le procureur général près la cour d'appel et les procureurs de la République ; 0021 — seuils crime/délit/contravention (art. 122 CPP : plus de 5 ans ; plus de 15 jours ; amende de plus de 60 dinars) ; 0022 — art. 33 CPP (flagrance) ; 0023 — art. 4 CPP (causes d'extinction de l'action publique) ; 0024 — art. 5 CPP (prescription 10 ans / 3 ans / 1 an, interruption par les actes de poursuite ou d'instruction) et prescription des peines (20 / 5 / 2 ans) citée en explication ; 0025 à 0030 et 0032 — art. 13 bis et suivants CPP modifiés par la loi n° 2016-5 du 16 février 2016 : autorisation préalable du procureur de la République, durée initiale de 48 h (ancien régime : 3 jours), prolongation unique par écrit de 24 h (délits) ou 48 h (crimes), information dans une langue comprise, droit à l'avocat (visite, assistance aux auditions et confrontations), examen médical à la demande du gardé à vue, de son avocat ou de ses proches ; le régime dérogatoire terroriste (loi organique n° 2015-26 modifiée) est seulement évoqué, sans durée ; 0031 — loi organique n° 2013-43 (INPT) et adhésion de la Tunisie à l'OPCAT ; 0034 — interdiction de la grève pour les FSI (loi n° 82-70 du 6 août 1982 modifiée) et reconnaissance du droit syndical en 2011 ; 0035 — exceptions au droit d'accès à l'information (loi organique n° 2016-22) ; 0039 — loi organique n° 2017-10 du 7 mars 2017 (signalement de la corruption, protection des lanceurs d'alerte) ; 0040 — loi organique n° 2017-58 du 11 août 2017 : unités spécialisées et incrimination de la pression exercée par l'agent sur la victime pour la faire renoncer (la peine n'est volontairement pas citée). (3) Sujets volontairement écartés faute de vérification : durée de la garde à vue en matière terroriste, horaires des perquisitions domiciliaires (art. 95 CPP ?), gradation de l'usage des armes prévue par la loi n° 69-4 du 24 janvier 1969, garde à vue des mineurs (Code de la protection de l'enfant), numéros d'articles de la Constitution de 2022, statut particulier des agents des prisons (loi n° 2001-51). (4) Familles : instruments internationaux, code de conduite et éthique → les 6 familles ; police judiciaire et garde à vue → police-*, garde-nationale, prisons-reeducation (sans protection-civile) ; 0034 (grève, statut des FSI) sans prisons-reeducation, dont les agents relèvent d'un statut propre ; 0040 (unités spécialisées violence faite aux femmes) limitée à police-* et garde-nationale. (5) Répartition : 5 TOPIC × 8 questions (4 par objectif) ; difficulté 12 EASY / 16 MEDIUM / 8 HARD / 4 EXPERT ; types 27 MCQ_SINGLE, 5 MCQ_MULTI, 4 TRUE_FALSE, 2 NUMERIC, 1 ORDERING, 1 MATCHING ; langues 36 ar / 4 fr. Aucune question ne dépend d'un fait daté (valid_until null partout).",
+  "questions": [
+    {
+      "id": "spec-securite-droits-0001",
+      "type": "MCQ_SINGLE",
+      "language": "ar",
+      "stem": "في أيّ تاريخ اعتمدت الجمعية العامة للأمم المتحدة الإعلان العالمي لحقوق الإنسان؟",
+      "options": [
+        {
+          "id": "a",
+          "text": "16 ديسمبر 1966"
+        },
+        {
+          "id": "b",
+          "text": "10 ديسمبر 1948"
+        },
+        {
+          "id": "c",
+          "text": "10 ديسمبر 1984"
+        },
+        {
+          "id": "d",
+          "text": "26 جوان 1945"
+        }
+      ],
+      "correct": [
+        "b"
+      ],
+      "explanation": "اعتُمد الإعلان العالمي لحقوق الإنسان بباريس في 10 ديسمبر 1948 بمقتضى قرار الجمعية العامة عدد 217 ألف (د-3)، ولذلك يُحتفل في هذا التاريخ سنويا باليوم العالمي لحقوق الإنسان. أما 26 جوان 1945 فهو تاريخ التوقيع على ميثاق الأمم المتحدة بسان فرانسيسكو، و16 ديسمبر 1966 تاريخ اعتماد العهدين الدوليين، و10 ديسمبر 1984 تاريخ اعتماد اتفاقية مناهضة التعذيب.",
+      "difficulty": "EASY",
+      "topic_key": "spec.securite-droits.droits-homme",
+      "objective_key": "spec.securite-droits.droits-homme.o1",
+      "families": [
+        "police-gardien-paix",
+        "police-inspecteur",
+        "police-officier",
+        "garde-nationale",
+        "prisons-reeducation",
+        "protection-civile"
+      ],
+      "origin": "AI_GENERATED",
+      "source_key": null,
+      "year": null,
+      "valid_until": null,
+      "tags": [
+        "dudh",
+        "instruments-internationaux"
+      ]
+    },
+    {
+      "id": "spec-securite-droits-0002",
+      "type": "ORDERING",
+      "language": "ar",
+      "stem": "رتّب الصكوك الدولية التالية ترتيبا زمنيا حسب تاريخ اعتمادها، من الأقدم إلى الأحدث:",
+      "options": [
+        {
+          "id": "a",
+          "text": "اتفاقية مناهضة التعذيب وغيره من ضروب المعاملة أو العقوبة القاسية أو اللاإنسانية أو المهينة"
+        },
+        {
+          "id": "b",
+          "text": "العهد الدولي الخاص بالحقوق المدنية والسياسية"
+        },
+        {
+          "id": "c",
+          "text": "الإعلان العالمي لحقوق الإنسان"
+        },
+        {
+          "id": "d",
+          "text": "اتفاقية حقوق الطفل"
+        },
+        {
+          "id": "e",
+          "text": "قواعد الأمم المتحدة النموذجية الدنيا لمعاملة السجناء في صيغتها المراجعة (قواعد نيلسون مانديلا)"
+        }
+      ],
+      "correct": {
+        "order": [
+          "c",
+          "b",
+          "a",
+          "d",
+          "e"
+        ]
+      },
+      "explanation": "الترتيب الصحيح: الإعلان العالمي لحقوق الإنسان (1948)، ثم العهد الدولي الخاص بالحقوق المدنية والسياسية (1966)، ثم اتفاقية مناهضة التعذيب (1984)، ثم اتفاقية حقوق الطفل (1989)، وأخيرا قواعد نيلسون مانديلا التي اعتمدتها الجمعية العامة سنة 2015 في شكل مراجعة للقواعد النموذجية الدنيا لسنة 1955. ويخلط بعض المترشحين بين تاريخ اعتماد العهد (1966) وتاريخ دخوله حيز النفاذ (1976)، وهو خلط لا يغيّر الترتيب هنا.",
+      "difficulty": "MEDIUM",
+      "topic_key": "spec.securite-droits.droits-homme",
+      "objective_key": "spec.securite-droits.droits-homme.o1",
+      "families": [
+        "police-gardien-paix",
+        "police-inspecteur",
+        "police-officier",
+        "garde-nationale",
+        "prisons-reeducation",
+        "protection-civile"
+      ],
+      "origin": "AI_GENERATED",
+      "source_key": null,
+      "year": null,
+      "valid_until": null,
+      "tags": [
+        "instruments-internationaux",
+        "chronologie"
+      ]
+    },
+    {
+      "id": "spec-securite-droits-0003",
+      "type": "MATCHING",
+      "language": "ar",
+      "stem": "اربط كل مجموعة من قواعد الأمم المتحدة بموضوعها:",
+      "options": [
+        {
+          "id": "l1",
+          "text": "قواعد نيلسون مانديلا",
+          "side": "left"
+        },
+        {
+          "id": "l2",
+          "text": "قواعد بيجين",
+          "side": "left"
+        },
+        {
+          "id": "l3",
+          "text": "قواعد بانكوك",
+          "side": "left"
+        },
+        {
+          "id": "l4",
+          "text": "قواعد طوكيو",
+          "side": "left"
+        },
+        {
+          "id": "r1",
+          "text": "القواعد النموذجية الدنيا لإدارة شؤون قضاء الأحداث",
+          "side": "right"
+        },
+        {
+          "id": "r2",
+          "text": "القواعد النموذجية الدنيا لمعاملة السجناء (الصيغة المراجعة لسنة 2015)",
+          "side": "right"
+        },
+        {
+          "id": "r3",
+          "text": "القواعد النموذجية الدنيا للتدابير غير الاحتجازية",
+          "side": "right"
+        },
+        {
+          "id": "r4",
+          "text": "قواعد معاملة السجينات والتدابير غير الاحتجازية للمجرمات",
+          "side": "right"
+        }
+      ],
+      "correct": {
+        "pairs": [
+          [
+            "l1",
+            "r2"
+          ],
+          [
+            "l2",
+            "r1"
+          ],
+          [
+            "l3",
+            "r4"
+          ],
+          [
+            "l4",
+            "r3"
+          ]
+        ]
+      },
+      "explanation": "قواعد نيلسون مانديلا هي الصيغة المراجعة سنة 2015 للقواعد النموذجية الدنيا لمعاملة السجناء، وقواعد بيجين (1985) تخص إدارة شؤون قضاء الأحداث. أما قواعد طوكيو (1990) فتتعلق بالتدابير غير الاحتجازية عموما، في حين تكمّلها قواعد بانكوك (2010) بأحكام خاصة بالنساء السجينات والمجرمات. ولا ينبغي الخلط بين قواعد بيجين وقواعد هافانا (1990) الخاصة بحماية الأحداث المجردين من حريتهم.",
+      "difficulty": "MEDIUM",
+      "topic_key": "spec.securite-droits.droits-homme",
+      "objective_key": "spec.securite-droits.droits-homme.o1",
+      "families": [
+        "police-gardien-paix",
+        "police-inspecteur",
+        "police-officier",
+        "garde-nationale",
+        "prisons-reeducation"
+      ],
+      "origin": "AI_GENERATED",
+      "source_key": null,
+      "year": null,
+      "valid_until": null,
+      "tags": [
+        "regles-onu",
+        "prisons",
+        "mandela"
+      ]
+    },
+    {
+      "id": "spec-securite-droits-0004",
+      "type": "MCQ_MULTI",
+      "language": "ar",
+      "stem": "حسب المادة 4 من العهد الدولي الخاص بالحقوق المدنية والسياسية، أيّ من الحقوق التالية لا يجوز للدولة أن تتحلّل منها حتى في حالة طوارئ استثنائية معلنة رسميا؟ (اختر كل الإجابات الصحيحة)",
+      "options": [
+        {
+          "id": "a",
+          "text": "عدم التعرض للتعذيب أو للمعاملة القاسية أو اللاإنسانية أو المهينة"
+        },
+        {
+          "id": "b",
+          "text": "عدم رجعية القانون الجزائي (لا جريمة ولا عقوبة إلا بنص سابق)"
+        },
+        {
+          "id": "c",
+          "text": "حرية التنقل واختيار مكان الإقامة"
+        },
+        {
+          "id": "d",
+          "text": "الحق في التجمع السلمي"
+        },
+        {
+          "id": "e",
+          "text": "الحق في الحياة"
+        }
+      ],
+      "correct": [
+        "a",
+        "b",
+        "e"
+      ],
+      "explanation": "تعدّد الفقرة الثانية من المادة 4 من العهد الحقوق التي لا يجوز التحلل منها مطلقا، ومنها الحق في الحياة (المادة 6) وحظر التعذيب (المادة 7) وحظر الرق وعدم رجعية القانون الجزائي (المادة 15) وحرية الفكر والوجدان والدين (المادة 18). أما حرية التنقل والحق في التجمع السلمي فهما من الحقوق التي يجوز تقييدها أو التحلل منها مؤقتا في حالة الطوارئ، بشرط أن تكون التدابير في أضيق الحدود التي يتطلبها الوضع وألا تكون تمييزية.",
+      "difficulty": "HARD",
+      "topic_key": "spec.securite-droits.droits-homme",
+      "objective_key": "spec.securite-droits.droits-homme.o1",
+      "families": [
+        "police-gardien-paix",
+        "police-inspecteur",
+        "police-officier",
+        "garde-nationale",
+        "prisons-reeducation",
+        "protection-civile"
+      ],
+      "origin": "AI_GENERATED",
+      "source_key": null,
+      "year": null,
+      "valid_until": null,
+      "tags": [
+        "pidcp",
+        "droits-inderogeables",
+        "etat-urgence"
+      ]
+    },
+    {
+      "id": "spec-securite-droits-0005",
+      "type": "TRUE_FALSE",
+      "language": "ar",
+      "stem": "حقوق الإنسان قابلة للتجزئة، بحيث يمكن للدولة أن تكتفي باحترام الحقوق المدنية والسياسية وأن تهمل الحقوق الاقتصادية والاجتماعية والثقافية.",
+      "options": [
+        {
+          "id": "a",
+          "text": "صحيح"
+        },
+        {
+          "id": "b",
+          "text": "خطأ"
+        }
+      ],
+      "correct": [
+        "b"
+      ],
+      "explanation": "العبارة خاطئة: أكد إعلان وبرنامج عمل فيينا (1993) أن جميع حقوق الإنسان عالمية وغير قابلة للتجزئة ومترابطة ومتشابكة. فالحقوق المدنية والسياسية، كحرية التعبير، والحقوق الاقتصادية والاجتماعية، كالحق في الصحة والتعليم، يكمّل بعضها بعضا، ولا يجوز للدولة أن تنتقي منها ما تشاء.",
+      "difficulty": "EASY",
+      "topic_key": "spec.securite-droits.droits-homme",
+      "objective_key": "spec.securite-droits.droits-homme.o2",
+      "families": [
+        "police-gardien-paix",
+        "police-inspecteur",
+        "police-officier",
+        "garde-nationale",
+        "prisons-reeducation",
+        "protection-civile"
+      ],
+      "origin": "AI_GENERATED",
+      "source_key": null,
+      "year": null,
+      "valid_until": null,
+      "tags": [
+        "caracteristiques-droits",
+        "indivisibilite"
+      ]
+    },
+    {
+      "id": "spec-securite-droits-0006",
+      "type": "MCQ_SINGLE",
+      "language": "ar",
+      "stem": "يعني مبدأ «المتهم بريء إلى أن تثبت إدانته» أساسا:",
+      "options": [
+        {
+          "id": "a",
+          "text": "أنه لا يجوز اتخاذ أي إجراء مقيد للحرية ضد المظنون فيه قبل صدور حكم بات"
+        },
+        {
+          "id": "b",
+          "text": "أن عبء إثبات الإدانة يقع على سلطة الاتهام، وأن الشك يُفسَّر لفائدة المتهم"
+        },
+        {
+          "id": "c",
+          "text": "أن المتهم ملزم بإثبات براءته أمام المحكمة"
+        },
+        {
+          "id": "d",
+          "text": "أن المتهم يُعفى من المثول أمام القضاء ما لم يعترف بالأفعال المنسوبة إليه"
+        }
+      ],
+      "correct": [
+        "b"
+      ],
+      "explanation": "قرينة البراءة، المكرسة في المادة 11 من الإعلان العالمي وفي المادة 14 من العهد الدولي الخاص بالحقوق المدنية والسياسية وفي الدستور التونسي، تجعل عبء الإثبات على النيابة العمومية وتفرض تفسير الشك لفائدة المتهم، فهو غير مطالب بإثبات براءته. لكنها لا تمنع اتخاذ إجراءات مقيدة للحرية كالاحتفاظ أو الإيقاف التحفظي متى توفرت شروطها القانونية، ولذلك فإن القول بمنع كل إجراء مقيد للحرية قبل الحكم البات خاطئ.",
+      "difficulty": "EASY",
+      "topic_key": "spec.securite-droits.droits-homme",
+      "objective_key": "spec.securite-droits.droits-homme.o2",
+      "families": [
+        "police-gardien-paix",
+        "police-inspecteur",
+        "police-officier",
+        "garde-nationale",
+        "prisons-reeducation",
+        "protection-civile"
+      ],
+      "origin": "AI_GENERATED",
+      "source_key": null,
+      "year": null,
+      "valid_until": null,
+      "tags": [
+        "presomption-innocence",
+        "proces-equitable"
+      ]
+    },
+    {
+      "id": "spec-securite-droits-0007",
+      "type": "MCQ_SINGLE",
+      "language": "ar",
+      "stem": "يضمن الدستور التونسي الحقوق والحريات ويضبط شروط تقييدها. أيّ من العبارات التالية تعبّر بدقة عن هذه الشروط؟",
+      "options": [
+        {
+          "id": "a",
+          "text": "يجوز للقيد أن يلغي الحق كليا إذا كانت الضرورة ملحّة"
+        },
+        {
+          "id": "b",
+          "text": "يكفي أن يكون القيد مبررا بمقتضيات الأمن العام ليصبح مشروعا مهما كان مداه"
+        },
+        {
+          "id": "c",
+          "text": "يمكن لأي سلطة إدارية أن تقيّد الحريات بقرار ترتيبي ما دام الهدف حماية النظام العام، دون حاجة إلى قانون"
+        },
+        {
+          "id": "d",
+          "text": "يوضع القيد بمقتضى قانون، ولضرورة يقتضيها نظام ديمقراطي لتحقيق هدف مشروع كحماية حقوق الغير أو الأمن العام، على أن يكون متناسبا مع دواعيه ولا يمس جوهر الحق"
+        }
+      ],
+      "correct": [
+        "d"
+      ],
+      "explanation": "يشترط الدستور أن يوضع كل قيد على الحقوق والحريات بمقتضى قانون، ولضرورة يقتضيها نظام ديمقراطي، وبهدف حماية حقوق الغير أو لمقتضيات الأمن العام أو الدفاع الوطني أو الصحة العمومية، مع احترام التناسب بين القيد ودواعيه وعدم المساس بجوهر الحق. لذلك لا يكفي مجرد التذرع بالأمن العام، ولا يجوز التقييد بقرار إداري دون سند تشريعي، ولا يمكن للقيد أن يُفرغ الحق من محتواه.",
+      "difficulty": "MEDIUM",
+      "topic_key": "spec.securite-droits.droits-homme",
+      "objective_key": "spec.securite-droits.droits-homme.o2",
+      "families": [
+        "police-gardien-paix",
+        "police-inspecteur",
+        "police-officier",
+        "garde-nationale",
+        "prisons-reeducation",
+        "protection-civile"
+      ],
+      "origin": "AI_GENERATED",
+      "source_key": null,
+      "year": null,
+      "valid_until": null,
+      "tags": [
+        "constitution",
+        "limitation-droits",
+        "proportionnalite",
+        "needs_verification"
+      ]
+    },
+    {
+      "id": "spec-securite-droits-0008",
+      "type": "MCQ_SINGLE",
+      "language": "fr",
+      "stem": "En vertu de l'article 4 du Pacte international relatif aux droits civils et politiques, un État partie peut, à certaines conditions, déroger à certaines de ses obligations. Laquelle des conditions suivantes n'est PAS exigée par cet article ?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Des mesures strictement limitées aux exigences de la situation et n'entraînant pas de discrimination fondée uniquement sur la race, la couleur, le sexe, la langue, la religion ou l'origine sociale"
+        },
+        {
+          "id": "b",
+          "text": "L'information immédiate des autres États parties, par l'entremise du Secrétaire général de l'ONU, des dispositions suspendues et des motifs de la dérogation"
+        },
+        {
+          "id": "c",
+          "text": "L'autorisation préalable du Conseil de sécurité des Nations unies"
+        },
+        {
+          "id": "d",
+          "text": "L'existence d'un danger public exceptionnel qui menace l'existence de la nation et qui est proclamé par un acte officiel"
+        }
+      ],
+      "correct": [
+        "c"
+      ],
+      "explanation": "L'article 4 du Pacte encadre la dérogation par des conditions de fond (danger public exceptionnel officiellement proclamé, mesures strictement nécessaires, non discriminatoires et compatibles avec les autres obligations internationales) et par une condition de forme : la notification immédiate aux autres États parties par l'intermédiaire du Secrétaire général. Aucune autorisation préalable du Conseil de sécurité n'est requise : l'État décide lui-même, sous le contrôle a posteriori du Comité des droits de l'homme. Même régulière, la dérogation ne peut jamais toucher les droits indérogeables, comme l'interdiction de la torture.",
+      "difficulty": "EXPERT",
+      "topic_key": "spec.securite-droits.droits-homme",
+      "objective_key": "spec.securite-droits.droits-homme.o2",
+      "families": [
+        "police-gardien-paix",
+        "police-inspecteur",
+        "police-officier",
+        "garde-nationale",
+        "prisons-reeducation",
+        "protection-civile"
+      ],
+      "origin": "AI_GENERATED",
+      "source_key": null,
+      "year": null,
+      "valid_until": null,
+      "tags": [
+        "pidcp",
+        "derogation",
+        "etat-urgence"
+      ]
+    },
+    {
+      "id": "spec-securite-droits-0009",
+      "type": "MCQ_SINGLE",
+      "language": "ar",
+      "stem": "في أيّ سنة اعتمدت الجمعية العامة للأمم المتحدة «مدونة قواعد سلوك الموظفين المكلفين بإنفاذ القوانين»؟",
+      "options": [
+        {
+          "id": "a",
+          "text": "1979"
+        },
+        {
+          "id": "b",
+          "text": "1990"
+        },
+        {
+          "id": "c",
+          "text": "2006"
+        },
+        {
+          "id": "d",
+          "text": "1948"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "explanation": "اعتُمدت المدونة بقرار الجمعية العامة عدد 34/169 المؤرخ في 17 ديسمبر 1979، وهي تتضمن ثماني مواد تتعلق خاصة بخدمة المجموعة، واحترام الكرامة الإنسانية، والطابع الاستثنائي لاستعمال القوة، والسرية، وحظر التعذيب، وحماية صحة المحتجزين، ومكافحة الفساد. أما سنة 1990 فهي سنة اعتماد «المبادئ الأساسية بشأن استخدام القوة والأسلحة النارية» بهافانا، وهو نص مكمّل للمدونة كثيرا ما يقع الخلط بينه وبينها، وسنة 1948 سنة الإعلان العالمي لحقوق الإنسان.",
+      "difficulty": "EASY",
+      "topic_key": "spec.securite-droits.code-conduite",
+      "objective_key": "spec.securite-droits.code-conduite.o1",
+      "families": [
+        "police-gardien-paix",
+        "police-inspecteur",
+        "police-officier",
+        "garde-nationale",
+        "prisons-reeducation",
+        "protection-civile"
+      ],
+      "origin": "AI_GENERATED",
+      "source_key": null,
+      "year": null,
+      "valid_until": null,
+      "tags": [
+        "code-conduite-onu"
+      ]
+    },
+    {
+      "id": "spec-securite-droits-0010",
+      "type": "MCQ_SINGLE",
+      "language": "ar",
+      "stem": "أمر رئيسٌ مرؤوسه بتعنيف موقوف لانتزاع اعترافاته، بدعوى وجود تهديد خطير للأمن الوطني. حسب مدونة قواعد سلوك الموظفين المكلفين بإنفاذ القوانين، ما الموقف الواجب على المرؤوس؟",
+      "options": [
+        {
+          "id": "a",
+          "text": "ينفذ الأمر شرط أن يكون مكتوبا وممضى من رئيسه"
+        },
+        {
+          "id": "b",
+          "text": "يرفض التنفيذ، إذ لا يجوز له التذرّع بأوامر رؤسائه ولا بظروف استثنائية كتهديد الأمن الوطني لتبرير التعذيب أو المعاملة القاسية"
+        },
+        {
+          "id": "c",
+          "text": "ينفذ الأمر إذا وافقت عليه النيابة العمومية مسبقا"
+        },
+        {
+          "id": "d",
+          "text": "ينفذ الأمر لأن المسؤولية تقع كاملة على الرئيس الذي أصدره"
+        }
+      ],
+      "correct": [
+        "b"
+      ],
+      "explanation": "تمنع المادة 5 من المدونة على كل موظف مكلف بإنفاذ القوانين أن يرتكب أي عمل من أعمال التعذيب أو المعاملة القاسية أو اللاإنسانية أو المهينة أو أن يحرّض عليه أو يتغاضى عنه، ولا يجوز له التذرع بأوامر عليا أو بظروف استثنائية كحالة الحرب أو تهديد الأمن الوطني. وطاعة الرئيس لا تعفي من المسؤولية الجزائية الشخصية عن جريمة التعذيب، لذا فإن تحميل المسؤولية للرئيس وحده خاطئ، ولا يمكن لأي إذن كتابي أو موافقة من أي سلطة أن يجعل التعذيب مشروعا.",
+      "difficulty": "MEDIUM",
+      "topic_key": "spec.securite-droits.code-conduite",
+      "objective_key": "spec.securite-droits.code-conduite.o1",
+      "families": [
+        "police-gardien-paix",
+        "police-inspecteur",
+        "police-officier",
+        "garde-nationale",
+        "prisons-reeducation",
+        "protection-civile"
+      ],
+      "origin": "AI_GENERATED",
+      "source_key": null,
+      "year": null,
+      "valid_until": null,
+      "tags": [
+        "code-conduite-onu",
+        "torture",
+        "ordre-superieur"
+      ]
+    },
+    {
+      "id": "spec-securite-droits-0011",
+      "type": "TRUE_FALSE",
+      "language": "ar",
+      "stem": "حسب مدونة الأمم المتحدة لقواعد سلوك الموظفين المكلفين بإنفاذ القوانين، يحافظ هؤلاء الموظفون على سرية ما في حوزتهم من أمور ذات طبيعة سرية، ما لم يقتضِ أداء الواجب أو متطلبات العدالة خلاف ذلك قطعا.",
+      "options": [
+        {
+          "id": "a",
+          "text": "صحيح"
+        },
+        {
+          "id": "b",
+          "text": "خطأ"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "explanation": "العبارة صحيحة وهي مضمون المادة 4 من المدونة: يحافظ الموظف المكلف بإنفاذ القوانين على سرية ما في حوزته من معلومات ذات طبيعة سرية، ما لم يقتض أداء الواجب أو متطلبات العدالة خلاف ذلك قطعا. فالمعلومات المتعلقة بالحياة الخاصة للأشخاص أو التي قد تضر بمصالحهم أو بسمعتهم لا تُفشى خارج هذين الإطارين.",
+      "difficulty": "EASY",
+      "topic_key": "spec.securite-droits.code-conduite",
+      "objective_key": "spec.securite-droits.code-conduite.o1",
+      "families": [
+        "police-gardien-paix",
+        "police-inspecteur",
+        "police-officier",
+        "garde-nationale",
+        "prisons-reeducation",
+        "protection-civile"
+      ],
+      "origin": "AI_GENERATED",
+      "source_key": null,
+      "year": null,
+      "valid_until": null,
+      "tags": [
+        "code-conduite-onu",
+        "secret-professionnel"
+      ]
+    },
+    {
+      "id": "spec-securite-droits-0012",
+      "type": "MCQ_MULTI",
+      "language": "ar",
+      "stem": "أيّ من الواجبات التالية تنص عليها صراحة مدونة الأمم المتحدة لقواعد سلوك الموظفين المكلفين بإنفاذ القوانين (1979)؟ (اختر كل الإجابات الصحيحة)",
+      "options": [
+        {
+          "id": "a",
+          "text": "الامتثال لكل أوامر الرؤساء دون أي استثناء"
+        },
+        {
+          "id": "b",
+          "text": "الامتناع عن الانخراط في أي جمعية أو هيكل مهني"
+        },
+        {
+          "id": "c",
+          "text": "الامتناع عن ارتكاب أي فعل من أفعال الفساد ومقاومة هذه الأفعال بشدة"
+        },
+        {
+          "id": "d",
+          "text": "السهر على الحماية التامة لصحة الأشخاص المحتجزين واتخاذ التدابير الفورية لتوفير العناية الطبية لهم"
+        },
+        {
+          "id": "e",
+          "text": "إبلاغ السلطات الرئاسية عن أي انتهاك للمدونة وقع أو يوشك أن يقع"
+        }
+      ],
+      "correct": [
+        "c",
+        "d",
+        "e"
+      ],
+      "explanation": "تنص المدونة على حماية صحة المحتجزين وتوفير العناية الطبية الفورية لهم (المادة 6)، وعلى منع أفعال الفساد ومقاومتها (المادة 7)، وعلى احترام القانون والمدونة ومنع أي خرق لهما والإبلاغ عنه إلى السلطات الرئاسية وعند الاقتضاء إلى سلطات أخرى مختصة (المادة 8). أما الطاعة المطلقة فلا وجود لها في المدونة، إذ تمنع صراحة التذرع بالأوامر العليا لتبرير التعذيب، كما لا تتضمن المدونة أي منع للانخراط في الجمعيات أو الهياكل المهنية.",
+      "difficulty": "MEDIUM",
+      "topic_key": "spec.securite-droits.code-conduite",
+      "objective_key": "spec.securite-droits.code-conduite.o1",
+      "families": [
+        "police-gardien-paix",
+        "police-inspecteur",
+        "police-officier",
+        "garde-nationale",
+        "prisons-reeducation",
+        "protection-civile"
+      ],
+      "origin": "AI_GENERATED",
+      "source_key": null,
+      "year": null,
+      "valid_until": null,
+      "tags": [
+        "code-conduite-onu",
+        "integrite",
+        "detenus"
+      ]
+    },
+    {
+      "id": "spec-securite-droits-0013",
+      "type": "MCQ_SINGLE",
+      "language": "ar",
+      "stem": "يخضع استعمال القوة من قبل أعوان الأمن إلى مبادئ أساسية مستمدة من المعايير الدولية. أيّ مجموعة تعبّر عنها بدقة؟",
+      "options": [
+        {
+          "id": "a",
+          "text": "الشرعية، الضرورة، التناسب، المساءلة"
+        },
+        {
+          "id": "b",
+          "text": "الطاعة المطلقة، الكتمان، السرية"
+        },
+        {
+          "id": "c",
+          "text": "المعاملة بالمثل، الردع العام، الحزم"
+        },
+        {
+          "id": "d",
+          "text": "السرعة، المباغتة، الردع"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "explanation": "لا يكون استعمال القوة مشروعا إلا إذا كان له سند قانوني (الشرعية)، ولم تكف الوسائل غير العنيفة لتحقيق الهدف المشروع (الضرورة)، وكان بقدر خطورة التهديد (التناسب)، مع خضوع العون للمحاسبة عن كل استعمال للقوة (المساءلة). أما الردع أو المعاملة بالمثل فليسا معيارين لمشروعية القوة، بل قد يؤديان إلى استعمال مفرط لها.",
+      "difficulty": "EASY",
+      "topic_key": "spec.securite-droits.code-conduite",
+      "objective_key": "spec.securite-droits.code-conduite.o2",
+      "families": [
+        "police-gardien-paix",
+        "police-inspecteur",
+        "police-officier",
+        "garde-nationale",
+        "prisons-reeducation",
+        "protection-civile"
+      ],
+      "origin": "AI_GENERATED",
+      "source_key": null,
+      "year": null,
+      "valid_until": null,
+      "tags": [
+        "usage-force",
+        "proportionnalite"
+      ]
+    },
+    {
+      "id": "spec-securite-droits-0014",
+      "type": "MCQ_SINGLE",
+      "language": "ar",
+      "stem": "حسب المبادئ الأساسية بشأن استخدام القوة والأسلحة النارية من جانب الموظفين المكلفين بإنفاذ القوانين (1990)، لا يجوز الاستخدام المتعمّد والقاتل للأسلحة النارية إلا:",
+      "options": [
+        {
+          "id": "a",
+          "text": "عندما يتعذّر تماما تجنّبه لحماية الأرواح"
+        },
+        {
+          "id": "b",
+          "text": "لحماية الممتلكات العامة من الإتلاف"
+        },
+        {
+          "id": "c",
+          "text": "لمنع فرار أي شخص موقوف مهما كانت التهمة المنسوبة إليه"
+        },
+        {
+          "id": "d",
+          "text": "لتفريق كل تجمّع غير مرخص فيه"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "explanation": "ينص المبدأ 9 على أن الأسلحة النارية لا تستعمل إلا دفاعا عن النفس أو عن الغير ضد خطر داهم بالموت أو بإصابة خطيرة، أو لمنع جريمة بالغة الخطورة تهدد الأرواح، أو لإيقاف شخص يمثل هذا الخطر ويقاوم أو لمنع فراره، وذلك عند عدم كفاية الوسائل الأقل تطرفا. أما الاستخدام المتعمد القاتل فلا يجوز إلا إذا تعذّر تجنبه تماما لحماية الأرواح. لذا لا يبرر مجرد الفرار مهما كانت التهمة، ولا تفريق تجمع غير مرخص، ولا حماية الممتلكات، اللجوء إلى القوة القاتلة.",
+      "difficulty": "MEDIUM",
+      "topic_key": "spec.securite-droits.code-conduite",
+      "objective_key": "spec.securite-droits.code-conduite.o2",
+      "families": [
+        "police-gardien-paix",
+        "police-inspecteur",
+        "police-officier",
+        "garde-nationale",
+        "prisons-reeducation",
+        "protection-civile"
+      ],
+      "origin": "AI_GENERATED",
+      "source_key": null,
+      "year": null,
+      "valid_until": null,
+      "tags": [
+        "armes-a-feu",
+        "principes-base-1990"
+      ]
+    },
+    {
+      "id": "spec-securite-droits-0015",
+      "type": "MCQ_SINGLE",
+      "language": "fr",
+      "stem": "Selon les Principes de base des Nations unies sur le recours à la force et l'utilisation des armes à feu par les responsables de l'application des lois (1990), avant de faire usage d'une arme à feu, l'agent doit en principe :",
+      "options": [
+        {
+          "id": "a",
+          "text": "obtenir l'autorisation préalable du procureur de la République"
+        },
+        {
+          "id": "b",
+          "text": "tirer obligatoirement plusieurs coups de semonce en l'air"
+        },
+        {
+          "id": "c",
+          "text": "se faire connaître en tant que responsable de l'application des lois et avertir clairement de son intention d'utiliser son arme, en laissant un délai suffisant pour que l'avertissement puisse être suivi d'effet"
+        },
+        {
+          "id": "d",
+          "text": "attendre que la personne visée ait effectivement blessé quelqu'un"
+        }
+      ],
+      "correct": [
+        "c"
+      ],
+      "explanation": "Le principe 10 impose de s'identifier et de donner un avertissement clair, avec un délai suffisant, sauf si cette précaution exposait indûment les agents à un danger, créait un risque de mort ou de blessure grave pour d'autres personnes, ou était manifestement inappropriée ou inutile vu les circonstances. Les Principes n'imposent pas de tirs de semonce, qui peuvent d'ailleurs mettre des tiers en danger. Aucune autorisation préalable d'un magistrat n'est requise, et l'agent n'a pas à attendre qu'une blessure soit infligée lorsqu'une menace imminente de mort ou de blessure grave est caractérisée.",
+      "difficulty": "HARD",
+      "topic_key": "spec.securite-droits.code-conduite",
+      "objective_key": "spec.securite-droits.code-conduite.o2",
+      "families": [
+        "police-gardien-paix",
+        "police-inspecteur",
+        "police-officier",
+        "garde-nationale",
+        "prisons-reeducation",
+        "protection-civile"
+      ],
+      "origin": "AI_GENERATED",
+      "source_key": null,
+      "year": null,
+      "valid_until": null,
+      "tags": [
+        "armes-a-feu",
+        "sommation",
+        "principes-base-1990"
+      ]
+    },
+    {
+      "id": "spec-securite-droits-0016",
+      "type": "MCQ_SINGLE",
+      "language": "ar",
+      "stem": "تجمّع غير قانوني لكنه سلمي ولا يمثل أي خطر على الأشخاص. حسب المبادئ الأساسية بشأن استخدام القوة والأسلحة النارية (1990)، كيف يجب على قوات الأمن التصرف عند تفريقه؟",
+      "options": [
+        {
+          "id": "a",
+          "text": "تستعمل القوة دون قيود لأن التجمع غير مرخص فيه"
+        },
+        {
+          "id": "b",
+          "text": "توقف وجوبا جميع المشاركين وتحتفظ بهم"
+        },
+        {
+          "id": "c",
+          "text": "تستعمل الأسلحة النارية بعد توجيه إنذار واحد"
+        },
+        {
+          "id": "d",
+          "text": "تتجنب استخدام القوة، وإذا تعذّر ذلك تقصره على الحد الأدنى الضروري"
+        }
+      ],
+      "correct": [
+        "d"
+      ],
+      "explanation": "يميّز المبدآن 13 و14 بين التجمعات غير القانونية السلمية والتجمعات العنيفة: في الحالة الأولى يجب تجنب القوة أو قصرها على الحد الأدنى الضروري، وفي الثانية لا يجوز استعمال الأسلحة النارية إلا إذا تعذر استعمال وسائل أقل خطرا وفي حدود الشروط الواردة بالمبدأ 9. فعدم الترخيص في حد ذاته لا يبرر استعمال القوة دون قيود ولا اللجوء إلى الأسلحة النارية، كما أن الإيقاف الجماعي الآلي لكل المشاركين يتنافى مع مبدأي الضرورة والتناسب.",
+      "difficulty": "HARD",
+      "topic_key": "spec.securite-droits.code-conduite",
+      "objective_key": "spec.securite-droits.code-conduite.o2",
+      "families": [
+        "police-gardien-paix",
+        "police-inspecteur",
+        "police-officier",
+        "garde-nationale",
+        "prisons-reeducation",
+        "protection-civile"
+      ],
+      "origin": "AI_GENERATED",
+      "source_key": null,
+      "year": null,
+      "valid_until": null,
+      "tags": [
+        "maintien-ordre",
+        "rassemblements",
+        "principes-base-1990"
+      ]
+    },
+    {
+      "id": "spec-securite-droits-0017",
+      "type": "MCQ_SINGLE",
+      "language": "ar",
+      "stem": "حسب مجلة الإجراءات الجزائية، تتمثل مهمة الضابطة العدلية أساسا في:",
+      "options": [
+        {
+          "id": "a",
+          "text": "تنفيذ العقوبات السالبة للحرية داخل السجون"
+        },
+        {
+          "id": "b",
+          "text": "الفصل في القضايا الجزائية البسيطة وإصدار الأحكام فيها"
+        },
+        {
+          "id": "c",
+          "text": "معاينة الجرائم وجمع أدلتها والبحث عن مرتكبيها"
+        },
+        {
+          "id": "d",
+          "text": "إصدار بطاقات الإيداع بالسجن ضد المظنون فيهم"
+        }
+      ],
+      "correct": [
+        "c"
+      ],
+      "explanation": "تُكلَّف الضابطة العدلية بمعاينة الجرائم وجمع أدلتها والبحث عن مرتكبيها ما لم يُفتح في شأنها بحث تحقيقي، وعندها تتولى تنفيذ ما يكلفها به حاكم التحقيق. أما الفصل في القضايا وإصدار الأحكام فمن اختصاص المحاكم، وإصدار بطاقات الإيداع من صلاحيات القضاء ولا سيما حاكم التحقيق، في حين يعود تنفيذ العقوبات السالبة للحرية إلى إدارة السجون والإصلاح.",
+      "difficulty": "EASY",
+      "topic_key": "spec.securite-droits.police-judiciaire",
+      "objective_key": "spec.securite-droits.police-judiciaire.o1",
+      "families": [
+        "police-gardien-paix",
+        "police-inspecteur",
+        "police-officier",
+        "garde-nationale",
+        "prisons-reeducation"
+      ],
+      "origin": "AI_GENERATED",
+      "source_key": null,
+      "year": null,
+      "valid_until": null,
+      "tags": [
+        "police-judiciaire",
+        "cpp",
+        "needs_verification"
+      ]
+    },
+    {
+      "id": "spec-securite-droits-0018",
+      "type": "MCQ_SINGLE",
+      "language": "ar",
+      "stem": "يعدّد الفصل 10 من مجلة الإجراءات الجزائية مأموري الضابطة العدلية. أيّ من الأصناف التالية لا يندرج ضمنهم؟",
+      "options": [
+        {
+          "id": "a",
+          "text": "رؤساء المحاكم الابتدائية"
+        },
+        {
+          "id": "b",
+          "text": "ضباط الحرس الوطني وضباط صفه ورؤساء مراكزه"
+        },
+        {
+          "id": "c",
+          "text": "حكام النواحي"
+        },
+        {
+          "id": "d",
+          "text": "وكلاء الجمهورية ومساعدوهم"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "explanation": "تشمل قائمة مأموري الضابطة العدلية خاصة وكلاء الجمهورية ومساعديهم، وحكام النواحي، ومحافظي الشرطة وضباطها ورؤساء مراكزها، وضباط الحرس الوطني وضباط صفه ورؤساء مراكزه، إضافة إلى أعوان الإدارات الذين تمنحهم قوانين خاصة هذه الصفة وحكام التحقيق في الحالات التي يحددها القانون. أما رؤساء المحاكم الابتدائية فهم قضاة حكم لا يمارسون مهام البحث الأولي. ويُلاحظ أن وكيل الجمهورية، رغم انتمائه إلى النيابة العمومية، يُعدّ هو نفسه من مأموري الضابطة العدلية، وهو ما يوقع بعض المترشحين في الخطأ.",
+      "difficulty": "HARD",
+      "topic_key": "spec.securite-droits.police-judiciaire",
+      "objective_key": "spec.securite-droits.police-judiciaire.o1",
+      "families": [
+        "police-gardien-paix",
+        "police-inspecteur",
+        "police-officier",
+        "garde-nationale",
+        "prisons-reeducation"
+      ],
+      "origin": "AI_GENERATED",
+      "source_key": null,
+      "year": null,
+      "valid_until": null,
+      "tags": [
+        "police-judiciaire",
+        "cpp",
+        "composition",
+        "needs_verification"
+      ]
+    },
+    {
+      "id": "spec-securite-droits-0019",
+      "type": "MCQ_SINGLE",
+      "language": "ar",
+      "stem": "إذا أراد حاكم التحقيق تكليف مأمور من مأموري الضابطة العدلية بالقيام ببعض أعمال التحقيق نيابة عنه، كسماع شاهد أو إجراء تفتيش، فإنه يصدر:",
+      "options": [
+        {
+          "id": "a",
+          "text": "قرار حفظ"
+        },
+        {
+          "id": "b",
+          "text": "بطاقة إيداع"
+        },
+        {
+          "id": "c",
+          "text": "إنابة عدلية"
+        },
+        {
+          "id": "d",
+          "text": "بطاقة جلب"
+        }
+      ],
+      "correct": [
+        "c"
+      ],
+      "explanation": "الإنابة العدلية هي الإجراء الذي يكلّف بمقتضاه حاكم التحقيق مأمور الضابطة العدلية بالقيام بأعمال تحقيق محددة في حدود ما تتضمنه الإنابة، فيحرر المأمور محاضره ويرجعها إلى القاضي المنيب. أما بطاقة الجلب فهي أمر بإحضار شخص أمام القاضي، وبطاقة الإيداع أمر بإيداع المتهم بالسجن، بينما يتخذ وكيل الجمهورية قرار الحفظ عندما يقرر عدم إثارة الدعوى العمومية.",
+      "difficulty": "MEDIUM",
+      "topic_key": "spec.securite-droits.police-judiciaire",
+      "objective_key": "spec.securite-droits.police-judiciaire.o1",
+      "families": [
+        "police-gardien-paix",
+        "police-inspecteur",
+        "police-officier",
+        "garde-nationale",
+        "prisons-reeducation"
+      ],
+      "origin": "AI_GENERATED",
+      "source_key": null,
+      "year": null,
+      "valid_until": null,
+      "tags": [
+        "police-judiciaire",
+        "commission-rogatoire",
+        "juge-instruction"
+      ]
+    },
+    {
+      "id": "spec-securite-droits-0020",
+      "type": "MCQ_SINGLE",
+      "language": "ar",
+      "stem": "عندما يمارس أعوان الأمن مهام الضابطة العدلية (البحث في الجرائم وجمع أدلتها)، فإنهم يعملون تحت إشراف:",
+      "options": [
+        {
+          "id": "a",
+          "text": "الوالي"
+        },
+        {
+          "id": "b",
+          "text": "النيابة العمومية"
+        },
+        {
+          "id": "c",
+          "text": "رئيس البلدية"
+        },
+        {
+          "id": "d",
+          "text": "المحكمة الإدارية"
+        }
+      ],
+      "correct": [
+        "b"
+      ],
+      "explanation": "تخضع الضابطة العدلية، في ما يتعلق بأعمالها القضائية، لإشراف النيابة العمومية (الوكيل العام لدى محكمة الاستئناف ووكلاء الجمهورية في دوائرهم)، التي تتلقى المحاضر وتقرر مآلها. ويظل العون تابعا إداريا لرؤسائه في الوزارة التي ينتمي إليها، لكن هذه التبعية الإدارية لا تمنح الوالي أو رئيس البلدية أي سلطة على الأبحاث الجزائية. أما المحكمة الإدارية فتختص بالنزاعات الإدارية ولا علاقة لها بالبحث في الجرائم.",
+      "difficulty": "EASY",
+      "topic_key": "spec.securite-droits.police-judiciaire",
+      "objective_key": "spec.securite-droits.police-judiciaire.o1",
+      "families": [
+        "police-gardien-paix",
+        "police-inspecteur",
+        "police-officier",
+        "garde-nationale",
+        "prisons-reeducation"
+      ],
+      "origin": "AI_GENERATED",
+      "source_key": null,
+      "year": null,
+      "valid_until": null,
+      "tags": [
+        "police-judiciaire",
+        "parquet",
+        "needs_verification"
+      ]
+    },
+    {
+      "id": "spec-securite-droits-0021",
+      "type": "NUMERIC",
+      "language": "ar",
+      "stem": "يقسّم القانون التونسي الجرائم بحسب خطورتها إلى جنايات وجنح ومخالفات. تعتبر الجريمة جناية إذا كان العقاب المستوجب لها الإعدام أو السجن مدة تتجاوز عددا معيّنا من الأعوام. ما هو هذا العدد؟",
+      "options": [],
+      "correct": {
+        "value": 5,
+        "tolerance": 0
+      },
+      "explanation": "تعتبر جناية الجريمة المعاقب عليها بالإعدام أو بالسجن مدة تتجاوز خمسة أعوام، وجنحة الجريمة المعاقب عليها بالسجن مدة تتجاوز خمسة عشر يوما دون أن تتجاوز خمسة أعوام أو بخطية تتجاوز ستين دينارا، ومخالفة ما دون ذلك. ولهذا التقسيم آثار عملية مهمة، منها تحديد المحكمة المختصة وآجال التقادم ومدة التمديد في الاحتفاظ.",
+      "difficulty": "MEDIUM",
+      "topic_key": "spec.securite-droits.police-judiciaire",
+      "objective_key": "spec.securite-droits.police-judiciaire.o2",
+      "families": [
+        "police-gardien-paix",
+        "police-inspecteur",
+        "police-officier",
+        "garde-nationale",
+        "prisons-reeducation"
+      ],
+      "origin": "AI_GENERATED",
+      "source_key": null,
+      "year": null,
+      "valid_until": null,
+      "tags": [
+        "classification-infractions",
+        "cpp",
+        "needs_verification"
+      ]
+    },
+    {
+      "id": "spec-securite-droits-0022",
+      "type": "MCQ_SINGLE",
+      "language": "ar",
+      "stem": "أيّ من الوضعيات التالية لا تُعدّ، في حد ذاتها، حالة جناية أو جنحة متلبس بها؟",
+      "options": [
+        {
+          "id": "a",
+          "text": "مظنون فيه يلاحقه الجمهور بالصياح إثر ارتكاب الفعل"
+        },
+        {
+          "id": "b",
+          "text": "شكاية يقدمها المتضرر بعد شهرين من وقوع سرقة دون أي عنصر جديد"
+        },
+        {
+          "id": "c",
+          "text": "شخص وُجدت عنده، في زمن قريب جدا من وقوع الجريمة، أشياء أو آثار تدعو إلى افتراض مشاركته فيها"
+        },
+        {
+          "id": "d",
+          "text": "جريمة بصدد الارتكاب أو انتهى ارتكابها منذ وقت قريب"
+        }
+      ],
+      "correct": [
+        "b"
+      ],
+      "explanation": "يقوم التلبس على التقارب الزمني بين ارتكاب الجريمة واكتشافها: الجريمة الحاصلة في الحال أو قريبا منه، أو ملاحقة المظنون فيه بصياح العموم، أو ضبط أشياء أو آثار عنده في زمن قريب جدا من وقوعها. أما الشكاية المقدّمة بعد شهرين دون عنصر جديد فلا تمثل حالة تلبس، ويُجرى في شأنها بحث أولي عادي تحت إشراف النيابة العمومية. ولحالة التلبس أهمية عملية لأنها توسّع صلاحيات مأموري الضابطة العدلية في المعاينة والتفتيش والحجز.",
+      "difficulty": "MEDIUM",
+      "topic_key": "spec.securite-droits.police-judiciaire",
+      "objective_key": "spec.securite-droits.police-judiciaire.o2",
+      "families": [
+        "police-gardien-paix",
+        "police-inspecteur",
+        "police-officier",
+        "garde-nationale",
+        "prisons-reeducation"
+      ],
+      "origin": "AI_GENERATED",
+      "source_key": null,
+      "year": null,
+      "valid_until": null,
+      "tags": [
+        "flagrance",
+        "cpp",
+        "needs_verification"
+      ]
+    },
+    {
+      "id": "spec-securite-droits-0023",
+      "type": "MCQ_MULTI",
+      "language": "ar",
+      "stem": "أيّ من الأسباب التالية تؤدي إلى انقضاء الدعوى العمومية؟ (اختر كل الإجابات الصحيحة)",
+      "options": [
+        {
+          "id": "a",
+          "text": "العفو العام"
+        },
+        {
+          "id": "b",
+          "text": "مرور الزمن (التقادم)"
+        },
+        {
+          "id": "c",
+          "text": "صدور حكم بات في نفس الأفعال ضد نفس الشخص (اتصال القضاء)"
+        },
+        {
+          "id": "d",
+          "text": "وفاة المتهم"
+        },
+        {
+          "id": "e",
+          "text": "تغيير المتهم لمقر سكناه"
+        }
+      ],
+      "correct": [
+        "a",
+        "b",
+        "c",
+        "d"
+      ],
+      "explanation": "تنقضي الدعوى العمومية خاصة بموت المتهم، وبمرور الزمن، وبالعفو العام، وبنسخ النص الجزائي، وباتصال القضاء، وكذلك بالصلح أو بالرجوع في الشكاية في الحالات التي ينص عليها القانون صراحة. أما تغيير مقر السكنى فلا أثر له على الدعوى، وإنما قد يؤثر على إجراءات الاستدعاء والتبليغ. ويجب التمييز بين العفو العام الذي يمحو الصبغة الإجرامية للفعل والعفو الخاص الذي لا يتعلق إلا بتنفيذ العقوبة.",
+      "difficulty": "HARD",
+      "topic_key": "spec.securite-droits.police-judiciaire",
+      "objective_key": "spec.securite-droits.police-judiciaire.o2",
+      "families": [
+        "police-gardien-paix",
+        "police-inspecteur",
+        "police-officier",
+        "garde-nationale",
+        "prisons-reeducation"
+      ],
+      "origin": "AI_GENERATED",
+      "source_key": null,
+      "year": null,
+      "valid_until": null,
+      "tags": [
+        "action-publique",
+        "extinction",
+        "cpp",
+        "needs_verification"
+      ]
+    },
+    {
+      "id": "spec-securite-droits-0024",
+      "type": "MCQ_SINGLE",
+      "language": "ar",
+      "stem": "ما هي، كقاعدة عامة، آجال سقوط الدعوى العمومية بمرور الزمن في القانون التونسي؟",
+      "options": [
+        {
+          "id": "a",
+          "text": "عشرون عاما في الجنايات، خمسة أعوام في الجنح، عامان في المخالفات"
+        },
+        {
+          "id": "b",
+          "text": "عشرة أعوام في الجنايات، ثلاثة أعوام في الجنح، عام واحد في المخالفات"
+        },
+        {
+          "id": "c",
+          "text": "خمسة عشر عاما في الجنايات، خمسة أعوام في الجنح، عام واحد في المخالفات"
+        },
+        {
+          "id": "d",
+          "text": "عشرة أعوام في الجنايات، خمسة أعوام في الجنح، ستة أشهر في المخالفات"
+        }
+      ],
+      "correct": [
+        "b"
+      ],
+      "explanation": "تسقط الدعوى العمومية، كقاعدة عامة، بمضيّ عشرة أعوام كاملة في الجنايات وثلاثة أعوام في الجنح وعام واحد في المخالفات، ويُحتسب الأجل مبدئيا من يوم ارتكاب الجريمة ويقطعه كل عمل من أعمال التتبع أو التحقيق. وتوجد استثناءات تشريعية لهذه القاعدة، من أبرزها أن الدستور ينص على أن جريمة التعذيب لا تسقط بالتقادم. ويقع الخلط أحيانا بين هذه الآجال وآجال سقوط العقوبات المحكوم بها، وهي أطول (عشرون عاما وخمسة أعوام وعامان)، وهو مصدر الإجابة الخاطئة الثانية.",
+      "difficulty": "EXPERT",
+      "topic_key": "spec.securite-droits.police-judiciaire",
+      "objective_key": "spec.securite-droits.police-judiciaire.o2",
+      "families": [
+        "police-gardien-paix",
+        "police-inspecteur",
+        "police-officier",
+        "garde-nationale",
+        "prisons-reeducation"
+      ],
+      "origin": "AI_GENERATED",
+      "source_key": null,
+      "year": null,
+      "valid_until": null,
+      "tags": [
+        "prescription",
+        "action-publique",
+        "cpp",
+        "needs_verification"
+      ]
+    },
+    {
+      "id": "spec-securite-droits-0025",
+      "type": "MCQ_SINGLE",
+      "language": "ar",
+      "stem": "لا يجوز لمأموري الضابطة العدلية الاحتفاظ بذي الشبهة إلا بعد الحصول على إذن من:",
+      "options": [
+        {
+          "id": "a",
+          "text": "وكيل الجمهورية"
+        },
+        {
+          "id": "b",
+          "text": "رئيس منطقة الأمن أو الحرس"
+        },
+        {
+          "id": "c",
+          "text": "الوالي"
+        },
+        {
+          "id": "d",
+          "text": "رئيس البلدية"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "explanation": "منذ تنقيح مجلة الإجراءات الجزائية بالقانون عدد 5 لسنة 2016، أصبح الاحتفاظ مشروطا بالحصول المسبق على إذن وكيل الجمهورية، وهو إجراء استثنائي لا يُتخذ إلا لضرورة البحث. فالرئيس الإداري للعون، كرئيس المنطقة، لا يملك منح هذا الإذن مهما كانت رتبته، والوالي ورئيس البلدية سلطتان إداريتان لا دخل لهما في الأبحاث الجزائية. ويهدف إخضاع الاحتفاظ لرقابة النيابة العمومية إلى حماية الحرية الشخصية وتفادي الاحتفاظ التعسفي.",
+      "difficulty": "EASY",
+      "topic_key": "spec.securite-droits.garde-a-vue",
+      "objective_key": "spec.securite-droits.garde-a-vue.o1",
+      "families": [
+        "police-gardien-paix",
+        "police-inspecteur",
+        "police-officier",
+        "garde-nationale",
+        "prisons-reeducation"
+      ],
+      "origin": "AI_GENERATED",
+      "source_key": null,
+      "year": null,
+      "valid_until": null,
+      "tags": [
+        "garde-a-vue",
+        "loi-2016-5",
+        "needs_verification"
+      ]
+    },
+    {
+      "id": "spec-securite-droits-0026",
+      "type": "MCQ_SINGLE",
+      "language": "ar",
+      "stem": "حسب مجلة الإجراءات الجزائية في صيغتها المنقحة بالقانون عدد 5 لسنة 2016، لا يمكن أن تتجاوز المدة الأصلية للاحتفاظ بذي الشبهة، قبل أي تمديد:",
+      "options": [
+        {
+          "id": "a",
+          "text": "48 ساعة"
+        },
+        {
+          "id": "b",
+          "text": "6 أيام"
+        },
+        {
+          "id": "c",
+          "text": "3 أيام"
+        },
+        {
+          "id": "d",
+          "text": "24 ساعة"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "explanation": "حدّد تنقيح 2016 المدة الأصلية للاحتفاظ بثمان وأربعين ساعة، بعد أن كانت ثلاثة أيام في النص السابق، وهو ما يفسّر شيوع الإجابة الخاطئة «3 أيام». ولا يمكن تجاوز هذه المدة إلا بقرار تمديد كتابي من وكيل الجمهورية في الحدود التي يضبطها القانون. ويجب تضمين تاريخ وساعة بداية الاحتفاظ ونهايته بالمحضر.",
+      "difficulty": "MEDIUM",
+      "topic_key": "spec.securite-droits.garde-a-vue",
+      "objective_key": "spec.securite-droits.garde-a-vue.o1",
+      "families": [
+        "police-gardien-paix",
+        "police-inspecteur",
+        "police-officier",
+        "garde-nationale",
+        "prisons-reeducation"
+      ],
+      "origin": "AI_GENERATED",
+      "source_key": null,
+      "year": null,
+      "valid_until": null,
+      "tags": [
+        "garde-a-vue",
+        "loi-2016-5",
+        "durees",
+        "needs_verification"
+      ]
+    },
+    {
+      "id": "spec-securite-droits-0027",
+      "type": "MCQ_SINGLE",
+      "language": "ar",
+      "stem": "انتهت المدة الأصلية للاحتفاظ بشخص مشتبه في ارتكابه جنحة، وتقتضي ضرورة البحث مواصلة الاحتفاظ به. ما الحل الذي يسمح به القانون؟",
+      "options": [
+        {
+          "id": "a",
+          "text": "يمكن لوكيل الجمهورية تمديد الاحتفاظ كتابيا مرة واحدة فقط لمدة لا تتجاوز 24 ساعة"
+        },
+        {
+          "id": "b",
+          "text": "لا يمكن التمديد بأي حال، ويجب إطلاق سراح ذي الشبهة فورا"
+        },
+        {
+          "id": "c",
+          "text": "يمكن لوكيل الجمهورية تمديد الاحتفاظ مرتين لمدة 48 ساعة في كل مرة"
+        },
+        {
+          "id": "d",
+          "text": "يمكن لرئيس المركز تمديد الاحتفاظ بنفسه لمدة 48 ساعة"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "explanation": "يمكن لوكيل الجمهورية، إذا اقتضت ذلك ضرورة البحث، أن يمدد الاحتفاظ بقرار كتابي مرة واحدة فقط، لمدة أقصاها أربع وعشرون ساعة في الجنح وثمان وأربعون ساعة في الجنايات. فلا يملك رئيس المركز أي صلاحية للتمديد، ولا يجوز التمديد مرتين. كما أن القول باستحالة التمديد مطلقا خاطئ، لأن القانون يسمح به بالشروط المذكورة.",
+      "difficulty": "HARD",
+      "topic_key": "spec.securite-droits.garde-a-vue",
+      "objective_key": "spec.securite-droits.garde-a-vue.o1",
+      "families": [
+        "police-gardien-paix",
+        "police-inspecteur",
+        "police-officier",
+        "garde-nationale",
+        "prisons-reeducation"
+      ],
+      "origin": "AI_GENERATED",
+      "source_key": null,
+      "year": null,
+      "valid_until": null,
+      "tags": [
+        "garde-a-vue",
+        "loi-2016-5",
+        "prolongation",
+        "needs_verification"
+      ]
+    },
+    {
+      "id": "spec-securite-droits-0028",
+      "type": "NUMERIC",
+      "language": "ar",
+      "stem": "في إطار القانون العام (أي خارج الأحكام الخاصة بالجرائم الإرهابية)، ما هي المدة القصوى الجملية للاحتفاظ بذي الشبهة في جناية، محسوبة بالساعات، بما في ذلك التمديد الممكن؟",
+      "options": [],
+      "correct": {
+        "value": 96,
+        "tolerance": 0
+      },
+      "explanation": "المدة الأصلية للاحتفاظ 48 ساعة، ويمكن لوكيل الجمهورية تمديدها كتابيا مرة واحدة بـ48 ساعة في الجنايات، أي 96 ساعة على أقصى تقدير. أما في الجنح فلا يتجاوز التمديد 24 ساعة، فتكون المدة القصوى 72 ساعة، وهو الخطأ الأكثر شيوعا في هذا السؤال. وتخضع الجرائم الإرهابية لنظام خاص بآجال أطول يضبطه القانون المتعلق بمكافحة الإرهاب.",
+      "difficulty": "EXPERT",
+      "topic_key": "spec.securite-droits.garde-a-vue",
+      "objective_key": "spec.securite-droits.garde-a-vue.o1",
+      "families": [
+        "police-gardien-paix",
+        "police-inspecteur",
+        "police-officier",
+        "garde-nationale",
+        "prisons-reeducation"
+      ],
+      "origin": "AI_GENERATED",
+      "source_key": null,
+      "year": null,
+      "valid_until": null,
+      "tags": [
+        "garde-a-vue",
+        "loi-2016-5",
+        "durees",
+        "needs_verification"
+      ]
+    },
+    {
+      "id": "spec-securite-droits-0029",
+      "type": "TRUE_FALSE",
+      "language": "ar",
+      "stem": "منذ تنقيح مجلة الإجراءات الجزائية سنة 2016، يحق لذي الشبهة المحتفظ به أن يختار محاميا يحضر معه خلال مرحلة الاحتفاظ لدى الضابطة العدلية.",
+      "options": [
+        {
+          "id": "a",
+          "text": "صحيح"
+        },
+        {
+          "id": "b",
+          "text": "خطأ"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "explanation": "العبارة صحيحة: من أهم ما جاء به القانون عدد 5 لسنة 2016 تمكين ذي الشبهة المحتفظ به من حق اختيار محام للحضور معه منذ مرحلة الاحتفاظ، بعد أن كان حضور المحامي مقتصرا على مراحل لاحقة كالتحقيق والمحاكمة. ويجب على مأمور الضابطة العدلية إعلامه بهذا الحق وتضمين ذلك بالمحضر، ويمكن للمحامي خاصة زيارة منوّبه وحضور سماعه ومكافحاته.",
+      "difficulty": "EASY",
+      "topic_key": "spec.securite-droits.garde-a-vue",
+      "objective_key": "spec.securite-droits.garde-a-vue.o2",
+      "families": [
+        "police-gardien-paix",
+        "police-inspecteur",
+        "police-officier",
+        "garde-nationale",
+        "prisons-reeducation"
+      ],
+      "origin": "AI_GENERATED",
+      "source_key": null,
+      "year": null,
+      "valid_until": null,
+      "tags": [
+        "garde-a-vue",
+        "droits-defense",
+        "avocat",
+        "needs_verification"
+      ]
+    },
+    {
+      "id": "spec-securite-droits-0030",
+      "type": "MCQ_MULTI",
+      "language": "ar",
+      "stem": "يتعيّن على مأمور الضابطة العدلية أن يُعلم ذا الشبهة المحتفظ به، بلغة يفهمها، بجملة من العناصر. ما هي؟ (اختر كل الإجابات الصحيحة)",
+      "options": [
+        {
+          "id": "a",
+          "text": "أسماء الشهود الذين سيُسمعون ضده"
+        },
+        {
+          "id": "b",
+          "text": "حقه في طلب العرض على الفحص الطبي"
+        },
+        {
+          "id": "c",
+          "text": "الحكم الذي ستصدره المحكمة في قضيته"
+        },
+        {
+          "id": "d",
+          "text": "الإجراء المتخذ ضده وسببه ومدته وقابليتها للتمديد"
+        },
+        {
+          "id": "e",
+          "text": "حقه في اختيار محام للحضور معه"
+        }
+      ],
+      "correct": [
+        "b",
+        "d",
+        "e"
+      ],
+      "explanation": "يجب على مأمور الضابطة العدلية أن يُعلم ذا الشبهة المحتفظ به، بلغة يفهمها، بالإجراء المتخذ ضده وسببه ومدته وإمكانية تمديدها، وبحقه في طلب العرض على الفحص الطبي، وبحقه في اختيار محام للحضور معه. أما أسماء الشهود فلا يُلزَم العون بالكشف عنها في هذه المرحلة لأن البحث يخضع لمبدأ السرية، ولا يمكن معرفة الحكم مسبقا لأن قرار التتبع يعود إلى النيابة العمومية والفصل يعود إلى المحكمة.",
+      "difficulty": "MEDIUM",
+      "topic_key": "spec.securite-droits.garde-a-vue",
+      "objective_key": "spec.securite-droits.garde-a-vue.o2",
+      "families": [
+        "police-gardien-paix",
+        "police-inspecteur",
+        "police-officier",
+        "garde-nationale",
+        "prisons-reeducation"
+      ],
+      "origin": "AI_GENERATED",
+      "source_key": null,
+      "year": null,
+      "valid_until": null,
+      "tags": [
+        "garde-a-vue",
+        "droits-garde-a-vue",
+        "loi-2016-5",
+        "needs_verification"
+      ]
+    },
+    {
+      "id": "spec-securite-droits-0031",
+      "type": "MCQ_SINGLE",
+      "language": "ar",
+      "stem": "من بين صلاحيات الهيئة الوطنية للوقاية من التعذيب:",
+      "options": [
+        {
+          "id": "a",
+          "text": "إصدار أحكام جزائية ضد الأعوان المتورطين في التعذيب"
+        },
+        {
+          "id": "b",
+          "text": "الحلول محل وكيل الجمهورية في الإشراف على أعمال الضابطة العدلية"
+        },
+        {
+          "id": "c",
+          "text": "منح الإذن بالاحتفاظ وتمديده"
+        },
+        {
+          "id": "d",
+          "text": "زيارة أماكن الحرمان من الحرية، ومنها غرف الاحتفاظ والسجون، بصفة دورية أو فجئية ودون إعلام مسبق"
+        }
+      ],
+      "correct": [
+        "d"
+      ],
+      "explanation": "أُحدثت الهيئة الوطنية للوقاية من التعذيب بمقتضى القانون الأساسي عدد 43 لسنة 2013، وهي الآلية الوقائية الوطنية التي يقتضيها البروتوكول الاختياري لاتفاقية مناهضة التعذيب. وتتمثل أهم صلاحياتها في زيارة أماكن الحرمان من الحرية دون سابق إعلام، ومقابلة المحتجزين على انفراد، وتقديم التوصيات. لكنها ليست هيئة قضائية، فلا تصدر أحكاما ولا تأذن بالاحتفاظ، إذ يبقى ذلك من صلاحيات القضاء والنيابة العمومية.",
+      "difficulty": "MEDIUM",
+      "topic_key": "spec.securite-droits.garde-a-vue",
+      "objective_key": "spec.securite-droits.garde-a-vue.o2",
+      "families": [
+        "police-gardien-paix",
+        "police-inspecteur",
+        "police-officier",
+        "garde-nationale",
+        "prisons-reeducation"
+      ],
+      "origin": "AI_GENERATED",
+      "source_key": null,
+      "year": null,
+      "valid_until": null,
+      "tags": [
+        "inpt",
+        "prevention-torture",
+        "lieux-detention",
+        "needs_verification"
+      ]
+    },
+    {
+      "id": "spec-securite-droits-0032",
+      "type": "MCQ_SINGLE",
+      "language": "fr",
+      "stem": "Selon le régime de la garde à vue issu de la loi n° 2016-5 modifiant le Code de procédure pénale, qui peut demander un examen médical de la personne gardée à vue ?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Uniquement le juge d'instruction"
+        },
+        {
+          "id": "b",
+          "text": "Uniquement le procureur de la République"
+        },
+        {
+          "id": "c",
+          "text": "La personne gardée à vue elle-même, son avocat ou l'un de ses proches (ascendant, descendant, frère ou sœur, conjoint)"
+        },
+        {
+          "id": "d",
+          "text": "Uniquement l'officier de police judiciaire qui a pris la mesure"
+        }
+      ],
+      "correct": [
+        "c"
+      ],
+      "explanation": "L'examen médical est une garantie ouverte à la personne gardée à vue elle-même, à son avocat et à ses proches, pendant ou à l'issue de la garde à vue ; l'officier de police judiciaire doit l'informer de ce droit dès le début de la mesure. Les autres propositions sont erronées parce qu'elles réservent ce droit à une seule autorité (procureur, officier de police judiciaire ou juge d'instruction), alors que le législateur en a fait une protection à l'initiative de la personne concernée. Cet examen permet de constater d'éventuels mauvais traitements et protège aussi les agents contre des allégations infondées.",
+      "difficulty": "MEDIUM",
+      "topic_key": "spec.securite-droits.garde-a-vue",
+      "objective_key": "spec.securite-droits.garde-a-vue.o2",
+      "families": [
+        "police-gardien-paix",
+        "police-inspecteur",
+        "police-officier",
+        "garde-nationale",
+        "prisons-reeducation"
+      ],
+      "origin": "AI_GENERATED",
+      "source_key": null,
+      "year": null,
+      "valid_until": null,
+      "tags": [
+        "garde-a-vue",
+        "examen-medical",
+        "loi-2016-5",
+        "needs_verification"
+      ]
+    },
+    {
+      "id": "spec-securite-droits-0033",
+      "type": "MCQ_SINGLE",
+      "language": "ar",
+      "stem": "يُقصد بواجب الحياد بالنسبة إلى عون الأمن:",
+      "options": [
+        {
+          "id": "a",
+          "text": "الامتناع عن التدخل في أي نزاع بين الأشخاص ولو كان فيه خطر على حياتهم"
+        },
+        {
+          "id": "b",
+          "text": "رفض تطبيق القوانين التي لا يوافق عليها شخصيا"
+        },
+        {
+          "id": "c",
+          "text": "أداء مهامه بنفس الطريقة إزاء جميع المواطنين، دون تمييز ودون الانحياز إلى أي طرف سياسي أو حزبي"
+        },
+        {
+          "id": "d",
+          "text": "عدم إبداء رأيه المهني لرؤسائه في المسائل المتعلقة بالعمل"
+        }
+      ],
+      "correct": [
+        "c"
+      ],
+      "explanation": "الحياد يعني أن يطبّق العون القانون على الجميع بنفس الطريقة، دون تمييز على أساس الانتماء السياسي أو الجهوي أو الديني أو الاجتماعي، وأن يمتنع عن أي نشاط حزبي في إطار مهامه أو بمناسبتها. ولا يعني الحياد السلبية، فالعون ملزم بالتدخل لحماية الأشخاص المعرضين للخطر. كما أن رفض تطبيق قانون لأسباب شخصية يتعارض مع مبدأ خضوع الإدارة للقانون.",
+      "difficulty": "EASY",
+      "topic_key": "spec.securite-droits.ethique",
+      "objective_key": "spec.securite-droits.ethique.o1",
+      "families": [
+        "police-gardien-paix",
+        "police-inspecteur",
+        "police-officier",
+        "garde-nationale",
+        "prisons-reeducation",
+        "protection-civile"
+      ],
+      "origin": "AI_GENERATED",
+      "source_key": null,
+      "year": null,
+      "valid_until": null,
+      "tags": [
+        "neutralite",
+        "deontologie"
+      ]
+    },
+    {
+      "id": "spec-securite-droits-0034",
+      "type": "TRUE_FALSE",
+      "language": "ar",
+      "stem": "يحق لأعوان قوات الأمن الداخلي ممارسة حق الإضراب على غرار بقية أعوان الوظيفة العمومية.",
+      "options": [
+        {
+          "id": "a",
+          "text": "صحيح"
+        },
+        {
+          "id": "b",
+          "text": "خطأ"
+        }
+      ],
+      "correct": [
+        "b"
+      ],
+      "explanation": "العبارة خاطئة: يحجّر القانون الأساسي العام لقوات الأمن الداخلي (القانون عدد 70 لسنة 1982 وتنقيحاته) على أعوان هذه القوات ممارسة حق الإضراب، نظرا لضرورة استمرارية مرفق الأمن. وقد اعتُرف لهم منذ سنة 2011 بالحق في العمل النقابي، لكن هذا الاعتراف لم يشمل الإضراب. ولا ينبغي الخلط بين الحق النقابي وحق الإضراب، فهما حقان متمايزان.",
+      "difficulty": "MEDIUM",
+      "topic_key": "spec.securite-droits.ethique",
+      "objective_key": "spec.securite-droits.ethique.o1",
+      "families": [
+        "police-gardien-paix",
+        "police-inspecteur",
+        "police-officier",
+        "garde-nationale",
+        "protection-civile"
+      ],
+      "origin": "AI_GENERATED",
+      "source_key": null,
+      "year": null,
+      "valid_until": null,
+      "tags": [
+        "statut-fsi",
+        "loi-82-70",
+        "greve",
+        "needs_verification"
+      ]
+    },
+    {
+      "id": "spec-securite-droits-0035",
+      "type": "MCQ_SINGLE",
+      "language": "ar",
+      "stem": "اتصل صحفي بعون أمن وطلب منه معلومات عن بحث جارٍ في قضية تشغل الرأي العام. ما التصرف السليم؟",
+      "options": [
+        {
+          "id": "a",
+          "text": "ينشر بنفسه المعلومات على شبكات التواصل الاجتماعي لقطع الطريق أمام الإشاعات"
+        },
+        {
+          "id": "b",
+          "text": "يقدّم له معلومات «غير رسمية» بشرط عدم ذكر اسمه"
+        },
+        {
+          "id": "c",
+          "text": "يسلّمه نسخة من المحضر لأن الحق في النفاذ إلى المعلومة مضمون للجميع"
+        },
+        {
+          "id": "d",
+          "text": "يمتنع عن تقديم أي معلومة ويوجّه الصحفي إلى الهيكل المكلف بالاتصال في إدارته أو إلى النيابة العمومية، احتراما لسرية البحث وللسر المهني"
+        }
+      ],
+      "correct": [
+        "d"
+      ],
+      "explanation": "يخضع البحث الجزائي لمبدأ السرية، ويُلزم السر المهني وواجب التحفظ العون بعدم إفشاء ما اطلع عليه بمناسبة عمله، ويتم التواصل مع الإعلام عبر الهياكل المكلفة بذلك أو عن طريق النيابة العمومية. أما الحق في النفاذ إلى المعلومة فيُمارَس وفق إجراءات مضبوطة أمام الهيكل العمومي المعني وليس عبر عون بعينه، ويرد عليه استثناءات منها المعلومات التي يضرّ الكشف عنها بسير الأبحاث والإجراءات القضائية. والتسريب «غير الرسمي» أو النشر على الشبكات الاجتماعية خطأ مهني جسيم قد يرتب مسؤولية تأديبية وجزائية.",
+      "difficulty": "HARD",
+      "topic_key": "spec.securite-droits.ethique",
+      "objective_key": "spec.securite-droits.ethique.o1",
+      "families": [
+        "police-gardien-paix",
+        "police-inspecteur",
+        "police-officier",
+        "garde-nationale",
+        "prisons-reeducation",
+        "protection-civile"
+      ],
+      "origin": "AI_GENERATED",
+      "source_key": null,
+      "year": null,
+      "valid_until": null,
+      "tags": [
+        "secret-professionnel",
+        "devoir-reserve",
+        "medias",
+        "needs_verification"
+      ]
+    },
+    {
+      "id": "spec-securite-droits-0036",
+      "type": "MCQ_SINGLE",
+      "language": "fr",
+      "stem": "Pendant une campagne électorale, un agent publie sur son compte Facebook personnel une photo de lui en uniforme accompagnée d'un appel à voter pour un parti. Quelle obligation professionnelle méconnaît-il principalement ?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Le secret de l'enquête"
+        },
+        {
+          "id": "b",
+          "text": "L'obligation de neutralité politique et le devoir de réserve"
+        },
+        {
+          "id": "c",
+          "text": "L'obligation de porter assistance à une personne en danger"
+        },
+        {
+          "id": "d",
+          "text": "L'obligation de disponibilité"
+        }
+      ],
+      "correct": [
+        "b"
+      ],
+      "explanation": "En mettant son uniforme au service d'une propagande partisane, l'agent engage l'image de l'institution et porte atteinte à la neutralité qui garantit l'égalité de traitement des citoyens, ainsi qu'au devoir de réserve qui encadre son expression publique, y compris sur les réseaux sociaux. Le secret de l'enquête concerne les informations relatives aux procédures en cours, absentes ici. L'obligation de disponibilité vise la présence au service à tout moment, et l'assistance à personne en danger est sans rapport avec la situation.",
+      "difficulty": "MEDIUM",
+      "topic_key": "spec.securite-droits.ethique",
+      "objective_key": "spec.securite-droits.ethique.o1",
+      "families": [
+        "police-gardien-paix",
+        "police-inspecteur",
+        "police-officier",
+        "garde-nationale",
+        "prisons-reeducation",
+        "protection-civile"
+      ],
+      "origin": "AI_GENERATED",
+      "source_key": null,
+      "year": null,
+      "valid_until": null,
+      "tags": [
+        "neutralite",
+        "devoir-reserve",
+        "reseaux-sociaux"
+      ]
+    },
+    {
+      "id": "spec-securite-droits-0037",
+      "type": "MCQ_SINGLE",
+      "language": "ar",
+      "stem": "أثناء مراقبة مرورية، عرض سائق مخالف على العون مبلغا ماليا مقابل عدم تحرير المخالفة. ما التصرف المطابق للقانون ولأخلاقيات المهنة؟",
+      "options": [
+        {
+          "id": "a",
+          "text": "يقبل المبلغ إذا كان زهيدا"
+        },
+        {
+          "id": "b",
+          "text": "يرفض العرض ويترك السائق يغادر دون أي إجراء تفاديا للمشاكل"
+        },
+        {
+          "id": "c",
+          "text": "يرفض العرض ويحرّر المخالفة، ويوثّق محاولة الإرشاء ويُعلم رؤساءه والنيابة العمومية"
+        },
+        {
+          "id": "d",
+          "text": "يقبل المبلغ ويودعه في صندوق المركز"
+        }
+      ],
+      "correct": [
+        "c"
+      ],
+      "explanation": "عرض مبلغ مالي على عون عمومي مقابل الامتناع عن عمل من واجباته يمثل جريمة إرشاء يعاقب عليها القانون الجزائي، سواء بالنسبة إلى من يعرض الرشوة أو من يقبلها. لذلك يجب على العون رفض العرض وتحرير المخالفة الأصلية وتوثيق محاولة الإرشاء وإعلام رؤسائه والنيابة العمومية. أما ترك السائق يغادر دون إجراء فيمثل تقصيرا في أداء الواجب، وقبول المبلغ، مهما كان زهيدا أو بحجة إيداعه، يمثل ارتشاء.",
+      "difficulty": "EASY",
+      "topic_key": "spec.securite-droits.ethique",
+      "objective_key": "spec.securite-droits.ethique.o2",
+      "families": [
+        "police-gardien-paix",
+        "police-inspecteur",
+        "police-officier",
+        "garde-nationale",
+        "prisons-reeducation",
+        "protection-civile"
+      ],
+      "origin": "AI_GENERATED",
+      "source_key": null,
+      "year": null,
+      "valid_until": null,
+      "tags": [
+        "corruption",
+        "integrite"
+      ]
+    },
+    {
+      "id": "spec-securite-droits-0038",
+      "type": "MCQ_MULTI",
+      "language": "ar",
+      "stem": "أيّ من الوضعيات التالية تمثل تضارب مصالح يستوجب من العون إعلام رئيسه وطلب إعفائه من الملف؟ (اختر كل الإجابات الصحيحة)",
+      "options": [
+        {
+          "id": "a",
+          "text": "تكليفه بمراقبة محل تجاري يملكه شريكه في مشروع خاص"
+        },
+        {
+          "id": "b",
+          "text": "تكليفه بالبحث في حادث مرور تسبب فيه شخص يطالبه بدين شخصي"
+        },
+        {
+          "id": "c",
+          "text": "تكليفه بتلقي شكاية من مواطن لا تربطه به أي علاقة"
+        },
+        {
+          "id": "d",
+          "text": "تكليفه بالبحث في شكاية يكون أحد أطرافها أخاه"
+        },
+        {
+          "id": "e",
+          "text": "تكليفه بتأمين تظاهرة ثقافية تُنظم في المدينة التي يقطن بها"
+        }
+      ],
+      "correct": [
+        "a",
+        "b",
+        "d"
+      ],
+      "explanation": "يوجد تضارب مصالح كلما كانت للعون مصلحة شخصية، عائلية أو مالية، من شأنها أن تؤثر أو يبدو أنها تؤثر على أدائه لمهامه بنزاهة وحياد: قرابة مع أحد الأطراف، أو شراكة تجارية مع الشخص الخاضع للمراقبة، أو علاقة دين شخصية تجعله في موقع ضعف أو انتقام إزاء المعني بالبحث. أما مجرد السكن في المدينة نفسها أو تلقي شكاية من مواطن غريب عنه فلا يُنشئ أي مصلحة شخصية. والحل السليم هو التصريح بالوضعية والتخلي عن الملف قبل اتخاذ أي إجراء.",
+      "difficulty": "HARD",
+      "topic_key": "spec.securite-droits.ethique",
+      "objective_key": "spec.securite-droits.ethique.o2",
+      "families": [
+        "police-gardien-paix",
+        "police-inspecteur",
+        "police-officier",
+        "garde-nationale",
+        "prisons-reeducation",
+        "protection-civile"
+      ],
+      "origin": "AI_GENERATED",
+      "source_key": null,
+      "year": null,
+      "valid_until": null,
+      "tags": [
+        "conflit-interets",
+        "integrite",
+        "impartialite"
+      ]
+    },
+    {
+      "id": "spec-securite-droits-0039",
+      "type": "MCQ_SINGLE",
+      "language": "ar",
+      "stem": "لاحظ عون أمن أن زميله يتلقى بانتظام مبالغ مالية من أصحاب محلات مقابل غض الطرف عن مخالفاتهم. ما التصرف الأنسب؟",
+      "options": [
+        {
+          "id": "a",
+          "text": "يلتزم الصمت حفاظا على روح الفريق والتضامن بين الزملاء"
+        },
+        {
+          "id": "b",
+          "text": "يطالب زميله بتقاسم المبالغ مقابل السكوت"
+        },
+        {
+          "id": "c",
+          "text": "ينشر الوقائع وصور زميله على شبكات التواصل الاجتماعي"
+        },
+        {
+          "id": "d",
+          "text": "يبلّغ عن الأفعال عبر القنوات المخصصة (الرؤساء، التفقدية، أو الهياكل المختصة بمكافحة الفساد)، ويتمتع بالحماية القانونية المقررة للمبلغين عن حسن نية"
+        }
+      ],
+      "correct": [
+        "d"
+      ],
+      "explanation": "تُلزم أخلاقيات المهنة، ومنها المادة 8 من مدونة الأمم المتحدة لسلوك الموظفين المكلفين بإنفاذ القوانين، العون بالإبلاغ عن الانتهاكات التي يعلم بها، ويوفّر القانون الأساسي عدد 10 لسنة 2017 المتعلق بالإبلاغ عن الفساد وحماية المبلغين حماية للمبلغ عن حسن نية من أي انتقام. أما الصمت فيجعل العون متسترا على الفساد ومخلّا بواجباته، والتشهير على الشبكات الاجتماعية يمس بقرينة البراءة وقد يضر بالبحث. ومطالبة الزميل بنصيب من المبالغ تجعل العون نفسه مرتكبا لجريمة.",
+      "difficulty": "MEDIUM",
+      "topic_key": "spec.securite-droits.ethique",
+      "objective_key": "spec.securite-droits.ethique.o2",
+      "families": [
+        "police-gardien-paix",
+        "police-inspecteur",
+        "police-officier",
+        "garde-nationale",
+        "prisons-reeducation",
+        "protection-civile"
+      ],
+      "origin": "AI_GENERATED",
+      "source_key": null,
+      "year": null,
+      "valid_until": null,
+      "tags": [
+        "corruption",
+        "lanceur-alerte",
+        "signalement",
+        "needs_verification"
+      ]
+    },
+    {
+      "id": "spec-securite-droits-0040",
+      "type": "MCQ_SINGLE",
+      "language": "ar",
+      "stem": "تقدمت امرأة إلى الوحدة المختصة بالبحث في جرائم العنف ضد المرأة للإبلاغ عن عنف زوجي، فحاول العون، بإلحاح، إقناعها بالتراجع عن شكايتها «حفاظا على الأسرة». ما التقييم الصحيح لهذا التصرف في ضوء القانون الأساسي عدد 58 لسنة 2017 المتعلق بالقضاء على العنف ضد المرأة؟",
+      "options": [
+        {
+          "id": "a",
+          "text": "تصرف لا يطرح أي إشكال، لأن قبول الشكاية يخضع للسلطة التقديرية للعون"
+        },
+        {
+          "id": "b",
+          "text": "تصرف مستحسن ما دام العنف لم يتسبب في سقوط بدني دائم"
+        },
+        {
+          "id": "c",
+          "text": "تصرف مشروع، لأن الصلح العائلي إجراء وجوبي يسبق كل تتبع في جرائم العنف الزوجي"
+        },
+        {
+          "id": "d",
+          "text": "تصرف مخالف للقانون قد يعرّض العون للتتبع الجزائي، إذ يجرّم القانون تعمّد ممارسة الضغط أو الإكراه على الضحية لحملها على التنازل عن حقوقها أو تغيير مضمون شكايتها أو الرجوع فيها"
+        }
+      ],
+      "correct": [
+        "d"
+      ],
+      "explanation": "يُلزم القانون الأساسي عدد 58 لسنة 2017 أعوان الوحدات المختصة بتلقي شكايات العنف ضد المرأة ومعاملة الضحايا باحترام وإعلامهن بحقوقهن، ويجرّم تعمّد العون ممارسة الضغط أو الإكراه على الضحية لحملها على التنازل عن حقوقها أو تغيير مضمون شكايتها أو الرجوع فيها. ولا ينص هذا القانون على صلح عائلي وجوبي يسبق التتبع، كما أن تلقي الشكاية واجب على العون وليس مسألة تقديرية. ويبقى العون ملزما بإعلام النيابة العمومية التي تقرر مآل الشكاية.",
+      "difficulty": "EXPERT",
+      "topic_key": "spec.securite-droits.ethique",
+      "objective_key": "spec.securite-droits.ethique.o2",
+      "families": [
+        "police-gardien-paix",
+        "police-inspecteur",
+        "police-officier",
+        "garde-nationale"
+      ],
+      "origin": "AI_GENERATED",
+      "source_key": null,
+      "year": null,
+      "valid_until": null,
+      "tags": [
+        "violence-femmes",
+        "loi-2017-58",
+        "victimes",
+        "needs_verification"
+      ]
+    }
+  ]
+}

@@ -131,10 +131,10 @@ export const READINESS_LABELS = ['EXCELLENT', 'GOOD', 'NEEDS_IMPROVEMENT', 'NOT_
 export type ReadinessLabel = (typeof READINESS_LABELS)[number];
 
 export const READINESS_LABEL_TEXT: Record<ReadinessLabel, { ar: string; fr: string }> = {
-  EXCELLENT: { ar: 'تحضير ممتاز', fr: 'Excellent preparation' },
-  GOOD: { ar: 'تحضير جيد', fr: 'Good preparation' },
-  NEEDS_IMPROVEMENT: { ar: 'يحتاج إلى تحسين', fr: 'Needs improvement' },
-  NOT_READY: { ar: 'غير جاهز بعد', fr: 'Not ready yet' },
+  EXCELLENT: { ar: 'تحضير ممتاز', fr: 'Excellente préparation' },
+  GOOD: { ar: 'تحضير جيد', fr: 'Bonne préparation' },
+  NEEDS_IMPROVEMENT: { ar: 'يحتاج إلى تحسين', fr: 'À améliorer' },
+  NOT_READY: { ar: 'غير جاهز بعد', fr: 'Pas encore prêt' },
 };
 
 export const GOVERNORATES = [

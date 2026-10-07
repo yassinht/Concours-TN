@@ -3,7 +3,7 @@ import { and, eq, isNotNull, isNull, or, sql } from 'drizzle-orm';
 import { levelFromXp, type MeDTO } from '@ctn/shared';
 import { InjectDb } from '../../db/db.module';
 import type { Database } from '../../db/client';
-import { attempts, enrollments, userProfiles, userStats, users } from '../../db/schema';
+import { attempts, enrollments, usageCounters, userProfiles, userStats, users } from '../../db/schema';
 import { daysBetween, tunisToday } from '../../common/dates';
 import { EntitlementsService } from '../billing/entitlements.service';
 import { asLocale } from './auth.util';
@@ -35,8 +35,8 @@ export class MeService {
   }
 
   async buildFor(u: UserRow): Promise<MeDTO> {
-    const [premium, statsRow, profileRow, enrollmentRow, diagnosticRow] = await Promise.all([
-      this.premium(u.id),
+    const [{ premium, usageToday }, statsRow, profileRow, enrollmentRow, diagnosticRow] = await Promise.all([
+      this.premiumAndUsage(u.id),
       this.db.select().from(userStats).where(eq(userStats.userId, u.id)).limit(1),
       this.db
         .select({ birthDate: userProfiles.birthDate, diplomaLevel: userProfiles.diplomaLevel })
@@ -67,6 +67,8 @@ export class MeService {
         hasEnrollment: enrollmentRow.length > 0,
         diagnosticDone: diagnosticRow.length > 0,
       },
+      emailVerified: !u.isGuest && !!u.email && !!u.emailVerifiedAt,
+      usageToday,
     };
   }
 
@@ -78,15 +80,29 @@ export class MeService {
       .where(and(eq(users.id, userId), or(isNull(users.lastActiveAt), sql`${users.lastActiveAt} < now() - ${LAST_ACTIVE_THROTTLE}`)));
   }
 
-  private async premium(userId: string): Promise<MeDTO['premium']> {
+  /** Premium status plus today's free-tier usage (guests included, so the UI can show "N free questions left"). */
+  private async premiumAndUsage(userId: string): Promise<{ premium: MeDTO['premium']; usageToday: MeDTO['usageToday'] }> {
     try {
-      const e = await this.entitlements.get(userId);
-      if (!e?.premium) return FREE_PREMIUM;
-      return { active: true, planCode: e.planCode ?? null, endsAt: e.endsAt ?? null };
+      const [e, [usage]] = await Promise.all([
+        this.entitlements.get(userId),
+        this.db
+          .select({ questions: usageCounters.questions, tutor: usageCounters.tutor })
+          .from(usageCounters)
+          .where(and(eq(usageCounters.userId, userId), eq(usageCounters.date, tunisToday())))
+          .limit(1),
+      ]);
+      const usageToday = {
+        questions: usage?.questions ?? 0,
+        questionsLimit: e.limits.questionsPerDay,
+        tutor: usage?.tutor ?? 0,
+        tutorLimit: e.limits.tutorPerDay,
+      };
+      if (!e?.premium) return { premium: FREE_PREMIUM, usageToday };
+      return { premium: { active: true, planCode: e.planCode ?? null, endsAt: e.endsAt ?? null }, usageToday };
     } catch (err) {
-      // Billing may be unavailable (or not implemented yet): never block auth on it.
+      // Billing may be unavailable: never block auth on it.
       this.logger.debug(`entitlements unavailable for ${userId}: ${err instanceof Error ? err.message : String(err)}`);
-      return FREE_PREMIUM;
+      return { premium: FREE_PREMIUM, usageToday: null };
     }
   }
 }

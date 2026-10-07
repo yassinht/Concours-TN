@@ -1,0 +1,2437 @@
+{
+ "bank": "spec-secourisme",
+ "domain": "SPECIALTY",
+ "specialty_syllabus": [
+  {
+   "key": "spec.secourisme",
+   "parent_key": null,
+   "level": "SUBJECT",
+   "domain": "SPECIALTY",
+   "title_ar": "الإسعافات الأولية والوقاية من الحرائق والمخاطر",
+   "title_fr": "Secourisme, prévention incendie et prévention des risques",
+   "scope": "SUGGESTED",
+   "source_key": null,
+   "objectives": []
+  },
+  {
+   "key": "spec.secourisme.protection-alerte",
+   "parent_key": "spec.secourisme",
+   "level": "TOPIC",
+   "domain": "SPECIALTY",
+   "title_ar": "الحماية والإنذار وتقييم حالة الضحية",
+   "title_fr": "Protéger, alerter et examiner la victime",
+   "scope": "SUGGESTED",
+   "source_key": null,
+   "objectives": [
+    {
+     "key": "spec.secourisme.protection-alerte.o1",
+     "text_ar": "تأمين مكان الحادث وتفادي الحادث الثاني وتوجيه إنذار فعّال إلى النجدة",
+     "text_fr": "Sécuriser les lieux, éviter le sur-accident et transmettre une alerte efficace aux secours"
+    },
+    {
+     "key": "spec.secourisme.protection-alerte.o2",
+     "text_ar": "تقييم الوعي والتنفّس لدى الضحية",
+     "text_fr": "Apprécier la conscience et la respiration de la victime"
+    }
+   ]
+  },
+  {
+   "key": "spec.secourisme.pls-rcp",
+   "parent_key": "spec.secourisme",
+   "level": "TOPIC",
+   "domain": "SPECIALTY",
+   "title_ar": "فقدان الوعي ووضعية الأمان الجانبية والإنعاش القلبي الرئوي",
+   "title_fr": "Perte de connaissance, PLS et réanimation cardio-pulmonaire",
+   "scope": "SUGGESTED",
+   "source_key": null,
+   "objectives": [
+    {
+     "key": "spec.secourisme.pls-rcp.o1",
+     "text_ar": "وضع الضحية الفاقدة للوعي التي تتنفّس في وضعية الأمان الجانبية ومراقبتها",
+     "text_fr": "Installer en PLS et surveiller une victime inconsciente qui respire"
+    },
+    {
+     "key": "spec.secourisme.pls-rcp.o2",
+     "text_ar": "التعرّف على توقّف القلب وإجراء الإنعاش القلبي الرئوي واستعمال جهاز إزالة الرجفان الآلي",
+     "text_fr": "Reconnaître l'arrêt cardiaque, pratiquer la RCP et utiliser un défibrillateur automatisé externe (DAE)"
+    },
+    {
+     "key": "spec.secourisme.pls-rcp.o3",
+     "text_ar": "التعامل مع انسداد المجاري التنفسية بجسم غريب (الاختناق)",
+     "text_fr": "Prendre en charge une obstruction des voies aériennes par un corps étranger"
+    }
+   ]
+  },
+  {
+   "key": "spec.secourisme.hemorragies",
+   "parent_key": "spec.secourisme",
+   "level": "TOPIC",
+   "domain": "SPECIALTY",
+   "title_ar": "النزيف والصدمة",
+   "title_fr": "Hémorragies et détresse circulatoire",
+   "scope": "SUGGESTED",
+   "source_key": null,
+   "objectives": [
+    {
+     "key": "spec.secourisme.hemorragies.o1",
+     "text_ar": "إيقاف النزيف الخارجي: الضغط المباشر والضماد الضاغط والرباط الضاغط (الغارو)",
+     "text_fr": "Arrêter une hémorragie externe : compression directe, pansement compressif, garrot"
+    },
+    {
+     "key": "spec.secourisme.hemorragies.o2",
+     "text_ar": "التعامل مع النزيفات الخاصة (الرعاف) والتعرّف على علامات الصدمة",
+     "text_fr": "Gérer les saignements particuliers (épistaxis) et reconnaître les signes de détresse circulatoire"
+    }
+   ]
+  },
+  {
+   "key": "spec.secourisme.brulures",
+   "parent_key": "spec.secourisme",
+   "level": "TOPIC",
+   "domain": "SPECIALTY",
+   "title_ar": "الحروق",
+   "title_fr": "Brûlures",
+   "scope": "SUGGESTED",
+   "source_key": null,
+   "objectives": [
+    {
+     "key": "spec.secourisme.brulures.o1",
+     "text_ar": "تقدير عمق الحرق ومساحته وخطورته",
+     "text_fr": "Évaluer la profondeur, l'étendue et la gravité d'une brûlure"
+    },
+    {
+     "key": "spec.secourisme.brulures.o2",
+     "text_ar": "الإسعافات الأولية للحروق الحرارية والكيميائية والكهربائية",
+     "text_fr": "Prendre en charge les brûlures thermiques, chimiques et électriques"
+    }
+   ]
+  },
+  {
+   "key": "spec.secourisme.feu",
+   "parent_key": "spec.secourisme",
+   "level": "TOPIC",
+   "domain": "SPECIALTY",
+   "title_ar": "الحريق: مثلث الحريق وأصناف الحرائق وانتشارها",
+   "title_fr": "Le feu : triangle du feu, classes de feux et propagation",
+   "scope": "SUGGESTED",
+   "source_key": null,
+   "objectives": [
+    {
+     "key": "spec.secourisme.feu.o1",
+     "text_ar": "عناصر مثلث الحريق وطرق الإطفاء",
+     "text_fr": "Connaître le triangle du feu et les procédés d'extinction"
+    },
+    {
+     "key": "spec.secourisme.feu.o2",
+     "text_ar": "التمييز بين أصناف الحرائق (A، B، C، D، F)",
+     "text_fr": "Distinguer les classes de feux (A, B, C, D, F)"
+    },
+    {
+     "key": "spec.secourisme.feu.o3",
+     "text_ar": "أنماط انتشار الحريق ومخاطر الدخان والغازات القابلة للاشتعال",
+     "text_fr": "Comprendre la propagation du feu, les dangers des fumées et des gaz inflammables"
+    }
+   ]
+  },
+  {
+   "key": "spec.secourisme.extincteurs",
+   "parent_key": "spec.secourisme",
+   "level": "TOPIC",
+   "domain": "SPECIALTY",
+   "title_ar": "وسائل الإطفاء والطفايات",
+   "title_fr": "Moyens d'extinction et extincteurs",
+   "scope": "SUGGESTED",
+   "source_key": null,
+   "objectives": [
+    {
+     "key": "spec.secourisme.extincteurs.o1",
+     "text_ar": "اختيار المادة المطفئة المناسبة لصنف الحريق",
+     "text_fr": "Choisir l'agent extincteur adapté à la classe de feu"
+    },
+    {
+     "key": "spec.secourisme.extincteurs.o2",
+     "text_ar": "استعمال الطفاية بطريقة صحيحة وآمنة",
+     "text_fr": "Utiliser un extincteur correctement et en sécurité"
+    }
+   ]
+  },
+  {
+   "key": "spec.secourisme.prevention",
+   "parent_key": "spec.secourisme",
+   "level": "TOPIC",
+   "domain": "SPECIALTY",
+   "title_ar": "الوقاية من المخاطر والإخلاء",
+   "title_fr": "Prévention des risques et évacuation",
+   "scope": "SUGGESTED",
+   "source_key": null,
+   "objectives": [
+    {
+     "key": "spec.secourisme.prevention.o1",
+     "text_ar": "مبادئ الوقاية: الخطر والمخاطرة وعلامات السلامة",
+     "text_fr": "Principes de prévention : danger et risque, signalisation de sécurité"
+    },
+    {
+     "key": "spec.secourisme.prevention.o2",
+     "text_ar": "الإخلاء عند الحريق والوقاية من المخاطر المنزلية والمهنية (الغاز، أول أكسيد الكربون)",
+     "text_fr": "Évacuer en cas d'incendie et prévenir les risques domestiques et professionnels (gaz, monoxyde de carbone)"
+    }
+   ]
+  }
+ ],
+ "sources": [],
+ "research_notes": "Banque originale (origin AI_GENERATED) de 40 questions (20 en arabe, 20 en français), rédigée le 07/10/2026. Répartition : 12 EASY / 16 MEDIUM / 8 HARD / 4 EXPERT ; 26 MCQ_SINGLE, 4 MCQ_MULTI, 4 TRUE_FALSE, 2 NUMERIC, 2 ORDERING, 2 MATCHING. Le syllabus (1 SUBJECT + 7 TOPIC) est une proposition éditoriale (scope SUGGESTED), aucun programme officiel de secourisme pour les concours tunisiens n'ayant été trouvé dans le dépôt. LIMITE MÉTHODOLOGIQUE : aucune vérification web n'a pu être faite lors de cette passe. Le quota WebSearch partagé était épuisé et WebFetch renvoyait EGRESS_BLOCKED (cpr.heart.org, cprguidelines.eu, onpc.nat.tn) ou une erreur DNS (protectioncivile.tn). Les questions se limitent donc à des notions stables et communes aux recommandations ERC 2021/2025, AHA 2020/2025, IFRC 2020 et aux référentiels francophones de secourisme : PAS, bilan en 10 s maximum, PLS, RCP 30:2 à 100-120/min et 5-6 cm, DAE, gasps, désobstruction par 5 claques dans le dos puis 5 compressions abdominales, compression directe, garrot, épistaxis tête penchée en avant, refroidissement prolongé des brûlures, règle des 9, triangle du feu, classes de feux EN 2, extincteurs, CO, gaz et signalisation ISO 7010. Points volontairement évités car ils diffèrent selon les référentiels ou les versions : technique de compression chez le nourrisson, ratio et séquence pédiatriques, durée exacte de refroidissement (10 ou 20 min ; la question 0022 retient « au moins une dizaine de minutes »), surélévation des jambes en cas de choc, points de compression à distance, et toute périodicité réglementaire tunisienne de vérification des extincteurs. À VÉRIFIER en priorité : (1) question 0002, numéros d'urgence tunisiens (198 Protection civile, 190 SAMU, 197 Police, 193 Garde nationale), repris de competitions/protection-civile.json où ils sont déjà marqués « à vérifier » (tag a-verifier) ; (2) relire 0012 (séquence de désobstruction) et 0011 (DAE) contre les recommandations AHA/ERC 2025 publiées en octobre 2025 ; (3) classes de feux : la norme EN 2 est supposée applicable en Tunisie (normes NT de l'INNORPI non consultées) ; certains supports tunisiens anciens peuvent encore mentionner une classe E (feux électriques). Familles : les 9 familles dont le fichier de concours référence spec.secourisme (protection-civile, police-inspecteur, steg, tunisie-telecom, transport-aerien, douane, enseignement-primaire, administration-generale, collectivites-locales), plus 4 corps de sécurité/défense où le secourisme figure vraisemblablement en formation ou en culture professionnelle (garde-nationale, police-gardien-paix, prisons-reeducation, armee-ecoles-militaires) : ajout éditorial à confirmer.",
+ "questions": [
+  {
+   "id": "spec-secourisme-0001",
+   "type": "MCQ_SINGLE",
+   "language": "ar",
+   "stem": "وصلتَ أوّلًا إلى مكان حادث مرور. حسب القاعدة العامة للإسعاف «احمِ، أنذِر، أسعِف»، ما هو أوّل ما يجب القيام به؟",
+   "options": [
+    {
+     "id": "a",
+     "text": "إعطاء الجريح ماءً أو مشروبًا سكّريًا لتهدئته"
+    },
+    {
+     "id": "b",
+     "text": "تأمين المكان لتفادي وقوع حادث ثانٍ (علامات التنبيه، الأضواء المنبّهة، إبعاد الفضوليين) مع ضمان سلامتك الشخصية"
+    },
+    {
+     "id": "c",
+     "text": "تصوير المكان لتوثيق الحادث قبل أي تدخّل"
+    },
+    {
+     "id": "d",
+     "text": "نقل الجريح فورًا بسيارتك إلى أقرب مستشفى"
+    }
+   ],
+   "correct": [
+    "b"
+   ],
+   "explanation": "الحماية هي المرحلة الأولى: يجب منع وقوع حادث ثانٍ قد يصيب المسعف أو الضحايا أو الشهود، لأن مسعفًا جريحًا لا يستطيع إنقاذ أحد. أما نقل الجريح بسيارة خاصة فقد يفاقم إصاباته، خاصة إصابات العمود الفقري، ويؤخّر التكفّل الطبي المناسب. ولا يُعطى المصاب أي شراب لأنه قد يحتاج إلى تدخّل جراحي أو قد يختنق إذا فقد وعيه.",
+   "difficulty": "EASY",
+   "topic_key": "spec.secourisme.protection-alerte",
+   "objective_key": "spec.secourisme.protection-alerte.o1",
+   "families": [
+    "protection-civile",
+    "police-gardien-paix",
+    "police-inspecteur",
+    "garde-nationale",
+    "prisons-reeducation",
+    "douane",
+    "armee-ecoles-militaires",
+    "enseignement-primaire",
+    "steg",
+    "tunisie-telecom",
+    "transport-aerien",
+    "administration-generale",
+    "collectivites-locales"
+   ],
+   "origin": "AI_GENERATED",
+   "source_key": null,
+   "year": null,
+   "valid_until": null,
+   "tags": [
+    "proteger-alerter-secourir",
+    "sur-accident",
+    "accident-route"
+   ]
+  },
+  {
+   "id": "spec-secourisme-0002",
+   "type": "MCQ_SINGLE",
+   "language": "fr",
+   "stem": "En Tunisie, quel numéro d'appel d'urgence permet de joindre directement la Protection civile (incendie, sauvetage, secours aux personnes) ?",
+   "options": [
+    {
+     "id": "a",
+     "text": "197"
+    },
+    {
+     "id": "b",
+     "text": "190"
+    },
+    {
+     "id": "c",
+     "text": "198"
+    },
+    {
+     "id": "d",
+     "text": "193"
+    }
+   ],
+   "correct": [
+    "c"
+   ],
+   "explanation": "Le 198 est le numéro de la Protection civile, à composer pour un incendie, un sauvetage ou une personne à secourir. Le 190 est celui du SAMU (aide médicale urgente), le 197 celui de la Police et le 193 celui de la Garde nationale. Connaître ces numéros par cœur fait gagner un temps précieux au moment de l'alerte.",
+   "difficulty": "EASY",
+   "topic_key": "spec.secourisme.protection-alerte",
+   "objective_key": "spec.secourisme.protection-alerte.o1",
+   "families": [
+    "protection-civile",
+    "police-gardien-paix",
+    "police-inspecteur",
+    "garde-nationale",
+    "prisons-reeducation",
+    "douane",
+    "armee-ecoles-militaires",
+    "enseignement-primaire",
+    "steg",
+    "tunisie-telecom",
+    "transport-aerien",
+    "administration-generale",
+    "collectivites-locales"
+   ],
+   "origin": "AI_GENERATED",
+   "source_key": null,
+   "year": null,
+   "valid_until": null,
+   "tags": [
+    "alerte",
+    "numeros-urgence",
+    "tunisie",
+    "a-verifier"
+   ]
+  },
+  {
+   "id": "spec-secourisme-0003",
+   "type": "TRUE_FALSE",
+   "language": "ar",
+   "stem": "يجب دائمًا إخراج جريح حادث المرور من سيارته فور وصول المسعف، حتى وإن لم يكن هناك أي خطر داهم (حريق، انفجار، انهيار...).",
+   "options": [
+    {
+     "id": "a",
+     "text": "صحيح"
+    },
+    {
+     "id": "b",
+     "text": "خطأ"
+    }
+   ],
+   "correct": [
+    "b"
+   ],
+   "explanation": "خطأ. لا يُسحب الجريح من مكانه (السحب الاستعجالي) إلا إذا كان معرّضًا لخطر حقيقي وفوري لا يمكن التحكّم فيه، كحريق أو خطر انهيار أو غرق. ففي غير هذه الحالات قد يؤدّي التحريك غير المدروس إلى تفاقم إصابة محتملة في العمود الفقري (الرقبة) وإحداث شلل. والمطلوب هو تأمين المكان، وإنذار النجدة، ومراقبة الجريح والتحدّث إليه في انتظار وصول الفرق المختصة.",
+   "difficulty": "MEDIUM",
+   "topic_key": "spec.secourisme.protection-alerte",
+   "objective_key": "spec.secourisme.protection-alerte.o1",
+   "families": [
+    "protection-civile",
+    "police-gardien-paix",
+    "police-inspecteur",
+    "garde-nationale",
+    "prisons-reeducation",
+    "douane",
+    "armee-ecoles-militaires",
+    "enseignement-primaire",
+    "steg",
+    "tunisie-telecom",
+    "transport-aerien",
+    "administration-generale",
+    "collectivites-locales"
+   ],
+   "origin": "AI_GENERATED",
+   "source_key": null,
+   "year": null,
+   "valid_until": null,
+   "tags": [
+    "degagement-urgence",
+    "colonne-vertebrale",
+    "accident-route"
+   ]
+  },
+  {
+   "id": "spec-secourisme-0004",
+   "type": "MCQ_SINGLE",
+   "language": "ar",
+   "stem": "لتقييم حالة الوعي لدى شخص ممدّد على الأرض، يقوم المسعف بـ:",
+   "options": [
+    {
+     "id": "a",
+     "text": "صبّ الماء البارد على وجهه حتى يستفيق"
+    },
+    {
+     "id": "b",
+     "text": "التحدّث إليه بصوت واضح وطرح أسئلة بسيطة، وطلب أن يفتح عينيه أو أن يشدّ على يده، مع لمس كتفيه أو هزّهما برفق"
+    },
+    {
+     "id": "c",
+     "text": "تقريب البصل أو قارورة عطر من أنفه وانتظار ردّة فعله"
+    },
+    {
+     "id": "d",
+     "text": "صفعه بقوة على وجهه"
+    }
+   ],
+   "correct": [
+    "b"
+   ],
+   "explanation": "يُقيَّم الوعي بتحفيز بسيط: نسأل الضحية بصوت واضح (هل تسمعني؟ ما اسمك؟) ونطلب منها تنفيذ أمر بسيط كفتح العينين أو الضغط على اليد، مع لمس الكتفين أو هزّهما برفق. إذا لم تستجب فهي فاقدة للوعي، فننتقل إلى فتح مجرى الهواء وتقييم التنفّس. أما صبّ الماء أو الصفع أو تقريب البصل والعطر فممارسات شائعة لكنها لا تفيد في التقييم وتؤخّر الإسعافات الضرورية.",
+   "difficulty": "EASY",
+   "topic_key": "spec.secourisme.protection-alerte",
+   "objective_key": "spec.secourisme.protection-alerte.o2",
+   "families": [
+    "protection-civile",
+    "police-gardien-paix",
+    "police-inspecteur",
+    "garde-nationale",
+    "prisons-reeducation",
+    "douane",
+    "armee-ecoles-militaires",
+    "enseignement-primaire",
+    "steg",
+    "tunisie-telecom",
+    "transport-aerien",
+    "administration-generale",
+    "collectivites-locales"
+   ],
+   "origin": "AI_GENERATED",
+   "source_key": null,
+   "year": null,
+   "valid_until": null,
+   "tags": [
+    "bilan",
+    "conscience"
+   ]
+  },
+  {
+   "id": "spec-secourisme-0005",
+   "type": "MCQ_SINGLE",
+   "language": "fr",
+   "stem": "Chez une victime adulte qui ne répond pas, après avoir libéré les voies aériennes (bascule prudente de la tête en arrière et élévation du menton), le secouriste apprécie la respiration en regardant, en écoutant et en sentant pendant :",
+   "options": [
+    {
+     "id": "a",
+     "text": "10 secondes au maximum"
+    },
+    {
+     "id": "b",
+     "text": "2 à 3 minutes, montre en main"
+    },
+    {
+     "id": "c",
+     "text": "30 secondes environ"
+    },
+    {
+     "id": "d",
+     "text": "1 minute complète, pour être sûr"
+    }
+   ],
+   "correct": [
+    "a"
+   ],
+   "explanation": "Les recommandations internationales de réanimation (ERC, AHA) limitent cette évaluation à 10 secondes au plus. Au-delà, on retarde le début du massage cardiaque, alors que chaque minute sans compressions réduit fortement les chances de survie en cas d'arrêt cardiaque. Si la respiration est absente ou anormale au terme de ces 10 secondes, on alerte et on commence la RCP ; si elle est normale, on installe la victime en PLS.",
+   "difficulty": "MEDIUM",
+   "topic_key": "spec.secourisme.protection-alerte",
+   "objective_key": "spec.secourisme.protection-alerte.o2",
+   "families": [
+    "protection-civile",
+    "police-gardien-paix",
+    "police-inspecteur",
+    "garde-nationale",
+    "prisons-reeducation",
+    "douane",
+    "armee-ecoles-militaires",
+    "enseignement-primaire",
+    "steg",
+    "tunisie-telecom",
+    "transport-aerien",
+    "administration-generale",
+    "collectivites-locales"
+   ],
+   "origin": "AI_GENERATED",
+   "source_key": null,
+   "year": null,
+   "valid_until": null,
+   "tags": [
+    "bilan",
+    "respiration",
+    "liberation-voies-aeriennes"
+   ]
+  },
+  {
+   "id": "spec-secourisme-0006",
+   "type": "MCQ_SINGLE",
+   "language": "fr",
+   "stem": "Une victime adulte ne répond ni aux questions ni aux ordres simples, mais elle respire normalement et ne saigne pas. Quelle conduite le secouriste doit-il adopter ?",
+   "options": [
+    {
+     "id": "a",
+     "text": "L'asseoir contre un mur et lui donner à boire"
+    },
+    {
+     "id": "b",
+     "text": "Commencer immédiatement les compressions thoraciques"
+    },
+    {
+     "id": "c",
+     "text": "La laisser sur le dos, sans surveillance, en attendant les secours"
+    },
+    {
+     "id": "d",
+     "text": "La mettre en position latérale de sécurité (PLS), alerter les secours et surveiller sa respiration en permanence"
+    }
+   ],
+   "correct": [
+    "d"
+   ],
+   "explanation": "Une victime inconsciente qui respire risque l'obstruction de ses voies aériennes par la chute de la langue en arrière ou par l'inhalation de vomissements. La PLS maintient les voies aériennes libres et permet l'écoulement des liquides vers l'extérieur ; il faut ensuite surveiller la respiration en continu. Le massage cardiaque n'est indiqué que si la victime ne respire pas ou respire anormalement, et on ne donne jamais à boire à une personne dont la conscience est altérée.",
+   "difficulty": "EASY",
+   "topic_key": "spec.secourisme.pls-rcp",
+   "objective_key": "spec.secourisme.pls-rcp.o1",
+   "families": [
+    "protection-civile",
+    "police-gardien-paix",
+    "police-inspecteur",
+    "garde-nationale",
+    "prisons-reeducation",
+    "douane",
+    "armee-ecoles-militaires",
+    "enseignement-primaire",
+    "steg",
+    "tunisie-telecom",
+    "transport-aerien",
+    "administration-generale",
+    "collectivites-locales"
+   ],
+   "origin": "AI_GENERATED",
+   "source_key": null,
+   "year": null,
+   "valid_until": null,
+   "tags": [
+    "pls",
+    "inconscience"
+   ]
+  },
+  {
+   "id": "spec-secourisme-0007",
+   "type": "MCQ_SINGLE",
+   "language": "ar",
+   "stem": "عند وضع شخص فاقد للوعي يتنفّس في وضعية الأمان الجانبية (PLS)، يكون الهدف الأساسي هو:",
+   "options": [
+    {
+     "id": "a",
+     "text": "رفع ضغط الدم بإعادة الدم إلى الدماغ"
+    },
+    {
+     "id": "b",
+     "text": "تثبيت الكسور المحتملة في الأطراف"
+    },
+    {
+     "id": "c",
+     "text": "الحفاظ على مجرى الهواء مفتوحًا والسماح بخروج القيء أو الإفرازات من الفم بدل أن تُستنشق"
+    },
+    {
+     "id": "d",
+     "text": "تسهيل القيام بضغطات الصدر"
+    }
+   ],
+   "correct": [
+    "c"
+   ],
+   "explanation": "عند فقدان الوعي ترتخي العضلات فيمكن أن يسقط اللسان إلى الخلف ويسدّ مجرى الهواء، كما يمكن أن تُستنشق محتويات المعدة إلى الرئتين. وضعية الأمان الجانبية تجعل الفم متّجهًا نحو الأرض، فتبقى المجاري التنفسية مفتوحة وتخرج السوائل إلى الخارج. أما ضغطات الصدر فتُجرى والضحية مستلقية على ظهرها فوق سطح صلب، ولا علاقة لهذه الوضعية بتثبيت الكسور ولا برفع ضغط الدم.",
+   "difficulty": "MEDIUM",
+   "topic_key": "spec.secourisme.pls-rcp",
+   "objective_key": "spec.secourisme.pls-rcp.o1",
+   "families": [
+    "protection-civile",
+    "police-gardien-paix",
+    "police-inspecteur",
+    "garde-nationale",
+    "prisons-reeducation",
+    "douane",
+    "armee-ecoles-militaires",
+    "enseignement-primaire",
+    "steg",
+    "tunisie-telecom",
+    "transport-aerien",
+    "administration-generale",
+    "collectivites-locales"
+   ],
+   "origin": "AI_GENERATED",
+   "source_key": null,
+   "year": null,
+   "valid_until": null,
+   "tags": [
+    "pls",
+    "voies-aeriennes"
+   ]
+  },
+  {
+   "id": "spec-secourisme-0008",
+   "type": "NUMERIC",
+   "language": "ar",
+   "stem": "أثناء الإنعاش القلبي الرئوي لشخص بالغ من طرف مسعف مدرّب على التنفّس الاصطناعي، كم ضغطة صدرية تُجرى قبل كل نفختين؟",
+   "options": [],
+   "correct": {
+    "value": 30,
+    "tolerance": 0
+   },
+   "explanation": "تعتمد التوصيات الدولية (المجلس الأوروبي للإنعاش ERC وجمعية القلب الأمريكية AHA) نسبة 30 ضغطة مقابل نفختين لدى البالغ. أما نسبة 15 ضغطة مقابل نفختين فتُستعمل في بعض بروتوكولات إنعاش الأطفال لدى المسعفين المحترفين، فلا يجب الخلط بينهما. والشاهد غير المدرّب أو غير القادر على النفخ يكتفي بضغطات صدرية متواصلة.",
+   "difficulty": "EASY",
+   "topic_key": "spec.secourisme.pls-rcp",
+   "objective_key": "spec.secourisme.pls-rcp.o2",
+   "families": [
+    "protection-civile",
+    "police-gardien-paix",
+    "police-inspecteur",
+    "garde-nationale",
+    "prisons-reeducation",
+    "douane",
+    "armee-ecoles-militaires",
+    "enseignement-primaire",
+    "steg",
+    "tunisie-telecom",
+    "transport-aerien",
+    "administration-generale",
+    "collectivites-locales"
+   ],
+   "origin": "AI_GENERATED",
+   "source_key": null,
+   "year": null,
+   "valid_until": null,
+   "tags": [
+    "rcp",
+    "30-2"
+   ]
+  },
+  {
+   "id": "spec-secourisme-0009",
+   "type": "MCQ_SINGLE",
+   "language": "fr",
+   "stem": "Chez l'adulte en arrêt cardiaque, les compressions thoraciques se font au centre de la poitrine avec :",
+   "options": [
+    {
+     "id": "a",
+     "text": "une fréquence de 100 à 120 par minute et une profondeur de 5 à 6 cm, en laissant le thorax reprendre sa forme entre deux compressions"
+    },
+    {
+     "id": "b",
+     "text": "une fréquence de 100 à 120 par minute et une profondeur de 1 à 2 cm, pour ne pas blesser la victime"
+    },
+    {
+     "id": "c",
+     "text": "une fréquence de 60 à 80 par minute et une profondeur de 2 à 3 cm"
+    },
+    {
+     "id": "d",
+     "text": "une fréquence de 150 à 180 par minute et une profondeur d'au moins 8 cm"
+    }
+   ],
+   "correct": [
+    "a"
+   ],
+   "explanation": "Les recommandations ERC et AHA fixent une fréquence de 100 à 120 compressions par minute et une profondeur de 5 à 6 cm chez l'adulte, avec un relâchement complet du thorax entre deux compressions. Une profondeur de 1 à 2 cm est insuffisante : elle ne produit pas un débit sanguin cérébral suffisant : la crainte de casser des côtes ne doit pas freiner le secouriste. Une fréquence trop élevée empêche le cœur de se remplir, tandis qu'une fréquence trop lente diminue le débit produit.",
+   "difficulty": "MEDIUM",
+   "topic_key": "spec.secourisme.pls-rcp",
+   "objective_key": "spec.secourisme.pls-rcp.o2",
+   "families": [
+    "protection-civile",
+    "police-gardien-paix",
+    "police-inspecteur",
+    "garde-nationale",
+    "prisons-reeducation",
+    "douane",
+    "armee-ecoles-militaires",
+    "enseignement-primaire",
+    "steg",
+    "tunisie-telecom",
+    "transport-aerien",
+    "administration-generale",
+    "collectivites-locales"
+   ],
+   "origin": "AI_GENERATED",
+   "source_key": null,
+   "year": null,
+   "valid_until": null,
+   "tags": [
+    "rcp",
+    "compressions-thoraciques"
+   ]
+  },
+  {
+   "id": "spec-secourisme-0010",
+   "type": "TRUE_FALSE",
+   "language": "fr",
+   "stem": "Une victime adulte inconsciente présente des mouvements respiratoires rares, bruyants et irréguliers (« gasps »). Le secouriste doit la considérer comme respirant normalement et l'installer en position latérale de sécurité.",
+   "options": [
+    {
+     "id": "a",
+     "text": "Vrai"
+    },
+    {
+     "id": "b",
+     "text": "Faux"
+    }
+   ],
+   "correct": [
+    "b"
+   ],
+   "explanation": "Faux. Les gasps (respiration agonique) sont fréquents dans les premières minutes d'un arrêt cardiaque : ce ne sont pas des mouvements respiratoires efficaces. Les recommandations demandent de traiter toute victime qui ne répond pas et ne respire pas normalement comme étant en arrêt cardiaque : alerter, faire apporter un DAE et commencer immédiatement la RCP. La mettre en PLS ferait perdre de précieuses minutes.",
+   "difficulty": "HARD",
+   "topic_key": "spec.secourisme.pls-rcp",
+   "objective_key": "spec.secourisme.pls-rcp.o2",
+   "families": [
+    "protection-civile",
+    "police-gardien-paix",
+    "police-inspecteur",
+    "garde-nationale",
+    "prisons-reeducation",
+    "douane",
+    "armee-ecoles-militaires",
+    "enseignement-primaire",
+    "steg",
+    "tunisie-telecom",
+    "transport-aerien",
+    "administration-generale",
+    "collectivites-locales"
+   ],
+   "origin": "AI_GENERATED",
+   "source_key": null,
+   "year": null,
+   "valid_until": null,
+   "tags": [
+    "arret-cardiaque",
+    "gasps",
+    "pls"
+   ]
+  },
+  {
+   "id": "spec-secourisme-0011",
+   "type": "MCQ_MULTI",
+   "language": "ar",
+   "stem": "أيّ من العبارات التالية صحيحة بخصوص استعمال جهاز إزالة الرجفان الآلي الخارجي (DAE / AED) لدى بالغ في حالة توقّف القلب؟ (اختر كل الإجابات الصحيحة)",
+   "options": [
+    {
+     "id": "a",
+     "text": "يُستعمل الجهاز في أقرب وقت ممكن بمجرّد إحضاره، مع مواصلة الضغطات الصدرية إلى حين تركيب الأقطاب"
+    },
+    {
+     "id": "b",
+     "text": "بعد إعطاء الصدمة تُستأنف الضغطات الصدرية فورًا حسب التعليمات الصوتية للجهاز"
+    },
+    {
+     "id": "c",
+     "text": "لا يلمس أحدٌ الضحيةَ أثناء تحليل نظم القلب وأثناء إعطاء الصدمة"
+    },
+    {
+     "id": "d",
+     "text": "تُلصق الأقطاب فوق ملابس الضحية لتفادي لمس جلدها"
+    },
+    {
+     "id": "e",
+     "text": "لا يحقّ استعمال الجهاز إلا للطبيب"
+    }
+   ],
+   "correct": [
+    "a",
+    "b",
+    "c"
+   ],
+   "explanation": "صُمّم الجهاز الآلي الخارجي ليستعمله أيّ شخص، حتى غير المختص، لأنه يحلّل نظم القلب بنفسه ولا يقرّر الصدمة إلا عند الحاجة، ويوجّه المستعمل بتعليمات صوتية. تُلصق الأقطاب على صدر عارٍ وجاف، ويجب ألا يلمس أحد الضحية أثناء التحليل والصدمة لتفادي التشويش وخطر الصعق. وبعد الصدمة تُستأنف الضغطات فورًا لأن القلب لا يستعيد في أغلب الحالات دورة دموية فعّالة مباشرة.",
+   "difficulty": "HARD",
+   "topic_key": "spec.secourisme.pls-rcp",
+   "objective_key": "spec.secourisme.pls-rcp.o2",
+   "families": [
+    "protection-civile",
+    "police-gardien-paix",
+    "police-inspecteur",
+    "garde-nationale",
+    "prisons-reeducation",
+    "douane",
+    "armee-ecoles-militaires",
+    "enseignement-primaire",
+    "steg",
+    "tunisie-telecom",
+    "transport-aerien",
+    "administration-generale",
+    "collectivites-locales"
+   ],
+   "origin": "AI_GENERATED",
+   "source_key": null,
+   "year": null,
+   "valid_until": null,
+   "tags": [
+    "dae",
+    "defibrillation",
+    "rcp"
+   ]
+  },
+  {
+   "id": "spec-secourisme-0012",
+   "type": "MCQ_SINGLE",
+   "language": "fr",
+   "stem": "Au restaurant, un adulte porte les mains à sa gorge : il ne peut plus parler, ni tousser, ni respirer, mais il est conscient. Quelle est la conduite à tenir recommandée ?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Donner jusqu'à 5 claques vigoureuses dans le dos, entre les omoplates, puis, en cas d'échec, jusqu'à 5 compressions abdominales (méthode de Heimlich), et alterner ces deux séries"
+    },
+    {
+     "id": "b",
+     "text": "Lui faire boire de l'eau pour faire descendre l'aliment"
+    },
+    {
+     "id": "c",
+     "text": "L'encourager seulement à tousser, sans autre geste, jusqu'à l'arrivée des secours"
+    },
+    {
+     "id": "d",
+     "text": "L'allonger immédiatement sur le dos et pratiquer des insufflations"
+    }
+   ],
+   "correct": [
+    "a"
+   ],
+   "explanation": "L'impossibilité de parler, de tousser et de respirer signe une obstruction totale des voies aériennes : sans geste immédiat, la victime perdra connaissance en quelques minutes. Les recommandations prévoient d'alterner des séries de 5 claques dans le dos et de 5 compressions abdominales jusqu'à la désobstruction. Encourager à tousser ne convient qu'à l'obstruction partielle, quand la victime peut encore tousser et respirer, et faire boire peut aggraver l'obstruction. Si la victime perd connaissance, on alerte et on commence la RCP.",
+   "difficulty": "HARD",
+   "topic_key": "spec.secourisme.pls-rcp",
+   "objective_key": "spec.secourisme.pls-rcp.o3",
+   "families": [
+    "protection-civile",
+    "police-gardien-paix",
+    "police-inspecteur",
+    "garde-nationale",
+    "prisons-reeducation",
+    "douane",
+    "armee-ecoles-militaires",
+    "enseignement-primaire",
+    "steg",
+    "tunisie-telecom",
+    "transport-aerien",
+    "administration-generale",
+    "collectivites-locales"
+   ],
+   "origin": "AI_GENERATED",
+   "source_key": null,
+   "year": null,
+   "valid_until": null,
+   "tags": [
+    "obstruction-voies-aeriennes",
+    "heimlich",
+    "etouffement"
+   ]
+  },
+  {
+   "id": "spec-secourisme-0013",
+   "type": "MCQ_SINGLE",
+   "language": "ar",
+   "stem": "أمام نزيف خارجي غزير من جرح في الساعد، ما هو أوّل إجراء يقوم به المسعف (بعد حماية يديه بقفازات أو بكيس بلاستيكي إن أمكن)؟",
+   "options": [
+    {
+     "id": "a",
+     "text": "غسل الجرح طويلًا بالماء قبل أي ضغط"
+    },
+    {
+     "id": "b",
+     "text": "وضع مكعّبات الثلج على الجرح وانتظار توقّف النزيف"
+    },
+    {
+     "id": "c",
+     "text": "رفع الذراع فقط دون أي ضغط"
+    },
+    {
+     "id": "d",
+     "text": "الضغط المباشر والمستمر على الجرح باليد أو بقطعة قماش نظيفة"
+    }
+   ],
+   "correct": [
+    "d"
+   ],
+   "explanation": "الضغط المباشر على موضع النزيف هو الإجراء الأول والأنجع لإيقاف معظم النزيفات الخارجية، ويُحافظ عليه دون انقطاع ثم يُعوَّض بضماد ضاغط. أما رفع الطرف وحده أو وضع الثلج فلا يكفيان لإيقاف نزيف غزير، وغسل الجرح يؤخّر الإجراء الحيوي بينما تفقد الضحية دمها. ويحمي المسعف نفسه بقفازات أو بحاجز (كيس بلاستيكي) من الأمراض المنقولة عبر الدم.",
+   "difficulty": "EASY",
+   "topic_key": "spec.secourisme.hemorragies",
+   "objective_key": "spec.secourisme.hemorragies.o1",
+   "families": [
+    "protection-civile",
+    "police-gardien-paix",
+    "police-inspecteur",
+    "garde-nationale",
+    "prisons-reeducation",
+    "douane",
+    "armee-ecoles-militaires",
+    "enseignement-primaire",
+    "steg",
+    "tunisie-telecom",
+    "transport-aerien",
+    "administration-generale",
+    "collectivites-locales"
+   ],
+   "origin": "AI_GENERATED",
+   "source_key": null,
+   "year": null,
+   "valid_until": null,
+   "tags": [
+    "hemorragie",
+    "compression-directe"
+   ]
+  },
+  {
+   "id": "spec-secourisme-0014",
+   "type": "MCQ_SINGLE",
+   "language": "fr",
+   "stem": "Lorsqu'un garrot est nécessaire pour arrêter une hémorragie grave d'un membre, il doit être posé :",
+   "options": [
+    {
+     "id": "a",
+     "text": "sur l'articulation la plus proche (coude, genou), là où le membre est le plus fin"
+    },
+    {
+     "id": "b",
+     "text": "entre la plaie et la racine du membre, quelques centimètres au-dessus de la plaie, jamais sur une articulation, en notant l'heure de pose"
+    },
+    {
+     "id": "c",
+     "text": "en dessous de la plaie, du côté de la main ou du pied"
+    },
+    {
+     "id": "d",
+     "text": "directement sur la plaie, pour comprimer la zone qui saigne"
+    }
+   ],
+   "correct": [
+    "b"
+   ],
+   "explanation": "Le garrot doit interrompre la circulation artérielle en amont de la plaie, donc entre celle-ci et la racine du membre, à quelques centimètres au-dessus. Posé sur une articulation, il comprime mal les artères, protégées par les os et les tendons. L'heure de pose est notée (sur la victime ou sur le garrot) et transmise aux secours. Posé sous la plaie, il ne stopperait pas le sang artériel qui arrive du cœur.",
+   "difficulty": "MEDIUM",
+   "topic_key": "spec.secourisme.hemorragies",
+   "objective_key": "spec.secourisme.hemorragies.o1",
+   "families": [
+    "protection-civile",
+    "police-gardien-paix",
+    "police-inspecteur",
+    "garde-nationale",
+    "prisons-reeducation",
+    "douane",
+    "armee-ecoles-militaires",
+    "enseignement-primaire",
+    "steg",
+    "tunisie-telecom",
+    "transport-aerien",
+    "administration-generale",
+    "collectivites-locales"
+   ],
+   "origin": "AI_GENERATED",
+   "source_key": null,
+   "year": null,
+   "valid_until": null,
+   "tags": [
+    "hemorragie",
+    "garrot"
+   ]
+  },
+  {
+   "id": "spec-secourisme-0015",
+   "type": "MCQ_SINGLE",
+   "language": "ar",
+   "stem": "جريح انغرست في فخذه قطعة زجاج كبيرة والجرح ينزف. ما التصرّف الصحيح؟",
+   "options": [
+    {
+     "id": "a",
+     "text": "الضغط بقوة مباشرة على قطعة الزجاج لإيقاف النزيف"
+    },
+    {
+     "id": "b",
+     "text": "عدم نزع قطعة الزجاج، وتثبيتها في مكانها، والضغط حولها دون الضغط عليها، ثم إنذار النجدة"
+    },
+    {
+     "id": "c",
+     "text": "نزع قطعة الزجاج فورًا ثم الضغط على الجرح"
+    },
+    {
+     "id": "d",
+     "text": "تحريك قطعة الزجاج للتأكد من عمق الجرح"
+    }
+   ],
+   "correct": [
+    "b"
+   ],
+   "explanation": "لا يُنزع الجسم الغريب المنغرس في الجرح، لأنه قد يسدّ جزئيًا الأوعية المقطوعة، ونزعه قد يتسبّب في نزيف غزير يصعب التحكّم فيه أو في إصابات إضافية. يُثبَّت الجسم في مكانه ويُضغط حول الجرح، مع تجنّب الضغط عليه مباشرة لأن ذلك يدفعه إلى العمق. وتتولّى الفرق الطبية نزعه في ظروف ملائمة.",
+   "difficulty": "MEDIUM",
+   "topic_key": "spec.secourisme.hemorragies",
+   "objective_key": "spec.secourisme.hemorragies.o1",
+   "families": [
+    "protection-civile",
+    "police-gardien-paix",
+    "police-inspecteur",
+    "garde-nationale",
+    "prisons-reeducation",
+    "douane",
+    "armee-ecoles-militaires",
+    "enseignement-primaire",
+    "steg",
+    "tunisie-telecom",
+    "transport-aerien",
+    "administration-generale",
+    "collectivites-locales"
+   ],
+   "origin": "AI_GENERATED",
+   "source_key": null,
+   "year": null,
+   "valid_until": null,
+   "tags": [
+    "hemorragie",
+    "corps-etranger",
+    "plaie"
+   ]
+  },
+  {
+   "id": "spec-secourisme-0016",
+   "type": "MCQ_SINGLE",
+   "language": "fr",
+   "stem": "Dans laquelle des situations suivantes le recours au garrot est-il justifié ?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Saignement de nez qui persiste après 2 minutes de compression des narines"
+    },
+    {
+     "id": "b",
+     "text": "Hémorragie massive de la cuisse alors que le secouriste, seul, doit aussi prendre en charge d'autres blessés graves et ne peut pas maintenir une compression manuelle"
+    },
+    {
+     "id": "c",
+     "text": "Plaie du cuir chevelu qui saigne beaucoup"
+    },
+    {
+     "id": "d",
+     "text": "Saignement abondant d'une plaie du cou"
+    }
+   ],
+   "correct": [
+    "b"
+   ],
+   "explanation": "Le garrot est réservé aux hémorragies graves d'un membre lorsque la compression manuelle est inefficace ou impossible : victimes multiples, secouriste qui doit se libérer, plaie inaccessible, environnement dangereux. Il est inapplicable au cou, au tronc et à la tête : pour une plaie du cou ou du cuir chevelu, on maintient une compression directe. Une épistaxis se traite en comprimant les narines une dizaine de minutes, tête penchée en avant ; 2 minutes ne suffisent pas pour conclure à un échec.",
+   "difficulty": "EXPERT",
+   "topic_key": "spec.secourisme.hemorragies",
+   "objective_key": "spec.secourisme.hemorragies.o1",
+   "families": [
+    "protection-civile",
+    "police-gardien-paix",
+    "police-inspecteur",
+    "garde-nationale",
+    "prisons-reeducation",
+    "douane",
+    "armee-ecoles-militaires",
+    "enseignement-primaire",
+    "steg",
+    "tunisie-telecom",
+    "transport-aerien",
+    "administration-generale",
+    "collectivites-locales"
+   ],
+   "origin": "AI_GENERATED",
+   "source_key": null,
+   "year": null,
+   "valid_until": null,
+   "tags": [
+    "hemorragie",
+    "garrot",
+    "victimes-multiples"
+   ]
+  },
+  {
+   "id": "spec-secourisme-0017",
+   "type": "MCQ_SINGLE",
+   "language": "ar",
+   "stem": "شخص يعاني من نزيف في الأنف (رعاف) دون أي إصابة في الرأس. ما التصرّف الصحيح؟",
+   "options": [
+    {
+     "id": "a",
+     "text": "إمالة رأسه إلى الخلف حتى يتوقف النزيف"
+    },
+    {
+     "id": "b",
+     "text": "إدخال قطعة قطن عميقًا في الأنف ثم مواصلة نشاطه بشكل عادي"
+    },
+    {
+     "id": "c",
+     "text": "إجلاسه مع إمالة رأسه إلى الأمام، وطلب أن يضغط على الجزء اللين من أنفه لمدة 10 دقائق تقريبًا"
+    },
+    {
+     "id": "d",
+     "text": "تمديده على ظهره مع رفع ساقيه"
+    }
+   ],
+   "correct": [
+    "c"
+   ],
+   "explanation": "الوضعية الصحيحة هي الجلوس مع إمالة الرأس إلى الأمام، فيخرج الدم من الأنف بدل أن يسيل إلى الحلق، مع الضغط على جناحي الأنف حوالي 10 دقائق. أما إمالة الرأس إلى الخلف، وهي عادة شائعة، فتجعل الدم يُبتلع، وقد يسبّب ذلك القيء أو يسيل الدم إلى المجاري التنفسية. وإذا استمرّ النزيف رغم الضغط أو حدث بعد صدمة على الرأس، وجب طلب النجدة.",
+   "difficulty": "EASY",
+   "topic_key": "spec.secourisme.hemorragies",
+   "objective_key": "spec.secourisme.hemorragies.o2",
+   "families": [
+    "protection-civile",
+    "police-gardien-paix",
+    "police-inspecteur",
+    "garde-nationale",
+    "prisons-reeducation",
+    "douane",
+    "armee-ecoles-militaires",
+    "enseignement-primaire",
+    "steg",
+    "tunisie-telecom",
+    "transport-aerien",
+    "administration-generale",
+    "collectivites-locales"
+   ],
+   "origin": "AI_GENERATED",
+   "source_key": null,
+   "year": null,
+   "valid_until": null,
+   "tags": [
+    "epistaxis",
+    "hemorragie"
+   ]
+  },
+  {
+   "id": "spec-secourisme-0018",
+   "type": "MCQ_MULTI",
+   "language": "fr",
+   "stem": "Une victime a perdu beaucoup de sang. Parmi les signes suivants, lesquels doivent faire suspecter une détresse circulatoire (état de choc) ? (plusieurs réponses)",
+   "options": [
+    {
+     "id": "a",
+     "text": "pouls rapide et difficile à percevoir (filant)"
+    },
+    {
+     "id": "b",
+     "text": "soif intense, agitation ou angoisse"
+    },
+    {
+     "id": "c",
+     "text": "sueurs froides et extrémités froides"
+    },
+    {
+     "id": "d",
+     "text": "peau rouge, chaude et sèche"
+    },
+    {
+     "id": "e",
+     "text": "pâleur de la peau et des muqueuses"
+    },
+    {
+     "id": "f",
+     "text": "pouls lent et bien frappé"
+    }
+   ],
+   "correct": [
+    "a",
+    "b",
+    "c",
+    "e"
+   ],
+   "explanation": "L'hémorragie diminue le volume de sang circulant : l'organisme réagit en accélérant le cœur (pouls rapide et filant) et en réduisant la circulation dans la peau (pâleur, extrémités froides, sueurs), ce qui s'accompagne de soif et d'agitation. Une peau rouge, chaude et sèche évoque plutôt un coup de chaleur, et un pouls lent et bien frappé ne correspond pas à une hémorragie importante. Face à ces signes, on arrête le saignement, on allonge la victime, on la protège du froid, on ne lui donne rien à boire et on alerte en urgence.",
+   "difficulty": "HARD",
+   "topic_key": "spec.secourisme.hemorragies",
+   "objective_key": "spec.secourisme.hemorragies.o2",
+   "families": [
+    "protection-civile",
+    "police-gardien-paix",
+    "police-inspecteur",
+    "garde-nationale",
+    "prisons-reeducation",
+    "douane",
+    "armee-ecoles-militaires",
+    "enseignement-primaire",
+    "steg",
+    "tunisie-telecom",
+    "transport-aerien",
+    "administration-generale",
+    "collectivites-locales"
+   ],
+   "origin": "AI_GENERATED",
+   "source_key": null,
+   "year": null,
+   "valid_until": null,
+   "tags": [
+    "etat-de-choc",
+    "hemorragie",
+    "detresse-circulatoire"
+   ]
+  },
+  {
+   "id": "spec-secourisme-0019",
+   "type": "NUMERIC",
+   "language": "ar",
+   "stem": "حسب «قاعدة التسعات» (قاعدة والاس) لتقدير مساحة الحروق لدى البالغ، أصيب شخص بحروق تغطّي كامل الطرف العلوي الأيمن وكامل الوجه الأمامي للجذع. ما هي النسبة المئوية التقريبية لمساحة الجسم المحروقة؟",
+   "options": [],
+   "correct": {
+    "value": 27,
+    "tolerance": 0
+   },
+   "explanation": "تقسم قاعدة التسعات سطح جسم البالغ إلى مناطق تساوي 9 % أو مضاعفاتها: الرأس والرقبة 9 %، وكل طرف علوي 9 %، وكل طرف سفلي 18 %، والوجه الأمامي للجذع 18 %، والوجه الخلفي 18 %، والعجان 1 %. إذن: 9 % (الطرف العلوي) + 18 % (الجذع الأمامي) = 27 %. وللحروق الصغيرة المتفرّقة يُستعمل كفّ يد الضحية مع الأصابع، وهو يمثّل حوالي 1 % من مساحة الجسم.",
+   "difficulty": "MEDIUM",
+   "topic_key": "spec.secourisme.brulures",
+   "objective_key": "spec.secourisme.brulures.o1",
+   "families": [
+    "protection-civile",
+    "police-gardien-paix",
+    "police-inspecteur",
+    "garde-nationale",
+    "prisons-reeducation",
+    "douane",
+    "armee-ecoles-militaires",
+    "enseignement-primaire",
+    "steg",
+    "tunisie-telecom",
+    "transport-aerien",
+    "administration-generale",
+    "collectivites-locales"
+   ],
+   "origin": "AI_GENERATED",
+   "source_key": null,
+   "year": null,
+   "valid_until": null,
+   "tags": [
+    "brulures",
+    "regle-des-9",
+    "calcul"
+   ]
+  },
+  {
+   "id": "spec-secourisme-0020",
+   "type": "ORDERING",
+   "language": "fr",
+   "stem": "Classez ces brûlures thermiques de la plus superficielle à la plus profonde :",
+   "options": [
+    {
+     "id": "a",
+     "text": "Peau cartonnée, blanchâtre, brunâtre ou noirâtre, insensible au toucher"
+    },
+    {
+     "id": "b",
+     "text": "Rougeur douloureuse sans cloque, comme un coup de soleil"
+    },
+    {
+     "id": "c",
+     "text": "Cloques (phlyctènes) à fond rose et suintant, très douloureuses"
+    },
+    {
+     "id": "d",
+     "text": "Atteinte du derme profond, fond blanc rosé, sensibilité diminuée"
+    }
+   ],
+   "correct": {
+    "order": [
+     "b",
+     "c",
+     "d",
+     "a"
+    ]
+   },
+   "explanation": "La brûlure du 1er degré (b) n'atteint que l'épiderme : rougeur douloureuse sans cloque. Le 2e degré superficiel (c) se traduit par des cloques à fond rose, très douloureuses ; au 2e degré profond (d), les terminaisons nerveuses du derme sont en partie détruites et la sensibilité diminue. Le 3e degré (a) détruit toute l'épaisseur de la peau, qui devient cartonnée et insensible. L'absence de douleur n'est donc pas rassurante : c'est au contraire un signe de profondeur.",
+   "difficulty": "MEDIUM",
+   "topic_key": "spec.secourisme.brulures",
+   "objective_key": "spec.secourisme.brulures.o1",
+   "families": [
+    "protection-civile",
+    "police-gardien-paix",
+    "police-inspecteur",
+    "garde-nationale",
+    "prisons-reeducation",
+    "douane",
+    "armee-ecoles-militaires",
+    "enseignement-primaire",
+    "steg",
+    "tunisie-telecom",
+    "transport-aerien",
+    "administration-generale",
+    "collectivites-locales"
+   ],
+   "origin": "AI_GENERATED",
+   "source_key": null,
+   "year": null,
+   "valid_until": null,
+   "tags": [
+    "brulures",
+    "degres",
+    "profondeur"
+   ]
+  },
+  {
+   "id": "spec-secourisme-0021",
+   "type": "MCQ_MULTI",
+   "language": "ar",
+   "stem": "أيّ من الخصائص التالية تجعل الحرق خطيرًا ويستوجب طلب النجدة الطبية؟ (اختر كل الإجابات الصحيحة)",
+   "options": [
+    {
+     "id": "a",
+     "text": "حرق عميق ذو مظهر أبيض أو بنّي أو أسود وغير مؤلم"
+    },
+    {
+     "id": "b",
+     "text": "سعال أو صعوبة في التنفّس أو آثار سخام حول الفم والأنف بعد التعرّض للدخان"
+    },
+    {
+     "id": "c",
+     "text": "حرق يصيب الوجه أو الرقبة أو اليدين أو المفاصل أو الأعضاء التناسلية"
+    },
+    {
+     "id": "d",
+     "text": "احمرار بسيط مؤلم دون فقاعات على مساحة صغيرة من الساعد"
+    },
+    {
+     "id": "e",
+     "text": "حرق واسع المساحة، خاصة لدى طفل أو مسنّ"
+    }
+   ],
+   "correct": [
+    "a",
+    "b",
+    "c",
+    "e"
+   ],
+   "explanation": "تُقدَّر خطورة الحرق حسب مساحته وعمقه وموضعه وسببه وسنّ الضحية. فالحروق العميقة أو الواسعة، وتلك التي تصيب الوجه واليدين والمفاصل والأعضاء التناسلية، أو التي ترافقها علامات حرق في المجاري التنفسية (سعال، سخام، بحّة في الصوت) تُعدّ خطيرة وتستوجب طلب النجدة. أما الاحمرار البسيط دون فقاعات على مساحة صغيرة (الدرجة الأولى) فحرق بسيط يكفي فيه التبريد بالماء والمراقبة.",
+   "difficulty": "HARD",
+   "topic_key": "spec.secourisme.brulures",
+   "objective_key": "spec.secourisme.brulures.o1",
+   "families": [
+    "protection-civile",
+    "police-gardien-paix",
+    "police-inspecteur",
+    "garde-nationale",
+    "prisons-reeducation",
+    "douane",
+    "armee-ecoles-militaires",
+    "enseignement-primaire",
+    "steg",
+    "tunisie-telecom",
+    "transport-aerien",
+    "administration-generale",
+    "collectivites-locales"
+   ],
+   "origin": "AI_GENERATED",
+   "source_key": null,
+   "year": null,
+   "valid_until": null,
+   "tags": [
+    "brulures",
+    "gravite"
+   ]
+  },
+  {
+   "id": "spec-secourisme-0022",
+   "type": "MCQ_SINGLE",
+   "language": "fr",
+   "stem": "Face à une brûlure thermique simple de la main (eau bouillante), le premier geste recommandé est :",
+   "options": [
+    {
+     "id": "a",
+     "text": "étaler du beurre, de l'huile ou du dentifrice pour calmer la douleur"
+    },
+    {
+     "id": "b",
+     "text": "appliquer directement des glaçons sur la brûlure"
+    },
+    {
+     "id": "c",
+     "text": "refroidir immédiatement la brûlure sous l'eau courante tempérée, de façon prolongée (au moins une dizaine de minutes)"
+    },
+    {
+     "id": "d",
+     "text": "percer les cloques pour évacuer le liquide"
+    }
+   ],
+   "correct": [
+    "c"
+   ],
+   "explanation": "Le refroidissement précoce et prolongé à l'eau tempérée limite l'extension de la brûlure en profondeur et calme la douleur ; les recommandations actuelles préconisent une durée de 10 à 20 minutes au moins. La glace resserre les vaisseaux et peut ajouter une lésion par le froid. Les corps gras retiennent la chaleur et favorisent l'infection, et percer les cloques ouvre la porte aux germes. On retire aussi bagues et bracelets avant que la main ne gonfle.",
+   "difficulty": "EASY",
+   "topic_key": "spec.secourisme.brulures",
+   "objective_key": "spec.secourisme.brulures.o2",
+   "families": [
+    "protection-civile",
+    "police-gardien-paix",
+    "police-inspecteur",
+    "garde-nationale",
+    "prisons-reeducation",
+    "douane",
+    "armee-ecoles-militaires",
+    "enseignement-primaire",
+    "steg",
+    "tunisie-telecom",
+    "transport-aerien",
+    "administration-generale",
+    "collectivites-locales"
+   ],
+   "origin": "AI_GENERATED",
+   "source_key": null,
+   "year": null,
+   "valid_until": null,
+   "tags": [
+    "brulures",
+    "refroidissement"
+   ]
+  },
+  {
+   "id": "spec-secourisme-0023",
+   "type": "MCQ_SINGLE",
+   "language": "ar",
+   "stem": "اشتعلت النار في ملابس شخص فأخذ يجري مذعورًا. ما التصرّف الصحيح؟",
+   "options": [
+    {
+     "id": "a",
+     "text": "إيقافه، ثم تمديده على الأرض ودحرجته أو لفّه ببطانية من القطن أو الصوف لإخماد اللهب"
+    },
+    {
+     "id": "b",
+     "text": "لفّه بغطاء بلاستيكي أو من الألياف الاصطناعية"
+    },
+    {
+     "id": "c",
+     "text": "نزع ملابسه المحترقة الملتصقة بالجلد بالقوة فورًا"
+    },
+    {
+     "id": "d",
+     "text": "تركه يجري حتى تنطفئ النار بفعل الهواء"
+    }
+   ],
+   "correct": [
+    "a"
+   ],
+   "explanation": "الجري يزيد من تهوية النار فتشتدّ ويرتفع اللهب نحو الوجه، لذلك يجب إيقاف الشخص وتمديده على الأرض ودحرجته أو تغطيته ببطانية من ألياف طبيعية لخنق النار بحرمانها من الأكسجين. أما الأغطية البلاستيكية أو الاصطناعية فتذوب وتلتصق بالجلد فتفاقم الحرق. وبعد إخماد النار تُبرَّد الحروق بالماء ولا تُنزع الملابس الملتصقة بالجلد.",
+   "difficulty": "EASY",
+   "topic_key": "spec.secourisme.brulures",
+   "objective_key": "spec.secourisme.brulures.o2",
+   "families": [
+    "protection-civile",
+    "police-gardien-paix",
+    "police-inspecteur",
+    "garde-nationale",
+    "prisons-reeducation",
+    "douane",
+    "armee-ecoles-militaires",
+    "enseignement-primaire",
+    "steg",
+    "tunisie-telecom",
+    "transport-aerien",
+    "administration-generale",
+    "collectivites-locales"
+   ],
+   "origin": "AI_GENERATED",
+   "source_key": null,
+   "year": null,
+   "valid_until": null,
+   "tags": [
+    "brulures",
+    "vetements-en-feu"
+   ]
+  },
+  {
+   "id": "spec-secourisme-0024",
+   "type": "MCQ_SINGLE",
+   "language": "fr",
+   "stem": "Un ouvrier a été électrisé par un câble basse tension. Il est conscient et ne présente qu'une petite brûlure au point de contact de la main. Quelle est la conduite la plus adaptée ?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Après avoir fait couper le courant, refroidir la brûlure, alerter les secours et faire examiner la victime par un médecin même si elle se sent bien"
+    },
+    {
+     "id": "b",
+     "text": "Appliquer de la glace sur la brûlure et le laisser rentrer seul chez lui"
+    },
+    {
+     "id": "c",
+     "text": "Se contenter d'un pansement sec : une petite brûlure électrique est toujours sans gravité"
+    },
+    {
+     "id": "d",
+     "text": "Le décoller du câble à mains nues dès votre arrivée, puis le laisser reprendre le travail puisque la brûlure est minime"
+    }
+   ],
+   "correct": [
+    "a"
+   ],
+   "explanation": "Avant tout contact, il faut supprimer le danger en coupant le courant, sinon le secouriste risque à son tour l'électrisation. La gravité d'une brûlure électrique ne se juge pas à l'aspect de la peau : le courant traverse les tissus et peut provoquer des lésions internes profondes ainsi que des troubles du rythme cardiaque. C'est pourquoi un avis médical est nécessaire même lorsque la victime paraît aller bien et que la brûlure visible est petite.",
+   "difficulty": "EXPERT",
+   "topic_key": "spec.secourisme.brulures",
+   "objective_key": "spec.secourisme.brulures.o2",
+   "families": [
+    "protection-civile",
+    "police-gardien-paix",
+    "police-inspecteur",
+    "garde-nationale",
+    "prisons-reeducation",
+    "douane",
+    "armee-ecoles-militaires",
+    "enseignement-primaire",
+    "steg",
+    "tunisie-telecom",
+    "transport-aerien",
+    "administration-generale",
+    "collectivites-locales"
+   ],
+   "origin": "AI_GENERATED",
+   "source_key": null,
+   "year": null,
+   "valid_until": null,
+   "tags": [
+    "brulures",
+    "electrisation",
+    "risque-electrique"
+   ]
+  },
+  {
+   "id": "spec-secourisme-0025",
+   "type": "MCQ_SINGLE",
+   "language": "ar",
+   "stem": "يتكوّن «مثلث الحريق» من ثلاثة عناصر لا بدّ من اجتماعها لاندلاع النار، وهي:",
+   "options": [
+    {
+     "id": "a",
+     "text": "الماء والهواء والتراب"
+    },
+    {
+     "id": "b",
+     "text": "الدخان واللهب والرماد"
+    },
+    {
+     "id": "c",
+     "text": "ثاني أكسيد الكربون والنيتروجين والحرارة"
+    },
+    {
+     "id": "d",
+     "text": "مادة قابلة للاشتعال (الوقود)، ومادة مساعدة على الاشتعال (أكسجين الهواء)، ومصدر حرارة (طاقة التنشيط)"
+    }
+   ],
+   "correct": [
+    "d"
+   ],
+   "explanation": "لا تندلع النار إلا باجتماع ثلاثة عناصر: الوقود (خشب، بنزين، غاز...)، والمادة المساعدة على الاشتعال وهي في الغالب أكسجين الهواء، ومصدر حرارة كافٍ (شرارة، لهب، احتكاك). ويكفي حذف عنصر واحد منها لإخماد الحريق، وهو المبدأ الذي تقوم عليه كل طرق الإطفاء. أما الدخان واللهب والرماد فهي نواتج الاحتراق وليست شروطه، وثاني أكسيد الكربون والنيتروجين لا يساعدان على الاشتعال.",
+   "difficulty": "EASY",
+   "topic_key": "spec.secourisme.feu",
+   "objective_key": "spec.secourisme.feu.o1",
+   "families": [
+    "protection-civile",
+    "police-gardien-paix",
+    "police-inspecteur",
+    "garde-nationale",
+    "prisons-reeducation",
+    "douane",
+    "armee-ecoles-militaires",
+    "enseignement-primaire",
+    "steg",
+    "tunisie-telecom",
+    "transport-aerien",
+    "administration-generale",
+    "collectivites-locales"
+   ],
+   "origin": "AI_GENERATED",
+   "source_key": null,
+   "year": null,
+   "valid_until": null,
+   "tags": [
+    "triangle-du-feu",
+    "combustion"
+   ]
+  },
+  {
+   "id": "spec-secourisme-0026",
+   "type": "MCQ_SINGLE",
+   "language": "fr",
+   "stem": "De l'huile prend feu dans une poêle. Couvrir la poêle avec son couvercle, après avoir coupé la source de chaleur, éteint le feu principalement par :",
+   "options": [
+    {
+     "id": "a",
+     "text": "refroidissement : abaissement de la température du combustible"
+    },
+    {
+     "id": "b",
+     "text": "suppression du combustible"
+    },
+    {
+     "id": "c",
+     "text": "étouffement : suppression du comburant (l'oxygène de l'air)"
+    },
+    {
+     "id": "d",
+     "text": "inhibition chimique de la réaction en chaîne"
+    }
+   ],
+   "correct": [
+    "c"
+   ],
+   "explanation": "Le couvercle isole les flammes de l'air : privé d'oxygène, le comburant, le feu s'éteint ; c'est l'extinction par étouffement. Couper la source de chaleur évite la reprise du feu. Le refroidissement est le mode d'action principal de l'eau, l'inhibition celui des poudres. Il ne faut surtout pas jeter d'eau sur de l'huile enflammée : vaporisée instantanément, elle projette l'huile en feu.",
+   "difficulty": "MEDIUM",
+   "topic_key": "spec.secourisme.feu",
+   "objective_key": "spec.secourisme.feu.o1",
+   "families": [
+    "protection-civile",
+    "police-gardien-paix",
+    "police-inspecteur",
+    "garde-nationale",
+    "prisons-reeducation",
+    "douane",
+    "armee-ecoles-militaires",
+    "enseignement-primaire",
+    "steg",
+    "tunisie-telecom",
+    "transport-aerien",
+    "administration-generale",
+    "collectivites-locales"
+   ],
+   "origin": "AI_GENERATED",
+   "source_key": null,
+   "year": null,
+   "valid_until": null,
+   "tags": [
+    "triangle-du-feu",
+    "procedes-extinction",
+    "etouffement"
+   ]
+  },
+  {
+   "id": "spec-secourisme-0027",
+   "type": "MATCHING",
+   "language": "fr",
+   "stem": "Selon la classification européenne des feux (norme EN 2), associez chaque classe au type de combustible concerné.",
+   "options": [
+    {
+     "id": "l1",
+     "text": "Classe A",
+     "side": "left"
+    },
+    {
+     "id": "l2",
+     "text": "Classe B",
+     "side": "left"
+    },
+    {
+     "id": "l3",
+     "text": "Classe C",
+     "side": "left"
+    },
+    {
+     "id": "l4",
+     "text": "Classe D",
+     "side": "left"
+    },
+    {
+     "id": "l5",
+     "text": "Classe F",
+     "side": "left"
+    },
+    {
+     "id": "r1",
+     "text": "Gaz (butane, propane, gaz naturel)",
+     "side": "right"
+    },
+    {
+     "id": "r2",
+     "text": "Solides, généralement d'origine organique, dont la combustion forme des braises (bois, papier, tissus)",
+     "side": "right"
+    },
+    {
+     "id": "r3",
+     "text": "Huiles et graisses de cuisson dans les appareils de cuisine",
+     "side": "right"
+    },
+    {
+     "id": "r4",
+     "text": "Métaux (magnésium, sodium, poudre d'aluminium)",
+     "side": "right"
+    },
+    {
+     "id": "r5",
+     "text": "Liquides ou solides liquéfiables (essence, gasoil, solvants, paraffine)",
+     "side": "right"
+    }
+   ],
+   "correct": {
+    "pairs": [
+     [
+      "l1",
+      "r2"
+     ],
+     [
+      "l2",
+      "r5"
+     ],
+     [
+      "l3",
+      "r1"
+     ],
+     [
+      "l4",
+      "r4"
+     ],
+     [
+      "l5",
+      "r3"
+     ]
+    ]
+   },
+   "explanation": "La norme EN 2 distingue les feux de solides formant des braises (A), de liquides ou de solides liquéfiables (B), de gaz (C), de métaux (D) et d'auxiliaires de cuisson (F). Elle ne prévoit pas de classe propre aux feux d'origine électrique : l'électricité est un risque dont on tient compte dans le choix de l'agent extincteur. Attention, la classification américaine (NFPA) est différente : sa classe C désigne les feux électriques.",
+   "difficulty": "MEDIUM",
+   "topic_key": "spec.secourisme.feu",
+   "objective_key": "spec.secourisme.feu.o2",
+   "families": [
+    "protection-civile",
+    "police-gardien-paix",
+    "police-inspecteur",
+    "garde-nationale",
+    "prisons-reeducation",
+    "douane",
+    "armee-ecoles-militaires",
+    "enseignement-primaire",
+    "steg",
+    "tunisie-telecom",
+    "transport-aerien",
+    "administration-generale",
+    "collectivites-locales"
+   ],
+   "origin": "AI_GENERATED",
+   "source_key": null,
+   "year": null,
+   "valid_until": null,
+   "tags": [
+    "classes-de-feux",
+    "norme-en-2"
+   ]
+  },
+  {
+   "id": "spec-secourisme-0028",
+   "type": "MCQ_SINGLE",
+   "language": "ar",
+   "stem": "اندلع حريق في غرفة، فانتقلت الحرارة عبر أنبوب معدني يخترق الجدار وأشعلت موادّ قابلة للاشتعال في الغرفة المجاورة. يُسمّى هذا النمط من انتقال الحرارة:",
+   "options": [
+    {
+     "id": "a",
+     "text": "الحمل الحراري (انتقال الحرارة مع الغازات الساخنة والدخان)"
+    },
+    {
+     "id": "b",
+     "text": "التوصيل الحراري"
+    },
+    {
+     "id": "c",
+     "text": "تساقط المواد المشتعلة وتطايرها"
+    },
+    {
+     "id": "d",
+     "text": "الإشعاع الحراري"
+    }
+   ],
+   "correct": [
+    "b"
+   ],
+   "explanation": "التوصيل هو انتقال الحرارة داخل المادة الصلبة نفسها، والمعادن موصلات جيدة، لذلك يمكن لأنبوب أو لعارضة حديدية أن تنقل الحريق إلى مكان آخر. أما الحمل الحراري فهو انتقال الحرارة بحركة الغازات الساخنة والدخان التي ترتفع وتنتشر عبر السلالم والأروقة. والإشعاع هو انتقال الحرارة عبر الفضاء على شكل أشعة دون وسيط مادي، كحرارة اللهب التي نحسّ بها عن بعد.",
+   "difficulty": "HARD",
+   "topic_key": "spec.secourisme.feu",
+   "objective_key": "spec.secourisme.feu.o3",
+   "families": [
+    "protection-civile",
+    "police-gardien-paix",
+    "police-inspecteur",
+    "garde-nationale",
+    "prisons-reeducation",
+    "douane",
+    "armee-ecoles-militaires",
+    "enseignement-primaire",
+    "steg",
+    "tunisie-telecom",
+    "transport-aerien",
+    "administration-generale",
+    "collectivites-locales"
+   ],
+   "origin": "AI_GENERATED",
+   "source_key": null,
+   "year": null,
+   "valid_until": null,
+   "tags": [
+    "propagation",
+    "conduction"
+   ]
+  },
+  {
+   "id": "spec-secourisme-0029",
+   "type": "TRUE_FALSE",
+   "language": "ar",
+   "stem": "في حرائق المساكن، يموت أغلب الضحايا بسبب استنشاق الدخان والغازات السامة أكثر ممّا يموتون بسبب الحروق المباشرة.",
+   "options": [
+    {
+     "id": "a",
+     "text": "صحيح"
+    },
+    {
+     "id": "b",
+     "text": "خطأ"
+    }
+   ],
+   "correct": [
+    "a"
+   ],
+   "explanation": "صحيح. يحتوي دخان الحريق على غازات سامة، أهمّها أول أكسيد الكربون وسيانيد الهيدروجين، إضافة إلى حرارته المرتفعة ونقص الأكسجين، فيفقد الضحايا وعيهم في دقائق قليلة قبل أن تصلهم النار. لذلك تركّز الوقاية على أجهزة كشف الدخان، وعلى التنقّل منحنيًا قرب الأرض حيث يكون الهواء أقل تلوثًا، وعلى غلق الأبواب للحدّ من انتشار الدخان.",
+   "difficulty": "MEDIUM",
+   "topic_key": "spec.secourisme.feu",
+   "objective_key": "spec.secourisme.feu.o3",
+   "families": [
+    "protection-civile",
+    "police-gardien-paix",
+    "police-inspecteur",
+    "garde-nationale",
+    "prisons-reeducation",
+    "douane",
+    "armee-ecoles-militaires",
+    "enseignement-primaire",
+    "steg",
+    "tunisie-telecom",
+    "transport-aerien",
+    "administration-generale",
+    "collectivites-locales"
+   ],
+   "origin": "AI_GENERATED",
+   "source_key": null,
+   "year": null,
+   "valid_until": null,
+   "tags": [
+    "fumees",
+    "intoxication"
+   ]
+  },
+  {
+   "id": "spec-secourisme-0030",
+   "type": "MCQ_SINGLE",
+   "language": "fr",
+   "stem": "Un mélange de vapeurs de solvant et d'air ne peut s'enflammer, en présence d'une source d'inflammation, que si la concentration en vapeurs :",
+   "options": [
+    {
+     "id": "a",
+     "text": "est comprise entre la limite inférieure d'explosivité (LIE) et la limite supérieure d'explosivité (LSE)"
+    },
+    {
+     "id": "b",
+     "text": "est inférieure à la LIE (mélange pauvre)"
+    },
+    {
+     "id": "c",
+     "text": "atteint exactement 21 %, comme l'oxygène de l'air"
+    },
+    {
+     "id": "d",
+     "text": "est supérieure à la LSE (mélange trop riche)"
+    }
+   ],
+   "correct": [
+    "a"
+   ],
+   "explanation": "En dessous de la LIE, le mélange est trop pauvre en combustible pour propager une flamme ; au-dessus de la LSE, il est trop riche et manque d'oxygène. Seul l'intervalle entre ces deux limites, appelé domaine d'explosivité (ou d'inflammabilité), permet l'inflammation. Un mélange trop riche n'est pas sans danger pour autant : en se diluant dans l'air (ouverture d'une porte, ventilation), il peut repasser dans ce domaine. Les 21 % correspondent à la teneur en oxygène de l'air, sans lien avec ces limites.",
+   "difficulty": "EXPERT",
+   "topic_key": "spec.secourisme.feu",
+   "objective_key": "spec.secourisme.feu.o3",
+   "families": [
+    "protection-civile",
+    "police-gardien-paix",
+    "police-inspecteur",
+    "garde-nationale",
+    "prisons-reeducation",
+    "douane",
+    "armee-ecoles-militaires",
+    "enseignement-primaire",
+    "steg",
+    "tunisie-telecom",
+    "transport-aerien",
+    "administration-generale",
+    "collectivites-locales"
+   ],
+   "origin": "AI_GENERATED",
+   "source_key": null,
+   "year": null,
+   "valid_until": null,
+   "tags": [
+    "explosivite",
+    "lie-lse",
+    "atex"
+   ]
+  },
+  {
+   "id": "spec-secourisme-0031",
+   "type": "MCQ_SINGLE",
+   "language": "ar",
+   "stem": "اشتعل الزيت في مقلاة داخل المطبخ. أيّ من التصرّفات التالية يُمنع منعًا باتًّا؟",
+   "options": [
+    {
+     "id": "a",
+     "text": "تغطية المقلاة بغطائها أو ببطانية إطفاء الحريق"
+    },
+    {
+     "id": "b",
+     "text": "سكب الماء على الزيت المشتعل"
+    },
+    {
+     "id": "c",
+     "text": "غلق مصدر الحرارة (الغاز أو الكهرباء) إن أمكن ذلك دون خطر"
+    },
+    {
+     "id": "d",
+     "text": "مغادرة المطبخ وغلق بابه وطلب النجدة إذا خرج الحريق عن السيطرة"
+    }
+   ],
+   "correct": [
+    "b"
+   ],
+   "explanation": "الماء أثقل من الزيت فيسقط إلى قاع المقلاة ويتبخّر فورًا بسبب الحرارة الشديدة، فيقذف الزيت المشتعل في كل اتجاه وتتكوّن كرة نارية خطيرة. أما غلق مصدر الحرارة وتغطية المقلاة فيحرمان النار من الحرارة ومن الأكسجين، وهما التصرّفان الصحيحان. وإذا اتّسع الحريق، وجبت مغادرة المكان وغلق الباب والاتصال بالحماية المدنية.",
+   "difficulty": "EASY",
+   "topic_key": "spec.secourisme.extincteurs",
+   "objective_key": "spec.secourisme.extincteurs.o1",
+   "families": [
+    "protection-civile",
+    "police-gardien-paix",
+    "police-inspecteur",
+    "garde-nationale",
+    "prisons-reeducation",
+    "douane",
+    "armee-ecoles-militaires",
+    "enseignement-primaire",
+    "steg",
+    "tunisie-telecom",
+    "transport-aerien",
+    "administration-generale",
+    "collectivites-locales"
+   ],
+   "origin": "AI_GENERATED",
+   "source_key": null,
+   "year": null,
+   "valid_until": null,
+   "tags": [
+    "agent-extincteur",
+    "feu-de-cuisson",
+    "classe-f"
+   ]
+  },
+  {
+   "id": "spec-secourisme-0032",
+   "type": "MCQ_SINGLE",
+   "language": "fr",
+   "stem": "Un début d'incendie se déclare dans une armoire électrique sous tension, dans un bureau. Parmi les extincteurs suivants, lequel est le plus adapté ?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Extincteur à dioxyde de carbone (CO2)"
+    },
+    {
+     "id": "b",
+     "text": "Extincteur à poudre spéciale pour feux de métaux (classe D)"
+    },
+    {
+     "id": "c",
+     "text": "Extincteur à mousse"
+    },
+    {
+     "id": "d",
+     "text": "Extincteur à eau pulvérisée sans additif"
+    }
+   ],
+   "correct": [
+    "a"
+   ],
+   "explanation": "Le CO2 n'est pas conducteur et ne laisse aucun résidu : c'est l'agent privilégié pour les équipements électriques et électroniques sous tension. L'eau et la mousse, conductrices, exposent l'utilisateur à un risque d'électrisation, sauf extincteurs à eau ayant passé l'essai diélectrique, dans les limites de tension indiquées sur l'étiquette. La poudre D est réservée aux feux de métaux. Dans tous les cas, on coupe si possible le courant avant d'intervenir.",
+   "difficulty": "MEDIUM",
+   "topic_key": "spec.secourisme.extincteurs",
+   "objective_key": "spec.secourisme.extincteurs.o1",
+   "families": [
+    "protection-civile",
+    "police-gardien-paix",
+    "police-inspecteur",
+    "garde-nationale",
+    "prisons-reeducation",
+    "douane",
+    "armee-ecoles-militaires",
+    "enseignement-primaire",
+    "steg",
+    "tunisie-telecom",
+    "transport-aerien",
+    "administration-generale",
+    "collectivites-locales"
+   ],
+   "origin": "AI_GENERATED",
+   "source_key": null,
+   "year": null,
+   "valid_until": null,
+   "tags": [
+    "agent-extincteur",
+    "co2",
+    "risque-electrique"
+   ]
+  },
+  {
+   "id": "spec-secourisme-0033",
+   "type": "ORDERING",
+   "language": "fr",
+   "stem": "Remettez dans l'ordre les étapes d'utilisation d'un extincteur portatif à pression permanente (méthode dite « PASS ») :",
+   "options": [
+    {
+     "id": "a",
+     "text": "Diriger la lance ou le diffuseur vers la base des flammes"
+    },
+    {
+     "id": "b",
+     "text": "Retirer la goupille de sécurité"
+    },
+    {
+     "id": "c",
+     "text": "Balayer la base du feu d'un mouvement de va-et-vient"
+    },
+    {
+     "id": "d",
+     "text": "Presser la poignée (le levier) de commande"
+    }
+   ],
+   "correct": {
+    "order": [
+     "b",
+     "a",
+     "d",
+     "c"
+    ]
+   },
+   "explanation": "La méthode PASS (Pull, Aim, Squeeze, Sweep) résume l'ordre logique : on retire la goupille, on vise la base des flammes, on presse le levier, puis on balaie la base du feu. Viser la base est essentiel, car c'est là que se trouve le combustible qui brûle ; diriger le jet vers le haut des flammes gaspille l'agent extincteur. Pour un extincteur à pression auxiliaire, il faut en outre percuter la cartouche de gaz après avoir retiré la goupille, comme l'indique l'étiquette.",
+   "difficulty": "MEDIUM",
+   "topic_key": "spec.secourisme.extincteurs",
+   "objective_key": "spec.secourisme.extincteurs.o2",
+   "families": [
+    "protection-civile",
+    "police-gardien-paix",
+    "police-inspecteur",
+    "garde-nationale",
+    "prisons-reeducation",
+    "douane",
+    "armee-ecoles-militaires",
+    "enseignement-primaire",
+    "steg",
+    "tunisie-telecom",
+    "transport-aerien",
+    "administration-generale",
+    "collectivites-locales"
+   ],
+   "origin": "AI_GENERATED",
+   "source_key": null,
+   "year": null,
+   "valid_until": null,
+   "tags": [
+    "utilisation-extincteur",
+    "pass"
+   ]
+  },
+  {
+   "id": "spec-secourisme-0034",
+   "type": "MCQ_MULTI",
+   "language": "ar",
+   "stem": "أيّ من الاحتياطات أو الملاحظات التالية صحيحة عند استعمال طفاية ثاني أكسيد الكربون (CO2)؟ (اختر كل الإجابات الصحيحة)",
+   "options": [
+    {
+     "id": "a",
+     "text": "عدم الإمساك بالقمع (البوق) باليد مباشرة لأنه يبرد بشدة أثناء التفريغ وقد يسبّب حروقًا بالبرودة"
+    },
+    {
+     "id": "b",
+     "text": "الحذر من استعمالها في مكان ضيّق ومغلق لخطر الاختناق، ثم تهوية المكان بعد الإطفاء"
+    },
+    {
+     "id": "c",
+     "text": "فعاليتها محدودة على حرائق المواد الصلبة (الصنف A) لأن الجمر قد يعاود الاشتعال"
+    },
+    {
+     "id": "d",
+     "text": "تترك طبقة من المسحوق تُتلف الأجهزة الإلكترونية"
+    }
+   ],
+   "correct": [
+    "a",
+    "b",
+    "c"
+   ],
+   "explanation": "يتمدّد غاز CO2 عند خروجه فتنخفض حرارته بشدة (تتكوّن «ثلوج كربونية» قرب 78 درجة تحت الصفر)، لذلك يُمسك القمع من مقبضه فقط. وهو يطفئ أساسًا بالخنق أي بإزاحة الأكسجين، مما يجعله خطرًا على المستعمل في الأماكن الضيقة غير المهوّاة. ولأن تبريده محدود ولا يبقى على المادة المحترقة، قد تعاود النار الاشتعال من جمر حرائق الصنف A. أما ترك البقايا فهو عيب طفايات المسحوق، بينما لا يترك CO2 أي أثر، ولهذا يُفضَّل للأجهزة الكهربائية.",
+   "difficulty": "HARD",
+   "topic_key": "spec.secourisme.extincteurs",
+   "objective_key": "spec.secourisme.extincteurs.o2",
+   "families": [
+    "protection-civile",
+    "police-gardien-paix",
+    "police-inspecteur",
+    "garde-nationale",
+    "prisons-reeducation",
+    "douane",
+    "armee-ecoles-militaires",
+    "enseignement-primaire",
+    "steg",
+    "tunisie-telecom",
+    "transport-aerien",
+    "administration-generale",
+    "collectivites-locales"
+   ],
+   "origin": "AI_GENERATED",
+   "source_key": null,
+   "year": null,
+   "valid_until": null,
+   "tags": [
+    "co2",
+    "utilisation-extincteur",
+    "securite-intervenant"
+   ]
+  },
+  {
+   "id": "spec-secourisme-0035",
+   "type": "TRUE_FALSE",
+   "language": "fr",
+   "stem": "Lorsqu'on attaque un début d'incendie avec un extincteur dans un local, il faut se placer de manière à garder la sortie (le chemin de repli) derrière soi.",
+   "options": [
+    {
+     "id": "a",
+     "text": "Vrai"
+    },
+    {
+     "id": "b",
+     "text": "Faux"
+    }
+   ],
+   "correct": [
+    "a"
+   ],
+   "explanation": "Vrai. Si l'extincteur ne suffit pas à éteindre le feu, l'intervenant doit pouvoir se replier immédiatement sans traverser les flammes ni la fumée. Il ne faut jamais se laisser enfermer entre le feu et le fond du local. En extérieur, on attaque le feu dos au vent, pour que les flammes, la chaleur et l'agent extincteur ne se rabattent pas sur soi.",
+   "difficulty": "MEDIUM",
+   "topic_key": "spec.secourisme.extincteurs",
+   "objective_key": "spec.secourisme.extincteurs.o2",
+   "families": [
+    "protection-civile",
+    "police-gardien-paix",
+    "police-inspecteur",
+    "garde-nationale",
+    "prisons-reeducation",
+    "douane",
+    "armee-ecoles-militaires",
+    "enseignement-primaire",
+    "steg",
+    "tunisie-telecom",
+    "transport-aerien",
+    "administration-generale",
+    "collectivites-locales"
+   ],
+   "origin": "AI_GENERATED",
+   "source_key": null,
+   "year": null,
+   "valid_until": null,
+   "tags": [
+    "utilisation-extincteur",
+    "securite-intervenant"
+   ]
+  },
+  {
+   "id": "spec-secourisme-0036",
+   "type": "MCQ_SINGLE",
+   "language": "ar",
+   "stem": "عند سماع إنذار الحريق في بناية إدارية والدخان يملأ جزءًا من الطابق، ما التصرّف الصحيح للإخلاء؟",
+   "options": [
+    {
+     "id": "a",
+     "text": "العودة إلى المكتب لجمع الوثائق والأغراض الشخصية قبل المغادرة"
+    },
+    {
+     "id": "b",
+     "text": "استعمال المصعد لأنه أسرع وسيلة لمغادرة المبنى"
+    },
+    {
+     "id": "c",
+     "text": "استعمال السلالم وعدم استعمال المصعد، والتنقّل منحنيًا إذا وُجد دخان، وغلق الأبواب خلفك، والتوجّه إلى نقطة التجمّع"
+    },
+    {
+     "id": "d",
+     "text": "فتح كل النوافذ والأبواب لتهوية الطابق قبل المغادرة"
+    }
+   ],
+   "correct": [
+    "c"
+   ],
+   "explanation": "قد يتعطّل المصعد بسبب انقطاع الكهرباء أو يتحوّل بئره إلى مدخنة تجمع الدخان، لذلك يُمنع استعماله أثناء الحريق. والتنقّل منحنيًا يسمح بتنفّس هواء أقلّ حرارة وتلوثًا لأن الدخان يرتفع إلى الأعلى، وغلق الأبواب يحدّ من انتشار النار والدخان. أما فتح النوافذ والأبواب فيزوّد النار بالأكسجين ويسرّع انتشارها، والعودة لجمع الأغراض تضيّع وقتًا ثمينًا.",
+   "difficulty": "EASY",
+   "topic_key": "spec.secourisme.prevention",
+   "objective_key": "spec.secourisme.prevention.o2",
+   "families": [
+    "protection-civile",
+    "police-gardien-paix",
+    "police-inspecteur",
+    "garde-nationale",
+    "prisons-reeducation",
+    "douane",
+    "armee-ecoles-militaires",
+    "enseignement-primaire",
+    "steg",
+    "tunisie-telecom",
+    "transport-aerien",
+    "administration-generale",
+    "collectivites-locales"
+   ],
+   "origin": "AI_GENERATED",
+   "source_key": null,
+   "year": null,
+   "valid_until": null,
+   "tags": [
+    "evacuation",
+    "incendie",
+    "fumees"
+   ]
+  },
+  {
+   "id": "spec-secourisme-0037",
+   "type": "MCQ_SINGLE",
+   "language": "fr",
+   "stem": "En rentrant chez vous, vous sentez une forte odeur de gaz dans la cuisine. Quelle est la bonne conduite ?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Rechercher la fuite à l'aide d'un briquet"
+    },
+    {
+     "id": "b",
+     "text": "Allumer la lumière pour localiser la fuite"
+    },
+    {
+     "id": "c",
+     "text": "Ne toucher à aucun interrupteur ni appareil électrique, ne faire aucune flamme, fermer le robinet de gaz, aérer, sortir et alerter depuis l'extérieur"
+    },
+    {
+     "id": "d",
+     "text": "Rester dans la cuisine, porte fermée, et appeler les secours depuis votre téléphone"
+    }
+   ],
+   "correct": [
+    "c"
+   ],
+   "explanation": "Le gaz accumulé dans un local peut former avec l'air un mélange explosif : la moindre étincelle (interrupteur, sonnette, appareil électrique) ou flamme suffit à provoquer une explosion. Il faut donc supprimer toute source d'inflammation, couper l'arrivée de gaz, ventiler et quitter les lieux avant d'appeler les secours depuis l'extérieur. Une fuite se recherche à l'eau savonneuse, jamais avec une flamme.",
+   "difficulty": "MEDIUM",
+   "topic_key": "spec.secourisme.prevention",
+   "objective_key": "spec.secourisme.prevention.o2",
+   "families": [
+    "protection-civile",
+    "police-gardien-paix",
+    "police-inspecteur",
+    "garde-nationale",
+    "prisons-reeducation",
+    "douane",
+    "armee-ecoles-militaires",
+    "enseignement-primaire",
+    "steg",
+    "tunisie-telecom",
+    "transport-aerien",
+    "administration-generale",
+    "collectivites-locales"
+   ],
+   "origin": "AI_GENERATED",
+   "source_key": null,
+   "year": null,
+   "valid_until": null,
+   "tags": [
+    "gaz",
+    "risque-domestique",
+    "explosion"
+   ]
+  },
+  {
+   "id": "spec-secourisme-0038",
+   "type": "MCQ_SINGLE",
+   "language": "ar",
+   "stem": "في فصل الشتاء، شعر أفراد عائلة بصداع ودوار وغثيان في غرفة مغلقة تُدفّأ بكانون فحم. أيّ عبارة صحيحة بخصوص الغاز المتسبّب على الأرجح في هذه الأعراض؟",
+   "options": [
+    {
+     "id": "a",
+     "text": "إنه غاز ذو رائحة قوية تنبّه الأشخاص فورًا، فلا يشكّل خطرًا أثناء النوم"
+    },
+    {
+     "id": "b",
+     "text": "إنه غاز غير سام لا يسبّب سوى صداع بسيط يزول تلقائيًا"
+    },
+    {
+     "id": "c",
+     "text": "إنه أول أكسيد الكربون: غاز عديم اللون والرائحة ينتج عن الاحتراق غير الكامل، ويمنع نقل الأكسجين بارتباطه بالهيموغلوبين"
+    },
+    {
+     "id": "d",
+     "text": "إنه ثاني أكسيد الكربون، ويكفي لمعالجة التسمّم به شرب كوب من الحليب"
+    }
+   ],
+   "correct": [
+    "c"
+   ],
+   "explanation": "أول أكسيد الكربون غاز سام عديم اللون والرائحة، ينبعث من الاحتراق غير الكامل للفحم أو الغاز أو الحطب في مكان سيئ التهوية (كانون، سخّان ماء، مدفأة). يرتبط بالهيموغلوبين بقوة أكبر بكثير من الأكسجين فيمنع نقله إلى الأعضاء، وقد يؤدّي إلى فقدان الوعي والوفاة، خاصة أثناء النوم. يجب فورًا تهوية المكان وإخراج الأشخاص وطلب النجدة؛ أما شرب الحليب فاعتقاد شائع لا أساس علمي له.",
+   "difficulty": "HARD",
+   "topic_key": "spec.secourisme.prevention",
+   "objective_key": "spec.secourisme.prevention.o2",
+   "families": [
+    "protection-civile",
+    "police-gardien-paix",
+    "police-inspecteur",
+    "garde-nationale",
+    "prisons-reeducation",
+    "douane",
+    "armee-ecoles-militaires",
+    "enseignement-primaire",
+    "steg",
+    "tunisie-telecom",
+    "transport-aerien",
+    "administration-generale",
+    "collectivites-locales"
+   ],
+   "origin": "AI_GENERATED",
+   "source_key": null,
+   "year": null,
+   "valid_until": null,
+   "tags": [
+    "monoxyde-de-carbone",
+    "intoxication",
+    "risque-domestique"
+   ]
+  },
+  {
+   "id": "spec-secourisme-0039",
+   "type": "MCQ_SINGLE",
+   "language": "fr",
+   "stem": "En prévention des risques professionnels, quelle définition correspond le mieux à la notion de « risque », par opposition à celle de « danger » ?",
+   "options": [
+    {
+     "id": "a",
+     "text": "L'ensemble des équipements de protection individuelle mis à la disposition des salariés"
+    },
+    {
+     "id": "b",
+     "text": "La combinaison de la probabilité qu'un dommage survienne, du fait de l'exposition à un danger, et de la gravité de ce dommage"
+    },
+    {
+     "id": "c",
+     "text": "L'accident du travail effectivement survenu et déclaré"
+    },
+    {
+     "id": "d",
+     "text": "La propriété intrinsèque d'un produit, d'un équipement ou d'une situation susceptible de causer un dommage"
+    }
+   ],
+   "correct": [
+    "b"
+   ],
+   "explanation": "Le danger est la propriété intrinsèque d'une chose ou d'une situation pouvant causer un dommage (un produit corrosif, une machine tournante) : c'est la définition par la « propriété intrinsèque », qui est un piège classique. Le risque n'existe que si une personne est exposée à ce danger ; on l'évalue en combinant la probabilité de survenue du dommage et sa gravité. Ainsi, un produit très dangereux stocké dans un local fermé où personne n'entre présente un risque faible. Réduire le risque consiste à agir sur l'exposition, la probabilité ou la gravité, en priorité en supprimant le danger à la source.",
+   "difficulty": "EXPERT",
+   "topic_key": "spec.secourisme.prevention",
+   "objective_key": "spec.secourisme.prevention.o1",
+   "families": [
+    "protection-civile",
+    "police-gardien-paix",
+    "police-inspecteur",
+    "garde-nationale",
+    "prisons-reeducation",
+    "douane",
+    "armee-ecoles-militaires",
+    "enseignement-primaire",
+    "steg",
+    "tunisie-telecom",
+    "transport-aerien",
+    "administration-generale",
+    "collectivites-locales"
+   ],
+   "origin": "AI_GENERATED",
+   "source_key": null,
+   "year": null,
+   "valid_until": null,
+   "tags": [
+    "danger-risque",
+    "prevention",
+    "evaluation-risques"
+   ]
+  },
+  {
+   "id": "spec-secourisme-0040",
+   "type": "MATCHING",
+   "language": "ar",
+   "stem": "حسب المعيار الدولي لعلامات السلامة (ISO 7010)، اربط كل لون من ألوان العلامات بمعناه.",
+   "options": [
+    {
+     "id": "l1",
+     "text": "الأخضر",
+     "side": "left"
+    },
+    {
+     "id": "l2",
+     "text": "الأحمر",
+     "side": "left"
+    },
+    {
+     "id": "l3",
+     "text": "الأزرق",
+     "side": "left"
+    },
+    {
+     "id": "l4",
+     "text": "الأصفر",
+     "side": "left"
+    },
+    {
+     "id": "r1",
+     "text": "إلزام (مثال: وجوب ارتداء الخوذة أو القفازات)",
+     "side": "right"
+    },
+    {
+     "id": "r2",
+     "text": "تحذير من خطر (مثال: خطر كهربائي)",
+     "side": "right"
+    },
+    {
+     "id": "r3",
+     "text": "حالة آمنة: مخارج النجدة وطرق الإخلاء ومعدّات الإسعاف",
+     "side": "right"
+    },
+    {
+     "id": "r4",
+     "text": "منع، أو تحديد مكان معدّات مكافحة الحريق (طفاية، خرطوم)",
+     "side": "right"
+    }
+   ],
+   "correct": {
+    "pairs": [
+     [
+      "l1",
+      "r3"
+     ],
+     [
+      "l2",
+      "r4"
+     ],
+     [
+      "l3",
+      "r1"
+     ],
+     [
+      "l4",
+      "r2"
+     ]
+    ]
+   },
+   "explanation": "تعتمد علامات السلامة نظامًا موحّدًا للألوان والأشكال: الأخضر (مستطيل أو مربّع) للحالات الآمنة كمخارج النجدة وصناديق الإسعاف، والأحمر للمنع (دائرة مشطوبة) ولتحديد معدّات مكافحة الحريق، والأزرق (دائرة) للإلزام، والأصفر (مثلّث) للتحذير. ومعرفة هذه الدلالات تسمح بالعثور بسرعة على طرق الإخلاء والطفايات عند وقوع حادث.",
+   "difficulty": "MEDIUM",
+   "topic_key": "spec.secourisme.prevention",
+   "objective_key": "spec.secourisme.prevention.o1",
+   "families": [
+    "protection-civile",
+    "police-gardien-paix",
+    "police-inspecteur",
+    "garde-nationale",
+    "prisons-reeducation",
+    "douane",
+    "armee-ecoles-militaires",
+    "enseignement-primaire",
+    "steg",
+    "tunisie-telecom",
+    "transport-aerien",
+    "administration-generale",
+    "collectivites-locales"
+   ],
+   "origin": "AI_GENERATED",
+   "source_key": null,
+   "year": null,
+   "valid_until": null,
+   "tags": [
+    "signalisation",
+    "iso-7010",
+    "prevention"
+   ]
+  }
+ ]
+}
